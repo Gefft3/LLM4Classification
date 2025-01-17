@@ -1,0 +1,342 @@
+<html lang="pt"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="53rZ9DgIDBn6zyH6veOZ6CTG26gOv1DqYVuBduMh">
+    <title>Jornal Destaque Catarina</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.destaquecatarina.com.br/v2/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.destaquecatarina.com.br/v2/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.destaquecatarina.com.br/v2/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.destaquecatarina.com.br/v2/images/favicon/site.webmanifest">
+
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+    <link href="https://www.destaquecatarina.com.br/v2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://www.destaquecatarina.com.br/v2/css/styles.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    </head>
+<body>
+    <div id="app">
+        <header id="header">
+    <div id="nav">
+        <div id="nav-fixed">
+            <div class="container">
+                <div class="nav-logo">
+                    <a href="https://www.destaquecatarina.com.br/v2" class="logo">
+                        <img src="https://www.destaquecatarina.com.br/v2/images/logo.png" alt="Jornal Destaque Catarina">
+                    </a>
+                </div>
+
+                <div class="nav-container">
+                    <ul class="nav-menu">
+                        <li><a href="https://www.destaquecatarina.com.br/v2">Início</a></li>
+                        <li><a href="https://www.destaquecatarina.com.br/v2/advertisement">Anúncios</a></li>
+                        <li><a href="https://www.destaquecatarina.com.br/v2/news/category/all">Notícias</a></li>
+                        <li><a href="https://www.destaquecatarina.com.br/v2/contact">Contato</a></li>
+                    </ul>
+    
+                    <div class="nav-btns d-block d-sm-none">
+                        <button class="aside-btn"><i class="fa fa-bars"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="nav-aside">
+            <div class="section-row">
+                <ul class="nav-aside-menu">
+                    <li><a href="https://www.destaquecatarina.com.br/v2">Início</a></li>
+                    <li><a href="https://www.destaquecatarina.com.br/v2/advertisement">Anúncios</a></li>
+                    <li><a href="https://www.destaquecatarina.com.br/v2/news/category/all">Notícias</a></li>
+                    <li><a href="https://www.destaquecatarina.com.br/v2/contact">Contato</a></li>
+                </ul>
+            </div>
+
+            <div class="section-row mt-20">
+                <ul class="nav-aside-social">
+                    <li>
+                        <a href="https://www.facebook.com/people/Jornal-Destaque-Catarina/100069363105935/" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </li>
+                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                </ul>
+            </div>
+            <button class="nav-aside-close"><i class="fa fa-times"></i></button>
+        </div>
+    </div>
+</header>
+        <main class="py-4">
+            <div class="section">
+    <div class="container">
+        
+        <div class="row mt-40">
+            <div class="col-md-8">
+                <div class="main-post">
+                    <div class="col-12">
+                        <h2>EPIDEMIA DA DENGUE AVANÇA E PREOCUPA MUNDIALMENTE</h2>
+                        <div class="col-12 post-informations">
+                            <small>Publicado em 29/11/2023</small>
+                                                            <small>Autoria <strong>Destaque Catarina</strong></small>
+                                                    </div>
+                        <div class="col-12 post-social-media">
+                            <div class="col-sm-12 col-md-6">
+                                <div id="social-links"><ul><li><a href="https://www.facebook.com/sharer/sharer.php?u=Olá, veja a notícia que encontrei no Jornal Destaque Catarina, *EPIDEMIA DA DENGUE AVANÇA E PREOCUPA MUNDIALMENTE*: https://www.destaquecatarina.com.br/v2/news/show/9059-epidemia-da-dengue-avanca-e-preocupa-mundialmente" class="social-button " id="" title="" rel=""><span class="fa fa-facebook-square"></span></a></li><li><a href="https://twitter.com/intent/tweet?text=Default+share+text&amp;url=Olá, veja a notícia que encontrei no Jornal Destaque Catarina, *EPIDEMIA DA DENGUE AVANÇA E PREOCUPA MUNDIALMENTE*: https://www.destaquecatarina.com.br/v2/news/show/9059-epidemia-da-dengue-avanca-e-preocupa-mundialmente" class="social-button " id="" title="" rel=""><span class="fa fa-twitter"></span></a></li><li><a target="_blank" href="https://telegram.me/share/url?url=Olá, veja a notícia que encontrei no Jornal Destaque Catarina, *EPIDEMIA DA DENGUE AVANÇA E PREOCUPA MUNDIALMENTE*: https://www.destaquecatarina.com.br/v2/news/show/9059-epidemia-da-dengue-avanca-e-preocupa-mundialmente&amp;text=Default+share+text" class="social-button " id="" title="" rel=""><span class="fa fa-telegram"></span></a></li><li><a target="_blank" href="https://wa.me/?text=Olá, veja a notícia que encontrei no Jornal Destaque Catarina, *EPIDEMIA DA DENGUE AVANÇA E PREOCUPA MUNDIALMENTE*: https://www.destaquecatarina.com.br/v2/news/show/9059-epidemia-da-dengue-avanca-e-preocupa-mundialmente" class="social-button " id="" title="" rel=""><span class="fa fa-whatsapp"></span></a></li></ul></div>
+                            </div>
+                        </div>
+                        <div>
+                            <p class="content"></p><p>A epidemia da Degue vem se alastrando em vários continentes.  Muitos países tanto na África do Sul; China; Rússia; Brasil, dentre diversos outros países, a situação é muito preocupante.  No país africano de Burkina Faso, por exemplo, já são somados mais de 450 mortes por dengue somente neste ano de 2023, sendo que o número de infectados pelo mosquito transmissor da Degue, somam-se mais de 46.000 mil pessoas.  Na Rússia e na China, a Dengue vem exigindo também medidas drásticas sob ações de manter o controle da epidemia.  Enquanto isto, no Brasil, onde as constante chuvas que atingem várias regiões do país, especialmente na região Sul e Sudeste; autoridades ligadas à Vigilância Sanitária já analisam como sendo preocupantes a situação em relação ao aumento do número de casos de pessoas infectadas pelo mosquito da Dengue. </p><p><br></p><p> 
+
+Há um grande desafio para as autoridades da Saúde em fiscalizar áreas sensíveis e vulneráveis como possíveis pontos de criadouros de larvas do mosquito da Dengue. Esse trabalho exige fundamentalmente o apoio  de toda a população para que evite manter expostos recipientes com água  e ou terrenos  baldios e que possam haver condições propícias para surgimento de larvas do mosquito da Dengue. Isto inclui, locais com acumulo de lixo e que são também favoráveis para água da chuva parada e consequentemente, também ser locais ideais para para o surgimento de larvas do mosquito da Dengue. Amplas campanhas de prevenção, orientação à população são necessárias para evitar o avanço da epidemia da Dengue em todo mundo.            </p><p></p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 news-images-div text-center">
+                                                    <div id="5392" class="news-image">
+                                                                    <img src="https://www.destaquecatarina.com.br/v2/images/news/202311/gIZIssYSy0GymlOsrs8XPmsltF94ADkGFjd1ChaO.jpg" alt="">
+                                                            </div>
+                                            </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 offset-md-1">
+                <div class="section-title">
+                    <h2>Mais notícias</h2>
+                </div>
+                
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">11/01/2025</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9698-eua-pela-primeira-vez-na-sua-historia-tem-presidente-criminoso-condenado-pela-justica">
+                EUA  PELA PRIMEIRA VEZ NA SUA HISTÓRIA  TEM PRESIDENTE CRIMINOSO CONDENADO...
+            </a>
+        </h3>
+    </div>
+</div>
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">08/01/2025</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9692-trump-ameaca-invadir-o-canada-e-retomar-o-canal-do-panama">
+                TRUMP AMEAÇA INVADIR O CANADÁ E RETOMAR O CANAL DO PANAMÁ
+            </a>
+        </h3>
+    </div>
+</div>
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">05/01/2025</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9689-juiz-mantem-condenacao-de-trump-e-agenda-sentenca-para-dia-1001">
+                JUIZ MANTÉM CONDENAÇÃO DE TRUMP E AGENDA SENTENÇA PARA DIA 10/01
+            </a>
+        </h3>
+    </div>
+</div>
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">02/01/2025</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9687-israel-amplia-genocidio-em-gaza-nem-bebes-escapam-da-morte">
+                ISRAEL AMPLIA GENOCÍDIO EM GAZA. NEM BEBÊS  ESCAPAM DA MORTE
+            </a>
+        </h3>
+    </div>
+</div>
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">01/01/2025</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9686-mundo-ataque-terrorista-nos-eua-mata-10-e-fere-35-pessoas">
+                MUNDO: ATAQUE TERRORISTA NOS EUA MATA 10 E FERE 35 PESSOAS
+            </a>
+        </h3>
+    </div>
+</div>
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">29/12/2024</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9682-aviao-cai-na-coreia-do-sul-com-181-pessoas-a-bordo">
+                AVIÃO CAI NA COREIA DO SUL COM 181 PESSOAS A BORDO
+            </a>
+        </h3>
+    </div>
+</div>
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">28/12/2024</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9680-previsoes-para-2025-segundo-vidente-brasileiro">
+                PREVISÕES PARA 2025, SEGUNDO VIDENTE BRASILEIRO
+            </a>
+        </h3>
+    </div>
+</div>
+                                                        
+                    <div class="post">
+    <div class="post-body">
+        <div class="post-meta">
+            <span class="post-date">27/12/2024</span>
+        </div>
+        <h3 class="post-title">
+            <a href="https://www.destaquecatarina.com.br/v2/news/show/9677-ataque-israelense-em-gaza-em-pleno-natal-mata-cinco-jornalistas">
+                ATAQUE ISRAELENSE  EM GAZA EM PLENO NATAL  MATA  CINCO JORNALISTAS
+            </a>
+        </h3>
+    </div>
+</div>
+                            </div>
+        </div>
+
+    </div>
+</div>
+        </main>
+    </div>
+    <footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="footer-widget">
+                    <ul class="footer-nav">
+                        <li><a href="https://www.destaquecatarina.com.br/v2/policy">Política e Privacidade</a></li>
+                        <li><a href="https://www.destaquecatarina.com.br/v2/advertisement">Anúncios</a></li>
+                    </ul>
+                    <ul class="footer-social">
+                        <li>
+                            <a href="https://www.facebook.com/people/Jornal-Destaque-Catarina/100069363105935/" target="_blank">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/destaqcatarina" target="_blank">
+                                <i class="fa fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                    <div class="footer-copyright">
+                        <span>© Copyright © 2023</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+    <link rel="stylesheet" href="https://www.destaquecatarina.com.br/v2/css/cookies/cookie-consent.css">
+
+<div class="d-flex justify-content-center container-fluid js-cookie-consent cookie-consent">
+    <div class="d-flex flex-row justify-content-between align-items-center card cookie p-3">
+        <div class="d-flex flex-row align-items-center">
+            <div>
+                <span class="pr-3">
+                    Utilizamos cookies para armazenar dados temporarios e melhorar a sua experiência de navegação no site. Ao continuar navegando, você concorda com as condições.
+                    <a class="learn-more" href="https://www.destaquecatarina.com.br/v2/policy">Saiba mais</a>
+                </span>
+            </div>
+        </div>
+        <div class="d-flex flex-row align-items-center text-center">
+            <button class="btn btn-dark js-cookie-consent-agree cookie-consent__agree" type="button">
+                Aceitar
+            </button>
+        </div>
+    </div>
+</div>
+
+    <script>
+
+        window.laravelCookieConsent = (function () {
+
+            const COOKIE_VALUE = 1;
+            const COOKIE_DOMAIN = "www.destaquecatarina.com.br";
+
+            function consentWithCookies() {
+                setCookie("laravel_cookie_consent", COOKIE_VALUE, "7300");
+                hideCookieDialog();
+            }
+
+            function cookieExists(name) {
+                return (document.cookie.split('; ').indexOf(`${name}=${COOKIE_VALUE}`) !== -1);
+            }
+
+            function hideCookieDialog() {
+                $('.js-cookie-consent').remove();
+            }
+
+            function setCookie(name, value, expirationInDays) {
+                const date = new Date();
+                date.setTime(date.getTime() + (expirationInDays * 24 * 60 * 60 * 1000));
+                document.cookie = name + '=' + value
+                    + ';expires=' + date.toUTCString()
+                    + ';domain=' + COOKIE_DOMAIN
+                    + ';path=/'
+                    + ';samesite=lax';
+            }
+
+            if (cookieExists("laravel_cookie_consent")) {
+                hideCookieDialog();
+            }
+
+            const buttons = document.getElementsByClassName('js-cookie-consent-agree');
+
+            for (let i = 0; i < buttons.length; ++i) {
+                buttons[i].addEventListener('click', consentWithCookies);
+            }
+
+            return {consentWithCookies, hideCookieDialog };
+        })();
+    </script>
+
+    
+    <script src="https://www.destaquecatarina.com.br/v2/js/jquery.min.js"></script>
+    <script src="https://www.destaquecatarina.com.br/v2/js/main.js"></script>
+    <script src="https://www.destaquecatarina.com.br/v2/js/bootstrap.min.js"></script>
+
+        <script src="https://www.destaquecatarina.com.br/v2/js/swal/sweetalert2@11.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.news-image-thumb').on('click', function () {
+                const id = $(this).attr('id');
+                const image_element = $(this).find('img')
+                
+                const description = image_element.attr('longdesc') ? `${image_element.attr('longdesc')}<br />` : '';
+                const authorship = image_element.attr('alt') ? `<br />Autoria: ${image_element.attr('alt')}` : '';
+
+                Swal.fire({
+                    imageUrl: image_element.attr('src'),
+                    html: `${description}${authorship}`,
+                    imageWidth: 800,
+                    imageHeight: 480,
+                    width: 600,
+                    padding: '3em',
+                    confirmButtonText: 'Fechar',
+                })
+            })
+        });
+    </script>
+
+</body></html>

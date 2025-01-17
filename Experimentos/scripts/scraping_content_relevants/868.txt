@@ -1,0 +1,2977 @@
+<html lang="pt-PT"><head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="google-site-verification" content="raNbbdHofTml3Ec4Z7zySdv8CkhhI9v7n6qGzhQ6PBA">
+<link rel="icon" type="image/png" href="/wp-content/uploads/2015/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/svg+xml" href="/wp-content/uploads/2015/favicon.svg">
+<link rel="shortcut icon" href="/wp-content/uploads/2015/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/2015/apple-touch-icon.png">
+<link rel="manifest" href="/wp-content/uploads/2015/site.webmanifest">
+        <!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async="true">
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.inmobi.com'
+    .concat('/choice/', 'TuBbNGU0HZpc_', '/', host, '/choice.js?tag_version=V3');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = Object.assign(args[3], { tag_version: 'V3' });
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  function makeGppStub() {
+    const CMP_ID = 10;
+    const SUPPORTED_APIS = [
+      '2:tcfeuv2',
+      '6:uspv1',
+      '7:usnatv1',
+      '8:usca',
+      '9:usvav1',
+      '10:uscov1',
+      '11:usutv1',
+      '12:usctv1'
+    ];
+
+    window.__gpp_addFrame = function (n) {
+      if (!window.frames[n]) {
+        if (document.body) {
+          var i = document.createElement("iframe");
+          i.style.cssText = "display:none";
+          i.name = n;
+          document.body.appendChild(i);
+        } else {
+          window.setTimeout(window.__gpp_addFrame, 10, n);
+        }
+      }
+    };
+    window.__gpp_stub = function () {
+      var b = arguments;
+      __gpp.queue = __gpp.queue || [];
+      __gpp.events = __gpp.events || [];
+
+      if (!b.length || (b.length == 1 && b[0] == "queue")) {
+        return __gpp.queue;
+      }
+
+      if (b.length == 1 && b[0] == "events") {
+        return __gpp.events;
+      }
+
+      var cmd = b[0];
+      var clb = b.length > 1 ? b[1] : null;
+      var par = b.length > 2 ? b[2] : null;
+      if (cmd === "ping") {
+        clb(
+          {
+            gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+            signalStatus: "not ready", // possible values: not ready, ready
+            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+            cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+            sectionList: [],
+            applicableSections: [-1],
+            gppString: "",
+            parsedSections: {},
+          },
+          true
+        );
+      } else if (cmd === "addEventListener") {
+        if (!("lastId" in __gpp)) {
+          __gpp.lastId = 0;
+        }
+        __gpp.lastId++;
+        var lnr = __gpp.lastId;
+        __gpp.events.push({
+          id: lnr,
+          callback: clb,
+          parameter: par,
+        });
+        clb(
+          {
+            eventName: "listenerRegistered",
+            listenerId: lnr, // Registered ID of the listener
+            data: true, // positive signal
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // list of supported APIs
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "removeEventListener") {
+        var success = false;
+        for (var i = 0; i < __gpp.events.length; i++) {
+          if (__gpp.events[i].id == par) {
+            __gpp.events.splice(i, 1);
+            success = true;
+            break;
+          }
+        }
+        clb(
+          {
+            eventName: "listenerRemoved",
+            listenerId: par, // Registered ID of the listener
+            data: success, // status info
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // CMP ID
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "hasSection") {
+        clb(false, true);
+      } else if (cmd === "getSection" || cmd === "getField") {
+        clb(null, true);
+      }
+      //queue all other commands
+      else {
+        __gpp.queue.push([].slice.apply(b));
+      }
+    };
+    window.__gpp_msghandler = function (event) {
+      var msgIsString = typeof event.data === "string";
+      try {
+        var json = msgIsString ? JSON.parse(event.data) : event.data;
+      } catch (e) {
+        var json = null;
+      }
+      if (typeof json === "object" && json !== null && "__gppCall" in json) {
+        var i = json.__gppCall;
+        window.__gpp(
+          i.command,
+          function (retValue, success) {
+            var returnMsg = {
+              __gppReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: i.callId,
+              },
+            };
+            event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+          },
+          "parameter" in i ? i.parameter : null,
+          "version" in i ? i.version : "1.1"
+        );
+      }
+    };
+    if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+      window.__gpp = window.__gpp_stub;
+      window.addEventListener("message", window.__gpp_msghandler, false);
+      window.__gpp_addFrame("__gppLocator");
+    }
+  };
+
+  makeGppStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+        
+	<!-- Start GPT Tag -->
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  var interstitialSlot, staticSlot;
+  googletag.cmd.push(function() {
+   // Define a web interstitial ad slot.
+        interstitialSlot = googletag.defineOutOfPageSlot(
+            '/21631179489/je-interstitial',
+            googletag.enums.OutOfPageFormat.INTERSTITIAL);
+    var mapping1 = googletag.sizeMapping()
+                            .addSize([992, 0], [[1140, 150], [ 970, 250], [ 1140, 50], [ 1140, 220], [ 300, 150], [ 300, 250], [ 300, 600], [320, 480], [ 728, 90], [1, 1]])
+                            .addSize([728, 0], [[300, 50], [ 300, 150], [ 300, 250], [ 300, 600], [320, 480], [ 728, 90], [1, 1]])
+                            .addSize([320, 0], [[300, 50], [ 300, 150], [ 300, 250], [ 300, 600], [320, 480], [1, 1]])
+                            .build();
+	
+	var mRec = googletag.sizeMapping()
+                            .addSize([992, 0], [[ 300, 150], [ 300, 250]])
+                            .addSize([728, 0], [[ 300, 150], [ 300, 250]])
+                            .addSize([320, 0], [[ 300, 150], [ 300, 250]])
+                            .build();
+							
+	var Halfpagesz = googletag.sizeMapping()
+                            .addSize([992, 0], [[ 300, 600]])
+                            .addSize([728, 0], [[ 300, 600]])
+                            .addSize([320, 0], [[ 300, 600]])
+                            .build();
+
+	var leaderboard = googletag.sizeMapping()
+                            .addSize([992, 0], [[ 728, 90],[970, 250]])
+                            .addSize([728, 0], [[ 728, 90]])
+                            .addSize([320, 0], [[ 300, 50]])
+                            .build();
+
+	var billboard = googletag.sizeMapping()
+                            .addSize([992, 0], [[1140, 150], [ 970, 250], [ 1140, 50], [ 1140, 220]])
+                            .addSize([728, 0], [[ 728, 90]])
+                            .addSize([320, 0], [[ 300, 50]])
+                            .build();
+if (interstitialSlot) {
+          interstitialSlot.addService(googletag.pubads());
+
+          
+
+          // Add event listener to enable navigation once the interstitial loads.
+          // If this event doesn't fire, try clearing local storage and refreshing
+          // the page.
+          googletag.pubads().addEventListener('slotOnload', function(event) {
+            if (interstitialSlot === event.slot) {
+              document.getElementById('link').style.display = 'block';
+             
+            }
+          });
+        }
+    googletag.defineSlot('/21631179489/JE-Footer-ROS', [[1140, 150]], 'div-gpt-ad-8427096-1')
+             .defineSizeMapping(mapping1)
+             .addService(googletag.pubads());
+	googletag.defineSlot('/21631179489/billboardjeros', [[300, 50],[970, 250],[1140, 50],[1140, 220]], 'div-gpt-ad-2625040-3')
+             .defineSizeMapping(billboard)
+             .addService(googletag.pubads());
+    googletag.defineSlot('/21631179489/Botao-Topo_ROS', [[300, 150],[300, 250]], 'div-gpt-ad-8427096-4')
+             .defineSizeMapping(mapping1)
+             .addService(googletag.pubads());
+    googletag.defineSlot('/21631179489/Halfpage-Topo-ROS', [[300, 600]], 'div-gpt-ad-8427096-7')
+             .defineSizeMapping(Halfpagesz)
+             .addService(googletag.pubads());
+	googletag.defineSlot('/21631179489/ros-je-halfpage', [[300, 600]], 'div-gpt-ad-8427096-20')
+             .defineSizeMapping(Halfpagesz)
+             .addService(googletag.pubads());
+    googletag.defineSlot('/21631179489/JE-Leaderboard-Final-ROS', [[300, 50],[728, 90],[970, 250]], 'div-gpt-ad-8427096-8')
+             .defineSizeMapping(leaderboard)
+             .addService(googletag.pubads());
+    googletag.defineSlot('/21631179489/Leaderboard-ROS', [[300, 50],[728, 90],[970, 250]], 'div-gpt-ad-8427096-13')
+             .defineSizeMapping(leaderboard)
+             .addService(googletag.pubads());
+    googletag.defineSlot('/21631179489/JE-mrec-mercados', [[300, 250]], 'div-gpt-ad-8427096-15')
+             .defineSizeMapping(mRec)
+             .addService(googletag.pubads());
+    googletag.defineSlot('/21631179489/Mrec-ROS-2', [[300, 250]], 'div-gpt-ad-8427096-16')
+             .defineSizeMapping(mRec)
+             .addService(googletag.pubads());
+    googletag.defineSlot('/21631179489/mrec-topo-ros', [[300, 150],[300, 250]], 'div-gpt-ad-8427096-18')
+             .defineSizeMapping(mRec)
+             .addService(googletag.pubads());
+	staticSlot = googletag.defineSlot('/21631179489/je-interstitial', [320, 480], 'div-gpt-ad-8427096-19')
+          .addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().setCentering(true);
+    googletag.enableServices();
+  });
+</script>
+  <style>
+      #link {
+        display: none;
+      }
+
+      div.content {
+        position: fixed;
+        top: 50%;
+      }
+    </style>
+<!-- End GPT Tag --><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Prevalência da Ómicron pode chegar aos 50% no Natal e 80% no Ano Novo</title>
+	<link rel="canonical" href="https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/">
+	<meta property="og:locale" content="pt_PT">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Prevalência da Ómicron pode chegar aos 50% no Natal e 80% no Ano Novo">
+	<meta property="og:description" content="A informação foi divulgada pela ministra da Saúde, Marta Temido, em conferência de imprensa esta sexta-feira, na qual apelou ao uso de máscara, a realização de mais testes e mais vacinação.">
+	<meta property="og:url" content="https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/">
+	<meta property="og:site_name" content="O Jornal Económico">
+	<meta property="article:published_time" content="2021-12-17T11:06:42+00:00">
+	<meta property="article:modified_time" content="2022-05-17T06:36:32+00:00">
+	<meta property="og:image" content="https://jornaleconomico.sapo.pt/wp-content/uploads/2021/06/DOC.20200812.29372855._COT8900-1.jpg">
+	<meta property="og:image:width" content="960">
+	<meta property="og:image:height" content="600">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="Rodolfo Alexandre Reis">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/#article","isPartOf":{"@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/"},"author":[{"@id":"https://jornaleconomico.sapo.pt/#/schema/person/ad4379bbc92f58901550d138bcfa39dc"}],"headline":"Prevalência da Ómicron pode chegar aos 50% no Natal e 80% no Ano Novo","datePublished":"2021-12-17T11:06:42+00:00","dateModified":"2022-05-17T06:36:32+00:00","mainEntityOfPage":{"@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/"},"wordCount":355,"publisher":{"@id":"https://jornaleconomico.sapo.pt/#organization"},"image":{"@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/#primaryimage"},"thumbnailUrl":"https://jornaleconomico.sapo.pt/wp-content/uploads/2021/06/DOC.20200812.29372855._COT8900-1.jpg","articleSection":["Actualidade","JE Especiais","Saúde"],"inLanguage":"pt-PT"},{"@type":"WebPage","@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/","url":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/","name":"Prevalência da Ómicron pode chegar aos 50% no Natal e 80% no Ano Novo","isPartOf":{"@id":"https://jornaleconomico.sapo.pt/#website"},"primaryImageOfPage":{"@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/#primaryimage"},"image":{"@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/#primaryimage"},"thumbnailUrl":"https://jornaleconomico.sapo.pt/wp-content/uploads/2021/06/DOC.20200812.29372855._COT8900-1.jpg","datePublished":"2021-12-17T11:06:42+00:00","dateModified":"2022-05-17T06:36:32+00:00","breadcrumb":{"@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/#breadcrumb"},"inLanguage":"pt-PT","potentialAction":[{"@type":"ReadAction","target":["https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/"]}]},{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/#primaryimage","url":"https://jornaleconomico.sapo.pt/wp-content/uploads/2021/06/DOC.20200812.29372855._COT8900-1.jpg","contentUrl":"https://jornaleconomico.sapo.pt/wp-content/uploads/2021/06/DOC.20200812.29372855._COT8900-1.jpg","width":960,"height":600,"caption":"António Cotrim / Lusa"},{"@type":"BreadcrumbList","@id":"https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jornaleconomico.sapo.pt/"},{"@type":"ListItem","position":2,"name":"Prevalência da Ómicron pode chegar aos 50% no Natal e 80% no Ano Novo"}]},{"@type":"WebSite","@id":"https://jornaleconomico.sapo.pt/#website","url":"https://jornaleconomico.sapo.pt/","name":"O Jornal Económico","description":"Notícias, Economia, Política, Empresas, Mercados e Opinião","publisher":{"@id":"https://jornaleconomico.sapo.pt/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://jornaleconomico.sapo.pt/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-PT"},{"@type":"Organization","@id":"https://jornaleconomico.sapo.pt/#organization","name":"Jornal Económico","url":"https://jornaleconomico.sapo.pt/","logo":{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://jornaleconomico.sapo.pt/#/schema/logo/image/","url":"https://jornaleconomico.sapo.pt/wp-content/uploads/2022/04/Logo-de-JE-Noticias-e-Conversas-com-Norte.jpg","contentUrl":"https://jornaleconomico.sapo.pt/wp-content/uploads/2022/04/Logo-de-JE-Noticias-e-Conversas-com-Norte.jpg","width":400,"height":400,"caption":"Jornal Económico"},"image":{"@id":"https://jornaleconomico.sapo.pt/#/schema/logo/image/"}},{"@type":"Person","@id":"https://jornaleconomico.sapo.pt/#/schema/person/ad4379bbc92f58901550d138bcfa39dc","name":"Rodolfo Alexandre Reis","image":{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://jornaleconomico.sapo.pt/#/schema/person/image/e900eade8f01ef60060fe83a9c9b7fa3","url":"https://secure.gravatar.com/avatar/8b86ed8db06f744d288bf34fbfbcab2f?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/8b86ed8db06f744d288bf34fbfbcab2f?s=96&d=mm&r=g","caption":"Rodolfo Alexandre Reis"},"url":"https://jornaleconomico.sapo.pt/noticias/author/rodolfo-alexandre-reis/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="alternate" type="application/rss+xml" title="O Jornal Económico » Feed" href="https://jornaleconomico.sapo.pt/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://jornaleconomico.sapo.pt/wp-includes/css/dist/block-library/style.min.css?ver=2575774603" type="text/css" media="all">
+<style id="co-authors-plus-coauthors-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-coauthors.is-layout-flow [class*=wp-block-co-authors-plus]{display:inline}
+
+</style>
+<style id="co-authors-plus-avatar-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-avatar :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-avatar :where(img){vertical-align:middle}.wp-block-co-authors-plus-avatar:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-avatar.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<style id="co-authors-plus-image-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-image{margin-bottom:0}.wp-block-co-authors-plus-image :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-image :where(img){vertical-align:middle}.wp-block-co-authors-plus-image:is(.alignfull,.alignwide) :where(img){width:100%}.wp-block-co-authors-plus-image:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-image.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3571255444" type="text/css" media="all">
+<link rel="stylesheet" id="csbwf_pro_sidebar_custom_style-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/csbwfs-pro/css/csbwfs-custom-min.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="csbwf_pro_sidebar_fontawesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="je-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/css/je-public.css?ver=1592156500" type="text/css" media="all">
+<link rel="stylesheet" id="je-widget-header-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/css/je-widget-header.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="je-widget-myje-categories-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/css/je-widget-myje-categories.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="je-category-madeira-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/css/je-category-madeira.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="je-category-advisory-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/css/je-category-advisory.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="je-category-cabo-verde-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/css/je-category-cabo-verde.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="je-widget-equipa-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/css/je-widget-equipa.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="agregador-noticias-marcas-medianove-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/medianove-news-aggregator/public/css/agregador-noticias-marcas-medianove-public.css?ver=1592156500" type="text/css" media="all">
+<link rel="stylesheet" id="splide-css-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/medianove-news-aggregator/public/../admin/css/splide.min.css?ver=248370601" type="text/css" media="all">
+<link rel="stylesheet" id="splide-styles-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/medianove-news-aggregator/public/../admin/css/new-splide-styles.css?ver=248370601" type="text/css" media="all">
+<link rel="stylesheet" id="nc-egoi-form-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/nc-egoi-form/public/css/nc-egoi-form-public.css?ver=1109109827" type="text/css" media="all">
+<link rel="stylesheet" id="nc-egoi-form-bootstrap-css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css?ver=2575774603" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=96564404" type="text/css" media="all">
+<link href="https://jornaleconomico.sapo.pt/wp-content/themes/yootheme-nje/css/theme.1.css?ver=1732123683" rel="stylesheet">
+<link href="https://jornaleconomico.sapo.pt/wp-content/themes/yootheme-nje/css/custom.css?ver=3.0.31" rel="stylesheet">
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-includes/js/jquery/jquery.min.js?ver=560538801" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-includes/js/jquery/jquery-migrate.min.js?ver=1411951230" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/je-public.js?ver=1592156500" id="je-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/je-widget-header.js?ver=1592156500" id="je-widget-header-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/je-subscription.js?ver=1592156500" id="je-subscription-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/je-diario-paginacao.js?ver=1592156500" id="je-diario-paginacao-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/addthis_widget.js?ver=1592156500#pubid=ra-60dc36b1fab47243" id="addthis-js"></script>
+<script type="text/javascript" id="loadmore-js-extra">
+/* <![CDATA[ */
+var je_loadmore_params = {"ajaxurl":"https:\/\/jornaleconomico.sapo.pt\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"name\":\"prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":6,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/loadmore.js?ver=2575774603" id="loadmore-js"></script>
+<script type="text/javascript" id="je-save-article-js-extra">
+/* <![CDATA[ */
+var je_save_articles_params = {"ajaxurl":"https:\/\/jornaleconomico.sapo.pt\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/je-save-article.js?ver=2575774603" id="je-save-article-js"></script>
+<script type="text/javascript" id="myje-categories-js-extra">
+/* <![CDATA[ */
+var je_save_category_params = {"ajaxurl":"https:\/\/jornaleconomico.sapo.pt\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/myje-categories.js?ver=1592156500" id="myje-categories-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/je_/public/js/myje-newsletters.js?ver=1592156500" id="myje-newsletters-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/medianove-news-aggregator/public/js/agregador-noticias-marcas-medianove-public.js?ver=1592156500" id="agregador-noticias-marcas-medianove-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/nc-egoi-form/public/js/nc-egoi-form-public.js?ver=1109109827" id="nc-egoi-form-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js?ver=2575774603" id="nc-egoi-form-bootstrap-js"></script>
+<script id="wpp-json" type="application/json">
+{"sampling_active":1,"sampling_rate":100,"ajax_url":"https:\/\/jornaleconomico.sapo.pt\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/jornaleconomico.sapo.pt\/wp-json\/wordpress-popular-posts","ID":260514,"token":"3c579411b4","lang":0,"debug":0}
+</script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=96564404" id="wpp-js-js"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-HPBMNWJ9CK" id="google_gtagjs-js" async=""></script>
+<script id="google_gtagjs-js-after" type="text/javascript">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["jornaleconomico.sapo.pt"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-HPBMNWJ9CK");
+</script>
+
+<!-- End Google tag (gtag.js) snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://jornaleconomico.sapo.pt/wp-json/"><link rel="alternate" type="application/json" href="https://jornaleconomico.sapo.pt/wp-json/wp/v2/posts/260514"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jornaleconomico.sapo.pt/xmlrpc.php?rsd">
+<link rel="shortlink" href="https://jornaleconomico.sapo.pt/?p=260514">
+<link rel="alternate" type="application/json+oembed" href="https://jornaleconomico.sapo.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Fnoticias%2Fprevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://jornaleconomico.sapo.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Fnoticias%2Fprevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208%2F&amp;format=xml">
+<style type="text/css" media="print">#csbwfs-social-inner { display:none; }</style><meta name="generator" content="Site Kit by Google 1.127.0">            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            <script src="https://jornaleconomico.sapo.pt/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit.min.js?ver=3.0.31"></script>
+<script src="https://jornaleconomico.sapo.pt/wp-content/themes/yootheme/vendor/assets/uikit/dist/js/uikit-icons-paladin.min.js?ver=3.0.31"></script>
+<script src="https://jornaleconomico.sapo.pt/wp-content/themes/yootheme/js/theme.js?ver=3.0.31"></script>
+<script>var $theme = {};</script>
+<script src="https://jornaleconomico.sapo.pt/wp-content/themes/yootheme-nje/js/custom.js?ver=3.0.31"></script>
+<script>jQuery(function($) {
+	$('.uk-navbar-nav > li.uk-parent > a').addClass('uk-icon').attr('uk-icon',"je-arrow-down-small");
+});
+
+UIkit.icon.add('je-arrow-right','<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51"><path fill="#fff" d="M21.5 33.102L23.266 35 32 25.625l-8.734-9.375-1.766 1.898 6.962 7.477-6.962 7.477z"/></svg>');
+
+UIkit.icon.add('je-arrow-down-small', '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="23" fill="none" viewBox="0 0 24 23"><path fill="#fff" d="M6.019 7.188L4.5 8.637l7.5 7.175 7.5-7.175-1.519-1.45L12 12.905 6.019 7.187z"/></svg>');
+
+UIkit.icon.add('slidenav-next','<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51"><path fill="#fff" d="M21.5 33.102L23.266 35 32 25.625l-8.734-9.375-1.766 1.898 6.962 7.477-6.962 7.477z"/></svg>');
+UIkit.icon.add('slidenav-previous','<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51"><path fill="#fff" d="M29.5 17.898L27.734 16 19 25.375l8.734 9.375 1.766-1.898-6.962-7.477 6.962-7.477z"/></svg>');</script><link rel="icon" href="https://jornaleconomico.sapo.pt/wp-content/uploads/2025/01/favicon.png" sizes="32x32">		<style type="text/css" id="wp-custom-css">
+			.titulowh {
+  color: white;
+  font-size: 30px !important;
+}
+
+.uk-modal-full .uk-modal-dialog {
+    background-color: #000;
+}
+.uk-offcanvas-flip .uk-open>.uk-offcanvas-bar {
+    background-color: #000!important;
+}
+.uk-margin-xsmall-bottom{
+	margin-bottom: 4px
+}
+
+.uk-container-xxsmall .uk-container{
+	max-width: 480px;
+}
+
+.pointer-events-none{
+	pointer-events: none;
+}
+
+img{
+	image-rendering: -webkit-optimize-contrast;
+	transform: translateZ(0);
+}
+
+
+.je-title-bg-black{
+	  display: inline-block;
+	font-family:NitidaText-Black;
+    color: #f9423a;
+    padding: 0px 8px 0px 0px;
+	font-size:20px;
+		box-sizing: border-box;
+}
+
+.je-title-bg-black-no-red{
+	  display: inline-block;
+    background-color: #000;
+    color: #fff;
+    padding: 8px 15px;
+		box-sizing: border-box;
+}
+
+.je-title-bg-white{
+	  display: inline-block;
+    background-color: #fff;
+    border-left: 3px solid #f9423a;
+    color: #000 !important;
+    padding: 8px 15px;
+		box-sizing: border-box;
+		text-transform: uppercase;
+}
+
+
+.je-title-bg-grey{
+	  display: inline-block;
+    background-color: #747F8A;
+    border-left: 3px solid #3A4045;
+    color: #fff;
+    padding: 8px 15px;
+		text-transform: uppercase;
+}
+
+.je-title-bg-grey-no-black{
+		display: inline-block;
+    background-color: #757575;
+    color: #fff;
+    padding: 8px 15px;
+		text-transform: uppercase;
+}
+
+.fixed-margin-left{
+	margin-left: -1px;
+}
+
+.je-title-bg-red{
+		display: inline-block;
+    color: #000;
+    padding: 6px 0px 0px 10px;
+		font-family: NitidaText-Medium;
+	font-size: 15px;
+	border-left: 3px solid #f9423a;
+}
+
+.je-title-je-expertise{
+	background-color: #BEA755;
+}
+
+.je-title-bg-yellow{
+	background: #BEA755;
+	border-left: 3px solid #000;
+	color: #fff;
+	padding: 8px 15px;
+}
+
+.je-bg-grey{
+	background-color: #747F8A;
+}
+
+.je-section-title-je-tv,
+.je-section-title-je-podcast {
+	padding-left: 40px;
+	background-repeat: no-repeat;
+	background-position: 8px center;
+}
+
+.je-icon-podcast-black {
+	background-image: url(/wp-content/uploads/2021/07/podcast-black.svg)
+}
+
+.je-txt-white, .je-txt-white a{
+	color: #fff !important;
+}
+
+.je-hp-last .el-meta::before{
+		content: " ";
+    background: red;
+    width: 30px;
+    height: 3px;
+    position: absolute;
+    top: -10px;
+}
+
+.brand-channel{
+	padding: 20px;
+	padding-bottom: 40px;
+}
+
+.brand-channel *{
+	color: #fff
+}
+
+.bg-grey-dark{
+	background-color: #e5e5e5
+}
+
+.je-momentum-category {
+	/*background-color: #ed3839;*/
+}
+.je-momentum-category > span {
+	color: #fff!important;
+	background: #f9423a;
+	padding-right: 10px;
+}
+.je-momentum-category .je-title-bg-black {
+	margin-right: 10px;
+}
+
+/*.tm-header .uk-logo{
+	display: none;
+}*/
+
+.uk-navbar-center:only-child{
+	flex-wrap: nowrap
+}
+
+#widget-block-2{
+	padding: 0px
+}
+
+.logo-sticky img{
+	height: 30px
+}
+
+.uk-navbar-sticky .logo-sticky{
+	display: inline-block !important
+}
+
+.uk-navbar-sticky .uk-navbar-nav>li>a{
+	font-size: 12px;
+}
+
+@media (max-width: 1150px){
+	.uk-navbar-sticky .uk-navbar-item, .uk-navbar-sticky .uk-navbar-nav>li>a{
+		padding: 0px 10px;
+	}
+}
+
+@media (max-width: 1050px){
+	.uk-navbar-sticky .uk-navbar-item, .uk-navbar-sticky .uk-navbar-nav>li>a{
+		padding: 0px 5px;
+	}
+}
+
+
+.uk-navbar-dropdown{
+	background-color: #BEA755;
+	padding: 0px;
+	padding: 0px 10px;
+	border: none;
+	margin-top: -1px
+}
+
+.uk-navbar-dropdown-nav > li{
+	display: flex;
+	align-items: center;
+	padding-top: 15px
+}
+
+.uk-navbar-dropdown-nav > li:last-child{
+	padding-bottom: 15px;
+}
+
+.uk-navbar-dropdown-nav > li > a{
+	color: #fff
+}
+
+.uk-navbar-dropdown-nav > li > a:hover{
+	color: #000
+}
+
+td.gsc-search-button{
+	display: none;
+}
+
+.uk-hidden\@m td.gsc-search-button{
+	display: table-cell;
+}
+.uk-hidden\@m td.gsc-input{
+	border: 1px solid #000;
+}
+.uk-hidden\@m .gsc-search-button{
+	padding: 0px!important;
+}
+
+.uk-hidden\@m .gsc-search-button-v2{
+	height: 100% !important;
+}
+
+.tm-headerbar-top{
+	background-color: #1F1F1F !important;
+	padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.tm-headerbar-top .uk-position-center-left{
+	position: relative !important;
+	transform: none;
+}
+
+.uk-navbar-toggle.widget-search{
+	display:none;
+}
+
+.uk-navbar-nav>li>a {
+    z-index: 1000;
+}
+
+.toggles .uk-margin{
+	margin: 0px !important;
+}
+
+.toggles .toggle-btn button{
+		padding: 5px 10px;
+		font-weight: 600;
+		color: #111;
+		text-decoration: none
+}
+
+.latest-popular-block{
+	    border: 1px solid #eee;
+}
+
+.latest-popular-block .uk-tab{
+	    margin-left: 0px
+}
+
+.latest-popular-block .uk-tab li{
+	    padding-left: 0px;
+			flex: 1
+}
+
+.latest-popular-block .uk-tab li a{
+	    padding: 10px
+}
+
+.latest-popular-block .uk-tab > .uk-active > a{
+	    border-bottom: 2px solid #f9423a;
+			color:	#ED3839
+}
+
+.latest-popular-block > div a{
+	padding: 0px 15px;
+	margin-bottom: 15px !important;
+}
+.uk-flex-grow-initial{
+	flex-grow: initial;
+}
+
+.my-je-tabs ul::before{
+	
+}
+
+.my-je-tabs ul li{
+	padding-top: 30px;
+	padding-bottom: 30px; 
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.my-je-tabs-1 ul li:nth-child(1) a,
+.my-je-tabs-2 ul li:nth-child(2) a,
+.my-je-tabs-3 ul li:nth-child(3) a{
+	color: #000;
+}
+
+.my-je-tabs-1 ul li:nth-child(1):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+.category-44586 .my-je-tabs ul li:nth-child(2):before,
+.my-je-tabs-2 ul li:nth-child(2):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+.category-44587 .my-je-tabs ul li:nth-child(3):before,
+.my-je-tabs-3 ul li:nth-child(3):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+.category-44589 .my-je-tabs ul li:nth-child(4):before,
+.my-je-tabs-4 ul li:nth-child(4):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+.category-44591 .my-je-tabs ul li:nth-child(5):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+.category-44592 .my-je-tabs ul li:nth-child(3):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+.category-44593 .my-je-tabs ul li:nth-child(1):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+.category-44594 .my-je-tabs ul li:nth-child(2):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+
+.category-44606 .my-je-tabs ul li:nth-child(4):before{
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	border-bottom: 3px solid #f9423a;
+}
+
+.uk-pagination svg {
+	color: #f9423a;
+}
+
+.footer-links a{
+	color: #757575 !important;
+	font-size: 13px !important;
+	font-weight: 400 !important;
+}
+
+.footer-links .uk-subnav-divider > :nth-child(n+2):not(.uk-first-column)::before {
+    border-left-color: #757575;
+}
+
+#tm-mobile .uk-modal-dialog{
+	max-width: 400px !important;
+	background: #000;
+}
+@media (max-width: 960px) {
+	#tm-mobile .uk-modal-dialog {
+		margin-right: 0px;
+    margin-left: auto;
+	}
+}
+#tm-mobile .uk-modal-dialog .uk-modal-close-full{
+	background: #000;
+	left: 10px;
+}
+#tm-mobile .uk-grid>.uk-grid-margin{
+	margin: 0px
+}
+#tm-mobile li > a{
+	font-weight: 400;
+	color: #fff;
+	line-height: 1;
+}
+
+#tm-mobile li > a:hover{
+	color: #cfcfcf !important;
+}
+
+#tm-mobile li.uk-active > a{
+	color: #F9423A;
+}
+#tm-mobile ul > li a:not(ul.uk-nav-sub li a){
+	font-size: 16px;
+	line-height: 1.4;
+	color: #F9423A;
+	font-family: Open Sans;
+	font-weight: 400;
+}
+#tm-mobile ul > li:not(ul.uk-nav-sub li){
+	border-top: 1px solid red;
+	margin-bottom: 16px;
+	margin-top: 30px;
+	padding-top: 3px;
+}
+
+#tm-mobile .uk-nav-sub{
+	padding: 10px 0px;
+}
+#tm-mobile .uk-nav-sub li{
+	padding: 5px 0px;
+}
+#tm-mobile .uk-flex{
+	display: flex !important;
+}
+#tm-mobile .uk-parent{
+	position: relative;
+}
+#tm-mobile .uk-icon{
+	cursor: pointer;
+}
+#tm-mobile ul li.uk-parent ul li.uk-parent ul{
+	padding-top: 5px;
+}
+#tm-mobile ul li.uk-parent ul li.uk-parent .uk-icon{
+	transform: rotate(180deg);
+}
+#tm-mobile ul li.uk-parent ul li.uk-parent ul[hidden]~.uk-icon{
+	transform: rotate(0deg);
+}
+
+#tm-mobile ul li.uk-parent ul li.uk-parent uk-icon{
+	transform: rotate(-90deg);
+}
+
+.tm-header-mobile .uk-navbar-left {
+	flex: 1;
+  justify-content: space-between;
+}
+
+.uk-light .uk-text-meta, .uk-section-primary:not(.uk-preserve-color) .uk-text-meta, .uk-section-secondary:not(.uk-preserve-color) .uk-text-meta, .uk-tile-primary:not(.uk-preserve-color) .uk-text-meta, .uk-tile-secondary:not(.uk-preserve-color) .uk-text-meta, .uk-card-primary.uk-card-body .uk-text-meta, .uk-card-primary > :not([class*='uk-card-media']) .uk-text-meta, .uk-card-secondary.uk-card-body .uk-text-meta, .uk-card-secondary > :not([class*='uk-card-media']) .uk-text-meta, .uk-overlay-primary .uk-text-meta, .tm-toolbar-default .uk-text-meta {
+    color: #fff;
+}
+
+.je-author-box .m-a-box-content {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+.je-author-box .avatar,
+.je-author-box .m-a-box-avatar{
+	width: 30px;
+	height: 30px;
+}
+.je-author-box .m-a-box-profile-multiauthor {
+	margin: 5px 10px;
+}
+.je-author-box .m-a-box-content-middle {
+	display: flex;
+	align-items: center;
+}
+.je-author-box h5 {
+	margin-bottom: 0px !important;
+	margin-left: 10px;
+	text-transform: none;
+}
+.je-author-box .m-a-box-bio {
+	display: none;
+}
+
+.meowallet-payment-method-row td{
+	margin-bottom: 10px  !important;
+}
+.meowallet-select{
+	vertical-align: middle;
+}
+.meowallet-logo{
+	margin-top: 0px !important;
+}
+.woocommerce .meowallet-radio[type=radio]{
+	display: block !important;
+	background-color: #eee;
+}
+
+.tax-brand-channel .post-title{
+	color: #fff;
+}
+
+@media only screen and (max-width: 960px){
+.category-je-madeira .uk-navbar-center img, .category-je-cabo-verde .uk-navbar-center img {
+    height: 25px;
+}
+}
+
+@media only screen and (max-width: 960px) {
+	.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #000;
+	}
+	.uk-navbar-toggle .uk-navbar-toggle-icon{
+		color: #fff;
+	}
+	.uk-navbar-center img{
+		height: 50px
+	}
+	 .uk-navbar {
+    top: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+		margin-right:5px;
+}	
+	 .uk-navbar-right {
+		margin-right:10px;
+}		
+	.je-title-bg-black {
+    margin-top: 40px;
+}
+}
+
+@media only screen and (max-width: 500px) {
+	.my-je-tabs ul{
+		overflow: auto;
+		flex-wrap: nowrap;
+		padding-left: 10px;
+		justify-content: flex-start;
+	}
+ .uk-navbar {
+    top: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+}	
+  .uk-navbar-right {
+		margin-right:10px;
+}	
+	
+	je-title-bg-black {
+    margin-top: 40px;
+}
+
+}
+
+body.tax-brand-channel .billboard-topo {
+	display: none;
+}
+
+.rede-je-footer {
+	margin-top: -70px;
+	margin-left: -400px;
+	margin-right: -400px;
+}
+
+
+.je-list-easy-tax {
+  background-color: #222 !important;
+  max-width: 300px !important;
+  margin: 0 auto 20px !important; }
+  .je-list-easy-tax img {
+    width: 60px !important;
+    border-radius: 50% !important;
+    margin: 0 10px 10px 0 !important; }
+  .je-list-easy-tax .je-tag-line {
+    border-top: 3px solid #fee608 !important;
+    color: #ffffff !important; }
+  .je-list-easy-tax ul li a {
+    color: #ffffff !important;
+    border-top: 1px solid #4c4c4c; }
+    .je-list-easy-tax ul li a.active, .je-list-easy-tax ul li a:hover {
+      background-color: #fee608 !important;
+      color: #333333 !important; }
+      .je-list-easy-tax ul li a.active svg, .je-list-easy-tax ul li a:hover svg {
+        color: #333333 !important; }
+  .je-list-easy-tax svg {
+    float: left !important;
+    margin-right: 5px !important;
+    color: #fee608 !important; }
+
+.je-post-list {
+  background-color: #ffffff;
+  font-size: 14px !important;
+  margin-bottom: 25px !important; }
+  .je-post-list .je-tag-line {
+    margin: 15px 30px 5px !important;
+    padding: 0; }
+  .je-post-list .je-date {
+    color: #f9433b !important;
+    font-weight: 500 !important;
+    width: 20% !important;
+    margin-right: 2% !important;
+    vertical-align: top !important;
+    float: left !important; }
+  .je-post-list .je-title {
+    float: left !important;
+    width: 78% !important; }
+  .je-post-list ul {
+    list-style-type: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    clear: both !important; }
+    .je-post-list ul li a {
+      display: block !important;
+      border-top: 1px solid #f4f4f4 !important;
+      padding: 12px 30px !important;
+      color: #333;
+      line-height: 16px !important;
+      overflow: hidden !important; }
+      .je-post-list ul li a.active, .je-post-list ul li a:hover {
+        background-color: #222 !important;
+        color: #ffffff !important; }
+
+// Remove video icon on Colunistas section
+.uk-container .colunistas .pointer-events-none {
+	display: none !important;
+}
+
+.widget-je-widget-sapo-pub {
+	margin: 30px 0 30px 0 !important;
+}
+.custom-colunistas {
+   
+    border-color: #d1cbcb;
+    border-style: solid;
+	border-width: 0px 1px 0px 0px;
+}
+
+.tm-headerbar-top.tm-headerbar-default {
+    background: #f9423a;
+    display: none;
+}
+.addthis_button_email share-buttons-mobile  at300b {
+	display:none;
+}
+h3.popul {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 17px;
+    margin-top: 1px!important;
+    margin-bottom: -16px!important;
+}
+.populttl {
+    font-size: 11px;
+}
+h3.ultm {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 17px;
+    margin-top: 1px!important;
+    margin-bottom: -16px!important;
+}
+.ultttl {
+    font-size: 11px;
+}
+.ultspace {
+	margin-bottom: 0px;
+}
+.uk-h4, h4 {
+    /*font-size: 17px!important;
+    line-height: 1.4;
+    font-weight: 500!important;*/
+}
+.uk-navbar-nav>li>a {
+font-size: 11px!important;
+	min-height: 30px!important;
+}
+.uk-navbar-nav {
+    gap: 0px!important;
+}
+.post-title {
+    font-weight: 900;
+}
+.uk-h3 {
+	color:#4b4b4b;
+	line-height: 1.2;
+	font-size:18px;
+
+}
+.uk-h5 {
+	letter-spacing: 1px;
+}
+
+.header-icons header-hamburguer{
+    visibility: hidden;
+}
+
+.je-widget-header .je-header-left > div{
+	padding-top: 20px;
+}
+.uk-navbar-toggle {
+    color: #FFFFFF;
+}
+
+.uk-navbar-toggle:hover {
+		color: #000;
+}
+
+.uk-modal-close-full {
+	color: #000;
+}
+
+.uk-offcanvas-close {
+	color: #000;
+}
+.uk-section-secondary {
+    background: #fff;
+}
+
+.je-title-bg-black-no-red {
+	 visibility: hidden;
+}
+	
+.colunistas {
+    background-color: #eee;
+}
+
+.je-title-bg-black {
+	    font-weight: 600!important;
+			letter-spacing: 1px;
+	    font-size: 22px;
+			-webkit-text-size-adjust:none;
+		-ms-text-size-adjust:none;
+		-moz-text-size-adjust:none;
+text-size-adjust:none;
+		
+}
+	
+.header-hamburguer {
+	display:none;
+}
+li.el-item.uk-active.uk-transition-active img.el-image {
+    padding-bottom: 12px!important;
+	background: #fff;
+	}
+/*.post-content .post-iframe-wrapper {
+       position: unset;
+    width: 100%;
+    height: 0;
+}
+@media only screen and (max-width: 720px){
+	.post-content .post-iframe-wrapper {
+        position: unset;
+    width: 100%;
+    height: 0;
+}
+}
+@media only screen and (max-width: 500px){
+	.post-content .post-iframe-wrapper {
+       position: unset;
+    width: 100%;
+    height: 0;
+}
+}
+@media only screen and (max-width: 400px){
+	.post-content .post-iframe-wrapper {
+        position: unset;
+    width: 100%;
+    height: 0;
+}
+}
+@media only screen and (max-width: 375px){
+	.post-content .post-iframe-wrapper {
+        position: unset;
+    width: 100%;
+    height: 0;
+}
+}*/
+.uk-text-meta {
+	padding-left:20px;
+}
+.uk-tile-secondary {
+	background-color: #111111b8;
+}
+
+
+
+
+.uk-switcher .uk-flex-middle{ align-items: center;
+	}
+
+.uk-switcher .uk-margin-top{
+    margin-top: 0 !important;
+	}
+
+.uk-switcher .el-content{
+    margin-top: 1.5em !important;
+	}
+
+.uk-switcher h3{
+    font-size: 18px !important;
+		font-weight: 600;
+	}
+:not(.woocommerce-message,.woocommerce-Message)>input[type=submit]:not(.alt,.checkout,.view,.pay,[name*=save_]) {
+    background-color: #f9423a!important;
+    color: #fff;
+	border: 1px solid #f9423a!important;}
+	
+
+	
+	.uk-width-3-5@m > td{
+		border: solid 2px !important;
+	}
+
+
+div.uk-width-3-5\@m > tbody, td, tfoot, th, thead, tr {
+
+    border-width: 1px;
+}
+ul {
+    padding-left: 30px;
+    list-style: disc;
+}
+		</style>
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	
+	<!-- NC MAS PUSH START -->
+		
+		
+<script type="text/javascript">
+ITER = {};
+ITER.RESOURCE = ITER.RESOURCE || {};
+ITER.RESOURCE.Deferred = function() {
+    var b;
+    var a;
+    var c = new Promise(function(e, d) {
+        b = e;
+        a = d
+    });
+    c.resolve = b;
+    c.reject = a;
+    return c
+};
+ITER.RESOURCE.onLoad = [];
+ITER.RESOURCE.onInit = [];
+ITER.RESOURCE.onLoad["mas-tracker"] = new ITER.RESOURCE.Deferred();
+ITER.RESOURCE.onInit["mas-tracker"] = new ITER.RESOURCE.Deferred();
+ITER.RESOURCE.onLoad["mas-push"] = new ITER.RESOURCE.Deferred();
+ITER.RESOURCE.onInit["mas-push"] = new ITER.RESOURCE.Deferred();
+
+// pageType = "mainSection" for tracking web sections pages
+// pageType = "detail" for tracking articles pages
+
+ITER.RESOURCE.onLoad["mas-tracker"].then(function() {
+    MAS.TRACKER.configure({
+        piwikUrl: "https://mas.protecmedia.com/endpoint",
+		trackerUrl: "https://cdn.iterwebcms.com/_proxy_https_/mas.protecmedia.com/qapcore.js",
+        siteId: "4O7X0ZCYP0BAY",
+        mode: 1,
+        pageType: "detail"
+    }).then(function() {
+        ITER.RESOURCE.onInit["mas-tracker"].resolve();
+        MAS.TRACKER.sendPageView()
+    })
+})
+
+Promise.all([ITER.RESOURCE.onInit["mas-tracker"], ITER.RESOURCE.onLoad["mas-push"]]).then(function() {
+	MAS.PUSH.HOOK.onGetDomain = function()
+	{
+		return document.domain;
+	}
+		
+    MAS.PUSH.configure({
+        host: "https://mas.protecmedia.com",
+        appid: "4O7X0ZCYP0BAY",
+        workerpath: "/firebase-messaging-sw/v1/4O7X0ZCYP0BAY.js",
+        tracker: MAS.TRACKER,
+        firebase: {
+            firebaseAppUrl: "https://www.gstatic.com/firebasejs/10.4.0/firebase-app-compat.js",
+            firebaseMessagingUrl: "https://www.gstatic.com/firebasejs/10.4.0/firebase-messaging-compat.js"
+        }
+    }).then(function() {
+        ITER.RESOURCE.onInit["mas-push"].resolve();
+        MAS.PUSH.requestPermission()
+    })
+});
+</script>
+<script defer="" onload="ITER.RESOURCE.onLoad['mas-tracker'].resolve()" src="https://cdn.iterwebcms.com/_proxy_https_/mas.protecmedia.com/mas-jslib/v1/4O7X0ZCYP0BAY/mas-tracker-min.js"></script>
+<script defer="" onload="ITER.RESOURCE.onLoad['mas-push'].resolve()" src="https://cdn.iterwebcms.com/_proxy_https_/mas.protecmedia.com/mas-jslib/v1/4O7X0ZCYP0BAY/mas-push-min.js"></script>
+	
+		
+		<!-- NC MAS PUSH END -->
+
+<!-- Sticky Footer -->
+							<script async="" src="//cmp.optad360.io/items/cca29ab0-22fa-49e0-8f29-550ce70836ca.min.js"></script>
+<script async="" src="//get.optad360.io/sf/50687969-13be-42a7-97a8-1ac3a62ca0c2/plugin.min.js"></script>
+							<!-- Sticky Footer End -->
+		
+
+<script src="//js.sapo.pt/Projects/CPU/latest/lazypub.min.js" id="SAPO-CPU" defer="" data-pub-page-target="slugid:260514|category:Actualidade"></script>
+    </head>
+    <body class="post-template-default single single-post postid-260514 single-format-standard wp-custom-logo ">
+                <div class="before-header">
+            <div class="uk-container">
+                <!-- /21631179489/Billboard-Topo-HP -->
+                <div class="je-billboard top">
+                    
+                                        <center>
+                      <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Richmedia" data-pub="appNexus"></div>
+                    </center>
+                </div>
+            </div>
+        </div>
+
+        <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="OOP" data-pub="appNexus"></div>
+
+        
+        
+        <div class="tm-page">
+
+                        
+
+
+<div class="tm-header-mobile uk-hidden@m">
+
+
+        <div uk-sticky="" show-on-up="" animation="uk-animation-slide-top" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container">
+    
+        <div class="uk-navbar-container">
+
+            <div class="uk-container uk-container-expand uk-padding-remove-left">
+                <nav class="uk-navbar" uk-navbar="{&quot;container&quot;:&quot;.tm-header-mobile > [uk-sticky]&quot;}">
+
+                                        <div class="uk-navbar-left">
+
+                                                    
+<div class="uk-navbar-item widget widget_custom_html" id="custom_html-3">
+
+    
+    <div class="textwidget custom-html-widget"><a href="/" class="uk-navbar-item uk-logo uk-padding-remove"><img alt="Jornal Económico" src="/wp-content/uploads/2023/04/logo_je_2023.png" style="height: 40px;">
+</a></div>
+</div>
+                        
+                        
+                    </div>
+                    
+                    
+                                        <div class="uk-navbar-right">
+
+                                                                            
+                        <a uk-toggle="" aria-label="Open Menu" href="#tm-dialog-mobile" class="uk-navbar-toggle">
+
+        
+        <div uk-navbar-toggle-icon=""></div>
+
+        
+    </a>
+                    </div>
+                    
+                </nav>
+            </div>
+
+        </div>
+
+        </div>
+    
+
+
+
+
+    
+        <div id="tm-dialog-mobile" class="uk-modal-full" uk-modal="">
+        <div class="uk-modal-dialog uk-flex">
+
+                        <button class="uk-modal-close-full uk-close-large" type="button" uk-close="" uk-toggle="cls: uk-modal-close-full uk-close-large uk-modal-close-default; mode: media; media: @s"></button>
+            
+            <div class="uk-modal-body uk-padding-large uk-margin-auto uk-flex uk-flex-column uk-box-sizing-content uk-width-medium" uk-height-viewport="" uk-toggle="{&quot;cls&quot;:&quot;uk-padding-large&quot;,&quot;mode&quot;:&quot;media&quot;,&quot;media&quot;:&quot;@s&quot;}">
+
+                                <div class="uk-margin-auto-bottom">
+                    
+<div class="uk-grid uk-child-width-1-1" uk-grid="">    <div>
+<div class="uk-panel widget widget_custom_html" id="custom_html-2">
+
+    
+    <div class="textwidget custom-html-widget"><div class="uk-hidden@m uk-margin-medium-top">
+			<div class="gcse-searchbox-only" data-resultsurl="/search" data-newwindow="false" data-queryparametername="query"></div>
+		</div></div>
+</div>
+</div>    <div>
+<div class="uk-panel widget widget_nav_menu" id="nav_menu-5">
+
+    
+    
+<ul class="uk-nav uk-nav-default">
+    
+	<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.sapo.pt/noticias/"> ÚLTIMAS NOTÍCIAS</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/exclusivos/"> Exclusivos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/economia/"> Economia</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor uk-active"><a href="https://jornaleconomico.sapo.pt/categoria/politica/"> Política</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor uk-active"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/"> Empresas</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/mercados/"> Mercados</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/lusofonia/"> Lusofonia</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/je-expertise/"> JE Expertise</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/fiscalidade-by-ey/"> <b>Barómetro EY</b></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://easyrealestate.jornaleconomico.pt/"> Easy Real Estate Tax</a></li></ul></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://jornaleconomico.sapo.pt/newsletters/"> Newsletters</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/mundo/"> Mundo</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/opiniao/"> Opinião</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/economize/"> Economize</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/et-cetera/"> Et Cetera</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/edicoes/je-advisory/"> JE Advisory</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/edicoes/je-madeira/"> JE Madeira</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/je-tv/"> JE TV</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/je-tv/programa/"> Programa</a></li></ul></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/je-podcasts/"> JE Podcast</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/je-podcasts/programa-podcast/"> São Bento 22</a></li></ul></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/je-lab/"> JE Lab</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/conferencias/"> Conferências</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/multimedia/"> Multimédia</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/multimedia/fotogalerias/"> Fotogalerias</a></li></ul></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent"><a href="https://medianove.com/"> Media9</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://onovo.sapo.pt/"> Novo Semanário</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.forbespt.com/"> Forbes</a></li></ul></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/sobre-nos/"> Sobre Nós</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://jornaleconomico.sapo.pt/sobre-nos/comercial/"> Comercial</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://jornaleconomico.sapo.pt/sobre-nos/contactos/"> Contactos</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.pt/sobre-nos/equipa/ficha-tecnica/"> Ficha Técnica</a></li></ul></li></ul>
+
+</div>
+</div></div>                </div>
+                
+                
+            </div>
+
+        </div>
+    </div>
+    
+    
+
+</div>
+
+
+
+<div class="tm-toolbar tm-toolbar-default uk-visible@m">
+    <div class="uk-container uk-flex uk-flex-middle uk-container-large">
+
+                <div>
+            <div class="uk-grid-medium uk-child-width-auto uk-flex-middle" uk-grid="margin: uk-margin-small-top">
+
+                                <div>
+<div class="uk-panel widget widget_je_widget_header" id="je_widget_header-3">
+
+    
+    <script>
+/*jQuery(document).ready(function ($) {
+	var callBack = '';
+    $(window).scroll(function() {
+		if ($(this).scrollTop() > 360 && callBack != 'done'){  
+			$('.je-billboard').addClass("pub-fixed");
+			setTimeout(function() {
+			callBack = 'done'
+            $(".je-billboard").removeClass("pub-fixed");
+        	}, 3000);
+		
+		}
+		else{
+			$('.je-billboard').removeClass("pub-fixed");
+			
+		}
+    });
+	
+	
+});	*/
+
+</script>
+<script async="" src="https://cse.google.com/cse.js?cx=0761ad2e2f8b74418"></script>
+<div class="uk-flex uk-flex-between je-widget-header">
+	<div class="uk-flex-1 uk-flex uk-flex-middle je-header-left">
+		<div class="header-icons header-hamburguer" uk-toggle="target: #tm-mobile">
+			<svg xmlns="http://www.w3.org/2000/svg" width="28" height="20" fill="none" viewBox="0 0 28 20">
+				<path d="M0 0H28V3.04H0zM0 8.084H28V11.123999999999999H0zM0 16.168H28V19.208H0z"></path>
+			</svg>
+		</div>
+		<div class="header-icons msk-search-toggle">
+			<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="none" viewBox="0 0 25 25">
+				<path stroke-width="3" d="M18.5 10.104c0 4.766-3.82 8.603-8.5 8.603s-8.5-3.837-8.5-8.604C1.5 5.338 5.32 1.5 10 1.5s8.5 3.837 8.5 8.604z"></path>
+				<path stroke-width="3" d="M0 -1.5L11.372 -1.5" transform="matrix(0.703457 0.710738 -0.703457 0.710738 14 16.1655)"></path>
+			</svg>
+		</div>
+		<div class="msk-search">
+			<div class="gcse-searchbox-only" data-resultsurl="/search" data-newwindow="false" data-queryparametername="query"></div>
+		</div>
+	</div>
+	<div class="uk-flex-1 uk-flex uk-flex-middle uk-flex-center">
+					<a href="/" class="uk-navbar-item uk-logo">
+    			<!--<img alt="Jornal Económico" src="/wp-content/uploads/2021/04/logo-je-white.svg"> -->
+			<img alt="Jornal Económico" src="/wp-content/uploads/2023/04/logo_je_23v2.png" style="
+    width: 275px;
+"></a>
+				
+	</div>
+
+	<div class="uk-flex-1 uk-flex uk-flex-middle je-header-right uk-flex-right">
+		<div class="uk-grid-small uk-flex uk-flex-middle" uk-grid="">
+			<div class="uk-visible@l">
+									<!-- <a href="/my-je/newsletters/" class="uk-button uk-button-default uk-button-small header-signature">Newsletters</a> -->
+								<!--	<a href="/newsletters" class="uk-button uk-button-default uk-button-small header-signature">Newsletters</a> -->
+							</div>
+			<div>
+				<!--<a href="https://registo.jornaleconomico.pt/assinaturas/" class="uk-button uk-button-default uk-button-small header-signature">Assinatura</a> -->
+			</div>
+		<div style="display: none;">[weglot_switcher]</div>
+			<div style="padding-top: 12px;">
+								<a href="https://registo.jornaleconomico.pt/login/">
+					<svg style="display: none;" width="71" height="30" viewBox="0 0 71 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M40 0H0V30H40V0Z" fill="white"></path>
+						<path d="M22.9793 8.23802V8H19.1493L15.579 16.8501L11.4245 8H7.81085V8.12983L8.71966 9.83926V17.8887C8.71966 19.0356 8.58983 19.4467 7.35645 20.745V20.983H10.8835V20.745C9.65011 19.4467 9.52028 19.0356 9.52028 17.8887V11.289L14.0643 20.983H14.7135L18.868 10.7481V19.0356C18.868 19.7929 18.6949 20.0309 17.8294 20.745V20.983H22.9793V20.745C22.1138 20.0309 21.9407 19.7929 21.9407 19.0356V9.94745C21.9407 9.19011 22.1138 8.95209 22.9793 8.23802Z" fill="black"></path>
+						<path d="M30.4958 11.4189V11.6569C31.5344 12.3926 31.8157 12.6739 31.8157 13.1499C31.8157 13.4096 31.7724 13.6909 31.6426 14.102L30.0197 19.425L28.0506 13.4961C27.8992 13.0634 27.8559 12.8254 27.8559 12.609C27.8559 12.3493 27.9641 12.068 28.4834 11.6569V11.4189H23.8095V11.6569C24.5236 12.3277 24.6967 12.6306 25.0213 13.5611L27.5313 20.983H29.5437L29.1975 22.1515C28.8729 23.2767 27.9208 23.6012 26.6442 23.6012C26.233 23.6012 25.8219 23.5796 25.4757 23.5363V25.2025C25.8435 25.4621 26.2979 25.6785 27.0769 25.6785C28.3969 25.6785 29.1109 24.9645 29.6302 23.255L32.4216 14.102C32.7678 12.9552 33.0275 12.5441 33.8064 11.6569V11.4189H30.4958Z" fill="black"></path>
+						<path d="M70.1234 0H40V30H70.1234V0Z" fill="#F9423A"></path>
+						<path d="M48.6037 18.9268H43.584V23.9259H48.6037V18.9268Z" fill="white"></path>
+						<path d="M55.0587 6.06885H50.0391V23.9259H55.0587V6.06885Z" fill="white"></path>
+						<path d="M66.534 18.9268H56.4946V23.9259H66.534V18.9268Z" fill="white"></path>
+						<path d="M64.0241 12.4978H56.4946V17.4969H64.0241V12.4978Z" fill="white"></path>
+						<path d="M61.5143 6.06885H56.4946V11.068H61.5143V6.06885Z" fill="white"></path>
+					</svg>
+				</a>
+			</div>
+
+			
+			<!-- <div>
+				<a href="#" class="uk-button uk-button-default header-bell header-icons uk-flex uk-flex-middle uk-flex-center">
+					<svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" fill="none" viewBox="0 0 20 21">
+						<g clip-path="url(#clip0)">
+							<path fill="#fff" d="M16.25 6.315C16.25 2.828 13.451 0 10 0S3.75 2.828 3.75 6.315v6.314L0 15.155v1.263h20v-1.263l-3.75-2.526V6.315zM12.5 17.681h-5c0 1.396 1.119 2.526 2.5 2.526s2.5-1.13 2.5-2.526z"/>
+						</g>
+						<defs>
+							<clipPath id="clip0">
+								<path fill="#fff" d="M0 0H20V20.207H0z"/>
+							</clipPath>
+						</defs>
+					</svg>
+				</a>
+			</div> -->
+		</div>
+	</div>
+</div>
+</div>
+</div>                
+                
+            </div>
+        </div>
+        
+        
+    </div>
+</div>
+
+<div class="tm-header uk-visible@m" uk-header="">
+
+
+
+        <div uk-sticky="" media="@m" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container">
+    
+        <div class="uk-navbar-container">
+
+            <div class="uk-container uk-container-large">
+                <nav class="uk-navbar uk-navbar-justify" uk-navbar="{&quot;align&quot;:&quot;center&quot;,&quot;container&quot;:&quot;.tm-header > [uk-sticky]&quot;,&quot;boundary&quot;:&quot;.tm-header .uk-navbar-container&quot;,&quot;target-x&quot;:&quot;.tm-header .uk-navbar&quot;}">
+
+                                        <div class="uk-navbar-left">
+
+                                                                            
+                                                    
+<ul class="uk-navbar-nav">
+    </ul>
+
+<ul class="uk-navbar-nav">
+    
+	<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/noticias"> ÚLTIMAS</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/exclusivos/"> EXCLUSIVOS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://leitor.jornaleconomico.pt"> EDIÇÕES DIGITAIS</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/opiniao/colunistas/"> OPINIÃO</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/et-cetera/"> ET CETERA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/edicoes/je-advisory/"> JE ADVISORY</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/edicoes/je-madeira/"> JE MADEIRA</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/economize/"> ECONOMIZE</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/multimedia/"> MULTIMEDIA</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/newsletters"> NEWSLETTERS</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/je-lab/"> JE LAB</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://leitor.jornaleconomico.pt/assinaturas/produtos"> ASSINAR</a></li></ul>
+                        
+                                                    <a uk-toggle="" aria-label="Open Menu" href="#tm-dialog" class="uk-navbar-toggle">
+
+        
+        <div uk-navbar-toggle-icon=""></div>
+
+        
+    </a>                        
+                    </div>
+                    
+                    
+                    
+                </nav>
+            </div>
+
+        </div>
+
+        </div>
+    
+
+
+
+
+
+
+        <div id="tm-dialog" uk-offcanvas="container: true" mode="push" flip="">
+        <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+            <button class="uk-offcanvas-close uk-close-large" type="button" uk-close="" uk-toggle="cls: uk-close-large; mode: media; media: @s"></button>
+
+                        <div class="uk-margin-auto-bottom">
+                
+<div class="uk-grid uk-child-width-1-1">    <div>
+<div class="uk-panel widget widget_nav_menu" id="nav_menu-7">
+
+    
+    
+<ul class="uk-nav uk-nav-default">
+    
+	<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.sapo.pt/noticias/"> ÚLTIMAS NOTÍCIAS</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/exclusivos/"> Exclusivos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/economia/"> Economia</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor uk-active"><a href="https://jornaleconomico.sapo.pt/categoria/politica/"> Política</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor uk-active"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/"> Empresas</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/mercados/"> Mercados</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/lusofonia/"> Lusofonia</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/je-expertise/"> JE Expertise</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/fiscalidade-by-ey/"> <b>Barómetro EY</b></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://easyrealestate.jornaleconomico.pt/"> Easy Real Estate Tax</a></li></ul></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://jornaleconomico.sapo.pt/newsletters/"> Newsletters</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/mundo/"> Mundo</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/opiniao/"> Opinião</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/economize/"> Economize</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/et-cetera/"> Et Cetera</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/edicoes/je-advisory/"> JE Advisory</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/edicoes/je-madeira/"> JE Madeira</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/je-tv/"> JE TV</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/je-tv/programa/"> Programa</a></li></ul></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/je-podcasts/"> JE Podcast</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/je-podcasts/programa-podcast/"> São Bento 22</a></li></ul></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/je-lab/"> JE Lab</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/conferencias/"> Conferências</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/categoria/multimedia/"> Multimédia</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://jornaleconomico.sapo.pt/categoria/multimedia/fotogalerias/"> Fotogalerias</a></li></ul></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent"><a href="https://medianove.com/"> Media9</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://onovo.sapo.pt/"> Novo Semanário</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.forbespt.com/"> Forbes</a></li></ul></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent"><a href="https://jornaleconomico.sapo.pt/sobre-nos/"> Sobre Nós</a>
+	<ul class="uk-nav-sub">
+
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://jornaleconomico.sapo.pt/sobre-nos/comercial/"> Comercial</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://jornaleconomico.sapo.pt/sobre-nos/contactos/"> Contactos</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.pt/sobre-nos/equipa/ficha-tecnica/"> Ficha Técnica</a></li></ul></li></ul>
+
+</div>
+</div></div>            </div>
+            
+            
+        </div>
+    </div>
+    
+    
+    
+
+
+</div>
+
+            
+            
+                            <style>
+                    .moment1 {
+                        display: none!important;
+                    }
+                </style>
+            							<style>.nav-hide {
+  display:none;
+}</style>
+
+							<script type="text/javascript">
+   /*jQuery(function ($) {
+    var _document, _window, _html, _body;
+    _document = $(document);
+    _window = $(window);
+    _html = $('html');
+    _body = $('body');
+
+    _window.on('scroll', function () {
+     if ($(this).scrollTop() >= $('#vanish-fb').offset().top) {
+    $('#csbwfs-left').addClass("nav-hide");
+  }else {
+    $('#csbwfs-left').removeClass("nav-hide");
+  }
+    });
+  }(jQuery));*/
+</script>
+							<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-96C3L872L5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-96C3L872L5');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFNVZ4P8');</script>
+<!-- End Google Tag Manager -->
+
+
+
+							
+					
+							<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/pt_PT/sdk.js#xfbml=1&amp;version=v18.0&amp;appId=185302078191381&amp;autoLogAppEvents=1" nonce=""></script>
+							<script data-cfasync="false" type="text/javascript" id="clever-core">
+                                    /* <![CDATA[ */
+                                    (function (document, window) {
+                                        var a, c = document.createElement("script"), f = window.frameElement;
+
+                                        c.id = "CleverCoreLoader71997";
+                                        c.src = "https://scripts.cleverwebserver.com/43a23a44bce3b31a305e79b818783e76.js";
+
+                                        c.async = !0;
+                                        c.type = "text/javascript";
+                                        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+                                        c.setAttribute("data-callback", "put-your-callback-function-here");
+                                        c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+                                        c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+
+                                        try {
+                                            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                                        } catch (e) {
+                                            a = !1;
+                                        }
+
+                                        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                                        a.parentNode.insertBefore(c, a);
+                                    })(document, window);
+                                    /* ]]> */
+                                </script><!-- Builder #template-C8Sr88c8 --><style class="uk-margin-remove-adjacent">#template-C8Sr88c8\#0 .je-date-authors { display:none; } #template-C8Sr88c8\#0 .je-extra-btn-container { display:none; } #template-C8Sr88c8\#1 #div-transcricao{ display: none; width: fit-content; } </style>
+<div id="template-C8Sr88c8#1" class="uk-section-default uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    
+                    <div class="plat1 uk-margin-remove-bottom tm-grid-expand uk-grid-small uk-grid-divider uk-grid-margin-small uk-margin-remove-bottom" style="margin-top: -44px!important;" uk-grid="">
+<div class="uk-width-1-5@m uk-width-small@l uk-width-small@xl">
+    
+        
+            
+            
+            
+                
+                    
+                
+            
+        
+    
+</div>
+
+<div class="uk-width-3-5@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-h5 uk-text-primary uk-margin-remove-vertical uk-text-left">        <a href="https://jornaleconomico.sapo.pt/categoria/politica/actualidade/" rel="tag">Actualidade</a>, <a href="https://jornaleconomico.sapo.pt/categoria/suplementos/je-especiais/" rel="tag">JE Especiais</a>, <a href="https://jornaleconomico.sapo.pt/categoria/empresas/saude/" rel="tag">Saúde</a>    </div>
+<h1 class="uk-h1 post-title uk-margin uk-text-left">        Prevalência da Ómicron pode chegar aos 50% no Natal e 80% no Ano Novo    </h1>
+<div class="uk-h3 uk-margin-remove-top uk-margin-remove-bottom uk-text-left">        A informação foi divulgada pela ministra da Saúde, Marta Temido, em conferência de imprensa esta sexta-feira, na qual apelou ao uso de máscara, a realização de mais testes e mais vacinação.    </div>
+<div class="uk-margin uk-margin-remove-bottom">
+        <picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/87/DOC.20200812.29372855._COT8900-1-87c1856e.webp 768w, /wp-content/themes/yootheme/cache/86/DOC.20200812.29372855._COT8900-1-860120cd.webp 960w" sizes="(min-width: 960px) 960px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/f0/DOC.20200812.29372855._COT8900-1-f08d0327.jpeg" width="960" height="600" class="el-image" alt="" loading="lazy">
+</picture>    
+    
+</div>
+<div class="uk-panel uk-text-small uk-text-muted uk-position-relative uk-text-left" style="color: #4b4b4b!important;font-weight: 500;margin-top:8px;margin-bottom:20px;font-size:10px;">António Cotrim / Lusa</div>
+<div class="uk-panel uk-margin-remove-vertical widget widget_custom_html" style="color: #000;font-size: 12px;font-weight:bold;margin-bottom:-20px!important;">
+    
+    <div class="textwidget custom-html-widget"><a href="https://jornaleconomico.sapo.pt/noticias/author/rodolfo-alexandre-reis/" title="Posts by Rodolfo Alexandre Reis" class="author url fn" rel="author">Rodolfo Alexandre Reis</a></div>
+</div>
+<div class="uk-panel uk-text-small uk-text-muted uk-position-relative uk-margin uk-text-left" style="color: #4b4b4b!important;font-weight: 500;margin-top:23px;margin-bottom:-10px;font-size:10px;">17 Dezembro 2021, 11h06</div>
+<div class="uk-panel widget widget_je_widget_in_update">
+    
+    <div class="je-article-flags">
+</div>
+
+</div>
+<div class="uk-panel uk-text-small uk-text-muted uk-position-relative uk-margin uk-text-left" style="color: #4b4b4b!important;font-weight: 500;margin-top:23px;margin-bottom:-10px;"><div id="line-5cm"></div>
+<p><style>
+#line-5cm{
+  height: 1px;
+  width: 5cm;
+  background-color: #d9d6d6;
+    margin-bottom: 8px;
+    margin-top:-10px;
+}
+</style></p></div><div class="uk-panel uk-margin" style="margin-top:10px!important;"><p>A prevalência da variante Ómicron em Portugal pode chegar aos 50% no Natal e 80% no Ano Novo. A informação foi divulgada por Marta Temido, numa conferência de imprensa realizada esta sexta-feira, 17 de dezembro, na qual fez um ponto de situação sobre esta variante no país.</p>
+<p>“Sabemos que esta variante é mais transmissível que a variante Delta que é a variação predominante até à data. Com uma duplicação de casos de um a dois dias na África do Sul e de dois a três dias na Dinamarca e Reino Unido. Em Portugal estamos a estimar um tempo de duplicação de dois dias”, referiu a ministra da Saúde.</p>
+<p>Marta Temido acrescentou que há uma aparente diminuição da efetividade das vacinas após o esquema primário de vacinação causada pela variante Ómicron, sendo a mesma efetividade contra a infeção sintomática após a dose de reforço estimada em 75%.</p>
+<p>A ministra mostrou-se preocupada com a incidência que esta variante tem tido em outros países. “Quando olhamos para as curvas de incidência do Reino Unido e Dinamarca, que o tradicional formato de evolução é substituído por um arranha-céus de casos. É esse aspeto e a incerteza que daí decorre que nos preocupa e que com transparência importa transmitir e partilhar”, realçou.</p>
+<p>Marta Temido alertou que os próximos dias vão ser decisivos para se perceber o impacto desta nova variante, mas o que já sabemos leva-nos a dizer que “a variante se transmite mais, cada um de nós tem de naturalmente fazer mais. Mais uso de máscara, mais testes, mais vacinação, mais controlo de fronteiras”.</p>
+<p>“O Ministério da Saúde e o Governo têm estado a acompanhar a situação com os diversos peritos. No início da próxima semana teremos mais dados que partilharemos com a ajuda de todos. Este é novamente um momento difícil em que somos postos à prova. Precisamos de repetir as lições aprendidas”, salientou Marta Temido.</p></div>
+<div class="uk-panel widget widget_je_widget_premium_content">
+    
+    
+</div>
+
+<div class="uk-panel uk-hidden@l uk-margin-small uk-text-center widget widget_je_widget_sapo_pub">
+    
+            <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Billboard" data-pub="appNexus"></div>
+    
+</div>
+
+                
+            
+        
+    
+</div>
+
+<div class="uk-width-1-5@m uk-width-expand@l uk-width-expand@xl">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-panel uk-margin-small uk-text-center widget widget_je_widget_sapo_pub">
+    
+            <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="MPU" data-pub="appNexus"></div>
+    
+</div>
+<div><br></div>
+<div class="uk-panel uk-margin-small uk-text-center widget widget_je_widget_sapo_pub">
+    
+            <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="MPU" data-pub="appNexus"></div>
+    
+</div>
+
+<div class="uk-panel widget widget_je_widget_category_last_popular">
+    
+    <content>
+<div uk-filter="target: .js-filter;" class="latest-popular-block uk-margin ">
+
+
+    <ul class="el-nav uk-tab uk-margin uk-flex-center">
+
+        <li class="uk-active" uk-filter-control="[data-tag~='Últimas']">
+            <a href="#">Últimas</a>
+        </li>
+        <li uk-filter-control="[data-tag~='+Populares']">
+            <a href="#">+Populares</a>
+        </li>
+
+    </ul>
+
+
+    <div class="js-filter uk-child-width-1-1 uk-child-width-1-1@m uk-grid-row-small uk-grid-divider uk-grid-match uk-grid uk-grid-stack" uk-grid="">
+                    <div data-tag="Últimas" class="uk-first-column ultspace">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/taiwan-uma-carta-estrategica-equivocada/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom ultttl">00h08</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom ultm"> Taiwan, uma carta estratégica equivocada </h3>
+                </a>
+			       
+            </div>             <div data-tag="Últimas" class="uk-first-column ultspace">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/pobreza-ano-novo-o-flagelo-de-sempre/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom ultttl">00h07</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom ultm"> Pobreza: ano novo, o flagelo de sempre </h3>
+                </a>
+			       
+            </div>             <div data-tag="Últimas" class="uk-first-column ultspace">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/a-primeira-pagina-do-jornal-economico-de-14-de-janeiro/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom ultttl">00h01</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom ultm"> A primeira página do Jornal Económico de 14 de janeiro </h3>
+                </a>
+			       
+            </div>             <div data-tag="Últimas" class="uk-first-column ultspace">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/emirates-inicia-2025-a-recrutar-tripulacao-de-cabine-em-portugal/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom ultttl">13 jan 2025</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom ultm"> Emirates inicia 2025 a recrutar tripulação de cabine em Portugal </h3>
+                </a>
+			       
+            </div>             <div data-tag="Últimas" class="uk-first-column ultspace">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/associacao-de-municipios-nao-se-opoe-a-desagregacao-de-freguesias-no-parlamento/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom ultttl">13 jan 2025</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom ultm"> Associação de Municípios não se opõe à desagregação de freguesias no parlamento </h3>
+                </a>
+			       
+            </div>             <div data-tag="Últimas" class="uk-first-column ultspace">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/pedidos-de-patentes-portuguesas-aumentaram-nos-ultimos-10-anos/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom ultttl">13 jan 2025</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom ultm"> Pedidos de patentes portuguesas aumentaram nos últimos 10 anos </h3>
+                </a>
+			       
+            </div>             <div data-tag="Últimas" class="uk-first-column ultspace">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/tap-sobe-para-1o-lugar-como-companhia-aerea-mais-segura-da-europa-e-para-11o-do-mundo/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom ultttl">13 jan 2025</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom ultm"> TAP sobe para 1º lugar como companhia aérea mais segura da Europa e para 11º do mundo </h3>
+                </a>
+			       
+            </div>         
+                    <div data-tag="+Populares" class="uk-grid-margin uk-first-column" style="display: none;">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/portugal-tem-50-fortunas-acima-de-300-milhoes-quem-sao-os-mais-ricos-do-pais/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom populttl">28 dez 2024</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom popul"> Portugal tem 50 fortunas acima de 300 milhões. Quem são os mais ricos do país? </h3>
+                </a>
+            </div>
+                    <div data-tag="+Populares" class="uk-grid-margin uk-first-column" style="display: none;">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/novidades-de-2025-salario-minimo/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom populttl">06 jan 2025</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom popul"> Novidades de 2025: Salário Mínimo </h3>
+                </a>
+            </div>
+                    <div data-tag="+Populares" class="uk-grid-margin uk-first-column" style="display: none;">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/multibanco-ou-atm-esta-a-par-das-diferencas-e-semelhancas/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom populttl">31 dez 2024</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom popul"> Multibanco ou ATM: está a par das diferenças e semelhanças? </h3>
+                </a>
+            </div>
+                    <div data-tag="+Populares" class="uk-grid-margin uk-first-column" style="display: none;">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/agricultores-espanhois-exigem-investigacao-sobre-a-queda-dos-precos-do-azeite/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom populttl">02 jan 2025</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom popul"> Agricultores espanhóis exigem investigação sobre a queda dos preços do azeite </h3>
+                </a>
+            </div>
+                    <div data-tag="+Populares" class="uk-grid-margin uk-first-column" style="display: none;">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/reclamacoes-sobre-a-padaria-portuguesa-subiram-20-este-ano/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom populttl">23 dez 2024</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom popul"> Reclamações sobre a Padaria Portuguesa subiram 20% este ano </h3>
+                </a>
+            </div>
+                    <div data-tag="+Populares" class="uk-grid-margin uk-first-column" style="display: none;">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/europa-cercada-num-setor-que-dominou-por-100-anos/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom populttl">21 dez 2024</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom popul"> Europa cercada num setor que dominou por 100 anos </h3>
+                </a>
+            </div>
+                    <div data-tag="+Populares" class="uk-grid-margin uk-first-column" style="display: none;">
+                <a class="el-item uk-panel uk-margin-remove-first-child uk-link-toggle uk-display-block" href="https://jornaleconomico.sapo.pt/noticias/clientes-da-digi-com-rede-movel-melhorada-a-partir-de-hoje/">
+                    <div class="el-meta uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom populttl">24 dez 2024</div>
+                    <h3 class="el-title uk-heading-small uk-margin-small-top uk-margin-remove-bottom popul"> Clientes da Digi com rede móvel melhorada a partir de hoje </h3>
+                </a>
+            </div>
+            </div>
+</div>
+
+</content></div>
+<div><div class="clever-core-ads"></div></div>
+<div class="uk-panel pub uk-margin-small uk-text-center widget widget_je_widget_sapo_pub">
+    
+            <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Halfpage_btf" data-pub="appNexus"></div>
+    
+</div>
+
+                
+            
+        
+    
+</div>
+</div><div class="plat1 uk-margin-remove-bottom tm-grid-expand uk-grid-small uk-grid-divider uk-margin-medium uk-margin-remove-bottom" uk-grid="">
+<div class="uk-width-large@m uk-width-small@l uk-width-small@xl">
+    
+        
+            
+            
+            
+                
+                    
+                
+            
+        
+    
+</div>
+
+<div class="uk-width-expand@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-panel widget widget_je_widget_sapo_pub">
+    
+            <div class="OUTBRAIN" data-src="https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/" data-widget-id="AR_1"></div> <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+    
+</div>
+
+<div class="uk-panel uk-margin-small uk-text-center widget widget_je_widget_sapo_pub">
+    
+            <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Billboard" data-pub="appNexus"></div>
+    
+</div>
+
+<h2 class="uk-h6 je-title-bg-black uk-margin-small" id="vanish-fb">        RECOMENDADO    </h2>
+    <div class="je-recomend uk-margin">
+        
+            
+                <div class="uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-2@m uk-child-width-1-3@l uk-child-width-1-3@xl uk-grid-divider uk-grid-match" uk-grid="">                                <div>
+
+<div class="el-item uk-flex uk-flex-column uk-panel">
+
+            <div class="uk-position-relative"><a href="https://jornaleconomico.sapo.pt/noticias/associacao-nacional-de-farmacias-reorganiza-farminveste/"><div class="new-class-container"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/c4/medicamentos-1-c4882e22.webp 550w, /wp-content/themes/yootheme/cache/b2/medicamentos-1-b2447158.webp 768w, /wp-content/themes/yootheme/cache/48/medicamentos-1-48dec8e2.webp 776w, /wp-content/themes/yootheme/cache/f1/medicamentos-1-f125130a.webp 777w" sizes="(min-width: 550px) 550px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/f5/medicamentos-1-f5fa0666.jpeg" width="550" height="425" class="el-image" alt="" loading="lazy">
+</picture></div></a></div>    
+            <div class="uk-flex uk-flex-column uk-height-1-1 uk-padding-small uk-margin-remove-first-child">
+
+    <div class="el-meta uk-h5 uk-margin-top uk-margin-remove-bottom"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/" rel="tag">Empresas</a>, <a href="https://jornaleconomico.sapo.pt/categoria/sapo-economia/" rel="tag">Sapo Economia</a>, <a href="https://jornaleconomico.sapo.pt/categoria/empresas/saude/" rel="tag">Saúde</a></div>
+
+    <h3 class="el-title uk-h4 uk-margin-small-top uk-margin-remove-bottom">            <a href="https://jornaleconomico.sapo.pt/noticias/associacao-nacional-de-farmacias-reorganiza-farminveste/" class="uk-link-reset">Associação Nacional de Farmácias reorganiza Farminveste</a>        </h3>
+
+
+
+
+
+    <div class="je-date-authors uk-text-primary">
+        <span class="je-authors">         <a href="https://jornaleconomico.sapo.pt/noticias/author/ines-botelho/">Inês Correia Botelho</a>
+    <span class="co-authors-e"> e </span>        <a href="https://jornaleconomico.sapo.pt/noticias/author/com-lusa/">Lusa</a>
+    </span>
+
+        
+    </div>
+
+
+    <div class="je-extra-btn-container">
+        <div class="uk-flex uk-flex-middle uk-margin-small-top">
+            <!-- <a href="#" class="uk-button uk-button-default">sub-categoria</a> -->
+                            <a class="je-extra-btn" href="javascript:void(0)" id="1256504" onclick="saveArticle(1256504)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                        <path fill="#fff" fill-rule="evenodd" d="M18 16.81v-2.107c0-.388.305-.703.682-.703h13.636c.377 0 .682.315.682.703v2.107H18zm0 1.405h15v18.082c0 .175-.063.344-.177.473-.254.287-.685.308-.963.047L25.5 30.86l-6.36 5.957c-.125.118-.289.183-.458.183-.377 0-.682-.315-.682-.703V18.215z" clip-rule="evenodd"></path>
+                    </svg>
+                </a>
+            
+                                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/associacao-nacional-de-farmacias-reorganiza-farminveste/" addthis:title="Associação Nacional de Farmácias reorganiza Farminveste" addthis:description="">
+                    <a class="addthis_button_compact addthis_bubble_style je-extra-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                            <path fill="#fff" d="M35.685 23.377l-6.923-7.139c-.525-.595-1.154 0-1.154.952v3.57c-4.93 0-9.127 3.45-11.12 8.09-.735 1.546-1.154 3.212-1.469 4.877-.21 1.19 1.364 1.785 1.993.714 2.308-4.164 6.19-6.9 10.596-6.9v3.926c0 .952.63 1.547 1.154.952l6.923-7.139c.42-.476.42-1.428 0-1.903z"></path>
+                        </svg>
+                    </a>
+
+                </div>
+                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/associacao-nacional-de-farmacias-reorganiza-farminveste/" addthis:title="Associação Nacional de Farmácias reorganiza Farminveste" addthis:description="">
+                <a class="addthis_button_facebook share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_twitter share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_linkedin share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_whatsapp share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_email share-buttons-mobile uk-hidden@s"></a>
+            </div>
+        </div>
+    </div>
+
+
+</div>    
+    
+</div></div>
+                                <div>
+
+<div class="el-item uk-flex uk-flex-column uk-panel">
+
+            <div class="uk-position-relative"><a href="https://jornaleconomico.sapo.pt/noticias/mercado-de-cuidados-de-saude-em-portugal-com-crescimento-de-50-desde-2016/"><div class="new-class-container"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/5e/Hospital-5e9d99fd.webp 550w, /wp-content/themes/yootheme/cache/28/Hospital-2851c687.webp 768w, /wp-content/themes/yootheme/cache/d2/Hospital-d2cb7f3d.webp 776w, /wp-content/themes/yootheme/cache/6b/Hospital-6b30a4d5.webp 777w" sizes="(min-width: 550px) 550px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/e2/Hospital-e2090e15.png" width="550" height="425" class="el-image" alt="" loading="lazy">
+</picture></div></a></div>    
+            <div class="uk-flex uk-flex-column uk-height-1-1 uk-padding-small uk-margin-remove-first-child">
+
+    <div class="el-meta uk-h5 uk-margin-top uk-margin-remove-bottom"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/" rel="tag">Empresas</a>, <a href="https://jornaleconomico.sapo.pt/categoria/sapo-economia/" rel="tag">Sapo Economia</a>, <a href="https://jornaleconomico.sapo.pt/categoria/empresas/saude/" rel="tag">Saúde</a>, <a href="https://jornaleconomico.sapo.pt/categoria/sociedade-2/" rel="tag">Sociedade</a></div>
+
+    <h3 class="el-title uk-h4 uk-margin-small-top uk-margin-remove-bottom">            <a href="https://jornaleconomico.sapo.pt/noticias/mercado-de-cuidados-de-saude-em-portugal-com-crescimento-de-50-desde-2016/" class="uk-link-reset">Mercado de cuidados de saúde em Portugal com crescimento de 50% desde 2016</a>        </h3>
+
+
+
+
+
+    <div class="je-date-authors uk-text-primary">
+        <span class="je-authors">         <a href="https://jornaleconomico.sapo.pt/noticias/author/nbraga/">Nuno Braga</a>
+    </span>
+
+        
+    </div>
+
+
+    <div class="je-extra-btn-container">
+        <div class="uk-flex uk-flex-middle uk-margin-small-top">
+            <!-- <a href="#" class="uk-button uk-button-default">sub-categoria</a> -->
+                            <a class="je-extra-btn" href="javascript:void(0)" id="1255437" onclick="saveArticle(1255437)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                        <path fill="#fff" fill-rule="evenodd" d="M18 16.81v-2.107c0-.388.305-.703.682-.703h13.636c.377 0 .682.315.682.703v2.107H18zm0 1.405h15v18.082c0 .175-.063.344-.177.473-.254.287-.685.308-.963.047L25.5 30.86l-6.36 5.957c-.125.118-.289.183-.458.183-.377 0-.682-.315-.682-.703V18.215z" clip-rule="evenodd"></path>
+                    </svg>
+                </a>
+            
+                                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/mercado-de-cuidados-de-saude-em-portugal-com-crescimento-de-50-desde-2016/" addthis:title="Mercado de cuidados de saúde em Portugal com crescimento de 50% desde 2016" addthis:description="">
+                    <a class="addthis_button_compact addthis_bubble_style je-extra-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                            <path fill="#fff" d="M35.685 23.377l-6.923-7.139c-.525-.595-1.154 0-1.154.952v3.57c-4.93 0-9.127 3.45-11.12 8.09-.735 1.546-1.154 3.212-1.469 4.877-.21 1.19 1.364 1.785 1.993.714 2.308-4.164 6.19-6.9 10.596-6.9v3.926c0 .952.63 1.547 1.154.952l6.923-7.139c.42-.476.42-1.428 0-1.903z"></path>
+                        </svg>
+                    </a>
+
+                </div>
+                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/mercado-de-cuidados-de-saude-em-portugal-com-crescimento-de-50-desde-2016/" addthis:title="Mercado de cuidados de saúde em Portugal com crescimento de 50% desde 2016" addthis:description="">
+                <a class="addthis_button_facebook share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_twitter share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_linkedin share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_whatsapp share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_email share-buttons-mobile uk-hidden@s"></a>
+            </div>
+        </div>
+    </div>
+
+
+</div>    
+    
+</div></div>
+                                <div>
+
+<div class="el-item uk-flex uk-flex-column uk-panel">
+
+            <div class="uk-position-relative"><a href="https://jornaleconomico.sapo.pt/noticias/lusiadas-saude-lanca-app-com-check-in-automatico-e-tempo-de-espera-real/"><div class="new-class-container"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/40/Simao-Freire-Chief-Transformation-Officer-e1736366867222-40342ebf.webp 550w, /wp-content/themes/yootheme/cache/36/Simao-Freire-Chief-Transformation-Officer-e1736366867222-36f871c5.webp 768w, /wp-content/themes/yootheme/cache/50/Simao-Freire-Chief-Transformation-Officer-e1736366867222-501636cc.webp 882w, /wp-content/themes/yootheme/cache/e9/Simao-Freire-Chief-Transformation-Officer-e1736366867222-e9eded24.webp 883w" sizes="(min-width: 550px) 550px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/6c/Simao-Freire-Chief-Transformation-Officer-e1736366867222-6ce515fc.jpeg" width="550" height="425" class="el-image" alt="" loading="lazy">
+</picture></div></a></div>    
+            <div class="uk-flex uk-flex-column uk-height-1-1 uk-padding-small uk-margin-remove-first-child">
+
+    <div class="el-meta uk-h5 uk-margin-top uk-margin-remove-bottom"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/" rel="tag">Empresas</a>, <a href="https://jornaleconomico.sapo.pt/categoria/sapo-economia/" rel="tag">Sapo Economia</a>, <a href="https://jornaleconomico.sapo.pt/categoria/empresas/saude/" rel="tag">Saúde</a></div>
+
+    <h3 class="el-title uk-h4 uk-margin-small-top uk-margin-remove-bottom">            <a href="https://jornaleconomico.sapo.pt/noticias/lusiadas-saude-lanca-app-com-check-in-automatico-e-tempo-de-espera-real/" class="uk-link-reset">Lusíadas Saúde lança app com check-in automático e tempo de espera real</a>        </h3>
+
+
+
+
+
+    <div class="je-date-authors uk-text-primary">
+        <span class="je-authors">         <a href="https://jornaleconomico.sapo.pt/noticias/author/ines-miguel/">Inês Pinto Miguel</a>
+    </span>
+
+        
+    </div>
+
+
+    <div class="je-extra-btn-container">
+        <div class="uk-flex uk-flex-middle uk-margin-small-top">
+            <!-- <a href="#" class="uk-button uk-button-default">sub-categoria</a> -->
+                            <a class="je-extra-btn" href="javascript:void(0)" id="1254750" onclick="saveArticle(1254750)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                        <path fill="#fff" fill-rule="evenodd" d="M18 16.81v-2.107c0-.388.305-.703.682-.703h13.636c.377 0 .682.315.682.703v2.107H18zm0 1.405h15v18.082c0 .175-.063.344-.177.473-.254.287-.685.308-.963.047L25.5 30.86l-6.36 5.957c-.125.118-.289.183-.458.183-.377 0-.682-.315-.682-.703V18.215z" clip-rule="evenodd"></path>
+                    </svg>
+                </a>
+            
+                                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/lusiadas-saude-lanca-app-com-check-in-automatico-e-tempo-de-espera-real/" addthis:title="Lusíadas Saúde lança app com check-in automático e tempo de espera real" addthis:description="">
+                    <a class="addthis_button_compact addthis_bubble_style je-extra-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                            <path fill="#fff" d="M35.685 23.377l-6.923-7.139c-.525-.595-1.154 0-1.154.952v3.57c-4.93 0-9.127 3.45-11.12 8.09-.735 1.546-1.154 3.212-1.469 4.877-.21 1.19 1.364 1.785 1.993.714 2.308-4.164 6.19-6.9 10.596-6.9v3.926c0 .952.63 1.547 1.154.952l6.923-7.139c.42-.476.42-1.428 0-1.903z"></path>
+                        </svg>
+                    </a>
+
+                </div>
+                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/lusiadas-saude-lanca-app-com-check-in-automatico-e-tempo-de-espera-real/" addthis:title="Lusíadas Saúde lança app com check-in automático e tempo de espera real" addthis:description="">
+                <a class="addthis_button_facebook share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_twitter share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_linkedin share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_whatsapp share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_email share-buttons-mobile uk-hidden@s"></a>
+            </div>
+        </div>
+    </div>
+
+
+</div>    
+    
+</div></div>
+                                <div>
+
+<div class="el-item uk-flex uk-flex-column uk-panel">
+
+            <div class="uk-position-relative"><a href="https://jornaleconomico.sapo.pt/noticias/hospital-da-luz-lisboa-recebe-selo-dourado-de-certificacao-internacional/"><div class="new-class-container"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/57/Hospital_da_Luz_Lisboa_2023_02-57928163.webp 550w, /wp-content/themes/yootheme/cache/21/Hospital_da_Luz_Lisboa_2023_02-215ede19.webp 768w, /wp-content/themes/yootheme/cache/db/Hospital_da_Luz_Lisboa_2023_02-dbc467a3.webp 776w, /wp-content/themes/yootheme/cache/62/Hospital_da_Luz_Lisboa_2023_02-623fbc4b.webp 777w" sizes="(min-width: 550px) 550px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/55/Hospital_da_Luz_Lisboa_2023_02-5515b050.jpeg" width="550" height="425" class="el-image" alt="" loading="lazy">
+</picture></div></a></div>    
+            <div class="uk-flex uk-flex-column uk-height-1-1 uk-padding-small uk-margin-remove-first-child">
+
+    <div class="el-meta uk-h5 uk-margin-top uk-margin-remove-bottom"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/" rel="tag">Empresas</a>, <a href="https://jornaleconomico.sapo.pt/categoria/sapo-economia/" rel="tag">Sapo Economia</a>, <a href="https://jornaleconomico.sapo.pt/categoria/empresas/saude/" rel="tag">Saúde</a></div>
+
+    <h3 class="el-title uk-h4 uk-margin-small-top uk-margin-remove-bottom">            <a href="https://jornaleconomico.sapo.pt/noticias/hospital-da-luz-lisboa-recebe-selo-dourado-de-certificacao-internacional/" class="uk-link-reset">Hospital da Luz Lisboa recebe ‘selo dourado’ de certificação internacional</a>        </h3>
+
+
+
+
+
+    <div class="je-date-authors uk-text-primary">
+        <span class="je-authors">         <a href="https://jornaleconomico.sapo.pt/noticias/author/rodolfo-alexandre-reis/">Rodolfo Alexandre Reis</a>
+    </span>
+
+        
+    </div>
+
+
+    <div class="je-extra-btn-container">
+        <div class="uk-flex uk-flex-middle uk-margin-small-top">
+            <!-- <a href="#" class="uk-button uk-button-default">sub-categoria</a> -->
+                            <a class="je-extra-btn" href="javascript:void(0)" id="1254560" onclick="saveArticle(1254560)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                        <path fill="#fff" fill-rule="evenodd" d="M18 16.81v-2.107c0-.388.305-.703.682-.703h13.636c.377 0 .682.315.682.703v2.107H18zm0 1.405h15v18.082c0 .175-.063.344-.177.473-.254.287-.685.308-.963.047L25.5 30.86l-6.36 5.957c-.125.118-.289.183-.458.183-.377 0-.682-.315-.682-.703V18.215z" clip-rule="evenodd"></path>
+                    </svg>
+                </a>
+            
+                                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/hospital-da-luz-lisboa-recebe-selo-dourado-de-certificacao-internacional/" addthis:title="Hospital da Luz Lisboa recebe ‘selo dourado’ de certificação internacional" addthis:description="">
+                    <a class="addthis_button_compact addthis_bubble_style je-extra-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                            <path fill="#fff" d="M35.685 23.377l-6.923-7.139c-.525-.595-1.154 0-1.154.952v3.57c-4.93 0-9.127 3.45-11.12 8.09-.735 1.546-1.154 3.212-1.469 4.877-.21 1.19 1.364 1.785 1.993.714 2.308-4.164 6.19-6.9 10.596-6.9v3.926c0 .952.63 1.547 1.154.952l6.923-7.139c.42-.476.42-1.428 0-1.903z"></path>
+                        </svg>
+                    </a>
+
+                </div>
+                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/hospital-da-luz-lisboa-recebe-selo-dourado-de-certificacao-internacional/" addthis:title="Hospital da Luz Lisboa recebe ‘selo dourado’ de certificação internacional" addthis:description="">
+                <a class="addthis_button_facebook share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_twitter share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_linkedin share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_whatsapp share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_email share-buttons-mobile uk-hidden@s"></a>
+            </div>
+        </div>
+    </div>
+
+
+</div>    
+    
+</div></div>
+                                <div>
+
+<div class="el-item uk-flex uk-flex-column uk-panel">
+
+            <div class="uk-position-relative"><a href="https://jornaleconomico.sapo.pt/noticias/faes-farma-recebe-luz-verde-para-operar-fabrica-que-vai-duplicar-producao-de-medicamentos/"><div class="new-class-container"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/4c/saude_medicamentos-4c9d40a7.webp 550w, /wp-content/themes/yootheme/cache/3a/saude_medicamentos-3a511fdd.webp 768w, /wp-content/themes/yootheme/cache/c0/saude_medicamentos-c0cba667.webp 776w, /wp-content/themes/yootheme/cache/79/saude_medicamentos-79307d8f.webp 777w" sizes="(min-width: 550px) 550px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/13/saude_medicamentos-134c7520.jpeg" width="550" height="425" class="el-image" alt="" loading="lazy">
+</picture></div></a></div>    
+            <div class="uk-flex uk-flex-column uk-height-1-1 uk-padding-small uk-margin-remove-first-child">
+
+    <div class="el-meta uk-h5 uk-margin-top uk-margin-remove-bottom"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/" rel="tag">Empresas</a>, <a href="https://jornaleconomico.sapo.pt/categoria/sapo-economia/" rel="tag">Sapo Economia</a>, <a href="https://jornaleconomico.sapo.pt/categoria/empresas/saude/" rel="tag">Saúde</a></div>
+
+    <h3 class="el-title uk-h4 uk-margin-small-top uk-margin-remove-bottom">            <a href="https://jornaleconomico.sapo.pt/noticias/faes-farma-recebe-luz-verde-para-operar-fabrica-que-vai-duplicar-producao-de-medicamentos/" class="uk-link-reset">Faes Farma recebe luz verde para operar fábrica que vai duplicar produção de medicamentos</a>        </h3>
+
+
+
+
+
+    <div class="je-date-authors uk-text-primary">
+        <span class="je-authors">         <a href="https://jornaleconomico.sapo.pt/noticias/author/almerinda-romeira/">Almerinda Romeira</a>
+    </span>
+
+        
+    </div>
+
+
+    <div class="je-extra-btn-container">
+        <div class="uk-flex uk-flex-middle uk-margin-small-top">
+            <!-- <a href="#" class="uk-button uk-button-default">sub-categoria</a> -->
+                            <a class="je-extra-btn" href="javascript:void(0)" id="1254352" onclick="saveArticle(1254352)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                        <path fill="#fff" fill-rule="evenodd" d="M18 16.81v-2.107c0-.388.305-.703.682-.703h13.636c.377 0 .682.315.682.703v2.107H18zm0 1.405h15v18.082c0 .175-.063.344-.177.473-.254.287-.685.308-.963.047L25.5 30.86l-6.36 5.957c-.125.118-.289.183-.458.183-.377 0-.682-.315-.682-.703V18.215z" clip-rule="evenodd"></path>
+                    </svg>
+                </a>
+            
+                                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/faes-farma-recebe-luz-verde-para-operar-fabrica-que-vai-duplicar-producao-de-medicamentos/" addthis:title="Faes Farma recebe luz verde para operar fábrica que vai duplicar produção de medicamentos" addthis:description="">
+                    <a class="addthis_button_compact addthis_bubble_style je-extra-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                            <path fill="#fff" d="M35.685 23.377l-6.923-7.139c-.525-.595-1.154 0-1.154.952v3.57c-4.93 0-9.127 3.45-11.12 8.09-.735 1.546-1.154 3.212-1.469 4.877-.21 1.19 1.364 1.785 1.993.714 2.308-4.164 6.19-6.9 10.596-6.9v3.926c0 .952.63 1.547 1.154.952l6.923-7.139c.42-.476.42-1.428 0-1.903z"></path>
+                        </svg>
+                    </a>
+
+                </div>
+                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/faes-farma-recebe-luz-verde-para-operar-fabrica-que-vai-duplicar-producao-de-medicamentos/" addthis:title="Faes Farma recebe luz verde para operar fábrica que vai duplicar produção de medicamentos" addthis:description="">
+                <a class="addthis_button_facebook share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_twitter share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_linkedin share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_whatsapp share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_email share-buttons-mobile uk-hidden@s"></a>
+            </div>
+        </div>
+    </div>
+
+
+</div>    
+    
+</div></div>
+                                <div>
+
+<div class="el-item uk-flex uk-flex-column uk-panel">
+
+            <div class="uk-position-relative"><a href="https://jornaleconomico.sapo.pt/noticias/estado-e-santa-casa-desistem-de-venda-de-hospital-da-cruz-vermelha/"><div class="new-class-container"><picture>
+<source type="image/webp" srcset="/wp-content/themes/yootheme/cache/53/leitor_5cfa9ad522a05_Imagem_hospitalcruzvermelha_comunicacaosocial_9272149_-5300d2ea.webp 550w, /wp-content/themes/yootheme/cache/25/leitor_5cfa9ad522a05_Imagem_hospitalcruzvermelha_comunicacaosocial_9272149_-25cc8d90.webp 768w, /wp-content/themes/yootheme/cache/df/leitor_5cfa9ad522a05_Imagem_hospitalcruzvermelha_comunicacaosocial_9272149_-df56342a.webp 776w, /wp-content/themes/yootheme/cache/66/leitor_5cfa9ad522a05_Imagem_hospitalcruzvermelha_comunicacaosocial_9272149_-66adefc2.webp 777w" sizes="(min-width: 550px) 550px">
+<img decoding="async" src="/wp-content/themes/yootheme/cache/a6/leitor_5cfa9ad522a05_Imagem_hospitalcruzvermelha_comunicacaosocial_9272149_-a6e38ec1.jpeg" width="550" height="425" class="el-image" alt="" loading="lazy">
+</picture></div></a></div>    
+            <div class="uk-flex uk-flex-column uk-height-1-1 uk-padding-small uk-margin-remove-first-child">
+
+    <div class="el-meta uk-h5 uk-margin-top uk-margin-remove-bottom"><a href="https://jornaleconomico.sapo.pt/categoria/empresas/" rel="tag">Empresas</a>, <a href="https://jornaleconomico.sapo.pt/categoria/sapo-economia/" rel="tag">Sapo Economia</a>, <a href="https://jornaleconomico.sapo.pt/categoria/empresas/saude/" rel="tag">Saúde</a></div>
+
+    <h3 class="el-title uk-h4 uk-margin-small-top uk-margin-remove-bottom">            <a href="https://jornaleconomico.sapo.pt/noticias/estado-e-santa-casa-desistem-de-venda-de-hospital-da-cruz-vermelha/" class="uk-link-reset">Estado e Santa Casa desistem de venda de Hospital da Cruz Vermelha</a>        </h3>
+
+
+
+
+
+    <div class="je-date-authors uk-text-primary">
+        <span class="je-authors">         <a href="https://jornaleconomico.sapo.pt/noticias/author/ines-miguel/">Inês Pinto Miguel</a>
+    </span>
+
+        
+    </div>
+
+
+    <div class="je-extra-btn-container">
+        <div class="uk-flex uk-flex-middle uk-margin-small-top">
+            <!-- <a href="#" class="uk-button uk-button-default">sub-categoria</a> -->
+                            <a class="je-extra-btn" href="javascript:void(0)" id="1254087" onclick="saveArticle(1254087)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                        <path fill="#fff" fill-rule="evenodd" d="M18 16.81v-2.107c0-.388.305-.703.682-.703h13.636c.377 0 .682.315.682.703v2.107H18zm0 1.405h15v18.082c0 .175-.063.344-.177.473-.254.287-.685.308-.963.047L25.5 30.86l-6.36 5.957c-.125.118-.289.183-.458.183-.377 0-.682-.315-.682-.703V18.215z" clip-rule="evenodd"></path>
+                    </svg>
+                </a>
+            
+                                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/estado-e-santa-casa-desistem-de-venda-de-hospital-da-cruz-vermelha/" addthis:title="Estado e Santa Casa desistem de venda de Hospital da Cruz Vermelha" addthis:description="">
+                    <a class="addthis_button_compact addthis_bubble_style je-extra-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" fill="none" viewBox="0 0 51 51">
+                            <path fill="#fff" d="M35.685 23.377l-6.923-7.139c-.525-.595-1.154 0-1.154.952v3.57c-4.93 0-9.127 3.45-11.12 8.09-.735 1.546-1.154 3.212-1.469 4.877-.21 1.19 1.364 1.785 1.993.714 2.308-4.164 6.19-6.9 10.596-6.9v3.926c0 .952.63 1.547 1.154.952l6.923-7.139c.42-.476.42-1.428 0-1.903z"></path>
+                        </svg>
+                    </a>
+
+                </div>
+                        <div class="addthis_toolbox addthis_32x32_style" addthis:url="https://jornaleconomico.sapo.pt/noticias/estado-e-santa-casa-desistem-de-venda-de-hospital-da-cruz-vermelha/" addthis:title="Estado e Santa Casa desistem de venda de Hospital da Cruz Vermelha" addthis:description="">
+                <a class="addthis_button_facebook share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_twitter share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_linkedin share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_whatsapp share-buttons-mobile uk-hidden@s"></a>
+                <a class="addthis_button_email share-buttons-mobile uk-hidden@s"></a>
+            </div>
+        </div>
+    </div>
+
+
+</div>    
+    
+</div></div>
+                                </div>
+
+            
+            
+        
+    </div>
+    
+
+                
+            
+        
+    
+</div>
+</div>
+                                </div>
+                
+            
+        
+    
+</div>
+
+<div class="uk-visible@m uk-section-default uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    
+                    <div class="uk-visible@m tm-grid-expand uk-child-width-1-1 uk-grid-margin" uk-grid="">
+<div class="uk-width-1-1 uk-visible@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-panel uk-visible@m uk-margin-small uk-text-center widget widget_je_widget_sapo_pub">
+    
+            <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Billboard" data-pub="appNexus"></div>
+    
+</div>
+
+                
+            
+        
+    
+</div>
+</div>
+                                </div>
+                
+            
+        
+    
+</div>
+ <div id="article-container" class="test-ok"></div>
+
+
+<!-- A TESTAR -->
+
+
+<!--
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "isAccessibleForFree": false,
+        "isPartOf": {
+            "@type": ["CreativeWork", "Product"],
+            "name": "The Example Times",
+            "productID": "example.com:showcase"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Example Times"
+        }
+    }
+</script>
+
+
+
+<script async src="https://accounts.google.com/gsi/client" defer></script>
+<script async subscriptions-control="manual" src="https://news.google.com/swg/js/v1/swg.js"></script>
+<script async src="https://news.google.com/swg/js/v1/swg-gaa.js" onload="InitGaaMetering()"></script>
+
+
+-->
+<!-- FIM TESTAR -->
+
+
+
+        
+            
+            <!-- Builder #footer --><style class="uk-margin-remove-adjacent">#footer\#2 a { word-break: break-all; } #footer\#3 #egoi-widget-form-egoi4widget-2{ display: flex; flex-wrap: wrap; } #footer\#3 #egoi-widget-form-egoi4widget-2 p{ width: 100%; margin-top: 5px } #footer\#3 .widget-text{ flex: 1; padding-bottom: 0px; } #footer\#3 .widget-text input{ width: 100%; height: 37px; vertical-align: middle; display: inline-block; border: 1px solid #ededed; color: #666; -webkit-appearance: none; overflow: visible; padding: 0px 10px; border-radius: 3px; font: inherit; outline: none; } #footer\#3 .submit_button{ width: auto; margin-left: 15px; background-color: #f9423a; border-color: #f9423a; color: #fff } #footer\#3 .submit_button:hover{ background-color: #fff; color: #f9423a; } #footer\#4 > div > div{ margin: 5px !important; padding: 5px !important; border: 2px solid #d6d6d6; } #footer\#4 > div{ margin-left: 0px; margin-bottom: 10px } </style>
+<div id="footer-je" class="tm-footer uk-section-muted uk-section uk-section-xsmall">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    
+                    <div class="tm-grid-expand uk-child-width-1-1 uk-grid-margin" uk-grid="">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    <div><div class="tm-headerbar-default tm-headerbar tm-headerbar-top rede-je-footer">
+        <div class="uk-container uk-container-large">
+            <div class="uk-position-relative uk-flex uk-flex-center uk-flex-middle">
+
+                                <div class="uk-position-center-left tm-position-z-index-high">
+                    <div class="uk-grid-medium uk-child-width-auto uk-flex-middle uk-grid uk-grid-stack" uk-grid="">
+                        <div class="uk-first-column">
+<div class="uk-panel widget widget_nav_menu" id="nav_menu-7">
+
+    
+    
+<ul class="uk-subnav">
+    <li class="je-header-menu-icon je-header-menu-icon-forum menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.pt/eventos/"> JE Eventos</a></li><li class="je-header-menu-icon je-header-menu-icon-jetv menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.pt/categoria/je-tv/"> JE TV</a></li><li class="je-header-menu-icon je-header-menu-icon-podcast menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.pt/categoria/podcast/"> JE Podcast</a></li><li class="je-header-menu-icon je-header-menu-icon-brand-channel menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jornaleconomico.pt/categoria/brand-channel/"> JE Brand Channel</a></li></ul>
+
+</div>
+</div>                    </div>
+                </div>
+                
+                                
+                                <div class="uk-position-center-right tm-position-z-index-high">
+                    <div class="uk-grid-medium uk-child-width-auto uk-flex-middle uk-grid uk-grid-stack" uk-grid="">
+                                            </div>
+                </div>
+                
+            </div>
+        </div>
+    </div></div>
+                
+            
+        
+    
+</div>
+</div><div class="tm-grid-expand uk-grid-margin" uk-grid="">
+<div class="uk-width-1-1@s uk-width-1-4@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin">
+        <img src="/wp-content/uploads/2021/04/logo-je.svg" width="155" height="64" class="el-image" alt="" loading="lazy">    
+    
+</div>
+<div class="uk-panel uk-text-small uk-text-secondary uk-margin" id="footer#2"><p>Tagus Park – Edifício Tecnologia 4.1<br>Avenida Professor Doutor Cavaco Silva, nº 71 a 74<br>2740-122 – Porto Salvo, Portugal<br><a href="mailto:online@medianove.com">online@<span>medianove.com</span></a></p></div>
+                
+            
+        
+    
+</div>
+
+<div class="uk-width-1-1@s uk-width-1-4@m">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-h5 uk-text-primary">        Siga-nos    </h2>
+<div id="footer#4" class="uk-margin-remove uk-margin uk-width-small uk-margin-auto@m uk-text-center@m uk-text-left">    <div class="uk-child-width-auto uk-grid-small uk-flex-inline" uk-grid="">
+            <div>
+<a class="el-link uk-icon-link" href="https://www.facebook.com/JornalEconomico/" rel="noreferrer"><span uk-icon="icon: facebook; width: 25; height: 25;"></span></a></div>
+            <div>
+<a class="el-link uk-icon-link" href="https://twitter.com/ojeconomico" rel="noreferrer"><span uk-icon="icon: twitter; width: 25; height: 25;"></span></a></div>
+            <div>
+<a class="el-link uk-icon-link" href="https://www.linkedin.com/company/jornaleconomico/" rel="noreferrer"><span uk-icon="icon: linkedin; width: 25; height: 25;"></span></a></div>
+    
+    </div></div>
+                
+            
+        
+    
+</div>
+
+<div class="uk-width-1-1@s uk-width-1-4@m uk-visible@m">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-h5 uk-text-primary uk-visible@m">        Sobre    </h2>
+<ul class="uk-list uk-visible@m">
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="https://medianove.com" target="_blank" class="el-link uk-link-text uk-margin-remove-last-child"><p>As nossas marcas</p></a></div>            </li>
+
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="/sobre-nos/o-jornal/estatuto-editorial/" class="el-link uk-link-text uk-margin-remove-last-child"><p>Estatuto Editorial</p></a></div>            </li>
+
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="/sobre-nos/o-jornal/codigo-de-etica-e-livro-de-estilo/" class="el-link uk-link-text uk-margin-remove-last-child"><p>Código de Ética e Livro de Estilo</p></a></div>            </li>
+
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="/sobre-nos/o-jornal/termos-e-condicoes/" class="el-link uk-link-text uk-margin-remove-last-child"><p>Termos e Condições</p></a></div>            </li>
+
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="https://jornaleconomico.pt/sobre-nos/equipa/ficha-tecnica/" class="el-link uk-link-text uk-margin-remove-last-child"><p>Ficha Técnica</p></a></div>            </li>
+</ul>
+                
+            
+        
+    
+</div>
+
+<div class="uk-width-1-1@s uk-width-1-4@m uk-visible@m">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-h5 uk-text-primary uk-visible@m">        Comercial    </h2>
+<ul class="uk-list uk-visible@m">
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="https://leitor.jornaleconomico.pt/assinaturas/produtos" class="el-link uk-link-text uk-margin-remove-last-child"><p>Assinaturas</p></a></div>            </li>
+
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="/publicidade/" class="el-link uk-link-text uk-margin-remove-last-child"><p>Publicidade</p></a></div>            </li>
+
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="/eventosje/" class="el-link uk-link-text uk-margin-remove-last-child"><p>JE Eventos</p></a></div>            </li>
+
+    <li class="el-item">        
+    <div class="el-content uk-panel uk-heading-small"><a href="/je-lab/" class="el-link uk-link-text uk-margin-remove-last-child"><p>JE Lab</p></a></div>            </li>
+</ul>
+                
+            
+        
+    
+</div>
+</div>
+                                </div>
+                
+            
+        
+    
+</div>
+
+<div class="bg-grey-dark uk-visible@m uk-section-muted uk-section uk-section-small">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    
+                    <div class="tm-grid-expand uk-margin-medium" uk-grid="">
+<div class="uk-grid-item-match uk-flex-middle uk-width-auto@m">
+    
+        
+            
+            
+                        <div class="uk-panel uk-width-1-1">            
+                
+                    <div class="uk-panel uk-text-small uk-text-muted uk-margin uk-text-left@m uk-text-center">Copyright © <script>
+document.currentScript.insertAdjacentHTML('afterend', '<time datetime="' + new Date().toJSON() + '">' + new Intl.DateTimeFormat(document.documentElement.lang, {year: 'numeric'}).format() + '</time>');    
+</script> Jornal Económico. Todos os direitos reservados.</div>
+                
+                        </div>
+            
+        
+    
+</div>
+
+<div class="uk-grid-item-match uk-flex-middle uk-width-auto@m">
+    
+        
+            
+            
+                        <div class="uk-panel uk-width-1-1">            
+                
+                    
+<div class="footer-links uk-text-right">
+    <ul class="uk-margin-remove-bottom uk-subnav  uk-subnav-divider uk-flex-right" uk-margin="">        <li class="el-item ">
+    <a class="el-link" href="/sobre-nos/o-jornal/termos-e-condicoes/">Termos e Condições</a></li>
+        <li class="el-item ">
+    <a class="el-link" href="/sobre-nos/o-jornal/termos-e-condicoes/">Política de privacidade</a></li>
+        <li class="el-item ">
+    <a class="el-link" href="https://medianove.com/">Estrutura Accionista</a></li>
+        </ul>
+
+</div>
+
+                
+                        </div>
+            
+        
+    
+</div>
+</div>
+                                </div>
+                
+            
+        
+    
+</div>
+
+        </div>
+
+                                    <center>
+                      <div data-pub-siteid="Media9_Jornaleconomico" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Floorad" data-pub="appNexus"></div>
+                    </center>
+        <div id="csbwfs-delaydiv"><div class="csbwfs-custom-style csbwfs-social-widget" id="csbwfs-left" title="Share This With Your Friends" style="top:70%;left:30px;"><div class="csbwfs-responive-div"><style type="text/css">.csbwfs-custom-style .csbwfs-sbutton a,.csbwfs-custom-style #csbwfs-social-inner i.fa-csbwfs-hide{background-color:#ffffff;}.csbwfs-count-sharecountBtns .csbwfs-count {color:#4b4b4b;}.csbwfs-custom-style #csbwfs-cntsum-txt,.csbwfs-custom-style #csbwfs-cntsum .csbwfs-count-bubble{background-color:#ffffff;}.csbwfs-custom-style .csbwfs-sbutton a{border-bottom:1px solid #4b4b4b;}.csbwfs-custom-style #csbwfs-cntsum .csbwfs-count-bubble:after,.csbwfs-custom-style #csbwfs-cntsum .csbwfs-count-bubble:before{border-color:#ffffff rgba(192, 192, 192, 0) rgba(192, 192, 192, 0);}#csbwfs-delaydiv .csbwfs-custom-style .csbwfs-sbutton .fa{color:#4b4b4b;}</style><div id="csbwfs-social-inner" class="csbwfs-custom-style1"><div class="csbwfs-sbutton "><div class="csbwfs-fb"><a href="javascript:" onclick="window.open('//www.facebook.com/sharer/sharer.php?u=https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/','Facebook','width=800,height=300')" title="Partilhar no Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></div></div><div class="csbwfs-sbutton"><div class="csbwfs-li"><a href="javascript:" onclick="javascript:window.open('//www.linkedin.com/shareArticle?mini=true&amp;url=https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/&amp;title=Preval%C3%AAncia+da+%C3%93micron+pode+chegar+aos+50%25+no+Natal+e+80%25+no+Ano+Novo&amp;summary=','','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=800');return false;" title="Partilhar no Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div></div><div class="csbwfs-sbutton"><div class="csbwfs-tw"><a href="javascript:" onclick="window.open('//twitter.com/share?url=https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/&amp;text=Preval%C3%AAncia+da+%C3%93micron+pode+chegar+aos+50%25+no+Natal+e+80%25+no+Ano+Novo - ','_blank','width=800,height=300')" title="Partilhar no Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></div></div><div class="csbwfs-sbutton whatsapp"><div class="csbwfs-whats"><a href="https://api.whatsapp.com/send?jump=close&amp;text=Preval%C3%AAncia+da+%C3%93micron+pode+chegar+aos+50%25+no+Natal+e+80%25+no+Ano+Novo&nbsp;&nbsp;https://jornaleconomico.sapo.pt/noticias/prevalencia-da-omicron-pode-chegar-aos-50-no-natal-e-80-no-ano-novo-821208/" title="Share on WhatsApp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></div></div></div></div></div></div><script>
+	  var windWidth=jQuery( window ).width();
+	  //alert(windWidth);
+	  var animateWidth;
+	  var defaultAnimateWidth;
+	  animateHeight="49";
+	 defaultAnimateHeight= animateHeight-2;
+	jQuery(document).ready(function()
+  { if(windWidth < "500" )
+   {
+	   animateWidth="45";
+	   defaultAnimateWidth= animateWidth-10;
+	   }else
+			   {
+				   animateWidth="55";
+				   defaultAnimateWidth= animateWidth-10;
+				   }jQuery("#csbwfs-delaydiv .csbwfs-social-widget .csbwfs-sbutton a").hover(function(){
+	jQuery(this).animate({width:animateWidth});
+	},function(){
+	jQuery(this).stop( true, true ).animate({width:defaultAnimateWidth});
+	});jQuery("div.csbwfs-show").hide();
+  jQuery("div.csbwfs-show").click(function(){
+    jQuery("div#csbwfs-social-inner").show();
+     jQuery("div.csbwfs-show").hide();
+     jQuery("div.csbwfs-show").attr("id","");
+    jQuery("div.csbwfs-hide").show();
+  });
+  
+  jQuery("div.csbwfs-hide a").click(function(){
+     jQuery("div.csbwfs-show").show();
+      jQuery("div.csbwfs-hide").hide();
+     jQuery("div#csbwfs-social-inner").hide();
+  });});</script><link rel="stylesheet" id="sapo-partner-css" href="https://jornaleconomico.sapo.pt/wp-content/plugins/sapo-parceiro/css/styles.css?ver=628879075" type="text/css" media="all">
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=3571255444" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/jornaleconomico.sapo.pt\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/contact-form-7/includes/js/index.js?ver=3571255444" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/medianove-news-aggregator/public/../admin/js/splide.min.js?ver=248370601" id="splide-js-js"></script>
+<script type="text/javascript" src="https://jornaleconomico.sapo.pt/wp-content/plugins/medianove-news-aggregator/public/../admin/js/custom-splide-init.js?ver=1592156500" id="custom-splide-init-js"></script>
+<script id="sapo-bsu-js-before" type="text/javascript">
+_bsu=document.createElement("div");_bsu.id="bsu-placeholder";document.body.insertBefore(_bsu,document.body.firstChild);
+</script>
+<script type="text/javascript" data-width="1320" data-partner="true" data-country="pt" data-target="#bsu-placeholder" data-bg-color="#222" src="//js.sapo.pt/Projects/bsuv4/js/bsuv4.min.js?ver=2575774603" id="sapo-bsu-js"></script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFNVZ4P8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<script>
+var width = window.innerWidth
+|| document.documentElement.clientWidth
+|| document.body.clientWidth;
+
+/* if ( width > 0) {
+document.write('<script async id="bsuScript" src="https://js.sapo.pt/Projects/bsuv3/js/bsuv3.min.js" data-partner="jornal-economico" data-width="1400"><\/script>');
+}*/
+</script>
+      				<script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/75920/tag"></script>
+<br>
+		    
+
+
+</body></html>

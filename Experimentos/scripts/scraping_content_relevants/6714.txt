@@ -1,0 +1,709 @@
+<html lang="pt-br"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="description" content="
+ 
+Nesta sexta-feira (24), a temperatura no Vale do Aço chegou próxima da casa dos 40 graus, conforme a estação meteorológica do Instituto Federal de Minas Gerais (IFMG), em Ipatinga">
+  <meta name="keywords" content="frente,fria,calor,">
+  <meta name="author" content="www.diariodoaco.com.br">
+
+  <title>
+    Frente fria deve amenizar calor nos próximos dias no Vale do Aço, afirma meteorologista | Portal Diário do Aço
+  </title>
+
+  <base href="https://www.diariodoaco.com.br/">
+
+  <meta property="og:title" content="Frente fria deve amenizar calor nos próximos dias no Vale do Aço, afirma meteorologista">
+  <meta property="og:description" content="
+ 
+Nesta sexta-feira (24), a temperatura no Vale do Aço chegou próxima da casa dos 40 graus, conforme a estação meteorológica do Instituto Federal de Minas Gerais (IFMG), em Ipatinga">
+  <meta property="og:url" content="
+ 
+Nesta sexta-feira (24), a temperatura no Vale do Aço chegou próxima da casa dos 40 graus, conforme a estação meteorológica do Instituto Federal de Minas Gerais (IFMG), em Ipatinga">
+  <meta property="og:image" content="https://www.diariodoaco.com.br/images/noticias/111628/mn_20231124163245_VG392GbeRB.jpg">
+  <meta property="og:image:width" content="660">
+  <meta property="og:image:height" content="495">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="PORTAL DIÁRIO DO AÇO">
+  <meta property="fb:pages" content="105020326258090">
+
+  <link rel="icon" href="./assets/img/favicon.jpg" type="image/png">
+
+  <meta name="theme-color" content="#01507C">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#01507C">
+  <meta name="msapplication-navbutton-color" content="#01507C">
+
+  <!-- Google font -->
+  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:700%7CNunito:300,600" rel="stylesheet">
+  <!-- Bootstrap -->
+  <link href="./assets/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+  <!-- Custom stlylesheet -->
+  <link href="./assets/css/style.min.css?v=3" type="text/css" rel="stylesheet">
+
+  
+  <!-- Font Awesome Icon
+  <script src="https://kit.fontawesome.com/926340ff3c.js" crossorigin="anonymous"></script>
+   -->
+  <!-- Font Awesome Solid + Brands -->
+  <link href="./assets/fontawesome/css/fontawesome.css" rel="stylesheet">
+  <link href="./assets/fontawesome/css/brands.css" rel="stylesheet">
+  <link href="./assets/fontawesome/css/solid.css" rel="stylesheet">
+
+  <!-- Google tag (gtag.js) -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-4HH9HL69QK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-4HH9HL69QK');
+  </script>
+
+  <link rel="stylesheet" href="./assets/css/lightbox.min.css" type="text/css"><link rel="stylesheet" href="./assets/js/owl-carousel/assets/owl.carousel.min.css" type="text/css"><link rel="stylesheet" href="./assets/js/owl-carousel/assets/owl.theme.default.min.css" type="text/css">
+</head>
+
+<body>
+
+  <header id="header">
+    <div id="nav">
+      <!-- Main Nav -->
+      <div id="nav-fixed">
+        
+        <div class="container">
+          <!-- logo -->
+          <div class="nav-logo hidden-xs" style="padding-top: 10px; padding-bottom: 10px;">
+            <a href="./" class="logo"><img src="./assets/img/logo.png?v=1" alt=""></a>
+          </div>
+          <div class="nav-logo visible-xs" style="padding-top: 10px;">
+            <a href="./" class="logo"><img src="./assets/img/logo_da.png?v=1" alt=""></a>
+          </div>
+
+          <!-- nav -->
+          <ul class="nav-menu nav navbar-nav" style="padding-top: 20px;">
+            <li class="cidade"><a href="./cidade">Cidade</a></li>
+            <li class="policia"><a href="./policia">Polícia</a></li>
+            <li class="minas"><a href="./minas">Minas</a></li>
+            <li class="brasil"><a href="./brasil-e-mundo">Brasil e Mundo</a></li>
+            <li class="cultura"><a href="./cultura">Cultura</a></li>
+            <li class="esporte"><a href="./esporte">Esporte</a></li>
+            <li class="publegais">
+              <a href="./publicacoeslegais">Publicações Legais</a>
+            </li>
+            <!-- <li><a href="./login">Login</a></li> -->
+          </ul>
+
+          <!-- search & aside toggle -->
+          <div class="nav-btns" style="padding-top:20px;">
+            <button class="aside-btn"><i class="fa fa-bars"></i></button>
+            <button class="search-btn"><i class="fa fa-search"></i></button>
+            <div class="search-form">
+              <input class="search-input" style="font-size: 1.3em;" type="text" name="p" value="" placeholder=" Pesquisar ...">
+              <button class="search-close"><i class="fa fa-times"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /Main Nav -->
+
+      <!-- Aside Nav -->
+      <div id="nav-aside">
+        <div class="section-row">
+          <ul class="nav-aside-menu">
+            <a href="./"><img style="padding-bottom:10px;" src="./assets/img/logo.png" alt=""></a>
+            <ul class="nav-aside-social" style="padding-bottom:10px; text-align: center;">
+              <li>
+                <a href="https://www.facebook.com/diariodoaco" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/portaldiarioaco" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/portaldiariodoaco" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/user/diariodoacotv" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+              </li>
+              <li>
+                <a href="http://jornaldiariodoaco.bsky.social" target="_blank"><i class="fa-brands fa-bluesky"></i></a>
+              </li>
+            </ul>
+
+            <li><a href="./cidade">Cidade</a></li>
+            <li><a href="./policia">Polícia</a></li>
+            <li><a href="./minas">Minas</a></li>
+            <li><a href="./brasil-e-mundo">Brasil e Mundo</a></li>
+            <li><a href="./cultura">Cultura</a></li>
+            <li><a href="./esporte">Esporte</a></li>
+            <li><a href="./publicacoeslegais">Publicações Legais</a></li>
+
+            <li class="mt-15">
+              <span style="font-size: 1.1em; font-weight: bold;">FIQUE POR DENTRO</span>
+            </li>
+            <li>&nbsp;&nbsp;- <a href="./fique-por-dentro/casa-e-decoracao">Casa e Decoração</a>
+            </li>
+            <li>&nbsp;&nbsp;- <a href="./fique-por-dentro/cinema">Cinema</a></li>
+            <li>&nbsp;&nbsp;- <a href="./fique-por-dentro/comportamento">Comportamento</a></li>
+            <li>&nbsp;&nbsp;- <a href="./fique-por-dentro/famosos">Famosos</a></li>
+            <li>&nbsp;&nbsp;- <a href="./fique-por-dentro/moda">Moda</a></li>
+            <li>&nbsp;&nbsp;- <a href="./fique-por-dentro/que-beleza">Que beleza!</a></li>
+            <li>&nbsp;&nbsp;- <a href="./fique-por-dentro/saude">Saúde</a></li>
+            <li class="mb-15"></li>
+
+            <li><a href="./da-presente">DA Presente</a></li>
+            <li><a href="./ecologia">Ecologia</a></li>
+            <li><a href="./especiais">Especiais</a></li>
+            <li><a href="./o-giro">O Giro</a></li>
+            <li><a href="./opiniao">Opinião</a></li>
+            <li><a href="./promocoes">Promoções</a></li>
+            <li><a href="./veiculo">Veículo</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Contatos</h3>
+          <h4>
+            <i class="fa-brands fa-whatsapp"></i>
+            31 99952.7138 - Redação
+          </h4>
+          <h4>
+            <i class="fa fa-phone"></i>
+            31 3828.9030 - Administração / anúncios / comercial
+          </h4>
+          <h4>
+            <i class="fa-brands fa-whatsapp"></i>
+            31 98634.1524 - Comercial
+          </h4>
+        </div>
+
+        <button class="nav-aside-close">
+          <i class="fa fa-times"></i></button>
+      </div>
+    </div>
+  </header>
+
+  
+<!-- script RECAPTCHA -->
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+<!-- script PROÍBE CÓPIA -->
+<script>
+document.addEventListener('copy', function(e) {
+  e.preventDefault();
+  e.clipboardData.setData("text/plain", "Para compartilhar essa notícia use o link: https://www.diariodoaco.com.br/noticia/0111628-frente-fria-deve-amenizar-calor-nos-proximos-dias-no-vale-do-aco-afirma-meteorologista");
+})
+</script>
+
+<!-- section -->
+<div class="section">
+  <!-- container -->
+  <div class="container">
+    <!-- row -->
+    <div class="row">
+      <!-- Post content -->
+      <div class="col-md-8">
+        <div class="section-row">
+          <div class="main-post mt-30">
+            <!-- ad -->
+            <div class="section-row text-center">
+              <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Responsivo --> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7918962635644316" data-ad-slot="6743105784" data-ad-format="auto"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>            </div>
+
+            <p class="text-right">
+              25 de novembro, de 2023 | 07:00            </p>
+
+            <div class="post-meta" style="padding-bottom:10px;">
+              <a class="post-category cidade" href="https://www.diariodoaco.com.br/cidade">
+                Cidade              </a>
+            </div>
+
+            <h2>Frente fria deve amenizar calor nos próximos dias no Vale do Aço, afirma meteorologista</h2>
+
+            
+            <div class="imagemNoticiaEsquerda"><span class="credito">Alex Ferreira</span><br><a class="example-image-link" href="./images/noticias/111628/20231124163245_VG392GbeRB.jpg" data-lightbox="imagem" data-title="Para o sábado, a previsão é de temperatura máxima de 28 graus"><img src="./images/noticias/111628/mn_20231124163245_VG392GbeRB.jpg" alt="Para o sábado, a previsão é de temperatura máxima de 28 graus" border="0"></a><span class="titulo_legenda">Para o sábado, a previsão é de temperatura máxima de 28 graus</span></div><br>
+ <br>
+Nesta sexta-feira (24), a temperatura no Vale do Aço chegou próxima da casa dos 40 graus, conforme a estação meteorológica do Instituto Federal de Minas Gerais (IFMG), em Ipatinga. Para os próximos dias, a previsão é que esse calor seja menos intenso na região, segundo o meteorologista Ruibran dos Reis.<br>
+<br>
+Devido à passagem de uma frente fria pelo litoral do Espírito Santo neste fim de semana, os termômetros no Vale do Aço devem registrar uma leve queda, conforme Ruibran. “Haverá um aumento da nebulosidade e uma ligeira queda nas temperaturas no sábado (25) e domingo (26), com possibilidade somente de chuvisco no sábado, nada significativo”, afirmou. <br>
+<br>
+Segundo dados do Centro de Previsão de Tempo e Estudos Climáticos (Cptec), para sábado, em Ipatinga e região, a previsão é de temperatura mínima de 22 graus e máxima de 28º. Já no domingo, a temperatura mínima é de 18 graus e a máxima de 29º. <br>
+<br>
+<b>El Niño</b><br>
+O Instituto Nacional de Meteorologia (Inmet), em parceria com o Instituto Nacional de Pesquisas Espaciais (Inpe), a Agência Nacional de Águas e Saneamento Básico (ANA) e o Centro Nacional de Gerenciamento de Riscos e Desastre (Cenad), divulgaram na quarta-feira (22) o boletim nº 3 com o objetivo de apresentar o monitoramento, previsões e os possíveis impactos do El Niño no Brasil em 2023, que teve início em julho deste ano e deve durar ao menos até abril de 2024.<br>
+<br>
+<b>Condições observadas</b> <br>
+De acordo com o boletim, desde junho as condições observadas de temperatura da superfície do mar mostram um padrão típico do fenômeno El Niño. Este padrão se apresenta na forma de uma faixa de águas quentes em grande parte do Oceano Pacífico Equatorial que, próximo à costa da América do Sul, são superiores a 3°C. Desde agosto, essa região apresentou sinais de atividade convectiva anômala em associação ao desenvolvimento de nuvens profundas. <br>
+<br>
+Neste ano, um efeito do El Niño que, atualmente, está classificado como de intensidade forte, tem sido observado nos estados do Rio Grande do Sul e Santa Catarina com o maior volume de precipitação (chuva) acumulada.<br>
+<br>
+<b>Anomalias </b><br>
+Durante o mês de outubro, as anomalias de precipitação foram superiores a 300 milímetros (mm) entre os setores norte do Rio Grande do Sul e praticamente todo o estado de Santa Catarina. Por outro lado, na região Norte foram observados déficits, principalmente, nos setores sul e oeste da região, o que foi influenciado principalmente pelo aquecimento anormal do Atlântico Tropical Norte.<br>
+<br>
+Considerando-se a previsão de anomalia de precipitação para o período de 1 mês (15 de novembro a 14 de dezembro de 2023), há indicação de condições mais úmidas do que o normal em partes do norte do Rio Grande do Sul, Santa Catarina, Paraná, centro-sul de Mato Grosso do Sul, São Paulo, sul de Minas Gerais e em parte do norte do Pará e Amapá. Para as demais regiões do país, a previsão indica o predomínio de condições mais secas do que o normal, com destaque para a região amazônica, principalmente, no setor mais central e sul da região.<br>
+
+            <div class="row mt-20 pr-20 text-right" style="font-size: 13px;">
+              Encontrou um erro, ou quer sugerir uma notícia? Fale com o editor: <a class="link-comunica-erro" href="javascript:"><span class="__cf_email__" data-cfemail="ed8b8c81888e82808288898499829fad89848c9f848289828c8e82c38e8280c38f9f">[email&nbsp;protected]</span></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="sticky-container">
+          <ul class="col-xs-12 sticky-shares">
+            
+      <li>
+        <a class="share-facebook" title="Compartilhar no Facebook" href="https://www.facebook.com/share.php?t=Frente+fria+deve+amenizar+calor+nos+pr%C3%B3ximos+dias+no+Vale+do+A%C3%A7o%2C+afirma+meteorologista&amp;u=https%3A%2F%2Fwww.diariodoaco.com.br%2Fnoticia%2F0111628-frente-fria-deve-amenizar-calor-nos-proximos-dias-no-vale-do-aco-afirma-meteorologista" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+          <i class="fa-brands fa-facebook fa-lg"></i>
+        </a>
+      </li>
+      <li>
+        <a class="share-twitter" title="Compartilhar no Twitter" href="https://twitter.com/intent/tweet?text=Frente+fria+deve+amenizar+calor+nos+pr%C3%B3ximos+dias+no+Vale+do+A%C3%A7o%2C+afirma+meteorologista&amp;url=https%3A%2F%2Fwww.diariodoaco.com.br%2Fnoticia%2F0111628-frente-fria-deve-amenizar-calor-nos-proximos-dias-no-vale-do-aco-afirma-meteorologista&amp;via=portaldiariodoaco" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+          <i class="fa-brands fa-twitter fa-lg"></i>
+        </a>
+      </li>
+      <li>
+        <a class="share-whatsapp" title="Compartilhar pelo Whatsapp" href="https://web.whatsapp.com/send?l=pt_br&amp;text=*Frente fria deve amenizar calor nos próximos dias no Vale do Aço, afirma meteorologista* 
+https%3A%2F%2Fwww.diariodoaco.com.br%2Fnoticia%2F0111628-frente-fria-deve-amenizar-calor-nos-proximos-dias-no-vale-do-aco-afirma-meteorologista" target="_blank">
+          <i class="fa-brands fa-whatsapp fa-lg"></i>
+        </a>
+      </li>
+      <li>
+        <a class="share-pinterest" title="Compartilhar no Pinterest" href="https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.diariodoaco.com.br%2Fnoticia%2F0111628-frente-fria-deve-amenizar-calor-nos-proximos-dias-no-vale-do-aco-afirma-meteorologista&amp;media=https://www.diariodoaco.com.br/images/noticias/111628/20231124163245_VG392GbeRB.jpg&amp;description=" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+          <i class="fa-brands fa-pinterest fa-lg"></i>
+        </a>
+      </li>
+      <li>
+        <a class="share-linkedin" title="Compartilhar no Pinterest" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.diariodoaco.com.br%2Fnoticia%2F0111628-frente-fria-deve-amenizar-calor-nos-proximos-dias-no-vale-do-aco-afirma-meteorologista&amp;name=Portal Diario do Aço" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;">
+          <i class="fa-brands fa-linkedin fa-lg"></i>
+        </a>
+      </li>
+              </ul>
+        </div>
+
+        <!-- ad -->
+        <div class="section-row text-center" style="padding-top: 80px;">
+          <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Responsivo --> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7918962635644316" data-ad-slot="6743105784" data-ad-format="auto"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>        </div>
+
+        <!-- COMENTÁRIOS -->
+        <div class="section-row">
+          <div class="media-heading">
+            <h3>Comentários</h3>
+          </div>
+          <p>
+            <small>
+              <b>Aviso -</b> Os comentários não representam a opinião do Portal Diário do Aço e são de responsabilidade de seus autores. Não serão aprovados comentários que violem a lei, a moral e os bons costumes. O Diário do Aço modera todas as mensagens e resguarda o direito de reprovar textos ofensivos que não respeitem os critérios estabelecidos.
+            </small>
+          </p>
+
+          <div class="post-comments">
+                      </div>
+
+          <div class="section-title" id="">
+            <h2>Envie seu Comentário</h2>
+          </div>
+          <div>
+            <form id="form-coment" name="frmcoment" method="post">
+              <div class="div_danger alert alert-danger" style="display: none;"></div>
+              <div class="div_success alert alert-success" style="display: none;"></div>
+
+              <input type="hidden" name="token" value="ZE10Puq3YBOPTa9BR1ucJw0J0R4KeV8Xee9AskbrlqZgEb6JrTctLS8Kw30c645t">
+              <input type="hidden" name="idnoticia" value="111628">
+
+              <div class="row">
+                <div class="form-group col-xs-12 col-sm-6">
+                  <input type="text" name="nome" placeholder="Nome*" required="" class="form-control">
+                </div>
+                <div class="form-group col-xs-12 col-sm-6">
+                  <input type="email" name="email" placeholder="E-mail*" required="" class="form-control">
+                </div>
+                <div class="form-group col-xs-12">
+                  <textarea name="msg" placeholder="Sua Mensagem" rows="5" cols="0" class="form-control" required=""></textarea>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="g-recaptcha" data-sitekey="6LcKIQkUAAAAAKfAb_G_B4K9P2YBvpiCff04xQX2"></div>
+              </div>
+
+              <div class="form-group">
+                <br>
+                <button id="btn-env-coment" class="btn btn-danger" type="submit">
+                  <i class="fa fa-paper-plane"></i>
+                  &nbsp;Postar Comentário
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- aside -->
+      <div class="col-md-4">
+        <!-- ad -->
+        <div class="aside-widget text-center mt-30">
+          
+            <a href="estatisticas.php?idpub=1098" target="_blank">
+                <img class="pub300x250" src="https://www.diariodoaco.com.br/./images/publicidades/20241213104507_Z0KTromC61qZc5tR.jpg" alt="PREF BELO ORIENTE EDUCAR 300X250">
+            </a>
+                  </div>
+
+        <!-- post widget -->
+        <div class="aside-widget">
+          <div class="section-title">
+            <h2>Leia Mais</h2>
+          </div>
+
+          
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121504-vale-do-aco-permanece-com-alerta-laranja-para-tempestades-ate-quartafeira"><img src="./images/noticias/121504/mn_20250113175723_Kzo91Ir1OC.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121504-vale-do-aco-permanece-com-alerta-laranja-para-tempestades-ate-quartafeira"> Vale do Aço permanece com alerta laranja para tempestades até quarta-feira </a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121502-forca-de-trabalho-unificada-movimenta-cerca-de-500-pessoas-em-ipatinga-alem-de-80-maquinas-e-equipamentos"><img src="./images/noticias/121502/mn_20250113173812_1F9fnTdcIH.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121502-forca-de-trabalho-unificada-movimenta-cerca-de-500-pessoas-em-ipatinga-alem-de-80-maquinas-e-equipamentos">Força de trabalho unificada movimenta cerca de 500 pessoas em Ipatinga, além de 80 máquinas e equipamentos</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121501-interdicoes-decorrentes-de-danos-da-chuva-causam-alteracoes-em-algumas-linhas-do-transporte-coletivo"><img src="./images/noticias/121501/mn_20250113173411_xJNfvo8ile.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121501-interdicoes-decorrentes-de-danos-da-chuva-causam-alteracoes-em-algumas-linhas-do-transporte-coletivo">Interdições decorrentes de danos da chuva causam alterações em algumas linhas do transporte coletivo </a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121500-ipatinga-conta-com-pontos-de-arrecadacao-de-donativos-para-atingidos-por-catastrofe-climatica"><img src="./images/noticias/121500/mn_20250113172333_6aZLLriug2.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121500-ipatinga-conta-com-pontos-de-arrecadacao-de-donativos-para-atingidos-por-catastrofe-climatica">Ipatinga conta com pontos de arrecadação de donativos para atingidos por catástrofe climática </a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121499-governo-de-santana-do-paraiso-lanca-campanha-de-doacoes-para-familias-atingidas-pela-chuva"><img src="./images/noticias/121499/mn_20250113170537_O71EWO5P7L.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121499-governo-de-santana-do-paraiso-lanca-campanha-de-doacoes-para-familias-atingidas-pela-chuva">Governo de Santana do Paraíso lança campanha de doações para famílias atingidas pela chuva</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121498-defesa-civil-nacional-e-mobilizada-para-apoiar-ipatinga-e-santana-do-paraiso"><img src="./images/noticias/121498/mn_20250113165713_w6TPfL6JUX.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121498-defesa-civil-nacional-e-mobilizada-para-apoiar-ipatinga-e-santana-do-paraiso">Defesa Civil Nacional é mobilizada para apoiar Ipatinga e Santana do Paraíso</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121495-abrigos-municipais-sao-estruturados-para-amparar-vitimas-da-chuva-em-ipatinga"><img src="./images/noticias/121495/mn_20250113164650_ECg934THbP.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121495-abrigos-municipais-sao-estruturados-para-amparar-vitimas-da-chuva-em-ipatinga">Abrigos municipais são estruturados para amparar vítimas da chuva em Ipatinga</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121493-em-ipatinga-moradores-atingidos-pelo-temporal-falam-sobre-o-impacto-da-tragedia"><img src="./images/noticias/121493/mn_20250113162302_39Te33z372.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121493-em-ipatinga-moradores-atingidos-pelo-temporal-falam-sobre-o-impacto-da-tragedia">Em Ipatinga, moradores atingidos pelo temporal falam sobre o impacto da tragédia</a></h3>
+        </div>
+      </div>
+            </div>
+
+        <!-- ad -->
+        <div class="aside-widget text-center">
+          <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- Torre --> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7918962635644316" data-ad-slot="3650038585"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>        </div>
+
+        <!-- post widget -->
+        <div class="aside-widget">
+          <div class="section-title">
+            <h2>Mais Lidas</h2>
+          </div>
+
+          
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121461-sobe-para-seis-o-numero-oficial-de-mortos-em-deslizamentos-de-terra-em-ipatinga"><img src="./images/noticias/121461/mn_20250112105121_tN927N6KHI.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121461-sobe-para-seis-o-numero-oficial-de-mortos-em-deslizamentos-de-terra-em-ipatinga">Sobe para seis o número oficial de mortos em deslizamentos de terra em Ipatinga</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121452-chuva-intensa-alaga-ruas-e-agua-invade-casas-em-ipatinga"><img src="./images/noticias/121452/mn_20250112042804_ZX534EDBz7.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121452-chuva-intensa-alaga-ruas-e-agua-invade-casas-em-ipatinga">Chuva intensa alaga ruas e água invade casas em Ipatinga </a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121458-estragos-da-chuva-deixam-mortos-feridos-e-desaparecidos-em-soterramentos-em-ipatinga"><img src="./images/noticias/121458/mn_20250112093624_1yGimK255r.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121458-estragos-da-chuva-deixam-mortos-feridos-e-desaparecidos-em-soterramentos-em-ipatinga">Estragos da chuva deixam mortos, feridos e desaparecidos em soterramentos em Ipatinga</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121463-ipatinga-decreta-calamidade-publica-em-funcao-de-tempestade-204mm"><img src="./images/noticias/121463/mn_20250112112004_zd4Kc69Vhi.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121463-ipatinga-decreta-calamidade-publica-em-funcao-de-tempestade-204mm">Ipatinga decreta calamidade pública em função de tempestade 204mm</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121457-alagamento-na-br381-bloqueia-o-transito-em-frente-ao-shopping-em-ipatinga"><img src="./images/noticias/121457/mn_20250112093159_NTZ0Wg1aq6.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121457-alagamento-na-br381-bloqueia-o-transito-em-frente-ao-shopping-em-ipatinga">Alagamento na BR-381 bloqueia o trânsito em frente ao Shopping em Ipatinga</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121451-vitima-de-infarto-morre-jose-carlos-bouzada"><img src="./images/noticias/121451/mn_20250111211936_Q3WtAgG2ro.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121451-vitima-de-infarto-morre-jose-carlos-bouzada">Vítima de infarto, morre José Carlos Bouzada</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121473-idosos-vitimas-de-catastrofe-em-ipatinga-serao-sepultados-nesta-segundafeira"><img src="./images/noticias/121473/mn_20250112204403_YD8ftmvhLB.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121473-idosos-vitimas-de-catastrofe-em-ipatinga-serao-sepultados-nesta-segundafeira">Idosos vítimas de catástrofe em Ipatinga serão sepultados nesta segunda-feira</a></h3>
+        </div>
+      </div>
+    
+      <div class="post post-widget">
+        <a class="post-img" href="./noticia/0121373-inscricoes-para-cursos-tecnicos-do-senai-encerramse-no-dia-26-de-janeiro"><img src="./images/noticias/121373/mn_20250109075154_5X7160aYnS.jpg" alt=""></a>
+        
+        <div class="post-body">
+          <h3 class="post-title"><a href="./noticia/0121373-inscricoes-para-cursos-tecnicos-do-senai-encerramse-no-dia-26-de-janeiro">Inscrições para cursos técnicos do Senai encerram-se no dia 26 de janeiro</a></h3>
+        </div>
+      </div>
+            </div>
+
+        <!-- ad -->
+        <div class="aside-widget text-center">
+                  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- MODAL Comunica Erro -->
+<div class="modal fade" id="modal-comunica" tabindex="-1" role="dialog" aria-labelledby="modal-comunica-aria">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+        <h4 class="modal-title">Informe sua sugestão ou o erro encontrado no site</h4>
+      </div>
+      <div class="modal-body">
+        
+      <form name="frmcomerro" id="frmcomerro">
+        <input type="hidden" name="token" value="ZE10Puq3YBOPTa9BR1ucJw0J0R4KeV8Xee9AskbrlqZgEb6JrTctLS8Kw30c645t">
+
+        <div id="msgSucessoLogin" class="alert alert-success" style="display:none;">
+          <b>- Obrigado por sua informação!!!</b>
+        </div>
+        <div id="msgLoginErro" class="alert alert-danger" style="display:none;">
+          <b>- Falha ao enviar sua mensagem, tente novamente.</b>
+          <div id="detErro" style="display:inline;"></div>
+        </div>
+
+        <input type="text" name="nome" class="form-control" style="margin-bottom:5px;" placeholder="Seu nome">
+        <input type="email" name="email" class="form-control" style="margin-bottom:5px;" placeholder="Seu email">
+        <textarea name="msg" class="form-control" style="margin-bottom:5px; height: 100px;" placeholder="Sua mensagem"></textarea>
+        <div class="text-right">
+          <button id="btn-comunica-erro" type="submit" class="btn btn-danger">
+            <i class="fa fa-paper-plane"></i>&nbsp; Enviar
+          </button>
+          <button type="reset" class="btn btn-primary ml-10" data-dismiss="modal">
+            <i class="fa fa-close"></i>&nbsp; Fechar
+          </button>
+        </div>
+      </form>
+          </div>
+    </div>
+  </div>
+</div>
+
+    <!-- Footer -->
+    <footer id=" footer">
+      <div class="container">
+        <div class="row">
+          <br>
+
+          <div class="col-md-3" style="text-align: center;">
+            <div class="footer-widget">
+              <div class="footer-logo">
+                <a href="./" class="logo"><img src="./assets/img/logo.png" alt=""></a>
+              </div>
+
+              <ul class="footer-nav">
+                <li>
+                  <a href="https://web.whatsapp.com/send?phone=5531999527138" target="_blank">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    31 99952.7138 - Redação
+                  </a>
+                </li>
+                <li>
+                  <i class="fa-solid fa-phone"></i>
+                  <b>31 3828.9030</b>
+                  <br>
+                  Administração / anúncios / comercial
+                </li>
+                <li>
+                  <a href="https://web.whatsapp.com/send?phone=5531986341524&amp;text=Quero+saber+mais+sobre+como+anunciar+no+Di%C3%A1rio+do+A%C3%A7o" target="_blank">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    31 98634.1524 - Comercial
+                  </a>
+                </li>
+              </ul>
+
+              <ul class="footer-social">
+                <li>
+                  <a href="https://www.facebook.com/diariodoaco" target="_blank">
+                    <i class="fa-brands fa-facebook"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/portaldiarioaco" target="_blank">
+                    <i class="fa-brands fa-twitter"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.instagram.com/portaldiariodoaco" target="_blank">
+                    <i class="fa-brands fa-instagram"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.youtube.com/user/diariodoacotv" target="_blank">
+                    <i class="fa-brands fa-youtube"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="http://jornaldiariodoaco.bsky.social" target="_blank">
+                    <i class="fa-brands fa-bluesky"></i>
+                  </a>
+                </li>
+              </ul>
+
+              <ul class="footer-nav" style="padding-top:20px;">
+                <li>
+                  <a href="#">
+                    <i class="fas fa-map-marker-alt"></i>
+                    Av. Londrina, 400<br>
+                    Veneza II - Ipatinga/MG<br>
+                    CEP 35164-291
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="col-md-1" style="text-align: center;"></div>
+
+          <div class="col-md-3" style="text-align: center;">
+            <div class="row">
+              <div>
+                <div class="footer-widget">
+                  <h3 class="footer-title">Midia Kit | Publicidade</h3>
+                  <p>Acesse aqui todas as informações e layouts referentes à publicidades e mídias
+                    digitais do Jornal Diário do Aço.</p>
+
+                  <button style="text-align: center; padding-top:15px;" onclick="window.open('./20240403_midia_kit_DA_2024.pdf', '_blank')" ,="">
+                    <h4><i class="fas fa-download"></i> Download</h4>
+                  </button>
+
+                  <h3 class="footer-title" style="padding-top:20px;">Localização</h3>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7523.108227280212!2d-42.523823!3d-19.474782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x896ec85c935c24c8!2zRGnDoXJpbyBkbyBBw6dv!5e0!3m2!1spt-BR!2sbr!4v1599232445007!5m2!1spt-BR!2sbr" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-1" style="text-align: center;"></div>
+
+          <div class="col-md-4" style="text-align: center;">
+            <div class="footer-widget">
+              <h3 class="footer-title">Sugerir Notícia</h3>
+              <p>Utilize o formulário ao lado para enviar sugestão ou reportagem para a assessoria de
+                comunicação do Jornal Diário do Aço.</p>
+              <div class="footer-newsletter">
+
+                <div id="msgMailOk" class="alert-success pa-10" style="display: none;">
+                  Mensagem enviada com sucesso!!!
+                </div>
+                <div id="msgMailErr" class="alert-danger pa-10" style="display: none;">
+                  Falha ao enviar mensagem!!!
+                </div>
+                <br>
+
+                <form id="frmContato">
+                  <input type="hidden" name="token" value="ZE10Puq3YBOPTa9BR1ucJw0J0R4KeV8Xee9AskbrlqZgEb6JrTctLS8Kw30c645t">
+                  <input class="input" type="text" name="nome" placeholder="Nome" required="">
+                  <input class="input" type="email" name="email" placeholder="E-mail" required="">
+                  <input class="input" type="text" name="assunto" placeholder="Assunto" required="">
+                  <textarea name="msg" placeholder="Mensagem" rows="12" class="input" required=""></textarea>
+                  <button style="text-align: center; padding-top:15px;">
+                    <h4><i class="fa fa-paper-plane"></i> ENVIAR </h4>
+                  </button>
+                </form>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="footer-copyright col-md-12" style="text-align: center;">
+            <span>
+              © Copyright ©
+              <script>
+                document.write(new Date().getFullYear());
+              </script>
+              Diário do Aço | Criação
+              <i class="fa fa-heart-o" aria-hidden="true"></i>
+              <a href="https://www.netsystem.com.br" target="_blank">NetSystem</a>
+            </span>
+          </div>
+
+          <a id="back-to-top" href="#" class="btn btn-light btn-lg back-to-top" role="button">
+            <i class="fas fa-chevron-up"></i>
+          </a>
+        </div>
+      </div>
+    </footer>
+
+    <!-- jQuery Plugins -->
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/js/bootstrap.min.js"></script>
+
+    <script src="./assets/js/owl-carousel/owl.carousel.min.js"></script><script src="./assets/js/lightbox.min.js"></script><script src="./assets/js/funcoes02.min.js"></script><script src="./assets/js/comentarios.min.js"></script>
+    <script src="./assets/js/main02.min.js"></script>
+
+    <!-- Premium ADS -->
+    <script data-cfasync="false" async="" src="https://tags.premiumads.com.br/dfp/c1946c26-3c5c-402b-d955-08d91ad2c231">
+    </script>
+    <!-- FIM -->
+
+
+
+</body></html>

@@ -1,0 +1,531 @@
+<html lang="pt-br"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Governo de Sergipe</title>
+    <link rel="shortcut icon" href="https://www.se.gov.br/favicon.png" type="image/x-icon">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_geral.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_home.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_noticia.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_multimidia.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_secretaria.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_conheca_sergipe.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_page_secretaria.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js" integrity="sha384-zYPOMqeu1DAVkHiLqWBUTcbYfZ8osu1Nd6Z89ify25QV9guujx43ITvfi12/QExE" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.min.js" integrity="sha384-Y4oOpwW3duJdCWv5ly8SCFYWqFDsfob/3GkgExXKV4idmbt98QcxXYs9UoXAB7BZ" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+  </head>
+
+  <body>
+
+  <div id="tudo">
+
+      <!-- icone acessibilidade wheelchair -->
+      <div id="opcao_acessibilidade">
+        <button type="button" class="wheelchair-icon btn btn-secondary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false"> </button>
+        <ul class="dropdown-menu">
+            <li> <i class="fa-solid fa-plus"></i> <a href="#" id="btnAumentar2" onclick="btn_aumentar()">Aumentar de fonte</a></li>
+            <li><i class="fa-solid fa-minus"></i> <a href="#" id="btnDiminuir2" onclick="btn_diminuir()">Diminuir de fonte</a></li>
+            <li><i class="fa fa-bullseye"></i> <a href="#" onclick="tom_cinza()">Escala de Cinza</a></li>
+            <li><i class="fa fa-adjust"></i> <a href="#" onclick="perfil_contraste()">Contraste</a></li>
+        </ul>
+      </div>
+
+      <!-- DESKTOP -->
+<section class="d-none d-md-block">
+    <div id="topo" class="container mb-5">
+        <div class="row">
+
+            <div class="col-3">
+                <a href="https://www.se.gov.br">
+                    <img src="https://www.se.gov.br/frontend/img/logo1_branco.png" class="img-fluid logo">
+                </a>
+                <div class="progress-stacked">
+                    <div class="progress" role="progressbar" aria-label="Segment one" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+                        <div class="progress-bar" style="background-color: #008acb;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment two" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #7bb52c;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment three" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #ffb400;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-9">
+
+                <div class="row">
+
+                    <div id="acessibilidade" class="col-6 offset-6 mt-3 text-end">
+                        <div class="col-12 mt-2 mb-3">
+                            <a href="https://twitter.com/governosergipe" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/twitter.png" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.instagram.com/governosergipe" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/instagram.svg" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.facebook.com/governodesergipe" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/facebook.svg" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.youtube.com/@governodesergipeoficial" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/youtube.svg" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.tiktok.com/@governodesergipe?_t=8cZ7VEN0rcD&amp;_r=1" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/tiktok2.png" width="35px">
+                            </a>
+                            &nbsp; &nbsp; &nbsp;
+
+                            <button id="btnAumentar" class="botao" title="Aumentar a fonte" onclick="btn_aumentar()">A+</button>
+
+                            <button id="btnDiminuir" class="botao" title="Diminuir a fonte" onclick="btn_diminuir()">A-</button>
+
+                            <button class="botao" title="Tema Cinza" onclick="tom_cinza()"> <i class="fa fa-bullseye" aria-hidden="true"></i> </button>
+
+                            <button class="botao" title="Tema Contraste" onclick="perfil_contraste()"> <i class="fa fa-adjust"></i> </button>
+                        </div>
+
+                        <div class="col-8 offset-4">
+                            <form role="form" action="https://www.se.gov.br/pesquisa" method="post">
+                                <input type="hidden" name="_token" value="EGlNpB9sWi1HyB4q43QhCbnubOCokRZ5nPZ2DTJ2" autocomplete="off">
+                                <div id="form-pesquisa" class="input-group input-group-sm mb-3">
+                                    <div class="input-group input-group-sm mb-3">
+                                        <button class="btn btn-outline-secondary" type="submit" id="button-addon1"><i class="fas fa-search"></i></button>
+                                        <input type="text" class="form-control" name="pesq" placeholder="O que você procura?" aria-label="Example text with button addon" aria-describedby="button-addon1" autofocus="">
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div id="menu_topo" class="col-12 text-end">
+                        <ul class="nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br">Início</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/governo">Governo</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/secretarias">Secretarias</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/orgaos_entidades">Orgãos e entidades</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/noticias">Notícias do Governo</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/noticias/governo/feriados_2025">Feriados</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" href="">Multimídia</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/imagens"> Imagens </a></li>
+                                    <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/videos"> Vídeos </a></li>
+                                    <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/audios"> Áudios </a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.ouvidoria.se.gov.br/index" target="_blank">Ouvidoria</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- MOBILE -->
+<section class="d-block d-md-none">
+
+    <!-- menu_mobile -->
+    <nav class="navbar fixed-top">
+        <div class="container-fluid">
+
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation" style="background-color: #eee;">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">GOVERNO DE SERGIPE</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br">Início</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/governo">Governo</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/secretarias">Secretarias</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/orgaos_entidades">Orgãos e entidades</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/noticias">Notícias do Governo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/noticias/governo/feriados_2025">Feriados</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" href="">Multimídia</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/imagens"> Imagens </a></li>
+                                <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/videos"> Vídeos </a></li>
+                                <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/audios"> Áudios </a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.ouvidoria.se.gov.br/index" target="_blank">Ouvidoria</a>
+                        </li>
+                    </ul>
+
+                    <form class="d-flex mt-3" role="search" action="https://www.se.gov.br/pesquisa" method="post">
+                        <input type="hidden" name="_token" value="EGlNpB9sWi1HyB4q43QhCbnubOCokRZ5nPZ2DTJ2" autocomplete="off">
+                        <input class="form-control form-control-sm me-2" type="search" placeholder="O que você procura?" aria-label="Search" name="pesq">
+                        <button class="btn btn-sm btn-outline-success" type="submit">Pesquisar</button>
+                    </form>
+
+                </div>
+            </div>
+
+
+        </div>
+    </nav>
+
+
+    <div id="topo_mobile" class="container">
+        <div class="row">
+
+            <div class="col-8 offset-2">
+                <a href="https://www.se.gov.br">
+                    <img src="https://www.se.gov.br/frontend/img/logo1_branco.png" class="img-fluid logo">
+                </a>
+                <div class="progress-stacked">
+                    <div class="progress" role="progressbar" aria-label="Segment one" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+                        <div class="progress-bar" style="background-color: #008acb;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment two" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #7bb52c;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment three" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #ffb400;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-8 offset-2 mt-3 text-center">
+                <div class="col-12 mt-2 mb-4">
+                    <a href="https://twitter.com/governosergipe" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/twitter.svg" width="35px">
+                    </a>
+                    &nbsp; &nbsp;
+                    <a href="https://www.instagram.com/governosergipe" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/instagram.svg" width="35px">
+                    </a>
+                    &nbsp; &nbsp;
+                    <a href="https://www.facebook.com/governodesergipe" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/facebook.svg" width="35px">
+                    </a>
+                    &nbsp; &nbsp;
+                    <a href="https://www.youtube.com/@governodesergipeoficial" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/youtube.svg" width="35px">
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+<!--
+<div class="container mb-4">
+  <div class="row">
+    <div class="col-md-12">
+      <a href="https://www.se.gov.br/noticias/sergipe-pais-do-forro/governo_de_sergipe_inicia_credenciamento_de_imprensa_para_o_arraia_do_povo_2024-1" target="_blank">
+      <img src="https://www.se.gov.br/anexos/uploads/download/midia/251/fe33879930ed2729cd2cd735cbfed04f.png"
+           id="corona" class="w-100 rounded d-none d-sm-block" alt="sergipe_pais_do_forro">
+      </a>
+    </div>
+  </div>
+</div>
+-->
+
+      <p class="text-center"> Página não encontrada! </p>
+
+      <div id="footer">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-12 mt-5">
+
+                <div class="row">
+                    <div class="col-sm-12 col-md-2 mb-4">
+
+                                                    <a href="https://www.se.gov.br">
+                                <img src="https://www.se.gov.br/frontend/img/logo1_branco.png" class="img-fluid logo">
+                            </a>
+                        
+                        <div class="progress-stacked">
+                            <div class="progress" role="progressbar" aria-label="Segment one" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+                                <div class="progress-bar" style="background-color: #008acb;"></div>
+                            </div>
+                            <div class="progress" role="progressbar" aria-label="Segment two" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                                <div class="progress-bar" style="background-color: #7bb52c;"></div>
+                            </div>
+                            <div class="progress" role="progressbar" aria-label="Segment three" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                                <div class="progress-bar" style="background-color: #ffb400;"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-10">
+                        <div class="row mb-0">
+
+                            <div class="col-sm-12 col-md-6 offset-md-1 mb-5">
+                                                                    Governo do Estado de Sergipe<br>
+                                    <a href="https://goo.gl/maps/nUzM67orsJTuEDdh8">
+                                    Palácio Governador Augusto Franco<br>
+                                    Av. Adélia Franco, 3305, Grageru
+                                    </a>
+                                                            </div>
+
+
+                            <div class="col-sm-12 col-md-5 text-end">
+                                <div class="row mb-4">
+                                    <div class="col-md-12">
+
+                                            
+                                                  <a href="https://twitter.com/governosergipe" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/twitter.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.instagram.com/governosergipe" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/instagram.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.facebook.com/governodesergipe" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/facebook.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.youtube.com/user/todosnumsocoracao" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/youtube.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.tiktok.com/@governodesergipe?_t=8cZ7VEN0rcD&amp;_r=1" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/tiktok2.png" width="30px">
+                                                  </a>
+
+                                            
+                                    </div>
+                                </div>
+
+                                <div class="row mb-4">
+                                  <div class="col-md-4">
+                                    <a href="https://www.se.gov.br/setc/setc_lai_acesso_a_informacao-1" target="_black">
+                                      <img src="https://www.se.gov.br/frontend/img/acesso_informacao.png" width="130px">
+                                    </a>
+                                  </div>
+                                  <div class="col-md-4">
+                                    <a href="https://sites.tcu.gov.br/verifique-adesao-pnpc" target="_black">
+                                      <img src="https://www.se.gov.br/frontend/img/chancela.png" width="100px">
+                                    </a>
+                                  </div>                                  
+                                  <div class="col-md-4">
+                                    <a href="https://radardatransparencia.atricon.org.br/panel.html" target="_black">
+                                      <img src="https://www.se.gov.br/frontend/img/radar.svg" width="130px">
+                                    </a>
+                                  </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12 mb-2">
+                                        <a href="https://www.se.gov.br/politica_de_privacidade">Política de Privacidade</a>
+                                    </div>
+
+                                    
+                                    <div class="col-md-12">
+                                        <a href="https://www.se.gov.br/mapa_site/orgao/0">
+                                         <img src="https://www.se.gov.br/frontend/img/mapa_site.svg" width="30px"> Mapa do site
+                                        </a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                        <div class="row">
+                            <div class="col-12 text_13">
+                                © Alguns direitos reservados. Todo o conteúdo deste portal pode ser utilizado livremente.
+                            </div>
+                        </div>
+                        <br>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    </div>
+</div>
+
+
+<!--Vlibras-->
+<div vw="" class="enabled" style="z-index: 0 !important;">
+  <div vw-access-button="" class="active"></div>
+  <div vw-plugin-wrapper="">
+    <div class="vw-plugin-top-wrapper"></div>
+  </div>
+</div>
+
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+
+<script>
+  new window.VLibras.Widget('https://vlibras.gov.br/app');
+</script>
+    
+  </div>
+
+  <div id="cokkie" class="cokkie" style="visibility: hidden;">
+    <div class="container">
+    <div class="row">
+      <div class="col-md-10">
+        Utilizamos cookies para melhorar a sua experiência nesse site. Ao fechar esta mensagem sem modificar as definições do seu navegador, você concorda com a utilização deles. <a href="https://www.se.gov.br/politica_de_privacidade">Política de Cookies.</a>
+      </div>
+      <div class="col-md-2">
+        <button type="button" class="btn btn-success btn-sm btn-block" onclick="aceito(1)"> Li e aceito</button>
+      </div>
+    </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+
+        let cinza = 0
+        let contraste = 0
+
+        $('[data-fancybox="gallery"]').fancybox({
+          buttons : [
+            'download',
+            'thumbs',
+            'close'
+          ]
+        });
+
+        // -- LEI LGPD --
+        $(document).ready(function(){
+            if( localStorage.getItem('aceito') != 1 || localStorage.getItem('aceito') == null ){
+              document.getElementById("cokkie").style.visibility = "visible";
+            }else{
+              document.getElementById("cokkie").style.visibility = "hidden";
+            }
+        });
+
+        function aceito(n){
+          localStorage.setItem('aceito',n);
+          document.getElementById("cokkie").style.visibility = "hidden";
+        }
+
+        // -- font size ---
+        var $btnAumentar = $("#btnAumentar");
+        var $btnAumentar = $("#btnAumentar2");
+        var $btnDiminuir = $("#btnDiminuir");
+        var $btnDiminuir = $("#btnDiminuir2");
+        var $elemento = $("body div");
+
+        function obterTamnhoFonte() {
+          let a =  parseFloat($elemento.css('font-size'));
+
+          console.log(a)
+
+          return a;
+        }
+
+        // $btnAumentar.on('click', function() {
+        //   $elemento.css('font-size', obterTamnhoFonte() + 1);
+        // });
+
+        // $btnDiminuir.on('click', function() {
+        //   $elemento.css('font-size', obterTamnhoFonte() - 1);
+        // });
+
+        function btn_aumentar(){
+          $elemento.css('font-size', obterTamnhoFonte() + 1);
+        }
+
+        function btn_diminuir(){
+          $elemento.css('font-size', obterTamnhoFonte() - 1);
+        }
+
+        function tom_cinza(){
+          if( cinza == 0 ){
+              $('body').css({'filter': 'grayscale(100%)'})
+              cinza = 1
+          }else{
+              $('body').css({'filter': 'grayscale(0%)', })
+              cinza = 0
+          }
+        }
+
+        function perfil_contraste(){
+          if( contraste == 0 ){
+              $('body').css({'background-color':'#000', 'filter':'grayscale(100%) contrast(150%)', 'color':'#fff'})
+
+              //transformar tudo em font branco
+              var elementos = document.querySelectorAll('*');
+              for (var i = 0; i < elementos.length; i++) {
+                elementos[i].style.color = 'white';
+                elementos[i].style.backgroundColor = 'black';
+              }
+
+              contraste = 1
+          }else{
+
+              $('body').css({'background-color':'#f5f5f5', 'filter':'grayscale(0%) contrast(100%)'})
+
+              var elementos = document.querySelectorAll('*');
+              for (var i = 0; i < elementos.length; i++) {
+                elementos[i].style.color = '#686868';
+                elementos[i].style.backgroundColor = '#f5f5f5';
+              }
+
+              contraste = 0
+          }
+        }
+
+  </script>
+
+
+
+  
+</div></body></html>

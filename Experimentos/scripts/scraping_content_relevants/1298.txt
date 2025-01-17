@@ -1,0 +1,1345 @@
+<html lang="pt-br"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+
+    <title>Conteúdo não encontrado - Prefeitura de Jales</title>
+    <meta name="description" content="Site oficial da Prefeitura Municipal de Jales. Serviços, informações e notícias da cidade de Jales.">
+    <link rel="canonical" href="https://jales.sp.gov.br/Erro?aspxerrorpath=/secretaria-de-saude-alerta-para-o-aumento-dos-casos-de-dengue-em-jales/">
+    <meta property="og:title" content="Conteúdo não encontrado - Prefeitura de Jales">
+    <meta property="og:description" content="Site oficial da Prefeitura Municipal de Jales. Serviços, informações e notícias da cidade de Jales.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/Arquitetura/Imagens/banner-compartilhamento.jpg">
+    <meta property="og:image:secure_url" content="/Arquitetura/Imagens/banner-compartilhamento.jpg">
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="420">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:url" content="https://jales.sp.gov.br/Erro?aspxerrorpath=/secretaria-de-saude-alerta-para-o-aumento-dos-casos-de-dengue-em-jales/">
+    <meta property="og:locale" content="pt_BR">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="/Arquitetura/Imagens/banner-compartilhamento.jpg">
+
+    <link href="/Arquitetura/CSS/main.css?v=638478479375833891" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/Arquitetura/Imagens/fav.png">
+
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="">
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PC8JRM6WPY"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+            gtag('config', 'G-PC8JRM6WPY');
+        </script>
+</head>
+<body>
+    
+<div class="a11y-container">
+    <div class="wrapper">
+        <div class="a11y-controls">
+            <button type="button" class="a11y-controls__theme" aria-label="Ativar alto contraste">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="36px" height="36px"><path d="M256 0C114.509 0 0 114.497 0 256c0 141.491 114.497 256 256 256 141.491 0 256-114.497 256-256C512 114.509 397.503 0 256 0zm15 481.513V30.487C387.26 38.051 482 134.618 482 256c0 121.349-94.685 217.945-211 225.513z"></path></svg>
+            </button>
+            <button type="button" class="a11y-controls__inc-font" aria-label="Aumentar tamanho do texto">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.966 24.966" width="36px" height="36px"><path d="M24.966 12.466v.961a.96.96 0 0 1-.961.961h-1.923v1.923a.96.96 0 0 1-.961.961h-.961a.96.96 0 0 1-.961-.961v-1.923h-1.923a.96.96 0 0 1-.961-.961v-.961a.96.96 0 0 1 .961-.961h1.923V9.582a.96.96 0 0 1 .961-.961h.961a.96.96 0 0 1 .961.961v1.923h1.923a.96.96 0 0 1 .961.961zm-9.694 8.016c.051.206.059.364.026.465-.036.102-.145.156-.331.156h-3.153c-.288 0-.484-.066-.586-.194-.102-.131-.195-.335-.279-.608l-.816-3.028H4.989l-.85 3.104c-.086.276-.195.468-.331.57-.136.102-.322.156-.56.156H.427c-.187 0-.314-.038-.381-.117-.069-.077-.061-.262.025-.557L4.978 4.617c.085-.241.186-.428.305-.559.117-.128.346-.194.687-.194h3.203c.356 0 .588.071.699.209.11.138.207.328.292.569l5.108 15.84zm-5.915-6.093l-1.712-6.35h-.126l-1.74 6.35h3.578z" fill="#030104"></path></svg>
+            </button>
+            <button type="button" class="a11y-controls__dec-font" aria-label="Diminuir tamanho do texto">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.591 24.591" width="36px" height="36px"><path d="M24.591 12.278v.947a.946.946 0 0 1-.947.947h-6.629a.946.946 0 0 1-.947-.947v-.947c0-.524.423-.947.947-.947h6.629c.524 0 .947.423.947.947zm-9.548 7.895c.05.203.058.358.026.458-.035.1-.143.153-.326.153h-3.105c-.284 0-.476-.065-.577-.191-.1-.129-.192-.33-.275-.599l-.804-2.982H4.914l-.838 3.057c-.084.272-.192.461-.326.562-.133.1-.317.153-.551.153H.421c-.184 0-.309-.038-.375-.115-.068-.076-.06-.258.025-.548L4.903 4.547c.083-.238.183-.421.3-.55.116-.126.342-.191.677-.191h3.155c.35 0 .58.07.688.205.108.136.204.323.288.561l5.032 15.601zm-5.826-6.001L7.53 7.918h-.124l-1.714 6.254h3.525z" fill="#030104"></path></svg>
+            </button>
+            <a class="a11y-controls__a11y" href="/acessibilidade" aria-label="Sobre Acessibilidade" title="Acessibilidade">
+                <span>Acessibilidade</span> <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="682.667" height="682.667" viewBox="0 0 512 512"><path d="M232.1 1C155.5 8.5 85.9 50.1 42.8 114.5c-15.6 23.3-30.2 57.2-36.2 84-4.9 21.8-6 32.5-6 57.5s1.1 35.7 6 57.5c8.1 36.2 28.2 76.8 52.2 105.5 24 28.7 51.5 50.3 84.7 66.6 25.5 12.5 48.4 19.6 77.5 24.1 17.7 2.7 53.9 2.4 72.5-.5 28.4-4.5 51.2-11.7 76.4-24.3 50.8-25.2 90.6-65.3 115.7-116.4 12.5-25.5 19.6-48.4 24.1-77.5 2.4-16.1 2.4-53.9 0-70-4.5-29.1-11.6-52-24.1-77.5-25.1-51.1-64.9-91.2-115.7-116.4-25-12.5-48-19.8-75.4-24.1-15-2.4-47.6-3.4-62.4-2zm54.2 39.6c37.5 5.4 70.4 19 100.7 41.7 12.2 9.2 33.5 30.5 42.7 42.7 22.7 30.4 35.8 61.9 41.9 101.2 2.2 13.9 2.2 45.7 0 59.6-6.1 39.3-19.2 70.8-41.9 101.2-9.2 12.2-30.5 33.5-42.7 42.7-30.4 22.7-61.9 35.8-101.2 41.9-13.9 2.2-45.7 2.2-59.6 0-39.3-6.1-70.8-19.2-101.2-41.9-12.2-9.2-33.5-30.5-42.7-42.7-22.7-30.4-35.8-61.9-41.9-101.2-2.2-13.9-2.2-45.7 0-59.6 6.1-39.3 19.2-70.8 41.9-101.2 9.2-12.2 30.5-33.5 42.7-42.7 46.8-35 104.6-49.9 161.3-41.7z"></path><path d="M239 79.6c-1.4.2-5.9.9-10 1.5-68.7 9.9-127.6 63.2-144.4 130.8-4.3 17.3-5.1 23.9-5.1 44.1 0 20.2.8 26.8 5.1 44.1 15.3 61.5 65.4 111.7 127.3 127.4 81.4 20.6 165.3-17.9 203-93.2 15-30.1 21-66.8 16.6-101-5.2-39.7-22.1-74-50.4-102.4-26.6-26.5-57.1-42.4-95.6-49.6-7.6-1.4-41.1-2.7-46.5-1.7zm30.4 35.5c6.9 2.5 15 10.1 18.6 17.4 2.2 4.3 2.5 6.3 2.5 15s-.3 10.6-2.5 14.9c-3.9 7.7-9.4 13.2-16.8 16.8-5.9 3-7.6 3.3-15.2 3.3s-9.3-.3-15.2-3.3c-7.4-3.6-12.9-9.1-16.8-16.8-2.2-4.3-2.5-6.2-2.5-14.9s.3-10.7 2.5-15c8.5-17 27.3-24.2 45.4-17.4zm-93.9 77.4c65.3 5.2 103.5 5 168.9-1 20.2-1.8 25.7-.7 27.4 5.8 2.2 8.1-3.5 12.2-19.4 13.6-5.4.6-20.2 1.5-32.9 2.1-27.5 1.3-32.4 2.1-36.4 6.1-4.7 4.7-5.6 11.2-4.2 31.1 2.7 37.9 11.3 80.4 24.1 118.3 2.7 8.2 5 16.7 5 18.8 0 3.4-.4 4-3.5 5.3-4.9 2-9.8 1.8-12.9-.7-5.6-4.4-9.6-15.7-21-59.4-8.9-34.1-9.1-34.5-14.8-34.5-4 0-5.4 2.9-8.8 18.6-6.5 29.7-16 60.6-21.2 69.4-3.7 6.2-6.5 8-12.5 8-3.3 0-4.6-.5-6.2-2.6-2.9-3.7-2.7-6.3 2.4-23.1 6.3-21.1 14.9-55.2 18.4-73.3 5.1-26.2 6.4-37.4 6.5-55.2l.1-16.7-2.9-3c-3.7-3.8-8.5-4.8-27.6-5.5-19.2-.7-53.3-4.3-57.3-6-5.4-2.2-7.2-5.2-6.8-11.2.3-4.9 5.6-7.6 13.6-6.8 2.2.2 12.1 1.1 22 1.9z"></path></svg>
+            </a>
+        </div>
+
+        <nav class="a11y-menu">
+            <a class="a11y-email" href="http://webmail.jales.sp.gov.br/" target="_blank" aria-label="E-mail" title="E-mail">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg" aria-labelledby="envelopeIconTitle" stroke="#000000" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" fill="none" color="#000000"> <title id="envelopeIconTitle">Envelope</title> <rect width="20" height="14" x="2" y="5"></rect> <path stroke-linecap="round" d="M2 5l10 9 10-9"></path> <path stroke-linecap="round" d="M2 19l6.825-7.8"></path> <path stroke-linecap="round" d="M22 19l-6.844-7.822"></path> </svg><span>E-mail</span>
+            </a>
+            <a href="#conteudo">Ir para o conteúdo</a>
+            <a href="#menu">Ir para o menu</a>
+            <a href="#busca">Ir para a busca</a>
+            <a href="#rodape">Ir para o rodapé</a>
+        </nav>
+    </div>
+</div>
+<header class="site-header">
+    <div class="wrapper">
+        <div class="search">
+            <form method="post" id="search-form" action="/pesquisar" class="search-box" enctype="multipart/form-data">
+                <input id="busca" type="search" name="q" value="" placeholder="Digite a sua busca" required="" minlength="3" maxlength="20" title="">
+                <div id="recaptchaSearch" class="g-recaptcha" hidden=""></div>
+                <button class="search-submit-button" type="submit" tabindex="-1" aria-hidden="true">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="36px" height="36px"><path d="M225.474 0C101.151 0 0 101.151 0 225.474c0 124.33 101.151 225.474 225.474 225.474 124.33 0 225.474-101.144 225.474-225.474C450.948 101.151 349.804 0 225.474 0zm0 409.323c-101.373 0-183.848-82.475-183.848-183.848S124.101 41.626 225.474 41.626s183.848 82.475 183.848 183.848-82.475 183.849-183.848 183.849z"></path><path d="M505.902 476.472L386.574 357.144c-8.131-8.131-21.299-8.131-29.43 0-8.131 8.124-8.131 21.306 0 29.43l119.328 119.328A20.74 20.74 0 00491.187 512a20.754 20.754 0 0014.715-6.098c8.131-8.124 8.131-21.306 0-29.43z"></path></svg>
+                </button>
+                <span class="loader loader-mini" hidden=""></span>
+            </form>
+        </div>
+        <div>
+            <a href="/" class="site-title">
+                <span class="site-title__logo">
+                    <img src="/Arquitetura/Imagens/logo.png" alt="Prefeitura de Jales">
+                </span>
+            </a>
+        </div>
+        <div style="position: relative" class="tempo">
+            <div style="width: 221px; top: -50px; right: 20px; position: absolute">
+                <a class="weatherwidget-io" href="https://forecast7.com/pt/n20d27n50d55/jales/" data-font="Roboto" data-mode="Current" data-theme="pure" data-basecolor="">Jales, State of São Paulo, Brazil</a>
+                <script>
+                    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+                </script>
+            </div>
+        </div>
+        <nav class="site-nav" id="menu">
+    <button class="menu-icon" aria-haspopup="true" aria-expanded="false" aria-controls="site-nav-trigger" aria-label="Abrir o menu principal" data-group-name="site-nav">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+
+    <div class="trigger" id="site-nav-trigger">
+        <ul class="site-nav__list">
+                    <li class="site-nav__item dropdown__container">
+                        <a onclick="abrirMenu(18954)" class="site-nav__link dropdown__main-button" href="/cidade" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-18954" data-group-name="navbar-submenu">
+                            <span>
+                                Cidade
+                            </span>
+                            <span class="dropdown__main-button__icon">
+                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                            </span>
+                        </a>
+                        <ul class="dropdown__list menu-topo" id="ddl-18954">
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidade/bandeira">
+                                            Bandeira
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidade/brasao">
+                                            Brasão
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidade/fotos-atuais">
+                                            Fotos Atuais
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidade/hino-do-municipio">
+                                            Hino do Município
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidade/historia">
+                                            História
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidade/localizacao">
+                                            Localização
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidade/turismo">
+                                            Turismo
+                                        </a>
+                                    </li>
+                        </ul>
+                    </li>
+                    <li class="site-nav__item dropdown__container">
+                        <a onclick="abrirMenu(18961)" class="site-nav__link dropdown__main-button" href="/cidadao" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-18961" data-group-name="navbar-submenu">
+                            <span>
+                                Cidadão
+                            </span>
+                            <span class="dropdown__main-button__icon">
+                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                            </span>
+                        </a>
+                        <ul class="dropdown__list menu-topo" id="ddl-18961">
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/adocao-de-animais">
+                                            Adoção de Animais
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/carta-de-servicos">
+                                            Carta de Serviços
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/coleta-de-lixo">
+                                            Coleta de Lixo
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/concursos-e-processos-seletivos">
+                                            Concursos e Processos Seletivos
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="http://cidadaoonline.jales.sp.gov.br/app/pages/iptu">
+                                            Emissão de Carne IPTU
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/balcao-de-empregos">
+                                            Balcão de Empregos
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/biblioteca">
+                                            Biblioteca
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/junta-de-servico-militar">
+                                            Junta de Serviço Militar
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/audiencias-publicas">
+                                            Audiências Públicas
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/cidadao/telefones-uteis">
+                                            Telefones úteis
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/podas-e-supressao-de-arvores">
+                                            Podas e Supressão de Árvores
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="https://jales.sp.gov.br/apoio-financeiro">
+                                            Apoio Financeiro
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="https://jales.sp.gov.br/lei-aldir-blanc">
+                                            Aldir Blanc
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="https://jales.sp.gov.br/transporte-coletivo">
+                                            Transporte Coletivo
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="https://jales.sipladu.com.br/" target="_blank">
+                                            Multa de Trânsito
+                                        </a>
+                                    </li>
+                        </ul>
+                    </li>
+                    <li class="site-nav__item dropdown__container">
+                        <a onclick="abrirMenu(18970)" class="site-nav__link dropdown__main-button" href="/empresas" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-18970" data-group-name="navbar-submenu">
+                            <span>
+                                Empresas
+                            </span>
+                            <span class="dropdown__main-button__icon">
+                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                            </span>
+                        </a>
+                        <ul class="dropdown__list menu-topo" id="ddl-18970">
+                                    <li class="novo-menu-itens-item">
+                                        <a href="https://forms.gle/nzXZofMZ7a1eMivV7" target="_blank">
+                                            Atualização Cadastral
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/empresas/banco-do-povo-paulista">
+                                            Banco do Povo Paulista
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="http://186.225.150.213:8079/transparencia/Default.aspx?AcessoIndividual=lnkContratos" target="_blank">
+                                            Contratos
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="http://cidadaoonline.jales.sp.gov.br/app/pages/certidao/negativa-debito">
+                                            Certidão Negativa de Débitos
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="http://186.225.150.213:8079/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes" target="_blank">
+                                            Contratações
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="http://cidadaoonline.jales.sp.gov.br/app/pages/pages-menu">
+                                            Nota Fiscal Eletrônica
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="http://cidadaoonline.jales.sp.gov.br/app/pages/certidao/valor-venal">
+                                            Certidão Valor Venal
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="http://jales.ivalocal.com.br/hotsite/" target="_blank">
+                                            DIPAM
+                                        </a>
+                                    </li>
+                        </ul>
+                    </li>
+                    <li class="site-nav__item">
+                        <a class="site-nav__link" href="/secretarias">
+                            Secretarias
+                        </a>
+                    </li>
+                    <li class="site-nav__item dropdown__container">
+                        <a onclick="abrirMenu(18995)" class="site-nav__link dropdown__main-button" href="/transparencia" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-18995" data-group-name="navbar-submenu">
+                            <span>
+                                Transparência
+                            </span>
+                            <span class="dropdown__main-button__icon">
+                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                            </span>
+                        </a>
+                        <ul class="dropdown__list menu-topo" id="ddl-18995">
+                                    <li class="novo-menu-itens-item submenu">
+                                        <a onclick="abrirSubmenu(this)" class="site-nav__link dropdown__main-button submenu" href="/transparencia/contabilidade" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-18996" data-group-name="navbar-submenu">
+                                            <span>
+                                                CONTABILIDADE
+                                            </span>
+                                            <span class="dropdown__main-button__icon">
+                                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                                            </span>
+
+                                        </a>
+                                        <ul class="dropdown__list menu-topo" id="ddl-18996">
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="https://scpi-jales.rlz.com.br/Transparencia/" target="_blank">
+                                                        Portal da Transparência
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="https://scpi-jales.rlz.com.br/Transparencia/Default.aspx?AcessoIndividual=lnkCoronaVirus" target="_blank">
+                                                        Covid
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="/transparencia/contabilidade/processos-terceiro-setor">
+                                                        Processos | Terceiro Setor
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                    <li class="novo-menu-itens-item submenu">
+                                        <a onclick="abrirSubmenu(this)" class="site-nav__link dropdown__main-button submenu" href="/transparencia/recursos-humanos" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-19000" data-group-name="navbar-submenu">
+                                            <span>
+                                                RECURSOS HUMANOS
+                                            </span>
+                                            <span class="dropdown__main-button__icon">
+                                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                                            </span>
+
+                                        </a>
+                                        <ul class="dropdown__list menu-topo" id="ddl-19000">
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="http://sipweb-jales.rlz.com.br:8080/sipweb/trabalhador/login/login.xhtml" target="_blank">
+                                                        Holerite Online
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                    <li class="novo-menu-itens-item submenu">
+                                        <a onclick="abrirSubmenu(this)" class="site-nav__link dropdown__main-button submenu" href="/transparencia/fale-conosco" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-19004" data-group-name="navbar-submenu">
+                                            <span>
+                                                FALE CONOSCO
+                                            </span>
+                                            <span class="dropdown__main-button__icon">
+                                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                                            </span>
+
+                                        </a>
+                                        <ul class="dropdown__list menu-topo" id="ddl-19004">
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="https://eouve.com.br/" target="_blank">
+                                                        Ouvidoria
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="/transparencia/fale-conosco/sic">
+                                                        SIC
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                    <li class="novo-menu-itens-item submenu">
+                                        <a onclick="abrirSubmenu(this)" class="site-nav__link dropdown__main-button submenu" href="/transparencia/orcamento" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-19007" data-group-name="navbar-submenu">
+                                            <span>
+                                                ORÇAMENTO
+                                            </span>
+                                            <span class="dropdown__main-button__icon">
+                                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                                            </span>
+
+                                        </a>
+                                        <ul class="dropdown__list menu-topo" id="ddl-19007">
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="/transparencia/orcamento/orcamento-anual">
+                                                        Orçamento anual
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                    <li class="novo-menu-itens-item submenu">
+                                        <a onclick="abrirSubmenu(this)" class="site-nav__link dropdown__main-button submenu" href="/transparencia/tributacao" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-19009" data-group-name="navbar-submenu">
+                                            <span>
+                                                TRIBUTAÇÃO
+                                            </span>
+                                            <span class="dropdown__main-button__icon">
+                                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                                            </span>
+
+                                        </a>
+                                        <ul class="dropdown__list menu-topo" id="ddl-19009">
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="http://cidadaoonline.jales.sp.gov.br/app/pages/alvara">
+                                                        Alvará
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="http://cidadaoonline.jales.sp.gov.br/app/pages/iptu">
+                                                        Emissão de Carne IPTU
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="http://cidadaoonline.jales.sp.gov.br/app/pages/pages-menu">
+                                                        Nota Fiscal Eletrônica
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="http://cidadaoonline.jales.sp.gov.br/app/pages/certidao/negativa-debito">
+                                                        Certidão Negativa de Débitos
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="http://cidadaoonline.jales.sp.gov.br/app/pages/certidao/valor-venal">
+                                                        Certidão Valor Venal
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                                    <li class="novo-menu-itens-item submenu">
+                                        <a onclick="abrirSubmenu(this)" class="site-nav__link dropdown__main-button submenu" href="/transparencia/contratacoes" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-22850" data-group-name="navbar-submenu">
+                                            <span>
+                                                CONTRATAÇÕES
+                                            </span>
+                                            <span class="dropdown__main-button__icon">
+                                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                                            </span>
+
+                                        </a>
+                                        <ul class="dropdown__list menu-topo" id="ddl-22850">
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="https://scpi-jales.rlz.com.br/Transparencia/Default.aspx?AcessoIndividual=lnkContratos" target="_blank">
+                                                        Contratos
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="https://jales.sp.gov.br/licitacoes">
+                                                        Compra Direta/Licitações
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="https://jales.sp.gov.br/pca-plano-de-contratacoes-anuais">
+                                                        PCA
+                                                    </a>
+                                                </li>
+                                                <li class="novo-menu-itens-item subitem">
+                                                    <a class="dropdown__link" href="https://jales.sp.gov.br/regulamentacao-local-nllc">
+                                                        Regulamentação Local NLLC
+                                                    </a>
+                                                </li>
+                                        </ul>
+                                    </li>
+                        </ul>
+                    </li>
+                    <li class="site-nav__item dropdown__container">
+                        <a onclick="abrirMenu(19015)" class="site-nav__link dropdown__main-button" href="/covid" aria-haspopup="true" aria-expanded="false" aria-controls="ddl-19015" data-group-name="navbar-submenu">
+                            <span>
+                                Covid
+                            </span>
+                            <span class="dropdown__main-button__icon">
+                                <!--?xml version="1.0" encoding="iso-8859-1"?-->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45.402px" height="45.402px" viewBox="0 0 45.402 45.402" style="enable-background:new 0 0 45.402 45.402;" xml:space="preserve">
+<g>
+	<path d="M41.267,18.557H26.832V4.134C26.832,1.851,24.99,0,22.707,0c-2.283,0-4.124,1.851-4.124,4.135v14.432H4.141
+		c-2.283,0-4.139,1.851-4.138,4.135c-0.001,1.141,0.46,2.187,1.207,2.934c0.748,0.749,1.78,1.222,2.92,1.222h14.453V41.27
+		c0,1.142,0.453,2.176,1.201,2.922c0.748,0.748,1.777,1.211,2.919,1.211c2.282,0,4.129-1.851,4.129-4.133V26.857h14.435
+		c2.283,0,4.134-1.867,4.133-4.15C45.399,20.425,43.548,18.557,41.267,18.557z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+
+                            </span>
+                        </a>
+                        <ul class="dropdown__list menu-topo" id="ddl-19015">
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/wp-content/uploads/2021/08/laudo.pdf">
+                                            Termo de Assentimento para vacinação de adolescentes
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/wp-content/uploads/2022/01/Termo-de-Assentimento-Vacina-COVID-crianca-5-a-11-anos.pdf">
+                                            Termo de Assentimento para vacinação de Crianças
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/wp-content/uploads/2021/05/Atestado-Para-Vacinacao.pdf">
+                                            Atestado para Vacinação
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/uploads/2021/05/Descricao-de-Comorbidadess.pdf">
+                                            Descrição de Comorbidades
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/wp-content/uploads/2021/05/Grupos-Prioritarios.pdf">
+                                            Grupos Prioritários
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/covid/boletim-covid-19">
+                                            Boletim Covid-19
+                                        </a>
+                                    </li>
+                                    <li class="novo-menu-itens-item">
+                                        <a href="/covid/vacinados">
+                                            Vacinados
+                                        </a>
+                                    </li>
+                        </ul>
+                    </li>
+                    <li class="site-nav__item">
+                        <a class="site-nav__link" href="/ouvidoria">
+                            Ouvidoria
+                        </a>
+                    </li>
+                    <li class="site-nav__item">
+                        <a class="site-nav__link" href="/contato">
+                            Contato
+                        </a>
+                    </li>
+        </ul>
+    </div>
+</nav>
+
+<script defer="">
+    var siteNav = document.querySelector(".site-nav");
+    var tamanhoMenu = 0;
+
+    function abrirMenu(id) {
+        setTimeout(alerta, 10);
+
+        function alerta() {
+            con = "#ddl-" + id;
+            const altura = document.querySelector(con).offsetHeight;
+            siteNav.style.marginBottom = altura + "px";
+            tamanhoMenu = altura;
+        }
+    }
+
+    function abrirSubmenu(e) {
+        setTimeout(alerta, 20)
+        e.focus();
+        var menuVo = e.parentElement.parentElement.parentElement.children[0];
+        var menuPai = e.parentElement.parentElement;
+
+        if (window.innerWidth < 1200) {
+            for (i = 0; i < menuPai.children.length; i++) {
+                menuPai.children[i].children[0].setAttribute("aria-expanded", "false");
+            }
+            e.setAttribute("aria-expanded", "true");
+            e.focus();
+        }
+
+        function alerta() {
+            e.focus();
+            menuVo.setAttribute("aria-expanded", "true");
+            con = "#" + e.getAttribute("aria-controls");
+
+            const altura = document.querySelector(con).offsetHeight;
+            siteNav.style.marginBottom = tamanhoMenu + "px";
+
+            siteNav.style.marginBottom = parseInt(siteNav.style.marginBottom.split("px")[0]) + altura + "px";
+        }
+    }
+
+    window.addEventListener('click', function (e) {
+        if (!document.querySelector(".site-nav__item").contains(e.target)) {
+            siteNav.style.marginBottom = "0";
+        }
+    })
+</script>
+    </div>
+</header>
+
+    <div class="barra-colorida"></div>
+
+    <div class="site-body" id="conteudo">
+        
+<section class="page-content">
+    <div class="wrapper">
+        <div class="status error">
+            <div class="status__content">
+                <h2 class="status__title">Conteúdo não encontrado</h2>
+                <p>
+                    Infelizmente não conseguimos encontrar o conteúdo no site da <strong>Prefeitura Municipal de Jales</strong>.
+                    Continue navegando em nosso site: <a href="/" data-btn="link">voltar para página inicial</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+    </div>
+
+    <div class="barra-colorida2"></div>
+
+    
+
+<div class="jalez jalez-movel">
+    <a class="fazer" href="../turismo#saude" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/saude.jpg) ">
+    <div class="fazer-titulo">Saúde</div>
+</a>
+<a class="fazer" href="../turismo#hotelaria" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/hotel2.jpg) ">
+    <div class="fazer-titulo">Hospedagem</div>
+</a>
+<a class="fazer" href="../turismo#lazer" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/pesca.jpg) ">
+    <div class="fazer-titulo">Lazer</div>
+</a>
+<a class="fazer" href="../turismo#alimentacao" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/uva.jpg) ">
+    <div class="fazer-titulo">Alimentação</div>
+</a>
+<a class="fazer" href="../turismo#eventos" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/evento.jpg) ">
+    <div class="fazer-titulo">Eventos</div>
+</a>
+<a class="fazer" href="../turismo#rural" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/rural2.png) ">
+    <div class="fazer-titulo">Turismo Rural</div>
+</a>
+</div>
+<div class="ceu">
+        <div class="wrapper">
+            <div class="brasao" onclick="subirCard(this)">
+                <img src="/Arquitetura/Imagens/logo2.png">
+            </div>
+            <div class="jales">
+                <div class="jalex">
+                    <div class="cidade"></div>
+                    <div class="geo">
+                        <div class="celula">
+                            <div class="icone" style="background-color: #fff; -webkit-mask: url(https://ecrie.com.br/Sistema/Arquitetura/Icones/medalha.svg) no-repeat center; -webkit-mask-size: 45px; width: 45px; height: 45px; margin-top: 5px"></div>
+                            <div class="dado">Fundação<br><span class="numero">1941</span></div>
+                        </div>
+                        <div class="celula">
+                            <div class="icone" style="background-color: #fff; -webkit-mask: url(https://ecrie.com.br/Sistema/Arquitetura/Icones/pessoas-casal.svg) no-repeat center; -webkit-mask-size: 45px; width: 45px; height: 45px; margin-top: 5px"></div>
+                            <div class="dado">População<br><span class="numero">47.012</span></div>
+                        </div>
+                        <div class="celula">
+                            <div class="icone" style="background-color: #fff; -webkit-mask: url(https://ecrie.com.br/Sistema/Arquitetura/Icones/rua.svg) no-repeat center; -webkit-mask-size: 45px; width: 45px; height: 45px; margin-top: 5px"></div>
+                            <div class="dado">Território<br><span class="numero">368,574 <span style="font-size: 10px">km²</span></span></div>
+                        </div>
+                        <div class="celula">
+                            <div class="icone" style="background-color: #fff; -webkit-mask: url(https://ecrie.com.br/Sistema/Arquitetura/Icones/tempo-sol.svg) no-repeat center; -webkit-mask-size: 45px; width: 45px; height: 45px; margin-top: 5px"></div>
+                            <div class="dado">Clima<br><span class="numero">Tropical</span></div>
+                        </div>
+                        <div class="celula">
+                            <div class="icone" style="background-color: #fff; -webkit-mask: url(https://ecrie.com.br/Sistema/Arquitetura/Icones/ligacao.svg) no-repeat center; -webkit-mask-size: 45px; width: 45px; height: 45px; margin-top: 5px"></div>
+                            <div class="dado">DDD<br><span class="numero">17</span></div>
+                        </div>
+                        <div class="celula">
+                            <div class="icone" style="background-color: #fff; -webkit-mask: url(https://ecrie.com.br/Sistema/Arquitetura/Icones/mapa4.svg) no-repeat center; -webkit-mask-size: 45px; width: 45px; height: 45px; margin-top: 5px"></div>
+                            <div class="dado">CEP<br><span class="numero">15700-000</span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="jalez">
+                    <div class="holder">
+                        <a class="fazer" href="../turismo#saude" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/saude.jpg) ">
+    <div class="fazer-titulo">Saúde</div>
+</a>
+<a class="fazer" href="../turismo#hotelaria" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/hotel2.jpg) ">
+    <div class="fazer-titulo">Hospedagem</div>
+</a>
+<a class="fazer" href="../turismo#lazer" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/pesca.jpg) ">
+    <div class="fazer-titulo">Lazer</div>
+</a>
+<a class="fazer" href="../turismo#alimentacao" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/uva.jpg) ">
+    <div class="fazer-titulo">Alimentação</div>
+</a>
+<a class="fazer" href="../turismo#eventos" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/evento.jpg) ">
+    <div class="fazer-titulo">Eventos</div>
+</a>
+<a class="fazer" href="../turismo#rural" style="background-image: url(https://jales.sp.gov.br/Arquitetura/Imagens/rural2.png) ">
+    <div class="fazer-titulo">Turismo Rural</div>
+</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <div class="arvore"></div>
+</div>
+
+<footer class="site-footer no-print" id="rodape">
+    <div class="wrapper">
+        <div class="site-footer__grid">
+            <div class="site-footer__info">
+
+                <p>
+                    <b>Endereço:</b> <br>
+                    Rua Cinco nº 2266, Centro<br> Jales/SP - CEP: 15700-010
+                </p>
+
+                <p>
+                    <b>Telefone:</b> <br>
+                    (17) 3622-3000
+                </p>
+
+                <p>
+                    <b>Funcionamento:</b> <br>
+                    Segunda a sexta-feira, das 8h às 16h
+                </p>
+                    <a href="https://ecrie20.com.br/jales.sp.gov.br/feed.xml" target="_blank" title="Feed de notícias da Prefeitura de Jales">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="26px" fill="none" viewBox="0 0 26 26">
+                            <path fill="#FFFFFF" fill-rule="evenodd" d="M13 26c7.18 0 13-5.82 13-13S20.18 0 13 0 0 5.82 0 13s5.82 13 13 13ZM6.143 5a1.142 1.142 0 1 0 0 2.286c6.943 0 12.571 5.628 12.571 12.571a1.142 1.142 0 1 0 2.286 0C21 11.65 14.35 5 6.143 5Zm-.474 12.098a2.286 2.286 0 1 0 3.233 3.233 2.286 2.286 0 0 0-3.233-3.233Zm10.76 2.76c0-5.683-4.604-10.287-10.286-10.287a1.142 1.142 0 1 0 0 2.286 8 8 0 0 1 8 8 1.142 1.142 0 1 0 2.286 0Z" clip-rule="evenodd"></path>
+                        </svg>
+                    </a>
+            </div>
+
+                <nav class="site-footer__menu">
+                        <ul class="site-footer__menu-list item-19125">
+                            <li class="site-footer__menu-title" style="margin-bottom: 5px;">
+                                A Cidade
+                            </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="/cidade/historia">
+                                        História
+                                    </a>
+                                </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="/cidade/localizacao">
+                                        Localização
+                                    </a>
+                                </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="/cidade/turismo">
+                                        Turismo
+                                    </a>
+                                </li>
+                        </ul>
+                        <ul class="site-footer__menu-list item-19129">
+                            <li class="site-footer__menu-title" style="margin-bottom: 5px;">
+                                Para o Cidadão
+                            </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="/cidadao/carta-de-servicos">
+                                        Carta de Serviços
+                                    </a>
+                                </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="/cidadao/concursos-e-processos-seletivos">
+                                        Concursos e Processos Seletivos
+                                    </a>
+                                </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="/cidadao/telefones-uteis">
+                                        Telefones
+                                    </a>
+                                </li>
+                        </ul>
+                        <ul class="site-footer__menu-list item-19132">
+                            <li class="site-footer__menu-title" style="margin-bottom: 5px;">
+                                Para a Empresa
+                            </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="https://forms.gle/nzXZofMZ7a1eMivV7" target="_blank">
+                                        Atualização Cadastral
+                                    </a>
+                                </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="http://cidadaoonline.jales.sp.gov.br/app/pages/certidao/negativa-debito">
+                                        CND
+                                    </a>
+                                </li>
+                                <li class="site-footer__menu-item">
+                                    <a href="http://cidadaoonline.jales.sp.gov.br/app/pages/pages-menu">
+                                        Nota Fiscal Eletrônica
+                                    </a>
+                                </li>
+                        </ul>
+                </nav>
+        </div>
+    </div>
+
+    <div class="webnets-sign">
+        <div class="wrapper">
+            <a href="https://ecrie.com.br" rel="noopener" target="_blank" class="sign-logo icon-colored">
+                
+                <span class="webnets-sign__icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 105.13">
+                        <g fill-rule="evenodd">
+                            <path d="M77.338 8.779c-.594.04-1.119.128-1.167.197-.048.068-.874.22-1.836.338-.962.117-1.787.271-1.833.343-.047.072-.562.213-1.145.315-.584.101-1.146.255-1.25.341-.105.087-.472.21-.815.274-.344.064-.625.183-.625.265 0 .081-.132.149-.292.151-.49.004-2.542.838-2.542 1.034 0 .071-.133.13-.297.13-.163 0-.782.26-1.375.577-.593.318-1.265.674-1.494.79a3.34 3.34 0 0 0-.637.422c-.121.116-.397.255-.613.309-.216.054-.433.204-.483.333a.397.397 0 0 1-.345.235c-.141 0-.256.066-.256.147 0 .08-.219.237-.488.348-.268.112-.528.308-.578.437-.049.129-.189.235-.311.235s-.406.222-.63.493c-.225.271-.488.496-.585.5-.144.006-1.138.87-2.546 2.213-.461.44-2.056 2.228-2.328 2.61a4.971 4.971 0 0 1-.575.662c-.161.144-.292.342-.292.439 0 .096-.131.296-.292.444-.452.415-.875 1.019-.875 1.248 0 .114-.093.268-.208.341-.207.133-.475.549-.918 1.425-.127.252-.289.458-.359.458s-.227.3-.348.667c-.121.367-.277.667-.347.667-.069 0-.176.225-.236.5-.061.275-.167.5-.237.5-.07 0-.226.3-.347.666-.121.367-.271.667-.333.667s-.212.412-.333.917c-.121.504-.28.916-.353.916-.073 0-.181.263-.242.584-.06.32-.169.583-.242.583-.073 0-.222.525-.33 1.167-.108.641-.26 1.166-.336 1.166-.077 0-.192.432-.256.959-.064.527-.173 1.033-.243 1.125-.159.208-.498 2.723-.498 3.693 0 .398-.065.723-.144.723-.079 0-.18 1.036-.226 2.301-.085 2.367-.279 3.062-1.13 4.037-.982 1.126-1.72 2.405-2.833 4.912-.215.486-.501 2.01-.501 2.675 0 .317-.075.575-.166.575-.1 0-.167.667-.167 1.667s.067 1.667.167 1.667c.091 0 .166.25.166.555 0 .752.35 2.445.505 2.445.069 0 .174.262.234.583.061.321.17.583.243.583.073 0 .222.3.332.667.11.367.264.667.342.667.078 0 .185.174.239.386.053.213.361.659.684.992.324.333.588.671.588.75 0 .128.477.593 2.193 2.139.244.22.528.399.631.399.102 0 .23.113.282.25.053.138.189.25.303.25.114 0 .374.146.579.323.205.178.585.37.845.427.26.057.514.212.565.344.05.132.175.24.276.24.277 0 1.493 1.361 1.601 1.791.052.207.151.375.22.375s.222.45.338 1c.117.55.271 1 .342 1 .071 0 .18.3.242.667.062.367.169.667.238.667.069 0 .224.412.345.916.121.505.283.917.36.917.077 0 .14.093.14.206 0 .22.844 1.988 1.016 2.127.056.046.194.365.306.709.112.343.272.625.354.625.083 0 .198.187.256.416.057.229.162.417.233.417.07 0 .221.225.335.5.114.275.273.5.354.5.08 0 .146.112.146.25 0 .137.137.387.304.554.168.168.353.43.412.584.059.153.184.279.279.279.094 0 .172.095.172.213 0 .199.332.619 1.509 1.907.27.296.491.588.491.65 0 .062.731.813 1.625 1.667l2.235 2.142c.336.323.665.587.731.587.067 0 .435.282.817.625.383.344.868.738 1.077.875.21.138.76.53 1.224.872.464.343.981.666 1.15.72.169.054.307.162.307.24 0 .078.263.229.584.335.32.106.583.262.583.346 0 .085.101.154.224.154.124 0 .396.148.605.33.209.181.633.377.942.435.309.058.562.166.562.24 0 .074.225.185.5.245s.5.167.5.237c0 .069.413.225.917.346.504.121.917.273.917.337 0 .065.581.211 1.291.324.711.114 1.397.293 1.526.398.31.253 8.474.271 8.647.018.065-.095.679-.266 1.363-.38.684-.114 1.284-.269 1.333-.344.049-.074.418-.187.819-.249a6.768 6.768 0 0 0 1.449-.442c.396-.181.837-.328.979-.328.143 0 .259-.068.259-.15 0-.083.375-.24.834-.35.458-.11.833-.26.833-.332 0-.073.188-.179.417-.237.229-.057.416-.168.416-.246 0-.078.338-.237.75-.352.413-.115.75-.275.75-.355 0-.08.077-.145.171-.145.151 0 1.448-.779 1.663-.999.045-.047.308-.197.583-.334.275-.138.56-.344.633-.458.074-.115.227-.209.341-.209.115 0 .392-.222.617-.493.225-.271.491-.496.591-.5.099-.004.459-.307.798-.674.339-.366.682-.666.762-.666.128 0 .803-.676 2.459-2.46.278-.299.646-.741.818-.982.173-.242.446-.558.606-.703.16-.144.292-.355.292-.467 0-.113.093-.265.208-.338.271-.174.958-1.155.958-1.369 0-.09.094-.225.209-.298.115-.073.321-.358.458-.633s.343-.56.458-.634a.498.498 0 0 0 .209-.375c0-.133.069-.241.153-.241.084 0 .203-.225.263-.499.06-.275.198-.556.307-.625.23-.147 1.11-1.868 1.11-2.17 0-.114.069-.206.153-.206.085 0 .205-.244.268-.542.063-.298.257-.776.43-1.061.174-.286.316-.642.316-.792 0-.15.067-.272.15-.272.082 0 .24-.375.35-.833.11-.459.261-.834.335-.834.074 0 .186-.299.248-.665.062-.367.175-.705.252-.753.077-.047.229-.355.337-.683.269-.815 2.104-2.546 2.987-2.817.224-.069.511-.228.636-.354.126-.125.336-.228.467-.228s.238-.063.238-.14c0-.077.19-.226.423-.332.911-.415 3.356-2.86 3.771-3.771.106-.233.247-.423.314-.423s.169-.188.227-.417c.057-.229.171-.417.252-.417.082 0 .245-.375.362-.833.118-.458.27-.833.339-.833.068 0 .177-.357.241-.792.064-.435.2-.845.302-.911.26-.166.256-6.159-.004-6.48-.104-.129-.242-.553-.306-.942-.065-.39-.177-.709-.25-.709-.072 0-.214-.327-.315-.726-.1-.4-.297-.822-.436-.937-.14-.116-.254-.314-.254-.44 0-.127-.056-.23-.126-.23-.069 0-.232-.24-.362-.534-.13-.294-.448-.741-.707-.994-.259-.254-.471-.522-.471-.596 0-.074-.15-.264-.334-.421-.183-.157-.333-.393-.333-.525s-.13-.369-.288-.528c-.227-.226-.303-.66-.353-2.012-.035-.948-.13-1.723-.211-1.723-.082 0-.148-.465-.148-1.032 0-1.421-.355-4.802-.504-4.802-.067 0-.208-.575-.312-1.278-.105-.703-.256-1.36-.335-1.458-.08-.099-.197-.499-.261-.889-.065-.389-.174-.708-.243-.708s-.218-.413-.33-.917c-.113-.504-.267-.916-.342-.916-.075 0-.185-.263-.245-.584-.061-.321-.172-.583-.249-.583-.077 0-.229-.355-.338-.789-.11-.435-.25-.828-.312-.875-.062-.048-.335-.517-.606-1.044-.272-.527-.548-.959-.612-.959-.065 0-.168-.23-.23-.511s-.218-.552-.347-.601c-.129-.05-.234-.169-.234-.265s-.187-.42-.417-.721c-.229-.3-.416-.626-.416-.724 0-.098-.07-.178-.156-.178-.085 0-.2-.142-.256-.316-.092-.29-.73-1.078-1.58-1.951-.188-.193-.342-.404-.342-.47 0-.157-3.715-3.925-3.872-3.928-.067-.001-.381-.245-.697-.543-.769-.723-1.485-1.287-1.639-1.289-.069-.002-.266-.134-.439-.294-.568-.529-1.084-.875-1.303-.875-.119 0-.216-.066-.216-.147 0-.08-.225-.239-.5-.353-.275-.114-.5-.272-.5-.351 0-.079-.188-.19-.417-.248-.229-.057-.417-.168-.417-.246 0-.078-.3-.232-.666-.342-.367-.11-.667-.251-.667-.313 0-.063-.3-.213-.667-.334-.366-.121-.666-.279-.666-.352 0-.073-.263-.182-.584-.242-.32-.06-.583-.169-.583-.241 0-.072-.375-.221-.833-.331-.459-.11-.834-.268-.834-.35 0-.083-.114-.15-.254-.15s-.67-.147-1.178-.325c-.509-.179-1.257-.375-1.663-.436-.406-.061-.738-.169-.738-.239 0-.071-.769-.226-1.708-.344-.94-.117-1.756-.285-1.815-.373-.11-.165-8.184-.301-10.139-.171M68.01 33.172c.365.186 1.555 1.188 2.646 2.227 3.169 3.021 5.334 4.279 9.094 5.283 1.651.441 7.349.648 9 .326 2.803-.545 7.013-.388 9.5.356 4.864 1.454 7.656 4.27 10.729 10.823.536 1.142 1.079 1.681 2.259 2.237 5.016 2.366 3.247 10.571-2.281 10.577-2.487.003-3.463 1-4.229 4.324-3.277 14.215-16.152 25.15-26.395 22.419-9.185-2.45-17.275-12.163-19.406-23.301-.522-2.726-1.127-3.272-4.26-3.849-3.827-.705-5.562-3.168-4.589-6.516.932-3.206 2.746-4.495 5.256-3.735.321.097 1.04.245 1.6.329.559.084 1.134.198 1.277.253.342.131.4-.102.624-2.508.671-7.207 2.576-13.043 5.63-17.25 1.67-2.301 2.276-2.642 3.545-1.995m1.896 21.804c-2.43.436-4.24 2.429-4.3 4.734l-.023.873 1.25-.059c1.418-.067 1.667-.199 1.667-.88 0-1.06.942-1.719 2.552-1.785l1.411-.058.69.623c.521.471.76.863.977 1.6l.287.976 1.166-.003c1.528-.003 1.657-.094 1.511-1.065-.515-3.439-3.64-5.593-7.188-4.956m21.768.029c-2.552.536-4.341 2.597-4.341 5.001 0 .951.004.953 1.759.647l1.036-.181.106-.658c.504-3.153 5.913-2.34 5.931.892.001.259.139.279 1.293.187 1.611-.128 1.661-.173 1.385-1.267-.877-3.476-3.764-5.337-7.169-4.621M69.997 72.231c-2.114 1.446-1.939 3.156.583 5.7 5.527 5.573 14.966 6.333 21.17 1.705 3.572-2.664 4.578-4.578 3.364-6.399-1.303-1.953-2.815-1.864-5.662.333-5.484 4.234-9.46 4.129-15.202-.402-1.851-1.461-3.09-1.734-4.253-.937" fill="#ecbb1c"></path>
+                            <path d="M299.833 28.604c-.777.243-1.699.866-1.878 1.27-.111.252-.255.459-.319.459-.063 0-.166.338-.228.75-.062.413-.179.75-.26.75-.082 0-.148.9-.148 2s.066 2 .148 2c.081 0 .198.338.26.75.062.413.17.75.241.75.07 0 .224.18.341.399.117.219.411.5.653.624.242.125.494.302.559.394.073.101 1.393.167 3.381.167 1.988 0 3.309-.066 3.381-.167.066-.092.344-.279.619-.416.683-.339 1.042-.763 1.178-1.389.063-.291.196-.58.297-.644.251-.16.26-5.102.009-5.265-.1-.066-.229-.311-.287-.546-.123-.506-.789-1.323-1.077-1.323-.112 0-.203-.069-.203-.153 0-.395-5.609-.74-6.667-.41m-51.666 1.563c0 .091-.275.166-.612.166-.786 0-2.755.335-2.972.506-.091.072-.448.184-.791.248-.344.064-.625.169-.625.233 0 .065-.375.213-.834.331-.458.117-.833.275-.833.351 0 .076-.225.188-.5.248s-.5.173-.5.25c0 .078-.281.232-.625.344-.344.112-.685.305-.758.43-.074.124-.226.226-.338.226-.113 0-.323.131-.468.292-.145.16-.475.441-.735.625-.26.183-.656.538-.882.788-.225.25-.549.499-.718.553-.17.054-.309.192-.309.307 0 .114-.169.364-.375.555-.667.617-1.125 1.172-1.125 1.362 0 .101-.077.185-.171.185-.094 0-.242.187-.329.416-.087.23-.227.417-.31.417-.083 0-.2.131-.258.292-.059.16-.292.591-.518.958-.545.882-.914 1.683-.914 1.981 0 .133-.057.266-.125.297-.24.106-.681 1.122-.887 2.043-.115.511-.263.929-.33.929s-.174.281-.238.624c-.065.343-.165.699-.222.791-.127.203-.148.305-.402 2.002-.109.733-.256 1.374-.326 1.423-.457.324-.422 13.307.036 13.466.088.03.162.33.163.666.001.336.118 1.061.26 1.611.142.55.338 1.357.436 1.792.098.435.235.792.304.792.07 0 .177.336.238.748.062.411.221.856.353.988.132.132.24.39.24.573 0 .184.101.435.225.558.123.124.316.503.428.843.113.34.275.662.361.715.087.054.267.336.402.628.345.749.622 1.158.959 1.412.16.121.291.296.291.389 0 .217 2.934 3.146 3.152 3.146.091 0 .225.094.298.208.074.115.359.321.634.458.275.138.555.335.623.44.067.104.329.242.581.305.253.063.497.165.544.227.208.272 1.529.862 2.152.962.375.06.683.168.683.24 0 .072.319.183.708.247.39.064.784.177.875.25.234.187 2.578.496 3.762.496.548 0 .988.074.988.167 0 .098.611.166 1.5.166s1.5-.068 1.5-.166c0-.093.443-.167.994-.167 1.198 0 3.518-.321 3.773-.522.101-.079.532-.192.958-.25.427-.059.775-.157.775-.219s.394-.213.875-.335c.482-.122.913-.268.959-.324.045-.057.514-.318 1.041-.58.527-.262.959-.542.959-.623 0-.081.112-.147.25-.147.137 0 .4-.15.583-.333.183-.184.408-.334.5-.334.092 0 .167-.103.167-.229 0-.127.157-.334.349-.462.278-.185.368-.46.44-1.354.049-.617.154-1.121.233-1.121.08 0 .144-.825.144-1.834 0-1.008-.064-1.833-.144-1.833-.079 0-.183-.497-.232-1.104-.053-.655-.181-1.167-.314-1.258-.366-.248-1.997-.063-2.228.253-.111.152-.278.276-.371.276-.094 0-.265.114-.381.254-.116.139-.246.218-.29.174-.044-.043-.18.011-.304.121-.525.469-.729.617-.851.617-.178 0-1.947.886-2.054 1.028-.047.063-.459.207-.916.32-.457.114-.871.265-.919.337-.345.515-7.143.523-7.486.009-.051-.077-.455-.229-.898-.339-.442-.11-.892-.273-1-.363-.782-.658-1.021-.827-1.292-.913-.401-.127-1.986-1.746-1.986-2.028 0-.12-.077-.217-.171-.217-.094 0-.242-.188-.329-.417-.087-.229-.23-.417-.316-.417-.087 0-.207-.225-.268-.5-.06-.275-.167-.5-.236-.5-.07 0-.227-.318-.35-.708-.123-.39-.277-.783-.341-.875-.065-.092-.173-.429-.241-.75s-.184-.622-.259-.67c-.074-.048-.224-.76-.332-1.583-.108-.824-.281-1.677-.385-1.897-.251-.532-.255-8.485-.005-8.651.097-.063.272-.884.389-1.824.118-.94.275-1.708.348-1.708.073 0 .184-.3.246-.667.062-.367.173-.667.248-.667.074 0 .225-.375.335-.833.11-.458.259-.833.332-.833.072 0 .179-.188.236-.417.058-.229.169-.417.248-.417.079 0 .237-.225.351-.5.114-.275.273-.5.353-.5.081 0 .149-.093.152-.208.006-.226 1.365-1.792 1.556-1.792.064 0 .337-.225.605-.5.269-.275.563-.5.653-.5.09 0 .224-.102.297-.226.074-.125.434-.324.8-.442.367-.119.825-.318 1.018-.444.193-.125.962-.275 1.708-.332.747-.058 1.358-.169 1.358-.247 0-.078.262-.142.583-.142.321 0 .583.075.583.167 0 .091.319.167.709.168.962.001 2.846.318 2.956.496.05.079.445.234.879.343.434.109.79.265.79.346 0 .081.107.147.238.147s.337.094.458.21c.121.116.429.303.685.416.255.113.555.28.667.37.943.77 1.273 1.004 1.416 1.004.092 0 .207.105.257.234.049.129.32.285.601.347.281.061.511.181.511.265 0 .085.15.154.333.154.184 0 .334-.075.334-.167 0-.092.148-.167.329-.167 1.109 0 1.506-8.102.427-8.706-.141-.079-.256-.214-.256-.3 0-.25-.553-.827-.793-.827-.12 0-.256-.1-.303-.222-.047-.122-.344-.323-.661-.447-.317-.125-.577-.282-.577-.349s-.225-.172-.5-.232c-.275-.06-.5-.179-.5-.264 0-.085-.337-.244-.75-.355-.412-.11-.75-.255-.75-.322s-.337-.173-.75-.234c-.412-.062-.75-.167-.75-.233s-.093-.129-.208-.141c-1.039-.104-3.124-.477-3.223-.576-.193-.194-5.735-.154-5.735.042m-43.986 13.024c-.771.08-1.483.212-1.583.292-.1.08-.5.199-.89.263-.389.064-.708.178-.708.252 0 .074-.375.225-.833.335-.459.11-.834.249-.835.309-.001.059-.169.192-.375.295-1.105.551-1.457.768-1.457.897 0 .079-.138.187-.306.241-.364.115-2.353 2.046-2.992 2.904-.248.332-.492.642-.544.688-.051.045-.192.327-.313.625-.12.298-.283.541-.362.541-.079 0-.19.188-.248.417-.057.229-.164.417-.236.417-.073 0-.222.375-.332.833-.11.458-.259.833-.332.833-.072 0-.184.282-.248.625-.064.344-.178.7-.252.792-.075.092-.233.767-.353 1.5-.119.733-.296 1.387-.391 1.452-.244.167-.241 11.265.002 11.429.143.096.528 1.878.611 2.827.01.115.074.209.142.209.069 0 .175.3.237.666.062.367.172.667.243.667.072 0 .225.337.341.75.115.412.273.75.351.75.078 0 .189.188.247.417.057.229.159.416.226.416s.209.191.315.423c.415.911 2.86 3.356 3.771 3.771.233.106.423.248.423.315s.188.169.417.226c.229.058.416.172.416.253 0 .082.375.244.834.362.458.117.833.266.833.33s.281.169.625.233c.344.065.7.178.792.252.212.17 2.35.502 3.24.502.372 0 .676.075.676.167 0 .104 1.056.166 2.834.166 1.777 0 2.833-.062 2.833-.166 0-.092.379-.167.843-.167 1.011 0 3.109-.292 3.574-.497.183-.081.689-.194 1.125-.252.435-.058.791-.16.791-.227s.45-.222 1-.344c.55-.122 1-.281 1-.354 0-.073.225-.182.5-.243.275-.06.5-.166.5-.236 0-.07.188-.212.417-.317.229-.104.417-.297.417-.429s.093-.271.208-.309c.301-.1.297-5.967-.004-6.329-.445-.538-2.73-.445-3.321.134-.11.108-.541.247-.958.31-.417.062-.759.179-.759.26 0 .08-.337.197-.75.258-.412.062-.75.168-.75.235 0 .147-2.458.507-3.458.507-.39 0-.708.075-.708.166 0 .098-.584.167-1.417.167-.779 0-1.417-.058-1.417-.13 0-.071-.65-.218-1.444-.326-.794-.109-1.488-.258-1.542-.332-.053-.075-.284-.231-.514-.347a14.087 14.087 0 0 1-.75-.413c-.508-.308-1.681-1.498-1.8-1.827-.058-.16-.176-.292-.262-.292-.086 0-.253-.375-.37-.833-.118-.458-.267-.833-.333-.833-.065 0-.171-.45-.235-1-.064-.55-.183-1-.266-1-.083 0-.15-.488-.15-1.084V65.5h10.741c8.742 0 10.767-.041 10.875-.221.074-.121.268-.27.433-.331.324-.119.784-1.063.784-1.609 0-.187.075-.339.167-.339.103 0 .166-.858.166-2.24 0-1.314-.069-2.283-.166-2.343-.092-.057-.167-.516-.167-1.02 0-1.033-.319-3.227-.506-3.48-.068-.092-.176-.486-.24-.875-.064-.39-.171-.709-.237-.709-.066 0-.216-.37-.332-.823-.116-.453-.318-.913-.448-1.021-.13-.108-.237-.3-.237-.426s-.06-.23-.133-.23c-.073 0-.228-.262-.344-.583-.116-.321-.284-.583-.372-.583-.089 0-.21-.132-.269-.292-.12-.323-1.945-2.149-2.541-2.542a16.6 16.6 0 0 1-.735-.518 2.935 2.935 0 0 0-.731-.387c-.206-.064-.375-.18-.375-.257 0-.077-.375-.236-.833-.354-.459-.117-.834-.266-.834-.33s-.281-.169-.625-.233c-.343-.065-.706-.184-.805-.266-.477-.394-5.543-.577-8.222-.297m81.652-.001c-.504.084-.941.225-.972.314-.03.09-.156.163-.28.163-.123 0-.323.094-.444.21-.121.116-.427.301-.679.413-.252.112-.458.279-.458.373 0 .094-.097.17-.215.17-.216 0-2.118 1.885-2.118 2.098 0 .063-.169.284-.375.493-.569.574-.777.857-1.003 1.363-.179.402-.217.149-.289-1.936-.076-2.179-.114-2.416-.417-2.583-.183-.102-.387-.26-.452-.351-.072-.101-1.341-.167-3.214-.167-1.874 0-3.143.066-3.215.167-.065.091-.269.25-.452.351-.33.183-.334.38-.376 18.529l-.042 18.344.44.346c.244.192.685.346.991.346.303 0 .597.075.654.167.127.207 5.416.228 5.416.022 0-.08.327-.182.727-.227 1.542-.174 1.427.766 1.478-12.048.029-7.276.104-11.301.212-11.378.092-.066.279-.344.417-.619.137-.275.343-.56.458-.633.114-.074.208-.217.208-.32 0-.231.132-.383 1.809-2.089.743-.756 1.465-1.375 1.604-1.375.14 0 .254-.068.254-.153 0-.519 3.692-.511 4.014.01.141.228 2.009.369 2.296.173.124-.085.265-.502.313-.926.048-.424.152-.77.232-.77.207 0 .186-6.289-.022-6.417-.091-.057-.166-.272-.166-.478 0-.424-.561-1.105-.91-1.105-.126 0-.254-.073-.285-.162-.138-.403-3.395-.603-5.139-.315m42.682.001c-.771.08-1.484.214-1.584.296-.099.082-.462.202-.806.267-.344.064-.625.183-.625.265 0 .081-.131.149-.292.15-.382.003-1.441.375-1.73.607a2.175 2.175 0 0 1-.603.298c-.206.063-.375.185-.375.271 0 .085-.113.155-.252.155-.138 0-.38.15-.537.333-.157.184-.348.334-.425.334-.2 0-2.786 2.613-2.786 2.815 0 .092-.098.228-.218.301-.12.074-.317.377-.437.675-.12.298-.285.542-.365.542-.081 0-.147.103-.147.23 0 .126-.114.324-.253.44-.14.115-.336.537-.437.937-.1.399-.249.726-.329.726-.081 0-.147.117-.147.259 0 .143-.141.574-.313.959a6.938 6.938 0 0 0-.433 1.532c-.066.459-.181.871-.256.917-.695.432-.709 13.353-.015 13.832.068.047.218.628.335 1.293.117.665.277 1.208.356 1.208.079 0 .193.263.253.584.061.32.165.583.232.583.066 0 .211.3.321.667.11.366.272.666.36.666.088 0 .16.098.16.218s.187.476.416.792l.708.981c.161.224.433.524.604.667.172.142.578.54.902.884.324.344.69.625.813.625s.223.071.223.158c0 .158.525.492 1.375.875.252.114.459.258.459.321 0 .064.375.211.833.329.458.117.833.266.833.33s.282.169.625.233c.344.065.703.181.798.259.221.183 2.118.492 3.026.494.384 0 .745.076.801.168.062.1 1.224.166 2.927.166 1.771 0 2.823-.062 2.823-.166 0-.092.321-.167.713-.167 1.04 0 3.516-.332 3.617-.484.048-.072.458-.181.911-.242.454-.06.866-.168.917-.238.051-.071.542-.22 1.092-.332.55-.112 1.025-.279 1.056-.371.03-.091.156-.166.28-.166.123 0 .323-.094.444-.209.121-.114.425-.314.676-.443.31-.16.49-.415.561-.794.057-.307.171-.599.252-.649.197-.122.191-4.663-.007-5.033a3.843 3.843 0 0 1-.236-.56c-.158-.521-3.109-.487-3.109.036 0 .07-.413.22-.917.333-.504.113-.916.266-.916.339 0 .074-.375.185-.834.245-.458.061-.833.167-.833.236 0 .161-2.264.499-3.34.499-.455 0-.827.075-.827.166 0 .097-.527.167-1.25.167-.722 0-1.25-.07-1.25-.167 0-.091-.287-.166-.639-.166-.831 0-2.527-.342-2.527-.51 0-.072-.225-.18-.5-.24-.275-.061-.5-.181-.5-.268 0-.086-.188-.229-.417-.316-.229-.087-.417-.222-.417-.301 0-.078-.179-.238-.398-.356-.219-.117-.5-.411-.625-.653-.124-.242-.264-.477-.31-.523-.199-.198-.5-.849-.5-1.081 0-.139-.068-.252-.152-.252-.084 0-.205-.319-.27-.709-.066-.389-.181-.747-.256-.796-.076-.048-.19-.779-.254-1.625l-.116-1.537h21.496l.443-.38c.243-.209.442-.472.442-.584 0-.111.066-.203.147-.203.636 0 .655-8.818.021-9.582-.081-.097-.198-.568-.262-1.047-.063-.479-.171-.871-.24-.871-.068 0-.169-.225-.224-.5-.109-.543-.748-2.032-.931-2.166-.062-.046-.212-.327-.332-.625-.121-.298-.28-.542-.354-.542-.075 0-.183-.149-.241-.331-.109-.344-2.364-2.669-2.588-2.669-.07 0-.362-.219-.649-.488-.287-.268-.745-.536-1.018-.596-.272-.06-.495-.178-.495-.263 0-.085-.338-.245-.75-.355-.413-.11-.75-.251-.75-.314 0-.062-.338-.163-.75-.225-.413-.062-.75-.171-.75-.241 0-.071-.094-.135-.209-.143-.114-.008-.958-.093-1.875-.19a29.87 29.87 0 0 0-6.068.006m-28.64.587c-.39.041-.708.145-.708.232 0 .086-.15.157-.334.157-1.067 0-1-1.275-1 18.807 0 20.434-.129 18.561 1.3 18.79.389.062.748.178.797.258.117.189 5.403.189 5.403 0 0-.08.327-.182.727-.227.465-.053.871-.226 1.125-.48l.398-.398.044-17.882c.028-11.508-.014-17.991-.12-18.189-.485-.905-4.222-1.429-7.632-1.068M209 50.662c.046.062.44.211.875.33.435.12.792.286.792.368 0 .083.12.197.268.253.387.149 1.065.808 1.065 1.036 0 .107.112.238.25.291.137.052.25.182.25.289 0 .106.154.481.343.833.189.352.387 1.008.44 1.456.053.448.161.815.24.815.079 0 .144.563.144 1.25v1.25h-13.5v-.583c0-.321.064-.583.143-.583.079 0 .186-.394.237-.875.087-.806.705-2.597.964-2.792.061-.046.168-.268.239-.493.115-.369 1.162-1.467 2.1-2.204.196-.154.648-.33 1.003-.39.356-.06.647-.173.647-.251 0-.28 3.293-.28 3.5 0m124.333-.004c.046.059.402.201.792.315.39.114.708.279.708.367 0 .088.094.162.209.165.329.008 1.219.895 1.474 1.47.128.289.277.525.332.525.054 0 .194.319.309.708.116.39.287.803.381.918.094.115.209.883.256 1.708.047.825.15 1.499.229 1.499.079 0 .144.113.144.25 0 .219-.873.25-6.853.25h-6.853l.12-1.125c.066-.618.177-1.162.246-1.208.069-.046.174-.35.234-.676.06-.326.258-.886.44-1.244.183-.358.332-.739.332-.847 0-.109.113-.241.25-.293.138-.053.25-.182.25-.286 0-.238 1.421-1.654 1.659-1.654.096 0 .175-.067.175-.149 0-.081.206-.2.458-.262.252-.063.683-.218.958-.344.773-.355 3.497-.418 3.75-.087" fill="#048c4c"></path>
+                            <path d="M166.417 20.389c-1.666.298-3.392 1.009-4.858 2.001-2.462 1.667-3.074 1.804-4.406.985-6.765-4.157-15.664-1.467-17.893 5.408-.284.874-.286 3.115-.006 5.32.154 1.209-.428 1.864-2.125 2.392-9.485 2.951-10.806 13.517-2.212 17.69 1.274.618 3.791 1.304 4.816 1.311l.483.004-.097-1.375c-.193-2.744.29-5.806.957-6.062 1.02-.391 1.422.306 1.213 2.104-.858 7.385 3.774 12.062 11.961 12.078 4.051.007 6.431-.917 9.022-3.506 1.142-1.141 2.57-1.635 3.153-1.091.248.231 2.228.519 3.575.519 5.256 0 9.795-3.183 10.932-7.665 1.414-5.575-2.343-10.643-9.015-12.161-1.844-.419-2.084-.544-2.084-1.086 0-1.009 1.782-1.258 5.284-.739 1.64.242 2.027.038 3.268-1.729 4.987-7.103-2.488-16.096-11.968-14.398m-13.558 3.615c1.9.868.832 2.991-1.509 3-3.125.012-5.231 1.386-6.094 3.977-.855 2.569-3.422 2.514-3.214-.069.351-4.382 7.022-8.642 10.817-6.908m-86.694 9.204c-3.23 2.199-6.558 10.919-7.33 19.209-.224 2.406-.282 2.639-.624 2.508-.143-.055-.718-.169-1.277-.253-.56-.084-1.279-.232-1.6-.329-2.51-.76-4.324.529-5.256 3.735-.973 3.348.762 5.811 4.589 6.516 3.133.577 3.738 1.123 4.26 3.849 2.131 11.138 10.221 20.851 19.406 23.301 10.243 2.731 23.118-8.204 26.395-22.419.766-3.324 1.742-4.321 4.229-4.324 5.528-.006 7.297-8.211 2.281-10.577-1.18-.556-1.723-1.095-2.259-2.237-3.073-6.553-5.865-9.369-10.729-10.823-2.487-.744-6.697-.901-9.5-.356-1.651.322-7.349.115-9-.326-3.76-1.004-5.925-2.262-9.094-5.283-2.687-2.56-3.421-2.919-4.491-2.191m7.565 22.117c1.604.687 3.08 2.708 3.364 4.607.146.971.017 1.062-1.511 1.065L74.417 61l-.287-.976c-.217-.737-.456-1.129-.977-1.6l-.69-.623-1.411.058c-1.61.066-2.552.725-2.552 1.785 0 .681-.249.813-1.667.88l-1.25.059.023-.873c.094-3.606 4.453-5.959 8.124-4.385m21.843.021c1.773.784 4.146 4.556 3.334 5.301-.35.321-2.74.372-2.742.059-.018-3.232-5.427-4.045-5.931-.892l-.106.658-1.036.181c-1.755.306-1.759.304-1.759-.647 0-3.764 4.505-6.312 8.24-4.66m34.677 8.982c-1.952.938-2.692 3.023-1.683 4.741 1.753 2.983 6.266 1.804 6.266-1.638 0-2.372-2.534-4.088-4.583-3.103m-57.533 7.778c.293.15.983.628 1.533 1.062 5.742 4.531 9.718 4.636 15.202.402 2.847-2.197 4.359-2.286 5.662-.333 1.214 1.821.208 3.735-3.364 6.399-4.099 3.058-10.291 3.868-15.417 2.018-3.993-1.442-8.063-5.266-7.788-7.319.251-1.87 2.511-3.078 4.172-2.229" fill="#fbfbfb"></path>
+                            <path d="M166.333 15.667c0 .091-.221.166-.491.166-.665 0-2.221.334-2.417.518a.646.646 0 0 1-.384.149c-.39 0-3.278 1.348-3.541 1.653-.391.453-1.678.445-2.004-.012-.048-.067-.461-.219-.917-.337-.456-.118-.868-.268-.916-.333-.444-.601-9.996-.569-9.996.033 0 .066-.282.166-.625.223-.344.057-.818.205-1.053.329a4.757 4.757 0 0 1-.875.338c-.246.062-.447.18-.447.263 0 .082-.23.2-.512.262-.281.062-.551.218-.601.347-.049.129-.19.234-.314.234a.48.48 0 0 0-.357.212c-.073.116-.339.302-.591.413-.252.111-.459.278-.459.371 0 .094-.099.171-.221.171-.121 0-.665.484-1.208 1.075-1.524 1.66-1.581 1.736-2.104 2.758a3.293 3.293 0 0 1-.423.637c-.116.121-.21.294-.21.384 0 .09-.142.479-.315.863a7.007 7.007 0 0 0-.437 1.449c-.067.413-.187.791-.266.842-.079.05-.164.981-.189 2.07l-.046 1.978-.499.164c-.274.089-.536.208-.582.263-.046.055-.514.312-1.041.571-.527.259-.959.522-.959.584 0 .063-.243.221-.541.353-.631.278-3.259 2.892-3.625 3.605-.137.268-.344.547-.458.62a.5.5 0 0 0-.209.375c0 .133-.069.242-.153.242-.085 0-.203.226-.264.502s-.198.594-.306.708c-1.025 1.082-1.504 8.099-.627 9.192.079.1.197.425.261.723.063.298.175.542.248.542.073 0 .179.231.235.513.057.283.254.705.438.939.184.234.335.528.335.653 0 .126.062.228.138.228.076 0 .245.206.375.457.293.567 2.992 3.21 3.278 3.21.115 0 .209.077.209.17 0 .094.187.243.416.33.23.087.417.227.417.311 0 .084.197.202.437.262s.549.222.687.36c.137.137.465.293.729.346.264.052.48.155.48.228 0 .073.226.182.502.243s.707.21.958.331c.252.121.851.272 1.332.335.481.063.917.183.968.266.051.083.455.151.896.151 1.148 0 1.857.173 1.976.482.134.35 2.469 2.685 2.685 2.685.092 0 .227.1.3.223.073.123.508.439.967.702.458.263.858.538.889.61.03.072.138.131.239.131.101 0 .488.14.861.311 1.496.687 2.383.998 3.177 1.114.459.067.887.205.953.307.169.264 7.326.257 7.647-.008.128-.106.609-.246 1.067-.311.835-.118 1.253-.266 2.865-1.012.475-.22.944-.401 1.041-.401.098 0 .177-.075.177-.166 0-.092.098-.167.218-.167s.45-.169.734-.375c.285-.206.691-.488.903-.625.213-.138.64-.494.949-.792.61-.586.797-.655.905-.333.099.297 6.485.293 6.584-.004.038-.112.268-.205.513-.205.465-.001 1.542-.25 2.111-.488.183-.076.84-.344 1.458-.594.619-.25 1.125-.506 1.125-.569 0-.063.263-.21.584-.326.32-.116.583-.276.583-.355 0-.08.151-.193.335-.251.713-.226 4.165-3.956 4.165-4.5 0-.059.116-.223.258-.365.142-.142.302-.474.354-.738.053-.264.156-.48.229-.48.073 0 .182-.226.243-.502.06-.276.227-.736.37-1.022.523-1.05.436-7.289-.107-7.637-.076-.049-.19-.325-.252-.614-.063-.289-.26-.811-.438-1.161-.178-.349-.324-.725-.324-.835 0-.111-.056-.226-.125-.257-.068-.03-.489-.599-.934-1.264-.445-.664-.862-1.208-.927-1.208-.065 0-.285-.227-.49-.504l-.373-.504.591-.721c.326-.397.592-.803.592-.901 0-.099.094-.279.208-.4.302-.318.955-1.984 1.074-2.74.057-.356.185-.7.285-.766.249-.161.25-5.492.002-5.813-.1-.129-.274-.666-.387-1.193-.113-.527-.276-.958-.361-.958-.085 0-.155-.117-.155-.26 0-.285-.729-1.669-1.1-2.086-.128-.145-.233-.314-.233-.375 0-.268-2.385-2.779-2.639-2.779-.107 0-.194-.068-.194-.151 0-.188-1.551-1.313-2.097-1.521-.222-.084-.403-.221-.403-.304 0-.083-.356-.241-.79-.35-.434-.109-.828-.254-.875-.321-.166-.238-2.283-.853-3.303-.959-.568-.06-1.032-.172-1.032-.251 0-.079-1.088-.143-2.417-.143-1.5 0-2.417.063-2.417.167m5.907 4.827c.636.185 1.232.412 1.325.504a.66.66 0 0 0 .405.169c.407 0 2.241 1.198 3.167 2.07 3.806 3.58 4.036 8.944.542 12.63l-.929.98-1.583-.171c-3.51-.378-5.167-.201-5.167.552 0 .492.438.703 1.958.944.664.105 1.25.26 1.301.343.052.083.221.152.376.152 2.233.001 7.365 4.81 7.365 6.902 0 .157.079.434.175.614.289.539.233 3.445-.086 4.484-1.147 3.73-3.704 6.056-8.089 7.36-1.1.327-5.679.309-6.08-.024-.192-.159-.667-.248-1.336-.25l-1.038-.003-1.149 1.083c-3.858 3.635-10.044 4.85-14.48 2.844-.184-.083-.766-.34-1.294-.572-3.79-1.664-5.506-4.774-5.528-10.022l-.012-2.833-.5-.048c-.353-.034-.559.049-.703.282-.48.777-.79 4.881-.485 6.416l.13.65-1.554-.093c-3.699-.223-7.349-2.519-8.942-5.626-.383-.746-.696-1.534-.696-1.751 0-.216-.075-.44-.166-.497-.208-.128-.222-3.149-.016-3.544.083-.159.236-.607.34-.996.561-2.106 4.322-6.033 5.788-6.044.076-.001.339-.106.585-.234a4.775 4.775 0 0 1 1-.353c2.052-.443 2.667-1.493 2.054-3.511-.331-1.091-.315-2.105.057-3.588 1.838-7.34 11.102-10.45 18.21-6.115 1.313.801 2.022.675 3.815-.677 1.385-1.044 3.469-1.927 5.583-2.364 1.112-.23 4.371-.036 5.657.337m-23.99 3.901c-3.441 1.099-5.722 3.523-6.023 6.403-.247 2.369 2.231 2.6 2.841.265.676-2.582 2.907-4.09 6.42-4.339 1.712-.121 2.079-.353 2.079-1.311 0-1.456-2.466-1.928-5.317-1.018M130.083 61c-.056.092-.26.167-.451.167-.939 0-3.443 1.809-3.723 2.69-.054.17-.168.31-.254.31-.085 0-.155.079-.155.175 0 .097-.158.523-.351.946-.661 1.453-.286 4.867.643 5.849.114.121.208.283.208.36 0 .274 1.591 1.674 2.125 1.87.298.11.542.254.542.32 0 .205 1.523.522 2.875.598.751.043 1.291.008 1.291-.084 0-.086.317-.2.705-.252.388-.052.731-.174.764-.272.032-.097.151-.177.262-.177.696 0 2.936-2.264 2.936-2.967 0-.11.067-.2.15-.2.584 0 .629-5.057.049-5.496-.064-.048-.266-.387-.449-.754-.638-1.275-2.073-2.372-3.917-2.992-.843-.284-3.092-.347-3.25-.091m3.536 3.629c2.145 1.699 1.755 4.912-.735 6.051-1.765.808-4.317-.304-4.662-2.03-.054-.27-.164-.531-.244-.58-.483-.299.281-2.447 1.143-3.212 1.234-1.096 3.272-1.2 4.498-.229" fill="#04749c"></path>
+                            <path d="M166.545 20.145c-1.058.19-1.094.397-.042.241 1.124-.167 3.08-.175 4.414-.018.762.089.901.076.583-.056-.524-.218-4.013-.335-4.955-.167m-1.878.475-.648.242c-.219.081-.361.185-.314.232.046.046.451-.064.898-.246.701-.284.758-.489.064-.228m7.347-.061c.189.162 1.649.57 1.568.439-.052-.084-.373-.23-.713-.324-.629-.175-.981-.222-.855-.115m-23.681.767c-.504.075-1.104.222-1.333.327l-.417.19.417-.089c1.695-.363 3.657-.443 5.167-.21 1.703.263 2.08.252 1.06-.029-.88-.243-3.784-.355-4.894-.189m14.02.341c-.494.272-1.206.725-1.584 1.006-.377.28-.836.617-1.019.747-.183.13-.257.238-.163.241.093.003.618-.33 1.166-.741a19.2 19.2 0 0 1 1.914-1.246c.504-.274.841-.499.75-.5-.092-.001-.571.221-1.064.493m12.296.001c2.376 1.31 4.041 3.154 4.866 5.39.244.662.293.725.214.275-.369-2.092-4.186-6.184-5.751-6.163-.125.001.177.226.671.498m-29.566.608c-2.906 1.248-5.535 4.129-5.981 6.557-.071.384.026.236.283-.435 1.146-2.995 3.25-4.972 6.782-6.376.229-.092.304-.168.166-.171-.137-.002-.7.189-1.25.425m9.417-.204c.697.282.965.323.742.112-.087-.082-.421-.194-.742-.248l-.583-.1.583.236m1.24.51c.178.138.382.251.453.251.071 0 .484.225.917.5.606.384.964.495 1.548.477l.759-.024-.834-.107a4.386 4.386 0 0 1-1.549-.567c-.855-.548-1.835-.95-1.294-.53m-5.573 1.251c-.408.086-.107.125 1 .128 1.021.004 1.435-.042 1.166-.128-.511-.163-1.389-.163-2.166 0m-2.25.451c-.459.143-.759.287-.667.319.092.032.617-.086 1.167-.263.55-.177.85-.321.666-.319-.183.001-.708.12-1.166.263m5.245.128c.465.495.543 1.395.163 1.88-.133.169-.073.131.133-.085.567-.593.307-1.839-.445-2.128-.146-.055-.081.088.149.333m-6.62.427c-.207.082-.375.19-.375.239 0 .162.265.092.593-.156.369-.279.317-.299-.218-.083m-1.047.602c-1.206.803-3.252 3.358-2.939 3.671.05.05.258-.263.462-.695.375-.8 1.425-1.979 2.482-2.788.645-.494.642-.619-.005-.188m4.804 1.38c-1.353.189-1.046.308.569.221 1.716-.093 2.638-.376 1.132-.348-.504.009-1.27.067-1.701.127m-2.443.804c-.95.509-1.773 1.223-2.035 1.767-.095.197.061.08.347-.26.568-.676 1.367-1.227 2.409-1.664.37-.156.552-.287.404-.292-.147-.005-.654.197-1.125.449m32.06 2.207c0 1.001.052 1.693.114 1.536.147-.37.147-2.7 0-3.071-.063-.158-.114.533-.114 1.535m-37.736.111c-.46 1.656.107 2.919 1.291 2.873.393-.015.377-.033-.134-.153-1.064-.25-1.368-1.027-1.009-2.575.2-.861.083-.976-.148-.145m-3.408.099c-.145.541-.106 2.151.061 2.541.094.218.148-.228.155-1.291.012-1.65-.035-1.925-.216-1.25m6.587.083c-.169.323-.444 1.507-.319 1.375.118-.125.617-1.667.539-1.667-.037 0-.136.132-.22.292m-.89 2.061c-.246.265-.392.481-.323.481.187 0 .854-.656.854-.84 0-.208-.005-.204-.531.359m34.893.804c-.108.31-.161.6-.117.643.111.112.446-.811.373-1.029-.033-.098-.148.076-.256.386m-40.235.993c.126 1.31-.654 2.121-2.345 2.439-.34.064-.668.195-.728.292-.063.103-.011.14.127.089.13-.047.669-.221 1.198-.385 1.574-.49 2.473-2.009 1.808-3.057-.082-.13-.107.129-.06.622m39.24.841c-.721 1.022-1.534 1.748-2.117 1.89-.262.063-.239.085.107.1.476.021 2.064-1.522 2.565-2.492.385-.744.215-.59-.555.502m-7.617 1.459c-.51.13-.917.561-.917.972 0 .385.431.87.612.689.056-.056-.021-.15-.171-.208-.151-.058-.274-.282-.274-.498 0-.683.503-.794 3.159-.702 1.333.047 2.124.03 1.758-.038-.929-.171-3.764-.317-4.167-.215m-35.949.948c-2.582 1.373-4.517 3.425-5.272 5.59-.363 1.041-.191.938.281-.168.949-2.222 2.555-3.938 4.789-5.115.725-.382 1.235-.697 1.134-.699-.101-.003-.52.173-.932.392m36.699 1.005c1.243.343 1.922.452 1.745.281-.153-.148-1.935-.534-2.317-.502-.098.008.16.108.572.221m3.417 1.067a17.363 17.363 0 0 1 2.458 1.496c.619.47 1.125.798 1.125.73 0-.366-3.503-2.518-4.5-2.765-.229-.057.183.186.917.539m3.75 2.419c0 .076.252.451.561.833.309.382.652.87.763 1.084.112.214.245.347.297.295.052-.052-.106-.377-.351-.723-.667-.94-1.269-1.645-1.27-1.489m-49.556 2.389c-.153.154-.141 3.351.014 3.447.069.042.125-.741.125-1.741 0-.999-.006-1.817-.014-1.817a.78.78 0 0 0-.125.111m51.5.81c.143.42.296.727.341.683.109-.11-.272-1.242-.456-1.356-.08-.05-.028.253.115.673m.472 3.33c0 1.319.058 2.122.143 1.971.18-.322.174-3.633-.007-3.956-.075-.133-.136.758-.136 1.985m-51.744-.056c-.003.154.307.89.69 1.636 1.439 2.807 4.977 5.226 8.138 5.564.765.082.683.044-.5-.231-3.672-.855-6.565-3.102-7.828-6.081-.272-.641-.497-1.041-.5-.888m11.424.18c-.652.999-.991 7.741-.357 7.108.04-.04.001-.634-.086-1.319-.104-.817-.099-1.794.014-2.831.297-2.735.419-3.07 1.173-3.211.398-.074.397-.077-.045-.099a.736.736 0 0 0-.699.352m1.341 2.747c.016 2.328.079 3.104.294 3.628.172.419.242.502.188.222-.414-2.152-.487-4.857-.16-5.981.042-.142-.019-.387-.134-.544-.17-.233-.205.263-.188 2.675m38.525.382c-.146.456-.199.789-.118.739.161-.099.549-1.405.447-1.507-.034-.035-.183.311-.329.768m-.933 1.809c-1.113 1.717-3.534 3.526-5.613 4.194-.366.118-.58.243-.474.279.288.097 2.179-.74 3.224-1.426 1.357-.891 3.751-3.498 3.47-3.78-.044-.044-.317.286-.607.733m-37.016 2.301c-.02.295.316 1.112.416 1.012.048-.048-.023-.34-.157-.648-.135-.309-.251-.472-.259-.364m.67 1.594c.8 1.535 2.51 3.108 4.242 3.901 1.341.614 1.269.401-.084-.248-1.331-.639-2.936-2.03-3.696-3.202-.558-.862-.797-1.095-.462-.451m21.259.417c-.042.069.359.125.891.125s.933-.056.891-.125c-.043-.069-.443-.125-.891-.125s-.848.056-.891.125m-1.048.851c-.891.889-2.804 2.315-3.491 2.602-.662.277-.781.494-.136.249 1.003-.382 4.87-3.462 4.377-3.488-.058-.003-.395.284-.75.637m3.406-.443c.3.301 5.47.309 5.95.009.282-.176.219-.189-.417-.083-.991.164-4.055.159-5-.009-.616-.11-.711-.095-.533.083m-18.05 3.609c.091.091.466.21.833.265.447.066.557.051.333-.046-.591-.257-1.348-.399-1.166-.219m9.333.203c-.685.261-.729.3-.25.217a4.007 4.007 0 0 0 1-.325c.593-.318.226-.266-.75.108m-6.55.533c.758.176 4.8.186 5.248.013.22-.085-.859-.141-2.717-.141-1.797 0-2.852.053-2.531.128m-21.533 1.743c-.495.186-1.515 1.091-1.755 1.555-.391.756-.285.793.203.071.542-.804.773-1.005 1.635-1.419.6-.288.538-.442-.083-.207m2.437.134c.655.247 1.281.765 1.806 1.495.234.325.238.324.144-.048-.135-.534-1.391-1.516-2.07-1.619-.546-.083-.541-.076.12.172m2.146 3.162c0 .712.062 1.171.147 1.086.185-.185.178-1.995-.008-2.181-.077-.076-.139.416-.139 1.095m-6.816-.487c-.155.406-.119 1.039.066 1.153.102.063.167-.192.167-.656 0-.799-.064-.935-.233-.497m.233 1.623c-.002.441 1.222 1.952 1.574 1.943.097-.003-.062-.209-.353-.459a4.982 4.982 0 0 1-.874-1.037c-.191-.321-.346-.522-.347-.447M134.5 69c0 .092-.3.467-.667.833-.366.367-.6.667-.519.667.193 0 1.353-1.286 1.353-1.5 0-.092-.038-.167-.084-.167-.046 0-.083.075-.083.167m-4.367 1.684c.272.292 2.428.322 2.712.038.149-.15.023-.157-.533-.032a3.898 3.898 0 0 1-2.116-.141c-.232-.082-.243-.059-.063.135" fill="#3b93b4"></path>
+                        </g>
+                    </svg>
+                </span>
+            </a>
+        </div>
+    </div>
+
+    <a data-action="scroll-top" class="icon back-to-top" hidden="">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 337.085 337.086" width="36px" height="36px">
+            <path d="M168.54 0C75.619 0 .012 75.609.012 168.543c0 92.93 75.606 168.543 168.528 168.543 92.933 0 168.534-75.613 168.534-168.543C337.074 75.609 261.473 0 168.54 0zm102.865 224.327a12.31 12.31 0 0 1-17.432 0L168.54 138.9l-85.424 85.427c-4.816 4.815-12.631 4.815-17.447 0-4.819-4.815-4.819-12.622 0-17.438l94.152-94.141c4.822-4.815 12.613-4.815 17.426 0l94.152 94.141c4.822 4.816 4.822 12.623.006 17.438z"></path>
+        </svg>
+    </a>
+</footer>
+
+
+    <div class="cookie" id="cookie-container">
+        <p>
+            O Portal da Prefeitura utiliza cookies para melhorar a sua experiência,
+            de acordo com a nossa <a href="/politica-de-privacidade" tabindex="1">Política de Privacidade</a>,
+            ao continuar navegando, você concorda com estas condições.
+        </p>
+
+        <button id="accept" tabindex="2" data-btn="">Continuar</button>
+    </div>
+    <script>
+        var container = document.getElementById("cookie-container");
+
+        var botao = document.getElementById("accept");
+
+        botao.addEventListener('click', function () {
+            container.classList.add('accepted');
+
+            var data = new Date();
+            data.setTime(data.getTime() + (90 * 24 * 60 * 60 * 1000))
+            var expiracao = "expires=" + data.toUTCString();
+
+            document.cookie = "user-lgpd-accept=true; " + expiracao;
+        });
+    </script>
+
+    <script src="/Arquitetura/Javascript/main.js?v=638461160355314840"></script>
+
+    <script type="text/javascript">
+        function elementosSobrepostos(el1, el2) {
+            const domRect1 = el1.getBoundingClientRect();
+            const domRect2 = el2.getBoundingClientRect();
+
+            return !(
+                domRect1.bottom < domRect2.top
+            );
+        }
+
+        const el1 = document.querySelector('.jales');
+        const el2 = document.querySelector('.site-footer');
+
+        var ultimoScrollTop = 0;
+        var cliqueBrasao = 1;
+
+        window.addEventListener("scroll", function () {
+            var st = window.pageYOffset || document.documentElement.scrollTop;
+            if (st > ultimoScrollTop) {
+                if (elementosSobrepostos(el1, el2)) {
+                    el1.parentElement.style.top = 600 + (el1.getBoundingClientRect().bottom - el2.getBoundingClientRect().top) + "px"
+                    el1.parentElement.style.transition = "1s ease-in-out"
+                    cliqueBrasao = 0
+                }
+            } else {
+                el1.parentElement.style.top = "200px"
+                if (elementosSobrepostos(el1, el2)) {
+                    el1.parentElement.style.transition = ".5s ease-in-out"
+                    cliqueBrasao = 1
+                }
+            }
+            ultimoScrollTop = st <= 0 ? 0 : st; 
+        });
+
+        function subirCard(e) {
+            if (cliqueBrasao < 1) {
+                e.parentElement.style.top = "130px"
+                e.parentElement.style.transition = ".5s ease-in-out"
+                cliqueBrasao = 1
+                window.scrollBy(0, -1)
+            }
+            else {
+                el1.parentElement.style.top = el2.getBoundingClientRect().bottom - el1.getBoundingClientRect().bottom + 400 + "px"
+                el1.parentElement.style.transition = "1s ease-in-out"
+                cliqueBrasao = 0
+            }
+        }
+    </script>
+
+    <script>
+        const element = document.getElementById("youtube");
+        element.addEventListener("click", function () {
+            document.getElementById("video-destaque").style.display = "none";
+        });
+    </script>
+
+    <div vw="" class="enabled">
+        <div vw-access-button="" class="active"></div>
+        <div vw-plugin-wrapper="">
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+    </script>
+
+</body></html>

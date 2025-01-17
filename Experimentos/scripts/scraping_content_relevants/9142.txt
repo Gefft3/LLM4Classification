@@ -1,0 +1,1700 @@
+<html lang="pt-BR"><head>
+  <!-- Google 6 -->
+  <!-- Google tag (gtag.js) -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8FS3TBR1LX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8FS3TBR1LX');
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <style id="" media="all">/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevttHOmDyw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtvXOmDyw.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtuHOmDyw.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevttXOmDyw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtunOmDyw.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevttnOmDyw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtt3OmDyw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtuXOm.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu2ui.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5ardu2ui.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a_du2ui.woff2) format('woff2');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aLdu2ui.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a3du2ui.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aHdu2ui.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aDdu2ui.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/notosans/v38/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7duw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWxU6F15M.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqW106F15M.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2) format('woff2');
+  unicode-range: U+0307-0308, U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* math */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2) format('woff2');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2) format('woff2');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/passionone/v18/PbynFmL8HhTPqbjUzux3JEuf9lvQ6Q.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/passionone/v18/PbynFmL8HhTPqbjUzux3JEuR9ls.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/passionone/v18/Pby6FmL8HhTPqbjUzux3JEMq007hyJcsuA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/passionone/v18/Pby6FmL8HhTPqbjUzux3JEMq007vyJc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/passionone/v18/Pby6FmL8HhTPqbjUzux3JEMS0U7hyJcsuA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Passion One';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/passionone/v18/Pby6FmL8HhTPqbjUzux3JEMS0U7vyJc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLucHtA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTucHtA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+  <title>Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024</title>
+
+  <!-- Novas propagandas -->
+  <!-- Principal -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-principal', [300, 100], 'div-gpt-ad-1725395341661-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-principal', [728, 188], 'div-gpt-ad-1725395282683-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-principal', [1190, 250], 'div-gpt-ad-1725395154557-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+  <!-- Principal -->
+
+  <!-- Secundário -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-secundario', [300, 250], 'div-gpt-ad-1725396060790-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-secundario', [728, 188], 'div-gpt-ad-1725395884588-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-secundario', [970, 250], 'div-gpt-ad-1725395705164-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+  <!-- Secundário -->
+
+  <!-- Inter Notícias -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-internoticias', [300, 250], 'div-gpt-ad-1725396270755-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-internoticias', [728, 188], 'div-gpt-ad-1725396235064-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-internoticias', [970, 250], 'div-gpt-ad-1725396198638-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <!-- Inter Notícias -->
+  <!-- NPlay -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-lado-play', [300, 250], 'div-gpt-ad-1725396394815-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-lado-play', [970, 250], 'div-gpt-ad-1726689999350-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+  <!-- NPlay -->
+
+  <!-- Novas propagandas -->
+
+
+  <!-- Banner internoticias interna mobile - 300x100 -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {
+      cmd: []
+    };
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-internoticias', [300, 100], 'div-gpt-ad-1716475071360-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <!-- Banner principal desktop interna 728x188 -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {
+      cmd: []
+    };
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-principal', [728, 188], 'div-gpt-ad-1716476272304-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <!-- Banner secundário desktop interna 728x188 -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {
+      cmd: []
+    };
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-secundario', [728, 188], 'div-gpt-ad-1716476426250-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <!-- Banner internoticias desktop -->
+  <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script>
+    window.googletag = window.googletag || {
+      cmd: []
+    };
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/22407017544/banner-internoticias', [728, 188], 'div-gpt-ad-1716476502628-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9758831645296014" crossorigin="anonymous"></script>
+  <meta name="google-adsense-account" content="ca-pub-9758831645296014">
+  <script src="https://kit.fontawesome.com/a86158e74e.js" crossorigin="anonymous"></script>
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="De janeiro a abril deste ano, 23 abortos já foram realizados em unidades hospitalares públicas do Rio Grande do Norte">
+	<link rel="canonical" href="https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024">
+	<meta property="og:description" content="De janeiro a abril deste ano, 23 abortos já foram realizados em unidades hospitalares públicas do Rio Grande do Norte">
+	<meta property="og:url" content="https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/">
+	<meta property="og:site_name" content="NOVO Notícias">
+	<meta property="article:publisher" content="https://www.facebook.com/novonoticias/">
+	<meta property="article:published_time" content="2024-07-01T18:30:37+00:00">
+	<meta property="article:modified_time" content="2024-07-01T20:55:10+00:00">
+	<meta property="og:image" content="https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32.jpeg">
+	<meta property="og:image:width" content="1600">
+	<meta property="og:image:height" content="1058">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="NOVO Notícias">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@novo_noticias">
+	<meta name="twitter:site" content="@novo_noticias">
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="NOVO Notícias">
+	<meta name="twitter:label2" content="Est. reading time">
+	<meta name="twitter:data2" content="7 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#article","isPartOf":{"@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/"},"author":{"name":"NOVO Notícias","@id":"https://www.novonoticias.com.br/#/schema/person/d6c93ff1f2811a923cdc97fe3af9c6ea"},"headline":"Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024","datePublished":"2024-07-01T18:30:37+00:00","dateModified":"2024-07-01T20:55:10+00:00","mainEntityOfPage":{"@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/"},"wordCount":1669,"commentCount":0,"publisher":{"@id":"https://www.novonoticias.com.br/#organization"},"image":{"@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#primaryimage"},"thumbnailUrl":"https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32.jpeg","keywords":["aborto","PL do Aborto"],"articleSection":["Cotidiano","Últimas"],"inLanguage":"pt-BR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#respond"]}]},{"@type":"WebPage","@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/","url":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/","name":"Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024","isPartOf":{"@id":"https://www.novonoticias.com.br/#website"},"primaryImageOfPage":{"@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#primaryimage"},"image":{"@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#primaryimage"},"thumbnailUrl":"https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32.jpeg","datePublished":"2024-07-01T18:30:37+00:00","dateModified":"2024-07-01T20:55:10+00:00","description":"De janeiro a abril deste ano, 23 abortos já foram realizados em unidades hospitalares públicas do Rio Grande do Norte","breadcrumb":{"@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#primaryimage","url":"https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32.jpeg","contentUrl":"https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32.jpeg","width":1600,"height":1058},{"@type":"BreadcrumbList","@id":"https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.novonoticias.com.br/"},{"@type":"ListItem","position":2,"name":"Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024"}]},{"@type":"WebSite","@id":"https://www.novonoticias.com.br/#website","url":"https://www.novonoticias.com.br/","name":"NOVO Notícias","description":"Pode confiar","publisher":{"@id":"https://www.novonoticias.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.novonoticias.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://www.novonoticias.com.br/#organization","name":"Novo Notícias","url":"https://www.novonoticias.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.novonoticias.com.br/#/schema/logo/image/","url":"https://assets.novonoticias.com.br/uploads/2021/04/Artboard-1-copy-5.png","contentUrl":"https://assets.novonoticias.com.br/uploads/2021/04/Artboard-1-copy-5.png","width":741,"height":483,"caption":"Novo Notícias"},"image":{"@id":"https://www.novonoticias.com.br/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/novonoticias/","https://x.com/novo_noticias","https://www.instagram.com/novonoticias/","https://www.linkedin.com/company/novonoticias/","https://www.youtube.com/channel/UCAP1XzoQFc2bpQv4X9Kazrw"]},{"@type":"Person","@id":"https://www.novonoticias.com.br/#/schema/person/d6c93ff1f2811a923cdc97fe3af9c6ea","name":"NOVO Notícias","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://www.novonoticias.com.br/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/a591a24eb4cedb7c4d6dcef168d8f2e8?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a591a24eb4cedb7c4d6dcef168d8f2e8?s=96&d=mm&r=g","caption":"NOVO Notícias"},"sameAs":["http://staging.novonoticias.com.br"],"url":"https://www.novonoticias.com.br/author/admin/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.novonoticias.com.br">
+<link rel="dns-prefetch" href="//assets.novonoticias.com.br">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para NOVO Notícias » Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024" href="https://www.novonoticias.com.br/numero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.novonoticias.com.br\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="styles-theme-css" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/css/style.min.css?ver=6.6.1" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.novonoticias.com.br/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.novonoticias.com.br/app/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.novonoticias.com.br/wp/wp-includes/css/dashicons.min.css?ver=6.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="post-views-counter-frontend-css" href="https://www.novonoticias.com.br/app/plugins/post-views-counter/css/frontend.min.css?ver=1.4.5" type="text/css" media="all">
+<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.novonoticias.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.novonoticias.com.br/wp-json/wp/v2/posts/130403"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.novonoticias.com.br/wp/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.1">
+<link rel="shortlink" href="https://www.novonoticias.com.br/?p=130403">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.novonoticias.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.novonoticias.com.br%2Fnumero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.novonoticias.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.novonoticias.com.br%2Fnumero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024%2F&amp;format=xml">
+		<link rel="manifest" href="https://www.novonoticias.com.br/wp-json/wp/v2/web-app-manifest">
+					<meta name="theme-color" content="#fff">
+								<meta name="apple-mobile-web-app-capable" content="yes">
+				<meta name="mobile-web-app-capable" content="yes">
+
+				<link rel="apple-touch-startup-image" href="https://assets.novonoticias.com.br/uploads/2021/04/FavIcon-Novo.png">
+
+				<meta name="apple-mobile-web-app-title" content="NOVO">
+		<meta name="application-name" content="NOVO">
+		    <link rel="apple-touch-icon" sizes="57x57" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" href="https://assets.novonoticias.com.br/uploads/2021/04/FavIcon-Novo.png" sizes="32x32">
+<link rel="icon" href="https://assets.novonoticias.com.br/uploads/2021/04/FavIcon-Novo.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://assets.novonoticias.com.br/uploads/2021/04/FavIcon-Novo.png">
+<meta name="msapplication-TileImage" content="https://assets.novonoticias.com.br/uploads/2021/04/FavIcon-Novo.png">
+</head>
+
+<body class="post-template-default single single-post postid-130403 single-format-standard">
+
+  
+
+  <header class="header sticky-top">
+    <!--Header with TopNavbar-->
+<div class="header__items container-lg">
+  <div class="header__logo">
+    <a class="navbar-brand position-relative" href="https://www.novonoticias.com.br">
+      <img src="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/header/logo.png" alt="logo">
+    </a>
+  </div>
+
+  <nav class="header__navbar navbar navbar-expand-xll navbar-dark" role="navigation">
+    <div class="navbar-back-color">
+      <a href="https://www.novonoticias.com.br/pesquisa/" style="font-size: 24px; color: #FFF; margin-right: 20px;">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </a>
+
+              <a href="https://www.novonoticias.com.br/conteudo/?redirect_to=https%3A%2F%2Fwww.novonoticias.com.br%2Fnumero-de-abortos-legais-feitos-pelo-sus-no-rn-cresce-43-em-2024%2F">
+          <img src="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/login.png" alt="Login" style="width: auto; height: 35px; margin-right: 10px;">
+        </a>
+            
+      <button class="menu-responsive-collapse navbar-toggler text-right outline border-0 collapsed" id="button-responsive-menu" type="button" data-bs-toggle="collapse" data-bs-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
+
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-footer-categorias-principais" class="nav navbar-nav container-lg"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-150625" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150625 nav-item"><a title="Blogs" href="https://www.novonoticias.com.br/categorias/blogs/" class="nav-link">Blogs</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226 nav-item"><a title="Brasil" href="https://www.novonoticias.com.br/categorias/brasil/" class="nav-link">Brasil</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-227" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent active menu-item-227 nav-item"><a title="Cotidiano" href="https://www.novonoticias.com.br/categorias/cotidiano/" class="nav-link">Cotidiano</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-229 nav-item"><a title="Economia" href="https://www.novonoticias.com.br/categorias/economia/" class="nav-link">Economia</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231 nav-item"><a title="Esporte" href="https://www.novonoticias.com.br/categorias/esporte/" class="nav-link">Esporte</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-232" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-232 nav-item"><a title="Mundo" href="https://www.novonoticias.com.br/categorias/mundo/" class="nav-link">Mundo</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-150628" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150628 nav-item"><a title="Opinião" href="https://www.novonoticias.com.br/categorias/opiniao/" class="nav-link">Opinião</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-233 nav-item"><a title="Polícia" href="https://www.novonoticias.com.br/categorias/policia/" class="nav-link">Polícia</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-234 nav-item"><a title="Política" href="https://www.novonoticias.com.br/categorias/politica/" class="nav-link">Política</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-76807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76807 nav-item"><a title="Cultura" href="https://www.novonoticias.com.br/categorias/cultura/" class="nav-link">Cultura</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-76809" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent active menu-item-76809 nav-item"><a title="Últimas" href="https://www.novonoticias.com.br/categorias/ultimas/" class="nav-link">Últimas</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-76808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76808 nav-item"><a title="Entretenimento" href="https://www.novonoticias.com.br/categorias/entretenimento/" class="nav-link">Entretenimento</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-137229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137229 nav-item"><a title="Jornal Impresso" href="https://www.novonoticias.com.br/categorias/jornal-impresso/" class="nav-link">Jornal Impresso</a></li>
+</ul></div>    </div>
+  </nav>
+</div>  </header>
+<section class="internal-single" style="margin-top: 15px;">
+            <div id="arrow-right-slide"><a href="https://www.novonoticias.com.br/diego-breno-america-relacao-fria-entre-associacao-e-saf/" rel="prev"></a></div>
+      
+      <!-- Propaganda -->
+      <div class="d-flex justify-content-center align-items-center">
+        <div class="section-posts-home__advertising-small">
+          <!-- ADS -->
+          <!-- /22407017544/banner-principal -->
+          <div id="div-gpt-ad-1725395341661-0" style="min-width: 300px; min-height: 100px;">
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1725395341661-0'); });
+            </script>
+          </div>
+        </div>
+
+        <div class="section-posts-home__advertising-large">
+          <!-- ADS -->
+          <!-- /22407017544/banner-principal -->
+          <div id="div-gpt-ad-1725395282683-0" style="min-width: 728px; min-height: 188px;">
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1725395282683-0'); });
+            </script>
+          </div>
+        </div>
+      </div>
+
+      <div class="internal-single__parent-box">
+        <div class="container-md">
+
+          <div class="internal-single__box">
+            
+              <div class="internal-single__img-caption">
+                <img class="internal-single__thumbnail" src="https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32-768x508.jpeg" title="Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024" alt="" loading="lazy">
+
+                              </div>
+
+              <div class="internal-single__content internal-single__content--img">
+              
+                <div class="internal-single__category">
+                                      <span>Últimas</span>
+                  
+                  <div>
+                    <div class="internal-single__share">
+                      <div class="d-flex justify-content-start">
+                        <!-- AddToAny BEGIN -->
+                        <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+                          <a class="a2a_button_x"></a>
+                          <a class="a2a_button_facebook"></a>
+                          <a class="a2a_button_whatsapp"></a>
+                        </div>
+                        <script async="" src="https://static.addtoany.com/menu/page.js"></script>
+                        <!-- AddToAny END -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <h1 class="internal-single__title">
+                                      <span style="color: #3953D9; text-transform: uppercase;">dados</span>
+                                    Número de abortos legais feitos pelo SUS no RN cresce 43% em 2024                </h1>
+                <p class="internal-single__subtitle">De janeiro a abril deste ano, 23 abortos já foram realizados em unidades hospitalares públicas do Rio Grande do Norte</p>
+                <p class="internal-single__author">
+                                      por: <span>NOVO Notícias</span>
+                                  </p>
+                <p class="internal-single__date">Publicado <span>1 de julho de 2024 às 15:30</span></p>
+                </div>
+              </div>
+          </div>
+        </div>
+          
+    <div class="container" style="max-width: 680px;">
+      <div class="row">
+        <div class="col-12 col-md-12">
+          <div class="internal-single__text">
+            <!-- Propaganda -->
+
+            <p><a href="https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-130404" src="https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32-454x300.jpeg" alt="" width="454" height="300" srcset="https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32-454x300.jpeg 454w, https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32-1110x734.jpeg 1110w, https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32-768x508.jpeg 768w, https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32-1536x1016.jpeg 1536w, https://assets.novonoticias.com.br/uploads/2024/07/WhatsApp-Image-2024-06-28-at-13.38.32.jpeg 1600w" sizes="(max-width: 454px) 100vw, 454px"></a></p>
+<p>Uma discussão no Congresso Nacional é palco para debates em todo o Brasil nas últimas semanas. Parlamentares discutem equiparar o aborto realizado após 22 semanas de gestação ao crime de homicídio simples, inclusive nos casos de gravidez resultante de estupro. Nesse cenário, o NOVO buscou junto ao Ministério da Saúde dados sobre abortos legais feitos na rede de saúde pública do Rio Grande do Norte.
+            </p>
+<p>De janeiro a abril deste ano, 23 abortos foram realizados em estabelecimentos que atendem através do Sistema Único de Saúde (SUS). Deste total, 22 foram feitos em Natal, enquanto um caso foi registrado em Santa Cruz. O número representa uma alta considerável na busca por esse tipo de atendimento.</p>
+<p>Em comparação com o mesmo período do ano passado, com 16 casos, o número de procedimentos cresceu 43%.</p>
+<p>Os dados mostram que a busca pelo chamado aborto legal vem crescendo gradativamente. Em 2023, o Rio Grande do Norte atingiu o recorde da série histórica registrada, iniciada em 2008 pelo Departamento de Informação e Informática do Sistema Único de Saúde (DataSUS). Em todo o ano passado, foram 54 abortos, sendo 46 em Natal, cinco em Santa Cruz, um em Mossoró, um em Currais Novos e um em Ceará-Mirim.</p>
+<p>Os hospitais da rede EBERSH, o Hospital Universitário Ana Bezerra, em Santa Cruz, e a Maternidade Escola Januário Cicco, em Natal, estão habilitados para realizar abortos nos casos permitidos por lei.<br>
+Nesses hospitais, as mulheres podem procurar atendimento com seus documentos pessoais e, se já tiverem, com os exames realizados. A equipe multiprofissional, composta por assistente social, psicólogo, médico ginecologista e enfermeira, realiza a avaliação clínica necessária e solicita os exames para confirmar diagnósticos de malformação ou verificar o tempo de gestação.</p>
+<p>Jaciclelma Márcia da Silva, assistente social do Hospital Universiário Ana Bezerra, explica que a procura pelo serviço tem aumentado devido ao maior acesso à informação: “Observamos um aumento no número de pessoas que buscam o serviço desde 2017, quando começamos a funcionar, mas agora há uma massificação da informação. Quanto mais pessoas procuram o serviço, mais a informação se dissemina”, pontua. Ela destaca que os principais casos atendidos são de gestações resultantes de violência sexual e também casos encaminhados pela justiça.</p>
+<p>Além do atendimento inicial, os hospitais oferecem acompanhamento psicológico e de toda a equipe multiprofissional após o procedimento. “Se a mulher desejar continuar o acompanhamento psicológico ou precisar de acompanhamento ginecológico, já marcamos a data de retorno antes da alta hospitalar,” afirma a assistente social. Essa abordagem visa garantir um atendimento completo e humanizado às mulheres que passam por esse difícil momento.</p>
+<p><strong>Abortos por razões médicas</strong><br>
+2008 – 25<br>
+2009 – 34<br>
+2010 – 27<br>
+2011 – 13<br>
+2012 – 4<br>
+2013 – 21<br>
+2014 – 17<br>
+2015 – 5<br>
+2016 – 11<br>
+2017 – 21<br>
+2018 – 20<br>
+2019 – 19<br>
+2020 – 20<br>
+2021 – 29<br>
+2022 – 25<br>
+2023 – 54<br>
+2024* – 23<br>
+*Referente aos meses de janeiro a abril</p>
+<p>Para falar sobre a importância da prestação desse serviço e detalhar um pouco sobre o atendimento, o NOVO conversou com a médica ginecologista Maria da Guia de Medeiros Garcia, que atua na Maternidade Escola Januário Cicco, da UFRN e administrada pela Empresa Brasileira de Serviços Hospitalares (EBSERH).</p>
+<p>Dentre vários assuntos, a médica falou sobre o aumento da procura por esse tipo de atendimento, que na opinião dela se deve ao aumento também da violência contra a mulher.</p>
+<p><strong>ENTREVISTA – MARIA DA GUIA GARCIA, GINECOLOGISTA E OBSTETRA</strong></p>
+<p><strong>Qual a importância desse serviço?</strong><br>
+O processo de aborto legal, após estupro é permitido pela legislação em vigor no Brasil, que prevê que a mulher tem direito ao aborto nos casos de gravidez decorrente de estupro. O serviço é importante pois se estrutura desde o acolhimento à mulher, por equipe multiprofissional até a relização do procedimento aborto legal. Os profissionais são treinados para não realizarem juízo de valor no caso de aborto legal. A equipe multiprofissional é composta de enfermeira, assistente social, psicóloga e médico. Em Natal , o acesso ao abortamento legal, se dá através de duas maternidades. Hospital Santa Catarina e Maternidade Escola Januario Cicco, conforme A NOTA TÉCNICA Nº 1/2020/SESAP que desmembra este tipo de atendimento em regiões na tentativa de dividir o cuidado desta tão importante demanda, visando não sobrecarregar um serviço de atenção à saúde em detrimento de outro.</p>
+<p><strong>Quem pode e o que é preciso fazer para ter acesso ao serviço?</strong><br>
+A mulher que se encontra grávida vítima de estupro, procura a instituição por livre demanda ou vem encaminhada de outro serviço, com o desejo de realizar o abortamento. É acolhida e se dá seguimento aos trâmites até a realização do procedimento. Certamente estas mulheres já chegam com a saúde mental abalada pela violência sofrida do estupro e no momento ainda mais vulnerável pela necessidade de realizar um aborto, que muitas vezes não dividiu este sofrimento com ninguém e vem sozinha ao serviço</p>
+<p><strong>Nos últimos cinco anos, o número de abortos por razões médicas aumentou consideravelmente no Rio Grande do Norte. A que se deve essa mudança?</strong><br>
+O aumento nos últimos anos se dá certamente pelo aumento da violência contra a mulher e muitas vezes porque ela não procurou um serviço na época do estupro e resultou em uma gestação. A vergonha de dizer que foi estuprada é incalculável, pois muitas vezes as pessoas ainda fazem juízo do momento que isto aconteceu e a mulher ao invés de vítima parece ser a culpada.</p>
+<p><strong>O procedimento para o aborto é um só ou existem múltiplas opções? Se sim, todos eles estão disponíveis no RN?</strong><br>
+A indução do aborto legal é realizada através do uso de Misoprostol e a seguir é realizada uma curetagem uterina ou Aspiração Manual Intrauterina. Todos os dois métodos são disponíveis na Maternidade Januário Cicco.</p>
+<p>O aborto legal tem aumentado e isso se dá também pelo aumento da violência sexual contra mulheres. Que políticas poderiam ser adotadas para mudar esse cenário?<br>
+Entendemos que já que no momento não existe política que procure diminuir este ato tão violento que é o estupro, as mulheres necessitam procurar os serviços de saúde tão logo aconteça esta violência, para que se possa prevenir uma gestação e diminua o sofrimento pelo qual elas passam. Importante também que o governo faça campanhas permanentes de esclarecimento à população sobre como a mulher deve proceder após o estupro e quais locais elas devem procurar. Isto é de fundamental importância.</p>
+<p><strong>Parlamentares potiguares divergem sobre o polêmico PL do Aborto</strong></p>
+<p>O Projeto de Lei 1904/2024, conhecido como PL do Aborto, com intensos debates na Câmara dos Deputados, também divide opiniões entre os parlamentares do Rio Grande do Norte. O projeto, que visa equiparar o aborto legal ao crime de homicídio após 22 semanas de gestação, é considerado inconstitucional por alguns e uma medida necessária por outros.</p>
+<p>O deputado federal Fernando Mineiro se posiciona fortemente contra o projeto, que ele chama de “PL do Estuprador”. Segundo Mineiro, a proposta é um retrocesso inaceitável que ataca direitos das mulheres garantidos desde a década de 1940. “É um projeto inconstitucional que, se aprovado, obrigará crianças e mulheres a terem filhos dos seus abusadores, submetendo-as a uma nova violência. O aborto é uma questão de saúde pública que precisa ser cuidada, não criminalizada,” afirmou o deputado.</p>
+<p>Por outro lado, o deputado federal General Girão apoia firmemente o PL 1904/2024, defendendo que a vida deve ser protegida a partir da 22ª semana de gestação, “quando o feto já é um ser humano formado e com possibilidade de viver fora do útero”. “A técnica de aborto proposta é extremamente dolorosa e cruel. Permiti-la em seres humanos é absurdo. O projeto não altera os casos de aborto legal já previstos, mas reafirma a proibição do aborto tardio, alinhando-se com normas históricas do Ministério da Saúde,” declarou Girão, que também é favorável à castração química para estupradores e ao aumento da pena para o crime de estupro.</p>
+<p>Única mulher da bancada federal potiguar, a deputada Natália Bonavides critica a proposta como uma grave violação dos direitos humanos, especialmente para crianças vítimas de estupro. “Estão tentando aprovar um projeto para equiparar o procedimento do aborto legal ao homicídio e assim submeter mulheres e meninas que engravidem em casos de estupro a mais uma violência: a de serem obrigadas a gestarem o filho dos estupradores. É inadmissível que, em vez de avançar nos direitos das mulheres, os deputados de direita estejam empenhados em retirar direitos fundamentais garantidos desde 1940,” disse Bonavides.</p>
+<p>O senador Valentim, por sua vez, enfatizou a importância de um debate amplo e detalhado no Senado. “Sou contra o aborto, exceto nos casos já previstos por lei. Precisamos adequar o projeto à nossa Constituição e às realidades social, econômica e de saúde. Quando o projeto chegar ao Senado vou defender o trâmite pelas comissões teremos tempo e espaço para debater de forma ampla os temas complexos que ele encerra”, concluiu.<br>
+Os deputados federais Paulinho Freire, Robinson Faria, Benes Leocádio, Sargento Gonçalves e João Maia, bem como os senadores Rogério Marinho e Zenaide Maia, foram procurados pela reportagem do NOVO, mas não retornaram até o fechamento desta edição.</p>
+<p><strong>______________________________________________________________________________________________</strong></p>
+<p><strong>Quer receber notícias úteis, relevantes, informativas e divertidas?</strong></p>
+<p>➡️ Assine gratuitamente a&nbsp;<span style="color: #000000;"><strong><a style="color: #000000;" href="https://chat.whatsapp.com/G9MhHIEkhu76TFfZzDXPso" target="_blank" rel="noopener">Comunidade do NOVO no Whatsapp</a></strong>.</span><br>
+➡️ gratuitamente o&nbsp;<strong><span style="color: #000000;"><a style="color: #000000;" href="https://t.me/NOVONoticias" target="_blank" rel="noopener">Canal de Notícias no Telegram</a>.</span><br>
+</strong>➡️ Siga o&nbsp;<span style="color: #000000;"><strong><a style="color: #000000;" href="https://twitter.com/novo_noticias" target="_blank" rel="noopener">NOVO Notícias no Twitter</a></strong>.</span></p>
+<p><strong>______________________________________________________________________________________________</strong></p>
+            
+            <h6 class="internal-single__tags-title">Tags</h6><ul class="internal-single__tags"><li><a href="https://www.novonoticias.com.br/tags/aborto/">aborto</a></li><li><a href="https://www.novonoticias.com.br/tags/pl-do-aborto/">PL do Aborto</a></li></ul>
+            <div class="internal-single__links-share">
+              <p><i class="fa-solid fa-arrow-right"></i> Receba notícias em primeira mão pelo <a href="https://chat.whatsapp.com/IYAIC37yjtN1fJOMFNNkFR" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-whatsapp"></i> Whatsapp</a></p>
+  
+              <p><i class="fa-solid fa-arrow-right"></i> Assine nosso canal no <a href="https://t.me/NOVONoticias" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-telegram"></i> Telegram</a></p>
+  
+              <p><i class="fa-solid fa-arrow-right"></i> Siga o NOVO no <a href="https://www.instagram.com/novonoticias?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i> Instagram</a></p>
+  
+              <p><i class="fa-solid fa-arrow-right"></i> Siga o NOVO no <a href="https://x.com/novo_noticias" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-twitter"></i> Twitter</a></p>
+  
+              <p><i class="fa-solid fa-arrow-right"></i> Acompanhe o NOVO no <a href="https://www.facebook.com/novonoticias/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-facebook"></i> Facebook</a></p>
+  
+              <p><i class="fa-solid fa-arrow-right"></i> Acompanhe o NOVO Notícias no <a href="https://news.google.com/publications/CAAqBwgKMNDIzQswgOTkAw?ceid=BR:pt-419&amp;oc=3" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-newspaper"></i> Google Notícias</a></p>
+            </div>
+
+            <!-- Propaganda -->
+            <div class="d-flex justify-content-center align-items-center">
+              <div class="section-posts-home__advertising-small">
+                <!-- ADS -->
+                <!-- /22407017544/banner-secundario -->
+                <div id="div-gpt-ad-1725396060790-0" style="min-width: 300px; min-height: 250px;">
+                  <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1725396060790-0'); });
+                  </script>
+                </div>
+              </div>
+
+              <div class="section-posts-home__advertising-large">
+                <!-- ADS -->
+                <!-- /22407017544/banner-secundario -->
+                <div id="div-gpt-ad-1725395884588-0" style="min-width: 728px; min-height: 188px;">
+                  <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1725395884588-0'); });
+                  </script>
+                </div>
+              </div>
+            </div>
+
+            <div class="internal-single__posts">
+              <h6>Bombando no Novo Notícias</h6>
+              <div class="internal-single__posts-parent-box" style="flex-wrap: wrap;">
+                
+                    <a href="https://www.novonoticias.com.br/governadora-fatima-bezerra-sanciona-recomposicao-salarial-para-servidores-do-rn/" class="internal-single__post-box">
+                      
+                        <img class="internal-single__post-img" src="https://assets.novonoticias.com.br/uploads/2025/01/Captura-de-Tela-2025-01-03-as-16.38.15-768x513.png" title="Governadora Fátima Bezerra sanciona recomposição salarial para servidores do RN" alt="Fátima Bezerra e pedro Lopes durante a sanção da recomposição salarial para os servidores do RN. Foto: Instagram" loading="lazy">
+                      
+                      <div class="internal-single__post-content">
+                        <h2 class="internal-single__post-title-2">
+                          <span class="internal-single__post-title-1" style="color: #D71F1F">
+                            Salários                          </span>
+                          Governadora Fátima Bezerra sanciona recomposição salarial para servidores do RN                        </h2>
+                      </div>
+                    </a>
+                
+                    <a href="https://www.novonoticias.com.br/prefeitura-de-natal-explica-o-que-sao-os-rodolitos-que-tem-aparecido-na-orla-de-ponta-negra/" class="internal-single__post-box">
+                      
+                        <img class="internal-single__post-img" src="https://assets.novonoticias.com.br/uploads/2024/12/Rodolitos.jpg" title="Prefeitura de Natal explica o que são os “rodolitos” que têm aparecido na orla de Ponta Negra" alt="Rodolitos despertaram atenção e levantaram questionamentos sobre impacto ambiental da engorda de Ponta Negra. Foto: Redes Sociais" loading="lazy">
+                      
+                      <div class="internal-single__post-content">
+                        <h2 class="internal-single__post-title-2">
+                          <span class="internal-single__post-title-1" style="color: #D71F1F">
+                            Fenômeno                          </span>
+                          Prefeitura de Natal explica o que são os “rodolitos” que têm aparecido na orla de Ponta Negra                        </h2>
+                      </div>
+                    </a>
+                
+                    <a href="https://www.novonoticias.com.br/tjrn-suspende-decisoes-que-mandavam-governo-do-rn-pagar-13o-ate-30-de-dezembro/" class="internal-single__post-box">
+                      
+                        <img class="internal-single__post-img" src="https://assets.novonoticias.com.br/uploads/2024/12/IMG_1021_1724875697-e1735350013703-768x514.jpg" title="TJRN suspende decisões que mandavam Governo do RN pagar 13º até 30 de dezembro" alt="Amílcar Maia suspendeu decisões que determinavam pagamento do 13º salário até o dia 30 de dezembro. Foto: TJRN" loading="lazy">
+                      
+                      <div class="internal-single__post-content">
+                        <h2 class="internal-single__post-title-2">
+                          <span class="internal-single__post-title-1" style="color: #D71F1F">
+                            Decisão                          </span>
+                          TJRN suspende decisões que mandavam Governo do RN pagar 13º até 30 de dezembro                        </h2>
+                      </div>
+                    </a>
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
+<footer class="footer">  
+  <div class="footer-form">
+  <div class="container">
+    <div class="footer-form__box">
+      <div>
+        <h6 class="footer-form__title">
+          Receba notícias do <span>NOVO</span> no seu Whatsapp e fique bem informado em primeira mão! É gratuito! <a class="footer-form__link" href="https://chat.whatsapp.com/IYAIC37yjtN1fJOMFNNkFR" target="_blank" rel="noopener noreferrer" style="color:#008fba;">Se inscreva aqui</a> ou aponte seu celular
+        </h6>
+
+        <div class="footer-form__qrcode">
+          <img src="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/novo-noticias-qrcode.jpeg" alt="qrcode">
+        </div>
+
+        <p class="footer-form__text">A privacidade dos seus dados está garantida pela nossa <a href="https://www.novonoticias.com.br/tjrn-suspende-decisoes-que-mandavam-governo-do-rn-pagar-13o-ate-30-de-dezembro/">Política de Privacidade</a></p>
+      </div>
+    </div>
+
+    <!-- Propaganda -->
+    <div class="container container-no-padding">
+      <div class="container d-flex justify-content-center align-items-center" style="padding: 20px 0px 20px;">
+
+        <div class="section-posts-home__advertising-small">
+          <!-- ADS -->
+          <!-- /22407017544/banner-internoticias -->
+          <div id="div-gpt-ad-1725396270755-0" style="min-width: 300px; min-height: 250px;">
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1725396270755-0'); });
+            </script>
+          </div>
+        </div>
+
+        <div class="section-posts-home__advertising-large">
+          <!-- ADS -->
+          <!-- /22407017544/banner-internoticias -->
+          <div id="div-gpt-ad-1725396235064-0" style="min-width: 728px; min-height: 188px;">
+            <script>
+              googletag.cmd.push(function() { googletag.display('div-gpt-ad-1725396235064-0'); });
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  
+<div class="footer-posts">
+  <div class="container">
+    <div class="footer-posts__parent-box">
+          </div>
+  </div>
+</div>  
+<div class="footer__top">
+  <div class="container-md">
+    <div class="row" style="display:flex; align-items: flex-start;">
+      <div class="footer__logo col-12 col-lg-3">
+        <a href="https://www.novonoticias.com.br">
+          <img src="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/img/footer/logo-footer.png" alt="logo" loading="lazy">
+        </a>
+      </div>
+      <div class="footer__menu col-12 col-lg-4">
+        <h6>Seções</h6>
+        <div class="menu-footer-categorias-principais-container"><ul id="menu-footer-categorias-principais-1" class="footer__nav"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150625 nav-item"><a title="Blogs" href="https://www.novonoticias.com.br/categorias/blogs/" class="nav-link">Blogs</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226 nav-item"><a title="Brasil" href="https://www.novonoticias.com.br/categorias/brasil/" class="nav-link">Brasil</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent active menu-item-227 nav-item"><a title="Cotidiano" href="https://www.novonoticias.com.br/categorias/cotidiano/" class="nav-link">Cotidiano</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-229 nav-item"><a title="Economia" href="https://www.novonoticias.com.br/categorias/economia/" class="nav-link">Economia</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231 nav-item"><a title="Esporte" href="https://www.novonoticias.com.br/categorias/esporte/" class="nav-link">Esporte</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-232 nav-item"><a title="Mundo" href="https://www.novonoticias.com.br/categorias/mundo/" class="nav-link">Mundo</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150628 nav-item"><a title="Opinião" href="https://www.novonoticias.com.br/categorias/opiniao/" class="nav-link">Opinião</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-233 nav-item"><a title="Polícia" href="https://www.novonoticias.com.br/categorias/policia/" class="nav-link">Polícia</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-234 nav-item"><a title="Política" href="https://www.novonoticias.com.br/categorias/politica/" class="nav-link">Política</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76807 nav-item"><a title="Cultura" href="https://www.novonoticias.com.br/categorias/cultura/" class="nav-link">Cultura</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent active menu-item-76809 nav-item"><a title="Últimas" href="https://www.novonoticias.com.br/categorias/ultimas/" class="nav-link">Últimas</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-76808 nav-item"><a title="Entretenimento" href="https://www.novonoticias.com.br/categorias/entretenimento/" class="nav-link">Entretenimento</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137229 nav-item"><a title="Jornal Impresso" href="https://www.novonoticias.com.br/categorias/jornal-impresso/" class="nav-link">Jornal Impresso</a></li>
+</ul></div>      </div>
+      
+      <div class="footer__blogs footer__blogs-pages col-12 col-lg-2">
+        <h6>Páginas</h6>
+        <div>
+          <a href="https://www.novonoticias.com.br/contatos/">
+            Contatos          </a>
+          <a href="https://www.novonoticias.com.br/politica-de-privacidade-2/">
+            Política de privacidade          </a>
+        </div>
+      </div>
+
+      <div class="footer__blogs footer__blogs-pages col-12 col-lg-3">
+        <h6>Blogs</h6>
+        <div>
+                        
+              <a href="https://www.novonoticias.com.br/blogs/daniela-freire/">
+
+                                <img src="https://assets.novonoticias.com.br/uploads/2021/04/DANI-e1725300674294.png" alt="Foto do autor" style="width: 50px; height: 50px; object-fit: cover; object-position: top; border-radius: 50%; margin-right: 5px">
+                
+                Daniela Freire              </a>
+              
+                          
+              <a href="https://www.novonoticias.com.br/blogs/hora-do-direito/">
+
+                                <img src="https://assets.novonoticias.com.br/uploads/2023/06/ok.png" alt="Foto do autor" style="width: 50px; height: 50px; object-fit: cover; object-position: top; border-radius: 50%; margin-right: 5px">
+                
+                Hora do Direito              </a>
+              
+                          
+              <a href="https://www.novonoticias.com.br/blogs/juliana-manzano/">
+
+                                <img src="https://assets.novonoticias.com.br/uploads/2023/02/IMG_0991.png" alt="Foto do autor" style="width: 50px; height: 50px; object-fit: cover; object-position: top; border-radius: 50%; margin-right: 5px">
+                
+                Juliana Manzano              </a>
+              
+                          
+              <a href="https://www.novonoticias.com.br/blogs/rodrigo-loureiro/">
+
+                                <img src="https://assets.novonoticias.com.br/uploads/2023/03/Cabeca-de-coluna.png" alt="Foto do autor" style="width: 50px; height: 50px; object-fit: cover; object-position: top; border-radius: 50%; margin-right: 5px">
+                
+                Rodrigo Loureiro              </a>
+              
+                    </div>
+      </div>
+    </div>
+  </div>
+</div>  <div class="footer__bottom">
+  <div class="container-md">
+    <div class="row">
+      <div class="footer__column footer__column--third col-12">
+        <p>Copyright 2024 - Novo Notícias - www.novonoticias.com.br</p>
+        <p>Todos os direitos reservados</p>
+
+        <p>Desenvolvido por INTERATIVA - Layout por ROBLEDDO</p>
+        <p>Versão: 2.0.0</p>
+      </div>
+    </div>
+  </div>
+</div></footer>
+
+
+
+<!-- APAGAUE OS TIPOS DE CARROSSEL QUE NÃO IRÁ UTILIZAR -->
+<div class="alert alert-cookies alert-dark text-light fade show" role="alert">
+  <div class="alert-cookies__message">Navegue à vontade! Nosso site não coleta dados sensíveis dos usuários, apenas o Google Analytics armazena cookies para estatísticas de acesso ao site.</div>
+  <button type="button" class="cookies-accept btn btn-outline-light" data-dismiss="alert" aria-label="Close">
+    Ok. Entendi.
+  </button>
+</div>
+
+	<script type="module">
+		import { Workbox } from "https:\/\/www.novonoticias.com.br\/app\/plugins\/pwa\/wp-includes\/js\/workbox-v7.0.0\/workbox-window.prod.js";
+
+		if ( 'serviceWorker' in navigator ) {
+			window.wp = window.wp || {};
+			window.wp.serviceWorkerWindow = new Workbox(
+				"https:\/\/www.novonoticias.com.br\/wp.serviceworker",
+				{"scope":"\/"}			);
+			window.wp.serviceWorkerWindow.register();
+		}
+	</script>
+	<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/app/themes/novo-noticias-site/dist/js/all.js?ver=1.0.0" id="scripts-theme-js"></script>
+<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/app/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.novonoticias.com.br\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/app/plugins/contact-form-7/includes/js/index.js?ver=5.9.3" id="contact-form-7-js"></script>
+<script type="text/javascript" id="post-views-counter-frontend-js-before">
+/* <![CDATA[ */
+var pvcArgsFrontend = {"mode":"js","postID":130403,"requestURL":"https:\/\/www.novonoticias.com.br\/wp\/wp-admin\/admin-ajax.php","nonce":"f8f073064e","dataStorage":"cookies","multisite":false,"path":"\/","domain":""};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/app/plugins/post-views-counter/js/frontend.min.js?ver=1.4.5" id="post-views-counter-frontend-js"></script>
+<script type="text/javascript" defer="" src="https://www.google.com/recaptcha/api.js?render=6LcT-jIqAAAAAPu7OfNf4DFj7uyDGbcl87e1mclO&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/wp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcT-jIqAAAAAPu7OfNf4DFj7uyDGbcl87e1mclO","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="" src="https://www.novonoticias.com.br/app/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.9.3" id="wpcf7-recaptcha-js"></script>
+
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;901d1efeda67e2a2&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;r&quot;:1,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;073a19083c20496aadbe94d3cc46c38c&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+</body></html>

@@ -1,0 +1,247 @@
+<html class="no-js" lang="pt-PT"><head> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Language" content="pt"> <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"> <link rel="manifest" href="/manifest.json"> <meta name="apple-mobile-web-app-title" content="omirante"> <meta name="theme-color" content="#015782"> <meta name="msapplication-TileColor" content="#015782"> <link rel="icon" sizes="152x152" href="https://statics.impresa.pt/php-assets/omirante/active/assets/gfx/icon.png"> <meta name="msapplication-square150x150logo" content="https://statics.impresa.pt/php-assets/omirante/active/assets/gfx/icon.png"> <link rel="shortcut icon" type="image/png" href="/favicon.png"> <link rel="stylesheet" type="text/css" href="https://statics.impresa.pt/php-assets/omirante/active/assets/css/main.min.css"><link href="https://fonts.googleapis.com/css?family=Cuprum:400,700italic,700,400italic" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css"> <link rel="preconnect" href="//ajax.googleapis.com"><meta name="robots" content="max-image-preview:large"><link rel="alternate" type="application/rss+xml" href="https://rss.impresa.pt/feed/latest/mirante.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&amp;limit=20&amp;pubsubhub=true"> <script src="https://statics.impresa.pt/php-assets/omirante/active/assets/js/head.min.js"></script> <script>
+        require.config({
+            baseUrl: 'https://statics.impresa.pt/php-assets/omirante/active/assets/js/'
+        });
+    </script><script>
+    require.config({paths: {'ImpresaSSO': 'https://id.impresa.pt/js/impresa-sso.min'}});
+
+    require(['modernizr']);
+
+    
+        require(['parts/trackr'], function (Trackr) { Trackr.trackPage(document.location.pathname, document.title); });</script> <title>O MIRANTE | Depressão vai ser a principal doença mental nos próximos anos</title><meta name="twitter:title" content="Depressão vai ser a principal doença mental nos próximos anos"><meta property="og:title" content="Depressão vai ser a principal doença mental nos próximos anos"> <link rel="canonical" href="https://omirante.pt/sociedade/2023-04-27-Depressao-vai-ser-a-principal-doenca-mental-nos-proximos-anos-1a43d83e"> <meta name="twitter:url" content="https://omirante.pt/sociedade/2023-04-27-Depressao-vai-ser-a-principal-doenca-mental-nos-proximos-anos-1a43d83e"> <meta property="og:url" content="https://omirante.pt/sociedade/2023-04-27-Depressao-vai-ser-a-principal-doenca-mental-nos-proximos-anos-1a43d83e"> <meta name="description" content="Carlos Céu e Silva afirma que as pessoas vão tornar-se cada vez mais solitárias e a depressão vai ser a principal doença mental. Numa sessão em Alpiarça o psicólogo alertou para o facto do suicídio ser a segunda causa de morte nos jovens."> <meta name="twitter:description" content="Carlos Céu e Silva afirma que as pessoas vão tornar-se cada vez mais solitárias e a depressão vai ser a principal doença mental. Numa sessão em Alpiarça o psicólogo alertou para o facto do suicídio ser a segunda causa de morte nos jovens."> <meta property="og:description" content="Carlos Céu e Silva afirma que as pessoas vão tornar-se cada vez mais solitárias e a depressão vai ser a principal doença mental. Numa sessão em Alpiarça o psicólogo alertou para o facto do suicídio ser a segunda causa de morte nos jovens."> <meta name="twitter:image" content="https://images.impresa.pt/mirante/2023-04-26-PAG-8---suicidios-jovens.jpg-bf1f87ff"> <meta property="og:image" content="https://images.impresa.pt/mirante/2023-04-26-PAG-8---suicidios-jovens.jpg-bf1f87ff"> <meta property="og:image:width" content="620"> <meta property="og:image:height" content="395"><meta name="twitter:card" content="summary"><meta property="og:type" content="article"><meta property="fb:pages" content="107046786040897"><meta property="og:site_name" content="O MIRANTE | Depressão vai ser a principal doença mental nos próximos anos."><meta name="keywords" content="Jornalismo de Proximidade,Região,Ribatejo,Jornal Regional"> <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script> <script>
+        window.OneSignal = window.OneSignal || [];
+        OneSignal.push(function () {
+            OneSignal.init({
+                appId: "49394928-e6e5-4c0f-8abc-2a6c1a8fc364",
+            });
+        });
+    </script></head><body class=" "> <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
+            href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]--> <script>
+
+    </script> <div class="entireWidth"> <div class="centeredRow t-hidden m-hidden"> <div class="menutop "> <div class="menu t-hidden m-hidden"> <ul> <li class="brand brandExpresso"><a href="http://expresso.pt/" target="_blank"><span>Expresso</span></a> </li> <li class="brand brandExpressoEmprego"><a href="http://www.expressoemprego.pt#_swa_cname=bsu&amp;_swa_csource=bsu&amp;_swa_cmedium=web" target="_blank"><span>Expresso Emprego</span></a></li> <li class="brand brandBpiExpressoImobiliario"><a href="http://bpiexpressoimobiliario.pt" target="_blank"><span>BPI Expresso Imobiliário</span></a> </li> <li class="brand brandBcbm"><a href="http://boacamaboamesa.expresso.pt#_swa_cname=bsu&amp;_swa_csource=bsu&amp;_swa_cmedium=web" target="_blank"><span>Boa cama boa mesa</span></a></li> </ul> </div> </div> </div> <div class="entireWidth overGray"> <div class="centeredRow"> <div class="top sd-hidden t-hidden m-hidden"> <div class="sentenceExpresso">uma parceria com o Jornal Expresso</div> <a href="/"><img class="logo" src="/img/logo.png" alt="logotipo"></a> <div class="hoje"> <div class="fb-like" data-href="https://www.facebook.com/omirantejornal/" data-layout="box_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div> <span>14/01/2025</span> </div> <a href="/" class="edicao-btn diaria"> <p>Edição Diária <span>&gt;</span></p> </a> <a href="/semanario/arquivo" class="edicao-btn semanal"> <p>Edição Semanal <span>&gt;</span></p> </a> <img src="/img/37-anos.png" alt="37 anos do jornal o Mirante" class="jornal"> <a href="https://lojaomirante.com/"> <div class="txtAss">Assine <b>O Mirante</b> e receba o jornal em casa</div> </a> <div class="share-bts"> <a href="https://www.facebook.com/omirantejornal/"> <div class="icon fb"></div> </a> <a href="https://twitter.com/O_MIRANTE"> <div class="icon tw"></div> </a> </div> </div> </div> <div class=" fixedBar"> <div class="top menuPrincipal centeredRow"> <div class="menuIcon"></div> <div class="smallLogo d-hidden"><a href="/"><img class="logo" src="/img/logoOM.png" alt="logotipo"></a> </div> <div class="magnifier d-hidden"><a href="/search"> <div class="magn"></div></a></div><a href="/search"> </a><div class="smallLogo sd-hidden m-hidden t-hidden logoOC"><a href="/search"></a><a href="/"><img class="logo" src="/img/logoOM.png" alt="logotipo"></a></div> <ul class=" t-hidden m-hidden sd-hidden"> <a class="ocult" href="/"> <li class=" ">Home</li> </a> <a href="/sociedade"> <li class=" active">Sociedade</li> </a> <a href="/politica"> <li class=" ">Política</li> </a> <a href="/economia"> <li class=" ">Economia</li> </a> <a href="/desporto"> <li class=" ">Desporto</li> </a> <a href="/cultura-e-lazer"> <li class=" ">Cultura</li> </a> <a href="/opiniao"> <li class=" ">Opinião</li> </a> <a href="/omirantetv"> <li class=" ">O MIRANTE TV</li> </a> <a class="ocult" href="/entrevista"> <li class=" ">Entrevista</li> </a> <a class="ocult" href="/contatos"> <li class="contactMenu ">Contactos</li> </a> </ul> <div class="search-menu t-hidden m-hidden sd-hidden"> <form class="search search-bar" action="/pesquisa" id="Search67861429f17c6" style="display: none;"> <input type="search" placeholder="Pesquisa" name="q" value=""> <div class="btn" onclick="submitForm()"></div></form><script type="application/javascript">
+    function submitForm() {
+        document.getElementById("Search67861429f17c6").submit();// Form submission
+    }
+
+    require(['parts/search', 'jquery'], function(Search, $) {
+        Search.start("#Search67861429f17c6");
+        $('.btn').click(function(ev) {
+        	$('.search-bar').submit();
+        });
+    });
+</script> </div> <div class="edicao-btn-bottom hidden t-hidden m-hidden sd-hidden"> <a href="/semanario/arquivo" class="edicao-btn semanal"> <p>Edição Semanal <span>&gt;</span></p> </a> </div> <div class="menuLeft"> <div class="scroll"> <ul id="menuLeft"> <li> <a href="/">Home</a></li> <li class="active"> <a href="/sociedade">Sociedade</a></li> <li> <a href="/politica">Política</a></li> <li> <a href="/economia">Economia</a></li> <li> <a href="/desporto">Desporto</a></li> <li> <a href="/cultura-e-lazer">Cultura</a></li> <li> <a href="/opiniao">Opinião</a></li> <li> <a href="/foto-galeria">Foto Galeria</a></li> <li> <a href="/omirantetv">O MIRANTE TV</a></li> <li> <a href="/entrevista">Entrevista</a></li> <li> <a href="/autores">Autores</a></li> <li> <a href="/semanario">Edição Semanal</a></li> <li> <a href="https://lojaomirante.com/">Assinaturas</a></li> <li> <a href="http://expresso.pt/">Expresso</a></li> </ul> <div class="share"> <div class="text">siga O Mirante</div> <div class="logos"> <a href="https://twitter.com/O_MIRANTE"> <div class="icon tw"></div> </a> <a href="https://www.facebook.com/omirantejornal/"> <div class="icon fb"></div> </a> </div> </div> <ul id="menuLeft3"> <li> <a href="/uteis/2017-08-18-Uma-breve-historia-de-O-MIRANTE-no-30-ano-de-publicacao">História de O MIRANTE</a></li> <li> <a href="/termos-de-utilizacao-do-site">Termos de utilização do site</a></li> <li> <a href="/politicadecookies">Política de cookies</a></li> <li> <a href="/editorial">Estatuto editorial</a></li> <li> <a href="/leidatransparencia">Lei da transparência</a></li> <li> <a href="/fichatecnica">Ficha técnica</a></li> <li> <a href="/contatos">Contactos</a></li> </ul> </div> </div> <div class="clearfix"></div> </div> </div> </div></div><div class="marginTop"></div><div id="fb-root"></div><script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/pt_PT/sdk.js#xfbml=1&version=v2.10&appId=139171149904828";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script><script>
+    require(['jquery'], function ($) {
+
+        $(document).ready(function () {
+            $('.dropboxImpresa').mouseenter(function (e) {
+                e.preventDefault();
+                $('.impresaMenu').stop().toggle();
+            });
+            $('.impresaMenu').mouseleave(function () {
+                $('.impresaMenu').stop().toggle();
+            });
+            $('.menuIcon').click(function () {
+                var to = $('.menuPrincipal').offset();
+                var position = $('.menuPrincipal').height();
+                var h = $(document).height() - position;
+                h = $(window).height() - position;
+                //$('.menuLeft').css('top', position);
+                if ($(this).hasClass('cross')) $(this).removeClass('cross');
+                else $(this).addClass('cross');
+                $('.menuLeft').css('height', h);
+                $('.menuLeft').animate({width: 'toggle'}, 50);
+            });
+            var toMen = $('.overGray').height() + $('.menutop').height() + 8;
+            $('.menuLeft').css('top', toMen);
+            $('.menuLeft').css('left', 0);
+        });
+        var to = $('.fixedBar').offset();
+        var bo = $('body').offset();
+        var marginLeft = ($(window).outerWidth() - $('.fixedBar').width()) / 2;
+        var width = $('.menuPrincipal').width();
+        $(window).bind('scroll', function () {
+            if ($(window).scrollTop() > to.top - 2) {
+                $('.search-menu').hide();
+                $('.menuPrincipal .edicao-btn-bottom').removeClass('hidden');
+                $('.fixedBar').addClass('fixed');
+                $('.marginTop').addClass('show');
+                $('.menuLeft').css('position', 'absolute');
+                $('.menuLeft').css('top', $('.menuPrincipal').height());
+                $('.menuLeft').css('left', '0px');
+                $('.ocult').hide();
+                $('.logoOC').show();
+            } else {
+                $('.search-menu').show();
+                $('.menuPrincipal .edicao-btn-bottom').addClass('hidden');
+                //$('.menuPrincipal').css('left', '0px');
+                var toMen = $('.overGray').height() + $('.menutop').height();
+                $('.fixedBar').removeClass('fixed');
+                $('.marginTop').removeClass('show');
+                $('.menuLeft').css('top', toMen);
+                //$('.menuLeft').css('top', $('.menuPrincipal').height());
+                $('.ocult').show();
+                $('.logoOC').hide();
+            }
+        });
+
+    });
+</script> <div class="wrapper"> <main class="mainContent"> <div class="entireWidth"> <div class="centeredRow"> <div class="all"> <div class="colsDefined doubleCol article margin-left-20"> <div> <div class="news internal"> <div class="type_date"> <a href="/sociedade" target="_self"> Sociedade </a> | 27-04-2023 18:00 </div> <div class="title margin_bottom"><h1>Depressão vai ser a principal doença mental nos próximos anos</h1></div> <div class="img " style="position:relative"> <div class="protection" alt="Depressão vai ser a principal doença mental nos próximos anos" title="Depressão vai ser a principal doença mental nos próximos anos"></div> <img src="https://images.impresa.pt/mirante/2023-04-26-PAG-8---suicidios-jovens.jpg-016a907e/16x9/mw-900" alt="Depressão vai ser a principal doença mental nos próximos anos" title="Depressão vai ser a principal doença mental nos próximos anos"> </div> <div class="autorFoto">Carlos Céu e Silva, psicólogo clínico, alerta que fase mais perigoso para o suicídio é entre os 14 e os 20 anos</div> <script type="text/javascript">
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '139171149904828',
+          xfbml      : true,
+          version    : 'v2.8'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+
+    function fbShare() {
+        var link = 'https://omirante.pt/sociedade/2023-04-27-Depressao-vai-ser-a-principal-doenca-mental-nos-proximos-anos-1a43d83e';
+        var title= 'Depressão vai ser a principal doença mental nos próximos anos';
+        var description='Carlos Céu e Silva afirma que as pessoas vão tornar-se cada vez mais solitárias e a depressão vai ser a principal doença mental.';
+        var image='https://images.impresa.pt/mirante/2023-04-26-PAG-8---suicidios-jovens.jpg-bf1f87ff';
+        var caption='O Mirante';
+
+        var width  = 560;
+        var height = 450;
+        var left   = (screen.width  - width)/2;
+        var top    = (screen.height - height)/2;
+        var params = 'width='+width+', height='+height;
+        params += ', top='+top+', left='+left;
+        params += ', directories=no';
+        params += ', location=no';
+        params += ', menubar=no';
+        params += ', resizable=no';
+        params += ', scrollbars=no';
+        params += ', status=no';
+        params += ', toolbar=no';
+
+        var url='https://www.facebook.com/dialog/share?app_id=139171149904828&href='+link+'&title='+title+'&description='+description+'&caption='+caption+'&picture='+image;
+
+        //alert(url);
+
+
+        newwin=window.open(url,'windowname5', params);
+        if (window.focus) {newwin.focus()}
+        return false;
+    }
+
+
+    function twShare() {
+        var link = 'https://omirante.pt/sociedade/2023-04-27-Depressao-vai-ser-a-principal-doenca-mental-nos-proximos-anos-1a43d83e';
+        var title= 'Depressão vai ser a principal doença mental nos próximos anos';
+        var hashtags='omirante';
+
+        var width  = 560;
+        var height = 450;
+        var left   = (screen.width  - width)/2;
+        var top    = (screen.height - height)/2;
+        var params = 'width='+width+', height='+height;
+        params += ', top='+top+', left='+left;
+        params += ', directories=no';
+        params += ', location=no';
+        params += ', menubar=no';
+        params += ', resizable=no';
+        params += ', scrollbars=no';
+        params += ', status=no';
+        params += ', toolbar=no';
+
+        var url='https://twitter.com/share?url='+link+'&text='+title+'&hashtags='+hashtags;
+
+        newwin=window.open(url,'windowname5', params);
+        if (window.focus) {newwin.focus()}
+        return false;
+    }
+
+    function gpShare() {
+        var link = 'https://omirante.pt/sociedade/2023-04-27-Depressao-vai-ser-a-principal-doenca-mental-nos-proximos-anos-1a43d83e';
+
+        var width  = 560;
+        var height = 450;
+        var left   = (screen.width  - width)/2;
+        var top    = (screen.height - height)/2;
+        var params = 'width='+width+', height='+height;
+        params += ', top='+top+', left='+left;
+        params += ', directories=no';
+        params += ', location=no';
+        params += ', menubar=no';
+        params += ', resizable=no';
+        params += ', scrollbars=no';
+        params += ', status=no';
+        params += ', toolbar=no';
+
+        var url = 'https://plus.google.com/share?url='+link;
+
+        newwin=window.open(url,'windowname5', params);
+        if (window.focus) {newwin.focus()}
+        return false;
+    }
+</script><div class="socialBar "> <a href="javascript:fbShare()"> <div class="socialFb"><span class="m-hidden t-hidden sd-hidden">partilhe no Facebook</span></div> </a> <a href="javascript:twShare()"> <div class="socialTwitter"><span class="m-hidden t-hidden sd-hidden">partilhe no Twitter</span></div> </a> <a href="mailto:?Subject=Depressão vai ser a principal doença mental nos próximos anos&amp;Body=Leia%20mais%20em:%20https://omirante.pt/sociedade/2023-04-27-Depressao-vai-ser-a-principal-doenca-mental-nos-proximos-anos-1a43d83e"> <div class="socialMail"><span class="m-hidden t-hidden sd-hidden"></span></div> </a></div> <div class="lead"><h2>Carlos Céu e Silva afirma que as pessoas vão tornar-se cada vez mais solitárias e a depressão vai ser a principal doença mental. Numa sessão em Alpiarça o psicólogo alertou para o facto do suicídio ser a segunda causa de morte nos jovens.</h2></div> </div> <div class="textNew"><p><strong>Psicólogo Carlos Céu e Silva afirma que o ser humano está condenado a ser, cada vez mais, altamente solitário e a depressão daqui por alguns anos vai ser a principal doença mental.</strong></p> <p>O suicídio na adolescência aumentou muito nos últimos anos sendo actualmente a segunda causa de morte entre os jovens. A informação foi dada pelo psicólogo clínico Carlos Céu e Silva, que participou na sessão “Como explicar a morte às crianças e o suicídio na adolescência”, que decorreu na noite de sexta-feira, 21 de Abril, na Biblioteca Municipal de Alpiarça. <br>“O ser humano está condenado a ser, cada vez mais, altamente solitário e a depressão vai dominar; daqui por alguns anos vai ser a principal doença mental. A depressão nem sempre tem cura e a fase mais perigosa para o suicídio é na adolescência, entre os 14 e os 20 anos. Existe um grande desfasamento entre a realidade dos jovens e a realidade social e há mais atitudes impulsivas por isso os pais devem estar atentos”, explicou o médico, acrescentando que a sociedade está cada vez mais ansiosa.</p></div> <div class="textNew"><h3> <a href="https://lojaomirante.com/" target="_blank" rel="noopener noreferrer">Leia o artigo completo na edição de O MIRANTE já nas bancas</a> </h3></div> </div> <div class="cols pb"> <div class="publicidade " style="width:"> <a target="_blank" id="pub#6786142a03231" class="publink" data-href="/publicidade/2021-02-26-PUB-EM-ARTIGO-e2741f7d"> <img src="https://images.impresa.pt/mirante/2021-04-06-bannernoticias21.jpg-4ad78ec1" alt="PUB EM ARTIGO"> </a> </div> </div> <div class="maisnoticias"> <div class="title"><h1>Mais Notícias</h1></div> </div> <section id="Listsociedade" data-href="/api/molecule/category/sociedade"> <ul class="js-container" style="list-style-type: none;"></ul> <button class="js-more">Mais Artigos</button> <div class="loading js-loader">A carregar...</div> </section> </div> <div class="colsDefined rightCol"> <div class="cols pb"> <div class="publicidade " style="width:"> <div id="div-gpt-ad-1447676954929-2"> <script>
+		        require(['parts/ads'], function(Ads) {
+					Ads.init("div-gpt-ad-1447676954929-2");
+				});
+		        </script> </div> </div> </div> <div class="tvNew"> <a href="/omirantetv"> <div class="imageTopo"><img src="https://omirante.pt/img/logotv.png" alt="Logo: Mirante TV"></div> </a> <div id="List6786142a077bf"></div><script async="">
+  require(['widgets/content-loader'], function (ContentLoader) {
+    ContentLoader.start("#List6786142a077bf", {
+      url: '/api/molecule/latest/omirantetv?limit=4&listTemplate=molecules/videos/tvNew.twig',
+      cache: false
+    });
+    ContentLoader.destroy("#List6786142a077bf");
+  });
+</script> <a href="/omirantetv"> <div class="more">mais vídeos<span class="seta"></span></div> </a></div> <div class="cols pb"> <div class="publicidade " style="width:"> <a target="_blank" id="pub#6786142a0781c" class="publink" data-href="/publicidade/2024-09-08-pub1-9f0ccb8e"> <img src="https://images.impresa.pt/mirante/2024-09-08-2024-09-08.png-e098fa6d" alt="pub1"> </a> </div> </div> <div class="cols pb"> <div class="publicidade " style="width:"> <a target="_blank" id="pub#6786142a07870" class="publink" data-href="/publicidade/2024-05-27-pub1-1e2f3a73"> <img src="https://images.impresa.pt/mirante/2024-12-04-banner_as_bfestas_300x100px.png-95e58fc7" alt="pub1"> </a> </div> </div> <div class="tvNew fotos"> <a href="/foto-galeria"> <div class="title"><h1>Fotogaleria</h1></div> </a></div><div class="tvNew nomargintop fotos"> <div id="List6786142a07afd"></div><script async="">
+  require(['widgets/content-loader'], function (ContentLoader) {
+    ContentLoader.start("#List6786142a07afd", {
+      url: '/api/molecule/latest/foto-galeria?limit=3&listTemplate=molecules/videos/fotogaleriaNew.twig',
+      cache: false
+    });
+    ContentLoader.destroy("#List6786142a07afd");
+  });
+</script> <a href="/foto-galeria"> <div class="more">mais fotogalerias<span class="seta"></span></div> </a></div> <div class="cols pb"> <div class="publicidade " style="width:"> <a target="_blank" id="pub#6786142a07b54" class="publink" data-href="/publicidade/2024-10-07-pub8-52a8e053"> <img src="https://images.impresa.pt/mirante/2024-09-16-2024-09-03.jpg-633696e9" alt="pub8"> </a> </div> </div> <div class="edicSemanal"> <div class="title"><h1>Edição Semanal</h1></div> <div class="bodyEdicSemanal"> <div class="edic"> <a href="https://lojaomirante.com/"> <img src="https://images.impresa.pt/mirante/2025-01-08-capa_vale.jpg-44f92ee1" alt=""> </a> <div class="edicaoNum">Edição nº 1698</div> <div class="data">08-01-2025</div> <a href="https://lojaomirante.com/"> <div class="edicao">Capa Vale Tejo</div> </a> </div> <div class="edic"> <a href="https://lojaomirante.com/"> <img src="https://images.impresa.pt/mirante/2025-01-08-capa_medio.jpg-78efbd3c" alt=""> </a> <div class="edicaoNum">Edição nº 1698</div> <div class="data">08-01-2025</div> <a href="https://lojaomirante.com/"> <div class="edicao">Capa Lezíria/Médio Tejo</div> </a> </div> <div class="edic"> <a href="https://omirantejornal.pt/"> <img src="https://images.impresa.pt/mirante/2025-01-08-capa_eco.jpg-7267280a" alt=""> </a> <div class="edicaoNum"></div> <div class="data">08-01-2025</div> <a href="https://omirantejornal.pt/"> <div class="edicao">Especiais de O MIRANTE</div> </a> </div> </div></div> <div class="cols pb"> <div class="publicidade " style="width:"> <a target="_blank" id="pub#6786142a08375" class="publink" data-href="/publicidade-semanal/2016-04-28-pub2-68159dd6"> <img src="https://images.impresa.pt/mirante/2016-04-28-empregos.jpg-d0b39d5e" alt="pub2"> </a> </div> </div> <div class="fbImage"> <a href="https://www.facebook.com/omirantejornal/" target="_blank"> <img src="https://images.impresa.pt/mirante/2016-02-20-logo_facebook2.png" alt=""> </a> <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FO-Mirante%2F107046786040897%3Fref%3Dts&amp;amp;amp;width=300&amp;amp;amp;colorscheme=light&amp;amp;amp;show_faces=true&amp;amp;amp;stream=false&amp;amp;amp;header=false&amp;amp;amp;height=300" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:200px;" allowtransparency="true"></iframe> </div> </div> </div></div> <script>
+        require(['parts/category-loader'], function(InfiniteScroll) {
+            InfiniteScroll.start('#Listsociedade', {
+                'auto': true,
+                'offset-attribute': 'datetime',
+                'more-selector': '.js-more',
+                'loader-selector': '.js-loader',
+                'container-selector': ''
+            });
+        });
+        require(['jquery'], function($){
+        	$(window).load(function(){
+                $(window).bind('scroll', function () {
+                   /* if ($(window).scrollTop()+100 - $('.galContainer').height() > $('.rightCol').height()){
+                        $('.rightCol').css('margin-top', $(window).scrollTop() - $('.rightCol').height()+100 - $('.galContainer').height());
+                    } else {
+                        $('.rightCol').css('margin-top', '10px');
+                    }*/
+                     if ($(window).scrollTop()+$(window).height()  > $('.rightCol').height()){
+                           $('.rightCol').css('margin-top', $(window).scrollTop() - $('.rightCol').height()+$(window).height()-260);
+                        } else {
+                            $('.rightCol').css('margin-top', '0px');
+                        }
+                });
+            });
+        });
+    </script> </div> </main></div>   <script src="//www.googletagservices.com/tag/js/gpt.js">
+            googletag.pubads().definePassback('/46649006/Mirante_Overlay', [1, 1]).display();
+        </script> <script type="text/javascript">
+        require(['parts/ads-mirante'], function(links){
+            links();
+        });
+    </script></body></html>

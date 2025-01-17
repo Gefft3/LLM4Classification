@@ -1,0 +1,735 @@
+<html lang="pt-br"><head><meta charset="UTF-8"><title>Londrina confirma primeira morte causada pela gripe H3N2</title><script>
+    function checkWidth(){var n=new URL(location),t;n.searchParams.get("auto-redirect")!="false"&&n.searchParams.get("auto-redirect")!="0"&&(n.protocol!="https:"&&(n.protocol="https:"),t=navigator.userAgent.match(/(?:phone|windows\s+phone|ipod|blackberry|(?:android|bb\d+|meego|silk|googlebot) .+? mobile|palm|windows\s+ce|opera\ mini|avantgo|mobilesafari|docomo|KAIOS)/i)!=null||navigator.userAgent.match(/(?:ipad|playbook|(?:android|bb\d+|meego|silk)(?! .+? mobile))/i)!=null,t||window.innerWidth<1024?n.searchParams.delete("d",1):n.searchParams.set("d",1),n.href!=location.href&&(location.href=n.href))}window.addEventListener?window.addEventListener("resize",checkWidth):window.attachEvent?window.attachEvent("onresize",checkWidth):window.onresize=checkWidth;checkWidth()
+</script><script>
+    var APIPATH = "/apis";
+    var APISTATICPATH = "/statics/apis";
+    var AJAXPATH = "/ajax";
+    var AJAXSTATICPATH = "/statics/ajax";
+</script><link rel="preconnect" as="script" href="https://b.admasters.media/widget/7dee3ac9-be90-4fc3-9169-8c2be062e8c6/ext.js"><link rel="dns-prefetch" href="//www.google-analytics.com"><link rel="preconnect" href="//www.google-analytics.com"><link rel="dns-prefetch" href="//googleadservices.com"><link rel="preconnect" href="//googleadservices.com"><link rel="dns-prefetch" href="//fonts.gstatic.com"><link rel="preconnect" href="//fonts.gstatic.com"><link rel="dns-prefetch" href="https://tnonline.uol.com.br/"><link rel="preconnect" href="https://tnonline.uol.com.br/"><link rel="dns-prefetch" href="//www.googletagmanager.com"><link rel="preconnect" href="//www.googletagmanager.com"><link rel="dns-prefetch" href="//securepubads.g.doubleclick.net"><link rel="preconnect" href="//securepubads.g.doubleclick.net"><link rel="dns-prefetch" href="//cdn.ampproject.org"><link rel="preconnect" href="//cdn.ampproject.org"><link rel="dns-prefetch" href="//www.googletagservices.com"><link rel="preconnect" href="//www.googletagservices.com"><link rel="dns-prefetch" href="//securepubads.g.doubleclick.net"><link rel="preconnect" href="//securepubads.g.doubleclick.net"><link rel="dns-prefetch" href="//connect.facebook.net"><link rel="preconnect" href="//connect.facebook.net"><link rel="preconnect" href="https://imguol.com"><link rel="preconnect" href="https://tm.uol.com.br"><link rel="preconnect" href="https://me.jsuol.com.br"><link rel="preconnect" href="https://stc.uol.com"><link rel="preconnect" href="https://cdn.tnonline.com.br/"><link rel="manifest" href="/app.webmanifest"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="/themes/portal-tno-deploy/img/icons/tno_144x144.png"><meta name="theme-color" content="#ffffff"><meta name="description" content="Conforme a SESA, foram registradas duas mortes no Paraná"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="HandheldFriendly" content=""><meta name="MobileOptimized" content="width"><meta name="keywords" content="londrina
+confirma
+primeira
+gripe
+h3n2"><meta name="author" content="TNOnline"><meta name="copyright" content="TNOnline"><meta name="Publisher" content="https://tnonline.uol.com.br/"><meta name="Distribution" content="Global"><meta name="generator" content="Mundiware Elite CS"><link type="image/x-icon" rel="shortcut icon" href="/themes/portal-tno-deploy/favicon.ico"><link rel="apple-touch-icon" href="/themes/portal-tno-deploy/favicon.ico"><meta name="Robots" content="Index, Follow, max-image-preview:large"><meta name="revisit-after" content="1 Day"><meta http-equiv="pragma" content="no-cache"><meta name="msvalidate.01" content="5711A15BD2E6CE157476BDED9EE16087"><meta name="google-site-verification" content="0KogzJ2uO-jhDHNYt6dFgPXHM6VGfhkUPhLJv3v18C0"><meta property="fb:admins" content="100003367970652"><meta property="fb:app_id" content="315653428516563"><meta property="fb:pages" content="380786901968808"><meta name="DC.title" content="Londrina confirma primeira morte causada pela gripe H3N2 | TNOnline"><meta name="DC.creator " content="TNOnline"><meta name="DC.subject" content="londrina
+confirma
+primeira
+gripe
+h3n2"><meta name="DC.description" content="Conforme a SESA, foram registradas duas mortes no Paraná "><meta name="DC.publisher" content="Mundiware Elite CS"><meta name="Custodian" content="Mundiware"><meta name="DC.date.created" content="2022-01-08"><meta name="DC.date.modified" content="2022-01-08"><meta name="DC.Identifier" content="https://tnonline.uol.com.br/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"><meta name="DC.type" content="text.homepage.institucional"><meta name="DC.format" content="text/xhtml"><meta name="DC.type" content="text.homepage.image.video"><meta property="og:title" content="Londrina confirma primeira morte causada pela gripe H3N2 | TNOnline"><meta property="og:description" content="Conforme a SESA, foram registradas duas mortes no Paraná"><meta property="og:url" content="https://tnonline.uol.com.br/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"><meta property="og:site_name" content="TNOnline"><meta property="og:type" content="article"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://cdn.tnonline.com.br/img/Artigo-Destaque/560000/1200x675/Londrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F560000%2FLondrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707.jpg%3Fxid%3D520664&amp;xid=520664"><meta property="og:image:width" content="1920"><meta property="og:image:height" content="1080"><meta property="article:section" content="Paraná"><meta property="article:published_time" content="2022-01-08T17:07"><meta property="test" content="2"><meta property="twitter:account_id" content="122684856"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@"><meta name="twitter:creator" content="@"><meta name="twitter:title" content="Londrina confirma primeira morte causada pela gripe H3N2 | TNOnline"><meta name="twitter:description" content="Conforme a SESA, foram registradas duas mortes no Paraná | https://tnonline.uol.com.br/_/566853"><meta property="twitter:image" content="https://cdn.tnonline.com.br/img/Artigo-Destaque/560000/Londrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707.jpg?xid=520664"><meta property="twitter:image:width" content="891"><meta property="twitter:image:height" content="550"><script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://tnonline.uol.com.br/"},"headline":"Londrina confirma primeira morte causada pela gripe H3N2 - TNOnline","datePublished":"2022-01-08T17:07:11.773-03:00","dateModified":"2022-01-08T17:07:12-03:00","author":{"@type":"Person","name":"Da Redação","url":"https://tnonline.uol.com.br/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"},"image":"https://tnonline.uol.com.br/img/Artigo-Destaque/560000/Londrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707.jpg?xid=520664","publisher":{"@type":"Organization","name":"TNOnline","logo":{"@type":"ImageObject","url":"https://tnonline.uol.com.br/themes/portal-tno-deploy/assets/img/tnonline.png"}},"url":"https://tnonline.uol.com.br/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"}
+</script><script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"ItemList","itemListElement":[{"@type":"SiteNavigationElement","position":1,"name":"Notícias","description":"Notícias","url":"#empty"},{"@type":"SiteNavigationElement","position":2,"name":"Mais seções","description":"Mais seções","url":"#empty"},{"@type":"SiteNavigationElement","position":3,"name":"Blogs e Colunas","description":"Blogs e Colunas","url":"#empty"},{"@type":"SiteNavigationElement","position":4,"name":"TNONLINE","description":"TNONLINE","url":"#empty"}]}
+ </script><script type="application/ld+json">
+    
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+      {
+        "@type": "ListItem",
+        
+        "position": 1,
+        "item":
+        {
+          "@id": "https://tnonline.uol.com.br/",
+          "name": "Tnonline"
+        }
+      },
+      
+        {
+          "@type": "ListItem",
+          
+          "position": 2,
+          "item":
+          {
+            "@id": "/noticias",
+            "name": "Not&#237;cias"
+          }
+        },
+      
+      {
+        "@type": "ListItem",
+        
+        "position": 3,
+        "item":
+        {
+          "@id": "Paran&#225;",
+          "name": "/noticias/parana"
+        }
+      },
+      
+        {
+          "@type": "ListItem",
+          
+          "position": 4,
+          "item":
+          {
+            "@id": "Londrina confirma primeira morte causada pela gripe H3N2",
+            "name": "/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"
+          }
+        }
+      
+      ]
+    }
+ </script><link rel="shortlink" href="https://tnonline.uol.com.br/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"><link rel="canonical" href="https://tnonline.uol.com.br/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"><link rel="amphtml" href="https://tnonline.uol.com.br/amphtml/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"><link rel="search" type="application/opensearchdescription+xml" href="https://tnonline.uol.com.br/opensearch.xml" title="TNOnline"><link rel="alternate" type="application/rss+xml" title="Notícias minuto a minuto - TNOnline RSS" href="https://tnonline.uol.com.br/rss"><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="alternate" href="https://tnonline.uol.com.br/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"><script>
+                    (function (c, l, a, r, i, t, y) {
+                        c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+                        t = l.createElement(r); t.async = 0; t.defer = true; t.src = "https://www.clarity.ms/tag/" + i;
+                        y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+                    })(window, document, "clarity", "script", "bxx57up0k2");
+                </script><link rel="preload" as="image" href="https://cdn.tnonline.com.br/img/Artigo-Destaque/560000/1210x720/Londrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707-ScaleDownProportional.webp?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F560000%2FLondrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707.jpg%3Fxid%3D520664%26resize%3D1000%252C500%26t%3D1736830568&amp;xid=520664"><link rel="preload" href="/themes/portal-tno-deploy/assets/fonts/Lato/fonts/Lato-Black.ttf" as="font" type="font/ttf" crossorigin=""><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="HandheldFriendly" content=""><meta name="MobileOptimized" content="width"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="author" content="TNOnline"><meta name="copyright" content="TNOnline"><meta name="Publisher" content="https://tnonline.uol.com.br/"><meta name="Distribution" content="Global"><meta name="generator" content="Mundiware Elite CS"><link type="image/x-icon" rel="shortcut icon" href="https://tnonline.uol.com.br/themes/portal-tno-deploy/assets/tno2023/imgs/favicon.ico" media="(prefers-color-scheme: dark)"><link rel="apple-touch-icon" href="https://tnonline.uol.com.br/themes/portal-tno-deploy/assets/tno2023/imgs/favicon.ico" media="(prefers-color-scheme: dark)"><link rel="shortcut icon" id="faviconTagBranco" href="https://tnonline.uol.com.br/themes/portal-tno-deploy/assets/tno2023/imgs/favicon.ico" media="(prefers-color-scheme: dark)"><link type="image/x-icon" rel="shortcut icon" href="https://tnonline.uol.com.br/themes/portal-tno-deploy/assets/tno2023/imgs/favicon.ico" media="(prefers-color-scheme: light)"><link rel="apple-touch-icon" href="https://tnonline.uol.com.br/themes/portal-tno-deploy/assets/tno2023/imgs/favicon.ico" media="(prefers-color-scheme: light)"><link rel="shortcut icon" id="faviconTag" href="https://tnonline.uol.com.br/themes/portal-tno-deploy/assets/tno2023/imgs/favicon.ico" media="(prefers-color-scheme: light)"><meta property="Robots" content=""><meta name="revisit-after" content=""><meta name="msvalidate.01" content=""><meta name="google-site-verification" content=""><meta property="fb:admins" content=""><meta property="fb:app_id" content=""><meta property="fb:pages" content=""><link rel="alternate" type="application/rssxml" href="https://tnonline.uol.com.br/rss"><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="//www.google-analytics.com"><link rel="preconnect" href="//www.google-analytics.com"><link rel="dns-prefetch" href="//googleadservices.com"><link rel="preconnect" href="//googleadservices.com"><link rel="dns-prefetch" href="https://noticia24h.com.br/"><link rel="preconnect" href="https://noticia24h.com.br/"><link rel="dns-prefetch" href="//www.googletagmanager.com"><link rel="preconnect" href="//www.googletagmanager.com"><link rel="dns-prefetch" href="//securepubads.g.doubleclick.net"><link rel="preconnect" href="//securepubads.g.doubleclick.net"><link rel="dns-prefetch" href="//www.googletagservices.com"><link rel="preconnect" href="//www.googletagservices.com"><link rel="dns-prefetch" href="//connect.facebook.net"><link rel="preconnect" href="//connect.facebook.net"><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VL4N2H807F"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VL4N2H807F');
+</script><link rel="stylesheet" href="/themes/portal-tno-deploy/assets/tno2023/css/sbundle_85d7f75c39c8581a4b123e718d057aa5.css?t=1730229774" type="text/css" media="all"><style>.tn-boxPropaganda{min-height:292px}.adsFixed{position:fixed;top:0;left:0;width:100%;max-width:unset;z-index:9999;background-color:#e8e8e8!important;min-height:292px!important}@media screen and (max-width:768px){.tn-boxPropaganda{min-height:122px}.adsFixed{min-height:122px!important;top:142px}}</style><script rel="preconnect">
+    location.host.includes("dev.") && console.log("uol analytics ok"); // só aparece em modo dev
+    setTimeout(() => {
+        window.universal_variable = window.universal_variable || {}, window.universal_variable.dfp = { custom_params: { subchan: "" } }, window.uolads = window.uolads || [], function () { var a = document.createElement("script"); a.defer = !0; a.async = !1; a.src = "//tm.jsuol.com.br/uoltm.js?id=2aljwf"; var e = document.getElementsByTagName("script")[0]; e.parentNode.insertBefore(a, e) }();
+    }, 200);
+</script></head><body data-categoryid="31" data-articleid="566853"><div class="tn-container-fixed header-scroll"><header class="tn-headerPrincipal"><div class="container tn-boxHeader"><div class="tn-header-boxOptionLeft"><div class="tn-header-boxMenu" id="tn-btnMenu"><img src="/themes/portal-tno-deploy/assets/img/optimized/menu.svg" alt="Icone do menu no Header" title="Icone do menu"> <span>Menu</span></div><div class="tn-header-boxBusca"><img id="icon-inputSearch" src="/themes/portal-tno-deploy/assets/img/optimized/lupa.svg" alt="Icone de busca no Header" title="Icone de Busca"><input id="input-search1" type="text" placeholder="Pesquisar" aria-label="search" width="190"></div></div><div class="tn-header-boxLogo"><a href="https://tnonline.uol.com.br/" aria-label="Logo Tn-Online"><img fetchpriority="high" src="/themes/portal-tno-deploy/assets/img/optimized/logo-colorida.svg" alt="Imagem Logo Tn Online" title="Logo da TN online"></a></div><div class="tn-header-boxEdicao"><a aria-label="Edição do Dia" href="https://www.tribunadonorte.com/digital"><div class="tn-img-edicao"></div><h6>Leia a ultima edição</h6><span class="tn-tooltip-edit"></span></a></div></div></header><div class="tn-box-navBar"><div class="container"><nav class="tn-navBar"><ul><li><a aria-label="Apucarana" href="/noticias/apucarana" title="Apucarana">Apucarana</a></li><li><a aria-label="Arapongas" href="/noticias/arapongas" title="Arapongas">Arapongas</a></li><li><a aria-label="Vale do Ivaí" href="/noticias/vale-do-ivai" title="Vale do Ivaí">Vale do Ivaí</a></li><li><a aria-label="Paraná" href="/noticias/parana" title="Paraná">Paraná</a></li><li><a aria-label="Política" href="/noticias/politica" title="Política">Política</a></li><li><a aria-label="Vídeos" href="/noticias/tribunaplay" title="Vídeos">Vídeos</a></li><li><a aria-label="Últimas" href="/noticias/ultimas" title="Últimas">Últimas</a></li></ul></nav><div class="tn-boxClimaCotacao"><div class="tn-clima"><a class="weather-link" aria-label="Previsão do Tempo" href="/previsao-do-tempo"><span id="weather-city"></span><div class="imgClima"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/weather.svg" alt="Icone clima Tempo" title="Icone Clima Tempo"></div><span id="weather-temp"></span></a></div><a aria-label="Euro" href="/noticias/economia"><div class="tn-cotEuro"><div class="imgCotEuro"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/euro.svg" alt="Icone Cotação Euro" title="Icone Cotação Euro"></div><div class="container-textCotEuro"><strong>EURO</strong> <span id="cotacao-euro">...</span></div></div></a> <a aria-label="Dólar" href="/noticias/economia"><div class="tn-cotDolar"><div class="imgCotDolar"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/dollar.svg" alt="Icone Cotacao Dolar" title="Icone Cotacao Dolar"></div><div class="container-textCotDolar"><strong>DOLAR</strong> <span id="cotacao-dollar">...</span></div></div></a></div></div></div></div><section class="tn-boxMaisLidas"><div class="container"><div class="tn-content-maisLidas"><div class="button-content-maisLidas"><span>MAIS LIDAS</span><div> <a href="/noticias/mais-lidas" aria-label="Botão Ver todos Artigos">VER TODOS</a></div></div><div class="list-maisLidas"></div></div></div><header style="background:#4682b4"><div class="container tn-tituloSessao"><a href="/" aria-label="Botão para voltar a Home"><div class="tn-icon-home"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/home.svg" alt="Icone para Retorno na Home" title="icone retorno a Home"></div></a> <h2>Paraná</h2><div class="tn-icon-menuArtigo" id="btn-menuArtigo"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/menu-2.svg" alt="Icone menu Sessao" title="Icone Menu Sessão"><ul class="tn-boxMenuArtigo" id="menuArtigo"><li><a href="/noticias/apucarana">Apucarana</a></li><li><a href="/noticias/arapongas">Arapongas</a></li><li><a href="/noticias/vale-do-ivai">Vale do Ivaí</a></li><li><a href="/noticias/parana">Paraná</a></li><li><a href="/noticias/tribunaplay">Vídeos</a></li><li><a href="/noticias/revista-uau">Revista UAU!</a></li><li><a href="/noticias/cotidiano">Cotidiano</a></li><li><a href="/noticias/politica">Política</a></li><li><a href="/noticias/esportes">Esportes</a></li><li><a href="/noticias/economia">Economia</a></li></ul></div></div></header></section><div class="tn-boxPropaganda"><div class="container"><div id="banner-970x250-area"></div></div></div><main><header><div class="container"><h2>influenza</h2></div></header><section class="tn-investigacao"><header class="tn-investigacaoHeader"><div class="container"><div class="tn-content-investigacao"><h1 id="tn-titleArtigoFonts">Londrina confirma primeira morte causada pela gripe H3N2</h1><h2>Conforme a SESA, foram registradas duas mortes no Paraná</h2><div class="tn-redacao"><h3>Da Redação</h3><div class="tn-dataArtigo"><time datetime="2022-01-08T17:07:12Z">Atualização: 08 de janeiro, 2022, às 17:07</time> · <small id="reading-time"></small></div></div><div class="tn-redesSociais"><div class="tn-boxIcones"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftnonline.uol.com.br%2F_%2F566853" aria-label="Rede Social Facebook"><div class="tn-icon-rs"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-fb-.svg" alt="Icone facebook" title="Icone Facebook"></div></a> <a href="https://api.whatsapp.com/send?text=TNOnline%3A%20Londrina%20confirma%20primeira%20morte%20causada%20pela%20gripe%20H3N2%20https%3A%2F%2Ftnonline.uol.com.br%2F_%2F566853" aria-label="Abrir no WhattsApp"><div class="tn-icon-rs"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-whats-br.svg" alt="Icone Whatsapp" title="Icone Whatsapp"></div></a> <a id="tn-btnTelegramMob" href="https://telegram.me/share/url?url=/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853&amp;text=TNOnline:Londrina confirma primeira morte causada pela gripe H3N2" aria-label="Botão Rede Social Telegram"><div class="tn-icon-rs"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/telegram.svg" alt="Icone Twitter" title="Icone Twitter"></div></a> <a id="tn-btnMailMob" href="mailto:?subject=TNOnline:&amp;body=https://tnonline.uol.com.br/_/749711" aria-label="Enviar Email"><div class="tn-icon-rs"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-mail.svg" alt="Icone Email" title="Icone eMail"></div></a> <a href="https://twitter.com/intent/tweet?text=Londrina%20confirma%20primeira%20morte%20causada%20pela%20gripe%20H3N2&amp;url=https%3A%2F%2Ftnonline.uol.com.br%2F_%2F566853" aria-label="Botão Rede Social Twitter"><div class="tn-icon-rs"><img src="/themes/portal-tno-deploy/assets/img/svg/twitter.svg" alt="Icone Twitter" title="Icone Twitter"></div></a> <a href="#comments" aria-label="Botão de Enviar Mensagem"><div class="tn-icon-rs-msg"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-balaoMsg.svg" alt="Icone Menssagem" title="Icone Mensagem"></div></a></div><a href="/noticias-por-whatsapp" aria-label=" Link para Receba noticias no Whattsapp"><div class="tn-boxWhatsapp"><div class="tn-tx-linkWhats"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-whats-vr.svg" alt="Icone Whatsapp" title="Icone Whatsapp"><div class="texto-linkWhats"><h3>RECEBA NOTÍCIAS NO SEU WHATSAPP!</h3><h4>Participe dos grupos do TNOnline</h4></div></div><div class="tn-icons-arrow"><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-setaR.svg" alt="Icone Seta" title="Icone seta Direita"></div></div></a></div></div></div></header><article class="tn-artigo" data-json="{
+  &quot;template&quot;: {
+    &quot;defaultTemplate&quot;: false,
+    &quot;reportFileName&quot;: false
+  },
+  &quot;keywords&quot;: &quot;londrina\r\nconfirma\r\nprimeira\r\ngripe\r\nh3n2&quot;,
+  &quot;publishDate&quot;: &quot;2022-01-08T17:07:11.773-03:00&quot;,
+  &quot;versionDate&quot;: &quot;2022-01-08T17:07:12-03:00&quot;,
+  &quot;generator&quot;: &quot;Elite CS - Web Text (pre 2022-08-07 11.58)&quot;,
+  &quot;specialImages&quot;: {
+    &quot;Artigo Destaque&quot;: {
+      &quot;elementId&quot;: 520664,
+      &quot;order&quot;: 0,
+      &quot;sourceId&quot;: 2228012,
+      &quot;ownerType&quot;: &quot;Article&quot;,
+      &quot;ownerId&quot;: 566853,
+      &quot;galleryId&quot;: 0,
+      &quot;parentId&quot;: 0,
+      &quot;language&quot;: &quot;&quot;,
+      &quot;path&quot;: &quot;/img/Artigo-Destaque/560000/Londrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707.jpg?xid=520664&quot;,
+      &quot;cdn&quot;: {
+        &quot;cdnId&quot;: 1,
+        &quot;name&quot;: &quot;default&quot;,
+        &quot;enabled&quot;: true
+      },
+      &quot;thumbnailCdn&quot;: {
+        &quot;cdnId&quot;: 0,
+        &quot;enabled&quot;: true
+      },
+      &quot;author&quot;: &quot;&quot;,
+      &quot;authorTitle&quot;: &quot;&quot;,
+      &quot;authorEmail&quot;: &quot;&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;description&quot;: &quot;&quot;,
+      &quot;text&quot;: &quot;&quot;,
+      &quot;text2&quot;: &quot;&quot;,
+      &quot;elementType&quot;: &quot;image_Artigo Destaque&quot;,
+      &quot;isStandard&quot;: false,
+      &quot;createdBy&quot;: &quot;&quot;,
+      &quot;lastModifiedBy&quot;: &quot;&quot;,
+      &quot;name&quot;: &quot;&quot;,
+      &quot;addressType&quot;: &quot;&quot;,
+      &quot;address&quot;: &quot;&quot;,
+      &quot;number&quot;: &quot;&quot;,
+      &quot;complements&quot;: &quot;&quot;,
+      &quot;neighbourhood&quot;: &quot;&quot;,
+      &quot;city&quot;: &quot;&quot;,
+      &quot;state&quot;: &quot;&quot;,
+      &quot;zipCode&quot;: &quot;&quot;,
+      &quot;country&quot;: &quot;&quot;,
+      &quot;directions&quot;: &quot;&quot;,
+      &quot;notes&quot;: &quot;&quot;,
+      &quot;width&quot;: 891,
+      &quot;height&quot;: 550,
+      &quot;length&quot;: 109321
+    }
+  },
+  &quot;articleId&quot;: 566853,
+  &quot;assignmentId&quot;: 0,
+  &quot;printArticleId&quot;: 0,
+  &quot;initialPublishDate&quot;: &quot;2022-01-08T17:07:11.773-03:00&quot;,
+  &quot;directAccessPrePublish&quot;: false,
+  &quot;directAccessPostExpiration&quot;: false,
+  &quot;importCount&quot;: 0,
+  &quot;author&quot;: &quot;Vitor Flores&quot;,
+  &quot;authorEmail&quot;: &quot;vitor.flores@tribunadonorte.com&quot;,
+  &quot;authorTitle&quot;: &quot;vitor.flores@tribunadonorte.com&quot;,
+  &quot;description&quot;: &quot;&quot;,
+  &quot;frontPage&quot;: false,
+  &quot;sourceId&quot;: 556567,
+  &quot;headerHtml&quot;: &quot;Londrina confirma primeira morte causada pela gripe H3N2&quot;,
+  &quot;language&quot;: &quot;pt-BR&quot;,
+  &quot;textHtml&quot;: &quot;<p style=\&quot;\&quot;>A Secretaria de Estado da Saúde (Sesa) confirmou a primeira morte causada pela gripe influenza H3N2 em Londrina. A vítima é um homem 73 anos. Segundo o boletim da pasta ele também possuía outras comorbidades.</p><p style=\&quot;\&quot;>Conforme a SESA, foram registradas duas mortes no estado, em Londrina e Curitiba. Na capital, a vítima é uma mulher de 47 anos, que também tinha doenças pré-existentes e podem ter agravado o caso.</p><p style=\&quot;\&quot;>Um deles não havia tomado a vacina contra a influenza H1N1.</p><p style=\&quot;\&quot;>Londrina tem oito diagnósticos confirmados, enquanto o estado soma 483 casos da nova variante.</p><p style=\&quot;\&quot;>Com informações do Tem Londrina.</p>&quot;,
+  &quot;searchAbstract&quot;: &quot;&quot;,
+  &quot;leadHtml&quot;: &quot;Conforme a SESA, foram registradas duas mortes no Paraná&quot;,
+  &quot;subHeaderHtml&quot;: &quot;influenza&quot;,
+  &quot;viewCount&quot;: 1022,
+  &quot;commentsCount&quot;: 0,
+  &quot;gradeCount&quot;: 0,
+  &quot;gradeTotal&quot;: 0,
+  &quot;order&quot;: 0,
+  &quot;previousArticle&quot;: {
+    &quot;keywords&quot;: &quot;&quot;,
+    &quot;publishDate&quot;: &quot;2022-01-08T17:00:23.243-03:00&quot;,
+    &quot;generator&quot;: &quot;Elite CS - Web Text (pre 2022-08-07 11.58)&quot;,
+    &quot;specialImages&quot;: {},
+    &quot;articleId&quot;: 566852,
+    &quot;assignmentId&quot;: 0,
+    &quot;printArticleId&quot;: 0,
+    &quot;initialPublishDate&quot;: &quot;2022-01-08T17:00:23.243-03:00&quot;,
+    &quot;directAccessPrePublish&quot;: false,
+    &quot;directAccessPostExpiration&quot;: false,
+    &quot;importCount&quot;: 0,
+    &quot;author&quot;: &quot;&quot;,
+    &quot;authorEmail&quot;: &quot;&quot;,
+    &quot;authorTitle&quot;: &quot;&quot;,
+    &quot;description&quot;: &quot;&quot;,
+    &quot;frontPage&quot;: false,
+    &quot;sourceId&quot;: 556566,
+    &quot;canonicalUrl&quot;: &quot;&quot;,
+    &quot;headerHtml&quot;: &quot;Paraná registra mais 7.611 casos e três óbitos pela Covid-19&quot;,
+    &quot;language&quot;: &quot;&quot;,
+    &quot;textHtml&quot;: &quot;&quot;,
+    &quot;searchAbstract&quot;: &quot;&quot;,
+    &quot;leadHtml&quot;: &quot;&quot;,
+    &quot;subHeaderHtml&quot;: &quot;&quot;,
+    &quot;viewCount&quot;: 0,
+    &quot;commentsCount&quot;: 0,
+    &quot;gradeCount&quot;: 0,
+    &quot;gradeTotal&quot;: 0,
+    &quot;order&quot;: 0,
+    &quot;relatedArticles&quot;: [],
+    &quot;imagesThumbnail&quot;: [],
+    &quot;imagesNormal&quot;: [],
+    &quot;specialVideos&quot;: {},
+    &quot;videos&quot;: [],
+    &quot;specialAudios&quot;: {},
+    &quot;audios&quot;: [],
+    &quot;specialAttachments&quot;: {},
+    &quot;attachments&quot;: [],
+    &quot;highlights&quot;: [],
+    &quot;quotes&quot;: [],
+    &quot;addresses&quot;: [],
+    &quot;galleries&quot;: [],
+    &quot;faqs&quot;: [],
+    &quot;summaries&quot;: [],
+    &quot;relatedArticleGroups&quot;: [],
+    &quot;quizzes&quot;: [],
+    &quot;maps&quot;: [],
+    &quot;tables&quot;: [],
+    &quot;polls&quot;: [],
+    &quot;headlines&quot;: {},
+    &quot;links&quot;: [],
+    &quot;events&quot;: [],
+    &quot;programs&quot;: [],
+    &quot;templateData&quot;: {},
+    &quot;baseShareArticleUrl&quot;: &quot;https://tnonline.uol.com.br/_/&quot;,
+    &quot;isInPublishRange&quot;: true,
+    &quot;tags&quot;: [],
+    &quot;metaData&quot;: {},
+    &quot;publishId&quot;: 1,
+    &quot;publishAuthor&quot;: &quot;TNOnline&quot;,
+    &quot;columnPath&quot;: &quot;_&quot;,
+    &quot;categoryPaths&quot;: [
+      &quot;Notícias:Paraná&quot;
+    ]
+  },
+  &quot;nextArticle&quot;: {
+    &quot;keywords&quot;: &quot;&quot;,
+    &quot;publishDate&quot;: &quot;2022-01-08T17:15:00-03:00&quot;,
+    &quot;generator&quot;: &quot;Elite CS - Wire Text (pre 2022-08-07 11.58)&quot;,
+    &quot;specialImages&quot;: {},
+    &quot;articleId&quot;: 566856,
+    &quot;assignmentId&quot;: 0,
+    &quot;printArticleId&quot;: 0,
+    &quot;initialPublishDate&quot;: &quot;2022-01-08T17:15:00-03:00&quot;,
+    &quot;directAccessPrePublish&quot;: false,
+    &quot;directAccessPostExpiration&quot;: false,
+    &quot;importCount&quot;: 0,
+    &quot;author&quot;: &quot;&quot;,
+    &quot;authorEmail&quot;: &quot;&quot;,
+    &quot;authorTitle&quot;: &quot;&quot;,
+    &quot;description&quot;: &quot;&quot;,
+    &quot;frontPage&quot;: false,
+    &quot;sourceId&quot;: 556570,
+    &quot;canonicalUrl&quot;: &quot;&quot;,
+    &quot;headerHtml&quot;: &quot;Joaquim Silva e Luna: A Petrobras não pode fazer política pública&quot;,
+    &quot;language&quot;: &quot;&quot;,
+    &quot;textHtml&quot;: &quot;&quot;,
+    &quot;searchAbstract&quot;: &quot;&quot;,
+    &quot;leadHtml&quot;: &quot;&quot;,
+    &quot;subHeaderHtml&quot;: &quot;&quot;,
+    &quot;viewCount&quot;: 0,
+    &quot;commentsCount&quot;: 0,
+    &quot;gradeCount&quot;: 0,
+    &quot;gradeTotal&quot;: 0,
+    &quot;order&quot;: 0,
+    &quot;relatedArticles&quot;: [],
+    &quot;imagesThumbnail&quot;: [],
+    &quot;imagesNormal&quot;: [],
+    &quot;specialVideos&quot;: {},
+    &quot;videos&quot;: [],
+    &quot;specialAudios&quot;: {},
+    &quot;audios&quot;: [],
+    &quot;specialAttachments&quot;: {},
+    &quot;attachments&quot;: [],
+    &quot;highlights&quot;: [],
+    &quot;quotes&quot;: [],
+    &quot;addresses&quot;: [],
+    &quot;galleries&quot;: [],
+    &quot;faqs&quot;: [],
+    &quot;summaries&quot;: [],
+    &quot;relatedArticleGroups&quot;: [],
+    &quot;quizzes&quot;: [],
+    &quot;maps&quot;: [],
+    &quot;tables&quot;: [],
+    &quot;polls&quot;: [],
+    &quot;headlines&quot;: {},
+    &quot;links&quot;: [],
+    &quot;events&quot;: [],
+    &quot;programs&quot;: [],
+    &quot;templateData&quot;: {},
+    &quot;baseShareArticleUrl&quot;: &quot;https://tnonline.uol.com.br/_/&quot;,
+    &quot;isInPublishRange&quot;: true,
+    &quot;tags&quot;: [],
+    &quot;metaData&quot;: {},
+    &quot;publishId&quot;: 1,
+    &quot;publishAuthor&quot;: &quot;TNOnline&quot;,
+    &quot;columnPath&quot;: &quot;_&quot;,
+    &quot;categoryPaths&quot;: [
+      &quot;Notícias:Economia&quot;
+    ]
+  },
+  &quot;relatedArticles&quot;: [
+    {
+      &quot;keywords&quot;: &quot;&quot;,
+      &quot;generator&quot;: &quot;Elite CS - Web Text (pre 2022-08-07 11.58)&quot;,
+      &quot;specialImages&quot;: {},
+      &quot;articleId&quot;: 566690,
+      &quot;assignmentId&quot;: 0,
+      &quot;printArticleId&quot;: 0,
+      &quot;directAccessPrePublish&quot;: false,
+      &quot;directAccessPostExpiration&quot;: false,
+      &quot;importCount&quot;: 0,
+      &quot;author&quot;: &quot;&quot;,
+      &quot;authorEmail&quot;: &quot;&quot;,
+      &quot;authorTitle&quot;: &quot;&quot;,
+      &quot;description&quot;: &quot;&quot;,
+      &quot;frontPage&quot;: false,
+      &quot;sourceId&quot;: 556404,
+      &quot;headerHtml&quot;: &quot;Homem morre em pé, encostado em carro e cena assusta&quot;,
+      &quot;language&quot;: &quot;&quot;,
+      &quot;textHtml&quot;: &quot;&quot;,
+      &quot;searchAbstract&quot;: &quot;&quot;,
+      &quot;leadHtml&quot;: &quot;O homem foi encontrado sem vida na manhã desta sexta-feira&quot;,
+      &quot;subHeaderHtml&quot;: &quot;Chocante&quot;,
+      &quot;viewCount&quot;: 0,
+      &quot;commentsCount&quot;: 0,
+      &quot;gradeCount&quot;: 0,
+      &quot;gradeTotal&quot;: 0,
+      &quot;order&quot;: 0,
+      &quot;relatedArticles&quot;: [],
+      &quot;imagesThumbnail&quot;: [],
+      &quot;imagesNormal&quot;: [],
+      &quot;specialVideos&quot;: {},
+      &quot;videos&quot;: [],
+      &quot;specialAudios&quot;: {},
+      &quot;audios&quot;: [],
+      &quot;specialAttachments&quot;: {},
+      &quot;attachments&quot;: [],
+      &quot;highlights&quot;: [],
+      &quot;quotes&quot;: [],
+      &quot;addresses&quot;: [],
+      &quot;galleries&quot;: [],
+      &quot;faqs&quot;: [],
+      &quot;summaries&quot;: [],
+      &quot;relatedArticleGroups&quot;: [],
+      &quot;quizzes&quot;: [],
+      &quot;maps&quot;: [],
+      &quot;tables&quot;: [],
+      &quot;polls&quot;: [],
+      &quot;headlines&quot;: {},
+      &quot;links&quot;: [],
+      &quot;events&quot;: [],
+      &quot;programs&quot;: [],
+      &quot;templateData&quot;: {},
+      &quot;baseShareArticleUrl&quot;: &quot;https://tnonline.uol.com.br/_/&quot;,
+      &quot;isInPublishRange&quot;: true,
+      &quot;tags&quot;: [],
+      &quot;metaData&quot;: {},
+      &quot;publishId&quot;: 1,
+      &quot;publishAuthor&quot;: &quot;TNOnline&quot;,
+      &quot;columnPath&quot;: &quot;_&quot;,
+      &quot;categoryPaths&quot;: [
+        &quot;Notícias:Cotidiano&quot;
+      ]
+    },
+    {
+      &quot;keywords&quot;: &quot;&quot;,
+      &quot;generator&quot;: &quot;Elite CS - Web Text (pre 2022-08-07 11.58)&quot;,
+      &quot;specialImages&quot;: {},
+      &quot;articleId&quot;: 566814,
+      &quot;assignmentId&quot;: 0,
+      &quot;printArticleId&quot;: 0,
+      &quot;directAccessPrePublish&quot;: false,
+      &quot;directAccessPostExpiration&quot;: false,
+      &quot;importCount&quot;: 0,
+      &quot;author&quot;: &quot;&quot;,
+      &quot;authorEmail&quot;: &quot;&quot;,
+      &quot;authorTitle&quot;: &quot;&quot;,
+      &quot;description&quot;: &quot;&quot;,
+      &quot;frontPage&quot;: false,
+      &quot;sourceId&quot;: 556528,
+      &quot;headerHtml&quot;: &quot;Suspeitos de desviar carga são presos em Apucarana&quot;,
+      &quot;language&quot;: &quot;&quot;,
+      &quot;textHtml&quot;: &quot;&quot;,
+      &quot;searchAbstract&quot;: &quot;&quot;,
+      &quot;leadHtml&quot;: &quot;Segundo a PM, foram 180 baterias desviadas de empresa&quot;,
+      &quot;subHeaderHtml&quot;: &quot;Policial&quot;,
+      &quot;viewCount&quot;: 0,
+      &quot;commentsCount&quot;: 0,
+      &quot;gradeCount&quot;: 0,
+      &quot;gradeTotal&quot;: 0,
+      &quot;order&quot;: 0,
+      &quot;relatedArticles&quot;: [],
+      &quot;imagesThumbnail&quot;: [],
+      &quot;imagesNormal&quot;: [],
+      &quot;specialVideos&quot;: {},
+      &quot;videos&quot;: [],
+      &quot;specialAudios&quot;: {},
+      &quot;audios&quot;: [],
+      &quot;specialAttachments&quot;: {},
+      &quot;attachments&quot;: [],
+      &quot;highlights&quot;: [],
+      &quot;quotes&quot;: [],
+      &quot;addresses&quot;: [],
+      &quot;galleries&quot;: [],
+      &quot;faqs&quot;: [],
+      &quot;summaries&quot;: [],
+      &quot;relatedArticleGroups&quot;: [],
+      &quot;quizzes&quot;: [],
+      &quot;maps&quot;: [],
+      &quot;tables&quot;: [],
+      &quot;polls&quot;: [],
+      &quot;headlines&quot;: {},
+      &quot;links&quot;: [],
+      &quot;events&quot;: [],
+      &quot;programs&quot;: [],
+      &quot;templateData&quot;: {},
+      &quot;baseShareArticleUrl&quot;: &quot;https://tnonline.uol.com.br/_/&quot;,
+      &quot;isInPublishRange&quot;: true,
+      &quot;tags&quot;: [],
+      &quot;metaData&quot;: {},
+      &quot;publishId&quot;: 1,
+      &quot;publishAuthor&quot;: &quot;TNOnline&quot;,
+      &quot;columnPath&quot;: &quot;_&quot;,
+      &quot;categoryPaths&quot;: [
+        &quot;Notícias:Apucarana&quot;
+      ]
+    }
+  ],
+  &quot;imagesThumbnail&quot;: [],
+  &quot;imagesNormal&quot;: [
+    {
+      &quot;elementId&quot;: 520663,
+      &quot;order&quot;: 0,
+      &quot;sourceId&quot;: 2228012,
+      &quot;ownerType&quot;: &quot;Article&quot;,
+      &quot;ownerId&quot;: 566853,
+      &quot;galleryId&quot;: 0,
+      &quot;parentId&quot;: 0,
+      &quot;language&quot;: &quot;&quot;,
+      &quot;path&quot;: &quot;/img/normal/560000/Londrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707.jpg?xid=520663&quot;,
+      &quot;cdn&quot;: {
+        &quot;cdnId&quot;: 1,
+        &quot;name&quot;: &quot;default&quot;,
+        &quot;enabled&quot;: true
+      },
+      &quot;thumbnailCdn&quot;: {
+        &quot;cdnId&quot;: 0,
+        &quot;enabled&quot;: true
+      },
+      &quot;author&quot;: &quot;&quot;,
+      &quot;authorTitle&quot;: &quot;&quot;,
+      &quot;authorEmail&quot;: &quot;&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;description&quot;: &quot;&quot;,
+      &quot;text&quot;: &quot;&quot;,
+      &quot;text2&quot;: &quot;&quot;,
+      &quot;elementType&quot;: &quot;image_normal&quot;,
+      &quot;isStandard&quot;: false,
+      &quot;createdBy&quot;: &quot;&quot;,
+      &quot;lastModifiedBy&quot;: &quot;&quot;,
+      &quot;name&quot;: &quot;&quot;,
+      &quot;addressType&quot;: &quot;&quot;,
+      &quot;address&quot;: &quot;&quot;,
+      &quot;number&quot;: &quot;&quot;,
+      &quot;complements&quot;: &quot;&quot;,
+      &quot;neighbourhood&quot;: &quot;&quot;,
+      &quot;city&quot;: &quot;&quot;,
+      &quot;state&quot;: &quot;&quot;,
+      &quot;zipCode&quot;: &quot;&quot;,
+      &quot;country&quot;: &quot;&quot;,
+      &quot;directions&quot;: &quot;&quot;,
+      &quot;notes&quot;: &quot;&quot;,
+      &quot;width&quot;: 891,
+      &quot;height&quot;: 550,
+      &quot;length&quot;: 109321
+    }
+  ],
+  &quot;specialVideos&quot;: {},
+  &quot;videos&quot;: [],
+  &quot;specialAudios&quot;: {},
+  &quot;audios&quot;: [],
+  &quot;specialAttachments&quot;: {},
+  &quot;attachments&quot;: [],
+  &quot;highlights&quot;: [],
+  &quot;quotes&quot;: [],
+  &quot;addresses&quot;: [],
+  &quot;galleries&quot;: [],
+  &quot;faqs&quot;: [],
+  &quot;summaries&quot;: [],
+  &quot;relatedArticleGroups&quot;: [],
+  &quot;quizzes&quot;: [],
+  &quot;maps&quot;: [],
+  &quot;tables&quot;: [],
+  &quot;polls&quot;: [],
+  &quot;headlines&quot;: {},
+  &quot;links&quot;: [],
+  &quot;events&quot;: [],
+  &quot;programs&quot;: [],
+  &quot;templateData&quot;: {
+    &quot;Informe autor&quot;: false
+  },
+  &quot;baseShareArticleUrl&quot;: &quot;https://tnonline.uol.com.br/_/&quot;,
+  &quot;isInPublishRange&quot;: true,
+  &quot;tags&quot;: [
+    {
+      &quot;tagId&quot;: 38984,
+      &quot;sourceId&quot;: 0,
+      &quot;name&quot;: &quot;H3N2&quot;,
+      &quot;path&quot;: &quot;h3n2&quot;,
+      &quot;template&quot;: {
+        &quot;defaultTemplate&quot;: false,
+        &quot;reportFileName&quot;: false
+      },
+      &quot;tagItems&quot;: [],
+      &quot;publishAuthor&quot;: &quot;TNOnline&quot;
+    },
+    {
+      &quot;tagId&quot;: 6,
+      &quot;sourceId&quot;: 0,
+      &quot;name&quot;: &quot;Londrina&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;headline&quot;: &quot;&quot;,
+      &quot;description&quot;: &quot;&quot;,
+      &quot;path&quot;: &quot;londrina&quot;,
+      &quot;template&quot;: {
+        &quot;defaultTemplate&quot;: false,
+        &quot;reportFileName&quot;: false
+      },
+      &quot;tagItems&quot;: [],
+      &quot;publishAuthor&quot;: &quot;TNOnline&quot;
+    },
+    {
+      &quot;tagId&quot;: 40647,
+      &quot;sourceId&quot;: 0,
+      &quot;name&quot;: &quot;Parana&quot;,
+      &quot;path&quot;: &quot;parana&quot;,
+      &quot;template&quot;: {
+        &quot;defaultTemplate&quot;: false,
+        &quot;reportFileName&quot;: false
+      },
+      &quot;tagItems&quot;: [],
+      &quot;publishAuthor&quot;: &quot;TNOnline&quot;
+    },
+    {
+      &quot;tagId&quot;: 3883,
+      &quot;sourceId&quot;: 0,
+      &quot;name&quot;: &quot;Sesa&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;headline&quot;: &quot;&quot;,
+      &quot;description&quot;: &quot;&quot;,
+      &quot;path&quot;: &quot;sesa&quot;,
+      &quot;template&quot;: {
+        &quot;defaultTemplate&quot;: false,
+        &quot;reportFileName&quot;: false
+      },
+      &quot;tagItems&quot;: [],
+      &quot;publishAuthor&quot;: &quot;TNOnline&quot;
+    }
+  ],
+  &quot;metaData&quot;: {},
+  &quot;publishId&quot;: 1,
+  &quot;publishAuthor&quot;: &quot;TNOnline&quot;,
+  &quot;columnPath&quot;: &quot;_&quot;,
+  &quot;categoryPaths&quot;: [
+    &quot;Notícias:Paraná&quot;
+  ]
+}"><div class="container"><div class="tn-boxContent-artigo"><div class="tn-content-artigo"><div class="box-img-artigo"><figure class="img-artigo"><img fetchpriority="high" src="https://cdn.tnonline.com.br/img/Artigo-Destaque/560000/1210x720/Londrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707-ScaleDownProportional.webp?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F560000%2FLondrina-confirma-primeira-morte-causada-pela-grip-00566853-0-202201081707.jpg%3Fxid%3D520664%26resize%3D1000%252C500%26t%3D1736830568&amp;xid=520664" alt="Londrina confirma primeira morte causada pela gripe H3N2" title="Londrina confirma primeira morte causada pela gripe H3N2"><figcaption><img src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-camera.svg" alt="Icone Camera" title="Icone Camera"> Foto por Reprodução</figcaption></figure></div><div class="tn-creditos-artigo"><div class="tx-credito"><span>Escrito por <strong>Da Redação</strong></span><div> <span>Publicado em 08.01.2022, 17:07:11</span> <span>Editado em 08.01.2022, 17:07:12</span></div><a class="tn-googleNews" href="https://news.google.com/publications/CAAiEDG7uCcaxsngQEinhi18rAUqFAgKIhAxu7gnGsbJ4EBIp4YtfKwF?ceid=BR:pt-419&amp;oc=3"><div class="imgGoogleNews"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/google_News.svg" alt="Imagen google News" title="icone Google News"></div><span>Siga o TNOnline no Google News</span></a></div></div><div class="tn-bannerAnuncie"><span>Associe sua marca ao jornalismo sério e de credibilidade, <a href="https://tnonline.uol.com.br/fale-conosco" aria-label="Link para Anuncie no TNOnline"><b>anuncie no TNOnline.</b></a></span></div><div class="ads-feed" style="min-height:260px"><span class="reminder">Continua após publicidade</span><div id="banner-300x250-5-area"></div></div><article data-articleid="566853" id="article-body"><p>A Secretaria de Estado da Saúde (Sesa) confirmou a primeira morte causada pela gripe influenza H3N2 em Londrina. A vítima é um homem 73 anos. Segundo o boletim da pasta ele também possuía outras comorbidades.</p><div class="ads-feed" style="min-height:60px!important"><span class="reminder">continua após publicidade</span><div role="img" aria-hidden="true" id="banner-300x50-2-area" data-lazy="ready"></div></div><p>Conforme a SESA, foram registradas duas mortes no estado, em Londrina e Curitiba. Na capital, a vítima é uma mulher de 47 anos, que também tinha doenças pré-existentes e podem ter agravado o caso.</p><p>Um deles não havia tomado a vacina contra a influenza H1N1.</p><div class="ads-feed"><span class="reminder">continua após publicidade</span><div role="img" aria-hidden="true" id="banner-300x250-1-area" data-lazy="ready"></div></div><p>Londrina tem oito diagnósticos confirmados, enquanto o estado soma 483 casos da nova variante.</p><p>Com informações do Tem Londrina.</p><a href="https://news.google.com/publications/CAAiEDG7uCcaxsngQEinhi18rAUqFAgKIhAxu7gnGsbJ4EBIp4YtfKwF?ceid=BR:pt-419&amp;oc=3" class="tnoGoogleNews"><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/google_News.svg" style="width:31px;height:39px" alt="GoogleNews"> <h2>Siga o TNOnline no Google News</h2></a><div id="tags" class="tn-catRelacionadas"><div class="titulo-catRelacionadas"><span>Tags Relacionadas</span></div><div class="links-catRelacionadas"><div class="left"><a aria-label="H3N2" href="https://tnonline.uol.com.br/tags/h3n2">H3N2</a> <a aria-label="Londrina" href="https://tnonline.uol.com.br/tags/londrina">Londrina</a> <a aria-label="Parana" href="https://tnonline.uol.com.br/tags/parana">Parana</a> <a aria-label="Sesa" href="https://tnonline.uol.com.br/tags/sesa">Sesa</a></div><div class="rigth"><a href="/fale-conosco" aria-label="Link Fale Conosco">Encontrou algum erro? Avise a redação!</a></div></div></div></article><div class="tn-receberNoticias"><h3>Gostou desta matéria? Compartilhe!</h3><div><a href="https://www.facebook.com/sharer.php?u=https://tnonline.uol.com.br/_/566853" aria-label="Botão Compartilhe no Facebook"><div><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-fb-gray.svg" alt="Icone FaceBook" title="Icone Facebook"></div></a> <a href="https://api.whatsapp.com/send?text=https://tnonline.uol.com.br/_/566853" rel="nofollow noopener noreferrer" aria-label="Botão Compartilhe no Whattsapp"><div><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-whats-gray.svg" alt="Icone Whattsapp" title="Icone Whatsapp"></div></a> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Ftnonline.uol.com.br%2F_%2F566853&amp;title=Londrina%20confirma%20primeira%20morte%20causada%20pela%20gripe%20H3N2" aria-label="Botão Compartilhe no Linkedin"><div><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/linkedin.svg" alt="Icone Linkedin" title="Icone Linkedin"></div></a> <a href="https://twitter.com/intent/tweet?text=Londrina%20confirma%20primeira%20morte%20causada%20pela%20gripe%20H3N2&amp;url=https%3A%2F%2Ftnonline.uol.com.br%2F_%2F566853" aria-label="Botão Compartilhe no Twitter"><div><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-twitterXgray.svg" alt="Icone Twitter" title="Icone Twitter"></div></a><form id="formNewsletter1"><input type="email" name="email" required="" aria-label="email" placeholder="Digite aqui seu e-mail e receba notícias"><button id="tn-btnEnviarEmail" data-id="send-newsletter" aria-label="botão Enviar Email para receber noticias">ENVIAR</button><div id="tn-txEnviarEmail" data-text="text-modal"></div></form></div></div><div class="tn-boxReverseMobile"><div class="tn-maisNoticias" style="order:2"><h2>Mais matérias de Paraná</h2><ul id="maisNoticias"></ul></div><div class="ads-feed" style="min-height:260px;margin:10px 0"><script src="https://b.admasters.media/widget/7dee3ac9-be90-4fc3-9169-8c2be062e8c6/ext.js" defer=""></script></div><div class="tn-comentarios-rodape" style="order:3"><div class="tn-recomendados"><div id="bloco-native-rodape"></div></div><div id="comments" class="tn-comentarios"><h2>Deixe seu comentário sobre: "<span>Londrina confirma primeira morte causada pela gripe H3N2</span>"</h2><div class="tx-comentarios"><span>O portal TNOnline.com.br não se responsabiliza pelos comentários, opiniões, depoimentos, mensagens ou qualquer outro tipo de conteúdo. Seu comentário passará por um filtro de moderação. O portal TNOnline.com.br não se obriga a publicar caso não esteja de acordo com a política de privacidade do site. Leia aqui o termo de uso e responsabilidade.</span></div><div class="bar-verComentarios"><button id="btn-verComentarios" aria-label="button"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/comment.svg" alt="Icone Mensagem" title="Icone Mensagem"> <span>Ver Comentários</span></button></div><div id="fb-root"></div><output width="100%" class="tn-hidden fb-comments" id="tn-outpuFb" data-href="/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853" data-numposts="6"></output></div><script>
+    setTimeout(function() {
+      const divRoot = document.getElementById("fb-root");
+      var script = document.createElement('script');
+      script.async = false;
+      script.defer = true;
+      script.crossOrigin = 'anonymous';
+      script.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v10.0&appId=315653428516563&autoLogAppEvents=1';
+      divRoot.insertAdjacentElement('afterend',script);
+    }, 2000); 
+  </script></div></div><div class="tn-tribunaPlay"><div class="header-tribunaPlay"><header><h3>TribunaPlay</h3></header></div><div class="content-tribunaPlay"><div class="img-tribunaPlay"><figure><img loading="lazy" src="https://cdn.tnonline.com.br/img/thumbnail/950000/Projeto-verao-lagartos-sao-flagrados-em-academia-e-00950619-0-202501131611-xs.jpg?xid=1413134" alt="Projeto verão: lagartos são flagrados em academia e vídeo viraliza"> <img loading="lazy" id="icon-tnPlay" src="/themes/portal-tno-deploy/assets/tno2023/imgs/play.svg" alt="Icone de Play no video"></figure><div></div></div><div class="text-tribunaPlay"><a aria-label="Projeto verão: lagartos são flagrados em academia e vídeo viraliza" href="/noticias/tribunaplay/mundo-animal/projeto-verao-lagartos-sao-flagrados-em-academia-e-video-viraliza-950619"><figure class="img-tx-tribunaPlay"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/logo-tribuna.png" alt="Projeto verão: lagartos são flagrados em academia e vídeo viraliza"></figure><div class="content-tx-tribunaPlay"><h3>Projeto verão: lagartos são flagrados em academia e vídeo viraliza</h3></div></a></div></div></div></div><div class="tn-anuncio-aside"><aside><div style="margin-bottom:15px" id="banner-300x600-1-area"></div></aside></div></div></div></article><div class="tn-boxCarouselWidgets"></div><div class="tn-maisNoticias-rodape"><div class="container"></div></div></section></main><footer><div class="container"><div class="tn-boxFooter"><div class="titulo-footer"><span>SIGA O TNONLINE NAS REDES SOCIAIS</span><div class="tn-footer-iconsSociais"> <a href="https://web.facebook.com/sitetnonline" aria-label="Curta no Facebook"><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/optimized/facebook-circle.svg" alt="Icone facebook" title="Icone Facebook"></a> <a href="https://www.instagram.com/sitetnonline" aria-label="Curta no Instagram"><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/optimized/instagram.svg" alt="Icone Instagram" title="Icone Instagram"></a> <a href="https://twitter.com/sitetnonline" aria-label="Curta no Twitter"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-twitterX.svg" alt="Icone Twitter" title="Icone Twitter"></a> <a href="https://www.youtube.com/channel/UCZriG4d4uL_PEOWYiTYekVA" aria-label="Curta no Youtube"><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/optimized/youtube.svg" alt="Icone Youtube" title="Icone Youtube"></a></div></div><div class="fn-footer-links"><div class="footer-coluna"><h3>Notícias</h3><ul><li><a aria-label="Apucarana" href="/noticias/apucarana">Apucarana</a></li><li><a aria-label="Arapongas" href="/noticias/arapongas">Arapongas</a></li><li><a aria-label="Vale do Ivaí" href="/noticias/vale-do-ivai">Vale do Ivaí</a></li><li><a aria-label="Paraná" href="/noticias/parana">Paraná</a></li><li><a aria-label="Vídeos" href="/noticias/tribunaplay">Vídeos</a></li><li><a aria-label="Revista UAU!" href="/noticias/revista-uau">Revista UAU!</a></li><li><a aria-label="Cotidiano" href="/noticias/cotidiano">Cotidiano</a></li><li><a aria-label="Política" href="/noticias/politica">Política</a></li><li><a aria-label="Esportes" href="/noticias/esportes">Esportes</a></li><li><a aria-label="Economia" href="/noticias/economia">Economia</a></li></ul></div><div class="footer-coluna"><h3>Mais seções</h3><ul><li><a aria-label="Previsão do Tempo" href="/previsao-do-tempo">Previsão do Tempo</a></li><li><a aria-label="Loterias" href="/loterias">Loterias</a></li><li><a aria-label="Mais Lidas" href="/noticias/mais-lidas">Mais Lidas</a></li><li><a aria-label="Últimas Notícias" href="/noticias/ultimas">Últimas Notícias</a></li><li><a aria-label="Tudo sobre" href="tudo-sobre">Tudo sobre</a></li></ul></div><div class="footer-coluna"><h3>Blogs e Colunas</h3><ul><li><a aria-label="Fluídos Positivos" href="/blogs/fluidos-positivos">Fluídos Positivos</a></li><li><a aria-label="Empresas, Empresários e Desenvolvimento" href="/blogs/empresas-empresarios-e-desenvolvimento">Empresas, Empresários e Desenvolvimento</a></li><li><a aria-label="Coluna&nbsp;da&nbsp;Tribuna" href="/blogs/coluna-da-tribuna">Coluna&nbsp;da&nbsp;Tribuna</a></li><li><a aria-label="Blog da Thays Diniz Bomba" href="https://tnonline.uol.com.br/blogs/blog-da-thays-diniz-bomba?d=1">Blog da Thays Diniz Bomba</a></li></ul></div><div class="footer-coluna"><h3>TNONLINE</h3><ul><li><a aria-label="Fale Conosco" href="/fale-conosco">Fale Conosco</a></li><li><a aria-label="Anuncie" href="/fale-conosco">Anuncie</a></li><li><a aria-label="Expediente" href="/expediente">Expediente</a></li><li><a aria-label="Copyright" href="/copyright">Copyright</a></li><li><a aria-label="Termos &amp; Condições" href="/politica-de-privacidade">Termos &amp; Condições</a></li></ul></div><div class="footer-coluna"><div><figure><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/optimized/logo-branca.png" alt="TN Online" title="Logo Tn Online"></figure><div class="tx-footer-creditos"><span>TNOnline - Todos os direitos reservados - © 2000 - 2025</span></div></div></div></div></div></div></footer><div class="tn-boxModalCompartilhar" id="box-modalCompartilhar"><div class="modalCompartilhar openModalAnimation"><div class="title-modalCompartilhar"><span>Compartilhe!</span> <span id="btnCloseModal" class="btn-close">x</span></div><div class="content-modalCompartilhar"><a id="link-compFacebook" href="/" aria-label=""><div class="item-modalCompartilhar"><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/optimized/facebook-md.svg" alt="icone Facebook"> <span>Facebook</span></div></a> <a id="link-compTwitter" href="/" aria-label=""><div class="item-modalCompartilhar"><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/svg/twitterNovo.svg" alt="Icone Twitter"> <span>Twitter</span></div></a> <a id="link-compWhatts" href="/" aria-label=""><div class="item-modalCompartilhar"><img loading="lazy" src="/themes/portal-tno-deploy/assets/img/optimized/whats-md.svg" alt="Icone Whattsapp"> <span>Whatsapp</span></div></a></div></div></div><div class="tn-btnFloat btnFloat-font"><button onclick="aumentarFonte()" aria-label="Aumentar fonte"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-font.svg" alt="Icone Fonte" title="Icone Aumentar fonte"></button></div><div class="tn-btnFloat btnFloat-compartilhar"><button onclick="openModalCompartilhar(this)" data-header="Londrina confirma primeira morte causada pela gripe H3N2" aria-label="Compartilhar" data-friendlyurlforsharing="/noticias/parana/londrina-confirma-primeira-morte-causada-pela-gripe-h3n2-566853"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-compartilhar.svg" alt="Icone Compartilhar" title="Icone Compartilhar"></button></div><div class="tn-btnFloat btnFloat-top"><button aria-label="Voltar ao Topo" onclick="voltarTop()"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/icon-upTop.svg" alt="Icone Voltar Ao Top" title="Icone Voltar ao Top"></button></div><div class="tn-boxMenu" id="boxMenu"><div class="tn-menuPrincipal" id="menuPrincipal"><div class="tn-menu-logo"><figure><a href="https://web.facebook.com/sitetnonline" aria-label="Acompanhe TnOnline no Facebook"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/tnonline.svg" alt=""></a></figure><div class="btnCloseMenu"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/close.svg" alt=""></div></div><nav class="tn-iconsRS-menu"><div class="icons-redesSociais"><a href="https://web.facebook.com/sitetnonline" aria-label="Acompanhe TnOnline no Facebook"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/facebook-circle.svg" alt=""></a> <a href="https://www.instagram.com/sitetnonline" aria-label="Acompanhe TnOnline no Instagram"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/icon-instagram.svg" alt=""></a> <a href="https://twitter.com/sitetnonline" aria-label="Acompanhe TnOnline no Twitter"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/icon-twitter.svg" alt=""></a> <a href="https://www.youtube.com/channel/UCZriG4d4uL_PEOWYiTYekVA" aria-label="Acompanhe TnOnline no Youtube"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/youtube.svg" alt=""></a></div><div class="telWhatss"><a href="https://api.whatsapp.com/send?phone=5543996154000" aria-label="Entre em Contato pelo nosso Whatsapp"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/icon-whats.svg" alt="Icone Whatsapp"> 43 99615-4000</a></div></nav><nav class="tn-links-menu"><a href="/noticias/apucarana">Apucarana</a> <a href="/noticias/arapongas">Arapongas</a> <a href="/noticias/vale-do-ivai">Vale do Ivaí</a> <a href="/noticias/parana">Paraná</a> <a href="/noticias/politica">Política</a> <a href="/noticias/tribunaplay">Vídeos</a> <a href="/noticias/revista-uau">Revista UAU!</a> <a href="/noticias/economia">Economia</a> <a href="/previsao-do-tempo">Previsão do tempo</a> <a href="/loterias">Loterias</a> <a href="/blogs">Blogs</a> <a href="/noticias/ultimas">Últimas notícias</a> <a href="/tudo-sobre">TUDO SOBRE</a></nav><nav class="tn-iconsRS-menu-Mobile"><h3>Conecte-se Conosco</h3><div class="icons-redesSociais"><a href="https://web.facebook.com/sitetnonline" aria-label="Acompanhe TnOnline no Facebook"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/facebook-circle.svg" alt=""></a> <a href="https://www.instagram.com/sitetnonline" aria-label="Acompanhe TnOnline no Instagram"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/icon-instagram.svg" alt=""></a> <a href="https://twitter.com/sitetnonline" aria-label="Acompanhe TnOnline no Twitter"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/icon-twitter.svg" alt=""></a> <a href="https://www.youtube.com/channel/UCZriG4d4uL_PEOWYiTYekVA" aria-label="Acompanhe TnOnline no Youtube"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/youtube.svg" alt=""></a></div><div class="telWhatss"><a href="https://api.whatsapp.com/send?phone=5543996154000" aria-label="Entre em Contato pelo nosso Whatsapp"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/icon-whats.svg" alt="Icone Whatsapp"> 43 99615-4000</a></div></nav><nav class="tn-links-uteis-menu"><div class="item-linksUteis"><a href="https://www.tribunadonorte.com/" aria-label="Link para Tribuna do norte"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/newspaper-small.svg" alt="icone Edição Impressa"> edição impressa</a></div><div class="item-linksUteis"><a href="https://tnonline.uol.com.br/newsletter" aria-label="Link para Newsletter"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/newsletter.svg" alt="icone newsleter"> newsletter</a></div><div class="item-linksUteis"><a href="https://tnonline.uol.com.br/noticias-por-whatsapp" aria-label="Link Notícias por Whatsapp"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/whats-small.svg" alt="ícone Whatsapp"> notícias do whatsapp</a></div><div class="item-linksUteis"><a href="https://tnonline.uol.com.br/fale-conosco" aria-label="Link Fale conosco"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/star-small.svg" alt="Icone Anuncie aqui"> anuncie</a></div><div class="item-linksUteis"><a href="https://tnonline.uol.com.br/expediente" aria-label="Link expediente"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/people.svg" alt="icone Expediente"> expediente</a></div><div class="item-linksUteis"><a href="https://tnonline.uol.com.br/fale-conosco" aria-label="Link Fale Conosco"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/iconsMenu/comments-small.svg" alt="icone Fale Conosco"> fale conosco</a></div></nav></div><div class="overlay" id="overlay-menu"></div></div><div class="tn-boxModalDialog tn-hidden"><div class="btn-closeModalDialog"><button aria-label="Fechar" onclick="openModalDialog()"><img loading="lazy" src="/themes/portal-tno-deploy/assets/tno2023/imgs/close-modalDialog.svg" alt="i"></button></div><h3>Inscreva-se na nossa newsletter</h3><p>Notícia em primeira mão no início do dia, inscreva-se agora!</p><form class="tn-formModalDialog"><input type="email" name="email" aria-label="email" required="" placeholder="Digite aqui seu e-mail"><button data-id="send-newsletter" type="button">Enviar</button></form></div><script>
+    var categoryIdArticle = 31
+    var articleId = 566853
+    fetch('/Article/RegisterView?articleId=566853');
+  </script><script type="text/javascript" src="/themes/portal-tno-deploy/assets/tno2023/js/splide.min.js?_=1684418825"></script><script type="text/javascript" src="/themes/portal-tno-deploy/assets/tno2023/js/base.js?_=1717790851"></script><script defer="" id="dsq-count-scr" src="//tnonline.disqus.com/count.js"></script><script id="advertising">
+      if (!location.hash.includes('stopads')) {
+        window.uolads ??= [];
+        window.uolads.push({
+          id: "banner-300x50-1-area"
+        })
+        window.uolads.push({
+          id: "banner-300x50-2-area"
+        })
+        window.uolads.push({
+          id: "banner-320x100-area"
+        })
+        window.uolads.push({
+          id: "banner-300x250-1-area"
+        })
+        window.uolads.push({
+          id: "banner-300x250-2-area"
+        })
+        window.uolads.push({
+          id: "banner-300x250-3-area"
+        })
+        window.uolads.push({
+          id: "banner-300x250-4-area"
+        })
+        window.uolads.push({
+          id: "banner-300x250-5-area"
+        })
+        window.uolads.push({
+          id: "banner-300x600-1-area"
+        })
+        window.uolads.push({
+          id: "banner-970x250-area"
+        });
+        window.uolads.push({
+          id: "banner-970x250-2-area"
+      });
+      }
+    </script><script defer="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" onerror="adsremove(event)"></script><script>
+
+    console.log('Atualizei 18:01')
+
+    function init() {
+     if (new URL(location.href).searchParams.get("norel")?.toLowerCase() !== 'true') {
+
+     
+     
+     }
+  }
+  init();
+  function mountArticleElement(e, a) { let r = document.querySelector(a); if (r) { var n = +new Date; let l = document.createElement("script"); l.src = e, l.defer = !0, l.onload = () => { var a = +new Date; console.log(`${e} levou ${a - n}ms para ser carregado`) }, r.appendChild(l) } } function loadScripts(e) { e.forEach(e => { var a = +new Date; let r = document.createElement("script"); r.src = e, r.defer = !0, r.onload = () => { var r = +new Date; console.log(`${e} levou ${r - a}ms para ser carregado`) }, document.head.appendChild(r) }) }
+
+  /*window.addEventListener('load', () => {
+     init();
+  });*/
+    </script><script>
+      setTimeout(() => {
+        const ultimaArea = document.querySelector('.tn-maisNoticias-rodape > .container');
+        const carouselWidgetsAjax = document.querySelector('.tn-boxCarouselWidgets')
+        fetch('/ajax/maisNoticias')
+            .then(res => res.text())
+            .then(html => {
+                const htmlDoMaisNoticias = new DOMParser().parseFromString(html, "text/html");
+                const maisNoticiasRodape = htmlDoMaisNoticias.getElementById('maisNoticiasRodape');
+                const maisNoticiasCarousel = htmlDoMaisNoticias.getElementById('maisNoticiasCarousel');
+                if (maisNoticiasRodape && ultimaArea) {
+                  ultimaArea.innerHTML += maisNoticiasRodape.innerHTML;
+
+                  const itensRodape = ultimaArea.querySelectorAll('.item-maisNoticias-rodape');
+
+                  if (itensRodape.length > 3) {
+                    itensRodape[2].insertAdjacentHTML('afterend', `
+                      <aside style="background-color: transparent; text-align: center; min-height: 90px;">         
+                        <div id="banner-300x50-1-area"></div>
+                      </aside>
+                    `);
+                  }
+                }
+  
+                if (maisNoticiasCarousel && carouselWidgetsAjax) {
+                    carouselWidgetsAjax.innerHTML += maisNoticiasCarousel.innerHTML;
+                }
+            });
+        console.log('showed :D');
+      }, 500);
+    </script><script>
+      setTimeout(() => {
+        var splideWidget = new Splide('#tn-splideWidgets', {
+        type: 'carousel',
+        perPage: 1,
+        width: '100%',
+        pagination: false,
+        gap: 10,
+        arrows: false,
+        breakpoints: {
+          768: {
+            perPage: 2,
+          },
+          576: {
+            perPage: 1,
+          }
+        }
+      })
+      splideWidget.mount();
+      splideWidget.refresh();
+    }, 2500);
+    </script><script>
+document.querySelectorAll('.splide.inline-galery-splide').forEach(s => {
+    var splideGallery = new Splide(s, {
+        pagination: false,
+        arrows: true
+    });
+
+    splideGallery.mount();
+
+    var thumbnails = document.querySelectorAll(".inline-gallery-backdrop img");
+    console.log('thumbnail', thumbnails);
+    thumbnails[0].classList.add("is-active");
+
+    thumbnails.forEach(thumbnail => {
+        thumbnail.addEventListener("click", e => {
+            thumbnails.forEach(thumb => { thumb.classList.remove("is-active") });
+            e.target.classList.add("is-active");
+            let index = Number(thumbnail.getAttribute("data-index"));
+            splideGallery.go(index);
+        });
+    });
+
+    splideGallery.on('move', () => {
+        let activeIndex = splideGallery.index;
+        thumbnails.forEach(thumb => { thumb.classList.remove("is-active") });
+        thumbnails[activeIndex].classList.add("is-active");
+    });
+});
+</script><script>
+  const adsFixedDesk = document.querySelector('.tn-boxPropaganda > .container');
+  let isWithinTimeLimit = true;
+  let alturaScroll = 'False' === 'True' ? 142 : 333;
+
+  window.addEventListener('scroll', () => {
+    if (isWithinTimeLimit) {
+      if (window.scrollY >= alturaScroll) {
+        adsFixedDesk.classList.add('adsFixed');
+      } else {
+        adsFixedDesk.classList.remove('adsFixed');
+      }
+    }
+  });
+
+  setTimeout(() => {
+    isWithinTimeLimit = false;
+    adsFixedDesk.classList.remove('adsFixed');
+  }, 5000);
+</script>
+</body></html>

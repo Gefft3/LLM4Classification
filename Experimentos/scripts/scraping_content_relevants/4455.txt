@@ -1,0 +1,701 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="title" content="Dengue: retorno de cepas acende alerta para aumento de casos graves ">
+
+    <meta name="Description" content="Dengue: retorno de cepas acende alerta para aumento de casos graves  - ">
+    <meta name="img" content="https://www.jornalevolucao.com.br/imagens/logo.jpg">
+
+                <meta property="og:title" content="Dengue: retorno de cepas acende alerta para aumento de casos graves ">
+            <meta property="og:description" content="Dengue: retorno de cepas acende alerta para aumento de casos graves  - ">
+            <meta property="og:image" content="https://www.jornalevolucao.com.br/imagens/logo.jpg">
+            <meta property="og:image:type" content="image/jpg">
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https://www.jornalevolucao.com.br/textos/64063/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+            <meta property="og:image:width" content="640">
+            <meta property="og:image:height" content="480">
+            <meta property="fb:app_id" content="1587342288153204">
+            <meta property="og:locale" content="pt_BR">
+                <meta name="language" content="pt-br">
+    <meta name="Robots" content="Index, Follow">
+    <meta name="revisit-after" content="1 Day">
+    <meta name="rating" content="General">
+    
+    <meta name="author" content="Jornal Evolução">
+    <meta name="copyright" content="">
+    <meta name="Publisher" content="Samuca Webdesign">
+
+	<title>Dengue: retorno de cepas acende alerta para aumento de casos graves </title>
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/animate.min.css">
+    <link rel="stylesheet" href="/css/jquery-ui.css">
+    <link rel="stylesheet" href="/css/jquery.Jcrop.min.css" type="text/css">
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery-ui.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.zoom.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+	<script src="/js/funcoes.js?1619729102"></script>
+
+    <link rel="stylesheet" type="text/css" href="/shadowbox_js/shadowbox.css">
+    <script type="text/javascript" src="/shadowbox_js/shadowbox.js"></script>
+    <script type="text/javascript">
+    
+    Shadowbox.init({
+        language: 'pt',
+        players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv'],
+        //handleOversize: "drag",
+        //modal: false
+    
+    });
+    
+    </script>
+
+  	<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MSHDCL71PZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MSHDCL71PZ');
+</script>
+
+      <!-- responsivo -->
+		<script type="text/javascript">
+		$(window).load(function() {
+			// Slideshow 4
+		  $("#slider4").responsiveSlides({
+			auto: true,
+			pager: true,
+			nav: true,
+			speed: 500,
+			namespace: "callbacks",
+			before: function () {
+			  //$('.slide-legenda').append("<li>before event fired.</li>");
+			},
+			after: function () {
+			  //$('.events').append("<li>after event fired.</li>");
+			}
+		  });
+			});
+		  </script>
+        <script type="text/javascript">
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='//rec.getsmartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', '13563c7f0eb35dd42ce85ded7e8f110617cbd8f3');
+</script>
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-5479977639219455",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3889444-50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3889444-50');
+</script>
+
+<script src="https://api.nobeta.com.br/nobetaads&amp;id=jornalevolucao.inter"></script>    
+    <script>
+    $(function() {
+        $( ".calendario" ).datepicker(
+        {
+            dateFormat: 'dd/mm/yy',
+            //showOn: "button",
+            //buttonImage: 'imagens/ico-calendario.png',
+            showButtonPanel:true,
+            changeMonth: true,
+            changeYear: true,
+            dayNames: ['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado','Domingo'],
+            dayNamesMin: ['Dom','Seg','Ter','Qua','Qui','Sex','Sab','Dom'],
+            dayNamesShort: ['Dom','Seg','Ter','Qua','Qui','Sex','Sab','Dom'],
+            monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
+            monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
+            currentText: "Hoje",
+            closeText: "Fechar",
+            yearRange: "-100:+0"
+            //numberOfMonths: 3
+        }
+        );
+    });
+    </script>
+  </head>
+  <body class="fundoContainer">
+  	<div id="divPublicidadeReport"></div>
+					<!-- Modal -->
+				<div class="modal" id="modalQuestion" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+					<div class="modal-content">
+					  <div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+						<h4 class="modal-title" id="myModalLabel"></h4>
+					  </div>
+					  <div class="modal-body">
+						<div class="text-center">
+							<button id="butQuestion" type="button" class="btn btn-success"><span class="glyphicon glyphicon-ok"></span> Ok</button>
+					        <button id="butCancelar" type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Cancelar</button>
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+                    
+    <div id="divFundo" class="fundo12 cor4">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6"><h5 class="fonte16 cor4">Jornal Evolução Notícias de Santa Catarina</h5></div>
+                <div class="col-sm-6 text-right " data-id="rubberBand">
+                    <h5 class="fonte16">
+                        <a href="https://www.facebook.com/jornalevolucaosbs/" target="_blank"><img src="/imagens/ico-face.png" height="20" alt="Facebook Jornal Evolução"></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                <a href="/contato"><font class="cor4"><span class="glyphicon glyphicon-earphone"></span> (47) 99660-9995</font></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a id="whatsapp" href="#"><img src="/imagens/ico-whatsapp.png" height="20" alt="Whatsapp Jornal Evolução"><font class="cor4"> (47) 99660-9995</font></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contato"><font class="cor4"><span class="glyphicon glyphicon-envelope cor4"></span> E-mail</font></a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fundo3">
+        <div class="container">
+            <div class="row">
+                    <div class="col-sm-3">
+                        <br>
+                        <a href="/inicial"><img id="logo" class="img-responsive " data-id="fadeIn fadeInLeft" src="/imagens/logo.png" border="0"></a>
+                        <br>
+                    </div>
+                    <div class="col-sm-9 text-center z-index1">
+                        <br>
+                        <br>
+                        <nav class="navbar  navbar-fixo" data-id="fadeIn fadeInRight menuMobile">
+                            <div id="teste" class="container-fluid">
+                                <div class="navbar-header">
+                                  <button type="button" class="navbar-toggle collapsed borda1" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar borda1"></span>
+                                    <span class="icon-bar borda1"></span>
+                                    <span class="icon-bar borda1"></span>
+                                  </button>
+                                </div>
+                                <div id="navbar" class="navbar-collapse collapse ">
+                                <ul class="nav navbar-nav navbar-right">
+                                                                                        <li class="childMenu ">
+                                                        <a href="/inicial">Inicial</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu"><a href="/textos/496/parceiros/0">Parceiros</a></li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/ultimas-noticias">Notícias</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/colunistas">Colunistas</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu"><a href="/textos/495/sobre-nos/0">Sobre nós</a></li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/contato">Contato</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="javascript:void($('#divBusca').fadeToggle());void($('#key').focus());"><i class="glyphicon glyphicon-search"></i></a>
+                                                                                                            </li>
+                                                                                    </ul>
+                                </div>
+                            </div>
+                        </nav>
+
+                        <div id="divBusca" class="none">
+                            <br>
+                            <form class="form-group" name="form_busca" method="post" action="/busca">
+                                <div class="row">
+                                    <div class="col-sm-6"></div>
+                                    <div class="col-sm-6">
+                                        <div class="input-group">
+                                            <input class="form-control" name="key" type="text" id="key" size="40" maxlength="100" placeholder="Pesquisar" value="">
+                                            <span class="input-group-btn">
+                                                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        </div>
+                </div>
+        </div>
+    </div>
+
+    
+                <div class="fundo5 alturaMinima2"></div>
+            <div class="container">
+	<div class="row">
+				<div class="col-sm-9">
+			
+			    	                        <h1>Dengue: retorno de cepas acende alerta para aumento de casos graves </h1>
+                                                                                <h5>
+                                Quinta, 18 de maio de 2023                                </h5>
+                                <br>
+                                                        <div class="row">
+                            <div class="col-sm-12 text-justify">
+                            <p style="margin-bottom: 1em; color: #222222; font-family: Arial; background-color: #ffffff; font-size: 14pt; font-weight: bold; text-align: center;">Dengue: retorno de cepas acende alerta para aumento de casos graves e traz dúvidas sobre melhor momento para buscar atendimento</p>
+<p style="margin-bottom: 1em; color: #222222; font-family: Arial; background-color: #ffffff; font-size: 12pt; text-align: center;"><em><span style="color: #ff0000; font-weight: bold;">
+						</span></em></p><div id="myCarousel64063" class="carousel slide" data-ride="carousel"><em>
+						  <!-- Indicadores dos slides -->
+						  <ol class="carousel-indicators">
+						  
+						  </ol>
+						
+						  <!-- Conteúdo do slide -->
+						  <div class="carousel-inner">
+						  
+						  </div>
+						
+							
+							</em></div><em>
+							Brasil já registrou quatro casos de sorotipo 3, que não era diagnosticado desde 1996 no país</em><p></p>
+<div style="color: #222222; font-family: Arial; background-color: #ffffff; text-align: justify; font-size: 11pt;">
+<p style="margin-bottom: 1em;">Depois de sete anos sem sorotipo 3 da dengue no Brasil, a Fundação Oswaldo Cruz (Fiocruz) identificou quatro casos de pessoas infectadas com esse tipo no país, um deles em Curitiba, no Paraná. Segundo a instituição, a doença foi importada, visto que a pessoa diagnosticada havia viajado para o Suriname, onde pode ter contraído a dengue. Os outros três casos foram autóctones do estado de Roraima, com pacientes que não tinham histórico de viagens.&nbsp;</p>
+<p style="margin-bottom: 1em;">Para o infectologista do Hospital São Marcelino Champagnat, Bernardo Almeida, a volta do sorotipo 3 acende o alerta para casos graves da doença. “A preocupação é porque essa cepa da dengue não circula intensamente há muito tempo e grande parte da população não possui imunidade para esse sorotipo. Com mais de uma cepa circulando, aumentam as chances de&nbsp; reinfecção e incidência de casos graves, comprovados pelos oito óbitos já registrados no Paraná”.&nbsp;</p>
+<p style="margin-bottom: 1em;"><strong>Fases da dengue</strong></p>
+<p style="margin-bottom: 1em;">A dengue tem três estágios importantes que devem ser observados. O primeiro, chamado de febril, dura de três a sete dias e o principal sintoma é a febre, mas que vem acompanhado de dor de cabeça, no fundo dos olhos, vômito, dor no corpo, articular e eventualmente manchas na pele. A segunda fase é conhecida como crítica e nem todos chegam. Nela estão as manifestações hemorrágicas, sangramentos e choque, que é quando a pressão arterial cai a níveis críticos e dura normalmente três dias, mas pode chegar a mais tempo em pessoas que acabam internadas. A última fase é a de recuperação que dura de dois a quatro dias e é marcada pelo cansaço e fadiga.</p>
+<p style="margin-bottom: 1em;">“O momento certo de pessoas com suspeita de dengue procurarem um hospital é na segunda fase e pode ser monitorada pelo paciente ou cuidador. Principalmente, se surgirem dor abdominal intensa, vômito persistente e sangramentos nas fezes ou gengiva, grande irritabilidade e mais sono do que o normal e ainda quando tem queda na pressão mesmo deitado ou em pé”, explica o infectologista. “O tratamento é basicamente suporte com medicações como anti térmico e analgésicos, além de hidratação”, complementa.</p>
+<p style="margin-bottom: 1em;">&nbsp;</p>
+</div>                                <br>
+                                                             </div>
+                        </div>
+
+
+                                                <div id="divPubRodape"></div>
+                        <script type="text/javascript">
+							$('#divPubRodape').load("/home.php?action=publicidade&id_cab=7&limite=1");
+                        </script>
+
+                        								<br>
+                                <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style ">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_pinterest_pinit"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+                                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51de2d2b7e09a8f5"></script>
+                                <!-- AddThis Button END -->
+                                				<div class="row">
+	            	<div class="col-sm-12">
+	                    <div class="bs-callout">
+		                    <h4><i class="glyphicon glyphicon-comment"></i> Comente</h4>
+		                    <br>
+		                    <form method="post" name="form-cadastro" id="form-cadastro">
+		                        <a name="comentar"></a>
+		                        <input name="id_msg2" type="hidden" id="id_msg2" size="25" maxlength="100">
+		                        <input name="endereco_msg" type="hidden" id="endereco_msg" value="www.jornalevolucao.com.br/textos/64063/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+		                        <label>Comentário</label>
+		                        <div class="none mostrar">
+			                        											<a href="javascript:mural_insere_emotion('01');" title="Inserir emotion"><img src="/smilies/01.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('02');" title="Inserir emotion"><img src="/smilies/02.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('03');" title="Inserir emotion"><img src="/smilies/03.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('04');" title="Inserir emotion"><img src="/smilies/04.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('05');" title="Inserir emotion"><img src="/smilies/05.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('06');" title="Inserir emotion"><img src="/smilies/06.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('07');" title="Inserir emotion"><img src="/smilies/07.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('08');" title="Inserir emotion"><img src="/smilies/08.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('09');" title="Inserir emotion"><img src="/smilies/09.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('10');" title="Inserir emotion"><img src="/smilies/10.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('11');" title="Inserir emotion"><img src="/smilies/11.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('12');" title="Inserir emotion"><img src="/smilies/12.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('13');" title="Inserir emotion"><img src="/smilies/13.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('14');" title="Inserir emotion"><img src="/smilies/14.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('15');" title="Inserir emotion"><img src="/smilies/15.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('16');" title="Inserir emotion"><img src="/smilies/16.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('17');" title="Inserir emotion"><img src="/smilies/17.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('18');" title="Inserir emotion"><img src="/smilies/18.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('19');" title="Inserir emotion"><img src="/smilies/19.gif" border="0"></a>
+													                        </div>
+		                        <textarea class="form-control" name="mensagem_msg" cols="23" rows="5" id="mensagem_msg" onkeyup="limite_caracteres(this.id,2000,document.getElementById('limite').id);$('.mostrar').slideDown();" required="" tabindex="0"></textarea>
+		                        		                                <div class="none mostrar">
+			                                <label>Seu nome</label>
+			                                <input class="form-control" name="nome_msg" type="text" id="nome_msg" maxlength="50" required="required" tabindex="0">
+		                                </div>
+		                                		                                <div class="none mostrar">
+			                                <label>Seu e-mail</label>
+			                          		<input class="form-control" name="email_msg" type="text" id="email_msg" maxlength="100" value="" tabindex="0">
+		                                </div>
+		                                		                        <input type="hidden" name="id_not" id="id_not" value="64063">
+		                        <div id="resposta"></div>
+		                        <input name="limite" type="hidden" id="limite" value="2000" size="4" maxlength="0" readonly="">
+		                        <div class="mostrar none">
+		                        	<div id="divCaptcha">
+				                    												<img class="img-responsive " src="/imagens/captcha_m.jpg" id="imagens/captcha_m.jpg" border="0">
+																                    </div>
+				                    <label>Digite o número da imagem acima:</label>
+				                    <input class="form-control" name="codigo_captcha" type="text" id="codigo_captcha" maxlength="4" required="required">
+				                    <script type="text/javascript">
+				                    function captcha()
+				                        {
+				                            document.getElementById('divCaptcha').innerHTML = '';
+				                            document.getElementById('divCaptcha').innerHTML = '<img style="border:1px solid #CCC" src="/imagens/captcha_m.jpg?1700890613>">';
+				                        }
+				                    setTimeout("captcha();",1000);
+				                    </script>
+			                    </div>
+		                        <br><input class="btn btn-danger" name="butEnvia" type="button" id="butEnvia" value="Enviar" onclick="ajax('#form-cadastro','/home.php?action=comentario',1,'#divResult');">
+		                        <br><br>
+		                        <div id="divNumComentario"></div>
+		                        <div id="divResult">
+						            		                        </div>
+		                        
+		                        </form>
+	                    </div>
+	                </div>
+	            </div>
+						                                <br>
+		                                <h4><span class="glyphicon glyphicon-chevron-down"></span> Conteúdo relacionado</h4>
+		                                <br>
+		                                												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/66006/1/qual-sera-o-auhit-da-virada-au-confira-os-lancamentos-mais-aguardados-do-inicio-de-dezembro"><h4><font class="bold">Qual será o “Hit da virada”? Confira os lançamentos mais aguardados do início de dezembro</font> <font class="cor2 italic">1 minuto atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65999/1/decifrando-os-sinais-entenda-o-que-suas-unhas-querem-dizer-sobre-sua-saude"><h4><font class="bold">Decifrando os sinais: entenda o que suas unhas querem dizer sobre sua saúde</font> <font class="cor2 italic">1 minuto atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66016/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170083570948whatsapp-image-20231123-at-23-54-51-jpg_t_m.jpg" id="admin/img/fotos/170083570948whatsapp-image-20231123-at-23-54-51-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66016/1/estados-e-municipios-tem-ate-11-de-dezembro-para-solicitar-recursos-da-politica-nacional-aldir-blanc"><h4><font class="bold">Estados e municípios têm até 11 de dezembro para solicitar recursos da Política Nacional Aldir Blanc</font> <font class="cor2 italic">15 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/66015/1/nova-educacao-de-jovens-e-adultos-do-sesi-tem-a-maior-taxa-de-conclusao-do-pais"><h4><font class="bold">Nova Educação de Jovens e Adultos do SESI tem a maior taxa de conclusão do país</font> <font class="cor2 italic">15 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66014/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170083565384whatsapp-image-20231123-at-21-42-00-jpg_t_m.jpg" id="admin/img/fotos/170083565384whatsapp-image-20231123-at-21-42-00-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66014/1/governo-recua-e-suspende-portaria-que-limitava-trabalho-aos-domingos-e-feriados"><h4><font class="bold">Governo recua e suspende portaria que limitava trabalho aos domingos e feriados</font> <font class="cor2 italic">15 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/66013/1/vagas-atualizadas-do-sine-sao-bento-do-sul-24-11-2023"><h4><font class="bold">Vagas atualizadas do SINE São Bento do Sul 24/11/2023</font> <font class="cor2 italic">15 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/66012/1/black-friday-da-bola-dez-jogadores-que-podem-trocar-de-clube-por-pechincha"><h4><font class="bold">Black Friday da Bola: Dez jogadores que podem trocar de clube por pechincha</font> <font class="cor2 italic">16 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66011/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170083392970unnamed-20231124t105147-107-jpg_t_m.jpg" id="admin/img/fotos/170083392970unnamed-20231124t105147-107-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66011/1/recorde-das-americas-paratleta-brasileiro-brilha-no-jogos-parapanamericanos"><h4><font class="bold">Recorde das Américas: paratleta brasileiro brilha no Jogos Parapan-Americanos</font> <font class="cor2 italic">16 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/66010/1/programa-sao-bento-sempre-limpa-ultima-edicao-do-ano-acontece-neste-sabado-25"><h4><font class="bold">Programa "São Bento Sempre Limpa" última edição do ano acontece neste sábado (25)</font> <font class="cor2 italic">16 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66009/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170083381752unnamed-20231124t105010-752-jpg_t_m.jpg" id="admin/img/fotos/170083381752unnamed-20231124t105010-752-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66009/1/porto-itapoa-faz-doacao-de-equipamento-de-ultima-geracao-para-a-policia-civil-do-municipio"><h4><font class="bold">Porto Itapoá faz doação de equipamento de última geração para a Polícia Civil do município</font> <font class="cor2 italic">16 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66008/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170083373663museu-natural-ornith-bollmann-de-portas-abertas-nas-ferias-escolares-jpg.JPG_t_m.jpg" id="admin/img/fotos/170083373663museu-natural-ornith-bollmann-de-portas-abertas-nas-ferias-escolares-jpg.JPG_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66008/1/museu-natural-ornith-bollmann-de-portas-abertas-nas-ferias-escolares"><h4><font class="bold">Museu Natural Ornith Bollmann de portas abertas nas férias escolares</font> <font class="cor2 italic">16 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66007/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170083367946capacitacao-vigilancia-1-jpg.JPG_t_m.jpg" id="admin/img/fotos/170083367946capacitacao-vigilancia-1-jpg.JPG_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66007/1/fiscais-da-vigilancia-realizam-capacitacao-para-profissionais-do-ramo-alimenticio"><h4><font class="bold">Fiscais da Vigilância realizam capacitação para profissionais do ramo alimentício</font> <font class="cor2 italic">16 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66005/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170083351014img-4317-jpg.JPG_t_m.jpg" id="admin/img/fotos/170083351014img-4317-jpg.JPG_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66005/1/tudo-pronto-para-a-encenacao-do-nascimento-do-messias-no-centro-de-sao-bento-do-sul"><h4><font class="bold">Tudo pronto para a encenação do Nascimento do Messias no Centro de São Bento do Sul</font> <font class="cor2 italic">16 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66003/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170074952927whatsapp-image-20230506-at-18-38-56-jpg_t_m.jpg" id="admin/img/fotos/170074952927whatsapp-image-20230506-at-18-38-56-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66003/1/saobentense-segue-para-confirmar-o-titulo-do-catarinense-de-rally-4x4"><h4><font class="bold">São-bentense segue para confirmar o título do Catarinense de Rally 4x4</font> <font class="cor2 italic">2 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/66002/1/o-tempo-e-a-temperatura-muitas-nuvens-com-chuva-isolada-em-santa-catarina-nesta-quintafeira-23"><h4><font class="bold">O TEMPO E A TEMPERATURA: muitas nuvens com chuva isolada em Santa Catarina nesta quinta-feira (23)</font> <font class="cor2 italic">2 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66001/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170074934259946fa701fe5545e1bc359fc519adb34b-1-jpg_t_m.jpg" id="admin/img/fotos/170074934259946fa701fe5545e1bc359fc519adb34b-1-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66001/1/goes-se-reune-com-parlamentares-catarinenses-para-tratar-do-apoio-federal-as-cidades-afetadas-por-ch"><h4><font class="bold">Góes se reúne com parlamentares catarinenses para tratar do apoio federal às cidades afetadas por ch</font> <font class="cor2 italic">2 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/66000/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170074929772whatsapp-image-20231122-at-23-10-52-jpg_t_m.jpg" id="admin/img/fotos/170074929772whatsapp-image-20231122-at-23-10-52-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/66000/1/ibram-abre-inscricoes-para-edital-que-destina-r-4-milhoes-para-modernizacao-de-museus"><h4><font class="bold">Ibram abre inscrições para edital que destina R$ 4 milhões para modernização de museus</font> <font class="cor2 italic">2 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65998/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170074892943de-bem-com-a-vida-climaterio-ultima-edicao-do-ano-jpg_t_m.jpg" id="admin/img/fotos/170074892943de-bem-com-a-vida-climaterio-ultima-edicao-do-ano-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65998/1/-de-bem-com-a-vida-climaterio-ultima-edicao-do-ano"><h4><font class="bold">"De Bem com a Vida - Climatério": Última edição do ano</font> <font class="cor2 italic">2 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65997/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170074811251prefeito-acompanha-obras-de-drenagem-pelo-municipio-1-jpg_t_m.jpg" id="admin/img/fotos/170074811251prefeito-acompanha-obras-de-drenagem-pelo-municipio-1-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65997/1/prefeito-acompanha-obras-de-drenagem-pelo-municipio"><h4><font class="bold">Prefeito acompanha obras de drenagem pelo município</font> <font class="cor2 italic">2 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65996/1/dengue-retorno-de-cepas-acende-alerta-para-aumento-de-casos-graves-">
+																					<img class="img-responsive " src="/admin/img/fotos/170074802905unnamed-20231123t110011-249-jpg_t_m.jpg" id="admin/img/fotos/170074802905unnamed-20231123t110011-249-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65996/1/jornalista-e-escritor-catarinense-e-finalista-do-premio-jabuti-2023"><h4><font class="bold">Jornalista e escritor catarinense   é finalista do Prêmio Jabuti 2023</font> <font class="cor2 italic">2 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        			
+
+
+		</div>
+		<div class="col-sm-3">
+			<br>
+					</div>
+	</div>	
+</div>
+
+<br>    
+    
+
+    <div class="fundo8 cor7 animated fonte17 borda-top3">
+        <div class="container">
+            <div class="row">
+                                <div class="col-sm-12">
+                    <br>
+                                                            <a class="link_personalizado" href="/inicial">Inicial</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/textos/496/parceiros/0">Parceiros</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/ultimas-noticias">Notícias</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/colunistas">Colunistas</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/textos/495/sobre-nos/0">Sobre nós</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/contato">Contato</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="javascript:void($('#divBusca').fadeToggle());void($('#key').focus());"><i class="glyphicon glyphicon-search"></i></a>
+                                                            <br>
+                </div>
+                            </div>
+            <div class="row linha25 ">
+                <div class="col-sm-6">
+                    <br>
+                    <strong class="cor8">Contato</strong>
+                    <br>
+                    Fone: (47) 99660-9995<br>
+                    Celular / Whatsapp: (47) 99660-9995<br>
+                    E-mail: <a class="link_personalizado2" href="mailto:paskiba@gmail.com"><font class="cor7">paskiba<img src="/imagens/arroba2.png">gmail.com</font></a><br><br>
+                   
+                </div>
+                <div class="col-sm-6">
+                    <br>
+                                    </div>
+            </div>
+            <br>
+        </div>
+    </div>
+
+    <div class="fundo1 fonte16">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 padding10 cor7">
+                    © Copyright 2025 - Jornal Evolução Notícias de Santa Catarina                </div>
+                <div class="col-sm-4 text-right">
+                    <a id="bySamuca" href="https://www.samucawebdesign.com.br/?utm_source=bySamuca&amp;utm_medium=site&amp;utm_campaign=portfolio" target="_blank"><img src="/imagens/by_samuca.png" alt="by SAMUCA" height="35" border="0"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+     <script data-cfasync="false" type="text/javascript" id="clever-core">
+                                    (function (document, window) {
+                                        var a, c = document.createElement("script");
+
+                                        c.id = "CleverCoreLoader55397";
+                                        c.src = "//scripts.cleverwebserver.com/0a64dcdcbcd89c8d0f1540e08ec12091.js";
+
+                                        c.async = !0;
+                                        c.type = "text/javascript";
+                                        c.setAttribute("data-target", window.name);
+                                        c.setAttribute("data-callback", "put-your-callback-macro-here");
+
+                                        try {
+                                            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                                        } catch (e) {
+                                            a = !1;
+                                        }
+
+                                        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                                        a.parentNode.insertBefore(c, a);
+                                    })(document, window);
+                                </script>                             
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip(); 
+    });
+
+
+    $(document).ready(function() { 
+
+                        if($(window).width() < 768)
+                    {   
+                        $("html, body").animate({ scrollTop: $('.navPro').offset().top }, 1000);
+                    }
+                     
+
+	  var navbarToggle = '.navbar-toggle'; // name of navbar toggle, BS3 = '.navbar-toggle', BS4 = '.navbar-toggler'  
+	  $('.dropdown, .dropup').each(function() {
+	    var dropdown = $(this),
+	      dropdownToggle = $('[data-toggle="dropdown"]', dropdown),
+	      dropdownHoverAll = dropdownToggle.data('dropdown-hover-all') || false;
+	    
+	    // Mouseover
+	    dropdown.hover(function(){
+	      var notMobileMenu = $(navbarToggle).length > 0 && $(navbarToggle).css('display') === 'none';
+	      if ((dropdownHoverAll == true || (dropdownHoverAll == false && notMobileMenu))) { 
+	        dropdownToggle.trigger('click');
+	      }
+	    })
+	  });
+
+	
+
+    var whatsapp = '';
+    if($(window).width() < 768)
+    	{
+            whatsapp = 'api';
+			$('.menuCategoria').addClass('dropdown-toggle');
+			$('.menuCategoria').attr('data-toggle','dropdown');
+    	}
+    else
+        {   
+            whatsapp = 'web';
+            setInterval(function(){
+            $('#divTextoX').height($('#divTextoImg').height());
+            },100);
+
+        }
+    $('#whatsapp').attr('href','https://'+whatsapp+'.whatsapp.com/send?phone=5547996609995');
+
+
+
+        $(window).scroll(function()
+            {
+                if($(window).width() > 765)
+                    {
+                        if($(window).scrollTop() > 205)
+                            {
+                                $('#carrinhoHome').show();
+                                $("#navbar2").addClass('navbar-fixed-top');
+                                $("#navbar2").addClass('fundo2');
+                            } 
+                        else 
+                            {
+                                $('#carrinhoHome').hide();
+                                $("#navbar2").removeClass('navbar-fixed-top');
+                                $("#navbar2").removeClass('fundo2');
+                            }
+                    }
+                else
+                    {   
+                        $('#carrinhoHome').hide();
+                    }
+            });
+        $('#carrinhoHome').hide();
+
+	});
+
+    $.ajaxSetup ({
+        // Disable caching of AJAX responses
+        cache: false
+    });
+
+    </script>
+  
+</body></html>

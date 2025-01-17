@@ -1,0 +1,743 @@
+<html class="no-js" lang="pt-BR"><!--<![endif]--><head>
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=GT-WF6WS7Z"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        let tag = "GT-WF6WS7Z";
+
+        gtag('config', tag);
+    </script>
+    <meta charset="UTF-8">
+    <meta name="author" content="FAPESP">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="https://agencia.fapesp.br/assets/img/favicon.ico" type="image/x-icon">
+    
+
+    <link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/default.css">
+    <link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/asb.css">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="index, follow">
+
+            <!-- Meta Tags Redes Sociais | SEO -->
+        <meta property="og:url" content="https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127">
+        <meta property="og:title" content="Resultados de nova vacina contra a tuberculose são apresentados na FAPESP Week China">
+        <meta property="og:site_name" content="AGÊNCIA FAPESP">
+        <meta property="og:description" content="Pesquisadores do Instituto Butantan e colaboradores desvendam por que a BCG recombinante induz uma resposta mais intensa e duradoura que a vacina convencional">
+        <meta name="description" content="Pesquisadores do Instituto Butantan e colaboradores desvendam por que a BCG recombinante induz uma resposta mais intensa e duradoura que a vacina convencional">
+                <meta property="og:image" content="https://agencia.fapesp.br/files/post/52127.jpg">
+                <meta property="og:image:type" content="image/jpeg">
+        <meta name="url" content="https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127">
+        <meta name="title" content="Resultados de nova vacina contra a tuberculose são apresentados na FAPESP Week China">
+        <meta name="site_name" content="AGÊNCIA FAPESP">
+        <meta name="description" content="Pesquisadores do Instituto Butantan e colaboradores desvendam por que a BCG recombinante induz uma resposta mais intensa e duradoura que a vacina convencional">
+                <meta name="image" content="https://agencia.fapesp.br/files/post/52127.jpg">
+                <meta name="image:type" content="image/jpeg">
+                <meta name="keywords" content="biotecnologia, vacina BCG, tuberculose, coqueluche, biologia de sistemas, Instituto Butantan">
+                <title>Resultados de nova vacina contra a tuberculose são apresentados na FAPESP Week China</title>
+    
+
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="hAdepBzbf5GpA3UxLu2ExZ28uqJNqGtZ4r4uTxER">
+    <script>
+        window.baseUrl = "https://agencia.fapesp.br/";
+    </script>
+    <script>
+        function redirect(pg, id) {
+            location.href = '/' + pg + '/' + id;
+        }
+
+        function redirectPG(pg) {
+            location.href = pg;
+        }
+    </script>
+    <style>.app{min-height:100%;overflow:hidden}.LabelMobil1{display:none!important}.SpaceImg{display:none}.col-sm-9{-ms-flex:0 0 70%;flex:0 0 70%;max-width:70%}.col-sm-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:23%}.col-sm-12{float:left}.position-relative{position:relative!important}.d-flex{display:-ms-flexbox!important;display:flex!important}.justify-content-center{-ms-flex-pack:center!important;justify-content:center!important}.align-items-center{-ms-flex-align:center!important;align-items:center!important}.preloader{background-color:#f7f7f7;width:100%;height:100%;position:fixed;top:0;left:0;right:0;bottom:0;z-index:999999;-webkit-transition:.6s;transition:.6s;margin:0 auto}.preloader .preloader-circle{width:100px;height:100px;position:relative;border-style:solid;border-width:1px;border-color:#2a2a2a transparent transparent;z-index:10;border-radius:50%;-webkit-box-shadow:0 1px 5px 0 rgba(35,181,185,.15);box-shadow:0 1px 5px 0 rgba(35,181,185,.15);-webkit-animation:2s infinite zoom;animation:2s infinite zoom;-webkit-transition:.6s;transition:.6s;background:#e77036}.preloader .preloader-circle2{border-top-color:#0078ff}.preloader .preloader-img{position:absolute;top:50%;z-index:200;left:0;right:0;margin:0 auto;text-align:center;display:inline-block;-webkit-transform:translateY(-50%);transform:translateY(-50%);padding-top:6px;-webkit-transition:.6s;transition:.6s}.preloader .preloader-img img{max-width:80px}.preloader .pere-text strong{font-weight:800;color:#dca73a;text-transform:uppercase}@media (min-width:768px){.col-md{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}}</style>
+    
+    <meta property="og:site_name" content="Agência Fapesp">
+</head>
+
+<body>
+
+    <div class="app">
+    <header>
+        <!-- Header Start -->
+        
+        <!-- Preloader Start-->
+
+<div id="preloader-active">
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="preloader-inner position-relative">
+            <div class="preloader-circle"></div>
+            <div class="preloader-img pere-text">
+                <img src="https://agencia.fapesp.br/assets/img/logo/logo-load.webp" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Preloader Start -->
+<!-- Header Start -*- -->
+<div>
+    <div class="header-area">
+
+        <div class="main-header ">
+            <div class="container">
+                <div class="row d-flex align-items-center">
+                    <div class="container">
+                        <div class="row LabelMobil" style="margin: 15px 0px;">
+                            <div class="col-md-4" style="text-align:center"><a href="https://centrodememoria.fapesp.br/"><img alt="Centro de Memória" src="https://agencia.fapesp.br/files/upload/51842/centrodememoria.jpg"> </a></div>
+
+<div class="col-md-4" style="text-align:center"><a href="https://agencia.fapesp.br/retrospectiva-agencia-fapesp-2024/53608" target=""><img alt="" src="https://agencia.fapesp.br/files/upload/51842/bannerretrospectiva1.jpg" style="height:67px; width:232px"> </a></div>
+
+<div class="col-md-3" style="text-align:center"><a href="https://agencia.fapesp.br/diario-de-campo"><img alt="Diário de campo" src="https://fapesp.br/files/upload/15677/dcampo.jpg"> </a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-bottom header-sticky" style="display: flex;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col p-0">
+                            <!-- sticky -->
+                            <div class="sticky-logo">
+                                <div class="row">
+                                    <div class="col-2">
+                                        <a href="https://agencia.fapesp.br" alt="Fapesp"><img src="https://agencia.fapesp.br/assets/img/logo/logo_mobile.jpg" class="CompLogoMobil" alt="Fapesp"></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Main-menu -->
+                            <div class="main-menu d-none d-md-flex">
+                                <div>
+                                    <a href="https://agencia.fapesp.br"><img src="https://agencia.fapesp.br/assets/img/logo/logo_desk.jpg" class="CompLogo" alt="Fapesp"></a>
+                                </div>
+                                <ul id="navigation" class="d-md-flex NavComp">
+
+                                <li class="LabelMobil1"><a href="https://agencia.fapesp.br">Início</a></li>
+                                <li>
+                                                                        <a alt="Notícias" aria-label="Notícias">Notícias</a>
+                                     <!-- <li class="EspacoMenu  EspacoMenu2 itemMenuSub"> -->
+                                            <ul class="submenu">
+                                                <li><a href="https://agencia.fapesp.br/noticias" alt="Todas as Notícias">Todas as Notícias</a></li>
+                                                <li><a href="https://agencia.fapesp.br/centro-de-memoria-fapesp" alt="CENTRO DE MEMÓRIA FAPESP">Centro de Memória FAPESP</a></li>
+                                                <li><a href="https://agencia.fapesp.br/radar-dos-campi" alt="Radar dos campi">Radar dos <i>campi</i></a></li>
+                                                <li><a href="https://agencia.fapesp.br/diario-de-campo" alt="Diário de Campo">Diário de Campo</a></li>
+                                                <li><a href="https://agencia.fapesp.br/diario-de-bordo" alt="Diário de Bordo">Diário de Bordo</a></li>
+                                                <li><a href="https://agencia.fapesp.br/covid-19" alt="COVID-19">COVID-19</a></li>
+                                                <li><a href="https://agencia.fapesp.br/webinars-covid-19" alt="Webinars COVID-19">Webinars COVID-19</a></li>
+                                            </ul>
+                                    </li>
+                                    
+                                    <li><a href="https://www.youtube.com/channel/UC4Ml9MsL-7hKKGlhcAtMwDg">Vídeos</a></li>
+                                                                        <li><a href="https://agencia.fapesp.br/agenda">Agenda</a></li>
+                                    <li><a href="https://agencia.fapesp.br/oportunidades">Oportunidades</a></li>
+                                                                        <li><a href="https://agencia.fapesp.br/assine">Assine</a></li>
+                                    <li class="LabelMobil1">
+                                        <div>
+                                            <!-- <form action="/pesquisa" id="form-search" method="get"> -->
+                                                <form action="https://agencia.fapesp.br/pesquisa" id="form-search" method="get">
+                                                <div class="input-group md-form form-sm form-1 pl-0 FormSearchMobil">
+                                                    <div class="input-group-prepend">
+                                                        <span class="input-group-text purple lighten-3 IconSearch" id="basic-text1">
+                                                            <button type="submit" name="searchBtn" id="searchBtn" class="BordeSearchBtn">
+                                                                <i class="fas fa-search text-white Text-Black" aria-hidden="true"></i>
+                                                            </button>
+                                                        </span>
+                                                    </div>
+                                                    <input type="text" class="form-control my-0 py-1 InputSearch" name="k" id="searchInput" placeholder="Pesquise..." aria-label="Search">
+                                                    <div>
+                                                        <span class="input-group-text purple lighten-3 IconSearch" id="basic-text1">
+                                                                <i class="fa fa-angle-right text-white Text-Black" aria-hidden="true"></i>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </li>
+                                                                        <li class="LabelMobil1"><a href="https://agencia.fapesp.br/en"><span>English</span></a></li>                                    <li class="LabelMobil1"><a href="https://agencia.fapesp.br/es"><span>Español</span></a></li>                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-auto p-0">
+                            <div class="d-none d-lg-block">
+                                <!-- Heder social -->
+                                <ul class="header-social">
+                                    <li><a href="https://www.instagram.com/agenciafapesp/" aria-label="Instagram" alt="Instagram"><i class="fab fa-instagram LabelRede"></i></a></li>
+                                    <li> <a href="https://www.youtube.com/channel/UC4Ml9MsL-7hKKGlhcAtMwDg" aria-label="Youtube" alt="Youtube"><i class="fab fa-youtube LabelRede"></i></a></li>
+                                    <li><a href="https://www.facebook.com/pages/Ag%C3%AAncia-FAPESP/256316551067453" aria-label="FaceBook" alt="FaceBook"><i class="fab fa-facebook-f LabelRede"></i></a></li>
+                                    <li><a href="https://bsky.app/profile/agenciafapesp.bsky.social" aria-label="BlueSky" alt="BlueSky"><i class="fa-brands fa-bluesky LabelRede"></i></a></li>
+                                    <li><a href="https://twitter.com/AgenciaFAPESP" aria-label="Twitter" alt="Twitter" class="pd-0-t"><i class="fab fa-x-twitter LabelRede"></i></a></li>
+                                    <li> <a href="#" onclick="Show(1,'BoxCalender')" aria-label="Calendário" alt="Calendário"> <i class="fa fa-calendar LabelRede" aria-hidden="true"></i></a>
+                                        <div id="BoxCalender" class="box_option Box_Calender search None">
+                                            <span class="seta_box sprite"></span>
+                                            <div class="wrap_input_busca_mobile">
+                                                <div id="container" class="calendar-container"></div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li> <a href="https://agencia.fapesp.br/contato" aria-label="Contato" alt="Contato"> <i class="far fa-envelope LabelRede" aria-hidden="true"></i></a></li>
+                                    <li> <a href="#" onclick="Show(1,'BoxGlobe')" aria-label="Idioma" alt="Idioma"> <i class="fas fa-globe LabelRede" aria-hidden="true"></i></a>
+
+                                        <div id="BoxGlobe" class="box_option box_Globe search None">
+                                            <span class="seta_box sprite"></span>
+                                            <div class="wrap_input_busca_mobile">
+                                                                                                                                                                                                                                     <a href="https://agencia.fapesp.br/es " class="link_lang es  Text-Black" aria-label="Español" alt="Español">Español</a><br>                                                <a href="https://agencia.fapesp.br/en" class="link_lang en Text-Black" aria-label="English" alt="English">English</a>                                            </div>
+                                        </div>
+                                    </li>
+                                    <li> <a href="#" onclick="Show(1,'CXSearch')" aria-label="Pesquise" alt="Pesquise"> <i class="fa fa-search LabelRede" aria-hidden="true"></i></a>
+                                        <div id="CXSearch" class="box_option search None">
+                                            <span class="seta_box sprite"></span>
+                                            <div class="wrap_input_busca_mobile">
+                                                <form action="https://agencia.fapesp.br/pesquisa" method="get">
+                                                    <input type="text" class="input search" name="k" placeholder="Pesquise">
+                                                    <input type="submit" class="ok" value="OK">
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                                
+                                
+                            </div>
+                            
+                        </div>
+                        <!-- Mobile Menu -->
+                        <div class="col-12">
+                            <div class="mobile_menu d-block d-md-none"></div>
+                        </div>
+                    </div>
+                </div>
+            
+</div>
+
+        </div>
+    </div>
+</div>
+<style>
+
+.pd-0-t{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+.h3 {
+  position: relative;
+  font-family: "Arial Narrow Bold", Helvetica, sans-serif;
+  color: #e67036;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.h3 a {
+  color: #e67036;
+  text-decoration: none;
+}
+
+.h3 a:hover {
+  color: #e67036;
+}
+
+.h4 {
+    position: relative;
+    font-family: "Arial Narrow", Helvetica, sans-serif;
+    color: #666666;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: italic;
+    margin: 0 0 3%;
+}
+</style>
+
+
+
+
+    </header>
+        <div class="compartilhamento LabelMobil">
+        <ul>
+        <li>
+                <!--
+                    <a href="https://wa.me/?text=https://agencia.fapesp.br/inovacao-na-industria-e-essencial-para-o-crescimento-economico-do-brasil/38214/" title="WhatsApp">
+                    <i class="fa-brands fa-fw fa-whatsapp"></i>
+                </a> -->
+                <a href="https://api.whatsapp.com/send?text=*Agência Fapesp* https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="WhatsApp">
+                    <i class="fa-brands fa-fw fa-whatsapp"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/?url=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="Instagram">
+                    <i class="fa-brands fa-fw fa-instagram"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="Facebook">
+                    <i class="fa-brands fa-fw fa-facebook-f"></i>
+                </a>
+            </li>
+
+            <li>
+                <a href="https://bsky.app/profile/agenciafapesp.bsky.social" title="BlueSky">
+                    <i class="fa-brands fa-bluesky"></i>
+                </a>
+            </li>
+
+            <li>
+                <a href="https://twitter.com/intent/tweet?url=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="Twitter"> 
+                    <!-- <i class="fa-brands fa-fw fa-twitter"></i> -->
+                    <i class="fa-brands fa-fw fa-x-twitter"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/cws/share?url=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="LinkedIn">
+                    <i class="fa-brands fa-fw fa-linkedin-in"></i>
+                </a>
+            </li>
+         </ul>
+    </div>
+    
+<style>
+    .translations {
+        float: right;
+        margin-right: 20px;
+    }
+
+    .translations a {
+        color: #fff;
+        background: #9ca2a7;
+        padding: 5px;
+        border-radius: 6px;
+        font-size: 13px;
+        margin-right: 4px;
+        opacity: 1;
+        transition: 0.3s;
+    }
+
+    .translations a:hover {
+        opacity: 0.6;
+    }
+</style>
+
+
+
+<!-- ID::  52127 -->
+<div class="aligInternaNoticia">&nbsp;</div>
+<div class="container" id="textNews">
+    <div class="row">
+        <div class="col-md-11 aligInterna">
+            <div class="Contraste card mb-6 AjusteResposivo" style="border: 0px solid rgba(0, 0, 0, .125);">
+                <div class="card-body clickSelect">
+                    <div class="LabelMobil">
+                                                <div class="imgTextLeft">
+                            <img src="https://agencia.fapesp.br/lib/photo.php?src=https://agencia.fapesp.br/files/post/52127.jpg&amp;w=450" class="img-fluid">
+                            <p class="Legenda">À esquerda, pulmão de camundongo não imunizado e infectado com <i>M. tuberculosis</i>; à direita, pulmão dos animais imunizado com a vacina BCG recombinante e posteriormente infectados (<i>crédito: Instituto Butantan</i>)</p>
+                        </div>
+                                            </div>
+                    <div class="card-text">
+                        <!-- Desktop -->
+                        <div class="LabelMobil">
+                                                        <div class="RetracaInterna">
+                                <span> FAPESP Week China</span>
+                            </div>
+                            
+                            <span class="tituloInterna">Resultados de nova vacina contra a tuberculose são apresentados na FAPESP Week China</span><br>
+                            <div class="flex-left-right flex-Mob ">
+                                <!-- data:: 04 de julho de 2024 -->
+                                <em class="h4 h4-pd-int  text-normal">
+                                    04 de julho de 2024
+                                </em>
+                                <div class="flex-wd">
+                                                                                                                <a class="btn btn-primary btn-trans-comp" href="https://agencia.fapesp.br/52129">EN</a>
+                                                                                                                <a class="btn btn-primary btn-trans-comp" href="https://agencia.fapesp.br/52172">ES</a>
+                                                                        </div>
+                            </div>
+
+                            <p class="summary">Pesquisadores do Instituto Butantan e colaboradores desvendam por que a BCG recombinante induz uma resposta mais intensa e duradoura que a vacina convencional</p>
+
+                        </div>
+
+                        <!-- Mobil -->
+                        <div class="LabelMobil1">
+                                                        <div class="RetracaInterna">
+                                <span> FAPESP Week China</span>
+                            </div>
+                                                        <span class="tituloInterna">Resultados de nova vacina contra a tuberculose são apresentados na FAPESP Week China</span><br>
+                            <p class="p-int-resumo summary ">Pesquisadores do Instituto Butantan e colaboradores desvendam por que a BCG recombinante induz uma resposta mais intensa e duradoura que a vacina convencional</p>
+
+                            <div class="flex-left-right flex-Mob ">
+                                <em class="h4 h4-pd-int  text-normal">
+                                    04 de julho de 2024
+                                </em>
+                                <div class="flex-wd">
+                                                                                                                <a class="btn btn-primary btn-trans-comp" href="https://agencia.fapesp.br/52129">EN</a>
+                                                                                                                <a class="btn btn-primary btn-trans-comp" href="https://agencia.fapesp.br/52172">ES</a>
+                                                                        </div>
+                            </div>
+                            <!-- <em class="h4 h4-pd-int">
+                                04 de julho de 2024
+                            </em>
+                            <div style="width: 85px;">
+                                                                                                            <a class="btn btn-primary btn-trans-comp" href="https://agencia.fapesp.br/52129">EN</a>
+                                                                                                                            <a class="btn btn-primary btn-trans-comp" href="https://agencia.fapesp.br/52172">ES</a>
+                                                                        </div> -->
+                                                        <div class="imgTextLeft imgTextLeft-Res">
+                                <img src="https://agencia.fapesp.br/files/post/52127.jpg" class="img-fluid">
+
+                                    <p class="Legenda">À esquerda, pulmão de camundongo não imunizado e infectado com <i>M. tuberculosis</i>; à direita, pulmão dos animais imunizado com a vacina BCG recombinante e posteriormente infectados (<i>crédito: Instituto Butantan</i>)</p>
+
+                            </div>
+                                                    </div>
+                    </div>
+                    <!-- Apenas quando for Mobil-->
+                    <p class="Esp-p-int LabelMobil1">&nbsp;</p>
+                    <div class="compartilhamento LabelMobil1">
+    <ul>
+        <li>
+            <a href="https://api.whatsapp.com/send?text=*Agência Fapesp* https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="WhatsApp">
+                <i class="fa-brands fa-fw fa-whatsapp"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/?url=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="Instagram">
+                <i class="fa-brands fa-fw fa-instagram"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="Facebook">
+                <i class="fa-brands fa-fw fa-facebook-f"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://bsky.app/profile/agenciafapesp.bsky.social" title="BlueSky">
+                <i class="fa-brands fa-bluesky"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?url=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="Twitter">
+                <!-- <i class="fa-brands fa-fw fa-twitter"></i> -->
+                <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome  - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#fafafa}</style><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/cws/share?url=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="LinkedIn">
+                <i class="fa-brands fa-fw fa-linkedin-in"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/cws/share?url=https://agencia.fapesp.br/resultados-de-nova-vacina-contra-a-tuberculose-sao-apresentados-na-fapesp-week-china/52127" title="LinkedIn">
+                EN
+            </a>
+        </li>
+    </ul>
+</div>
+                    
+                    <div class="linhas">
+
+                                        <p><strong>Karina Toledo, de Shenzhen | Agência FAPESP</strong> – Pesquisadores do Instituto Butantan e colaboradores estão desenvolvendo uma versão mais potente da vacina BCG, que protege contra a tuberculose. Enquanto o imunizante convencional reduziu em 90% a infecção nos experimentos com camundongos, com a chamada BCG recombinante o índice de proteção subiu para 99%. Além disso, a nova formulação protegeu os animais por um período significativamente mais longo.</p>
+
+<p>“A BCG é a primeira vacina que recebemos ao nascer e ela de fato é efetiva na proteção de crianças. Mas a imunidade contra a doença tende a cair na vida adulta e, como as bactérias estão se tornando resistentes aos antibióticos, ninguém está seguro. Tem sido feito um esforço mundial para tentar melhorar a prevenção da tuberculose pulmonar adulta. Hoje são registrados cerca de 10 milhões de novos casos e 1,5 milhão de mortes por ano no mundo”, diz à <strong>Agência FAPESP</strong> <strong><a href="https://bv.fapesp.br/pt/pesquisador/254/luciana-cezar-de-cerqueira-leite" target="_blank">Luciana Cezar de Cerqueira Leite</a></strong>, pesquisadora do Laboratório de Desenvolvimento de Vacinas do Butantan <strong><a href="https://bv.fapesp.br/pt/auxilios/101871/desenvolvimento-de-vacinas-baseadas-em-bcg-recombinante-tuberculose-pertussis-pneumococo-e-schistoso/" target="_blank">apoiada</a></strong> pela FAPESP.</p>
+
+<p>Para entender por que a BCG recombinante leva a uma resposta imune mais intensa e duradoura, o grupo do Butantan e colaboradores de diversos países têm adotado uma abordagem conhecida como biologia de sistemas – que resumidamente consiste em observar no modelo animal o comportamento de milhares de genes, em diferentes tecidos (principalmente pulmão e linfonodos), ao longo de toda a montagem da resposta imune. Tal empreitada envolve o sequenciamento de centenas de amostras, seguido por um intenso trabalho de bioinformática e mineração de dados.</p>
+
+<p>O tema foi abordado por Cerqueira Leite no dia 29 de junho, durante palestra apresentada na <strong><a href="https://fapesp.br/week/2024/china" target="_blank">FAPESP Week China</a></strong>. O painel, dedicado a temas de saúde e biomedicina, também contou com a participação de Zhang Zhiyong, da Universidade de Medicina de Guangzhou; <strong><a href="https://bv.fapesp.br/pt/pesquisador/66529/" target="_blank">Pedro Moraes-Vieira</a></strong>, da Universidade Estadual de Campinas (Unicamp); Xin Jin, cientista-chefe de Pesquisa da empresa chinesa BGI; e Dan Zhang, cofundador da empresa Hillgene BioPharma, também da China. Os mediadores foram Xin Jin (BGI) e <strong><a href="https://bv.fapesp.br/en/pesquisador/3032/simone-appenzeller/" target="_blank">Simone Appenzeller</a></strong> (Unicamp).</p>
+
+<p>“A gente sequenciou todo o RNA que foi expresso e está presente em amostras coletadas em vários momentos: antes de o animal ser imunizado, sete e 90 dias após a imunização – quando é feito o desafio [a bactéria é inoculada no nariz dos roedores] – e sete e 90 dias após o desafio”, conta Cerqueira Leite.</p>
+
+<p>Foram comparadas amostras de três grupos de camundongos: um não imunizado, outro que recebeu a BCG convencional e um terceiro vacinado com a BCG recombinante. Em cada momento de análise, foram comparados quais genes estavam com a expressão aumentada ou diminuída nos diferentes grupos.</p>
+
+<p>“Já com sete dias de imunização foi possível ver uma mudança bem grande no grupo que recebeu a versão recombinante: cerca de 200 genes já estão sendo ativados, enquanto no grupo da BCG convencional ainda não estava acontecendo quase nada. Depois de 90 dias, a resposta à BCG convencional já começa a cair, enquanto no grupo recombinante ela se mantém. Mas a grande novidade é que as duas vacinas atuam por caminhos metabólicos bem diferentes e nós conseguimos mapeá-los. Os dados serão publicados em breve”, revela a pesquisadora.</p>
+
+<p style="text-align:center"><img alt="" src="https://agencia.fapesp.br/files/upload/52127/luciana.jpg" style="height:375px; width:700px"><br>
+<span style="font-size:10px">Luciana Cezar de Cerqueira Leite, do Instituto Butantan, durante palestra apresentada na FAPESP Week China (<em>foto: Karina Toledo/Agência FAPESP</em>)</span></p>
+
+<p><strong>Bactéria turbinada</strong></p>
+
+<p>Onipresente nas maternidades brasileiras, a vacina BCG foi criada há mais de cem anos a partir da atenuação da bactéria causadora da tuberculose bovina (<em>Mycobacterium bovis</em>), que é muito parecida com a da tuberculose humana (<em>M. tuberculosis</em>).</p>
+
+<p>Já a versão recombinante “ganhou”, por engenharia genética, a capacidade de produzir um fragmento de uma toxina originalmente secretada pela <em>Escherichia coli</em>, espécie bacteriana comumente presente no intestino humano.</p>
+
+<p>“Algumas bactérias <em>E. coli</em> produzem toxinas sensíveis ao calor, conhecidas pela sigla LT [do inglês <em>heat-labile toxin</em>], que são altamente imunogênicas, isto é, induzem uma forte resposta do sistema imune. Na vacina recombinante nós usamos um fragmento detoxificado LT [denominado LTAK63]. Ele não é capaz de causar doença, mas mantém a imunogenicidade, então funciona como um adjuvante da vacina BCG”, explica Cerqueira Leite.</p>
+
+<p>Segundo a pesquisadora, os primeiros estudos usando a estratégia de BCG recombinante visavam o desenvolvimento de uma vacina neonatal contra a coqueluche. “Isso porque a BCG pode ser dada ao nascimento, enquanto o imunizante atualmente disponível contra a coqueluche [a vacina tríplice bacteriana, ou DTP] só oferece proteção a partir dos seis meses de idade. Nesse caso, usamos um fragmento da toxina produzida pela bactéria da coqueluche [<em>Bordetella pertussis</em>]”, relata.</p>
+
+<p>Diante dos resultados promissores, a mesma plataforma vem sendo empregada na busca de novas e melhores vacinas contra coqueluche, tuberculose, pneumonia (causada por <em>Streptococcus pneumoniae</em> ou pneumococo) e esquistossomose, bem como no tratamento do câncer de bexiga (caso em que se usa a vacina para “acordar” o sistema imune, estimulando-o a atacar o tumor).</p>
+
+<p>Nos experimentos feitos com o modelo animal de tuberculose, observou-se que a BCG recombinante reduz em cem vezes a quantidade de bactéria no pulmão e também diminui a inflamação no órgão. “Ao tentar matar a bactéria, as células de defesa acabam atacando tudo o que está por perto e causam lesão nos tecidos. Mas o pulmão dos animais imunizados com a BCG recombinante é branquinho, menos inflamado. Agora, ao detalhar o mecanismo de ação das duas vacinas, a gente entende por que isso acontece”, diz Cerqueira Leite.</p>
+
+<p>Toda a parte de sequenciamento de RNA foi conduzida em Shenzhen, na China, pela empresa BGI, que presta serviços de genômica para laboratórios de todo o mundo. Colaboraram nos estudos pesquisadores do Shenzhen Institute of Advanced Technology, da Universidade de São Paulo (USP), Faculdade Israelita de Ciências da Saúde Albert Einstein, Fundação Oswaldo Cruz (Fiocruz) da Bahia, das farmacêuticas Novartis e GSK, do Institut Pasteur e da Universidade Federal de Goiânia (UFG), entre outros parceiros.</p>
+
+<p>Antes de iniciar os estudos clínicos, o grupo pretende fazer mais uma rodada de testes em bovinos. Segundo Cerqueira Leite, a expectativa é que produção dos lotes experimentais do imunizante ocorra em 2025 e que os ensaios comecem no ano seguinte. “Em humanos poderíamos iniciar em seguida, mas será mais caro e precisaremos conseguir o financiamento.”</p>
+
+<p>Para saber mais sobre a FAPESP Week China acesse: <strong><a href="https://fapesp.br/week/2024/china" target="_blank">fapesp.br/week/2024/china</a></strong>.<br>
+&nbsp;</p>
+                    </div>
+
+                    <div id="main">
+    <div class="grid clearfix">
+
+        <a href="javascript:;" class="link-republish">
+            <span>
+                <i class="icon">&nbsp;</i>
+                Republicar
+            </span>
+        </a>
+
+        <div id="cc-republish">
+            <div class="cc-republish-popup">
+                <a href="javascript:;" class="close">&nbsp;</a>
+
+                <h1>Republicar</h1>
+                <p>A Agência FAPESP licencia notícias via Creative Commons (<a href="https://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-ND</a>) para que possam ser republicadas gratuitamente e de forma simples por outros veículos digitais ou impressos. A Agência FAPESP deve ser creditada como a fonte do conteúdo que está sendo republicado e o nome do repórter (quando houver) deve ser atribuído. O uso do botão HMTL abaixo permite o atendimento a essas normas, detalhadas na <a href="https://agencia.fapesp.br/politica-de-republicacao-da-agencia-fapesp/30159/">Política de Republicação Digital</a> FAPESP.</p>
+
+                <hr>
+
+                <div class="buttons">
+                    <button class="republish-code-type" data-type="text">Copiar Texto</button>
+                    <button class="republish-code-type actived" data-type="html">HTML</button>
+                </div>
+                <div class="texts">
+                    <textarea class="republish-code" data-rel="text" readonly="true" onclick="$(this).select()">Agência FAPESP* –Karina Toledo, de Shenzhen | Agência FAPESP – Pesquisadores do Instituto Butantan e colaboradores estão desenvolvendo uma versão mais potente da vacina BCG, que protege contra a tuberculose. Enquanto o imunizante convencional reduziu em 90% a infecção nos experimentos com camundongos, com a chamada BCG recombinante o índice de proteção subiu para 99%. Além disso, a nova formulação protegeu os animais por um período significativamente mais longo.
+
+“A BCG é a primeira vacina que recebemos ao nascer e ela de fato é efetiva na proteção de crianças. Mas a imunidade contra a doença tende a cair na vida adulta e, como as bactérias estão se tornando resistentes aos antibióticos, ninguém está seguro. Tem sido feito um esforço mundial para tentar melhorar a prevenção da tuberculose pulmonar adulta. Hoje são registrados cerca de 10 milhões de novos casos e 1,5 milhão de mortes por ano no mundo”, diz à Agência FAPESP Luciana Cezar de Cerqueira Leite, pesquisadora do Laboratório de Desenvolvimento de Vacinas do Butantan apoiada pela FAPESP.
+
+Para entender por que a BCG recombinante leva a uma resposta imune mais intensa e duradoura, o grupo do Butantan e colaboradores de diversos países têm adotado uma abordagem conhecida como biologia de sistemas – que resumidamente consiste em observar no modelo animal o comportamento de milhares de genes, em diferentes tecidos (principalmente pulmão e linfonodos), ao longo de toda a montagem da resposta imune. Tal empreitada envolve o sequenciamento de centenas de amostras, seguido por um intenso trabalho de bioinformática e mineração de dados.
+
+O tema foi abordado por Cerqueira Leite no dia 29 de junho, durante palestra apresentada na FAPESP Week China. O painel, dedicado a temas de saúde e biomedicina, também contou com a participação de Zhang Zhiyong, da Universidade de Medicina de Guangzhou; Pedro Moraes-Vieira, da Universidade Estadual de Campinas (Unicamp); Xin Jin, cientista-chefe de Pesquisa da empresa chinesa BGI; e Dan Zhang, cofundador da empresa Hillgene BioPharma, também da China. Os mediadores foram Xin Jin (BGI) e Simone Appenzeller (Unicamp).
+
+“A gente sequenciou todo o RNA que foi expresso e está presente em amostras coletadas em vários momentos: antes de o animal ser imunizado, sete e 90 dias após a imunização – quando é feito o desafio [a bactéria é inoculada no nariz dos roedores] – e sete e 90 dias após o desafio”, conta Cerqueira Leite.
+
+Foram comparadas amostras de três grupos de camundongos: um não imunizado, outro que recebeu a BCG convencional e um terceiro vacinado com a BCG recombinante. Em cada momento de análise, foram comparados quais genes estavam com a expressão aumentada ou diminuída nos diferentes grupos.
+
+“Já com sete dias de imunização foi possível ver uma mudança bem grande no grupo que recebeu a versão recombinante: cerca de 200 genes já estão sendo ativados, enquanto no grupo da BCG convencional ainda não estava acontecendo quase nada. Depois de 90 dias, a resposta à BCG convencional já começa a cair, enquanto no grupo recombinante ela se mantém. Mas a grande novidade é que as duas vacinas atuam por caminhos metabólicos bem diferentes e nós conseguimos mapeá-los. Os dados serão publicados em breve”, revela a pesquisadora.
+
+
+Luciana Cezar de Cerqueira Leite, do Instituto Butantan, durante palestra apresentada na FAPESP Week China (foto: Karina Toledo/Agência FAPESP)
+
+Bactéria turbinada
+
+Onipresente nas maternidades brasileiras, a vacina BCG foi criada há mais de cem anos a partir da atenuação da bactéria causadora da tuberculose bovina (Mycobacterium bovis), que é muito parecida com a da tuberculose humana (M. tuberculosis).
+
+Já a versão recombinante “ganhou”, por engenharia genética, a capacidade de produzir um fragmento de uma toxina originalmente secretada pela Escherichia coli, espécie bacteriana comumente presente no intestino humano.
+
+“Algumas bactérias E. coli produzem toxinas sensíveis ao calor, conhecidas pela sigla LT [do inglês heat-labile toxin], que são altamente imunogênicas, isto é, induzem uma forte resposta do sistema imune. Na vacina recombinante nós usamos um fragmento detoxificado LT [denominado LTAK63]. Ele não é capaz de causar doença, mas mantém a imunogenicidade, então funciona como um adjuvante da vacina BCG”, explica Cerqueira Leite.
+
+Segundo a pesquisadora, os primeiros estudos usando a estratégia de BCG recombinante visavam o desenvolvimento de uma vacina neonatal contra a coqueluche. “Isso porque a BCG pode ser dada ao nascimento, enquanto o imunizante atualmente disponível contra a coqueluche [a vacina tríplice bacteriana, ou DTP] só oferece proteção a partir dos seis meses de idade. Nesse caso, usamos um fragmento da toxina produzida pela bactéria da coqueluche [Bordetella pertussis]”, relata.
+
+Diante dos resultados promissores, a mesma plataforma vem sendo empregada na busca de novas e melhores vacinas contra coqueluche, tuberculose, pneumonia (causada por Streptococcus pneumoniae ou pneumococo) e esquistossomose, bem como no tratamento do câncer de bexiga (caso em que se usa a vacina para “acordar” o sistema imune, estimulando-o a atacar o tumor).
+
+Nos experimentos feitos com o modelo animal de tuberculose, observou-se que a BCG recombinante reduz em cem vezes a quantidade de bactéria no pulmão e também diminui a inflamação no órgão. “Ao tentar matar a bactéria, as células de defesa acabam atacando tudo o que está por perto e causam lesão nos tecidos. Mas o pulmão dos animais imunizados com a BCG recombinante é branquinho, menos inflamado. Agora, ao detalhar o mecanismo de ação das duas vacinas, a gente entende por que isso acontece”, diz Cerqueira Leite.
+
+Toda a parte de sequenciamento de RNA foi conduzida em Shenzhen, na China, pela empresa BGI, que presta serviços de genômica para laboratórios de todo o mundo. Colaboraram nos estudos pesquisadores do Shenzhen Institute of Advanced Technology, da Universidade de São Paulo (USP), Faculdade Israelita de Ciências da Saúde Albert Einstein, Fundação Oswaldo Cruz (Fiocruz) da Bahia, das farmacêuticas Novartis e GSK, do Institut Pasteur e da Universidade Federal de Goiânia (UFG), entre outros parceiros.
+
+Antes de iniciar os estudos clínicos, o grupo pretende fazer mais uma rodada de testes em bovinos. Segundo Cerqueira Leite, a expectativa é que produção dos lotes experimentais do imunizante ocorra em 2025 e que os ensaios comecem no ano seguinte. “Em humanos poderíamos iniciar em seguida, mas será mais caro e precisaremos conseguir o financiamento.”
+
+Para saber mais sobre a FAPESP Week China acesse: fapesp.br/week/2024/china.
+&nbsp;</textarea>
+                    <textarea class="republish-code selected" data-rel="html" readonly="true" onclick="$(this).select()">&lt;p&gt;&lt;strong&gt;Karina Toledo, de Shenzhen | Agência FAPESP&lt;/strong&gt; – Pesquisadores do Instituto Butantan e colaboradores estão desenvolvendo uma versão mais potente da vacina BCG, que protege contra a tuberculose. Enquanto o imunizante convencional reduziu em 90% a infecção nos experimentos com camundongos, com a chamada BCG recombinante o índice de proteção subiu para 99%. Além disso, a nova formulação protegeu os animais por um período significativamente mais longo.&lt;/p&gt;
+
+&lt;p&gt;“A BCG é a primeira vacina que recebemos ao nascer e ela de fato é efetiva na proteção de crianças. Mas a imunidade contra a doença tende a cair na vida adulta e, como as bactérias estão se tornando resistentes aos antibióticos, ninguém está seguro. Tem sido feito um esforço mundial para tentar melhorar a prevenção da tuberculose pulmonar adulta. Hoje são registrados cerca de 10 milhões de novos casos e 1,5 milhão de mortes por ano no mundo”, diz à &lt;strong&gt;Agência FAPESP&lt;/strong&gt; &lt;strong&gt;&lt;a href="https://bv.fapesp.br/pt/pesquisador/254/luciana-cezar-de-cerqueira-leite" target="_blank"&gt;Luciana Cezar de Cerqueira Leite&lt;/a&gt;&lt;/strong&gt;, pesquisadora do Laboratório de Desenvolvimento de Vacinas do Butantan &lt;strong&gt;&lt;a href="https://bv.fapesp.br/pt/auxilios/101871/desenvolvimento-de-vacinas-baseadas-em-bcg-recombinante-tuberculose-pertussis-pneumococo-e-schistoso/" target="_blank"&gt;apoiada&lt;/a&gt;&lt;/strong&gt; pela FAPESP.&lt;/p&gt;
+
+&lt;p&gt;Para entender por que a BCG recombinante leva a uma resposta imune mais intensa e duradoura, o grupo do Butantan e colaboradores de diversos países têm adotado uma abordagem conhecida como biologia de sistemas – que resumidamente consiste em observar no modelo animal o comportamento de milhares de genes, em diferentes tecidos (principalmente pulmão e linfonodos), ao longo de toda a montagem da resposta imune. Tal empreitada envolve o sequenciamento de centenas de amostras, seguido por um intenso trabalho de bioinformática e mineração de dados.&lt;/p&gt;
+
+&lt;p&gt;O tema foi abordado por Cerqueira Leite no dia 29 de junho, durante palestra apresentada na &lt;strong&gt;&lt;a href="https://fapesp.br/week/2024/china" target="_blank"&gt;FAPESP Week China&lt;/a&gt;&lt;/strong&gt;. O painel, dedicado a temas de saúde e biomedicina, também contou com a participação de Zhang Zhiyong, da Universidade de Medicina de Guangzhou; &lt;strong&gt;&lt;a href="https://bv.fapesp.br/pt/pesquisador/66529/" target="_blank"&gt;Pedro Moraes-Vieira&lt;/a&gt;&lt;/strong&gt;, da Universidade Estadual de Campinas (Unicamp); Xin Jin, cientista-chefe de Pesquisa da empresa chinesa BGI; e Dan Zhang, cofundador da empresa Hillgene BioPharma, também da China. Os mediadores foram Xin Jin (BGI) e &lt;strong&gt;&lt;a href="https://bv.fapesp.br/en/pesquisador/3032/simone-appenzeller/" target="_blank"&gt;Simone Appenzeller&lt;/a&gt;&lt;/strong&gt; (Unicamp).&lt;/p&gt;
+
+&lt;p&gt;“A gente sequenciou todo o RNA que foi expresso e está presente em amostras coletadas em vários momentos: antes de o animal ser imunizado, sete e 90 dias após a imunização – quando é feito o desafio [a bactéria é inoculada no nariz dos roedores] – e sete e 90 dias após o desafio”, conta Cerqueira Leite.&lt;/p&gt;
+
+&lt;p&gt;Foram comparadas amostras de três grupos de camundongos: um não imunizado, outro que recebeu a BCG convencional e um terceiro vacinado com a BCG recombinante. Em cada momento de análise, foram comparados quais genes estavam com a expressão aumentada ou diminuída nos diferentes grupos.&lt;/p&gt;
+
+&lt;p&gt;“Já com sete dias de imunização foi possível ver uma mudança bem grande no grupo que recebeu a versão recombinante: cerca de 200 genes já estão sendo ativados, enquanto no grupo da BCG convencional ainda não estava acontecendo quase nada. Depois de 90 dias, a resposta à BCG convencional já começa a cair, enquanto no grupo recombinante ela se mantém. Mas a grande novidade é que as duas vacinas atuam por caminhos metabólicos bem diferentes e nós conseguimos mapeá-los. Os dados serão publicados em breve”, revela a pesquisadora.&lt;/p&gt;
+
+&lt;p style="text-align:center"&gt;&lt;img alt="" src="https://agencia.fapesp.br/files/upload/52127/luciana.jpg" style="height:375px; width:700px" /&gt;&lt;br /&gt;
+&lt;span style="font-size:10px"&gt;Luciana Cezar de Cerqueira Leite, do Instituto Butantan, durante palestra apresentada na FAPESP Week China (&lt;em&gt;foto: Karina Toledo/Agência FAPESP&lt;/em&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bactéria turbinada&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Onipresente nas maternidades brasileiras, a vacina BCG foi criada há mais de cem anos a partir da atenuação da bactéria causadora da tuberculose bovina (&lt;em&gt;Mycobacterium bovis&lt;/em&gt;), que é muito parecida com a da tuberculose humana (&lt;em&gt;M. tuberculosis&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Já a versão recombinante “ganhou”, por engenharia genética, a capacidade de produzir um fragmento de uma toxina originalmente secretada pela &lt;em&gt;Escherichia coli&lt;/em&gt;, espécie bacteriana comumente presente no intestino humano.&lt;/p&gt;
+
+&lt;p&gt;“Algumas bactérias &lt;em&gt;E. coli&lt;/em&gt; produzem toxinas sensíveis ao calor, conhecidas pela sigla LT [do inglês &lt;em&gt;heat-labile toxin&lt;/em&gt;], que são altamente imunogênicas, isto é, induzem uma forte resposta do sistema imune. Na vacina recombinante nós usamos um fragmento detoxificado LT [denominado LTAK63]. Ele não é capaz de causar doença, mas mantém a imunogenicidade, então funciona como um adjuvante da vacina BCG”, explica Cerqueira Leite.&lt;/p&gt;
+
+&lt;p&gt;Segundo a pesquisadora, os primeiros estudos usando a estratégia de BCG recombinante visavam o desenvolvimento de uma vacina neonatal contra a coqueluche. “Isso porque a BCG pode ser dada ao nascimento, enquanto o imunizante atualmente disponível contra a coqueluche [a vacina tríplice bacteriana, ou DTP] só oferece proteção a partir dos seis meses de idade. Nesse caso, usamos um fragmento da toxina produzida pela bactéria da coqueluche [&lt;em&gt;Bordetella pertussis&lt;/em&gt;]”, relata.&lt;/p&gt;
+
+&lt;p&gt;Diante dos resultados promissores, a mesma plataforma vem sendo empregada na busca de novas e melhores vacinas contra coqueluche, tuberculose, pneumonia (causada por &lt;em&gt;Streptococcus pneumoniae&lt;/em&gt; ou pneumococo) e esquistossomose, bem como no tratamento do câncer de bexiga (caso em que se usa a vacina para “acordar” o sistema imune, estimulando-o a atacar o tumor).&lt;/p&gt;
+
+&lt;p&gt;Nos experimentos feitos com o modelo animal de tuberculose, observou-se que a BCG recombinante reduz em cem vezes a quantidade de bactéria no pulmão e também diminui a inflamação no órgão. “Ao tentar matar a bactéria, as células de defesa acabam atacando tudo o que está por perto e causam lesão nos tecidos. Mas o pulmão dos animais imunizados com a BCG recombinante é branquinho, menos inflamado. Agora, ao detalhar o mecanismo de ação das duas vacinas, a gente entende por que isso acontece”, diz Cerqueira Leite.&lt;/p&gt;
+
+&lt;p&gt;Toda a parte de sequenciamento de RNA foi conduzida em Shenzhen, na China, pela empresa BGI, que presta serviços de genômica para laboratórios de todo o mundo. Colaboraram nos estudos pesquisadores do Shenzhen Institute of Advanced Technology, da Universidade de São Paulo (USP), Faculdade Israelita de Ciências da Saúde Albert Einstein, Fundação Oswaldo Cruz (Fiocruz) da Bahia, das farmacêuticas Novartis e GSK, do Institut Pasteur e da Universidade Federal de Goiânia (UFG), entre outros parceiros.&lt;/p&gt;
+
+&lt;p&gt;Antes de iniciar os estudos clínicos, o grupo pretende fazer mais uma rodada de testes em bovinos. Segundo Cerqueira Leite, a expectativa é que produção dos lotes experimentais do imunizante ocorra em 2025 e que os ensaios comecem no ano seguinte. “Em humanos poderíamos iniciar em seguida, mas será mais caro e precisaremos conseguir o financiamento.”&lt;/p&gt;
+
+&lt;p&gt;Para saber mais sobre a FAPESP Week China acesse: &lt;strong&gt;&lt;a href="https://fapesp.br/week/2024/china" target="_blank"&gt;fapesp.br/week/2024/china&lt;/a&gt;&lt;/strong&gt;.&lt;br /&gt;
+&nbsp;&lt;/p&gt;</textarea>
+                </div>
+
+                <div class="footer">
+                    <div class="copy">
+                        <button>Copiar Texto</button>
+                        <span class="info"></span>
+                    </div>
+                    <img src="https://agencia.fapesp.br/assets/img/cc-selo.gif" width="100">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+        <div class="col-md-12 center">
+        <a href="https://agencia.fapesp.br/noticias" class="btn btn-primary" alt="Mais notícias">Mais notícias</a>
+    </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div id="modal-boletim" aria-labelledby="Label" role="dialog" tabindex="-1" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title"></h4>
+                <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span></button>
+            </div>
+            <div class="modal-body">Não houve boletim nesta data.</div>
+            <div class="modal-footer"></div>
+        </div>
+    </div>
+</div>
+<div id="block" style="position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 1000; outline: 0; background-color: black; opacity: 0.6; display: none; transition: 0.3s;"></div>
+<input type="hidden" id="url_boletim" value="https://agencia.fapesp.br/boletim">
+
+<!-- Inicio FOOTer -->
+<footer class="noPrint">
+    <div class="container">
+    <div class="compartilhamento compartilhamento-mob LabelMobil1">
+        <ul>
+        <li><a href="https://www.instagram.com/agenciafapesp/" aria-label="Instagram" alt="Instagram"><i class="fab fa-instagram LabelRede-Mob"></i></a></li>
+        <li> <a href="https://www.youtube.com/channel/UC4Ml9MsL-7hKKGlhcAtMwDg" aria-label="Youtube" alt="Youtube"><i class="fab fa-youtube LabelRede-Mob"></i></a></li>
+        <li><a href="https://www.facebook.com/pages/Ag%C3%AAncia-FAPESP/256316551067453" aria-label="FaceBook" alt="FaceBook"><i class="fab fa-facebook-f LabelRede-Mob p-face-rp"></i></a></li>
+        <li> <a href="https://bsky.app/profile/agenciafapesp.bsky.social" aria-label="BlueSky" alt="BlueSky"><i class="fa-brands fa-bluesky LabelRede-Mob"></i></a></li>
+        <li><a href="https://twitter.com/AgenciaFAPESP" aria-label="Twitter" alt="Twitter" class="pd-0-t"><i class="fab fa-x-twitter LabelRede-Mob"></i></a></li>
+        </ul>
+    </div>
+    <nav class="menu row">
+            <div class="col-12 col-sm-6 col-md-3 text-center text-left-sm">
+                <ul>
+                    <li><h3 class="b"><a href="https://agencia.fapesp.br" alt="Agência FAPESP">Agência FAPESP</a></h3></li>
+                    <li><a href="https://agencia.fapesp.br/noticias" alt="Notícias">Notícias</a></li>
+                                        <li><a href="https://agencia.fapesp.br/agenda">Agenda</a></li>
+                                        <li><a href="https://www.youtube.com/channel/UC4Ml9MsL-7hKKGlhcAtMwDg">Vídeos</a></li>
+                    <li><a href="https://agencia.fapesp.br/assine">Assine</a></li>
+                    <li><a href="https://agencia.fapesp.br/quem-somos">Quem somos</a></li>
+                    <li><a href="https://agencia.fapesp.br/contato">Fale com a Agência FAPESP</a></li>
+                                        <li><h3 class="b"><a href="https://pesquisaparainovacao.fapesp.br/" target="_blank">Pesquisa para Inovação</a></h3></li>
+                                        <li><a href="http://pesquisaparainovacao.fapesp.br/reportagens" target="_blank">Reportagens</a></li>
+                    <li><a href="http://pesquisaparainovacao.fapesp.br/noticias" target="_blank">Notícias</a></li>
+                                                        </ul>
+            </div>
+
+            <hr class="col-12 visible-xs">
+            <div class="col-12 col-sm-6 col-md-3 text-center text-left-sm">
+                <h3 class="b">Divulgação Científica</h3>
+                <ul>
+                    <li><a href="http://agencia.fapesp.br" target="_blank">Agência FAPESP</a></li>
+                    <li><a href="http://www.bv.fapesp.br/pt" target="_blank">Biblioteca Virtual</a></li>
+                    <li><a href="http://fapesp.br/eventos" target="_blank">Eventos</a></li>
+                    <li><a href="https://namidia.fapesp.br/" target="_blank">FAPESP na Mídia</a></li>
+                    <li><a href="http://fapesp.br/indicadores" target="_blank">Indicadores</a></li>
+                    <li><a href="http://pesquisaparainovacao.fapesp.br/" target="_blank">Pesquisa para Inovação</a></li>
+                    <li><a href="http://fapesp.br/publicacoes" target="_blank">Publicações e Exposições</a></li>
+                    <li><a href="http://revistapesquisa.fapesp.br" target="_blank">Revista Pesquisa FAPESP</a></li>
+                    <li><a href="http://fapesp.br/6222" target="_blank">Sala de Imprensa</a></li>
+                </ul>
+            </div>
+
+            <hr class="col-12 visible-xs">
+            <div class="col-12 col-sm-6 col-md-3 text-center text-left-sm">
+                <ul>
+                                    <li><h3 class="b">Fomento à Pesquisa</h3></li>
+                    <li><a href="https://fapesp.br/bolsas" target="_blank">Bolsas</a></li>
+                    <li><a href="https://fapesp.br/auxilios" target="_blank">Auxílios</a></li>
+                    <li><a href="https://fapesp.br/programas" target="_blank">Programas</a></li>
+                    <li><a href="https://fapesp.br/comosubmeterproposta" target="_blank">Como submeter propostas</a></li>
+                    <li><a href="https://fapesp.br/faq" target="_blank">Dúvidas Frequentes</a></li>
+                    <li><a href="https://fapesp.br/eaip" target="_blank">Escritórios de Apoio (EAIP)</a></li>
+                    <li><a href="https://fapesp.br/6605" target="_blank">Liberação de Recursos </a></li>
+                    <li><a href="https://fapesp.br/1416" target="_blank">Prestação de Contas</a></li>
+                    <li><a href="https://fapesp.br/1478/financiamento" target="_blank">Sistemática de Análise</a></li>
+                    <li><a href="https://fapesp.br/importacao" target="_blank">Importação e Exportação</a></li>
+                    <li><a href="https://sage.fapesp.br/SAGe_WEB/jsp/loginAdm.jsp" target="_blank">SAGe</a></li>
+                    <li><a href="https://fapesp.br/cadastroagilis" target="_blank">Agilis</a></li>
+                    <li><a href="https://siaf.fapesp.br/" target="_blank">SIAF</a></li>
+                                </ul>
+            </div>
+            <hr class="col-12 visible-xs">
+            <div class="col-12 col-sm-6 col-md-3 text-center text-left-sm">
+                <ul>
+                    <li><a href="https://agencia.fapesp.br/contato" target="_blank"><img src="https://agencia.fapesp.br/assets/img/contato-pt.png" alt=""></a></li>
+                                        <li><a href="https://fapesp.br/converse" target="_blank"><img src="https://agencia.fapesp.br/assets/img/converse-pt.png" alt=""></a></li>
+                                    </ul>
+            </div>
+        </nav>
+    </div>
+</footer>
+<!-- Fim Footer -->
+<!-- Scripts -->
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!-- <script type="text/javascript" async="true" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5efe2429bd2b5328"></script>
+-->
+
+<link href="https://agencia.fapesp.br/assets/css/site.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/bootstrap.min.css">
+<link href="https://agencia.fapesp.br/assets/css/styles/style.min.css" rel="stylesheet">
+<link href="https://agencia.fapesp.br/assets/css/styleRecovery.css" rel="stylesheet">
+<link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/slicknav.css">
+<link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/styleFlexisel.css">
+
+<!-- <link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/fontawesome-all.min.css"> -->
+
+<link href="https://agencia.fapesp.br/assets/css/styles/footer.css" rel="stylesheet">
+<link href="https://agencia.fapesp.br/assets/css/simple-calendar.css" rel="stylesheet">
+<link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/themify-icons.css">
+<link rel="stylesheet" href="https://agencia.fapesp.br/assets/css/styles/themify-icons.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+<script src="https://agencia.fapesp.br/assets/vendor/jquery/jquery.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/bootstrap.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/jquery.slicknav.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/slick.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/wow.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/jquery.scrollUp.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/contact.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/jquery.form.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/jquery.validate.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/mail-script.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/jquery.ajaxchimp.min.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/jquery.simple-calendar.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/jquery.flexisel.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/plugins.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/main.js"></script>
+<script src="https://agencia.fapesp.br/assets/js/js/scripts.js"></script>
+
+
+
+<input type="hidden" id="Control_BoxSearch" value="1">
+<input type="hidden" id="Control_BoxGlobe" value="1">
+<input type="hidden" id="Control_BoxCalender" value="1">
+<input type="hidden" id="Control_ID" value="">
+ 
+
+
+
+
+</body></html>

@@ -1,0 +1,640 @@
+<html lang="pt-br"><head><meta charset="utf-8"><script type="7c0b5f19b58834604b0f07a7-text/javascript">if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script type="7c0b5f19b58834604b0f07a7-text/javascript">class RocketLazyLoadScripts{constructor(){this.v="1.2.3",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",t=>{this.persisted=t.persisted}),window.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(t){if(document.hidden){t._triggerListener();return}this.triggerEvents.forEach(e=>window.addEventListener(e,t.userEventHandler,{passive:!0})),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(t){t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))})}_waitForPendingClicks(){return new Promise(t=>{this._isClickPending?this._pendingClickFinished=t:t()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(t,e,r){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(r,event.target.getAttribute(e)),event.target.removeAttribute(e))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(e=>{if(e.hasAttribute("src")){let r=new URL(e.src).origin;r!==location.origin&&t.push({src:r,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this._batchInjectResourceHints(t,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(this),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _transformScript(t){return new Promise((await this._littleBreath(),navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor)?e=>{let r=document.createElement("script");[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),r.setAttribute(e,t.nodeValue))}),t.text&&(r.text=t.text),r.hasAttribute("src")?(r.addEventListener("load",e),r.addEventListener("error",e)):(r.text=t.text,e());try{t.parentNode.replaceChild(r,t)}catch(i){e()}}:async e=>{function r(){t.setAttribute("data-rocket-status","failed"),e()}try{let i=t.getAttribute("data-rocket-type"),n=t.getAttribute("data-rocket-src");t.text,i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",function r(){t.setAttribute("data-rocket-status","executed"),e()}),t.addEventListener("error",r),n?(t.removeAttribute("data-rocket-src"),t.src=n):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}catch(s){r()}})}async _loadScriptsFromList(t){let e=t.shift();return e&&e.isConnected?(await this._transformScript(e),this._loadScriptsFromList(t)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(t,e){var r=document.createDocumentFragment();t.forEach(t=>{let i=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(i){let n=document.createElement("link");n.href=i,n.rel=e,"preconnect"!==e&&(n.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),r.appendChild(n),this.trash.push(n)}}),document.head.appendChild(r)}_delayEventListeners(t){let e={};function r(t,r){!function t(r){!e[r]&&(e[r]={originalFunctions:{add:r.addEventListener,remove:r.removeEventListener},eventsToRewrite:[]},r.addEventListener=function(){arguments[0]=i(arguments[0]),e[r].originalFunctions.add.apply(r,arguments)},r.removeEventListener=function(){arguments[0]=i(arguments[0]),e[r].originalFunctions.remove.apply(r,arguments)});function i(t){return e[r].eventsToRewrite.indexOf(t)>=0?"rocket-"+t:t}}(t),e[t].eventsToRewrite.push(r)}function i(t,e){let r=t[e];Object.defineProperty(t,e,{get:()=>r||function(){},set(i){t["rocket"+e]=r=i}})}r(document,"DOMContentLoaded"),r(window,"DOMContentLoaded"),r(window,"load"),r(window,"pageshow"),r(document,"readystatechange"),i(document,"onreadystatechange"),i(window,"onload"),i(window,"onpageshow")}_delayJQueryReady(t){let e;function r(r){if(r&&r.fn&&!t.allJQueries.includes(r)){r.fn.ready=r.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(r):document.addEventListener("rocket-DOMContentLoaded",()=>e.bind(document)(r)),r([])};let i=r.fn.on;r.fn.on=r.fn.init.prototype.on=function(){if(this[0]===window){function t(t){return t.split(" ").map(t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=t(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(e=>{let r=arguments[0][e];delete arguments[0][e],arguments[0][t(e)]=r})}return i.apply(this,arguments),this},t.allJQueries.push(r)}e=r}r(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){r(t)}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this._littleBreath();let t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){let t=new Map;document.write=document.writeln=function(e){let r=document.currentScript;r||console.error("WPRocket unable to document.write this: "+e);let i=document.createRange(),n=r.parentElement,s=t.get(r);void 0===s&&(s=r.nextSibling,t.set(r,s));let a=document.createDocumentFragment();i.setStart(a,0),a.appendChild(i.createContextualFragment(e)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}_emptyTrash(){this.trash.forEach(t=>t.remove())}static run(){let t=new RocketLazyLoadScripts;t._addUserInteractionListener(t)}}RocketLazyLoadScripts.run();</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<title>CÂNCER DE PELE: ALTAS TEMPERATURAS ACENDEM ALERTA PARA IMPORTÂNCIA DA FOTOPROTEÇÃO - Bahia Economica</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;500;700&amp;display=swap"><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7c0b5f19b58834604b0f07a7-|49"></script><style id="" media="print" onload="this.media='all'">/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggqxSuXd.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggOxSuXd.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggSxSuXd.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggixSuXd.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggmxSuXd.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/manrope/v15/xn7gYHE41ni1AdIRggexSg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;500;700&amp;display=swap"></noscript><link rel="stylesheet" href="https://bahiaeconomica.com.br/wp/wp-content/cache/min/1/c5224ea1cb02613db829f88446a741be.css" media="all" data-minify="1">
+<!-- stylesheets -->
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> 
+
+
+
+<link rel="icon" href="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/favicon.png">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="O maior portal de Economia da Bahia Saúde / Educação Bahia Economica O verão ainda não começou oficialmente, mas as altas temperaturas registradas em várias">
+	<link rel="canonical" href="https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="CÂNCER DE PELE: ALTAS TEMPERATURAS ACENDEM ALERTA PARA IMPORTÂNCIA DA FOTOPROTEÇÃO - Bahia Economica">
+	<meta property="og:description" content="O maior portal de Economia da Bahia Saúde / Educação Bahia Economica O verão ainda não começou oficialmente, mas as altas temperaturas registradas em várias">
+	<meta property="og:url" content="https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/">
+	<meta property="og:site_name" content="Bahia Economica">
+	<meta property="article:publisher" content="https://www.facebook.com/bahiaeconomica">
+	<meta property="article:published_time" content="2023-12-04T17:24:16+00:00">
+	<meta property="og:image" content="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg">
+	<meta property="og:image:width" content="1024">
+	<meta property="og:image:height" content="764">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="JP">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Escrito por">
+	<meta name="twitter:data1" content="JP">
+	<meta name="twitter:label2" content="Est. tempo de leitura">
+	<meta name="twitter:data2" content="5 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/#article","isPartOf":{"@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/"},"author":{"name":"JP","@id":"https://bahiaeconomica.com.br/wp/#/schema/person/c86d3a3f8960425a0f9d0e5245991f4e"},"headline":"CÂNCER DE PELE: ALTAS TEMPERATURAS ACENDEM ALERTA PARA IMPORTÂNCIA DA FOTOPROTEÇÃO","datePublished":"2023-12-04T17:24:16+00:00","dateModified":"2023-12-04T17:24:16+00:00","mainEntityOfPage":{"@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/"},"wordCount":940,"publisher":{"@id":"https://bahiaeconomica.com.br/wp/#organization"},"image":{"@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/#primaryimage"},"thumbnailUrl":"https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg","keywords":["Brasil","pauta","Política","saúde"],"articleSection":["Saúde / Educação"],"inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/","url":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/","name":"CÂNCER DE PELE: ALTAS TEMPERATURAS ACENDEM ALERTA PARA IMPORTÂNCIA DA FOTOPROTEÇÃO - Bahia Economica","isPartOf":{"@id":"https://bahiaeconomica.com.br/wp/#website"},"primaryImageOfPage":{"@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/#primaryimage"},"image":{"@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/#primaryimage"},"thumbnailUrl":"https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg","datePublished":"2023-12-04T17:24:16+00:00","dateModified":"2023-12-04T17:24:16+00:00","description":"O maior portal de Economia da Bahia Saúde / Educação Bahia Economica O verão ainda não começou oficialmente, mas as altas temperaturas registradas em várias","breadcrumb":{"@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/#primaryimage","url":"https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg","contentUrl":"https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg","width":1024,"height":764},{"@type":"BreadcrumbList","@id":"https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://bahiaeconomica.com.br/wp/"},{"@type":"ListItem","position":2,"name":"CÂNCER DE PELE: ALTAS TEMPERATURAS ACENDEM ALERTA PARA IMPORTÂNCIA DA FOTOPROTEÇÃO"}]},{"@type":"WebSite","@id":"https://bahiaeconomica.com.br/wp/#website","url":"https://bahiaeconomica.com.br/wp/","name":"Bahia Economica","description":"O maior portal de Economia da Bahia","publisher":{"@id":"https://bahiaeconomica.com.br/wp/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bahiaeconomica.com.br/wp/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://bahiaeconomica.com.br/wp/#organization","name":"Bahia Econômica","url":"https://bahiaeconomica.com.br/wp/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://bahiaeconomica.com.br/wp/#/schema/logo/image/","url":"https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/12/cropped-BE.png","contentUrl":"https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/12/cropped-BE.png","width":512,"height":512,"caption":"Bahia Econômica"},"image":{"@id":"https://bahiaeconomica.com.br/wp/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/bahiaeconomica"]},{"@type":"Person","@id":"https://bahiaeconomica.com.br/wp/#/schema/person/c86d3a3f8960425a0f9d0e5245991f4e","name":"JP","sameAs":["https://bahiaeconomica.com.br/wp/beta/"],"url":"https://bahiaeconomica.com.br/wp/author/jp/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//static.addtoany.com">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+<!-- bahiaeconomica.com.br/wp is managing ads with Advanced Ads 1.44.0 --><!--noptimize--><script id="bahia-ready" type="7c0b5f19b58834604b0f07a7-text/javascript">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<!--/noptimize--><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+
+
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<style id="rocket-lazyload-inline-css" type="text/css">
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://bahiaeconomica.com.br/wp/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}
+</style>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="addtoany-core-js-before">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartilhar",
+	Save: "Salvar",
+	Subscribe: "Inscrever",
+	Email: "Email",
+	Bookmark: "Favoritos",
+	ShowAll: "Mostrar tudo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Procurar serviço(s)",
+	FindAnyServiceToAddTo: "Encontrar rapidamente qualquer serviço para",
+	PoweredBy: "Serviço fornecido por",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Adicionar aos favoritos",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Adicionar a favoritos",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" async="" data-rocket-src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="7c0b5f19b58834604b0f07a7-text/javascript" src="https://bahiaeconomica.com.br/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
+<script type="7c0b5f19b58834604b0f07a7-text/javascript" src="https://bahiaeconomica.com.br/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" async="" data-rocket-src="https://bahiaeconomica.com.br/wp/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="7c0b5f19b58834604b0f07a7-text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/bahiaeconomica.com.br\/wp\/wp-admin\/admin-ajax.php","security":"2f12169728","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/bahiaeconomica.com.br\/wp\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/bahiaeconomica.com.br\/wp\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.1.6.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://bahiaeconomica.com.br/wp/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.1.6.2" id="__ytprefs__-js"></script>
+<link rel="https://api.w.org/" href="https://bahiaeconomica.com.br/wp/wp-json/"><link rel="alternate" type="application/json" href="https://bahiaeconomica.com.br/wp/wp-json/wp/v2/posts/781998"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bahiaeconomica.com.br/wp/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bahiaeconomica.com.br/wp/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.2.6">
+<link rel="shortlink" href="https://bahiaeconomica.com.br/wp/?p=781998">
+<link rel="alternate" type="application/json+oembed" href="https://bahiaeconomica.com.br/wp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbahiaeconomica.com.br%2Fwp%2F2023%2F12%2F04%2Fcancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://bahiaeconomica.com.br/wp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbahiaeconomica.com.br%2Fwp%2F2023%2F12%2F04%2Fcancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao%2F&amp;format=xml">
+<!-- Google Tag Manager -->
+<script type="7c0b5f19b58834604b0f07a7-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P527PNV');</script>
+<!-- End Google Tag Manager --><link rel="icon" href="https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/12/cropped-BE-32x32.png" sizes="32x32">
+<link rel="icon" href="https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/12/cropped-BE-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/12/cropped-BE-180x180.png">
+<meta name="msapplication-TileImage" content="https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/12/cropped-BE-270x270.png">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://bahiaeconomica.com.br/wp/rsslatest.xml"><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body data-rsssl="1" class="post-template-default single single-post postid-781998 single-format-standard aa-prefix-bahia-">
+
+<div id="top">
+    <div class="container">
+        <div class="left">
+                        <abbr title="Terça-feira, 9 maio 2023">terça, 14 de janeiro de 2025</abbr>
+            <span class="weather"></span>
+        </div>
+        <div class="right">
+            <span class="exchange">
+                <span>Euro <b class="minus"><i class="fal fa-angle-down"></i> 6.2854</b></span>
+                <span>Dólar <b class="plus"><i class="fal fa-angle-up"></i>6.1358</b></span>
+            </span>
+            <nav>
+    <ul>
+        <li><a href="https://www.instagram.com/bahiaeconomica/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="https://www.facebook.com/bahiaeconomica/?locale=pt_BR" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+        <li><a href="https://www.tiktok.com/@bahiaeconomica" target="_blank"><i class="fab fa-tiktok"></i></a></li>
+        <li><a href="https://twitter.com/bahiaeconomica" target="_blank"><i class="fab fa-twitter"></i></a></li>
+        <li><a href="https://www.linkedin.com/company/22311700/admin/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+        <li class="threadsBE"><a href="https://www.threads.net/@bahiaeconomica" target="_blank"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="threads" data-lazy-src="https://user-images.githubusercontent.com/20134046/251550974-726be2be-7b74-4585-984f-5348b1789e99.svg"><noscript><img src="https://user-images.githubusercontent.com/20134046/251550974-726be2be-7b74-4585-984f-5348b1789e99.svg" alt="threads"></noscript></a></li>
+    </ul>
+</nav>        </div>
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#top -->
+
+<div id="header">
+    <div class="container">
+        <span class="logo"><a href="https://bahiaeconomica.com.br/wp"><img width="862" height="176" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20862%20176'%3E%3C/svg%3E" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/header-logo-BE.png"><noscript><img width="862" height="176" src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/header-logo-BE.png"></noscript></a></span>
+        <div class="ad ad-header"><a href="https://salvador.ba.gov.br/" target="_blank"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20728%2090'%3E%3C/svg%3E" alt="" width="728" height="90" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2025/01/BAN-728X90PX-ENTREGAS-PMS_AF.gif"><noscript><img src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2025/01/BAN-728X90PX-ENTREGAS-PMS_AF.gif" alt="" width="728" height="90"></noscript></a></div>
+        <span class="get-search"><i class="far fa-search"></i></span>
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#header -->
+
+<div id="nav">
+    <div class="container">
+        <div class="left">
+            <span><b></b> Menu</span>
+            <nav>
+                <ul>
+                    <li><a href="https://bahiaeconomica.com.br/wp/category/politica">Política</a></li>
+                    <li><a href="https://bahiaeconomica.com.br/wp/category/economia-e-politica">Economia</a></li>
+                    <li><a href="https://bahiaeconomica.com.br/wp/category/bahia-invest">Bahia Invest</a></li>
+                    <li><a href="https://bahiaeconomica.com.br/wp/category/municipios">Municípios</a></li>
+                    <li><a href="https://bahiaeconomica.com.br/wp/category/artigos">Artigos</a></li>
+                    <li><a href="https://bahiaeconomica.com.br/wp/quem-somos">Quem Somos</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="right">
+            <form action="https://bahiaeconomica.com.br/wp" method="get">
+                <fieldset>
+                    <label>
+                        <input type="search" name="s" placeholder="Buscar">
+                    </label>
+                    <label>
+                        <input type="submit">
+                    </label>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#nav -->
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-16670547266" type="7c0b5f19b58834604b0f07a7-text/javascript">
+</script>
+<script type="7c0b5f19b58834604b0f07a7-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16670547266');
+</script>
+
+<div id="breadcrumb">
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li>Saúde / Educação</li>
+            </ul>
+        </nav>
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#breadcrumb -->
+
+<div id="single">
+    <div class="container">
+        <header>
+            <h1>CÂNCER DE PELE: ALTAS TEMPERATURAS ACENDEM ALERTA PARA IMPORTÂNCIA DA FOTOPROTEÇÃO</h1>
+            <abbr title="04 dezembro 2023 02:24"><a href="https://bahiaeconomica.com.br/wp/author/jp/">João Paulo</a> - 04/12/2023 14:24 </abbr>
+            <figure><img width="1024" height="764" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20764'%3E%3C/svg%3E" class="attachment-full size-full wp-post-image" alt="" decoding="async" data-lazy-srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg 1024w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42-300x224.jpeg 300w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42-768x573.jpeg 768w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg"><noscript><img width="1024" height="764" src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42.jpeg 1024w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42-300x224.jpeg 300w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-04-at-13.17.42-768x573.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></figure>
+            <span class="foot">
+                <div class="addtoany_shortcode"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://bahiaeconomica.com.br/wp/2023/12/04/cancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao/" data-a2a-title="CÂNCER DE PELE: ALTAS TEMPERATURAS ACENDEM ALERTA PARA IMPORTÂNCIA DA FOTOPROTEÇÃO"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbahiaeconomica.com.br%2Fwp%2F2023%2F12%2F04%2Fcancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao%2F&amp;linkname=C%C3%82NCER%20DE%20PELE%3A%20ALTAS%20TEMPERATURAS%20ACENDEM%20ALERTA%20PARA%20IMPORT%C3%82NCIA%20DA%20FOTOPROTE%C3%87%C3%83O" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbahiaeconomica.com.br%2Fwp%2F2023%2F12%2F04%2Fcancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao%2F&amp;linkname=C%C3%82NCER%20DE%20PELE%3A%20ALTAS%20TEMPERATURAS%20ACENDEM%20ALERTA%20PARA%20IMPORT%C3%82NCIA%20DA%20FOTOPROTE%C3%87%C3%83O" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fbahiaeconomica.com.br%2Fwp%2F2023%2F12%2F04%2Fcancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao%2F&amp;linkname=C%C3%82NCER%20DE%20PELE%3A%20ALTAS%20TEMPERATURAS%20ACENDEM%20ALERTA%20PARA%20IMPORT%C3%82NCIA%20DA%20FOTOPROTE%C3%87%C3%83O" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fbahiaeconomica.com.br%2Fwp%2F2023%2F12%2F04%2Fcancer-de-pele-altas-temperaturas-acendem-alerta-para-importancia-da-fotoprotecao%2F&amp;linkname=C%C3%82NCER%20DE%20PELE%3A%20ALTAS%20TEMPERATURAS%20ACENDEM%20ALERTA%20PARA%20IMPORT%C3%82NCIA%20DA%20FOTOPROTE%C3%87%C3%83O" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>            </span>
+        </header>
+        <section>
+            <p>O verão ainda não começou oficialmente, mas as altas temperaturas registradas em várias regiões do Brasil nas últimas semanas, decorrentes do El Niño e das mudanças climáticas, acendem um sinal de alerta para a importância de reforçar os cuidados para prevenção do câncer de pele, doença que tem como principal fator a exposição solar excessiva e cumulativa ao longo da vida.</p>
+<p>De acordo com estimativa do Instituto Nacional do Câncer (Inca), o Brasil deve registrar mais de 220 mil novos casos de câncer de pele por ano no triênio 2023-2025. Na Bahia, a estimativa é de 10.530 novos casos da doença por ano. Considerado o tumor maligno mais incidente no Brasil, a neoplasia corresponde a 31,3% do total de casos de câncer no país. Já o melanoma, tipo mais raro e mais agressivo, representa 3% do total.</p>
+<p>Além da maior incidência de radiação UV, os brasileiros costumam se expor mais em praias e atividades ao ar livre neste período do ano. Adotar os cuidados de fotoproteção, como uso de protetor solar, é fundamental para prevenção do câncer de pele e do envelhecimento cutâneo. Segundo o oncologista André Bacellar, do NOB Oncoclínicas, a exposição prolongada ao sol sem uso de filtro solar, especialmente na infância e na adolescência, é o principal fator para desenvolvimento do câncer de pele.</p>
+<p>“O uso de protetor solar deve ser feito durante o ano todo, mesmo no inverno ou em dias nublados, mesmo que a incidência mais alta da radiação UV aconteça nas estações mais quentes”, recomenda o médico. “90% da radiação UV atravessa as nuvens, então o uso de protetor solar precisa ser uma prioridade diária e não apenas nos dias ensolarados”, esclarece.</p>
+<p>Câncer de pele</p>
+<p>O câncer de pele é uma doença causada pelo crescimento anormal e descontrolado das células que compõem a pele. Elas se dispõem formando camadas e, de acordo com as que forem afetadas, é definido o tipo de câncer, que pode ser melanoma ou não melanoma (carcinomas basocelular e espinocelular).</p>
+<p>Mais comum em pessoas com mais de 40 anos e raro em crianças e pessoas negras, o câncer de pele acomete, principalmente, adultos com pele muito clara, olhos claros e com doenças cutâneas prévias. No entanto, qualquer pessoa pode desenvolver a doença. “As pessoas de pele negra têm a melanina como um filtro solar natural, no entanto, são mais suscetíveis a desenvolverem um subtipo de câncer de pele bastante agressivo, o melanoma acral, que acomete partes do corpo como a palma das mãos, a sola dos pés e unhas”, esclarece o oncologista André Bacellar. “Manchas escuras nessas áreas devem ser investigadas o quanto antes”, alerta o oncologista.</p>
+<p>Apesar de ser o tipo de neoplasia de mais incidência no Brasil e no mundo, o câncer de pele pode ser considerado um tumor evitável. Mesmo sua forma mais agressiva, o melanoma, tem mais de 90% de chance de cura quando diagnosticado precocemente. Isso reforça a importância da conscientização da população sobre a necessidade de adoção de medidas preventivas.</p>
+<p>Sintomas</p>
+<p>De acordo com a Sociedade Brasileira de Dermatologia, é importante estar atento a alguns sinais que podem indicar o desenvolvimento de um câncer de pele:</p>
+<ul>
+<li>Crescimento na pele de aparência elevada e brilhante, translúcida, avermelhada, castanha, rósea ou multicolorida;</li>
+<li>Sinais ou pintas que mudam de tamanho, cor, textura, forma ou tornam-se irregulares nas bordas.</li>
+<li>Mancha ou ferida que não cicatriza, que continua a crescer apresentando coceira, crostas, erosões ou sangramento.</li>
+</ul>
+<p>Tratamentos</p>
+<p>Na maioria dos casos de câncer de pele, o tratamento cirúrgico para a remoção da lesão cancerígena é o mais indicado. Em alguns casos, a depender do subtipo do câncer, do estadiamento (grau de disseminação) e do tamanho do tumor, pode ser necessário outro tipo de tratamento complementar, como quimioterapia, radioterapia, imunoterapia ou medicamentos orais.</p>
+<p>No caso do melanoma, por causa da sua alta capacidade de se disseminar para tecidos e órgãos vizinhos, o desenvolvimento de novos imunoterápicos (medicamentos que estimulam o sistema imunológico a lutar contra o tumor) tem garantido melhora na sobrevida de pacientes. “Tivemos muitos avanços importantes no tratamento do melanoma e o prognóstico da doença melhorou muito, inclusive para os casos do melanoma metastático, porém o maior aliado do tratamento ainda é o diagnóstico precoce”, avalia o oncologista André Bacellar.</p>
+<p>Prevenção</p>
+<p>Mais de 60% dos brasileiros não usam nenhum tipo de proteção solar na sua rotina diária, segundo pesquisa realizada pela Sociedade Brasileira de Dermatologia. Evitar a exposição ao sol das 10 às 16 horas, quando a incidência dos raios ultravioletas é mais intensa; usar filtro solar com FPS 30, no mínimo; e usar chapéus, bonés, roupas com proteção UV e óculos escuro são algumas das medidas de fotoproteção que reduzem o dano solar à pele.</p>
+<p>Os cuidados com a exposição solar devem ser tomados diariamente. Os especialistas recomendam o uso diário do protetor solar por pessoas de todos os tipos de pele. “Além dos cuidados para proteger a pele da exposição solar excessiva, é importante estar atento a qualquer alteração na pele e fazer a consulta anual com o dermatologista”, finaliza André Bacellar.</p>
+<p>Imagem: Freepik</p>
+        </section>
+        <footer>
+            <div class="more">
+                <h6>Leia mais:</h6>
+                <nav>
+                    <ul>
+                                                <li><a href="https://bahiaeconomica.com.br/wp/2025/01/13/estudantes-de-escolas-publicas-da-bahia-se-destcam-no-enem-com-notas-acima-de-900/">ESTUDANTES DE ESCOLAS PÚBLICAS DA BAHIA SE DESTCAM NO ENEM COM NOTAS ACIMA DE 900</a></li>
+                                                <li><a href="https://bahiaeconomica.com.br/wp/2025/01/13/enem-2024-resultados-mostram-crescimento-na-adesao-e-na-media-das-notas/">ENEM 2024: RESULTADOS MOSTRAM CRESCIMENTO NA ADESÃO E NA MÉDIA DAS NOTAS</a></li>
+                                                <li><a href="https://bahiaeconomica.com.br/wp/2025/01/13/senai-bahia-oferece-mais-de-600-vagas-para-cursos-gratuitos-de-jovem-aprendiz/">SENAI BAHIA OFERECE MAIS DE 600 VAGAS PARA CURSOS GRATUITOS DE JOVEM APRENDIZ</a></li>
+                                            </ul>
+                </nav>
+            </div>
+            <!-- /.more -->
+            <div class="tags">
+                <h6>Tags:</h6>
+                <span><a href="https://bahiaeconomica.com.br/wp/tag/brasil/" rel="tag">Brasil</a><a href="https://bahiaeconomica.com.br/wp/tag/pauta/" rel="tag">pauta</a><a href="https://bahiaeconomica.com.br/wp/tag/politica/" rel="tag">Política</a><a href="https://bahiaeconomica.com.br/wp/tag/saude/" rel="tag">saúde</a></span>
+            </div>
+            <!-- /.tags -->
+        </footer>
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#single -->
+
+<div class="relacionadas">
+    <div class="container">
+        <div class="column">
+            <div class="column-item">
+                <header class="head no-line">
+                    <strong>Relacionadas</strong>
+                </header>
+                <section class="column column4">
+                                        <article class="item-vert">
+                        <a href="https://bahiaeconomica.com.br/wp/2022/04/12/enem-candidatos-tem-ate-sexta-feira-para-pedir-isencao-de-taxa-2/">
+                            <figure><img width="360" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20220'%3E%3C/svg%3E" class="attachment-large size-large wp-post-image" alt="" decoding="async" data-lazy-srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2022/02/provas-do-enem-foto-shutterstock-1.jpg 360w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2022/02/provas-do-enem-foto-shutterstock-1-300x183.jpg 300w" data-lazy-sizes="(max-width: 360px) 100vw, 360px" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2022/02/provas-do-enem-foto-shutterstock-1.jpg"><noscript><img width="360" height="220" src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2022/02/provas-do-enem-foto-shutterstock-1.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2022/02/provas-do-enem-foto-shutterstock-1.jpg 360w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2022/02/provas-do-enem-foto-shutterstock-1-300x183.jpg 300w" sizes="(max-width: 360px) 100vw, 360px"></noscript></figure>
+                            <figcaption>
+                                <h3>ENEM: CANDIDATOS TÊM ATÉ SEXTA-FEIRA PARA PEDIR ISENÇÃO DE TAXA</h3>
+                            </figcaption>
+                        </a>
+                    </article>
+                                        <article class="item-vert">
+                        <a href="https://bahiaeconomica.com.br/wp/2024/08/29/com-investimento-do-governo-do-estado-santo-estevao-da-inicio-a-programa-de-reducao-de-filas-de-cirurgias-eletivas/">
+                            <figure><img width="1024" height="683" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E" class="attachment-large size-large wp-post-image" alt="" decoding="async" data-lazy-srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-1024x683.jpeg 1024w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-300x200.jpeg 300w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-768x512.jpeg 768w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-1536x1024.jpeg 1536w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-2048x1365.jpeg 2048w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-272x182.jpeg 272w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-1024x683.jpeg"><noscript><img width="1024" height="683" src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-1024x683.jpeg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-1024x683.jpeg 1024w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-300x200.jpeg 300w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-768x512.jpeg 768w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-1536x1024.jpeg 1536w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-2048x1365.jpeg 2048w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2024/08/Reducao-filas-de-cirurgias-Hospital-Muni-St-Estevao-Fotos-Jamile-Amin-35-272x182.jpeg 272w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></figure>
+                            <figcaption>
+                                <h3>COM INVESTIMENTO DO GOVERNO DO ESTADO, SANTO ESTEVÃO DA INÍCIO A PROGRAMA DE REDUÇÃO DE FILAS DE CIRURGIAS ELETIVAS</h3>
+                            </figcaption>
+                        </a>
+                    </article>
+                                        <article class="item-vert">
+                        <a href="https://bahiaeconomica.com.br/wp/2018/04/13/atletas-do-judo-do-vitoria-vao-participar-de-campeonato-brasileiro-de-judo/">
+                            <figure><img width="500" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20300'%3E%3C/svg%3E" class="attachment-large size-large wp-post-image" alt="" decoding="async" data-lazy-srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2018/04/1841377128_6de3c9f14875806f0ca9910e9725d57d.jpg 500w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2018/04/1841377128_6de3c9f14875806f0ca9910e9725d57d-300x180.jpg 300w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2018/04/1841377128_6de3c9f14875806f0ca9910e9725d57d.jpg"><noscript><img width="500" height="300" src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2018/04/1841377128_6de3c9f14875806f0ca9910e9725d57d.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2018/04/1841377128_6de3c9f14875806f0ca9910e9725d57d.jpg 500w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2018/04/1841377128_6de3c9f14875806f0ca9910e9725d57d-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px"></noscript></figure>
+                            <figcaption>
+                                <h3>JUDÔ DO VITÓRIA PARTICIPA DE CAMPEONATO BRASILEIRO</h3>
+                            </figcaption>
+                        </a>
+                    </article>
+                                        <article class="item-vert">
+                        <a href="https://bahiaeconomica.com.br/wp/2024/03/28/ministerio-da-educacao-e-inep-divulgam-resultados-alarmantes-do-censo-escolar-2023/">
+                            <figure><img width="1024" height="683" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E" class="attachment-large size-large wp-post-image" alt="" decoding="async" data-lazy-srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-1024x683.jpeg 1024w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-300x200.jpeg 300w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-768x512.jpeg 768w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-1536x1024.jpeg 1536w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-272x182.jpeg 272w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes.jpeg 1600w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-1024x683.jpeg"><noscript><img width="1024" height="683" src="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-1024x683.jpeg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-1024x683.jpeg 1024w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-300x200.jpeg 300w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-768x512.jpeg 768w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-1536x1024.jpeg 1536w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes-272x182.jpeg 272w, https://bahiaeconomica.com.br/wp/wp-content/uploads/2023/10/Escolas-estaduais-mobilizam-estudantes.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px"></noscript></figure>
+                            <figcaption>
+                                <h3>MINISTÉRIO DA EDUCAÇÃO E INEP DIVULGAM RESULTADOS ALARMANTES DO CENSO ESCOLAR 2023</h3>
+                            </figcaption>
+                        </a>
+                    </article>
+                                    </section>
+            </div>
+            <!-- /.municipios -->
+        </div>
+        <!-- /.column -->
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /.relacionadas -->
+
+<footer id="footer">
+    <div class="container">
+        <span class="logo"><a href="https://bahiaeconomica.com.br/wp"><img width="334" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20334%2075'%3E%3C/svg%3E" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/footer-logo.png"><noscript><img width="334" height="75" src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/footer-logo.png"></noscript></a></span>
+        <nav>
+    <ul>
+        <li><a href="https://www.instagram.com/bahiaeconomica/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="https://www.facebook.com/bahiaeconomica/?locale=pt_BR" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+        <li><a href="https://www.tiktok.com/@bahiaeconomica" target="_blank"><i class="fab fa-tiktok"></i></a></li>
+        <li><a href="https://twitter.com/bahiaeconomica" target="_blank"><i class="fab fa-twitter"></i></a></li>
+        <li><a href="https://www.linkedin.com/company/22311700/admin/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+        <li class="threadsBE"><a href="https://www.threads.net/@bahiaeconomica" target="_blank"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="threads" data-lazy-src="https://user-images.githubusercontent.com/20134046/251550974-726be2be-7b74-4585-984f-5348b1789e99.svg"><noscript><img src="https://user-images.githubusercontent.com/20134046/251550974-726be2be-7b74-4585-984f-5348b1789e99.svg" alt="threads"></noscript></a></li>
+    </ul>
+</nav>    </div>
+    <!-- /.container -->
+</footer>
+<!-- /#footer -->
+
+<div id="bottom">
+    <div class="container">
+        <p>Copyright © 2023 Bahia Economica - Todos os direitos reservados.</p>
+        <span class="logo"><a href="" target="_blank"><img width="48" height="32" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2032'%3E%3C/svg%3E" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/footer-golab.svg"><noscript><img width="48" height="32" src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/footer-golab.svg"></noscript></a></span>
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /#bottom -->
+
+<div id="box-nav">
+    <div class="box">
+        <span><a href="https://bahiaeconomica.com.br/wp"><img width="438" height="125" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20438%20125'%3E%3C/svg%3E" data-lazy-src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/box-logo.png"><noscript><img width="438" height="125" src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/img/box-logo.png"></noscript></a></span>
+        <form action="https://bahiaeconomica.com.br/wp" method="get">
+            <fieldset>
+                <label>
+                    <input type="search" name="s" placeholder="Buscar">
+                </label>
+            </fieldset>
+        </form>
+        <nav>
+            <ul>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/artigos/">Artigos</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/politica/">Política</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/economia-e-politica/">Economia</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/bahia-invest/">Bahia Invest</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/nordeste-invest/">Nordeste Invest</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/empregos-e-concursos/">Empregos / Concursos</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/entretenimento/">Entretenimento</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/colunistas/">Coluna</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/coluna-politica/">Coluna Política</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/entrevistas/">Entrevistas</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/cultura-e-arte/">Cultura e Arte</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/saude-educacao/">Saúde e Educação</a></li>
+                <li><a href="https://bahiaeconomica.com.br/wp/category/esporte/">Esporte</a></li>
+                <!-- <li><a href="">Revista Digital <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="assets/img/box-anchor.svg" /><noscript><img src="assets/img/box-anchor.svg" /></noscript></a></li> -->
+                <li><a href="https://bahiaeconomica.com.br/wp/quem-somos/">Quem Somos</a></li>
+            </ul>
+        </nav>
+    </div>
+    <!-- /.box -->
+    <sub></sub>
+</div>
+<!-- /#box-nav -->
+
+<!--scripts -->
+<script data-minify="1" src="https://bahiaeconomica.com.br/wp/wp-content/cache/min/1/jquery-3.6.0.min.js?ver=1693927544" type="7c0b5f19b58834604b0f07a7-text/javascript"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://bahiaeconomica.com.br/wp/wp-content/cache/min/1/wp/wp-content/themes/bahiaeconomica/assets/js/core.js?ver=1693927544"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://bahiaeconomica.com.br/wp/wp-content/themes/bahiaeconomica/assets/js/youtubefeed.min.js"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://bahiaeconomica.com.br/wp/wp-content/cache/min/1/npm/slick-carousel@1.8.1/slick/slick.min.js?ver=1693927544"></script>
+
+<script type="7c0b5f19b58834604b0f07a7-text/javascript" id="wp-postviews-cache-js-extra">
+/* <![CDATA[ */
+var viewsCacheL10n = {"admin_ajax_url":"https:\/\/bahiaeconomica.com.br\/wp\/wp-admin\/admin-ajax.php","nonce":"2105217ed4","post_id":"781998"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://bahiaeconomica.com.br/wp/wp-content/cache/min/1/wp/wp-content/plugins/wp-postviews/postviews-cache.js?ver=1693927544" id="wp-postviews-cache-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type="7c0b5f19b58834604b0f07a7-text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/wp(\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$))|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/bahiaeconomica.com.br\/wp","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://bahiaeconomica.com.br/wp/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.1.6.2" id="__ytprefsfitvids__-js"></script>
+<!--noptimize--><script type="7c0b5f19b58834604b0f07a7-text/javascript">!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><!--/noptimize--><script type="7c0b5f19b58834604b0f07a7-text/javascript">window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async="" src="https://bahiaeconomica.com.br/wp/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js" type="7c0b5f19b58834604b0f07a7-text/javascript"></script><script type="7c0b5f19b58834604b0f07a7-text/javascript">function lazyLoadThumb(e){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7c0b5f19b58834604b0f07a7-|49" defer=""></script>
+
+
+</body></html>

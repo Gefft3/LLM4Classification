@@ -1,0 +1,309 @@
+<html ⚡=""><head><meta charset="utf-8"><title>Versão mutante do oropouche pode ser responsável pelas mortes no Brasil; entenda - Folha PE</title><!--AQUI VAI O LINK DA VERSÃO NORMAL DA PAGINA--><link rel="canonical" href="https://www.folhape.com.br/noticias/versao-mutante-do-oropouche-pode-ser-responsavel-pelas-mortes-no/351308/"><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><meta name="robots" content="max-image-preview:large"><!--RESET PARA VALIDAR O AMP-->
+		<style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+		<!--SCRIPT PARA VALIDAR O AMP--><script async="" src="https://cdn.ampproject.org/v0.js"></script><script async="" custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script><script async="" custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script><script async="" custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async="" custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script><script async="" custom-element="amp-soundcloud" src="https://cdn.ampproject.org/v0/amp-soundcloud-0.1.js"></script><script async="" custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script><script async="" custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script><script async="" custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script><!--JS PRA CHAMAR O AMP ANALYTICS--><script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script><!--FONTE FACE DEVE SER PELO GOOGLE FONTS--><link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700" rel="stylesheet" type="text/css"><!-- Ad Manager --><script async="" custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script><!--TODO O ESTILO DEVE SER INLINE E DEVE CONTER O "amp-custon"-->
+		<style amp-custom="">
+
+			body {
+				padding: 0;
+				margin: 0;
+				font-family: 'IBM Plex Sans', sans-serif;
+				font-weight: 400;
+			}
+			header {
+				display: block;
+				background: #fff;
+				padding: 20px;
+				height: 35px;
+				border-bottom: 5px solid #FCD331;
+			}
+			header a {
+				display: block;
+				width: 250px;
+				margin: auto;
+				height: 20px;
+			}
+			header a svg {
+				display: block;
+				fill: #231f20;
+			}
+			h1, h2, h3, h4, h5, h6 {
+				font-weight: 600;
+				margin: 0;
+			}
+			article {
+				padding: 20px;
+			}
+			article span.chapel {
+				font-family: 'IBM Plex Sans', sans-serif;
+				font-size: 16px;
+				color: #d7a110;
+				display: block;
+				margin-top: 10px;
+			}
+			article h1 {
+				font-family: 'IBM Plex Sans', sans-serif;
+				font-size: 28px;
+				font-weight: bold;
+				color: #231f20;
+				line-height: 28px;
+				display: block;
+			}
+			article h2 {
+				font-family: 'IBM Plex Sans', sans-serif;
+				font-size: 22px;
+				line-height: 24px;
+				font-weight: normal;
+				color: #818286;
+				margin-top: 10px;
+			}
+			.descricaoNoticia {
+				width: 100%;
+				position: relative;
+				z-index: 9;
+				justify-content: space-between;
+				padding: 30px 0;
+			}
+			.dataAutor {
+				font-size: 14px;
+				line-height: 16px;
+				display: inline-block;
+				text-align: left;
+			}
+			.dataAutor strong {
+				color: #231f20;
+			}
+			.dataAutor small {
+				font-size: 12px;
+				display: block;
+			}
+			.compartilhaComenta { 
+				position: fixed;
+				bottom: 0;
+				left: 0;
+				width: 100%;
+				background: #fff;
+				padding: 10px 20px;
+				box-sizing: border-box;
+				z-index: 99;
+				border-top: 1px solid #dee0e6;
+				box-shadow: 0 0 1px 0 rgba(0,0,0,0.1), 0 -5px 10px 0 rgba(0,0,0,0.1);
+				text-align: right;
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				align-content: space-between;
+			}
+			.share {
+				width: 28px;
+				height: 28px;
+				margin-left: 10px;
+				text-decoration: none;
+			}
+			.share svg {
+				height: 28px;
+				width: 28px;
+				border-radius: 4px;
+				overflow: hidden;
+			}
+			.facebook {
+				fill: #416ff1;
+			}
+			.whats {
+				fill: #3eb43e;
+				border-radius: 1px;
+			}
+			.twitter {
+				fill: #489ef1;
+			}
+			.comment {
+				fill: #9aa0ad;
+			}
+			article p {
+				line-height: 30px;
+				font-size: 18px;
+				color: #231f20;
+				display: block;
+				margin: 0 0 30px 0;
+			}
+			article p small, article p span, article p big, article p strong, article p b, article p i, article p em, article p a {
+				font-size: 16px;
+				display: inline;
+			}
+			article p a { color: #004d8c;}
+			article div.legenda, article div {
+				color: #999;
+				font-size: 12px;
+				display: block;
+				padding: 10px 0 0 0;
+			}
+			.legenda {
+				margin-bottom: 30px;
+			}
+			article div { padding: 0 0 10px 0;}
+			article div amp-img {
+				margin-bottom: 10px;
+			}
+			footer {
+				border-top: 5px solid #FCD331;
+				height: 150px;
+				text-align: center;
+				padding-top: 30px;
+			}
+			footer .footer {
+				overflow: hidden;
+				position: relative;
+				width: 100%;
+			}
+			footer .copy {
+				font-size: 12px;
+				color: #9aa0ad;
+			}
+			footer .ass small {
+				color: #9aa0ad;
+				margin: 0px 10px 0px 20px;
+				vertical-align: bottom;
+				font-size: 12px;
+			}
+			footer .ass {
+				text-align: center;
+				margin-top: 15px;
+			}
+			footer .ass a {
+				text-decoration: none;
+			}
+			footer .ass a svg {
+				width: 65px;
+				fill: #9aa0ad;
+			}
+			footer span {
+				display: block;
+			}
+			.banner {
+				padding-top: 30px;
+				display: block;
+				margin: 0 -20px;
+			}
+			.banner amp-ad { margin: auto; display: block;}
+			.spacer20 {
+				display: block;
+				position: relative;
+				overflow: hidden;
+				width: 100%;
+				height: 20px;
+				clear: both;
+				padding: 0;
+				margin: 0;
+				border: none;
+			}
+		</style>
+		<script type="application/ld+json">{ "@context": "http://schema.org","@type": "NewsArticle","mainEntityOfPage":{ "@type":"WebPage", "@id":"https://www.folhape.com.br/noticias/versao-mutante-do-oropouche-pode-ser-responsavel-pelas-mortes-no/351308/"},"headline": "Versão mutante do oropouche pode ser responsável pelas mortes no Brasil; entenda","datePublished": "2024-07-27T12:50:00-04:00","dateModified": "2024-07-27T12:50:00-04:00","author": { "@type": "Person", "name": "Agência O Globo"},"description": "","image": ["https://cdn.folhape.com.br/upload/dn_arquivo/2024/07/captura-1_22.jpg"],"publisher": {"@type": "Organization","name": "Folha PE - Noticias de politica, economia, esportes, cultura.","logo": {"@type": "ImageObject","url": "https://www.folhape.com.br/application/themes/folhape.com.br/gfx/logo-300x36.gif","width": 300,"height": 36}} }</script></head><body>
+
+<!--AMP ANALYTICS GA4-->
+<amp-analytics type="gtag" data-credentials="include">
+	<script type="application/json">
+	{
+		"vars" : {
+			"gtag_id": "G-LF8TCK03NB",
+			"config" : {
+				"G-LF8TCK03NB": { "groups": "default" }
+			}
+		}
+	}
+	</script>
+</amp-analytics>
+
+
+<!-- Stocly AD AMP --><amp-sticky-ad layout="nodisplay"><amp-ad width="320" height="100" type="doubleclick" data-slot="/21867286880,88816410/folhape/amp" data-multi-size="320x50,300x50"></amp-ad></amp-sticky-ad><header><!--Logo da Folha PE--><h1><a href="https://www.folhape.com.br/" title="Folha PE" class="logoCorreio"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 755.2 102.8"><g><path d="M0,0.9h34.7v14.6H15.3V42h15.4v15.3H15.3v44.2H0V0.9z"></path><path d="M79.3,79c0,14-4.7,23.6-19.4,23.6h-2.6c-14.6,0-19.7-9.6-19.7-23.6V23.1C37.5,9.2,42.8,0,57.1,0h2.6c14.9,0,19.6,9.2,19.6,23V79z M63.7,22.3c0-5.3-1.8-7.7-5.3-7.7c-3.9,0-5.4,2.6-5.4,7.7v57.8c0,4.3,1.2,7.7,5.5,7.7c4.1,0,5.1-3.4,5.1-7.7V22.3z"></path><path d="M98.6,0.9v84.9h18.6v15.5H83.3V0.9H98.6z"></path><path d="M135.7,101.4h-15.3V0.9h15.3v40.2h10.4V0.9h15.3v100.5h-15.3V57.3h-10.4V101.4z"></path><path d="M190.8,82.5h-11.2l-1.9,18.9h-13.6L176.4,0.9h18.1l13.1,100.5h-14.7L190.8,82.5z M181.2,67.5h8l-4.1-37.1L181.2,67.5z"></path></g><g><path d="M255.9,0.9v100.5h-14.4v-8.2c-1.1,3-4.9,8.9-11.2,8.9h-0.1c-6.5,0-10.9-6.2-10.9-15.4V42.4c0-6.9,3-14,10.4-14h0.3c6.5,0,10,5.5,11.6,8.1V0.9H255.9z M241.4,47.8c0-3.8-0.9-6.5-4.1-6.5c-2.4,0-3.8,1.8-3.8,5.8V83c0,3.8,1.1,5.8,3.8,5.8c3,0,4.1-2.3,4.1-6.6V47.8z"></path><path d="M294.7,45.9v20.9h-21.5v16.7c0,3.2,0.9,5.4,3.9,5.4c2.4,0,3.6-2.2,3.6-5.3v-12h13.9v12.7c0,12.8-6.6,18.4-16.9,18.4h-2.6c-9.6,0-15.9-5.8-15.9-18.2V45.2c0-9.9,4.7-17.4,16.5-17.4h2.7C289.8,27.8,294.7,34.2,294.7,45.9z M273.2,55h8v-9.2c0-3.2-0.5-5.8-3.9-5.8c-3.6,0-4.1,2.6-4.1,5.8V55z"></path></g><g><path d="M321.7,59.7v41.7h-15.3V0.9h24.2c10.8,0,15.7,4.6,15.7,16.6v23.8c0,11.9-5.3,18.4-15.7,18.4H321.7z M321.7,45.2h3.9c4.6,0,5.3-3.2,5.3-7.3V21.5c0-3.9-0.8-6.9-5.3-6.9h-3.9V45.2z"></path><path d="M384.6,0.9v14.6h-19.4v26.3h15.3v15.3h-15.3v29h20.3v15.3h-35.5V0.9H384.6z"></path><path d="M404,101.4h-15.3V0.9h24.7c10.1,0,15.3,4.3,15.3,15.5v17.8c0,8.4-3.9,11.6-6.6,12.8c3.4,1.5,6.6,4.2,6.6,10.9v35.2c0,4.1,0.8,5.9,1.5,7.4v0.7h-15.1c-0.7-1.1-1.5-2.8-1.5-8.2V62.9c0-4.5-0.8-6.3-5.7-6.3H404V101.4z M404,42.3h4.1c4.2,0,5.5-2.7,5.5-7.2v-14c0-4.3-0.9-6.5-5.5-6.5H404V42.3z"></path><path d="M447.2,0.9l13.1,53.9V0.9h13.9v100.5h-12.4l-14.6-57.8v57.8h-13.8V0.9H447.2z"></path><path d="M503.7,82.5h-11.2l-1.9,18.9h-13.6L489.2,0.9h18.1l13.1,100.5h-14.7L503.7,82.5z M494.1,67.5h8L498,30.4L494.1,67.5z"></path><path d="M523.1,0.9h19.6l7.3,53.1l7.4-53.1h18.2v100.5h-14.3V36.5l-9.2,64.9H546l-9.3-64.9v64.9h-13.6V0.9z"></path><path d="M579.9,0.9h24c12.7,0,16.1,6.6,16.1,16.3v15.4c0,8.4-3.6,12.4-7.6,13.9c4.1,1.4,8.8,4.7,8.8,14.7V83c0,10.7-4.7,18.4-16.2,18.4h-25.1V0.9z M595.1,14.6v26.1h4.6c4.1,0,5.3-2.8,5.3-7V20.9c0-4.1-1.1-6.3-5.3-6.3H595.1z M595.1,55.6v31.6h4.6c4.9,0,5.9-2.3,5.9-6.8V62.1c0-4.2-1.1-6.5-5.9-6.5H595.1z"></path><path d="M624.8,0.9h15.5v79.5c0,4.3,1.5,7.2,4.9,7.2c3.6,0,5-2.7,5-7.2V0.9h15.5v78.6c0,14.2-5.7,23.1-19.2,23.1h-2.7c-13.5,0-19-8.6-19-23.1V0.9z"></path><path d="M694.9,57.7h15v23.2c0,10.8-3.5,21.7-18.2,21.7h-3.4c-15.4,0-18.8-11.1-18.8-21.2V20.1C669.5,9.9,674,0,687.8,0h3.5c16.7,0,18.6,11.1,18.6,20.9v18h-15V21.2c0-4.3-1.3-6.6-5.1-6.6c-3.8,0-4.7,2.2-4.7,6.6v59.7c0,4.5,1.5,6.9,4.9,6.9c3.6,0,5-2.7,5-6.8V57.7z"></path><path d="M755.2,79c0,14-4.7,23.6-19.4,23.6h-2.6c-14.6,0-19.7-9.6-19.7-23.6V23.1C713.5,9.2,718.7,0,733,0h2.6c14.9,0,19.6,9.2,19.6,23V79z M739.6,22.3c0-5.3-1.8-7.7-5.3-7.7c-3.9,0-5.4,2.6-5.4,7.7v57.8c0,4.3,1.2,7.7,5.5,7.7c4.1,0,5.1-3.4,5.1-7.7V22.3z"></path></g></svg></a></h1></header><article><amp-ad width="320" height="100" type="doubleclick" data-slot="/21867286880,88816410/folhape/amp" data-multi-size="320x50,300x50"></amp-ad><span class="chapel">Saúde</span><h1>Versão mutante do oropouche pode ser responsável pelas mortes no Brasil; entenda</h1><h2>Cientistas alertam para rearranjo genético da doença no país</h2><!--Autor, data e hora da notícia--><div class="descricaoNoticia"><aside class="dataAutor"><span>Por </span><strong>Agência O Globo</strong><small>27 JUL 2024 às 12h50</small></aside></div><!-- IMAGEM DA NOTICIA --><amp-img alt="Mosquito Coquillettidia venezuelensis, um dos transmissores da febre oropouche " src="https://cdn.folhape.com.br/img/c/1200/900/dn_arquivo/2024/07/captura-1_22.jpg" width="1200" height="900" layout="responsive"></amp-img><div class="legenda" id="imageDescription">Mosquito Coquillettidia venezuelensis, um dos transmissores da febre oropouche  - Reprodução/iNaturalist</div><amp-ad width="336" height="280" type="doubleclick" data-slot="/88816410/folhape/amp" data-multi-size="300x250,250x250"></amp-ad><p>O vírus oropouche que circula no Brasil sofreu mudanças que o diferenciam das linhagens anteriores. Ele teve um rearranjo genético e adquiriu sequências de outros dois tipos de vírus amazônicos.</p>
+
+<p>Cientistas vão investigar se essas mudanças estão associadas aos recentes casos de morte, distúrbios neurológicos, microcefalia e abortamento de fetos. E também se poderiam ter facilitado o seu espalhamento pelo país.</p><div class="spacer10"></div><amp-ad width="300" height="1" noloading="" type="teads" data-pid="119664" layout="responsive"><div placeholder=""></div></amp-ad><p></p>
+
+<div></div>
+
+<p>Pesquisadores da Universidade Federal de Minas Gerais (UFMG) e do Laboratório Hermes Pardini/Grupo Fleury encontraram o oropouche com rearranjos genéticos em amostras de Santa Catarina, Bahia e Espírito Santo e as compararam com sequências de genoma viral de Amazonas, Acre e Rondônia.</p>
+
+<p>Com isso, confirmaram dados das equipes dos pesquisadores da Fundação Oswaldo Cruz (Fiocruz) Felipe Naveca e Gonzalo Bello, os primeiros a descrever o rearranjo viral em amostras da Região Norte. Rearranjos genéticos representam mudanças genéticas no genoma maiores do que simples mutações.</p>
+
+<p>— Precisamos descobrir se essas alterações trouxeram novas propriedades ao oropouche. Mas vimos que o mesmo vírus com o rearranjo genético amazônico circula de Norte a Sul do Brasil — afirma Renato Santana, cientista do Laboratório de Biologia Integrativa da UFMG à frente da análise do sequenciamento genético.</p>
+
+<p>O oropouche costuma causar sintomas semelhantes aos das febres dos vírus da dengue, zika e chicungunya.</p>
+
+<p>Porém, é completamente distinto deles.</p>
+
+<p>Ele pertence a uma família de vírus chamada Orthobunyavirus, que tem o genoma segmentado.</p>
+
+<p>Isso faz com que rearranjos, ou seja, trocas genéticas, sejam mais frequentes.</p>
+
+<p>Eles podem trocar sequências ao infectar simultaneamente o mesmo indivíduo, seja um animal ou uma pessoa.</p>
+
+<p>Tais rearranjos tornam mais fácil que “pulem” entre diferentes hospedeiros, por exemplo.</p>
+
+<p>No caso, o oropouche se rearranjou com outros dois Orthobunyavirus que circulam na Amazônia.</p>
+
+<p>Um se chama Iquito e o outro é conhecido apenas pela sigla PEDV ou vírus de Perdões.</p>
+
+<p>Ambos podem afetar seres humanos.</p>
+
+<p>Na quinta-feira, o Ministério da Saúde informou a confirmação das duas primeiras mortes causadas pelo oropouche no mundo.</p>
+
+<p>Duas mulheres, de 21 e 24 anos, sem comorbidades, morreram na Bahia.</p>
+
+<p>Os óbitos ocorreram em março e maio.</p>
+
+<p>Uma terceira morte está em investigação. É o caso de um homem de 59 anos, infectado em Santa Catarina e que morreu no Paraná, em abril.</p>
+
+<p><strong>Casos em bebês</strong><br>
+O ministério também investiga seis casos de transmissão vertical (da gestante para o filho), de microcefalia e morte de fetos.</p>
+
+<p>São quatro casos de bebês com microcefalia e anticorpos para oropouche.</p>
+
+<p>E dois fetos com graves malformações neurológicas cujas mães sofreram abortamento, em Pernambuco.</p>
+
+<p>Num feto natimorto com 30 semanas de gestação, o RNA do vírus foi encontrado no cérebro, no fígado, no coração, no pulmão e nos rins.</p>
+
+<p>Em 2024, até o momento, foram registrados 7.236 casos, em 20 estados, sendo a maioria em Amazonas e Rondônia. A maioria dos quadros é leve, com febre e dores.</p>
+
+<p>No entanto, alguns podem evoluir para sintomas neurológicos.</p>
+
+<p>Os casos de transmissão vertical, microcefalia e abortamento remetem à epidemia de vírus zika.</p>
+
+<p>E especialistas lembram que as suspeitas de que o oropouche pudesse ter transmissão na gestação, causar malformações, abortamentos e distúrbios neurológicos não são novas.</p>
+
+<p>O virologista Pedro Fernando da Costa Vasconcelos, coordenador do Instituto Nacional de Ciência e Tecnologia de Viroses Emergentes e Reemergentes, diz que nos anos 1980 num surto de oropouche em Manaus houve três casos de abortamento, mas não foi possível investigar.</p>
+
+<p>E, em 2015, durante a epidemia de zika, num estudo do Instituto Evandro Chagas com 51 casos de microcefalia negativos para este vírus, três deram positivo para oropouche. Mas como a só a presença de anticorpos não permite tirar conclusões definitivas, nada se provou na ocasião.</p>
+
+<p>Vasconcelos e Naveca lembram que vírus da família Orthobunyavirus, como o akabane e o schmallenberg, são associados a malformações e abortamento em bovinos, caprinos e ovinos.</p>
+
+<p>O virologista Amílcar Tanuri, da Universidade Federal do Rio de Janeiro (UFRJ), acrescenta que outro vírus da mesma família, o La Crosse, pode provocar encefalite em humanos.</p>
+
+<p>Mas os especialistas são unânimes em destacar que o oropouche, ao menos por ora, não representa uma ameaça da magnitude do zika. Isto porque o zika é transmitido pelo Aedes aegypti, o mais eficiente vetor enfrentado pela Humanidade.</p>
+
+<p>O oropouche tem vários transmissores. O principal vetor é o Culicoides paraenses, conhecido como borrachudo ou maruim. Há muitas outras espécies de maruins, que se distribuem do Canadá à Patagônia. Não se sabe quantas delas poderiam carregar o vírus.</p>
+
+<p>O oropouche também já foi encontrado no pernilongo (Culex quinquefasciatus) e se sabe que pode infectar outras espécies de mosquitos (Coquillettidia venezuelensis e Aedes serratus). Na verdade, se desconhece quantos vetores pode ter.</p>
+
+<p>É consenso entre os cientistas que a testagem molecular em ampla escala feita pelo Ministério da Saúde mudou o diagnóstico e tem identificado casos que no passado acabariam confundidos com dengue, zika ou chicungunya.</p>
+
+<p>O ministério e cientistas investigam várias hipóteses para o espalhamento, que não são excludentes.</p>
+
+<p>Uma é que o maruim, favorecido pelo calor, tenha ampliado a área de infestação.</p>
+
+<p>Outra que o diagnóstico agora consegue distinguir o vírus.</p>
+
+<p>E, por fim, que haja novos vetores.</p>
+
+<p>Os cientistas destacam a resposta rápida das autoridades de saúde, mas dizem que é preciso ampliar estudos.</p>
+
+<p>— Precisamos estar à frente do vírus e não a reboque dele — enfatiza Tanuri, que acrescenta que a UFRJ remontou a força-tarefa que investigou o zika.</p>
+
+<p>Naveca também ressalta a importância de mais estudos:</p>
+
+<p>—Há muito a descobrir. O número de casos graves é pequeno para saber como ele, de fato, se manifesta. Temos evidências que gestantes assintomáticas podem ter o feto infectado.</p>
+
+<p>Também é consenso que oropouche, como outros arbovírus, tem sua disseminação ligada a desequilíbrios ambientais.</p>
+
+<p>— É fundamental fazer vigilância na Amazônia. Ela tem enorme diversidade de vírus— alerta Santana.</p>
+<p></p><div class="banner"><amp-ad width="300" height="250" type="clever" data-id="69734" data-hash="832ff4385afa492d273cda77ce46cad5"></amp-ad></div><!-- BANNER AMP --><div class="banner">
+				<amp-ad width="336" height="280" type="doubleclick" data-slot="/21867286880,88816410/folhape/amp" data-multi-size="300x250,250x250" json="{&quot;targeting&quot;:{&quot;position&quot;:[&quot;aftertext&quot;]}}">
+				</amp-ad>
+				</div><amp-embed width="100" height="100" type="taboola" layout="responsive" data-publisher="folhape-network" data-mode="alternating-thumbnails-a" data-placement="Below Article Thumbnails AMP" data-target_type="mix" data-article="auto" data-url=""></amp-embed></article><!--Rodapé AMP--><footer><small class="copy">©2020 Folha de Pernambuco. Todos os Direitos Reservados.</small><div class="ass"><span><small>Desenvolvimento</small><a href="http://www.dothcom.net/?utm_source=https://www.folhape.com.br/" class="dothcom" title="Desenvoldio por dothCom"><svg viewBox="0 0 632.433 176.658"><path d="M225.896,106.16h-13.812c-6.852,0-12.276,1.66-16.274,4.979c-6.139,5.066-9.208,12.188-9.208,21.358c0,5.568,1.035,10.314,3.104,14.24c3.07,5.782,7.745,9.656,14.027,11.617c2.569,0.786,6.424,1.179,11.562,1.179h25.269V86.46h-14.669V106.16z M225.896,148.13h-10.6c-3.318,0-6.175-0.89-8.564-2.675c-3.463-2.605-5.193-6.924-5.193-12.957c0-4.175,1.035-7.602,3.104-10.278c2.427-3.104,5.978-4.658,10.653-4.658h10.6V148.13z M279.645,105.356c-9.352,0.107-16.507,2.928-21.468,8.459c-4.462,4.961-6.691,11.188-6.691,18.683c0,8.779,2.319,15.508,6.959,20.183c5.068,5.104,12.062,7.655,20.986,7.655c8.637,0,15.435-2.283,20.396-6.853c5.425-4.959,8.138-11.615,8.138-19.968c0-7.85-2.16-14.382-6.477-19.594C296.774,108.213,289.494,105.356,279.645,105.356z M279.858,149.095c-5.068,0-8.799-1.963-11.188-5.889c-1.428-2.319-2.142-5.71-2.142-10.172c0-10.957,4.408-16.435,13.223-16.435c8.78,0.105,13.17,5.495,13.17,16.167C292.921,143.652,288.567,149.095,279.858,149.095z M336.819,86.46h-14.67v19.7h-9.314v11.401h9.314v21.95c0,7.21,1.348,12.35,4.043,15.419c2.693,3.069,7.217,4.604,13.57,4.604h10.654V148.13h-5.782c-3.141,0-5.335-0.874-6.585-2.622c-0.822-1.178-1.23-4.033-1.23-8.566v-19.38h13.598V106.16h-13.598V86.46z M406.896,110.817c-1.749-1.714-3.892-2.917-6.425-3.613c-2.534-0.695-6.013-1.044-10.439-1.044h-15.097v-19.7h-14.668v73.074h14.668v-41.973h11.938c4.14,0.037,6.94,0.841,8.405,2.41c0.785,0.856,1.312,1.893,1.578,3.104c0.269,1.215,0.402,3.249,0.402,6.104v30.354h14.668v-33.246C411.891,119.045,410.214,113.887,406.896,110.817z M438.776,89.511c-4.625,2.034-8.309,5.265-11.057,9.688c-3.82,6.176-5.729,14.169-5.729,23.985c0,8.173,1.248,15.024,3.748,20.557c3.783,8.28,10.152,13.295,19.111,15.043c2.568,0.5,6.281,0.75,11.137,0.75h25.48v-13.01h-22.377c-6.174,0-10.727-1.178-13.652-3.533c-4.174-3.391-6.262-10.474-6.262-21.253c0-8.065,1.338-13.633,4.014-16.703c3.248-3.711,8.352-5.567,15.311-5.567h22.967V86.46h-24.732C449.382,86.46,443.396,87.478,438.776,89.511z M516.8,105.356c-9.352,0.107-16.506,2.928-21.467,8.459c-4.463,4.961-6.691,11.188-6.691,18.683c0,8.779,2.318,15.508,6.959,20.183c5.066,5.104,12.062,7.655,20.984,7.655c8.639,0,15.436-2.283,20.396-6.853c5.426-4.959,8.139-11.615,8.139-19.968c0-7.85-2.16-14.382-6.479-19.594C533.933,108.213,526.651,105.356,516.8,105.356z M517.015,149.095c-5.068,0-8.797-1.963-11.189-5.889c-1.428-2.319-2.141-5.71-2.141-10.172c0-10.957,4.406-16.435,13.223-16.435c8.779,0.105,13.17,5.495,13.17,16.167C530.077,143.652,525.722,149.095,517.015,149.095z M627.616,111.085c-1.713-1.855-3.846-3.14-6.396-3.854c-2.553-0.714-6.291-1.07-11.217-1.07H556.04v53.374h14.67v-41.973h15.793v41.973h14.668v-41.973h7.816c3.104,0,5.406,0.733,6.904,2.196c0.785,0.821,1.293,1.731,1.525,2.73s0.348,2.783,0.348,5.354v31.692h14.668V125.54C632.433,119.401,630.827,114.583,627.616,111.085z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M168.897,39.312c-5.573,3.074-8.637,3.505-13.585,3.997c6.448-3.111,11.39-6.226,13.634-9.339c-0.077-5.422-0.514-10.736-1.166-14.865c-1.914,2.067-3.982,3.273-6.194,3.694c2.999-2.658,5.161-5.177,5.478-7.384c-0.239-0.992-0.494-1.833-0.763-2.5C162.637,4.034,156.37,0,148.888,0c-2.85,0-5.877,0.586-9.002,1.711c-1.99,1.276-4.562,6.647-7.4,13.887c-0.161-4.574-0.077-8.132,0.513-10.632c-2.974,1.729-5.987,3.893-8.979,6.45c-0.871,1.279-0.434,7.228-0.212,8.915c-0.387-0.664-2.688-5.837-2.305-6.666c-2.135,1.995-4.255,4.19-6.329,6.569c-5.836,6.328-12.268,13.234-18.894,20.335c-1.396,1.508-2.072,6.043-2.347,12.274c-1.452-2.44-1.95-5.163-1.491-8.168C76.925,61.284,60.75,78.536,48.822,91.644c-1.295,4.075-0.479,9.059,1.643,14.606c-2.805-2.081-4.879-5.263-6.22-9.545c-3.172,3.529-5.912,6.637-8.092,9.199c-10.22,13.43-15.281,26.863-12.805,40.295c0.353,2.976,0.871,5.567,2.004,10.009l-23.84,20.45c10.404-3.14,20.369-9.721,29.792-16.219c5.587,2.597,12.219,3.62,19.33,3.924c18.67-1.105,31.897-5.832,43.222-12.958c-11.627-2.381-14.08-3.692-20.256-7.77c10.309,2.56,17.771,3.383,23.891,3.383c0.968,0,1.901-0.021,2.807-0.059c8.625-6.452,16.466-14.312,25.368-22.941c14.244-12.626,29.104-35.996,37.215-57.31c-3.625,0.175-6.952,0.278-9.841,0.278c-4.265,0-7.568-0.227-9.447-0.788c9.242-2.357,20.466-4.943,22.291-8.333c0.782-2.64,1.437-5.219,1.943-7.701C168.433,46.951,168.772,43.196,168.897,39.312z"></path><g><path fill-rule="evenodd" clip-rule="evenodd" d="M44.245,96.705c-3.172,3.529-5.912,6.637-8.092,9.199c-7.971,10.475-12.783,20.951-13.349,31.428c0.896-0.315,1.798-0.656,2.704-1.029c10.591-5.682,17.031-12.008,21.713-19.218c-7.422,1.746-9.207,1.643-13.909,0.932c7.762-1.492,12.671-3.313,16.47-5.262c3.29-6.093,5.743-12.791,8.609-20.227c2.008-4.591,3.582-10.269,4.681-16.369c-5.144,5.545-9.974,10.784-14.25,15.484c-1.295,4.075-0.479,9.059,1.643,14.606C47.66,104.169,45.586,100.987,44.245,96.705z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M8.56,138.362l-8.39,18.363c5.222-4.64,9.259-11.165,13.004-17.498c1.327,0.003,2.677-0.14,4.042-0.382c0.114-11.662,4.92-23.606,14.56-36.273l0.091-0.118l0.097-0.113c2.115-2.488,4.794-5.535,8.189-9.312l6.456-7.186l0.015,0.048c5.295-5.796,11.363-12.352,17.739-19.201c0.557-5.966,0.668-12.019,0.277-17.628c-5.122,2.674-9.298,4.605-11.389,4.905c4.755-3.87,10.605-8.404,10.756-10.874c-0.257-1.751-0.57-3.432-0.945-5.018c-0.512-2.037-1.327-4.318-2.301-6.619c-2.424,3.298-4.094,4.373-6.847,5.997c2.923-3.555,4.964-6.703,5.433-9.124c-1.507-3.144-3.196-6.125-4.689-8.356c-0.559,1.722-1.441,2.983-2.617,3.825c1.034-2.358,1.615-4.412,1.204-5.785c-0.408-0.514-0.784-0.937-1.119-1.252c-6.26-5.789-12.92-4.849-18.433,0.588c-0.816,1.281-0.866,5.109-0.569,10.096c-1.328-2.622-2.238-4.721-2.568-6.337c-1.109,1.584-2.148,3.371-3.098,5.331c-0.2,0.673,0.729,4.099,1.028,4.344c-0.568-0.211-1.838-2.031-1.915-2.399c-0.857,1.997-1.628,4.151-2.296,6.438c-1.696,5.267-3.585,11.028-5.535,16.958c-0.408,1.258,0.422,4.085,1.943,7.793c-1.507-1.03-2.531-2.485-3.074-4.361c-4.57,13.873-9.354,28.3-12.774,39.163c0.345,2.728,2.164,5.414,4.898,8.077c-2.198-0.457-4.266-1.754-6.203-3.89c-0.899,2.912-1.657,5.466-2.238,7.548c-2.339,10.592-1.668,19.792,3.4,26.959C5.699,134.708,6.7,136.08,8.56,138.362z"></path></g></svg></a></span><span><small>Plataforma</small><a href="http://www.dothnews.com.br/?utm_source=https://www.folhape.com.br/" class="dothnews" title="Plataforma DothNews"><svg viewBox="0 0 318.724 39.655"><path d="M14.187,0.872H0V38.85c0,0,13.738,0,14.187,0c10.477,0,18.989-8.803,18.989-18.988C33.176,9.457,24.591,0.872,14.187,0.872z M14.187,30.773H8.076V8.947h6.111c5.966,0,10.913,5.021,10.913,10.914C25.1,25.826,20.08,30.773,14.187,30.773z M55.038,0.073c-9.822-0.291-18.261,9.021-18.116,19.789c-0.146,10.694,8.294,20.007,18.116,19.789c9.822,0.218,18.261-9.095,18.116-19.789C73.299,9.095,64.86-0.218,55.038,0.073z M61.877,28.52c-1.819,2.401-4.147,3.565-6.839,3.565s-4.947-1.164-6.839-3.565c-1.819-2.401-2.765-5.238-2.765-8.657c0-6.693,4.292-12.223,9.604-12.223c2.692,0,4.947,1.236,6.839,3.637c1.892,2.401,2.837,5.238,2.837,8.586C64.714,23.281,63.769,26.118,61.877,28.52z M76.099,0.873h35.577v8.075h-13.75v29.902h-8.076V8.948h-13.75V0.873z M142.812,0.873h8.148v37.978h-8.148V23.863h-16.15v14.987h-8.076V0.873h8.076v14.915h16.15V0.873z M181.698,0.873h8.148v37.978h-6.475l-17.826-22.699v22.699h-8.075V0.873h6.475l17.751,22.772V0.873z M196.757,0.837h24.227v8.075h-16.152v6.84h16.152v8.075h-16.152v6.911h16.152v8.076h-24.227V0.837z M277.003,0.873h8.656l-18.406,38.778h-1.6l-8.877-18.771l-8.875,18.771h-1.674L227.894,0.873h8.658l10.549,22.99l5.457-11.932l-5.238-11.059h8.656l10.477,22.99L277.003,0.873z M318.724,27.282c0,7.785-7.42,12.369-15.787,12.369c-5.893,0-11.131-1.528-15.787-4.512l1.164-6.693c5.457,2.547,10.113,3.783,14.041,3.783c3.855,0,7.131-1.164,7.131-4.074c0-1.309-1.455-2.4-4.293-3.346c-2.838-0.946-5.602-1.893-8.439-2.766c-2.766-0.945-5.166-2.182-7.203-3.783c-2.037-1.673-3.055-3.928-3.055-6.766C286.495,5.238,293.042,0,301.263,0c5.604,0,11.205,1.673,16.371,4.947l-2.838,6.038c-3.783-1.891-8.73-3.564-12.369-3.564c-4.438,0-6.619,1.383-6.619,3.711c0,1.236,1.381,2.328,4.219,3.346c2.838,0.946,5.602,1.893,8.367,2.766c2.838,0.873,5.238,2.109,7.275,3.637C317.706,22.408,318.724,24.591,318.724,27.282z"></path></svg></a></span></div></footer></body></html>

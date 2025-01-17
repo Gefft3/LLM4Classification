@@ -1,0 +1,2126 @@
+<html lang="pt-PT" prefix="og: https://ogp.me/ns#"><!--<![endif]--><head>
+		
+		 <!-- **** NC PUSH START **** -->
+			
+		
+<script type="text/javascript">
+ITER = {};
+ITER.RESOURCE = ITER.RESOURCE || {};
+ITER.RESOURCE.Deferred = function() {
+    var b;
+    var a;
+    var c = new Promise(function(e, d) {
+        b = e;
+        a = d
+    });
+    c.resolve = b;
+    c.reject = a;
+    return c
+};
+ITER.RESOURCE.onLoad = [];
+ITER.RESOURCE.onInit = [];
+ITER.RESOURCE.onLoad["mas-tracker"] = new ITER.RESOURCE.Deferred();
+ITER.RESOURCE.onInit["mas-tracker"] = new ITER.RESOURCE.Deferred();
+ITER.RESOURCE.onLoad["mas-push"] = new ITER.RESOURCE.Deferred();
+ITER.RESOURCE.onInit["mas-push"] = new ITER.RESOURCE.Deferred();
+
+// pageType = "mainSection" for tracking web sections pages
+// pageType = "detail" for tracking articles pages
+
+ITER.RESOURCE.onLoad["mas-tracker"].then(function() {
+    MAS.TRACKER.configure({
+        piwikUrl: "https://mas.protecmedia.com/endpoint",
+		trackerUrl: "https://cdn.iterwebcms.com/_proxy_https_/mas.protecmedia.com/qapcore.js",
+        siteId: "VEI290N7X2PJI",
+        mode: 1,
+        pageType: "detail"
+    }).then(function() {
+        ITER.RESOURCE.onInit["mas-tracker"].resolve();
+        MAS.TRACKER.sendPageView()
+    })
+})
+
+Promise.all([ITER.RESOURCE.onInit["mas-tracker"], ITER.RESOURCE.onLoad["mas-push"]]).then(function() {
+	MAS.PUSH.HOOK.onGetDomain = function()
+	{
+		return document.domain;
+	}
+		
+    MAS.PUSH.configure({
+        host: "https://mas.protecmedia.com",
+        appid: "VEI290N7X2PJI",
+        workerpath: "/firebase-messaging-sw/v1/VEI290N7X2PJI.js",
+        tracker: MAS.TRACKER,
+        firebase: {
+            firebaseAppUrl: "https://www.gstatic.com/firebasejs/10.4.0/firebase-app-compat.js",
+            firebaseMessagingUrl: "https://www.gstatic.com/firebasejs/10.4.0/firebase-messaging-compat.js"
+        }
+    }).then(function() {
+        ITER.RESOURCE.onInit["mas-push"].resolve();
+        MAS.PUSH.requestPermission()
+    })
+});
+</script>
+<script defer="" onload="ITER.RESOURCE.onLoad['mas-tracker'].resolve()" src="https://cdn.iterwebcms.com/_proxy_https_/mas.protecmedia.com/mas-jslib/v1/VEI290N7X2PJI/mas-tracker-min.js"></script>
+<script defer="" onload="ITER.RESOURCE.onLoad['mas-push'].resolve()" src="https://cdn.iterwebcms.com/_proxy_https_/mas.protecmedia.com/mas-jslib/v1/VEI290N7X2PJI/mas-push-min.js"></script>
+	
+		
+    	 <!-- **** NC PUSH END **** -->
+		
+		 <style type="text/css">#bsu-placeholder {height:60px;position:relative;z-index:10000}</style>
+        <style type="text/css">.bsu_almofada,.subbsu_almofada
+            {overflow:hidden; min-height: 36px;
+             background-color:#222;}.subbsu_almofada {
+                background-color:#fafafa;}</style>
+				<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="refresh" content="900">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="preload" href="https://greensavers.sapo.pt/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="anonymous">
+		<meta name="facebook-domain-verification" content="px3202tkefjc25sy64yil8jop0hcgd">
+		<link rel="pingback" href="https://greensavers.sapo.pt/xmlrpc.php">
+
+			<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho</title>
+<meta name="description" content="Um estudo hoje divulgado, baseado em modelos climáticos, estima em 90% a probabilidade de a temperatura média da superfície da Terra bater o recorde histórico até junho, num cenário de fenómeno El Niño moderado a forte.">
+<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/">
+<meta property="og:locale" content="pt_PT">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho">
+<meta property="og:description" content="Um estudo hoje divulgado, baseado em modelos climáticos, estima em 90% a probabilidade de a temperatura média da superfície da Terra bater o recorde histórico até junho, num cenário de fenómeno El Niño moderado a forte.">
+<meta property="og:url" content="https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/">
+<meta property="og:site_name" content="Green Savers">
+<meta property="article:publisher" content="https://www.facebook.com/greensavers/">
+<meta property="article:section" content="Alterações Climáticas">
+<meta property="og:image" content="https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino-1024x1024.jpg">
+<meta property="og:image:secure_url" content="https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino-1024x1024.jpg">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="1024">
+<meta property="og:image:alt" content="Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="article:published_time" content="2024-02-29T16:05:27+00:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho">
+<meta name="twitter:description" content="Um estudo hoje divulgado, baseado em modelos climáticos, estima em 90% a probabilidade de a temperatura média da superfície da Terra bater o recorde histórico até junho, num cenário de fenómeno El Niño moderado a forte.">
+<meta name="twitter:site" content="@greensavers">
+<meta name="twitter:creator" content="@greensavers">
+<meta name="twitter:image" content="https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino-1024x1024.jpg">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="Green Savers com Lusa">
+<meta name="twitter:label2" content="Time to read">
+<meta name="twitter:data2" content="2 minutes">
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["NewsMediaOrganization","Organization"],"@id":"https://greensavers.sapo.pt/#organization","name":"Green Savers","url":"https://greensavers.sapo.pt","sameAs":["https://www.facebook.com/greensavers/","https://twitter.com/greensavers"],"logo":{"@type":"ImageObject","@id":"https://greensavers.sapo.pt/#logo","url":"https://greensavers.sapo.pt/wp-content/uploads/2020/11/greensavers_logo2.png","contentUrl":"https://greensavers.sapo.pt/wp-content/uploads/2020/11/greensavers_logo2.png","caption":"Green Savers","inLanguage":"pt-PT","width":"500","height":"132"}},{"@type":"WebSite","@id":"https://greensavers.sapo.pt/#website","url":"https://greensavers.sapo.pt","name":"Green Savers","publisher":{"@id":"https://greensavers.sapo.pt/#organization"},"inLanguage":"pt-PT"},{"@type":"ImageObject","@id":"https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino.jpg","url":"https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino.jpg","width":"2550","height":"2548","inLanguage":"pt-PT"},{"@type":"WebPage","@id":"https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/#webpage","url":"https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/","name":"Clima: Estudo estima em 90% a probabilidade de temperatura m\u00e9dia global bater recorde at\u00e9 junho","datePublished":"2024-02-29T16:05:27+00:00","dateModified":"2024-02-29T16:05:27+00:00","isPartOf":{"@id":"https://greensavers.sapo.pt/#website"},"primaryImageOfPage":{"@id":"https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino.jpg"},"inLanguage":"pt-PT"},{"@type":"Person","@id":"https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/#author","name":"Green Savers com Lusa","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f6e27a219de9904fa92578b648febb79?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/f6e27a219de9904fa92578b648febb79?s=96&amp;d=mm&amp;r=g","caption":"Green Savers com Lusa","inLanguage":"pt-PT"},"worksFor":{"@id":"https://greensavers.sapo.pt/#organization"}},{"@type":"NewsArticle","headline":"Clima: Estudo estima em 90% a probabilidade de temperatura m\u00e9dia global bater recorde at\u00e9 junho","datePublished":"2024-02-29T16:05:27+00:00","dateModified":"2024-02-29T16:05:27+00:00","author":{"@id":"https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/#author","name":"Green Savers com Lusa"},"publisher":{"@id":"https://greensavers.sapo.pt/#organization"},"description":"Um estudo hoje divulgado, baseado em modelos clim\u00e1ticos, estima em 90% a probabilidade de a temperatura m\u00e9dia da superf\u00edcie da Terra bater o recorde hist\u00f3rico at\u00e9 junho, num cen\u00e1rio de fen\u00f3meno El Ni\u00f1o moderado a forte.","name":"Clima: Estudo estima em 90% a probabilidade de temperatura m\u00e9dia global bater recorde at\u00e9 junho","@id":"https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/#richSnippet","isPartOf":{"@id":"https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/#webpage"},"image":{"@id":"https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino.jpg"},"inLanguage":"pt-PT","mainEntityOfPage":{"@id":"https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+
+<!-- Better Open Graph, Schema.org & Twitter Integration -->
+<meta property="og:locale" content="pt_pt">
+<meta property="og:site_name" content="Green Savers">
+<meta property="og:url" content="https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/">
+<meta property="og:title" content="Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho">
+<meta property="og:image" content="https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino-1024x1024.jpg">
+<meta property="og:image:alt" content="@Wikipédia">
+<meta property="article:section" content="Manchete">
+<meta property="og:description" content="Um estudo hoje divulgado, baseado em modelos climáticos, estima em 90% a probabilidade de a temperatura média da superfície da Terra bater o recorde histórico até junho, num cenário de fenómeno El Niño moderado a forte.">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/">
+<meta name="twitter:title" content="Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho">
+<meta name="twitter:description" content="Um estudo hoje divulgado, baseado em modelos climáticos, estima em 90% a probabilidade de a temperatura média da superfície da Terra bater o recorde histórico até junho, num cenário de fenómeno El Niño moderado a forte.">
+<meta name="twitter:image" content="https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino-1024x1024.jpg">
+<meta name="twitter:image:alt" content="@Wikipédia">
+<!-- / Better Open Graph, Schema.org & Twitter Integration. -->
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Green Savers » Feed" href="https://greensavers.sapo.pt/feed/">
+<link rel="alternate" type="application/rss+xml" title="Green Savers » Feed de comentários" href="https://greensavers.sapo.pt/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/greensavers.sapo.pt\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://greensavers.sapo.pt/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all">
+<style id="rank-math-toc-block-style-inline-css" type="text/css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="nc-egoi-form-css" href="https://greensavers.sapo.pt/wp-content/plugins/nc-egoi-form/public/css/nc-egoi-form-public.css" type="text/css" media="all">
+<link rel="stylesheet" id="nc-egoi-form-bootstrap-css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/css/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="wp-night-mode-css" href="https://greensavers.sapo.pt/wp-content/plugins/wp-night-mode/public/css/wp-night-mode-public.css" type="text/css" media="all">
+<link rel="stylesheet" id="better-framework-main-fonts-css" href="https://fonts.googleapis.com/css?family=Roboto:400,500%7CRubik:400,500,700&amp;display=swap" type="text/css" media="all">
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/nc-egoi-form/public/js/nc-egoi-form-public.js" id="nc-egoi-form-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js?ver=6.7.1" id="nc-egoi-form-bootstrap-js"></script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js" id="jquery-blockui-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/greensavers.sapo.pt\/carrinho\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js" id="wc-add-to-cart-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wp-night-mode-js-extra">
+/* <![CDATA[ */
+var wpnmObject = {"button_html":"<div class=\"wpnm-button style-1\">\n                            <div class=\"wpnm-slider round\"><\/div>\n                        <\/div>","default":"","server_time":"1736849021","turn_on_time":"","turn_off_time":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/wp-night-mode/public/js/wp-night-mode-public.js" id="wp-night-mode-js"></script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js" id="vc_woocommerce-add-to-cart-js-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/js/html5shiv.min.js" id="bf-html5shiv-js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/js/respond.min.js" id="bf-respond-js"></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://greensavers.sapo.pt/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://greensavers.sapo.pt/wp-json/wp/v2/posts/247739"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://greensavers.sapo.pt/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="shortlink" href="https://greensavers.sapo.pt/?p=247739">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://greensavers.sapo.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://greensavers.sapo.pt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F&amp;format=xml">
+			<style type="text/css">
+				 
+			.wp-night-mode-slider {
+				background-color: ;
+			}
+
+			.wp-night-mode-button.active .wp-night-mode-slider {
+				background-color: ;
+			}
+
+			body.wp-night-mode-on * {
+				background: #222222;
+			}
+
+			body.wp-night-mode-on .customize-partial-edit-shortcut button,
+			body.wp-night-mode-on .customize-partial-edit-shortcut button svg,
+			body.wp-night-mode-on #adminbarsearch,
+			body.wp-night-mode-on span.display-name,
+			body.wp-night-mode-on span.ab-icon,
+			body.wp-night-mode-on span.ab-label {
+			    background: transparent;
+			}
+
+			body.wp-night-mode-on * {
+				color: #cccccc;
+			}
+
+			body.wp-night-mode-on a {
+				color: ;
+			}
+
+			body.wp-night-mode-on a:hover,
+			body.wp-night-mode-on a:visited,
+			body.wp-night-mode-on a:active {
+				color: ;
+			}
+		}				@media (prefers-color-scheme: dark) {
+					 
+			.wp-night-mode-slider {
+				background-color: ;
+			}
+
+			.wp-night-mode-button.active .wp-night-mode-slider {
+				background-color: ;
+			}
+
+			body.wp-night-mode-on * {
+				background: #222222;
+			}
+
+			body.wp-night-mode-on .customize-partial-edit-shortcut button,
+			body.wp-night-mode-on .customize-partial-edit-shortcut button svg,
+			body.wp-night-mode-on #adminbarsearch,
+			body.wp-night-mode-on span.display-name,
+			body.wp-night-mode-on span.ab-icon,
+			body.wp-night-mode-on span.ab-label {
+			    background: transparent;
+			}
+
+			body.wp-night-mode-on * {
+				color: #cccccc;
+			}
+
+			body.wp-night-mode-on a {
+				color: ;
+			}
+
+			body.wp-night-mode-on a:hover,
+			body.wp-night-mode-on a:visited,
+			body.wp-night-mode-on a:active {
+				color: ;
+			}
+		}				}
+			</style>
+		<meta property="fb:app_id" content="280465453122598">			<link rel="shortcut icon" href="https://greensavers.sapo.pt/wp-content/uploads/2019/07/icon16x16.png">			<link rel="apple-touch-icon" href="https://greensavers.sapo.pt/wp-content/uploads/2019/07/icon57x57.png">			<link rel="apple-touch-icon" sizes="114x114" href="https://greensavers.sapo.pt/wp-content/uploads/2019/07/icon114x114.png">			<link rel="apple-touch-icon" sizes="72x72" href="https://greensavers.sapo.pt/wp-content/uploads/2019/07/icon72x72.png">	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://greensavers.sapo.pt/wp-content/uploads/2020/11/greensavers_logo2.png"
+    },
+    "url": "https://greensavers.sapo.pt/",
+    "name": "Green Savers",
+    "description": "Not\u00edcias sobre sustentabilidade, ambiente, altera\u00e7\u00f5es clim\u00e1ticas, biodiversidade, florestas, finan\u00e7as verdes, empresas, economia, ODS"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "name": "Green Savers",
+    "alternateName": "Not\u00edcias sobre sustentabilidade, ambiente, altera\u00e7\u00f5es clim\u00e1ticas, biodiversidade, florestas, finan\u00e7as verdes, empresas, economia, ODS",
+    "url": "https://greensavers.sapo.pt/"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "BlogPosting",
+    "headline": "Clima: Estudo estima em 90% a probabilidade de temperatura m\u00e9dia global bater recorde at\u00e9 junho",
+    "description": "Um estudo hoje divulgado, baseado em modelos clim\u00e1ticos, estima em 90% a probabilidade de a temperatura m\u00e9dia da superf\u00edcie da Terra bater o recorde hist\u00f3rico at\u00e9 junho, num cen\u00e1rio de fen\u00f3meno El Ni\u00f1o moderado a forte.",
+    "datePublished": "2024-02-29",
+    "dateModified": "2024-02-29",
+    "author": {
+        "@type": "Person",
+        "@id": "#person-GreenSaverscomLusa",
+        "name": "Green Savers com Lusa"
+    },
+    "image": "https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino.jpg",
+    "interactionStatistic": [
+        {
+            "@type": "InteractionCounter",
+            "interactionType": "http://schema.org/CommentAction",
+            "userInteractionCount": 0
+        }
+    ],
+    "publisher": {
+        "@id": "#organization"
+    },
+    "mainEntityOfPage": "https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/"
+}</script>
+<link rel="stylesheet" id="bf-minifed-css-1" href="https://greensavers.sapo.pt/wp-content/bs-booster-cache/66cd5b74f5f72d19d5f8e201f27564a5.css" type="text/css" media="all">
+<link rel="stylesheet" id="7.9.2-1736176765" href="https://greensavers.sapo.pt/wp-content/bs-booster-cache/3c8eb8942ac2b4366177e656a9c1d60b.css" type="text/css" media="all">
+
+<!-- BetterFramework Head Inline CSS -->
+<style>
+#bsu-v3-ctn {
+    background-color:#111;
+}
+.post-summary{
+    color: #585858!important;
+}
+.btn-bs-pagination {
+    color: #585858!important;
+}
+div#taboola-below-article-thumbnails {
+    padding-top: 32px;
+}
+.post-meta.single-post-meta .post-author-name {
+    text-transform: none!important;
+    font-size: 13px;
+    white-space: normal;
+    max-width: 273px;
+}
+body.wp-night-mode-on #bsu-v3-ctn * {
+    background-color: #111;
+}
+.wp-night-mode-on header.header-style-6 .bs-pinning-wrapper.bspw-header-style-6>.bs-pinning-block {
+    background: #222222;
+}
+.site-header.header-style-6 .main-menu.menu {
+    height: 101px!important;
+    float: right;
+}
+.wp-night-mode-on .site-header.header-style-6.full-width {
+    border-bottom: 3px solid #45a377;
+}
+.wp-night-mode-on header .main-menu>li>a {
+    color: #cccccc;
+}
+.wp-night-mode-on .listing-item-classic-2 .title a {
+    color: #cccccc;
+}
+.wp-night-mode-on .post-summary {
+    color: #cccccc!important;
+}
+.wp-night-mode-on .site-header.header-style-6 .pinned {
+    border-bottom: 3px solid #45a377!important;
+}
+.wp-night-mode-on .listing-item-grid-1 .title a {
+    color: #cccccc;
+}
+.wp-night-mode-on .section-heading.sh-t3>.h-text {
+    color: #cccccc;
+}
+.wp-night-mode-on .section-heading.sh-t3:after {
+    background: #cccccc;
+}
+.fa-arrow-up:before {
+    background-color: #45a377;
+    content: "\f062";
+}
+.wp-night-mode-on .vc_custom_1611280973875{
+    background-color: #222222!important;
+}
+.wp-night-mode-on .bs-vc-sidebar-column .bs-listing{
+    background-color: #222222!important;
+}
+.wp-night-mode-on .site-footer .copy-1 {
+    color: #ccc;
+}
+.wp-night-mode-on .site-footer .copy-2 {
+    color: #ccc;
+}
+.wp-night-mode-on .site-footer .copy-2 a{
+    color: #ccc;
+}
+.tg-adhesion-banner.id-514064 {
+    background: transparent!important;
+}
+div#tg-adhesion-bar-514064 {
+    background: transparent!important;
+}
+.wp-night-mode-on .site-footer .copy-footer{
+    background-color: #222222!important;
+}
+.wp-night-mode-on .site-footer .copy-footer .footer-menu-wrapper .footer-menu-container:before{
+    background-color: #45a377;
+}
+.wp-night-mode-on ul.menu.footer-menu li>a {
+    background-color: #45a377;
+    color: #cccccc;
+}
+.wp-night-mode-on .listing-item-tb-1 .title a {
+    color: #cccccc;
+}
+svg.svg-inline--fa.fa-instagram.fa-w-14 {
+    background-color: #408bd1;
+}
+.wp-night-mode-on .sidebar-column .bs-listing {
+    background-color: #222222!important;
+}
+.wp-night-mode-on .post-meta.single-post-meta b {
+    color: #ccc;
+}
+.wp-night-mode-on i.bf-icon.fa.fa-facebook {
+    background: #2d5f9a;
+}
+.wp-night-mode-on i.bf-icon.fa.fa-twitter {
+    background: #53c7ff;
+}
+.wp-night-mode-on i.bf-icon.fa.fa-pinterest {
+    background: #a41719;
+}
+.wp-night-mode-on i.bf-icon.fa.fa-envelope-open {
+    background: #444444;
+}
+.wp-night-mode-on i.bf-icon.fa.fa-linkedin {
+       background: #005182;
+}
+.wp-night-mode-on span.video-label.video-title.trc_ellipsis {
+    color: #ccc;
+}
+span.share-handler.post-share-btn.rank-default {
+    background: transparent;
+}
+.color-switcher {
+    text-align: -webkit-center;
+}.wpnm-button.style-1.active .wpnm-slider {
+    background-color: #585858;
+}
+.color-switcher i.fa.fa-sun-o {
+    font-size: 15px;
+    margin-top: 5px;
+    color: #bd8d03;
+    padding-right: 10px;
+}
+.color-switcher {
+    font-size: 12px;
+    height: 40px;
+    /* display: -webkit-box; */
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: flex-end;
+    text-align: end;
+}
+.wp-night-mode-on .color-switcher i.fa.fa-moon-o{
+    color: #a0a0a0;
+}
+.color-switcher i.fa.fa-moon-o {
+    font-size: 15px;
+    margin-top: 5px;
+    color: #222222;
+    padding-left: 10px;
+}
+site-header.header-style-6.full-width{
+    border-bottom: 3px solid #45a377;
+}
+.meo-img {
+    font-size: 15px;
+    margin-top: 5px;
+    padding-right: 10px;
+    background-image: aqua;
+    content: url(https://greensavers.sapo.pt/wp-content/uploads/2021/03/logo-meo-energia-01.png);
+    width: 93px;
+}
+.wp-night-mode-on .meo-img {
+    font-size: 15px;
+    margin-top: 5px;
+    padding-right: 10px;
+    background-image: aqua;
+    content: url(https://greensavers.sapo.pt/wp-content/uploads/2021/03/logo-meo-energia-02.png);
+    width: 93px;
+}
+
+@media only screen and (max-width: 668px){
+    span.mob {
+    font-size: 10px!important;
+    line-height: 11px!important;
+    }
+    .wpnm-slider.round {
+    width: 42px;
+}
+.color-switcher i.fa.fa-moon-o{
+    padding-left: 37px;
+}
+}
+.wp-night-mode-on .rh-header .menu-container .menu-handler{
+        background-color: rgb(34 34 34)!important;
+}
+.wp-night-mode-on header.light .menu-container .menu-handler .lines:after{
+        background: #ffffff!important;
+}
+
+.site-header.header-style-1.full-width .main-menu-wrapper{
+        background-color: #45a377;
+}
+.site-header.header-style-1 .main-menu.menu>li>a {
+    color: #fff!important;
+}
+.wp-night-mode-on.page-layout-2-col-right .bspw-header-style-1 .main-menu-inner .content-wrap .container {
+    background: #45a377!important;
+}
+.wp-night-mode-on .bspw-header-style-1 .main-menu-inner {
+    background: #45a377!important;
+}
+.wp-night-mode-on .site-header.header-style-1 .main-menu-wrapper.menu-actions-btn-width-1 .main-menu-container {
+    background: transparent;
+}
+.wp-night-mode-on .site-header.header-style-1.full-width .main-menu-wrapper {
+    border-bottom-color: #45a377 !important;
+    border-top: 1px solid #45a377 !important;
+    border-bottom: 3px solid #45a377 !important;
+}
+.wp-night-mode-on .site-header.header-style-1 .main-menu.menu {
+    background-color: transparent;
+}
+.main-menu.menu>li:hover>a:before{
+        background-color: #222222 !important;
+}
+.wp-night-mode-on .site-header.header-style-1 .main-menu.menu>li>a {
+    color: #fff!important;
+    background: #45a377;
+}
+.wp-night-mode-on .site-header.header-style-1.full-width .menu-action-buttons {
+    background: #45a377;
+}.wp-night-mode-on .header-style-1 .search-container.close {
+    background-color: #45a377;
+}
+.wp-night-mode-on .header-style-1 i.fa.fa-search {
+    background: #45a377;
+}
+.wp-night-mode-on .header-style-1.site-header .search-container .search-handler {
+    background: #45a377;
+}
+body.wp-night-mode-on {
+    background: #222;
+}
+.nc-social {
+    font-size: 23px;
+    padding: 19px 0px;
+}
+.nc-social .fa {
+    padding-left: 7px;
+        color: #797979;
+}
+.nc-header-links.col-sm-2 {
+    padding-left: 0;
+}
+.nc-header-links {
+    padding-top: 19px;
+    font-weight: 200;
+}
+.nc-header-links p {
+    margin-bottom: 2px;
+}
+.nc-header-links p {
+    margin-bottom: 2px;
+    margin-left: -33px;
+    color: #45a377;
+        font-size: 11px;
+}
+.site-header.header-style-1 .main-menu-wrapper.menu-actions-btn-width-1 .main-menu-container {
+    float: left;
+    padding: 0px;
+    width: 100%;
+}
+.site-header.header-style-1.full-width .menu-action-buttons {
+    top: 6px;
+    right: 10px;
+}
+.site-header.header-style-1.full-width .menu-action-buttons i.fa.fa-search {
+    color: #fff;
+}
+.site-header.header-style-1 .main-menu.menu {
+    text-align: left!important;
+}
+.nc-meo-more p {
+    padding-top: 5px;
+    font-size: 12px;
+    text-align: end;
+    font-weight: 600;
+}
+.nc-meo-more p a {
+    color: #45a377;
+}
+.site-header.header-style-1 .site-branding {
+    top: -14px;}
+    .fab {
+    font-family: 'Font Awesome 5 Brands';
+}
+.bspw-header-style-1 .container {
+    background: #45a377;
+}
+.sh-t3.sh-s2 {
+    display: none;
+}
+.section-heading {
+    color: black!important;
+}
+.section-heading.sh-t3>.h-text {
+    color: black!important;
+}
+.pub-pubtopo img {
+    width: 100%;
+    height: 100%;
+}
+.conf-contact {
+    text-align: center;
+    font-size: 17px;
+    background-color: #45a377;
+    color: #fff;
+    padding: 14px 0px 14px 0px;
+}
+.conf-contact a {
+    color: #fff;
+    font-weight: 700;
+}
+.conf-speakers {
+    display: flex;
+}
+.conf-speaker-img {
+    padding-right: 20px;
+}
+p.speaker-text {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+}
+.main-speakers {
+    display: flex;
+}
+.speaker-profile {
+    background: #45a377;
+    width: 100%;
+    padding: 3px 0px;
+    text-align: center;
+}
+.speaker-profile a {
+    color: #fff;
+    font-weight: 500;
+}.main-speakers {
+    width: 100%;
+}
+.speakers-name {
+    width: 100%;
+}
+.nc-pub-top img {
+    width: 100%;
+    height: 100%;
+}
+.nc-pub-top iframe {
+    width: 100%!important;
+}
+/*IMAGE PORPORTIONS*/
+.listing-tb-2.scolumns-1 .listing-item-tb-2 .item-inner .img-holder:before {
+    padding-top: 50%;
+}
+.listing-item-classic-2 .listing-inner .featured .img-holder:before {
+    padding-top: 50%;
+}
+.listing-item-grid-1 .featured .img-holder:before {
+    padding-top: 50%;
+}
+#bsu-v3-ctn #bsu-v3{
+    z-index: 9981!important;
+}.mega-menu a.btn-bs-pagination.next {
+    display: none;
+}.mega-menu a.btn-bs-pagination.prev {
+    display: none;
+}
+.newsletters-subscribe-form .form-group {
+    margin-bottom: 15px!important;
+    height: 34px!important;
+}
+.container.newsletter-segments {
+    margin: 0!important;
+}
+#terms .col-md-12 {
+    padding: 0!important;
+}
+.post-meta .post-author {
+        max-width: 148px!important;
+    
+}
+.main-menu>li>a {
+    line-height: 48px;
+    display: inline-block;
+    padding: 0px 10px!important;
+}
+
+.entry-content {
+    color: #222222!important;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif!important;
+line-height:29px!important;
+}
+
+</style>
+<!-- /BetterFramework Head Inline CSS-->
+		<style type="text/css" id="wp-custom-css">
+			.zslvja.zslvja-after-header.zslvja-pubadban.zslvja-show-desktop.zslvja-show-tablet-portrait.zslvja-show-tablet-landscape.zslvja-show-phone.zslvja-loc-header_after.zslvja-align-center.zslvja-column-1.zslvja-clearfix {
+    display: none;
+}
+.site-header.header-style-1 .header-inner {
+    padding-top:40px;
+	padding-bottom:0px
+}
+
+
+/* CSS LOJA */
+
+.product-title > h3 > span {
+    text-transform: uppercase !important;
+}
+
+
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern {
+    color: white !important;
+    border-color: #ebebeb;
+    background-color: #45A376 !important;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern:hover {
+    color: #45A376 !important;
+    border-color: transparent !important;
+    background-color: #f7f7f7 !important;
+
+}
+
+.product_meta{
+		    display: none !important;
+
+}
+
+.woocommerce-tabs{
+	    display: none !important;
+
+}
+
+.attribute-no-edicoes > .label {
+	    display: none !important;
+
+}
+
+.attribute-no-edicoes > .value{
+	color: #212121;
+	font-size: 16px;
+}
+
+.product_title{
+	text-transform: uppercase;
+	font-size:33px !important;
+}
+
+
+
+
+
+/* checkout */
+
+
+/* Ajuste de layout para a página de checkout */
+#customer_details {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.billing-shipping-details {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.order-review-details {
+    width: 30%;
+}
+
+@media (min-width: 768px) {
+    .order-review-details {
+        position: sticky;
+        top: 20px;
+    }
+}
+
+
+/* Customização das bordas e linhas dos avisos do WooCommerce */
+.woocommerce-info, 
+.woocommerce-message, 
+.woocommerce-error {
+    border-top-color: #45A377; /* Cor verde da marca */
+}
+
+.woocommerce-info::before, 
+.woocommerce-message::before, 
+.woocommerce-error::before {
+    color: #45A377; /* Cor verde da marca */
+}
+
+/* Adicionalmente, se quiser mudar o fundo dos avisos */
+.woocommerce-info {
+    background-color: #EAF6EA; /* Verde claro correspondente */
+    border-color: #45A377;
+}
+
+.woocommerce-message {
+    background-color: #EAF6EA; /* Verde claro correspondente */
+    border-color: #45A377;
+}
+
+.woocommerce-error {
+    background-color: #FBE4E6; /* Você pode usar uma cor diferente para erros */
+    border-color: #E2401C; /* E uma cor diferente para borda de erros */
+}
+
+
+		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>		 
+	</head>
+
+<body class="post-template-default single single-post postid-247739 single-format-standard theme-publisher woocommerce-no-js bs-theme bs-publisher bs-publisher-seo-news ltr close-rh page-layout-2-col page-layout-2-col-right full-width main-menu-sticky-smart main-menu-full-width active-ajax-search single-prim-cat-13532 single-cat-13532 single-cat-11 single-cat-13696  wpb-js-composer js-comp-ver-6.7.0 vc_responsive bs-ll-a" dir="ltr">
+	  <script async="" id="bsuScript" src="//js.sapo.pt/Projects/bsuv3/js/bsuv3.min.js" data-partner="greensavers" data-width="1200"></script>
+		<div class="main-wrap content-main-wrap">
+				<header id="header" class="site-header header-style-1 full-width" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+				<div class="header-inner">
+			<div class="content-wrap">
+				<div class="container">
+										<div class="nc-header-col col-sm-2">
+                    	<div class="nc-social">
+							<a href="https://www.facebook.com/greensavers">
+								<i class="fa fa-facebook"></i>
+							</a>
+							<a href="https://www.instagram.com/greensaverspt/">
+								<i class="fa fa-instagram"></i>
+							</a>
+							
+							<a href="https://twitter.com/green_savers">
+								<i class="fa fa-twitter"></i>
+							</a>
+							<a href="https://pt.linkedin.com/company/greensavers">
+								<i class="fa fa-linkedin"></i>
+							</a>
+                    	</div>
+						</div>
+                    	<div class="nc-header-links col-sm-2 ">
+							<a class="sub-news" href="https://greensavers.sapo.pt/subscreva-a-newsletter/">
+								<p>SUBSCREVER NEWSLETTER</p>
+							</a>
+							<a class="print-edition" href="https://assinaturas.greensavers.pt/">
+								<p>ASSINAR EDIÇÃO IMPRESSA</p>
+							</a>
+                    	</div>
+					
+                        <div id="site-branding" class="col-sm-4 site-branding">
+	<p id="site-title" class="logo h1 img-logo">
+	<a href="https://greensavers.sapo.pt/" itemprop="url" rel="home">
+					<img id="site-logo" src="https://greensavers.sapo.pt/wp-content/uploads/2020/11/greensavers_logo2.png" alt="GreenSavers">
+
+			<span class="site-title">GreenSavers - Notícias sobre sustentabilidade, ambiente, alterações climáticas, biodiversidade, florestas, finanças verdes, empresas, economia, ODS</span>
+				</a>
+</p>
+</div><!-- .site-branding -->
+					<div class="nc-header-col col-sm-4">
+						<div class="nc-night-mode">
+							<div class="color-switcher">
+							<i class="fa fa-sun-o"></i>
+						<div class="wpnm-button style-1">
+                            <div class="wpnm-slider round"></div>
+                        </div>							<i class="fa fa-moon-o"></i>
+								
+								<div class="color-switcher">
+									<span class="mob" style="font-size: 15px;margin-top: 5px;padding-right: 10px;">&nbsp;com o apoio</span>
+									<a href="https://www.meo.pt/energia?utm_source=sapo-greensavers&amp;utm_medium=dark-mode&amp;utm_content=awa&amp;utm_campaign=meo-energia">
+										<div class="meo-img"></div></a>
+									
+								</div>
+								
+								
+								
+					</div>
+							<div class="nc-meo-more"><p>Poupe na eletricidade com MEO Energia. <a class="meo-more" href="https://www.meo.pt/energia?utm_source=sapo-greensavers&amp;utm_medium=dark-mode&amp;utm_content=awa&amp;utm_campaign=meo-energia">Saiba mais</a></p></div>
+						</div>
+				</div>
+			</div>
+		</div>
+		<div id="menu-main" class="menu main-menu-wrapper show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+	<div class="main-menu-inner">
+		<div class="content-wrap">
+			<div class="container">
+
+				<nav class="main-menu-container">
+					<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+						<li id="menu-item-182505" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-grid-posts menu-item-182505"><a href="https://greensavers.sapo.pt/ultimas-noticias/">Últimas</a>
+<!-- Mega Menu Start -->
+	<div class="mega-menu mega-grid-posts">
+		<div class="content-wrap bs-tab-anim bs-tab-animated active">
+					<div class="bs-pagination-wrapper main-term-1 next_prev ">
+			<div class="listing listing-grid listing-grid-1 clearfix columns-4">
+		<div class="post-178808 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Sabe que existe um devorador de pinhões em Portugal?" data-src="https://greensavers.sapo.pt/wp-content/uploads/2020/04/Leptoglossus-occidentalis--357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2020\/04\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Leptoglossus-occidentalis--210x136.jpg&quot;,&quot;279&quot;:&quot;Leptoglossus-occidentalis--279x220.jpg&quot;,&quot;357&quot;:&quot;Leptoglossus-occidentalis--357x210.jpg&quot;,&quot;640&quot;:&quot;Leptoglossus-occidentalis-.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/sabe-que-existe-um-devorador-de-pinhoes-em-portugal/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/sabe-que-existe-um-devorador-de-pinhoes-em-portugal/" class="post-title post-url">
+			Sabe que existe um devorador de pinhões em Portugal?		</a>
+		</p>	</div>
+	</div>
+	<div class="post-166902 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Provavelmente um dos mais belos parques do mundo" data-src="https://greensavers.sapo.pt/wp-content/uploads/2020/04/cover-1-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2020\/04\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;cover-1-210x136.jpg&quot;,&quot;279&quot;:&quot;cover-1-279x220.jpg&quot;,&quot;357&quot;:&quot;cover-1-357x210.jpg&quot;,&quot;750&quot;:&quot;cover-1-750x430.jpg&quot;,&quot;1848&quot;:&quot;cover-1.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/provavelmente-um-dos-mais-belos-parques-do-mundo/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/provavelmente-um-dos-mais-belos-parques-do-mundo/" class="post-title post-url">
+			Provavelmente um dos mais belos parques do mundo		</a>
+		</p>	</div>
+	</div>
+	<div class="post-180436 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-1">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-1"><a href="https://greensavers.sapo.pt/temas/greensavers/">Green Savers</a></span></div>				<a title="Estes espinafres conseguem detetar explosivos" data-src="https://greensavers.sapo.pt/wp-content/uploads/2020/06/espinafres-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2020\/06\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;espinafres-210x136.jpg&quot;,&quot;279&quot;:&quot;espinafres-279x220.jpg&quot;,&quot;357&quot;:&quot;espinafres-357x210.jpg&quot;,&quot;750&quot;:&quot;espinafres-750x430.jpg&quot;,&quot;800&quot;:&quot;espinafres.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/estes-espinafres-conseguem-detetar-explosivos/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/estes-espinafres-conseguem-detetar-explosivos/" class="post-title post-url">
+			Estes espinafres conseguem detetar explosivos		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260148 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-1">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-1"><a href="https://greensavers.sapo.pt/temas/greensavers/">Green Savers</a></span></div>				<a title="Ministro da Agricultura anuncia 30ME anuais para contribuir para a pastorícia" data-src="https://greensavers.sapo.pt/wp-content/uploads/2024/10/Jose-Manuel-Fernandes-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2024\/10\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Jose-Manuel-Fernandes-210x105.jpg&quot;,&quot;279&quot;:&quot;Jose-Manuel-Fernandes-279x140.jpg&quot;,&quot;357&quot;:&quot;Jose-Manuel-Fernandes-357x179.jpg&quot;,&quot;900&quot;:&quot;Jose-Manuel-Fernandes-900x450.jpg&quot;,&quot;2048&quot;:&quot;Jose-Manuel-Fernandes.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/ministro-da-agricultura-anuncia-30me-anuais-para-contribuir-para-a-pastoricia/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/ministro-da-agricultura-anuncia-30me-anuais-para-contribuir-para-a-pastoricia/" class="post-title post-url">
+			Ministro da Agricultura anuncia 30ME anuais para contribuir para a pastorícia		</a>
+		</p>	</div>
+	</div>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-1 clearfix">
+			<script>var bs_ajax_paginate_1001129330 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":4,"category":"1","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"9403adc"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1001129330" title="Anterior">
+					<i class="fa fa-angle-left" aria-hidden="true"></i> Prev				</a>
+				<a rel="next" class="btn-bs-pagination next" data-id="1001129330" title="Próximo">
+					Next <i class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>		</div>
+	</div>
+
+<!-- Mega Menu End -->
+</li>
+<li id="menu-item-224586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13597 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-grid-posts menu-item-224586"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas &amp; Resíduos</a>
+<!-- Mega Menu Start -->
+	<div class="mega-menu mega-grid-posts">
+		<div class="content-wrap bs-tab-anim bs-tab-animated active">
+					<div class="bs-pagination-wrapper main-term-13597 next_prev ">
+			<div class="listing listing-grid listing-grid-1 clearfix columns-4">
+		<div class="post-260362 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13597">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13597"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas e Resíduos</a></span></div>				<a title="Câmara de Vila Real suspeita de deposição de resíduos “de forma ilegal” no aterro" data-src="https://greensavers.sapo.pt/wp-content/uploads/2022/09/residuos-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2022\/09\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;residuos-210x105.jpg&quot;,&quot;279&quot;:&quot;residuos-279x140.jpg&quot;,&quot;357&quot;:&quot;residuos-357x179.jpg&quot;,&quot;900&quot;:&quot;residuos.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/camara-de-vila-real-suspeita-de-deposicao-de-residuos-de-forma-ilegal-no-aterro/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/camara-de-vila-real-suspeita-de-deposicao-de-residuos-de-forma-ilegal-no-aterro/" class="post-title post-url">
+			Câmara de Vila Real suspeita de deposição de resíduos “de forma ilegal” no aterro		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260387 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13597">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13597"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas e Resíduos</a></span></div>				<a title="Quase 200 mil milhões de euros de material reciclável desperdiçados" data-src="https://greensavers.sapo.pt/wp-content/uploads/2024/09/Plastico-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2024\/09\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Plastico-210x105.jpg&quot;,&quot;279&quot;:&quot;Plastico-279x140.jpg&quot;,&quot;357&quot;:&quot;Plastico-357x179.jpg&quot;,&quot;900&quot;:&quot;Plastico-900x450.jpg&quot;,&quot;2560&quot;:&quot;Plastico-scaled.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/quase-200-mil-milhoes-de-euros-de-material-reciclavel-desperdicados/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/quase-200-mil-milhoes-de-euros-de-material-reciclavel-desperdicados/" class="post-title post-url">
+			Quase 200 mil milhões de euros de material reciclável desperdiçados		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260218 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13597">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13597"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas e Resíduos</a></span></div>				<a title="Povoação não respeitou princípio da concorrência no transporte de resíduos" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/02/Ilha-de-Sao-Miguel-Acores-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2023\/02\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Ilha-de-Sao-Miguel-Acores-210x105.jpg&quot;,&quot;279&quot;:&quot;Ilha-de-Sao-Miguel-Acores-279x140.jpg&quot;,&quot;357&quot;:&quot;Ilha-de-Sao-Miguel-Acores-357x179.jpg&quot;,&quot;900&quot;:&quot;Ilha-de-Sao-Miguel-Acores-900x450.jpg&quot;,&quot;1280&quot;:&quot;Ilha-de-Sao-Miguel-Acores.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/povoacao-nao-respeitou-principio-da-concorrencia-no-transporte-de-residuos/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/povoacao-nao-respeitou-principio-da-concorrencia-no-transporte-de-residuos/" class="post-title post-url">
+			Povoação não respeitou princípio da concorrência no transporte de resíduos		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260214 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13597">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13597"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas e Resíduos</a></span></div>				<a title="Moçambique/Eleições: Maputo recebe apoio de outros municípios para resolver crise de lixo" data-src="https://greensavers.sapo.pt/wp-content/uploads/2020/03/lixo-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2020\/03\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;lixo-210x136.jpg&quot;,&quot;279&quot;:&quot;lixo-279x220.jpg&quot;,&quot;357&quot;:&quot;lixo-357x210.jpg&quot;,&quot;750&quot;:&quot;lixo-750x430.jpg&quot;,&quot;984&quot;:&quot;lixo.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/mocambique-eleicoes-maputo-recebe-apoio-de-outros-municipios-para-resolver-crise-de-lixo/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/mocambique-eleicoes-maputo-recebe-apoio-de-outros-municipios-para-resolver-crise-de-lixo/" class="post-title post-url">
+			Moçambique/Eleições: Maputo recebe apoio de outros municípios para resolver crise de…		</a>
+		</p>	</div>
+	</div>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-13597 clearfix">
+			<script>var bs_ajax_paginate_1847224622 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":4,"category":"13597","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"50627ea"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1847224622" title="Anterior">
+					<i class="fa fa-angle-left" aria-hidden="true"></i> Prev				</a>
+				<a rel="next" class="btn-bs-pagination next" data-id="1847224622" title="Próximo">
+					Next <i class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>		</div>
+	</div>
+
+<!-- Mega Menu End -->
+</li>
+<li id="menu-item-176391" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-term-11 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-tabbed-grid-posts menu-item-176391"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a>
+<!-- Mega Menu Start -->
+	<div class="mega-menu tabbed-grid-posts">
+		<div class="content-wrap clearfix">
+			<ul class="tabs-section">
+								<li class="active">
+					<a href="https://greensavers.sapo.pt/temas/ambiente/" data-target="#mtab-501228746-11" data-toggle="tab" aria-expanded="true" class="term-11">
+						<i class="fa fa-angle-right"></i> Todos					</a>
+				</li>
+									<li>
+						<a href="https://greensavers.sapo.pt/temas/ambiente/mundo-rural/" data-target="#mtab-501228746-13874" data-deferred-init="517243638" data-toggle="tab" data-deferred-event="mouseenter" class="term-13874">
+							<i class="fa fa-angle-right"></i> Mundo Rural						</a>
+					</li>
+										<li>
+						<a href="https://greensavers.sapo.pt/temas/ambiente/alteracoes-climaticas/" data-target="#mtab-501228746-13532" data-deferred-init="940651562" data-toggle="tab" data-deferred-event="mouseenter" class="term-13532">
+							<i class="fa fa-angle-right"></i> Alterações Climáticas						</a>
+					</li>
+								</ul>
+			<div class="tab-content">
+				<div class="tab-pane bs-tab-anim bs-tab-animated active" id="mtab-501228746-11">
+							<div class="bs-pagination-wrapper main-term-11 next_prev ">
+			<div class="listing listing-grid listing-grid-1 clearfix columns-3">
+		<div class="post-260362 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13597">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13597"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas e Resíduos</a></span></div>				<a title="Câmara de Vila Real suspeita de deposição de resíduos “de forma ilegal” no aterro" data-src="https://greensavers.sapo.pt/wp-content/uploads/2022/09/residuos-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2022\/09\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;residuos-210x105.jpg&quot;,&quot;279&quot;:&quot;residuos-279x140.jpg&quot;,&quot;357&quot;:&quot;residuos-357x179.jpg&quot;,&quot;900&quot;:&quot;residuos.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/camara-de-vila-real-suspeita-de-deposicao-de-residuos-de-forma-ilegal-no-aterro/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/camara-de-vila-real-suspeita-de-deposicao-de-residuos-de-forma-ilegal-no-aterro/" class="post-title post-url">
+			Câmara de Vila Real suspeita de deposição de resíduos “de forma ilegal” no aterro		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260404 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Diferenças genéticas nos cães de Chernobyl não se devem a mutações" data-src="https://greensavers.sapo.pt/wp-content/uploads/2022/10/caes-rua-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2022\/10\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;caes-rua-210x105.jpg&quot;,&quot;279&quot;:&quot;caes-rua-279x140.jpg&quot;,&quot;357&quot;:&quot;caes-rua-357x179.jpg&quot;,&quot;900&quot;:&quot;caes-rua-900x450.jpg&quot;,&quot;935&quot;:&quot;caes-rua.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/diferencas-geneticas-nos-caes-de-chernobyl-nao-se-devem-a-mutacoes/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/diferencas-geneticas-nos-caes-de-chernobyl-nao-se-devem-a-mutacoes/" class="post-title post-url">
+			Diferenças genéticas nos cães de Chernobyl não se devem a mutações		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260355 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Ministra do Ambiente anuncia investimento de 3,8 ME no Parque Peneda-Gerês" data-src="https://greensavers.sapo.pt/wp-content/uploads/2024/11/Maria-da-Graca-Carvalho-1-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2024\/11\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Maria-da-Graca-Carvalho-1-210x105.jpg&quot;,&quot;279&quot;:&quot;Maria-da-Graca-Carvalho-1-279x140.jpg&quot;,&quot;357&quot;:&quot;Maria-da-Graca-Carvalho-1-357x179.jpg&quot;,&quot;900&quot;:&quot;Maria-da-Graca-Carvalho-1-900x450.jpg&quot;,&quot;1054&quot;:&quot;Maria-da-Graca-Carvalho-1.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/ministra-do-ambiente-anuncia-investimento-de-38-me-no-parque-peneda-geres/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/ministra-do-ambiente-anuncia-investimento-de-38-me-no-parque-peneda-geres/" class="post-title post-url">
+			Ministra do Ambiente anuncia investimento de 3,8 ME no Parque Peneda-Gerês		</a>
+		</p>	</div>
+	</div>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-11 clearfix">
+			<script>var bs_ajax_paginate_676086408 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":3,"category":"11","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_tabbed_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"dd4a689"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="676086408" title="Anterior">
+					<i class="fa fa-angle-left" aria-hidden="true"></i> Prev				</a>
+				<a rel="next" class="btn-bs-pagination next" data-id="676086408" title="Próximo">
+					Next <i class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>				</div>
+									<div class="tab-pane bs-tab-anim bs-deferred-container" id="mtab-501228746-13874">
+								<div class="bs-pagination-wrapper main-term-13874 next_prev ">
+				<div class="bs-deferred-load-wrapper" id="bsd_517243638">
+			<script>var bs_deferred_loading_bsd_517243638 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":3,"category":13874,"_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_tabbed_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"4fa5af2"}';</script>
+		</div>
+		
+	</div>					</div>
+										<div class="tab-pane bs-tab-anim bs-deferred-container" id="mtab-501228746-13532">
+								<div class="bs-pagination-wrapper main-term-13532 next_prev ">
+				<div class="bs-deferred-load-wrapper" id="bsd_940651562">
+			<script>var bs_deferred_loading_bsd_940651562 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":3,"category":13532,"_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_tabbed_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"2fa84ab"}';</script>
+		</div>
+		
+	</div>					</div>
+								</div>
+		</div>
+	</div>
+
+<!-- Mega Menu End -->
+</li>
+<li id="menu-item-180099" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13550 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-grid-posts menu-item-180099"><a href="https://greensavers.sapo.pt/temas/animais/">Animais</a>
+<!-- Mega Menu Start -->
+	<div class="mega-menu mega-grid-posts">
+		<div class="content-wrap bs-tab-anim bs-tab-animated active">
+					<div class="bs-pagination-wrapper main-term-13550 next_prev ">
+			<div class="listing listing-grid listing-grid-1 clearfix columns-4">
+		<div class="post-260404 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Diferenças genéticas nos cães de Chernobyl não se devem a mutações" data-src="https://greensavers.sapo.pt/wp-content/uploads/2022/10/caes-rua-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2022\/10\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;caes-rua-210x105.jpg&quot;,&quot;279&quot;:&quot;caes-rua-279x140.jpg&quot;,&quot;357&quot;:&quot;caes-rua-357x179.jpg&quot;,&quot;900&quot;:&quot;caes-rua-900x450.jpg&quot;,&quot;935&quot;:&quot;caes-rua.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/diferencas-geneticas-nos-caes-de-chernobyl-nao-se-devem-a-mutacoes/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/diferencas-geneticas-nos-caes-de-chernobyl-nao-se-devem-a-mutacoes/" class="post-title post-url">
+			Diferenças genéticas nos cães de Chernobyl não se devem a mutações		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260351 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13550">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13550"><a href="https://greensavers.sapo.pt/temas/animais/">Animais</a></span></div>				<a title="Maçarico-de-bico-direito: Uma ave migradora que liga Europa e África" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/04/Limosa_limosa_Liminka_Finland_2020-04-27-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2023\/04\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-210x105.jpg&quot;,&quot;279&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-279x140.jpg&quot;,&quot;357&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-357x179.jpg&quot;,&quot;900&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-900x450.jpg&quot;,&quot;1024&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/macarico-de-bico-direito-uma-ave-migradora-que-liga-europa-e-africa/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/macarico-de-bico-direito-uma-ave-migradora-que-liga-europa-e-africa/" class="post-title post-url">
+			Maçarico-de-bico-direito: Uma ave migradora que liga Europa e África		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260337 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13550">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13550"><a href="https://greensavers.sapo.pt/temas/animais/">Animais</a></span></div>				<a title="Aranha mais mortífera da Austrália representa afinal três espécies distintas" data-src="https://greensavers.sapo.pt/wp-content/uploads/2025/01/Atrax-christenseni-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2025\/01\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Atrax-christenseni-210x105.jpg&quot;,&quot;279&quot;:&quot;Atrax-christenseni-279x140.jpg&quot;,&quot;357&quot;:&quot;Atrax-christenseni-357x179.jpg&quot;,&quot;900&quot;:&quot;Atrax-christenseni-900x450.jpg&quot;,&quot;2560&quot;:&quot;Atrax-christenseni-scaled.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/aranha-mais-mortifera-da-australia-representa-afinal-tres-especies-distintas/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/aranha-mais-mortifera-da-australia-representa-afinal-tres-especies-distintas/" class="post-title post-url">
+			Aranha mais mortífera da Austrália representa afinal três espécies distintas		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260322 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13550">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13550"><a href="https://greensavers.sapo.pt/temas/animais/">Animais</a></span></div>				<a title="Tipo de habitat, forma do bico e tamanho do corpo influenciam canções das aves" data-src="https://greensavers.sapo.pt/wp-content/uploads/2020/12/passaro_Canoro-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2020\/12\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;passaro_Canoro-210x136.jpg&quot;,&quot;279&quot;:&quot;passaro_Canoro-279x220.jpg&quot;,&quot;357&quot;:&quot;passaro_Canoro-357x210.jpg&quot;,&quot;750&quot;:&quot;passaro_Canoro-750x430.jpg&quot;,&quot;960&quot;:&quot;passaro_Canoro.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/tipo-de-habitat-forma-do-bico-e-tamanho-do-corpo-influenciam-cancoes-das-aves/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/tipo-de-habitat-forma-do-bico-e-tamanho-do-corpo-influenciam-cancoes-das-aves/" class="post-title post-url">
+			Tipo de habitat, forma do bico e tamanho do corpo influenciam canções das aves		</a>
+		</p>	</div>
+	</div>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-13550 clearfix">
+			<script>var bs_ajax_paginate_1910143617 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":4,"category":"13550","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"6a93a47"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1910143617" title="Anterior">
+					<i class="fa fa-angle-left" aria-hidden="true"></i> Prev				</a>
+				<a rel="next" class="btn-bs-pagination next" data-id="1910143617" title="Próximo">
+					Next <i class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>		</div>
+	</div>
+
+<!-- Mega Menu End -->
+</li>
+<li id="menu-item-180098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-64 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-grid-posts menu-item-180098"><a href="https://greensavers.sapo.pt/temas/empresas/">Empresas</a>
+<!-- Mega Menu Start -->
+	<div class="mega-menu mega-grid-posts">
+		<div class="content-wrap bs-tab-anim bs-tab-animated active">
+					<div class="bs-pagination-wrapper main-term-64 next_prev ">
+			<div class="listing listing-grid listing-grid-1 clearfix columns-4">
+		<div class="post-260365 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-64">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-64"><a href="https://greensavers.sapo.pt/temas/empresas/">Empresas</a></span></div>				<a title="Fórum Económico Mundial distingue boas práticas de Diversidade, Equidade e Inclusão do Grupo Jerónimo Martins" data-src="https://greensavers.sapo.pt/wp-content/uploads/2025/01/Loja-Escola_Centro-Incluir-Norte-8359-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2025\/01\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Loja-Escola_Centro-Incluir-Norte-8359-210x105.jpg&quot;,&quot;279&quot;:&quot;Loja-Escola_Centro-Incluir-Norte-8359-279x140.jpg&quot;,&quot;357&quot;:&quot;Loja-Escola_Centro-Incluir-Norte-8359-357x179.jpg&quot;,&quot;900&quot;:&quot;Loja-Escola_Centro-Incluir-Norte-8359-900x450.jpg&quot;,&quot;1536&quot;:&quot;Loja-Escola_Centro-Incluir-Norte-8359.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/forum-economico-mundial-distingue-boas-praticas-de-diversidade-equidade-e-inclusao-do-grupo-jeronimo-martins/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/forum-economico-mundial-distingue-boas-praticas-de-diversidade-equidade-e-inclusao-do-grupo-jeronimo-martins/" class="post-title post-url">
+			Fórum Económico Mundial distingue boas práticas de Diversidade, Equidade e Inclusão…		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260313 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Nuno Gomes, Beto Pimparel e Boa Morte dão o exemplo: “A Final Four Não é Um Cinzeiro”" data-src="https://greensavers.sapo.pt/wp-content/uploads/2025/01/FFLP_CML_Tabaqueira-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2025\/01\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;FFLP_CML_Tabaqueira-210x105.jpg&quot;,&quot;279&quot;:&quot;FFLP_CML_Tabaqueira-279x140.jpg&quot;,&quot;357&quot;:&quot;FFLP_CML_Tabaqueira-357x179.jpg&quot;,&quot;900&quot;:&quot;FFLP_CML_Tabaqueira-900x450.jpg&quot;,&quot;2560&quot;:&quot;FFLP_CML_Tabaqueira-scaled.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/nuno-gomes-beto-pimparel-e-boa-morte-dao-o-exemplo-a-final-four-nao-e-um-cinzeiro/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/nuno-gomes-beto-pimparel-e-boa-morte-dao-o-exemplo-a-final-four-nao-e-um-cinzeiro/" class="post-title post-url">
+			Nuno Gomes, Beto Pimparel e Boa Morte dão o exemplo: “A Final Four Não é Um…		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260290 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Continente investe 6 milhões de euros na abertura da maior loja inteligente do mundo" data-src="https://greensavers.sapo.pt/wp-content/uploads/2025/01/Continente-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2025\/01\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Continente-210x105.jpg&quot;,&quot;279&quot;:&quot;Continente-279x140.jpg&quot;,&quot;357&quot;:&quot;Continente-357x179.jpg&quot;,&quot;900&quot;:&quot;Continente-900x450.jpg&quot;,&quot;2560&quot;:&quot;Continente-scaled.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/continente-investe-6-milhoes-de-euros-na-abertura-da-maior-loja-inteligente-do-mundo-em-leiria/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/continente-investe-6-milhoes-de-euros-na-abertura-da-maior-loja-inteligente-do-mundo-em-leiria/" class="post-title post-url">
+			Continente investe 6 milhões de euros na abertura da maior loja inteligente do mundo		</a>
+		</p>	</div>
+	</div>
+	<div class="post-260181 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13597">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13597"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas e Resíduos</a></span></div>				<a title="SMAS de Sintra investem cerca de 2 milhões de euros na melhoria do sistema de recolha de resíduos" data-src="https://greensavers.sapo.pt/wp-content/uploads/2025/01/Lixo-Sintra-357x179.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2025\/01\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Lixo-Sintra-210x105.png&quot;,&quot;279&quot;:&quot;Lixo-Sintra-279x140.png&quot;,&quot;357&quot;:&quot;Lixo-Sintra-357x179.png&quot;,&quot;900&quot;:&quot;Lixo-Sintra-900x450.png&quot;,&quot;2592&quot;:&quot;Lixo-Sintra.png&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/smas-de-sintra-investem-cerca-de-2-milhoes-de-euros-na-melhoria-do-sistema-de-recolha-de-residuos/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/smas-de-sintra-investem-cerca-de-2-milhoes-de-euros-na-melhoria-do-sistema-de-recolha-de-residuos/" class="post-title post-url">
+			SMAS de Sintra investem cerca de 2 milhões de euros na melhoria do sistema de recolha…		</a>
+		</p>	</div>
+	</div>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-64 clearfix">
+			<script>var bs_ajax_paginate_1546291128 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":4,"category":"64","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"a29d422"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1546291128" title="Anterior">
+					<i class="fa fa-angle-left" aria-hidden="true"></i> Prev				</a>
+				<a rel="next" class="btn-bs-pagination next" data-id="1546291128" title="Próximo">
+					Next <i class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>		</div>
+	</div>
+
+<!-- Mega Menu End -->
+</li>
+<li id="menu-item-201067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-2148 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-grid-posts menu-item-201067"><a href="https://greensavers.sapo.pt/temas/opiniao/">Opinião</a>
+<!-- Mega Menu Start -->
+	<div class="mega-menu mega-grid-posts">
+		<div class="content-wrap bs-tab-anim bs-tab-animated active">
+					<div class="bs-pagination-wrapper main-term-2148 next_prev ">
+			<div class="listing listing-grid listing-grid-1 clearfix columns-4">
+		<div class="post-259939 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-2148">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-2148"><a href="https://greensavers.sapo.pt/temas/opiniao/">Opinião</a></span></div>				<a title="As crianças e o Futuro Sustentável para a mobilidade" data-src="https://greensavers.sapo.pt/wp-content/uploads/2025/01/opiniao-BrunoOliveira-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2025\/01\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;opiniao-BrunoOliveira-210x105.jpg&quot;,&quot;279&quot;:&quot;opiniao-BrunoOliveira-279x140.jpg&quot;,&quot;357&quot;:&quot;opiniao-BrunoOliveira-357x179.jpg&quot;,&quot;900&quot;:&quot;opiniao-BrunoOliveira.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/as-criancas-e-o-futuro-sustentavel-para-a-mobilidade/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/as-criancas-e-o-futuro-sustentavel-para-a-mobilidade/" class="post-title post-url">
+			As crianças e o Futuro Sustentável para a mobilidade		</a>
+		</p>	</div>
+	</div>
+	<div class="post-259916 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-2148">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-2148"><a href="https://greensavers.sapo.pt/temas/opiniao/">Opinião</a></span></div>				<a title="O impasse global entre a crise climática e a relutância em investir no futuro" data-src="https://greensavers.sapo.pt/wp-content/uploads/2024/07/esgra_paulopraca-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2024\/07\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;esgra_paulopraca-210x105.jpg&quot;,&quot;279&quot;:&quot;esgra_paulopraca-279x140.jpg&quot;,&quot;357&quot;:&quot;esgra_paulopraca-357x179.jpg&quot;,&quot;900&quot;:&quot;esgra_paulopraca.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/o-impasse-global-entre-a-crise-climatica-e-a-relutancia-em-investir-no-futuro/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/o-impasse-global-entre-a-crise-climatica-e-a-relutancia-em-investir-no-futuro/" class="post-title post-url">
+			O impasse global entre a crise climática e a relutância em investir no futuro		</a>
+		</p>	</div>
+	</div>
+	<div class="post-259769 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-2148">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-2148"><a href="https://greensavers.sapo.pt/temas/opiniao/">Opinião</a></span></div>				<a title="2025 traz oportunidades climáticas perante novos desafios" data-src="https://greensavers.sapo.pt/wp-content/uploads/2025/01/opiniao-FilipeFerreira-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2025\/01\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;opiniao-FilipeFerreira-210x105.jpg&quot;,&quot;279&quot;:&quot;opiniao-FilipeFerreira-279x140.jpg&quot;,&quot;357&quot;:&quot;opiniao-FilipeFerreira-357x179.jpg&quot;,&quot;900&quot;:&quot;opiniao-FilipeFerreira.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/2025-traz-oportunidades-climaticas-perante-novos-desafios/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/2025-traz-oportunidades-climaticas-perante-novos-desafios/" class="post-title post-url">
+			2025 traz oportunidades climáticas perante novos desafios		</a>
+		</p>	</div>
+	</div>
+	<div class="post-259491 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-2148">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-2148"><a href="https://greensavers.sapo.pt/temas/opiniao/">Opinião</a></span></div>				<a title="Sem colaboração, a mudança não acontece" data-src="https://greensavers.sapo.pt/wp-content/uploads/2024/12/opiniao-RicardoLagoa-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2024\/12\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;opiniao-RicardoLagoa-210x105.jpg&quot;,&quot;279&quot;:&quot;opiniao-RicardoLagoa-279x140.jpg&quot;,&quot;357&quot;:&quot;opiniao-RicardoLagoa-357x179.jpg&quot;,&quot;900&quot;:&quot;opiniao-RicardoLagoa.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/sem-colaboracao-a-mudanca-nao-acontece/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/sem-colaboracao-a-mudanca-nao-acontece/" class="post-title post-url">
+			Sem colaboração, a mudança não acontece		</a>
+		</p>	</div>
+	</div>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-2148 clearfix">
+			<script>var bs_ajax_paginate_727730560 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":4,"category":"2148","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"e21009d"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="727730560" title="Anterior">
+					<i class="fa fa-angle-left" aria-hidden="true"></i> Prev				</a>
+				<a rel="next" class="btn-bs-pagination next" data-id="727730560" title="Próximo">
+					Next <i class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>		</div>
+	</div>
+
+<!-- Mega Menu End -->
+</li>
+<li id="menu-item-200969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13875 better-anim-fade menu-item-has-children menu-item-has-mega menu-item-mega-grid-posts menu-item-200969"><a href="https://greensavers.sapo.pt/temas/green-talks/"><b>Green Talks</b></a>
+<!-- Mega Menu Start -->
+	<div class="mega-menu mega-grid-posts">
+		<div class="content-wrap bs-tab-anim bs-tab-animated active">
+					<div class="bs-pagination-wrapper main-term-13875 next_prev ">
+			<div class="listing listing-grid listing-grid-1 clearfix columns-4">
+		<div class="post-244474 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-64">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-64"><a href="https://greensavers.sapo.pt/temas/empresas/">Empresas</a></span></div>				<a title="Green Talk: A mobilidade elétrica está a avançar a um ritmo “bastante interessante” em Portugal, Francisco Geraldes, Astara" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/12/talk_astara-357x179.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2023\/12\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;talk_astara-210x105.png&quot;,&quot;279&quot;:&quot;talk_astara-279x140.png&quot;,&quot;357&quot;:&quot;talk_astara-357x179.png&quot;,&quot;900&quot;:&quot;talk_astara.png&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/green-talk-a-mobilidade-eletrica-esta-a-avancar-a-um-ritmo-bastante-interessante-em-portugal-francisco-geraldes-astara/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/green-talk-a-mobilidade-eletrica-esta-a-avancar-a-um-ritmo-bastante-interessante-em-portugal-francisco-geraldes-astara/" class="post-title post-url">
+			Green Talk: A mobilidade elétrica está a avançar a um ritmo “bastante interessante”…		</a>
+		</p>	</div>
+	</div>
+	<div class="post-233593 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13531">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13531"><a href="https://greensavers.sapo.pt/temas/destaques/">Destaques</a></span></div>				<a title="Green Talk: Energia solar flutuante “quer muita luz, mas também quer temperaturas baixas”, João Amaral, Voltalia Portugal" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/05/joao_amaral_voltalia-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2023\/05\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;joao_amaral_voltalia-210x105.jpg&quot;,&quot;279&quot;:&quot;joao_amaral_voltalia-279x140.jpg&quot;,&quot;357&quot;:&quot;joao_amaral_voltalia-357x179.jpg&quot;,&quot;900&quot;:&quot;joao_amaral_voltalia.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/green-talk-energia-solar-flutuante-quer-muita-luz-mas-tambem-quer-temperaturas-baixas-joao-amaral-voltalia-portugal/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/green-talk-energia-solar-flutuante-quer-muita-luz-mas-tambem-quer-temperaturas-baixas-joao-amaral-voltalia-portugal/" class="post-title post-url">
+			Green Talk: Energia solar flutuante “quer muita luz, mas também quer temperaturas…		</a>
+		</p>	</div>
+	</div>
+	<div class="post-232238 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-13875">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-13875"><a href="https://greensavers.sapo.pt/temas/green-talks/">Green Talks</a></span></div>				<a title="Green Talk com Co-fundadora da Zero Waste Lab: “Foi uma sociedade civil em peso a associar-se à campanha ‘Março, mês do granel’”" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/04/sara_zero-357x179.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2023\/04\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;sara_zero-210x105.jpg&quot;,&quot;279&quot;:&quot;sara_zero-279x140.jpg&quot;,&quot;357&quot;:&quot;sara_zero-357x179.jpg&quot;,&quot;900&quot;:&quot;sara_zero.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/green-talk-com-co-fundadora-da-zero-waste-lab-foi-uma-sociedade-civil-em-peso-a-associar-se-a-campanha-marco-mes-do-granel/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/green-talk-com-co-fundadora-da-zero-waste-lab-foi-uma-sociedade-civil-em-peso-a-associar-se-a-campanha-marco-mes-do-granel/" class="post-title post-url">
+			Green Talk com Co-fundadora da Zero Waste Lab: “Foi uma sociedade civil em peso a…		</a>
+		</p>	</div>
+	</div>
+	<div class="post-231549 type-post format-standard has-post-thumbnail  simple-grid  listing-item listing-item-grid listing-item-grid-1 main-term-11">
+	<div class="item-inner">
+					<div class="featured clearfix">
+				<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>				<a title="Green Talk: Projeto “Legumaria”, o cultivo de microvegetais" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/03/green_talk-357x179.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2023\/03\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;green_talk-210x105.png&quot;,&quot;279&quot;:&quot;green_talk-279x140.png&quot;,&quot;357&quot;:&quot;green_talk-357x179.png&quot;,&quot;900&quot;:&quot;green_talk.png&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/green-talk-projeto-legumaria-o-cultivo-de-microvegetais/"></a>
+
+							</div>
+		<p class="title">		<a href="https://greensavers.sapo.pt/green-talk-projeto-legumaria-o-cultivo-de-microvegetais/" class="post-title post-url">
+			Green Talk: Projeto “Legumaria”, o cultivo de microvegetais		</a>
+		</p>	</div>
+	</div>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-13875 clearfix">
+			<script>var bs_ajax_paginate_1335362127 = '{"query":{"paginate":"next_prev","show_label":1,"order_by":"date","count":4,"category":"13875","_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"wp_query","view":"Publisher::bs_pagin_ajax_mega_grid_posts","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"},"_bs_pagin_token":"a063493"}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1335362127" title="Anterior">
+					<i class="fa fa-angle-left" aria-hidden="true"></i> Prev				</a>
+				<a rel="next" class="btn-bs-pagination next" data-id="1335362127" title="Próximo">
+					Next <i class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>		</div>
+	</div>
+
+<!-- Mega Menu End -->
+</li>
+<li id="menu-item-219330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children better-anim-fade menu-item-219330"><a href="#"><b>Conferências</b></a>
+<ul class="sub-menu">
+	<li id="menu-item-225667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13882 better-anim-fade menu-item-225667"><a href="https://greensavers.sapo.pt/temas/i-conferencia/">I Conferência</a></li>
+	<li id="menu-item-225668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13879 better-anim-fade menu-item-225668"><a href="https://greensavers.sapo.pt/temas/ii-conferencia/">II Conferência</a></li>
+	<li id="menu-item-225669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13880 better-anim-fade menu-item-225669"><a href="https://greensavers.sapo.pt/temas/iii-conferencia/">III Conferência</a></li>
+	<li id="menu-item-241642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13902 better-anim-fade menu-item-241642"><a href="https://greensavers.sapo.pt/temas/iv-conferencia/">IV Conferência</a></li>
+</ul>
+</li>
+<li id="menu-item-250454" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-250454"><a href="https://greensavers.sapo.pt/quem-e-quem/">Quem é Quem</a></li>
+					</ul><!-- #main-navigation -->
+											<div class="menu-action-buttons width-1">
+															<div class="search-container close">
+									<span class="search-handler"><i class="fa fa-search"></i></span>
+
+									<div class="search-box clearfix">
+										<form role="search" method="get" class="search-form clearfix" action="https://greensavers.sapo.pt">
+	<input type="search" class="search-field" placeholder="Pesquisa..." value="" name="s" title="Procurar por:" autocomplete="off">
+	<input type="submit" class="search-submit" value="Pesquisar">
+</form><!-- .search-form -->
+									</div>
+								</div>
+														</div>
+										</nav><!-- .main-menu-container -->
+
+			</div>
+		</div>
+	</div>
+</div><!-- .menu -->	</div></header><!-- .header -->
+	<div class="rh-header clearfix light deferred-block-exclude">
+		<div class="rh-container clearfix">
+
+			<div class="menu-container close">
+				<span class="menu-handler"><span class="lines"></span></span>
+			</div><!-- .menu-container -->
+
+			<div class="logo-container rh-img-logo">
+				<a href="https://greensavers.sapo.pt/" itemprop="url" rel="home">
+											<img src="https://greensavers.sapo.pt/wp-content/uploads/2020/11/greensavers_logo2.png" alt="Green Savers">				</a>
+			</div><!-- .logo-container -->
+		</div><!-- .rh-container -->
+	</div><!-- .rh-header -->
+<div data-pub-siteid="NETWORK_GreenSavers" data-pub-target="pagetype=article;slug=clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho;slugid=247739" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Richmedia" data-pub="appNexus"></div>
+<div class="content-wrap">
+		<main id="content" class="content-container">
+
+		<div class="container layout-2-col layout-2-col-1 layout-right-sidebar post-template-1">
+			<div class="row main-section">
+										<div class="col-sm-8 content-column">
+							
+	<div class="single-container">
+		<article id="post-247739" class="post-247739 post type-post status-publish format-standard has-post-thumbnail  category-alteracoes-climaticas category-ambiente category-manchete single-post-content has-thumbnail">
+			<div align="center" class="pub-pubtopo">
+<ins data-revive-zoneid="15" data-revive-id="6815d0835407c893664ca86cfa7b90d8"></ins>
+<script async="" src="//com.multipublicacoes.pt/ads/www/delivery/asyncjs.php"></script></div><br>
+						<div class="post-header post-tp-1-header">
+									<h1 class="single-post-title">
+						<span class="post-title" itemprop="headline">Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho</span></h1>
+										<div class="post-meta-wrap clearfix">
+						<div class="post-meta single-post-meta">
+			<a href="https://greensavers.sapo.pt/author/green-savers-com-lusa/" title="Artigos de autor" class="post-author-a post-author-avatar">
+			<span class="post-author-name">Por <b>Green Savers com Lusa</b></span>		</a>
+					<span class="time"><time class="post-published updated" datetime="2024-02-29T16:05:27+00:00"><b>16:05 - 29 Fevereiro 2024</b></time></span>
+			</div>
+					</div>
+									<div class="single-featured">
+					<figure><img width="2550" height="2548" alt="" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/11/El-Nino.jpg">							<figcaption class="wp-caption-text">@Wikipédia</figcaption>
+							</figure>
+											</div>
+			</div>
+			<br>
+<div align="center" class="pub-pubtopo">
+<ins data-revive-zoneid="22" data-revive-id="6815d0835407c893664ca86cfa7b90d8"></ins>
+<script async="" src="//com.multipublicacoes.pt/ads/www/delivery/asyncjs.php"></script></div><br>
+			
+			
+					<div class="post-share single-post-share top-share clearfix style-2">
+			<div class="post-share-btn-group">
+							</div>
+						<div class="share-handler-wrap ">
+				<span class="share-handler post-share-btn rank-default">
+					<i class="bf-icon  fa fa-share-alt"></i>						<b class="text">Partilhar</b>
+										</span>
+				<span class="social-item facebook"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span></a></span><span class="social-item twitter"><a href="https://twitter.com/share?text=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho&amp;url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span></a></span><span class="social-item linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F&amp;title=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-linkedin','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-linkedin"></i></span></a></span><span class="social-item whatsapp"><a href="whatsapp://send?text=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho %0A%0A https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span></a></span><span class="social-item reddit"><a href="https://reddit.com/submit?url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F&amp;title=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-reddit','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-reddit-alien"></i></span></a></span><span class="social-item email"><a href="mailto:?subject=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho&amp;body=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-email','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-envelope-open"></i></span></a></span></div>		</div>
+					<div class="entry-content clearfix single-post-content">
+				<div class="continue-reading-content close"><p>Um estudo hoje divulgado, baseado em modelos climáticos, estima em 90% a probabilidade de a temperatura média da superfície da Terra bater o recorde histórico até junho, num cenário de fenómeno El Niño moderado a forte.</p>
+<p class="text-paragraph">Devido a este fenómeno climático, diversas regiões do mundo, como a baía de Benguela, em Angola, as Filipinas e o mar das Caraíbas, vão ter provavelmente temperaturas médias do ar recordes até junho, segundo o estudo publicado na revista científica Scientific Reports.</p>
+<p class="text-paragraph">Por definição, de acordo com o Instituto Português do Mar e da Atmosfera (IPMA), o El Niño é o aquecimento anómalo das águas superficiais do oceano Pacífico, predominantemente na sua faixa equatorial, afetando o clima global e a circulação geral da atmosfera.</p>
+<p class="text-paragraph">O El Niño acontece em intervalos médios de quatro anos e persiste durante seis meses a 1,3 anos. O mais recente destes fenómenos surgiu em meados de 2023.</p>
+<p class="text-paragraph">A temperatura média global da superfície (temperatura média na superfície da Terra) é obtida calculando a média das temperaturas do mar (temperatura da superfície do mar) e da terra (temperatura do ar à superfície).</p>
+<p class="text-paragraph">No estudo hoje divulgado, os cientistas modelaram os efeitos do El Niño de julho de 2023 a junho de 2024 na variação regional das temperaturas médias do ar entre 1951 e 1980.</p>
+<p class="text-paragraph">Nos modelos foi incluído o típico pico do fenómeno, que ocorre entre novembro e janeiro.</p>
+<p class="text-paragraph">Os investigadores concluíram que sob um cenário moderado de El Niño, a baía de Benguela e as Filipinas teriam temperaturas médias do ar recordes até junho.</p>
+<p class="text-paragraph">Valores recordes seriam igualmente atingidos no mesmo período nas áreas do mar das Caraíbas, do mar da China Meridional, da Amazónia, no Brasil, e do Alasca, nos Estados Unidos, num cenário de El Niño forte.</p>
+<p class="text-paragraph">Num cenário de El Niño moderado, os cientistas estimaram para 2023-2024 uma temperatura média global da superfície em 1,03ºC a 1,10ºC acima do valor do período de referência (1951-1980).</p>
+<p class="text-paragraph">Para um cenário de El Niño forte, a temperatura média global da superfície seria 1,06ºC a 1,20ºC superior ao valor de 1951-1980, segundo o estudo.</p>
+<p class="text-paragraph">Um ligeiro aumento na temperatura média global da superfície tem sido fortemente associado a subidas significativas nas temperaturas do ar à superfície durante eventos extremos de aquecimento regional, de acordo com os cientistas.</p>
+<p class="text-paragraph">No estudo hoje publicado, os autores advertem que elevadas temperaturas do ar podem levar a um aumento significativo da probabilidade de eventos climáticos extremos, incluindo incêndios florestais, ciclones tropicais e ondas de calor, particularmente em áreas oceânicas e costeiras, “onde a maior capacidade térmica dos oceanos faz com que as condições climáticas persistam por longos períodos de tempo”.</p>
+<p class="text-paragraph">Em janeiro, a Organização Meteorológica Mundial (OMM) avisou que o ano de 2024 pode bater o recorde de calor ocorrido em 2023 devido ao El Niño.</p>
+<p class="text-paragraph">Segundo a agência da ONU, a tendência de aquecimento do planeta impulsionada pelo El Niño, que levou em 2023 a temperatura do ar a bater recordes todos os meses entre junho e dezembro, deverá continuar em 2024.</p>
+<p class="text-paragraph">A secretária-geral da OMM, Celeste Saulo, alertou que, “uma vez que o El Niño normalmente tem o maior impacto nas temperaturas globais após o seu pico, 2024 poderá ser ainda mais quente”.</p>
+<p class="text-paragraph">Cientistas da agência norte-americana de observação oceânica e atmosférica (NOAA, na sigla inglesa) estimam que há uma probabilidade em cada três de que 2024 seja mais quente do que 2023 e 99% de possibilidade de 2024 ser classificado entre os cinco anos mais quentes desde que há registos.</p>
+<p class="text-paragraph">Portugal registou a sua primeira onda de calor de 2024 em janeiro, considerada pelo IPMA a mais significativa para este mês desde 1941.</p>
+</div><div class="continue-reading-container"><a href="#" class="continue-reading-btn btn">Continuar a ler</a></div>			</div>
+
+							
+			<div class="nc-pub-top" align="center">
+				<div data-pub-siteid="NETWORK_GreenSavers" data-pub-target="pagetype=article;slug=clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho;slugid=247739" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Leaderboard" data-pub="appNexus"></div>
+			</div>
+			<br><br>
+					<div class="post-share single-post-share bottom-share clearfix style-2">
+			<div class="post-share-btn-group">
+							</div>
+						<div class="share-handler-wrap ">
+				<span class="share-handler post-share-btn rank-default">
+					<i class="bf-icon  fa fa-share-alt"></i>						<b class="text">Partilhar</b>
+										</span>
+				<span class="social-item facebook"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span></a></span><span class="social-item twitter"><a href="https://twitter.com/share?text=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho&amp;url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span></a></span><span class="social-item linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F&amp;title=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-linkedin','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-linkedin"></i></span></a></span><span class="social-item whatsapp"><a href="whatsapp://send?text=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho %0A%0A https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span></a></span><span class="social-item reddit"><a href="https://reddit.com/submit?url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F&amp;title=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-reddit','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-reddit-alien"></i></span></a></span><span class="social-item email"><a href="mailto:?subject=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho&amp;body=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-email','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-envelope-open"></i></span></a></span></div>		</div>
+				</article>
+		<br>
+		<div class="nc-pub-top" align="center">
+		<!-- Revive Adserver Asynchronous JS Tag - Generated with Revive Adserver v5.0.2 -->
+<ins data-revive-zoneid="73" data-revive-id="2b412835cbc133e24a774e85c9e9b8e4"></ins>
+<script async="" src="//comercial.multipublicacoes.pt/www/delivery/asyncjs.php"></script>
+		<br>
+			</div>
+			</div>
+<div class="post-related">
+
+	<div class="section-heading sh-t3 sh-s1 ">
+
+					<span class="h-text related-posts-heading">Notícias relacionadas</span>
+		
+	</div>
+
+	
+					<div class="bs-pagination-wrapper main-term-none  ">
+			<div class="listing listing-thumbnail listing-tb-2 clearfix  scolumns-3 simple-grid include-last-mobile">
+	<div class="post-260362 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-13597">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-13597"><a href="https://greensavers.sapo.pt/temas/aguas/">Águas e Resíduos</a></span></div>			<a title="Câmara de Vila Real suspeita de deposição de resíduos “de forma ilegal” no aterro" data-src="https://greensavers.sapo.pt/wp-content/uploads/2022/09/residuos-210x105.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2022\/09\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;residuos-86x43.jpg&quot;,&quot;210&quot;:&quot;residuos-210x105.jpg&quot;,&quot;279&quot;:&quot;residuos-279x140.jpg&quot;,&quot;357&quot;:&quot;residuos-357x179.jpg&quot;,&quot;900&quot;:&quot;residuos.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/camara-de-vila-real-suspeita-de-deposicao-de-residuos-de-forma-ilegal-no-aterro/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://greensavers.sapo.pt/camara-de-vila-real-suspeita-de-deposicao-de-residuos-de-forma-ilegal-no-aterro/" title="Câmara de Vila Real suspeita de deposição de resíduos “de forma ilegal” no aterro">
+			<span class="post-title">
+				Câmara de Vila Real suspeita de deposição de resíduos “de forma ilegal” no aterro			</span>
+	</a>
+	</p></div>
+</div>
+<div class="post-260404 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-11">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>			<a title="Diferenças genéticas nos cães de Chernobyl não se devem a mutações" data-src="https://greensavers.sapo.pt/wp-content/uploads/2022/10/caes-rua-210x105.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2022\/10\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;caes-rua-86x43.jpg&quot;,&quot;210&quot;:&quot;caes-rua-210x105.jpg&quot;,&quot;279&quot;:&quot;caes-rua-279x140.jpg&quot;,&quot;357&quot;:&quot;caes-rua-357x179.jpg&quot;,&quot;900&quot;:&quot;caes-rua-900x450.jpg&quot;,&quot;935&quot;:&quot;caes-rua.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/diferencas-geneticas-nos-caes-de-chernobyl-nao-se-devem-a-mutacoes/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://greensavers.sapo.pt/diferencas-geneticas-nos-caes-de-chernobyl-nao-se-devem-a-mutacoes/" title="Diferenças genéticas nos cães de Chernobyl não se devem a mutações">
+			<span class="post-title">
+				Diferenças genéticas nos cães de Chernobyl não se devem a mutações			</span>
+	</a>
+	</p></div>
+</div>
+<div class="post-260351 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-13550">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-13550"><a href="https://greensavers.sapo.pt/temas/animais/">Animais</a></span></div>			<a title="Maçarico-de-bico-direito: Uma ave migradora que liga Europa e África" data-src="https://greensavers.sapo.pt/wp-content/uploads/2023/04/Limosa_limosa_Liminka_Finland_2020-04-27-210x105.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2023\/04\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-86x43.jpg&quot;,&quot;210&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-210x105.jpg&quot;,&quot;279&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-279x140.jpg&quot;,&quot;357&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-357x179.jpg&quot;,&quot;900&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27-900x450.jpg&quot;,&quot;1024&quot;:&quot;Limosa_limosa_Liminka_Finland_2020-04-27.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/macarico-de-bico-direito-uma-ave-migradora-que-liga-europa-e-africa/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://greensavers.sapo.pt/macarico-de-bico-direito-uma-ave-migradora-que-liga-europa-e-africa/" title="Maçarico-de-bico-direito: Uma ave migradora que liga Europa e África">
+			<span class="post-title">
+				Maçarico-de-bico-direito: Uma ave migradora que liga Europa e África			</span>
+	</a>
+	</p></div>
+</div>
+<div class="post-260355 type-post format-standard has-post-thumbnail   listing-item listing-item-thumbnail listing-item-tb-2 main-term-11">
+<div class="item-inner clearfix">
+			<div class="featured featured-type-featured-image">
+			<div class="term-badges floated"><span class="term-badge term-11"><a href="https://greensavers.sapo.pt/temas/ambiente/">Ambiente</a></span></div>			<a title="Ministra do Ambiente anuncia investimento de 3,8 ME no Parque Peneda-Gerês" data-src="https://greensavers.sapo.pt/wp-content/uploads/2024/11/Maria-da-Graca-Carvalho-1-210x105.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/greensavers.sapo.pt\/wp-content\/uploads\/2024\/11\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;Maria-da-Graca-Carvalho-1-86x43.jpg&quot;,&quot;210&quot;:&quot;Maria-da-Graca-Carvalho-1-210x105.jpg&quot;,&quot;279&quot;:&quot;Maria-da-Graca-Carvalho-1-279x140.jpg&quot;,&quot;357&quot;:&quot;Maria-da-Graca-Carvalho-1-357x179.jpg&quot;,&quot;900&quot;:&quot;Maria-da-Graca-Carvalho-1-900x450.jpg&quot;,&quot;1054&quot;:&quot;Maria-da-Graca-Carvalho-1.jpg&quot;}}" class="img-holder" href="https://greensavers.sapo.pt/ministra-do-ambiente-anuncia-investimento-de-38-me-no-parque-peneda-geres/"></a>
+					</div>
+	<p class="title">	<a class="post-url" href="https://greensavers.sapo.pt/ministra-do-ambiente-anuncia-investimento-de-38-me-no-parque-peneda-geres/" title="Ministra do Ambiente anuncia investimento de 3,8 ME no Parque Peneda-Gerês">
+			<span class="post-title">
+				Ministra do Ambiente anuncia investimento de 3,8 ME no Parque Peneda-Gerês			</span>
+	</a>
+	</p></div>
+</div>
+	</div>
+	
+	</div></div>
+	<br>
+									<br>
+								<div class="OUTBRAIN" data-src="https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/" data-widget-id="AR_1"></div>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+	<br>
+
+
+<section id="comments-template-247739" class="comments-template comment-respond">
+
+			<div class="section-heading sh-t3 sh-s1"><span class="h-text">Comentários</span>
+		</div>
+	
+	<div id="comments" class="better-comments-area better-facebook-comments-area">
+		<div id="respond">
+			<div class="fb-comments" data-href="https://greensavers.sapo.pt/clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho/" data-numposts="10" data-colorscheme="light" data-order-by="social" data-width="100%" data-mobile="false">Loading...</div>
+
+					</div>
+	</div>
+</section>
+						</div><!-- .content-column -->
+												<div class="col-sm-4 sidebar-column sidebar-column-primary">
+							<aside id="sidebar-primary-sidebar" class="sidebar" role="complementary" aria-label="Primary Sidebar Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+	<div id="execphp-2" class=" h-ni w-nt primary-sidebar-widget widget widget_execphp">			<div class="execphpwidget">
+<div data-pub-siteid="NETWORK_GreenSavers" data-pub-target="pagetype=article;slug=clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho;slugid=247739" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="MPU" data-pub="appNexus"></div><br>
+
+<div data-pub-siteid="NETWORK_GreenSavers" data-pub-target="pagetype=article;slug=clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho;slugid=247739" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="MPU" data-pub="appNexus"></div><br>
+</div>
+		</div><div id="custom_html-9" class="widget_text  h-ni w-nt primary-sidebar-widget widget widget_custom_html"><div class="textwidget custom-html-widget"><br>
+<ins data-revive-zoneid="64" data-revive-id="2b412835cbc133e24a774e85c9e9b8e4"></ins>
+<script async="" src="//comercial.multipublicacoes.pt/www/delivery/asyncjs.php"></script><br>
+		<div class="section-heading sh-t3 sh-s1"><span class="h-text">EDIÇÃO NAS BANCAS!</span></div>
+<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1616799486349">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://assinaturas.multipublicacoes.pt/loja/green-savers-digital/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://greensavers.sapo.pt/wp-content/uploads/2024/12/Pages-from-GS17.jpg" width="300" height="400"></a>
+		</figure>
+	</div><div align="center">
+<a href="https://assinaturas.multipublicacoes.pt/loja/green-savers-digital/" title="" target="_blank" rel="noopener" style="color: green;font-weight: 600;font-size: 18px;background-color: #b3b6b273;padding: 10px 30px 10px 30px;text-shadow: aquamarine;">ASSINE JÁ</a>
+		</div>
+</div></div><div id="media_image-3" class=" h-ni w-nt primary-sidebar-widget widget widget_media_image"><a href="https://greensavers.sapo.pt/subscreva-a-newsletter/"><img width="300" height="250" src="https://greensavers.sapo.pt/wp-content/uploads/2022/09/newsletter-subscrição-300x250.png" class="image wp-image-218480  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" fetchpriority="high" srcset="https://greensavers.sapo.pt/wp-content/uploads/2022/09/newsletter-subscrição-e1663951069593.png 300w, https://greensavers.sapo.pt/wp-content/uploads/2022/09/newsletter-subscrição-1024x854.png 1024w, https://greensavers.sapo.pt/wp-content/uploads/2022/09/newsletter-subscrição-768x640.png 768w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div id="custom_html-7" class="widget_text  h-ni w-t primary-sidebar-widget widget widget_custom_html"><div class="section-heading sh-t3 sh-s1"><span class="h-text">Twitter</span></div><div class="textwidget custom-html-widget"><div align="center">
+	<a href="https://twitter.com/green_savers?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="pt" data-show-count="false">Follow @green_savers</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div></div><div id="custom_html-8" class="widget_text  h-ni w-t primary-sidebar-widget widget widget_custom_html"><div class="section-heading sh-t3 sh-s1"><span class="h-text">Facebook</span></div><div class="textwidget custom-html-widget"><div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/pt_PT/sdk.js#xfbml=1&amp;version=v8.0&amp;appId=185302078191381&amp;autoLogAppEvents=1" nonce="yaHWrTO8"></script>
+<div class="fb-page" data-href="https://www.facebook.com/greensavers" data-tabs="" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/greensavers" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/greensavers">Greensavers</a></blockquote></div></div></div><div id="execphp-3" class=" h-ni w-nt primary-sidebar-widget widget widget_execphp">			<div class="execphpwidget"><div data-pub-siteid="NETWORK_GreenSavers" data-pub-target="pagetype=article;slug=clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho;slugid=247739" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Halfpage" data-pub="appNexus"></div></div>
+		</div></aside>
+						</div><!-- .primary-sidebar-column -->
+									</div><!-- .main-section -->
+		</div><!-- .container -->
+
+	</main><!-- main -->
+	</div><!-- .content-wrap -->
+<div data-pub-siteid="NETWORK_GreenSavers" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="OOP" data-pub-target="pagetype=article;slug=clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho;slugid=247739" data-pub="appNexus"></div>
+<div data-pub-siteid="NETWORK_GreenSavers" data-pub-target="pagetype=article;slug=clima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho;slugid=247739" data-pub-pageid="ARTICLE_ROS" data-pub-formatid="Floorad" data-pub="appNexus"></div>
+		</div><!-- .main-wrap -->
+			<footer id="site-footer" class="site-footer full-width">
+		<div class="footer-widgets light-text">
+	<div class="content-wrap">
+		<div class="container">
+			<div class="row">
+										<div class="col-sm-4">
+							<aside id="sidebar-footer-1" class="sidebar" role="complementary" aria-label="Footer - Column 1 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="media_image-2" class=" h-ni w-nt footer-widget footer-column-1 widget widget_media_image"><a href="https://greensavers.sapo.pt"><img width="402" height="100" src="https://greensavers.sapo.pt/wp-content/uploads/2021/06/GS_logobranco.png" class="image wp-image-199768  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://greensavers.sapo.pt/wp-content/uploads/2021/06/GS_logobranco.png 402w, https://greensavers.sapo.pt/wp-content/uploads/2021/06/GS_logobranco-300x75.png 300w" sizes="(max-width: 402px) 100vw, 402px"></a></div><div id="text-2" class=" h-ni w-nt footer-widget footer-column-1 widget widget_text">			<div class="textwidget"><p style="color: #fff; margin-left: 20px;">A revista líder em Portugal sobre sustentabilidade, ambiente e desenvolvimento sustentável.</p>
+</div>
+		</div>							</aside>
+						</div>
+						<div class="col-sm-4">
+							<aside id="sidebar-footer-2" class="sidebar" role="complementary" aria-label="Footer - Column 2 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="nav_menu-3" class=" h-ni w-t footer-widget footer-column-2 widget widget_nav_menu"><div class="section-heading sh-t1 sh-s4"><span class="h-text">Sobre Nós</span></div><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-172474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172474"><a href="https://greensavers.sapo.pt/sobre/">Sobre</a></li>
+<li id="menu-item-186955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186955"><a href="https://greensavers.sapo.pt/estatuto-editorial/">Estatuto Editorial</a></li>
+<li id="menu-item-77303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77303"><a href="https://greensavers.sapo.pt/contactos/">Contactos</a></li>
+<li id="menu-item-187950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187950"><a href="https://greensavers.sapo.pt/ficha-tecnica/">Ficha Técnica</a></li>
+</ul></div></div>							</aside>
+						</div>
+						<div class="col-sm-4">
+							<aside id="sidebar-footer-3" class="sidebar" role="complementary" aria-label="Footer - Column 3 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="bs-social-share-2" class=" h-ni w-t footer-widget footer-column-3 widget widget_bs-social-share"><div class="section-heading sh-t1 sh-s4"><span class="h-text">Redes Sociais</span></div>	<div class="bs-shortcode bs-social-share  style-button colored">
+				<ul class="bs-button-list social-list clearfix"><span class="social-item linkedin has-title"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F&amp;title=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-linkedin','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-linkedin"></i></span><span class="item-title">Linkedin</span></a></span><span class="social-item facebook has-title"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-facebook','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-facebook"></i></span><span class="item-title">Facebook</span></a></span><span class="social-item twitter has-title"><a href="https://twitter.com/share?text=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho&amp;url=https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-twitter','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-twitter"></i></span><span class="item-title">Twitter</span></a></span><span class="social-item whatsapp has-title"><a href="whatsapp://send?text=Clima: Estudo estima em 90% a probabilidade de temperatura média global bater recorde até junho %0A%0A https%3A%2F%2Fgreensavers.sapo.pt%2Fclima-estudo-estima-em-90-a-probabilidade-de-temperatura-media-global-bater-recorde-ate-junho%2F" target="_blank" rel="nofollow noreferrer" class="bs-button-el" onclick="window.open(this.href, 'share-whatsapp','left=50,top=50,width=600,height=320,toolbar=0'); return false;"><span class="icon"><i class="bf-icon fa fa-whatsapp"></i></span><span class="item-title">WhatsApp</span></a></span>		</ul><!-- .social-list -->
+	</div><!-- .bs-social-share -->
+</div>							</aside>
+						</div>
+									</div>
+		</div>
+	</div>
+</div>
+		<div class="copy-footer">
+			<div class="content-wrap">
+				<div class="container">
+										<div class="row footer-copy-row">
+						<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							© 2025 - Green Savers. Todos os direitos reservados.						</div>
+						<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							Produzido por: <a href="https://www.neuroniocriativo.pt">Neurónio Criativo</a>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer><!-- .footer -->
+	<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+
+		<div id="fb-root"></div>
+		<script>
+			(function () {
+
+    function appendFbScript() {
+        var js, id = 'facebook-jssdk',
+            fjs = document.getElementsByTagName('script')[0];
+
+        if (document.getElementById(id)) return;
+        js = document.createElement('script');
+        js.id = id;
+        js.src = "//connect.facebook.net/pt_PT/sdk.js#xfbml=1&appId=280465453122598&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '280465453122598',
+                xfbml: true,
+                version: 'v2.0'
+            });
+            FB.Event.subscribe('comment.create', function (comment_data) {
+                console.log(comment_data);
+                update_comments_count();
+            });
+            FB.Event.subscribe('comment.remove', function (comment_data) {
+                update_comments_count();
+            });
+
+            function update_comments_count(comment_data, comment_action) {
+                jQuery.ajax({
+                        type: 'GET',
+                        dataType: 'json',
+                        url: 'https://greensavers.sapo.pt/wp-admin/admin-ajax.php',
+                        data: {
+                            action: 'clear_better_facebook_comments',
+                            post_id: '247739'
+                        },
+                        success: function (data) {
+                            // todo sync comments count here! data have the counts
+                        },
+                        error: function (i, b) {
+                            // todo
+                        }
+                    }
+                )
+            };
+        };
+
+        appendFbScript();
+    }
+
+    appendFbScript();
+
+})();
+		</script>
+		 <script data-cfasync="false" type="text/javascript" id="clever-core">
+                                    /* <![CDATA[ */
+                                    (function (document, window) {
+                                        var a, c = document.createElement("script"), f = window.frameElement;
+
+                                        c.id = "CleverCoreLoader46939";
+                                        c.src = "//scripts.cleverwebserver.com/25d1c6898db37060c918aa29c1d7bd72.js";
+
+                                        c.async = !0;
+                                        c.type = "text/javascript";
+                                        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+                                        c.setAttribute("data-callback", "put-your-callback-macro-here");
+
+                                        try {
+                                            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                                        } catch (e) {
+                                            a = !1;
+                                        }
+
+                                        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                                        a.parentNode.insertBefore(c, a);
+                                    })(document, window);
+                                    /* ]]> */
+                                </script>                  
+<script async="" src="//js.sapo.pt/Projects/CPU/latest/lazypub.min.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-142316826-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142316826-1');
+</script>
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async="true">
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.inmobi.com'
+    .concat('/choice/', 'k7WVxLnvkhZ_C', '/', host, '/choice.js?tag_version=V3');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = Object.assign(args[3], { tag_version: 'V3' });
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  function makeGppStub() {
+    const CMP_ID = 10;
+    const SUPPORTED_APIS = [
+      '2:tcfeuv2',
+      '6:uspv1',
+      '7:usnatv1',
+      '8:usca',
+      '9:usvav1',
+      '10:uscov1',
+      '11:usutv1',
+      '12:usctv1'
+    ];
+
+    window.__gpp_addFrame = function (n) {
+      if (!window.frames[n]) {
+        if (document.body) {
+          var i = document.createElement("iframe");
+          i.style.cssText = "display:none";
+          i.name = n;
+          document.body.appendChild(i);
+        } else {
+          window.setTimeout(window.__gpp_addFrame, 10, n);
+        }
+      }
+    };
+    window.__gpp_stub = function () {
+      var b = arguments;
+      __gpp.queue = __gpp.queue || [];
+      __gpp.events = __gpp.events || [];
+
+      if (!b.length || (b.length == 1 && b[0] == "queue")) {
+        return __gpp.queue;
+      }
+
+      if (b.length == 1 && b[0] == "events") {
+        return __gpp.events;
+      }
+
+      var cmd = b[0];
+      var clb = b.length > 1 ? b[1] : null;
+      var par = b.length > 2 ? b[2] : null;
+      if (cmd === "ping") {
+        clb(
+          {
+            gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+            signalStatus: "not ready", // possible values: not ready, ready
+            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+            cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+            sectionList: [],
+            applicableSections: [-1],
+            gppString: "",
+            parsedSections: {},
+          },
+          true
+        );
+      } else if (cmd === "addEventListener") {
+        if (!("lastId" in __gpp)) {
+          __gpp.lastId = 0;
+        }
+        __gpp.lastId++;
+        var lnr = __gpp.lastId;
+        __gpp.events.push({
+          id: lnr,
+          callback: clb,
+          parameter: par,
+        });
+        clb(
+          {
+            eventName: "listenerRegistered",
+            listenerId: lnr, // Registered ID of the listener
+            data: true, // positive signal
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // list of supported APIs
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "removeEventListener") {
+        var success = false;
+        for (var i = 0; i < __gpp.events.length; i++) {
+          if (__gpp.events[i].id == par) {
+            __gpp.events.splice(i, 1);
+            success = true;
+            break;
+          }
+        }
+        clb(
+          {
+            eventName: "listenerRemoved",
+            listenerId: par, // Registered ID of the listener
+            data: success, // status info
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // CMP ID
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "hasSection") {
+        clb(false, true);
+      } else if (cmd === "getSection" || cmd === "getField") {
+        clb(null, true);
+      }
+      //queue all other commands
+      else {
+        __gpp.queue.push([].slice.apply(b));
+      }
+    };
+    window.__gpp_msghandler = function (event) {
+      var msgIsString = typeof event.data === "string";
+      try {
+        var json = msgIsString ? JSON.parse(event.data) : event.data;
+      } catch (e) {
+        var json = null;
+      }
+      if (typeof json === "object" && json !== null && "__gppCall" in json) {
+        var i = json.__gppCall;
+        window.__gpp(
+          i.command,
+          function (retValue, success) {
+            var returnMsg = {
+              __gppReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: i.callId,
+              },
+            };
+            event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+          },
+          "parameter" in i ? i.parameter : null,
+          "version" in i ? i.version : "1.1"
+        );
+      }
+    };
+    if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+      window.__gpp = window.__gpp_stub;
+      window.addEventListener("message", window.__gpp_msghandler, false);
+      window.__gpp_addFrame("__gppLocator");
+    }
+  };
+
+  makeGppStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) --><script type="text/javascript" id="publisher-theme-pagination-js-extra">
+/* <![CDATA[ */
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="publisher-js-extra">
+/* <![CDATA[ */
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-1","boxed":"full-width"},"ajax_url":"https:\/\/greensavers.sapo.pt\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"Todos","tabs_more":"Mais","lightbox_expand":"Expand the image","lightbox_close":"Fechar"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":true,"position":""},"share":{"more":true},"refresh_googletagads":"1","get_locale":"pt-PT","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https:\/\/greensavers.sapo.pt\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product ajax-search-fullwidth\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t<span>Postagens<\/span>\n\t\t\t<\/div>\n\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categorias<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Tags<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>","full_width":"1"};
+/* ]]> */
+</script>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+			<div class="rh-cover noscroll  no-login-icon">
+			<span class="rh-close"></span>
+			<div class="rh-panel rh-pm">
+				<div class="rh-p-h">
+									</div>
+
+				<div class="rh-p-b">
+										<div class="rh-c-m clearfix"></div>
+
+											<form role="search" method="get" class="search-form" action="https://greensavers.sapo.pt">
+							<input type="search" class="search-field" placeholder="Pesquisa..." value="" name="s" title="Procurar por:" autocomplete="off">
+							<input type="submit" class="search-submit" value="">
+						</form>
+										</div>
+			</div>
+					</div>
+		<link rel="stylesheet" id="wc-blocks-style-css" href="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css" type="text/css" media="all">
+<script type="text/javascript" id="better-post-views-cache-js-extra">
+/* <![CDATA[ */
+var better_post_views_vars = {"admin_ajax_url":"https:\/\/greensavers.sapo.pt\/wp-admin\/admin-ajax.php","post_id":"247739"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/better-post-views/js/better-post-views.min.js" id="better-post-views-cache-js"></script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/greensavers.sapo.pt\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://greensavers.sapo.pt/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js" id="wc-order-attribution-js"></script>
+<script type="text/javascript" async="async" src="https://greensavers.sapo.pt/wp-content/bs-booster-cache/49839cea2d94c539cef412d822e06db8.js" id="bs-booster-js"></script>
+
+<script>
+var fsb=function(t){"use strict";return{init:function(){0==fsb.ads_state()&&fsb.blocked_ads_fallback()},ads_state:function(){return void 0!==window.better_ads_adblock},blocked_ads_fallback:function(){var a=[];t(".fsb-container").each(function(){if("image"==t(this).data("type"))return 0;a.push({element_id:t(this).attr("id"),ad_id:t(this).data("adid")})}),a.length<1||jQuery.ajax({url:'https://greensavers.sapo.pt/wp-admin/admin-ajax.php',type:"POST",data:{action:"better_ads_manager_blocked_fallback",ads:a},success:function(a){var e=JSON.parse(a);t.each(e.ads,function(a,e){t("#"+e.element_id).html(e.code)})}})}}}(jQuery);jQuery(document).ready(function(){fsb.init()});
+
+</script>
+
+
+
+</body></html>

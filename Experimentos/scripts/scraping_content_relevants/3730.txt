@@ -1,0 +1,461 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:title" content="Vigilância Epidemiológica de Feira registra morte por leptospirose e desencadeia ações de prevenção e controle">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://www.tribunafeirense.com.br/fotos/2023/03/vigilancia-epidemiologica-de-feira-registra-morte-por-leptos_22032023034741.jpg">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.tribunafeirense.com.br/noticias/50515/vigilancia-epidemiologica-de-feira-registra-morte-por-leptospirose-e-desencadeia-acoes-de-prevencao-e-controle.html">
+<meta property="og:site_name" content="Tribuna Feirense">
+<meta property="og:image:width" content="515">
+<meta property="og:image:height" content="270">
+<title>Vigilância Epidemiológica de Feira registra morte por leptospirose e desencadeia ações de prevenção e controle - Tribuna Feirense</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link type="text/css" rel="stylesheet" href="/fontes/fontes.css">
+<link type="text/css" rel="stylesheet" href="/css/estilo.css?">
+<script type="text/javascript" src="/js/scripts.js"></script>
+<script type="text/javascript" src="/js/jwplayer.js"></script>
+<script type="text/javascript" src="/js/html5shiv.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/estilo-ie.css">
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/html5shiv.js"></script>
+<script type="text/javascript" src="/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/source/jquery.fancybox.js?v=2.1.5"></script>
+<link rel="stylesheet" type="text/css" href="/source/jquery.fancybox.css?v=2.1.5" media="screen">
+<script type="text/javascript" src="/js/easypaginate.js"></script>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f29b4f9ca1ee90012cc58f4&amp;product=sop" async="async"></script>
+<script type="text/javascript">
+jQuery(function($){
+	$('.fancybox').fancybox({
+		wrapCSS    : 'fancybox-custom',
+		closeClick : true,
+		openEffect : 'none',
+		helpers : {
+			title : {
+				type : 'inside'
+			},
+			overlay : {
+				css : {
+					'background' : 'rgba(238,238,238,0.85)'
+				}
+			}
+		}
+	});
+	
+	$('ul#itens').easyPaginate({
+		step:1,
+		auto:true,
+		loop:true,
+		pause:5000
+	});
+});
+
+$(document).ready(function(){	
+	
+	
+	$(".compartilhar").hover(function(){
+		$(this).find(".redes").show();
+	},function(){
+		$(this).find(".redes").hide();
+	});
+	$(".banner").hover(
+		function() {
+			$(this).addClass("hAuto");
+		},
+		function() {
+			$(this).removeClass("hAuto");
+		}
+	);
+	$(function() {
+		while( $('#fitin h2').height() > $('#fitin').height() ) {
+			$('#fitin h2').css('font-size', (parseInt($('#fitin h2').css('font-size')) - 1) + "px" );
+		}
+	});
+});
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40781541-1', 'tribunafeirense.com.br');
+  ga('send', 'pageview');
+
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Vigilância Epidemiológica de Feira registra morte por leptospirose e desencadeia ações de prevenção e controle",
+  "alternativeHeadline": "Tribuna Feirense",
+  "image": ["https://www.tribunafeirense.com.brfotos/2023/03/vigilancia-epidemiologica-de-feira-registra-morte-por-leptos_22032023034741.jpg"],
+  "datePublished": "",
+  "description": "",
+  "articleBody": ""
+}
+</script>
+</head>
+
+<body itemscope="" itemtype="https://schema.org/NewsArticle">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=599778143460699&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<nav id="menu">
+	<ul class="limite">
+    	    	<li>
+        	<a href="/secoes/2/1/bahia" title="Bahia">Bahia</a>
+        </li>
+            	<li>
+        	<a href="/secoes/3/1/brasil" title="Brasil">Brasil</a>
+        </li>
+            	<li>
+        	<a href="/secoes/23/1/camara-municipal" title="Câmara Municipal">Câmara Municipal</a>
+        </li>
+            	<li>
+        	<a href="/secoes/9/1/cultura" title="Cultura">Cultura</a>
+        </li>
+            	<li>
+        	<a href="/secoes/7/1/economia" title="Economia">Economia</a>
+        </li>
+            	<li>
+        	<a href="/secoes/8/1/educacao" title="Educação">Educação</a>
+        </li>
+            	<li>
+        	<a href="/secoes/21/1/empregos" title="Empregos">Empregos</a>
+        </li>
+            	<li>
+        	<a href="/secoes/12/1/esporte" title="Esporte">Esporte</a>
+        </li>
+            	<li>
+        	<a href="/secoes/10/1/famosos" title="Famosos">Famosos</a>
+        </li>
+            	<li>
+        	<a href="/secoes/1/1/geral" title="Geral">Geral</a>
+        </li>
+            	<li>
+        	<a href="/secoes/25/1/justica" title="Justiça">Justiça</a>
+        </li>
+            	<li>
+        	<a href="/secoes/20/1/mundo" title="Mundo">Mundo</a>
+        </li>
+            	<li>
+        	<a href="/secoes/4/1/politica" title="Política">Política</a>
+        </li>
+            	<li>
+        	<a href="/secoes/6/1/saude" title="Saúde">Saúde</a>
+        </li>
+            	<li>
+        	<a href="/secoes/5/1/seguranca" title="Segurança">Segurança</a>
+        </li>
+                <!-- 
+    	<li>
+        	<a href="/secoes/1/1/geral" title="Geral">Geral</a>
+        </li>
+        <li>
+        	<a href="/secoes/2/1/bahia" title="Bahia">Bahia</a>
+        </li>
+        <li>
+        	<a href="/secoes/3/1/brasil" title="Brasil">Brasil</a>
+        </li>
+        <li>
+        	<a href="/secoes/4/1/politica" title="Política">Política</a>
+        </li>
+        <li>
+        	<a href="/secoes/5/1/seguranca" title="Segurança">Segurança</a>
+        </li>
+        <li>
+        	<a href="/secoes/6/1/saude" title="Saúde">Saúde</a>
+        </li>
+        <li>
+        	<a href="/secoes/7/1/economia" title="Economia">Economia</a>
+        </li>
+        <li>
+        	<a href="/secoes/8/1/educacao" title="Educação">Educação</a>
+        </li>
+        <li>
+        	<a href="/secoes/9/1/cultura" title="Cultura">Cultura</a>
+        </li>
+        <li>
+        	<a href="/secoes/10/1/famosos" title="Famosos">Famosos</a>
+        </li>
+        -->
+    </ul>
+</nav><div class="limite">
+	<div id="conteudo">
+    	<header id="topo">
+    <div class="box">
+        <h1><a href="/home" title="Tribuna Feirense"><img src="/imagens/tribuna-feirense.gif" alt="Tribuna Feirense"></a></h1>
+        <ul class="redes">
+            <li>
+                <a href="https://www.facebook.com/pages/Jornal-Tribuna-Feirense/174403076002696" title="Facebook" target="_blank"><img src="/imagens/ico_facebook.gif" alt="Facebook"></a>
+            </li>
+            <li>
+                <a href="http://twitter.com/tribunafeirense" title="Twiiter" target="_blank"><img src="/imagens/ico_twitter.gif" alt="Twiiter"></a>
+            </li>
+            <li class="whatsapp">
+                <a href="javascript:;" title="Whatsapp"><img src="/imagens/ico_whatsapp.gif" title="Whatsapp"></a>
+                <span>55 75 99801 5659</span>
+            </li>
+            <li class="busca">
+                <div class="form">
+                    <form name="formBusca" method="get" action="/busca" onsubmit="return checaBusca();">
+                        <input type="text" name="busca" id="busca" value="buscar no site..." onfocus="if(this.value=='buscar no site...'){ this.value=''; }" onblur="if(this.value==''){ this.value='buscar no site...'; }">
+                      <input type="submit" name="button" id="button" value="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;">
+                    </form>
+                </div>
+                Feira de Santana, <span class="data">ter�a</span>, 14 de <span class="data">janeiro</span> de 2025            </li>
+        </ul>
+        <div class="clear"></div>
+        <div class="banner"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+			<!-- bannerTopo -->
+
+			<ins class="adsbygoogle" style="display:inline-block;width:710px;height:90px" data-ad-client="ca-pub-7725510606566385" data-ad-slot="4980197552"></ins>
+
+			<script>
+
+			(adsbygoogle = window.adsbygoogle || []).push({});
+
+			</script></div>            
+    </div>
+</header>    	<h2 class="leiamais">
+        	<span>Saúde</span>
+        </h2>
+        <h1 class="titulo" itemprop="name">Vigilância Epidemiológica de Feira registra morte por leptospirose e desencadeia ações de prevenção e controle</h1>
+        <div class="redes">
+        	<div class="compartilhar">
+            	<div class="sharethis-inline-share-buttons" data-url="https://www.tribunafeirense.com.br/noticias/50515/vigilancia-epidemiologica-de-feira-registra-morte-por-leptospirose-e-desencadeia-acoes-de-prevencao-e-controle.html" data-title="Vigilância Epidemiológica de Feira registra morte por leptospirose e desencadeia ações de prevenção e controle"></div>
+            </div>
+        	22 de Março de 2023 | 15h 26        </div>
+        <div class="clear"></div>
+
+        
+                        
+        <div class="componentes">
+            <figure>
+            	<img src="../../fotos/2023/03/vigilancia-epidemiologica-de-feira-registra-morte-por-leptos_22032023034741.jpg" itemprop="image" alt="Vigilância Epidemiológica de Feira registra morte por leptospirose e desencadeia ações de prevenção e controle" width="640">
+                <figcaption class="legenda">Rastreamento de casos suspeitos também faz parte da operação. (Foto: Divulgação/PMFS)</figcaption>            </figure>
+        </div>
+        <div class="clear"></div>
+                <div itemprop="description" class="fonte-texto"><div style="text-align: justify; "><span style="font-size: 16px;">A Vigilância Epidemiológica da Secretaria Municipal de Saúde de Feira de Santana registrou um caso de morte por leptospirose - doença transmitida pela urina do rato - no último dia 1°. Trata-se de um homem de 55 anos, morador do bairro Limoeiro, que contraiu a doença em casa. Ele apresentou os primeiros sintomas em 15 de fevereiro deste ano e faleceu no Hospital Instituto Couto Maia.</span></div><div style="text-align: justify; "><br></div><div style="text-align: justify;"><span style="font-size: 16px;">Ao ter conhecimento do caso, a equipe de saúde da Vigilância Epidemiológica realizou imediatamente a notificação e a investigação, adotou as medidas de prevenção e controle na residência do paciente, além do rastreamento de casos suspeitos na região.</span></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><span style="font-size: 16px;">Vale destacar que os casos são registrados conforme a ficha de notificação, atestado de óbito e resultado positivo do exame chegam à Vigilância.</span></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><span style="font-size: 16px;">Com o intuito de alertar a população sobre os riscos da leptospirose, os agentes de endemias visitaram as residências dos moradores do bairro do Limoeiro para realização de controle e prevenção.&nbsp;</span></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><span style="font-size: 16px;">A doença é causada pela bactéria leptospira, que usa alguns animais como hospedeiros, principalmente roedores, e é transmitida para os seres humanos pela exposição direta ou indireta à urina desses animais, comuns após contato prolongado com águas contaminadas.</span></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><span style="font-size: 16px;">"A presença dos ratos gera agravos e consequências da leptospirose. Para evitar o crescimento desta doença, intensificamos as ações de intervenção química para controle de roedores, aliada às atividades educativas com os moradores.", afirmou Carlita Correia, coordenadora da Vigilância Epidemiológica.&nbsp;</span></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><span style="font-size: 16px;">A coordenadora também reforça a necessidade de a população fazer a própria parte para garantir a redução da infestação dos roedores na localidade.</span></div><div style="text-align: justify;"><br></div><div style="text-align: justify;"><span style="font-size: 16px;">"As pessoas devem manter os terrenos baldios limpos e capinados. Evitar entulhos e acúmulo de objetos nos quintais e nas telhas. São algumas ações simples, mas de grande importância para combater a leptospirose", destacou.</span></div><div style="text-align: justify;"><span style="font-size: 16px;">&nbsp;</span></div><div style="text-align: justify;"><span style="font-size: 16px;">&nbsp;</span></div><div style="text-align: justify;"><span style="font-size: 16px;">&nbsp;</span></div><div style="text-align: justify;"><span style="font-size: 16px;">&nbsp;</span></div><div style="text-align: justify;"><span style="font-size: 16px;">&nbsp;<br></span>&nbsp;</div></div>
+                <p><strong>FONTE:</strong> PMFS</p>
+        <br><br>
+        <div class="clear"></div>
+                <div class="banner">
+        				<img src="https://www.tribunafeirense.com.br/banners/teste__1632333508_22092021025828.png" width="710" alt="teste " title="teste ">
+				        </div>
+                <div class="clear"></div>
+            	<h3 class="leiamais">
+        	<span>Saúde</span>
+        	LEIA TAMBÉM
+        </h3>
+        <ul class="noticias">
+        	            <li class="first">
+            	<h2><a href="/noticias/57483/presidente-lula-veta-projeto-que-equipara-dabetes-tipo-1-a-deficiencia.html" class="vermelho" title="Presidente Lula veta projeto que equipara dabetes tipo 1 a deficiência">Presidente Lula veta projeto que equipara dabetes tipo 1 a deficiência</a></h2>
+            </li>
+                        <li>
+            	<h2><a href="/noticias/57445/secretaria-de-saude-de-feira-articula-acao-de-combate-a-dengue-com-mutirao-de-vacinacao-e-limpeza-de-ruas.html" class="vermelho" title="Secretaria de Saúde de Feira articula ação de combate à dengue com mutirão de vacinação e limpeza de ruas">Secretaria de Saúde de Feira articula ação de combate à dengue com mutirão de vacinação e limpeza de ruas</a></h2>
+            </li>
+                        <li>
+            	<h2><a href="/noticias/57444/quase-3-mil-cadastros-foram-feitos-em-dois-dias-para-zerar-fila-de-exames-em-feira-de-santana.html" class="vermelho" title="Quase 3 mil cadastros foram feitos em dois dias para zerar fila de exames em Feira de Santana">Quase 3 mil cadastros foram feitos em dois dias para zerar fila de exames em Feira de Santana</a></h2>
+            </li>
+                        <div class="clear"></div>
+        </ul>
+            </div>
+    <div id="lateral">
+						<div class="charge">
+            	<h4 class="tt_capa">Charge da Semana</h4>
+                <figure>
+                	<a href="upload/charge-do-borega_1736340289_08012025094449.jpg" class="fancybox" data-fancybox-group="gallery" title="charge do Borega">
+                		<img src="/upload/charge-do-borega_1736340289_08012025094449.jpg" width="360" alt="charge do Borega">
+                    </a>
+                </figure>
+            </div>
+                        <div class="colunistas">
+                <h4 class="tt_capa">Colunistas</h4>
+                <!--<ul>
+					                </ul>-->
+                
+                <ul>
+					                    <li>
+                        <figure>
+                            <a href="/coluna/14/1/cesar-oliveira" title="César Oliveira"><img src="/secoes/14.jpg" alt="César Oliveira"></a>
+                        </figure>
+                        <h2><a href="/coluna/14/1/cesar-oliveira" title="César Oliveira">César Oliveira</a></h2>                        
+                    	                        <a href="/noticias/57464/a-cumplicidade-mortal-de-lula-com-o-ditador-da-venezuela" class="vermelho">
+                            A cumplicidade mortal de Lula com o ditador da Venezuela                        </a>
+                        <hr>
+                                                <a href="/noticias/57424/museu-parque-do-saber-teve-prejuizo-de-rs5-milhoes-por-falta-de-manutencao" class="vermelho">
+                            Museu Parque do Saber teve prejuízo de R$5 milhões por falta de manutenção                        </a>
+                        <hr>
+                                                <div class="clear"></div>
+                    </li>
+                                        <li>
+                        <figure>
+                            <a href="/coluna/26/1/andre-pomponet" title="André Pomponet"><img src="/upload/andre-pomponet_1702483832_13122023011032.jpeg" alt="André Pomponet"></a>
+                        </figure>
+                        <h2><a href="/coluna/26/1/andre-pomponet" title="André Pomponet">André Pomponet</a></h2>                        
+                    	                        <a href="/noticias/57428/cresce-a-populacao-de-rua" class="vermelho">
+                            Cresce a população de rua                        </a>
+                        <hr>
+                                                <a href="/noticias/57408/a-fumaca-eterna-na-queimadinha" class="vermelho">
+                            A fumaça eterna na Queimadinha                        </a>
+                        <hr>
+                                                <div class="clear"></div>
+                    </li>
+                                        <li>
+                        <figure>
+                            <a href="/coluna/22/1/emanuela-sampaio" title="Emanuela Sampaio"><img src="/secoes/22.jpeg" alt="Emanuela Sampaio"></a>
+                        </figure>
+                        <h2><a href="/coluna/22/1/emanuela-sampaio" title="Emanuela Sampaio">Emanuela Sampaio</a></h2>                        
+                    	                        <a href="/noticias/57480/canto-hotel-celebra-iemanja-com-festa-exclusiva-no-dia-2-de-fevereiro" class="vermelho">
+                            Canto Hotel celebra Iemanjá com festa exclusiva no dia 2 de fevereiro                        </a>
+                        <hr>
+                                                <a href="/noticias/57449/villa-bonfim-academia-villa-forma-realiza-mais-uma-edicao-de-caminhada-rumo-a-colina-sagrada" class="vermelho">
+                            Villa Bonfim: Academia Villa Forma Realiza mais uma edição de caminhada rumo à Colina Sagrada                        </a>
+                        <hr>
+                                                <div class="clear"></div>
+                    </li>
+                                        <li>
+                        <figure>
+                            <a href="/coluna/24/1/cesar-oliveira-cronicas" title="César Oliveira - Crônicas"><img src="/secoes/24.jpg" alt="César Oliveira - Crônicas"></a>
+                        </figure>
+                        <h2><a href="/coluna/24/1/cesar-oliveira-cronicas" title="César Oliveira - Crônicas">César Oliveira - Crônicas</a></h2>                        
+                    	                        <a href="/noticias/41326/o-mal-estar-do-seculo-e-a-falta-de-porrada" class="vermelho">
+                            O mal estar do século e a falta de porrada                        </a>
+                        <hr>
+                                                <a href="/noticias/41325/faca-o-dia-bem-feito" class="vermelho">
+                            Faça o dia bem feito                        </a>
+                        <hr>
+                                                <div class="clear"></div>
+                    </li>
+                                    </ul>
+            </div>
+        	<h2 class="tt_capa">As mais lidas hoje</h2>
+                        <ul class="listagem">
+            					<li>
+                	<span>1</span>
+                                        <figure>
+                    	<a href="/noticias/57475/cidades-baianas-decretam-estado-de-emergencia-por-causa-das-fortes-chuvas-51-municipios-foram-atingidos-.html" title="Cidades baianas decretam estado de emergência, por causa das fortes chuvas; 51 municípios foram atingidos   "><img src="/fotos/2025/01/cidades-baianas-decretam-estado-de-emergencia--por-causa-das_13012025092453.jpg" width="310" alt="Cidades baianas decretam estado de emergência, por causa das fortes chuvas; 51 municípios foram atingidos   "></a>
+                    </figure>
+                                    	<h3><a href="/noticias/57475/cidades-baianas-decretam-estado-de-emergencia-por-causa-das-fortes-chuvas-51-municipios-foram-atingidos-.html" title="Cidades baianas decretam estado de emergência, por causa das fortes chuvas; 51 municípios foram atingidos   " class="vermelho">Cidades baianas decretam estado de emergência, por causa das fortes chuvas; 51 municípios foram atingidos   </a></h3>
+					<div class="clear"></div>
+                </li>
+                				<li>
+                	<span>2</span>
+                                    	<h3><a href="/noticias/57476/onibus-que-transportava-evangelicos-para-congresso-se-envolve-em-acidente-e-deixa-feridos-na-bahia.html" title="Ônibus que transportava evangélicos para congresso se envolve em acidente e deixa feridos, na Bahia" class="vermelho">Ônibus que transportava evangélicos para congresso se envolve em acidente e deixa feridos, na Bahia</a></h3>
+					<div class="clear"></div>
+                </li>
+                				<li>
+                	<span>3</span>
+                                    	<h3><a href="/noticias/57480/canto-hotel-celebra-iemanja-com-festa-exclusiva-no-dia-2-de-fevereiro.html" title="Canto Hotel celebra Iemanjá com festa exclusiva no dia 2 de fevereiro" class="vermelho">Canto Hotel celebra Iemanjá com festa exclusiva no dia 2 de fevereiro</a></h3>
+					<div class="clear"></div>
+                </li>
+                				<li>
+                	<span>4</span>
+                                    	<h3><a href="/noticias/57479/vandalos-arrombam-cadh-de-feira-de-santana-e-danificam-area-externa-da-unidade-de-saude-.html" title="Vândalos arrombam Cadh de Feira de Santana e danificam área externa da unidade de saúde   " class="vermelho">Vândalos arrombam Cadh de Feira de Santana e danificam área externa da unidade de saúde   </a></h3>
+					<div class="clear"></div>
+                </li>
+                				<li>
+                	<span>5</span>
+                                    	<h3><a href="/noticias/57478/mercado-financeiro-projeta-inflacao-de-5-em-2025.html" title="Mercado financeiro projeta inflação de 5%, em 2025" class="vermelho">Mercado financeiro projeta inflação de 5%, em 2025</a></h3>
+					<div class="clear"></div>
+                </li>
+                            </ul>
+                        			<div class="banner">
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Tribuna - 300 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-8439112750092323" data-ad-slot="2951669433"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>			</div>
+			            <div>
+            	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Tribuna - 300 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-8439112750092323" data-ad-slot="2951669433"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            </div>
+        </div>    <div class="clear"></div>
+</div>
+<footer id="rodape">
+	<div class="limite">
+    	<nav>
+        	<ul>
+            	<li>
+                	<a href="/home" title="Início">Início</a>
+                </li>
+                <li>
+                	<a href="/o-tribuna" title="O Tribuna">O Tribuna</a>
+                </li>
+                <li>
+                	<a href="/anuncie" title="Anuncie Aqui">Anuncie Aqui</a>
+                </li>
+                <li>
+                	<a href="https://issuu.com/tribunafeirense" target="_blank" title="Edição Impressa">Edição Impressa</a>
+                </li>
+                <li>
+                	<a href="#" title="Você no Tribuna">Você no Tribuna</a>
+                </li>
+                <li>
+                	<a href="/fale-conosco" title="Fale Conosco">Fale Conosco</a>
+                </li>
+            </ul>
+        </nav>
+        <ul class="links">
+        	<li class="email"><br>
+                redacao@tribunafeirense.com.br
+            </li>
+            <li class="endereco">
+            	75 99151-1623<br>
+                Av senhor dos passos, 407 - Sala 5, centro, Feira de Santana-BA
+            </li>
+            <li class="redes">
+            	/Jornal Tribuna Feirense<br>
+                @tribunafeirense
+            </li>
+        </ul>
+        <div class="corpiring">
+        	<div class="marcas">
+            	<a title="Libre Comunicação"><img src="/imagens/libre-comunicacao.gif" alt="Libre Comunicação"></a>
+                <a title="Tacitus Tecnologia"><img src="/imagens/tacitus.gif" alt="Tacitus Tecnologia"></a>
+                <a href="https://www.linceweb.com.br/" target="blank" title="Lince Web">
+                <svg id="LinceWeb" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.3 581.9" style="width: 60px; margin: 0 0 5px 10px;">
+                    <style>
+                        #LinceWeb .st0,
+                        #LinceWeb .st1,
+                        #LinceWeb .st2 {
+                            fill:#52bbc5;
+                            transition:0.3s;
+                            opacity:0,8;
+                        }
+                        #LinceWeb:hover .st0,
+                        #LinceWeb:hover .st1,
+                        #LinceWeb:hover .st2 {
+                            fill:#52bbc5;
+                            transition:0.3s;
+                            opacity:1;
+                        }
+                    </style>
+                    <path class="st0" d="M20.1 523.9c.4 1.4.4 2.9 0 4.3v-4.3z"></path>
+                    <path class="st1" d="M148.3 213.1c-1 .4-1.9.4-2.9 0h2.9z"></path>
+                    <path class="st2" d="M26.5 507.6c.6-1.1.4-2.4.6-3.6 1.3-9.3 4-18.2 7-27.1 8.4-25.5 18.1-50.6 28-75.6 11-27.9 22.4-55.8 33-83.8 6.6-17.4 13-35 18.8-52.7 3.9-12.1 7.5-24.3 10.6-36.7 1.9-7.6 5.3-14.5 10.8-20.2 4-4.2 8.7-7.4 14.6-8.5.4-.1.8 0 1.1-.4h1c1 .4 1.9.4 2.9 0h.5c.3.4.7.2 1.1.3 6.1 1.3 9.6 5.2 11.1 11.1 1.5 5.8.6 11.4-.9 17s-3.9 10.7-6.4 15.9c-10.6 22.3-21.1 44.6-31.3 67-14.3 31.4-28.2 63.1-40.9 95.2-7.4 18.8-14.4 37.8-20.6 57-2.9 9-5.7 18-7.8 27.3-.7 3.3-1.3 6.6-1.3 10 0 8.2 3.8 12.8 11.9 14.3 5.4 1 10.9.9 16.4.5 7.4-.4 14.7-1.6 22-2.8 7.8-1.3 15.6-2.8 23.3-4.4 12.6-2.6 25.2-5.3 38-7.3 6.5-1 13-1.8 19.6-2.3 6.5-.5 13.1-.8 19.6-.6 5.6.2 11.3.4 16.9 1.1 4.9.6 8.7 3.9 9.8 8.3 1.4 6.1-2.4 12.1-8.6 13.8-2.2.6-4.5.5-6.8.4-5.1-.3-10.2-.3-15.3-.3-16.7.2-33.2 2.2-49.5 5.7-15.8 3.4-31.6 7.2-47.5 10.3-8.9 1.8-17.8 3.3-26.8 4.4-6.8.8-13.7 1.1-20.6.7-6.6-.3-13-1.5-19.1-4.2-8.4-3.9-13-10.5-14.3-19.6-.1-.8 0-1.6-.5-2.3v-1.7c.4-1.4.4-2.9 0-4.3-.4-.5-.4-1.2-.4-1.9z"></path>
+                    <path class="st2" d="M432 460.9c-2.8 1.5-5.5 3.1-8.3 4.6-16.1 8.6-32.8 15.4-50.6 19.6-7.2 1.7-14.6 2.9-22 3.3-5.3.3-10.5.4-15.8-.2-11.6-1.5-19.4-7.8-23.9-18.4-.4-.8-.6-1-1.5-.6-5.4 2.4-11 4.4-16.9 5.3-5.3.8-10.6.9-15.8-.7-5.4-1.6-8.2-5.6-10.1-10.6-2-5.3-2.1-10.7-1.5-16.2 1.2-12.3 5.5-23.9 9.3-35.6 3.5-10.6 8-20.9 11.9-31.4 2-5.3 4-10.7 5.6-16.2.4-1.5.6-3 .8-4.6.2-2-.8-2.9-2.8-2.7-1.8.2-3.3 1.1-4.8 2.1-6.5 4.2-12.5 8.8-18.5 13.7-11.9 9.8-22.7 20.7-33.5 31.7-7.5 7.6-14.9 15.4-22.3 23.2-14.2 15-28 30.3-40.6 46.6-1.9 2.5-3.7 5.1-5.7 7.5-4.4 5.2-12.6 7.1-18.6 4.2-3.7-1.8-5.5-5.4-5.1-9.5.6-5.4 2.8-10.2 4.8-15.1 6.2-15.6 14.2-30.4 22.1-45.2 5.1-9.6 10.1-19.1 15.3-28.7 11.4-21.3 22.7-42.6 34.7-63.6 4-7 8.1-13.9 12.8-20.4 3.4-4.6 7.7-8.2 13.3-9.8 5.3-1.5 10.3-1.1 14.6 2.7 2.5 2.2 3.7 5.1 4 8.4.4 4.4-.9 8.4-2.7 12.2-2.5 5.2-5.7 10-8.8 14.8-8.4 13.1-17.1 26.1-25.1 39.5-5.4 8.9-10.4 18-14.9 27.4l-.3.9c.6.1.7-.3 1-.5 7.5-7.2 15-14.5 22.5-21.6 15.8-14.8 32.1-29 49.7-41.6 6.4-4.5 13.2-8.5 20.6-11.1 2.9-1 5.9-1.8 9-1.9 6.8-.2 10.9 3.6 11.7 10.4.7 6.3-.5 12.4-2.1 18.5-4.2 15.8-10 31-15.9 46.2-4.8 12.6-9.5 25.2-13.2 38.1-.9 3.2-1.5 6.5-1.1 9.8.7 5.2 3.1 7.4 8.4 7.7 2 .1 4-.2 6-.5.5-.1.9-.2.9-.9.3-10.1 2.8-19.8 6.1-29.3 4.3-12.4 10.3-23.9 17.3-35 7.2-11.6 15.3-22.6 24.4-32.7 16.2-18.2 34.6-33.6 56.3-44.9 8.7-4.5 17.9-7.7 27.7-9 7.6-1 15.2-1.2 22.7.9 7.1 2 11.9 6.3 13.6 13.7 1 4.5.5 8.9-.8 13.3-2.5 8.8-7.2 16.5-12.9 23.6-3 3.8-6.2 7.4-9.9 10.6-2.7 2.3-5.6 4.3-9.2 4.9-1.4.2-2.7.2-4-.3-2.8-.9-4.1-3.4-3.6-6.2.5-2.6 2-4.7 3.8-6.6 3.9-4.2 7.7-8.5 10.8-13.3 2.1-3.1 3.8-6.4 4.6-10.1 1.2-5.7-1.8-10-7.6-10.8-5.3-.7-10.3.5-15.2 2.4-7.9 3-14.8 7.7-21.3 13-12.2 10-22.4 21.9-31.6 34.6-8.3 11.6-15.6 23.9-21.8 36.8-4 8.4-7.4 17-9.6 26-1.2 5.2-1.8 10.5-.7 15.8 1.7 8 6.9 13.1 15 14.5 4.9.8 9.9.7 14.8.1 19.6-2.1 37.1-10 54-19.6 1.5-.8 2.2-1.9 2.6-3.5 3-12 8.2-23.1 14.6-33.6 9.2-15.3 19.6-29.8 31.2-43.4 7.9-9.3 16.2-18.2 25-26.5 11-10.3 22.8-19.8 35.7-27.6 7.5-4.5 15.4-8.1 24.1-9.7 5.3-1 10.6-1.2 15.7.8 5.9 2.3 9.4 7.3 9.5 13.7.1 6.2-2 11.8-5 17.1-3.3 5.8-7.4 11.1-12 16-16 17.5-33.7 33.2-53.2 46.9-11.7 8.2-23.9 15.5-37.3 20.9-4.6 1.8-7.6 5.3-10.3 9.2-3.4 4.9-5.8 10.1-6.7 16-.8 5.4 0 10.6 2.5 15.5 2.4 4.5 6.5 6.5 11.2 7.3 6.7 1.1 13.4.6 20-.6 13-2.2 24.8-7.6 36.3-13.6 3.3-1.7 6.5-3.7 9.7-5.5 2.1-1.2 4.2-2 6.6-2.3 3-.4 5.6 1.1 6.2 3.6.4 1.5-.1 2.9-.7 4.3-1.4 2.9-3.8 4.8-6.5 6.4-15.6 9.5-31.9 17.5-49.4 23-8.8 2.8-17.8 4.8-27 5.7-5.5.5-10.9.9-16.4.4-7.1-.6-13.7-2.6-18.9-7.9-3.8-4-6-8.7-6.9-14.1 0-.2-.1-.5-.1-.7.2-.4.1-.6 0-1zm60.5-68.4c.5-.2.8-.4 1-.5 4.1-2.1 8.1-4.2 12.1-6.6 18.7-10.9 35.3-24.5 50.2-40.2 2.9-3 5.9-6 7.9-9.8 1.7-3.3 3.5-6.6 3.5-10.4 0-3.6-2.3-5.4-5.8-4.8-3.3.6-6.2 2.1-8.9 3.9-6.7 4.6-12.4 10.3-18.1 16.1-12.1 12.3-23.1 25.5-33.4 39.4-2.9 4.1-5.9 8.2-8.5 12.9zM193.8 313.6c-.2 6.4-1.7 11.9-3.8 17.3-4.3 11.2-9.8 21.8-15.2 32.4-7.4 14.3-15.2 28.4-22.9 42.5-10.6 19.5-20.8 39.1-29.1 59.6-1.7 4.3-3.3 8.7-5 12.9-1.9 4.6-4.3 8.8-8.1 12.2-3.9 3.5-8.4 4.9-13.5 3.7-3.2-.7-5.2-3.2-5.5-6.5-.4-4.2.6-8.1 1.9-12 2-5.7 4.7-11.1 7.1-16.6 7.5-17.2 14.5-34.6 21.2-52.2 9-23.5 17.5-47.3 26.1-70.9 2.5-6.8 4.9-13.6 8.5-19.9 2.9-5.2 6.3-10 11.3-13.5 6.7-4.7 13.8-4.9 20.9-1.2 3.7 1.9 5.4 5.3 6 9.3 0 1.3.2 2.3.1 2.9zM198.3 250c10.3 0 18 8.3 17 18.5-.6 6.2-3.7 11-8.3 15.1-3.3 3-7.1 5.2-11.6 5.9-6.7 1.1-12.1-1.7-15.2-7.8-4.3-8.6-2.5-19.5 4.3-26 3.9-3.7 8.5-5.7 13.8-5.7z"></path>
+                </svg>
+            </a>
+            </div>
+        	Tribuna Feirense © 2025. Todos os direitos reservados
+        </div>
+    </div>
+</footer>
+<!-- <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5b04172a4919d90011178745&product=inline-share-buttons' async='async'></script> -->
+</body></html>

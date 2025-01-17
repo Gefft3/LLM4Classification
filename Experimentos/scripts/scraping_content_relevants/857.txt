@@ -1,0 +1,1188 @@
+<html class="no-js" lang="pt-BR"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://cartadenoticias.com.br/xmlrpc.php">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+				<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var e=this;e.win=window,e.doc=document,e.noop=function(){},e.globalBody=e.doc.getElementsByTagName("body")[0],e.globalBody=e.globalBody?e.globalBody:e.doc,e.win.jnewsDataStorage=e.win.jnewsDataStorage||{_storage:new WeakMap,put:function(e,t,n){this._storage.has(e)||this._storage.set(e,new Map),this._storage.get(e).set(t,n)},get:function(e,t){return this._storage.get(e).get(t)},has:function(e,t){return this._storage.has(e)&&this._storage.get(e).has(t)},remove:function(e,t){var n=this._storage.get(e).delete(t);return 0===!this._storage.get(e).size&&this._storage.delete(e),n}},e.windowWidth=function(){return e.win.innerWidth||e.docEl.clientWidth||e.globalBody.clientWidth},e.windowHeight=function(){return e.win.innerHeight||e.docEl.clientHeight||e.globalBody.clientHeight},e.requestAnimationFrame=e.win.requestAnimationFrame||e.win.webkitRequestAnimationFrame||e.win.mozRequestAnimationFrame||e.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(e){return setTimeout(e,1e3/60)},e.cancelAnimationFrame=e.win.cancelAnimationFrame||e.win.webkitCancelAnimationFrame||e.win.webkitCancelRequestAnimationFrame||e.win.mozCancelAnimationFrame||e.win.msCancelRequestAnimationFrame||e.win.oCancelRequestAnimationFrame||function(e){clearTimeout(e)},e.classListSupport="classList"in document.createElement("_"),e.hasClass=e.classListSupport?function(e,t){return e.classList.contains(t)}:function(e,t){return e.className.indexOf(t)>=0},e.addClass=e.classListSupport?function(t,n){e.hasClass(t,n)||t.classList.add(n)}:function(t,n){e.hasClass(t,n)||(t.className+=" "+n)},e.removeClass=e.classListSupport?function(t,n){e.hasClass(t,n)&&t.classList.remove(n)}:function(t,n){e.hasClass(t,n)&&(t.className=t.className.replace(n,""))},e.objKeys=function(e){var t=[];for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&t.push(n);return t},e.isObjectSame=function(e,t){var n=!0;return JSON.stringify(e)!==JSON.stringify(t)&&(n=!1),n},e.extend=function(){for(var e,t,n,o=arguments[0]||{},i=1,a=arguments.length;i<a;i++)if(null!==(e=arguments[i]))for(t in e)o!==(n=e[t])&&void 0!==n&&(o[t]=n);return o},e.dataStorage=e.win.jnewsDataStorage,e.isVisible=function(e){return 0!==e.offsetWidth&&0!==e.offsetHeight||e.getBoundingClientRect().length},e.getHeight=function(e){return e.offsetHeight||e.clientHeight||e.getBoundingClientRect().height},e.getWidth=function(e){return e.offsetWidth||e.clientWidth||e.getBoundingClientRect().width},e.supportsPassive=!1;try{var t=Object.defineProperty({},"passive",{get:function(){e.supportsPassive=!0}});"createEvent"in e.doc?e.win.addEventListener("test",null,t):"fireEvent"in e.doc&&e.win.attachEvent("test",null)}catch(e){}e.passiveOption=!!e.supportsPassive&&{passive:!0},e.setStorage=function(e,t){e="jnews-"+e;var n={expired:Math.floor(((new Date).getTime()+432e5)/1e3)};t=Object.assign(n,t);localStorage.setItem(e,JSON.stringify(t))},e.getStorage=function(e){e="jnews-"+e;var t=localStorage.getItem(e);return null!==t&&0<t.length?JSON.parse(localStorage.getItem(e)):{}},e.expiredStorage=function(){var t,n="jnews-";for(var o in localStorage)o.indexOf(n)>-1&&"undefined"!==(t=e.getStorage(o.replace(n,""))).expired&&t.expired<Math.floor((new Date).getTime()/1e3)&&localStorage.removeItem(o)},e.addEvents=function(t,n,o){for(var i in n){var a=["touchstart","touchmove"].indexOf(i)>=0&&!o&&e.passiveOption;"createEvent"in e.doc?t.addEventListener(i,n[i],a):"fireEvent"in e.doc&&t.attachEvent("on"+i,n[i])}},e.removeEvents=function(t,n){for(var o in n)"createEvent"in e.doc?t.removeEventListener(o,n[o]):"fireEvent"in e.doc&&t.detachEvent("on"+o,n[o])},e.triggerEvents=function(t,n,o){var i;o=o||{detail:null};return"createEvent"in e.doc?(!(i=e.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||i.initCustomEvent(n,!0,!1,o),void t.dispatchEvent(i)):"fireEvent"in e.doc?((i=e.doc.createEventObject()).eventType=n,void t.fireEvent("on"+i.eventType,i)):void 0},e.getParents=function(t,n){void 0===n&&(n=e.doc);for(var o=[],i=t.parentNode,a=!1;!a;)if(i){var r=i;r.querySelectorAll(n).length?a=!0:(o.push(r),i=r.parentNode)}else o=[],a=!0;return o},e.forEach=function(e,t,n){for(var o=0,i=e.length;o<i;o++)t.call(n,e[o],o)},e.getText=function(e){return e.innerText||e.textContent},e.setText=function(e,t){var n="object"==typeof t?t.innerText||t.textContent:t;e.innerText&&(e.innerText=n),e.textContent&&(e.textContent=n)},e.httpBuildQuery=function(t){return e.objKeys(t).reduce(function t(n){var o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(i,a){var r=n[a];a=encodeURIComponent(a);var s=o?"".concat(o,"[").concat(a,"]"):a;return null==r||"function"==typeof r?(i.push("".concat(s,"=")),i):["number","boolean","string"].includes(typeof r)?(i.push("".concat(s,"=").concat(encodeURIComponent(r))),i):(i.push(e.objKeys(r).reduce(t(r,s),[]).join("&")),i)}}(t),[]).join("&")},e.get=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("GET",t,n,o,i)},e.post=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("POST",t,n,o,i)},e.ajax=function(t,n,o,i,a){var r=new XMLHttpRequest,s=n,c=e.httpBuildQuery(o);if(t=-1!=["GET","POST"].indexOf(t)?t:"GET",r.open(t,s+("GET"==t?"?"+c:""),!0),"POST"==t&&r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.setRequestHeader("X-Requested-With","XMLHttpRequest"),r.onreadystatechange=function(){4===r.readyState&&200<=r.status&&300>r.status&&"function"==typeof i&&i.call(void 0,r.response)},void 0!==a&&!a){return{xhr:r,send:function(){r.send("POST"==t?c:null)}}}return r.send("POST"==t?c:null),{xhr:r}},e.scrollTo=function(t,n,o){function i(e,t,n){this.start=this.position(),this.change=e-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=t,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(e,t,n,o){return(e/=o/2)<1?n/2*e*e+t:-n/2*(--e*(e-2)-1)+t},i.prototype.stop=function(){this.finish=!0},i.prototype.move=function(t){e.doc.documentElement.scrollTop=t,e.globalBody.parentNode.scrollTop=t,e.globalBody.scrollTop=t},i.prototype.position=function(){return e.doc.documentElement.scrollTop||e.globalBody.parentNode.scrollTop||e.globalBody.scrollTop},i.prototype.animateScroll=function(){this.currentTime+=this.increment;var t=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(t),this.currentTime<this.duration&&!this.finish?e.requestAnimationFrame.call(e.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new i(t,n,o)},e.unwrap=function(t){var n,o=t;e.forEach(t,(function(e,t){n?n+=e:n=e})),o.replaceWith(n)},e.performance={start:function(e){performance.mark(e+"Start")},stop:function(e){performance.mark(e+"End"),performance.measure(e,e+"Start",e+"End")}},e.fps=function(){var t=0,n=0,o=0;!function(){var i=t=0,a=0,r=0,s=document.getElementById("fpsTable"),c=function(t){void 0===document.getElementsByTagName("body")[0]?e.requestAnimationFrame.call(e.win,(function(){c(t)})):document.getElementsByTagName("body")[0].appendChild(t)};null===s&&((s=document.createElement("div")).style.position="fixed",s.style.top="120px",s.style.left="10px",s.style.width="100px",s.style.height="20px",s.style.border="1px solid black",s.style.fontSize="11px",s.style.zIndex="100000",s.style.backgroundColor="white",s.id="fpsTable",c(s));var l=function(){o++,n=Date.now(),(a=(o/(r=(n-t)/1e3)).toPrecision(2))!=i&&(i=a,s.innerHTML=i+"fps"),1<r&&(t=n,o=0),e.requestAnimationFrame.call(e.win,l)};l()}()},e.instr=function(e,t){for(var n=0;n<t.length;n++)if(-1!==e.toLowerCase().indexOf(t[n].toLowerCase()))return!0},e.winLoad=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.win,{load:o})},e.docReady=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.doc,{DOMContentLoaded:o})},e.fireOnce=function(){e.docReady((function(){e.assets=e.assets||[],e.assets.length&&(e.boot(),e.load_assets())}),50)},e.boot=function(){e.length&&e.doc.querySelectorAll("style[media]").forEach((function(e){"not all"==e.getAttribute("media")&&e.removeAttribute("media")}))},e.create_js=function(t,n){var o=e.doc.createElement("script");switch(o.setAttribute("src",t),n){case"defer":o.setAttribute("defer",!0);break;case"async":o.setAttribute("async",!0);break;case"deferasync":o.setAttribute("defer",!0),o.setAttribute("async",!0)}e.globalBody.appendChild(o)},e.load_assets=function(){"object"==typeof e.assets&&e.forEach(e.assets.slice(0),(function(t,n){var o="";t.defer&&(o+="defer"),t.async&&(o+="async"),e.create_js(t.url,o);var i=e.assets.indexOf(t);i>-1&&e.assets.splice(i,1)})),e.assets=jnewsoption.au_scripts=window.jnewsads=[]},e.setCookie=function(e,t,n){var o="";if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),o="; expires="+i.toUTCString()}document.cookie=e+"="+(t||"")+o+"; path=/"},e.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1,i.length);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return null},e.eraseCookie=function(e){document.cookie=e+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},e.docReady((function(){e.globalBody=e.globalBody==e.doc?e.doc.getElementsByTagName("body")[0]:e.globalBody,e.globalBody=e.globalBody?e.globalBody:e.doc})),e.winLoad((function(){e.winLoad((function(){var t=!1;if(void 0!==window.jnewsadmin)if(void 0!==window.file_version_checker){var n=e.objKeys(window.file_version_checker);n.length?n.forEach((function(e){t||"10.0.4"===window.file_version_checker[e]||(t=!0)})):t=!0}else t=!0;t&&(window.jnewsHelper.getMessage(),window.jnewsHelper.getNotice())}),2500)}))},window.jnews.library=new window.jnews.library;</script><!-- Google tag (gtag.js) Consent Mode dataLayer added by Site Kit -->
+<script type="text/javascript" id="google_gtagjs-js-consent-mode-data-layer">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500});
+window._googlesitekitConsentCategoryMap = {"statistics":["analytics_storage"],"marketing":["ad_storage","ad_user_data","ad_personalization"],"functional":["functionality_storage","security_storage"],"preferences":["personalization_storage"]};
+window._googlesitekitConsents = {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500};
+/* ]]> */
+</script>
+<!-- End Google tag (gtag.js) Consent Mode dataLayer added by Site Kit -->
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v23.8 (Yoast SEO v24.0) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita | Carta de Notícias</title>
+	<meta name="description" content="| Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita">
+	<link rel="canonical" href="https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita">
+	<meta property="og:description" content="| Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita">
+	<meta property="og:url" content="https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/">
+	<meta property="og:site_name" content="Carta de Notícias">
+	<meta property="article:publisher" content="https://www.facebook.com/cartadenoticias">
+	<meta property="article:published_time" content="2021-12-14T20:06:11+00:00">
+	<meta property="og:image" content="https://cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg">
+	<meta property="og:image:width" content="959">
+	<meta property="og:image:height" content="640">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="Cid Miranda">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@cartadenoticias">
+	<meta name="twitter:site" content="@cartadenoticias">
+	<meta name="twitter:label1" content="Escrito por">
+	<meta name="twitter:data1" content="Cid Miranda">
+	<meta name="twitter:label2" content="Est. tempo de leitura">
+	<meta name="twitter:data2" content="2 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#article","isPartOf":{"@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/"},"author":{"name":"Cid Miranda","@id":"https://cartadenoticias.com.br/#/schema/person/b3ffbe46a71a8fce24aac8693f679bbc"},"headline":"Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita","datePublished":"2021-12-14T20:06:11+00:00","dateModified":"2021-12-14T20:06:11+00:00","mainEntityOfPage":{"@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/"},"wordCount":448,"commentCount":0,"publisher":{"@id":"https://cartadenoticias.com.br/#organization"},"image":{"@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#primaryimage"},"thumbnailUrl":"https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?fit=959%2C640&ssl=1","keywords":["casos de Sífilis","Doença Sexualmente Transmissível","testagem","uso de preservativos"],"articleSection":["Saúde"],"inLanguage":"pt-BR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#respond"]}]},{"@type":"WebPage","@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/","url":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/","name":"Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita | Carta de Notícias","isPartOf":{"@id":"https://cartadenoticias.com.br/#website"},"primaryImageOfPage":{"@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#primaryimage"},"image":{"@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#primaryimage"},"thumbnailUrl":"https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?fit=959%2C640&ssl=1","datePublished":"2021-12-14T20:06:11+00:00","dateModified":"2021-12-14T20:06:11+00:00","description":"| Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita","breadcrumb":{"@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#primaryimage","url":"https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?fit=959%2C640&ssl=1","contentUrl":"https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?fit=959%2C640&ssl=1","width":959,"height":640,"caption":"Taxa de incidência de crianças que nasceram com a doença saltou de 20,3% para 35,44% (Foto: Divulgação)"},{"@type":"BreadcrumbList","@id":"https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://cartadenoticias.com.br/"},{"@type":"ListItem","position":2,"name":"Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita"}]},{"@type":"WebSite","@id":"https://cartadenoticias.com.br/#website","url":"https://cartadenoticias.com.br/","name":"Carta de Notícias","description":"","publisher":{"@id":"https://cartadenoticias.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cartadenoticias.com.br/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://cartadenoticias.com.br/#organization","name":"CN Multimidia e Marketing Ltda.","url":"https://cartadenoticias.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://cartadenoticias.com.br/#/schema/logo/image/","url":"https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?fit=512%2C512&ssl=1","contentUrl":"https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?fit=512%2C512&ssl=1","width":512,"height":512,"caption":"CN Multimidia e Marketing Ltda."},"image":{"@id":"https://cartadenoticias.com.br/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/cartadenoticias","https://x.com/cartadenoticias","https://www.instagram.com/portalcartadenoticias/"]},{"@type":"Person","@id":"https://cartadenoticias.com.br/#/schema/person/b3ffbe46a71a8fce24aac8693f679bbc","name":"Cid Miranda","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://cartadenoticias.com.br/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/e3375dad55688dd490a96726e7894431?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/e3375dad55688dd490a96726e7894431?s=96&d=mm&r=g","caption":"Cid Miranda"},"description":"MTb 20.337/MG – JP - WhatsApp 31 98562-4064","sameAs":["https://cartadenoticias.com.br"],"url":"https://cartadenoticias.com.br/author/cid-miranda/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="preconnect" href="//i0.wp.com">
+<link rel="alternate" type="application/rss+xml" title="Feed para Carta de Notícias »" href="https://cartadenoticias.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Carta de Notícias »" href="https://cartadenoticias.com.br/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Carta de Notícias » Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita" href="https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cartadenoticias.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=04b0e8fe1f02d4470ce7a7aa9738c24d"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<!-- cartadenoticias.com.br is managing ads with Advanced Ads 1.56.1 --><script id="carta-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<link rel="stylesheet" id="layerslider-css" href="https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=7.12.5" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://cartadenoticias.com.br/wp-includes/css/dist/block-library/style.min.css?ver=04b0e8fe1f02d4470ce7a7aa9738c24d" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="https://cartadenoticias.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://cartadenoticias.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=04b0e8fe1f02d4470ce7a7aa9738c24d" type="text/css" media="all">
+<style id="jetpack-sharing-buttons-style-inline-css" type="text/css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://cartadenoticias.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="perfecty-push-css" href="https://cartadenoticias.com.br/wp-content/plugins/perfecty-push-notifications/public/css/perfecty-push-public.css?ver=1.6.3" type="text/css" media="all">
+<link rel="stylesheet" id="poll-maker-ays-css" href="https://cartadenoticias.com.br/wp-content/plugins/poll-maker/public/css/poll-maker-ays-public.css?ver=5.5.6" type="text/css" media="all">
+<link rel="stylesheet" id="cmplz-general-css" href="https://cartadenoticias.com.br/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1731674628" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-parent-style-css" href="https://cartadenoticias.com.br/wp-content/themes/jnews/style.css?ver=04b0e8fe1f02d4470ce7a7aa9738c24d" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://cartadenoticias.com.br/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v6.5.2/css/all.css" type="text/css" media="all" integrity="sha384-PPIZEGYM1v8zp5Py7UjFb79S58UeqCL9pYVnVPURKEqvioPROaVAJKKLzvH2rDnI" crossorigin="anonymous">
+<link rel="stylesheet" id="jnews-frontend-css" href="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-js-composer-css" href="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/css/js-composer-frontend.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-style-css" href="https://cartadenoticias.com.br/wp-content/themes/jnews-child/style.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-darkmode-css" href="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/css/darkmode.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v6.5.2/css/v4-shims.css" type="text/css" media="all" integrity="sha384-XyvK/kKwgVW+fuRkusfLgfhAMuaxLPSOY8W7wj8tUkf0Nr2WGHniPmpdu+cmPS5n" crossorigin="anonymous">
+<link rel="stylesheet" id="jnews-select-share-css" href="https://cartadenoticias.com.br/wp-content/plugins/jnews-social-share/assets/css/plugin.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://cartadenoticias.com.br/wp-content/plugins/burst-statistics/helpers/timeme/timeme.min.js?ver=1.7.3" id="burst-timeme-js"></script>
+<script type="text/javascript" id="burst-js-extra">
+/* <![CDATA[ */
+var burst = {"cookie_retention_days":"30","beacon_url":"https:\/\/cartadenoticias.com.br\/wp-content\/plugins\/burst-statistics\/endpoint.php","options":{"beacon_enabled":1,"enable_cookieless_tracking":0,"enable_turbo_mode":0,"do_not_track":0,"track_url_change":0},"goals":[],"goals_script_url":"https:\/\/cartadenoticias.com.br\/wp-content\/plugins\/burst-statistics\/\/assets\/js\/build\/burst-goals.js?v=1.7.3"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="" src="https://cartadenoticias.com.br/wp-content/plugins/burst-statistics/assets/js/build/burst.min.js?ver=1.7.3" id="burst-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="layerslider-utils-js-extra">
+/* <![CDATA[ */
+var LS_Meta = {"v":"7.12.5","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=7.12.5" id="layerslider-utils-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=7.12.5" id="layerslider-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=7.12.5" id="layerslider-transitions-js"></script>
+
+<!-- Snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+
+<!-- Snippet do Google Ads adicionado pelo Site Kit -->
+
+<!-- Snippet do Google Analytics adicionado pelo Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-579N9NF7" id="google_gtagjs-js" async=""></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["cartadenoticias.com.br"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-579N9NF7");
+gtag("config", "AW-16744735511");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); } 
+/* ]]> */
+</script>
+
+<!-- Fim do snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+<script></script><meta name="generator" content="Powered by LayerSlider 7.12.5 - Build Heros, Sliders, and Popups. Create Animations and Beautiful, Rich Web Content as Easy as Never Before on WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.com -->
+<link rel="https://api.w.org/" href="https://cartadenoticias.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://cartadenoticias.com.br/wp-json/wp/v2/posts/10768"><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://cartadenoticias.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://cartadenoticias.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.141.0"><script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = '';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('cartadenoticias.com.br') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\'' + all_links.href.replace(/'/g, '') + '\', \'_blank\', \'noopener\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>
+
+<script>
+	window.PerfectyPushOptions = {
+		path: "https://cartadenoticias.com.br/wp-content/plugins/perfecty-push-notifications/public/js",
+		dialogTitle: "Você deseja receber notificações?",
+		dialogSubmit: "Sim",
+		dialogCancel: "Não",
+		settingsTitle: "Preferências de Notificação",
+		settingsOptIn: "Eu quero receber notificações...",
+		settingsUpdateError: "Não foi possível alterar as preferências, tende de novo!",
+		serverUrl: "https://cartadenoticias.com.br/wp-json/perfecty-push",
+		vapidPublicKey: "BKpOZuKylXRfxiNUfwUw6Cco5HVokbVIR4bhOl82wqWq_96OAsoxOdT-oJqyvlfi488RRmkie2xlJi2pWIFXrf4",
+		token: "954af9561b",
+		tokenHeader: "X-WP-Nonce",
+		enabled: true,
+		unregisterConflicts: false,
+		serviceWorkerScope: "/perfecty/push",
+		loggerLevel: "error",
+		loggerVerbose: false,
+		hideBellAfterSubscribe: false,
+		askPermissionsDirectly: false,
+		unregisterConflictsExpression: "(OneSignalSDKWorker|wonderpush-worker-loader|webpushr-sw|subscribers-com\/firebase-messaging-sw|gravitec-net-web-push-notifications|push_notification_sw)",
+		promptIconUrl: "https://cartadenoticias.com.br/wp-content/uploads/2024/07/cropped-faviconPNG.png",
+		visitsToDisplayPrompt: 2	}
+</script>
+		<link rel="manifest" href="https://cartadenoticias.com.br/wp-json/wp/v2/web-app-manifest">
+					<meta name="theme-color" content="#fff">
+								<meta name="apple-mobile-web-app-capable" content="yes">
+				<meta name="mobile-web-app-capable" content="yes">
+
+				<link rel="apple-touch-startup-image" href="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/cropped-faviconPNG.png?fit=192%2C192&amp;ssl=1">
+
+				<meta name="apple-mobile-web-app-title" content="CN News">
+		<meta name="application-name" content="CN News">
+			<style>img#wpstats{display:none}</style>
+					<style>.cmplz-hidden {
+					display: none !important;
+				}</style><!-- Analytics by WP Statistics v14.11.4 - https://wp-statistics.com -->
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+
+<!-- Snippet do Gerenciador de Tags do Google adicionado pelo Site Kit -->
+<script type="text/javascript">
+/* <![CDATA[ */
+
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-M2ZP5WBW' );
+			
+/* ]]> */
+</script>
+
+<!-- Finalizar o snippet do Gerenciador de Tags do Google adicionado pelo Site Kit -->
+<link rel="icon" href="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/cropped-faviconPNG.png?fit=32%2C32&amp;ssl=1" sizes="32x32">
+<link rel="icon" href="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/cropped-faviconPNG.png?fit=192%2C192&amp;ssl=1" sizes="192x192">
+<link rel="apple-touch-icon" href="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/cropped-faviconPNG.png?fit=180%2C180&amp;ssl=1">
+<meta name="msapplication-TileImage" content="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/cropped-faviconPNG.png?fit=270%2C270&amp;ssl=1">
+<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">body { --j-accent-color : #0f1675; --j-alt-color : #1e73be; --j-heading-color : #e09500; } a, .jeg_menu_style_5>li>a:hover, .jeg_menu_style_5>li.sfHover>a, .jeg_menu_style_5>li.current-menu-item>a, .jeg_menu_style_5>li.current-menu-ancestor>a, .jeg_navbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_midbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_side_tabs li.active, .jeg_block_heading_5 strong, .jeg_block_heading_6 strong, .jeg_block_heading_7 strong, .jeg_block_heading_8 strong, .jeg_subcat_list li a:hover, .jeg_subcat_list li button:hover, .jeg_pl_lg_7 .jeg_thumb .jeg_post_category a, .jeg_pl_xs_2:before, .jeg_pl_xs_4 .jeg_postblock_content:before, .jeg_postblock .jeg_post_title a:hover, .jeg_hero_style_6 .jeg_post_title a:hover, .jeg_sidefeed .jeg_pl_xs_3 .jeg_post_title a:hover, .widget_jnews_popular .jeg_post_title a:hover, .jeg_meta_author a, .widget_archive li a:hover, .widget_pages li a:hover, .widget_meta li a:hover, .widget_recent_entries li a:hover, .widget_rss li a:hover, .widget_rss cite, .widget_categories li a:hover, .widget_categories li.current-cat>a, #breadcrumbs a:hover, .jeg_share_count .counts, .commentlist .bypostauthor>.comment-body>.comment-author>.fn, span.required, .jeg_review_title, .bestprice .price, .authorlink a:hover, .jeg_vertical_playlist .jeg_video_playlist_play_icon, .jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail:before, .jeg_horizontal_playlist .jeg_video_playlist_play, .woocommerce li.product .pricegroup .button, .widget_display_forums li a:hover, .widget_display_topics li:before, .widget_display_replies li:before, .widget_display_views li:before, .bbp-breadcrumb a:hover, .jeg_mobile_menu li.sfHover>a, .jeg_mobile_menu li a:hover, .split-template-6 .pagenum, .jeg_mobile_menu_style_5>li>a:hover, .jeg_mobile_menu_style_5>li.sfHover>a, .jeg_mobile_menu_style_5>li.current-menu-item>a, .jeg_mobile_menu_style_5>li.current-menu-ancestor>a, .jeg_mobile_menu.jeg_menu_dropdown li.open > div > a { color : #0f1675; } .jeg_menu_style_1>li>a:before, .jeg_menu_style_2>li>a:before, .jeg_menu_style_3>li>a:before, .jeg_side_toggle, .jeg_slide_caption .jeg_post_category a, .jeg_slider_type_1_wrapper .tns-controls button.tns-next, .jeg_block_heading_1 .jeg_block_title span, .jeg_block_heading_2 .jeg_block_title span, .jeg_block_heading_3, .jeg_block_heading_4 .jeg_block_title span, .jeg_block_heading_6:after, .jeg_pl_lg_box .jeg_post_category a, .jeg_pl_md_box .jeg_post_category a, .jeg_readmore:hover, .jeg_thumb .jeg_post_category a, .jeg_block_loadmore a:hover, .jeg_postblock.alt .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_postblock_carousel_2 .jeg_post_category a, .jeg_heroblock .jeg_post_category a, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, input[type="submit"], .btn, .button, .widget_tag_cloud a:hover, .popularpost_item:hover .jeg_post_title a:before, .jeg_splitpost_4 .page_nav, .jeg_splitpost_5 .page_nav, .jeg_post_via a:hover, .jeg_post_source a:hover, .jeg_post_tags a:hover, .comment-reply-title small a:before, .comment-reply-title small a:after, .jeg_storelist .productlink, .authorlink li.active a:before, .jeg_footer.dark .socials_widget:not(.nobg) a:hover .fa, div.jeg_breakingnews_title, .jeg_overlay_slider_bottom_wrapper .tns-controls button, .jeg_overlay_slider_bottom_wrapper .tns-controls button:hover, .jeg_vertical_playlist .jeg_video_playlist_current, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .jeg_popup_post .caption, .jeg_footer.dark input[type="submit"], .jeg_footer.dark .btn, .jeg_footer.dark .button, .footer_widget.widget_tag_cloud a:hover, .jeg_inner_content .content-inner .jeg_post_category a:hover, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress .generic-button a, #buddypress .generic-button button, #buddypress .comment-reply-link, #buddypress a.bp-title-button, #buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a, div#buddypress .standard-form button:hover, div#buddypress a.button:hover, div#buddypress input[type="submit"]:hover, div#buddypress input[type="button"]:hover, div#buddypress input[type="reset"]:hover, div#buddypress ul.button-nav li a:hover, div#buddypress .generic-button a:hover, div#buddypress .generic-button button:hover, div#buddypress .comment-reply-link:hover, div#buddypress a.bp-title-button:hover, div#buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a:hover, #buddypress #item-nav .item-list-tabs ul li a:before, .jeg_inner_content .jeg_meta_container .follow-wrapper a { background-color : #0f1675; } .jeg_block_heading_7 .jeg_block_title span, .jeg_readmore:hover, .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, .jeg_pagenav_3 .page_number:hover, .jeg_prevnext_post a:hover h3, .jeg_overlay_slider .jeg_post_category, .jeg_sidefeed .jeg_post.active, .jeg_vertical_playlist.jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail img, .jeg_horizontal_playlist .jeg_video_playlist_item.active { border-color : #0f1675; } .jeg_tabpost_nav li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .jeg_mobile_menu_style_1>li.current-menu-item a, .jeg_mobile_menu_style_1>li.current-menu-ancestor a, .jeg_mobile_menu_style_2>li.current-menu-item::after, .jeg_mobile_menu_style_2>li.current-menu-ancestor::after, .jeg_mobile_menu_style_3>li.current-menu-item::before, .jeg_mobile_menu_style_3>li.current-menu-ancestor::before { border-bottom-color : #0f1675; } .jeg_post_share .jeg-icon svg { fill : #0f1675; } .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon, .entry-header .jeg_post_meta .fa, .jeg_review_stars, .jeg_price_review_list { color : #1e73be; } .jeg_share_button.share-float.share-monocrhome a { background-color : #1e73be; } h1,h2,h3,h4,h5,h6,.jeg_post_title a,.entry-header .jeg_post_title,.jeg_hero_style_7 .jeg_post_title a,.jeg_block_title,.jeg_splitpost_bar .current_title,.jeg_video_playlist_title,.gallery-caption,.jeg_push_notification_button>a.button { color : #e09500; } .split-template-9 .pagenum, .split-template-10 .pagenum, .split-template-11 .pagenum, .split-template-12 .pagenum, .split-template-13 .pagenum, .split-template-15 .pagenum, .split-template-18 .pagenum, .split-template-20 .pagenum, .split-template-19 .current_title span, .split-template-20 .current_title span { background-color : #e09500; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_search_no_expand .jeg_search_input { line-height : 40px; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_nav_icon { height : 40px; } .jeg_topbar, .jeg_topbar.dark, .jeg_topbar.custom { background : #1e73be; } .jeg_midbar { height : 100px; } .jeg_header .jeg_bottombar.jeg_navbar,.jeg_bottombar .jeg_nav_icon { height : 30px; } .jeg_header .jeg_bottombar.jeg_navbar, .jeg_header .jeg_bottombar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_header .jeg_bottombar .jeg_menu_style_1 > li, .jeg_header .jeg_bottombar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 30px; } .jeg_header .socials_widget > a > i.fa:before { color : #ffffff; } .jeg_header .socials_widget.nobg > a > i > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget.nobg > a > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget > a > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget > a > i > span.jeg-icon svg { fill : #ffffff; } .jeg_footer_content,.jeg_footer.dark .jeg_footer_content { background-color : #00196d; color : #ffffff; } .jeg_footer .jeg_footer_heading h3,.jeg_footer.dark .jeg_footer_heading h3,.jeg_footer .widget h2,.jeg_footer .footer_dark .widget h2 { color : #ffffff; } </style><style type="text/css">
+					.no_thumbnail .jeg_thumb,
+					.thumbnail-container.no_thumbnail {
+					    display: none !important;
+					}
+					.jeg_search_result .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_pl_sm.no_thumbnail .jeg_postblock_content {
+					    margin-left: 0;
+					}
+					.jeg_postblock_11 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12.jeg_col_3o3 .no_thumbnail .jeg_postblock_content  {
+					    margin-top: 0;
+					}
+					.jeg_postblock_15 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_19 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_24 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_md_box .jeg_postblock_content {
+					    position: relative;
+					}
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #212121 !important;
+					} 
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #fff !important;
+					} 
+				</style>		<style type="text/css" id="wp-custom-css">
+			h1,h2,h3{
+	font-family: "Bookman Old Style", serif;
+	color: black;
+}
+
+h1.jeg_post_title a,h2.jeg_post_title a,h3.jeg_post_title a{
+	color:black;
+}
+
+.jeg_post_subtitle{
+
+}
+
+.entry-header .jeg_post_title{
+	color:black;
+}
+
+.jeg_slide_caption .jeg_meta_author, .jeg_slide_caption .jeg_meta_date, .jeg_slide_caption .jeg_meta_author a{
+
+}
+
+.jeg_block_title span {
+
+}
+
+
+		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body data-rsssl="1" class="post-template-default single single-post postid-10768 single-format-standard wp-embed-responsive jeg_toggle_light jeg_single_tpl_1 jnews jsc_normal wpb-js-composer js-comp-ver-8.0 vc_responsive aa-prefix-carta- aa-disabled-bots">
+
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class="ads-wrapper  "></div>    </div>
+
+    <!-- The Main Wrapper
+    ============================================= -->
+    <div class="jeg_viewport">
+
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- HEADER -->
+<div class="jeg_header normal">
+    <div class="jeg_topbar jeg_container jeg_navbar_wrapper dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        			<div class="jeg_nav_item socials_widget jeg_social_icon_block nobg">
+				<a href="https://www.facebook.com/cartadenoticias" target="_blank" rel="external noopener nofollow" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.instagram.com/cartadenoticias2262/" target="_blank" rel="external noopener nofollow" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://www.youtube.com/@cartadenoticias3988" target="_blank" rel="external noopener nofollow" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a>			</div>
+			                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center  jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                                            </div>
+                </div>
+
+                        </div>
+    </div>
+</div><!-- /.jeg_container --><div class="jeg_midbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+			<a href="https://cartadenoticias.com.br/" style="padding: 0 0 0 0;">
+				<img class="jeg_logo_img" src="https://cartadenoticias.com.br/wp-content/uploads/2024/04/LogoMenor.png" alt="Carta de Notícias" data-light-src="https://cartadenoticias.com.br/wp-content/uploads/2024/04/LogoMenor.png" data-light-srcset="https://cartadenoticias.com.br/wp-content/uploads/2024/04/LogoMenor.png 1x,  2x" data-dark-src="https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg" data-dark-srcset="https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg 1x, https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg 2x">			</a>
+		</div>
+	</div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_ad jeg_ad_top jnews_header_ads">
+    <div class="ads-wrapper  "><div class="ads_shortcode"><a href="https://cartadenoticias.com.br" target="_blank" aria-label="CN – premio jornalismo (900 x 120)"><img decoding="async" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/CN-premio-jornalismo-900-x-120.jpg?fit=1280%2C170&amp;ssl=1" alt="" width="468" height="60"></a></div></div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div><div class="jeg_bottombar jeg_navbar jeg_container jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_1" data-animation="animate"><li id="menu-item-9649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9649 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/gerais/">Gerais</a>
+<ul class="sub-menu">
+	<li id="menu-item-34397" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34397 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/politica/">Política</a></li>
+	<li id="menu-item-9652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9652 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/cultura/">Cultura</a></li>
+	<li id="menu-item-9653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9653 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/educacao/">Educação</a></li>
+	<li id="menu-item-9650" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9650 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/lazer/">Lazer</a></li>
+	<li id="menu-item-9651" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-9651 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/saude/">Saúde</a></li>
+</ul>
+</li>
+<li id="menu-item-34398" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34398 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/ciencia-e-tecnologia/">Ciência e Tecnologia</a>
+<ul class="sub-menu">
+	<li id="menu-item-30477" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30477 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/rafael-fonseca/">Rafael Fonseca</a></li>
+	<li id="menu-item-33916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33916 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/william-argolo-saliba/">William Argolo Saliba</a></li>
+</ul>
+</li>
+<li id="menu-item-34399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34399 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/colunistas/">Colunistas</a>
+<ul class="sub-menu">
+	<li id="menu-item-31535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31535 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/colunistas/walter-biancardine/">Walter Biancardine</a></li>
+	<li id="menu-item-9657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9657 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/colunistas/william-saliba/">William Saliba</a></li>
+</ul>
+</li>
+<li id="menu-item-9656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9656 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/">Opinião</a>
+<ul class="sub-menu">
+	<li id="menu-item-30475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30475 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/amauri_meireles/">Amauri Meireles</a></li>
+	<li id="menu-item-34584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34584 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/edmundo-fraga/">Edmundo Fraga</a></li>
+	<li id="menu-item-33959" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33959 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/flavia_presoti/">Flávia Presoti</a></li>
+	<li id="menu-item-33918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33918 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/gabriel-jadson/">Gabriel Jadson</a></li>
+	<li id="menu-item-33919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33919 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/natalia-brito/">Natália Brito</a></li>
+	<li id="menu-item-34582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34582 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/poliane-andrade/">Poliane Andrade</a></li>
+	<li id="menu-item-33921" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33921 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/ricardo-ramos/">Ricardo Ramos</a></li>
+	<li id="menu-item-31534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31534 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/wederson-marinho/">Wederson Marinho</a></li>
+	<li id="menu-item-31532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31532 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/vitor-bizarro/">Vitor Bizarro</a></li>
+</ul>
+</li>
+<li id="menu-item-19742" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19742 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/videos/">Vídeos</a></li>
+<li id="menu-item-28300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28300 bgnav" data-item-row="default"><a href="#expediente">Expediente</a></li>
+<li id="menu-item-9658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9658 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/fale-conosco/">Fale Conosco</a></li>
+<li id="menu-item-34396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34396 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/economia/">Economia</a>
+<ul class="sub-menu">
+	<li id="menu-item-34583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34583 bgnav" data-item-row="default"><a href="https://cartadenoticias.com.br/category/opiniao/alice-costa/">Alice Costa</a></li>
+</ul>
+</li>
+</ul></div></div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://cartadenoticias.com.br/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Procurar..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Nenhum resultado    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos os resultados    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div><!-- /.jeg_header -->        </div>
+
+        <div class="jeg_header_sticky">
+                    </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="scroll">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item">
+    <a href="#" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+	    	<a href="https://cartadenoticias.com.br/">
+		        <img class="jeg_logo_img" src="https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg" alt="Carta de Notícias" data-light-src="https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg" data-light-srcset="https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg 1x,  2x" data-dark-src="https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg" data-dark-srcset="https://cartadenoticias.com.br/wp-content/uploads/2023/03/CN-logomarca-2023-Paint.jpg 1x,  2x">		    </a>
+	    </div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_search_wrapper jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	<form action="https://cartadenoticias.com.br/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Procurar..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Nenhum resultado    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos os resultados    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div>
+<div class="sticky_blankspace" style="height: 60px;"></div>        </div>
+
+        <div class="jeg_ad jeg_ad_top jnews_header_bottom_ads">
+            <div class="ads-wrapper  "></div>        </div>
+
+            <div class="post-wrapper">
+
+        <div class="post-wrap">
+
+            
+            <div class="jeg_main ">
+                <div class="jeg_container">
+                    <div class="jeg_content jeg_singlepage">
+
+	<div class="container">
+
+		<div class="jeg_ad jeg_article jnews_article_top_ads">
+			<div class="ads-wrapper  "><div class="ads_shortcode"><a href="https://chat.whatsapp.com/Jz93hXoFraP1Q3EijelUvi" target="_blank" aria-label="CN Banner Grupo WZ"><img fetchpriority="high" decoding="async" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/CN-Banner-Grupo-WZ-1.gif?fit=1280%2C252&amp;ssl=1" alt="" width="1280" height="252"></a></div></div>		</div>
+
+		<div class="row">
+			<div class="jeg_main_content col-md-8">
+				<div class="jeg_inner_content">
+					
+												<div class="jeg_breadcrumbs jeg_breadcrumb_container">
+							<div id="breadcrumbs"><span class="">
+                <a href="https://cartadenoticias.com.br">Home</a>
+            </span><i class="fa fa-angle-right"></i><span class="breadcrumb_last_link">
+                <a href="https://cartadenoticias.com.br/category/saude/">Saúde</a>
+            </span></div>						</div>
+						
+						<div class="entry-header">
+							
+							<h1 class="jeg_post_title">Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita</h1>
+
+															<h2 class="jeg_post_subtitle">A Sífilis é transmissível por contato íntimo e a melhor maneira de se proteger é não desprezar o uso de preservativos.</h2>
+							
+							<div class="jeg_meta_container"><div class="jeg_post_meta jeg_post_meta_1">
+
+	<div class="meta_left">
+									<div class="jeg_meta_author">
+					<img alt="Cid Miranda" src="https://secure.gravatar.com/avatar/e3375dad55688dd490a96726e7894431?s=80&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/e3375dad55688dd490a96726e7894431?s=160&amp;d=mm&amp;r=g 2x" class="avatar avatar-80 photo" height="80" width="80" decoding="async">					<span class="meta_text">por</span>
+					<a href="https://cartadenoticias.com.br/author/cid-miranda/">Cid Miranda</a>				</div>
+					
+					<div class="jeg_meta_date">
+				<a href="https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/">14 de dezembro de 2021</a>
+			</div>
+		
+					<div class="jeg_meta_category">
+				<span><span class="meta_text">em</span>
+					<a href="https://cartadenoticias.com.br/category/saude/" rel="category tag">Saúde</a>				</span>
+			</div>
+		
+		<div class="jeg_meta_reading_time">
+			            <span>
+			            	Tempo de Leitura: 2 minutos de leitura
+			            </span>
+			        </div>	</div>
+
+	<div class="meta_right">
+		<div class="jeg_meta_zoom" data-in-step="3" data-out-step="2">
+							<div class="zoom-dropdown">
+								<div class="zoom-icon">
+									<span class="zoom-icon-small">A</span>
+									<span class="zoom-icon-big">A</span>
+								</div>
+								<div class="zoom-item-wrapper">
+									<div class="zoom-item">
+										<button class="zoom-out"><span>A</span></button>
+										<button class="zoom-in"><span>A</span></button>
+										<div class="zoom-bar-container">
+											<div class="zoom-bar"></div>
+										</div>
+										<button class="zoom-reset"><span>Reiniciar</span></button>
+									</div>
+								</div>
+							</div>
+						</div>					<div class="jeg_meta_comment"><a href="https://cartadenoticias.com.br/2021/saude/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita/#comments"><i class="fa fa-comment-o"></i> 0</a></div>
+			</div>
+</div>
+</div>
+						</div>
+
+						<div class="jeg_featured featured_image "><a href="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?fit=959%2C640&amp;ssl=1"><div class="thumbnail-container animate-lazy" style="padding-bottom:50%"><img width="750" height="375" src="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-750x375 size-jnews-750x375 lazyload wp-post-image" alt="Saúde de Ipatinga alerta para o crescimento de casos de Sífilis Congênita" decoding="async" sizes="(max-width: 750px) 100vw, 750px" data-src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?resize=750%2C375&amp;ssl=1" data-srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?resize=360%2C180&amp;ssl=1 360w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?resize=750%2C375&amp;ssl=1 750w" data-sizes="auto" data-expand="700"></div><p class="wp-caption-text">Taxa de incidência de crianças que nasceram com a doença saltou de 20,3% para 35,44% (Foto: Divulgação)</p></a></div>
+						<div class="jeg_share_top_container"><div class="jeg_share_button clearfix">
+                <div class="jeg_share_stats">
+                    
+                    
+                </div>
+                <div class="jeg_sharelist">
+                    <a href="//api.whatsapp.com/send?text=Sa%C3%BAde%20de%20Ipatinga%20alerta%20para%20o%20crescimento%20de%20casos%20de%20S%C3%ADfilis%20Cong%C3%AAnita%0Ahttps%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F" rel="nofollow" data-action="share/whatsapp/share" class="jeg_btn-whatsapp expanded"><i class="fa fa-whatsapp"></i><span>Compartilhar no WhatsApp</span></a><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F" rel="nofollow" class="jeg_btn-facebook expanded"><i class="fa fa-facebook-official"></i><span>Compartilhar no Facebook</span></a><a href="https://telegram.me/share/url?url=https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F&amp;text=Sa%C3%BAde%20de%20Ipatinga%20alerta%20para%20o%20crescimento%20de%20casos%20de%20S%C3%ADfilis%20Cong%C3%AAnita" rel="nofollow" class="jeg_btn-telegram "><i class="fa fa-telegram"></i></a>
+                    <div class="share-secondary">
+                    <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F&amp;title=Sa%C3%BAde%20de%20Ipatinga%20alerta%20para%20o%20crescimento%20de%20casos%20de%20S%C3%ADfilis%20Cong%C3%AAnita" rel="nofollow" class="jeg_btn-linkedin "><i class="fa fa-linkedin"></i></a><a href="https://www.pinterest.com/pin/create/bookmarklet/?pinFave=1&amp;url=https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F&amp;media=https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2021/12/sifiliscongenita.jpg?fit=959%2C640&amp;ssl=1&amp;description=Sa%C3%BAde%20de%20Ipatinga%20alerta%20para%20o%20crescimento%20de%20casos%20de%20S%C3%ADfilis%20Cong%C3%AAnita" rel="nofollow" class="jeg_btn-pinterest "><i class="fa fa-pinterest"></i></a><a href="https://twitter.com/intent/tweet?text=Sa%C3%BAde%20de%20Ipatinga%20alerta%20para%20o%20crescimento%20de%20casos%20de%20S%C3%ADfilis%20Cong%C3%AAnita&amp;url=https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F" rel="nofollow" class="jeg_btn-twitter "><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></i></a>
+                </div>
+                <a href="#" class="jeg_btn-toggle"><i class="fa fa-share"></i></a>
+                </div>
+            </div></div>
+						<div class="jeg_ad jeg_article jnews_content_top_ads "><div class="ads-wrapper  "><div class="ads_shortcode"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_4_1oh9zujb7huqs', {createdWith: '6.8.4', sliderVersion: '7.12.5', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_4_1oh9zujb7huqs" class="ls-wp-container fitvidsignore ls-selectable" style="width:750px;height:258px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:8000;transition2d:1;"><a style="" class="ls-l" href="https://www.instagram.com/mastergourmetipatinga?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" target="_blank"><img width="1024" height="400" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?fit=1024%2C400&amp;ssl=1" class="ls-img-layer" alt="" decoding="async" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?resize=300%2C117&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?resize=768%2C300&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?resize=750%2C293&amp;ssl=1 750w" sizes="(max-width: 1024px) 100vw, 1024px" style="top:-18px;left:-2px;width:752px;height:294px;"></a></div><div class="ls-slide" data-ls="duration:8000;transition2d:1;"><a style="" class="ls-l ls-hide-desktop ls-hide-tablet ls-hide-phone" href="https://respirecomsaude.com.br/loja-respire-com-saude/?utm_source=google&amp;utm_medium=cpc&amp;keyword=&amp;pht=85291655301366557&amp;gad_source=1&amp;gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2Do_26ULJiQAdd4OGUD_RZxsBMk2QD-cZOHlJBbbJ3Ni9Vdw2b2XaQaAiayEALw_wcB" target="_blank" data-ls="durationin:4000;"><img width="714" height="280" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/03/Respire-horizontal.jpg?fit=714%2C280&amp;ssl=1" class="ls-img-layer" alt="" decoding="async" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/03/Respire-horizontal.jpg?w=714&amp;ssl=1 714w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/03/Respire-horizontal.jpg?resize=300%2C118&amp;ssl=1 300w" sizes="(max-width: 714px) 100vw, 714px" style="top:0px;left:0px;width:736px;height:258px;"></a><img width="714" height="280" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/04/Respire-abril-2.jpg?fit=714%2C280&amp;ssl=1" class="ls-l ls-img-layer" alt="" decoding="async" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/04/Respire-abril-2.jpg?w=714&amp;ssl=1 714w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/04/Respire-abril-2.jpg?resize=300%2C118&amp;ssl=1 300w" sizes="(max-width: 714px) 100vw, 714px" style="top:0px;left:0px;width:750px;height:258px;" data-ls="durationin:3000;fadein:false;"><a href="http://www.respirecomsaude.com.br" target="_blank" class="ls-link ls-link-on-top"></a></div><div class="ls-slide"><a style="" class="ls-l" href="https://www.usiminas.com/sustentabilidade/usiminas-investiu-r-25-bilhoes-em-acoes-ambientais-em-cinco-anos/" target="_blank" data-ls="durationin:3900;fadein:false;"><img width="1087" height="373" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/11/Usiminas_CAMPOS-DE-FUT_NOV-2024.jpg?fit=1087%2C373&amp;ssl=1" class="ls-img-layer" alt="" decoding="async" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/11/Usiminas_CAMPOS-DE-FUT_NOV-2024.jpg?w=1087&amp;ssl=1 1087w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/11/Usiminas_CAMPOS-DE-FUT_NOV-2024.jpg?resize=300%2C103&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/11/Usiminas_CAMPOS-DE-FUT_NOV-2024.jpg?resize=1024%2C351&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/11/Usiminas_CAMPOS-DE-FUT_NOV-2024.jpg?resize=768%2C264&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/11/Usiminas_CAMPOS-DE-FUT_NOV-2024.jpg?resize=750%2C257&amp;ssl=1 750w" sizes="(max-width: 1087px) 100vw, 1087px" style="top:0px;left:0px;width:748px;height:257px;"></a></div><div class="ls-slide"><a style="" class="ls-l" href="https://www.fsfx.com.br/" target="_blank" data-ls="durationin:9900;fadein:false;"><img width="1024" height="400" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/12/FSFX-banner-web-Carta-de-Noticias-1024x400px.gif?fit=1024%2C400&amp;ssl=1" class="ls-img-layer" alt="" decoding="async" style="top:1px;left:-2px;width:752px;height:257px;"></a></div></div>
+<br></div></div></div>
+						<div class="entry-content no-share">
+							<div class="jeg_share_button share-float jeg_sticky_share clearfix share-monocrhome">
+								<div class="jeg_share_float_container"></div>							</div>
+
+							<div class="content-inner ">
+								<p>Preocupada com o bem-estar de toda a população, a Secretaria de Saúde de Ipatinga lançou um alerta, nesta terça-feira (14), para chamar a atenção quanto ao aumento da incidência de casos de Sífilis (Doença Sexualmente Transmissível – DST) nos últimos meses, no município.</p>
+<p>A Sífilis é transmissível por contato íntimo e a melhor maneira de se proteger é não desprezar o uso de preservativos (camisinhas) nas relações sexuais. A infecção sexualmente transmissível é causada por uma bactéria, e tem cura. A testagem é a principal forma de diagnóstico e pode ser realizada nas unidades de saúde.</p><div class="jeg_ad jeg_ad_article jnews_content_inline_ads  "><div class="ads-wrapper align-center "><div class="ads_shortcode"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_5_1a2prgqchzhxz', {createdWith: '6.8.4', sliderVersion: '7.12.5', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_5_1a2prgqchzhxz" class="ls-wp-container fitvidsignore ls-selectable" style="width:714px;height:280px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:8000;transition2d:107;transition3d:2;"><img loading="lazy" decoding="async" width="1156" height="454" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?fit=1156%2C454&amp;ssl=1" class="ls-l ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?w=1156&amp;ssl=1 1156w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=300%2C118&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=1024%2C402&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=768%2C302&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=750%2C295&amp;ssl=1 750w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=1140%2C448&amp;ssl=1 1140w" sizes="auto, (max-width: 1000px) 100vw, 1000px" style="top:0px;left:0px;width:715px;height:281px;" data-ls="durationin:3000;fadein:false;position:relative;"></div><div class="ls-slide" data-ls="duration:8000;transition2d:107;transition3d:2;"><a style="" class="ls-l" href="https://triadefibra.com/" target="_blank"><img loading="lazy" decoding="async" width="1024" height="200" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/12/Triade-NOV-24.jpg?fit=1024%2C200&amp;ssl=1" class="ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/12/Triade-NOV-24.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/12/Triade-NOV-24.jpg?resize=300%2C59&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/12/Triade-NOV-24.jpg?resize=768%2C150&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/12/Triade-NOV-24.jpg?resize=750%2C146&amp;ssl=1 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" style="top:49px;left:0px;width:715px;height:183px;"></a></div><div class="ls-slide" data-ls="duration:8000;transition2d:1;"><a style="" class="ls-l" href="https://www.lojacooperativaconsul.com.br/" target="_blank" data-ls="durationin:3000;"><img loading="lazy" decoding="async" width="1701" height="579" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?fit=1701%2C579&amp;ssl=1" class="ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?w=1701&amp;ssl=1 1701w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?resize=300%2C102&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?resize=1024%2C349&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?resize=768%2C261&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?resize=1536%2C523&amp;ssl=1 1536w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?resize=750%2C255&amp;ssl=1 750w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Consul-novo-anuncio.jpg?resize=1140%2C388&amp;ssl=1 1140w" sizes="auto, (max-width: 1000px) 100vw, 1000px" style="top:18px;left:-1px;width:717px;height:244px;"></a><a href="https://www.lojacooperativaconsul.com.br/" target="_blank" class="ls-link ls-link-on-top"></a></div></div>
+<br></div></div></div>
+<p>De 2010 a 2020, o Brasil registrou 783 mil casos de Sífilis Adquirida – aquela decorrente do sexo –, com crescimento significativo da doença. Em 2010, foram 3.925 ocorrências dessa infecção e, uma década depois, o número subiu para 152.900, total 39 vezes maior. As informações foram levantadas pela Sociedade Brasileira de Dermatologia (SBD), com base em dados do Ministério da Saúde.</p>
+<p>Em Ipatinga, o secretário de Saúde, Cléber de Faria, informa que em 2021 a taxa de incidência de crianças que nasceram com a doença saltou de 20,3% para 35,44%.</p><div class="jeg_ad jeg_ad_article jnews_content_inline_2_ads  "><div class="ads-wrapper align-center "><div class="ads_shortcode"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_10_blwyduf2m93t', {createdWith: '6.8.4', sliderVersion: '7.11.5', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_10_blwyduf2m93t" class="ls-wp-container fitvidsignore ls-selectable" style="width:900px;height:180px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide"><a style="" class="ls-l" href="http://www.servla.com.br" target="_self" data-ls="durationin:8000;fadein:false;"><img loading="lazy" decoding="async" width="1280" height="252" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/servla_CN.gif?fit=1280%2C252&amp;ssl=1" class="ls-img-layer" alt="" style="top:0px;left:0px;width:904px;height:178px;"></a></div></div></div></div></div>
+<p>“A Sífilis Congênita preocupa bastante. A doença pode trazer sequelas quando transmitida de mãe para filho. O ideal é que a mulher inicie o pré-natal rapidamente, realize todos os exames recomendados e complete o tratamento, assim como seu parceiro”, explicou o secretário de Saúde.</p>
+<p><strong>ADESÃO DO PARCEIRO</strong></p>
+<p>A Secretaria de Saúde ressalta que somente o diagnóstico precoce e a adesão da gestante e seu parceiro ao tratamento garantem a prevenção para a transmissão vertical da doença, isto é, da mãe para o bebê, durante a gestação. O tratamento ideal é realizado pela gestante e pelo parceiro. Se só a gestante aderir ao tratamento, ela corre o risco de se tratar e ser infectada novamente, por isso a necessidade de tratamento do parceiro. Para evitar que isso ocorra, a recomendação é que o casal busque o teste rápido na sua unidade de saúde de referência.</p>
+<p>“Mesmo que não haja nenhum sintoma, é importante fazer o teste de Sífilis que está disponível em nossas unidades de saúde. Principalmente pais e mães que esperam por um bebê precisam diagnosticar a doença o quanto antes, para que o tratamento seja o mais rápido possível, preferencialmente nos primeiros três meses de gestação”, alerta o secretário de Saúde.</p><div class="jeg_ad jeg_ad_article jnews_content_inline_3_ads  "><div class="ads-wrapper align-center "><div class="ads_shortcode"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_9_1otcd9knrf5i7', {createdWith: '6.8.4', sliderVersion: '7.12.5', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_9_1otcd9knrf5i7" class="ls-wp-container fitvidsignore ls-selectable" style="width:714px;height:280px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:8000;transition2d:107;transition3d:2;"><a style="" class="ls-l" href="https://www.instagram.com/mastergourmetipatinga?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" target="_blank" data-ls="durationin:3000;"><img loading="lazy" decoding="async" width="1024" height="400" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?fit=1024%2C400&amp;ssl=1" class="ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?resize=300%2C117&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?resize=768%2C300&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/Master-Gourmet-nov-24.jpg?resize=750%2C293&amp;ssl=1 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" style="top:0px;left:0px;width:712px;height:278px;"></a></div><div class="ls-slide" data-ls="duration:8000;transition2d:107;transition3d:2;"><img loading="lazy" decoding="async" width="1156" height="454" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?fit=1156%2C454&amp;ssl=1" class="ls-l ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?w=1156&amp;ssl=1 1156w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=300%2C118&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=1024%2C402&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=768%2C302&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=750%2C295&amp;ssl=1 750w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/02/Advogado-Vitor-Bizarro.jpg?resize=1140%2C448&amp;ssl=1 1140w" sizes="auto, (max-width: 1000px) 100vw, 1000px" style="top:0px;left:0px;width:715px;height:281px;" data-ls="durationin:3000;position:relative;"></div><div class="ls-slide" data-ls="duration:8000;transition2d:107;transition3d:2;"><a style="" class="ls-l" href="https://triadefibra.com/" target="_blank" data-ls="durationin:3000;position:relative;"><img loading="lazy" decoding="async" width="820" height="360" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/07/06-JUKH-23-TRIADE-1.png?fit=820%2C360&amp;ssl=1" class="ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/07/06-JUKH-23-TRIADE-1.png?w=820&amp;ssl=1 820w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/07/06-JUKH-23-TRIADE-1.png?resize=300%2C132&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/07/06-JUKH-23-TRIADE-1.png?resize=768%2C337&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/07/06-JUKH-23-TRIADE-1.png?resize=750%2C329&amp;ssl=1 750w" sizes="auto, (max-width: 820px) 100vw, 820px" style="top:-16px;left:1px;width:713px;height:313px;"></a></div><div class="ls-slide" data-ls="duration:6000;"><img loading="lazy" decoding="async" width="1024" height="400" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/DOACAO-SANGUE_FSFX_1024X400-1.jpg?fit=1024%2C400&amp;ssl=1" class="ls-l ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/DOACAO-SANGUE_FSFX_1024X400-1.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/DOACAO-SANGUE_FSFX_1024X400-1.jpg?resize=300%2C117&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/DOACAO-SANGUE_FSFX_1024X400-1.jpg?resize=768%2C300&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/DOACAO-SANGUE_FSFX_1024X400-1.jpg?resize=750%2C293&amp;ssl=1 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" style="left:-2px;top:-2px;width:716px;height:282px;" data-ls="durationin:3000;"><a href="http://www.fsfx.com.br/" target="_blank" class="ls-link ls-link-on-top"></a></div></div></div></div></div>
+								
+								
+																<div class="jeg_post_tags"><span>Tag:</span> <a href="https://cartadenoticias.com.br/tag/casos-de-sifilis/" rel="tag">casos de Sífilis</a><a href="https://cartadenoticias.com.br/tag/doenca-sexualmente-transmissivel/" rel="tag">Doença Sexualmente Transmissível</a><a href="https://cartadenoticias.com.br/tag/testagem/" rel="tag">testagem</a><a href="https://cartadenoticias.com.br/tag/uso-de-preservativos/" rel="tag">uso de preservativos</a></div>
+															</div>
+
+
+						</div>
+						<div class="jeg_share_bottom_container"></div>
+						
+						<div class="jeg_ad jeg_article jnews_content_bottom_ads "><div class="ads-wrapper  "><div class="ads_shortcode"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_7_1gftj6m83vir7', {createdWith: '6.8.4', sliderVersion: '7.12.5', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_7_1gftj6m83vir7" class="ls-wp-container fitvidsignore ls-selectable" style="width:734px;height:280px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:8000;"><a style="" class="ls-l" href="https://respirecomsaude.com.br/" target="_self" data-ls="durationin:6000;fadein:false;"><img width="714" height="280" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/04/Respire-abril-1.jpg?fit=714%2C280&amp;ssl=1" class="ls-img-layer" alt="" decoding="async" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/04/Respire-abril-1.jpg?w=714&amp;ssl=1 714w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/04/Respire-abril-1.jpg?resize=300%2C118&amp;ssl=1 300w" sizes="(max-width: 714px) 100vw, 714px" style="top:0px;left:0px;width:731px;height:280px;"></a></div></div></div></div></div><div class="jnews_prev_next_container"><div class="jeg_prevnext_post">
+            <a href="https://cartadenoticias.com.br/2021/economia/petrobras-reduz-preco-da-gasolina-para-distribuidoras/" class="post prev-post">
+            <span class="caption">Postagem anterior</span>
+            <h3 class="post-title">Petrobras reduz preço da gasolina para distribuidoras</h3>
+        </a>
+    
+            <a href="https://cartadenoticias.com.br/2021/educacao/escola-de-fabriciano-recebe-premio-de-sustentabilidade-e-meio-ambiente/" class="post next-post">
+            <span class="caption">Próxima postagem</span>
+            <h3 class="post-title">Escola de Fabriciano recebe prêmio de Sustentabilidade e Meio Ambiente</h3>
+        </a>
+    </div></div><div class="jnews_author_box_container "></div><div class="jnews_related_post_container"><div class="jeg_postblock_22 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_10768_0_6785ec0a51bf3   " data-unique="jnews_module_10768_0_6785ec0a51bf3">
+					<div class="jeg_block_heading jeg_block_heading_1 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Leia também</span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts_wrap">
+                    <div class="jeg_posts jeg_load_more_flag"> 
+                        <article class="jeg_post jeg_pl_md_5 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://cartadenoticias.com.br/2025/saude/fsfx-expressa-solidariedade-as-vitimas-das-enchentes-em-ipatinga/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="FSFX expressa solidariedade às vítimas das enchentes em Ipatinga" decoding="async" loading="lazy" sizes="auto, (max-width: 350px) 100vw, 350px" data-src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/hospitalmarciocunha.jpg?resize=350%2C250&amp;ssl=1" data-srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/hospitalmarciocunha.jpg?resize=120%2C86&amp;ssl=1 120w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/hospitalmarciocunha.jpg?resize=350%2C250&amp;ssl=1 350w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/hospitalmarciocunha.jpg?resize=750%2C536&amp;ssl=1 750w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/hospitalmarciocunha.jpg?zoom=2&amp;resize=350%2C250&amp;ssl=1 700w" data-sizes="auto" data-expand="700"></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://cartadenoticias.com.br/category/saude/" class="category-saude">Saúde</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://cartadenoticias.com.br/2025/saude/fsfx-expressa-solidariedade-as-vitimas-das-enchentes-em-ipatinga/">FSFX expressa solidariedade às vítimas das enchentes em Ipatinga</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://cartadenoticias.com.br/2025/saude/fsfx-expressa-solidariedade-as-vitimas-das-enchentes-em-ipatinga/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_5 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://cartadenoticias.com.br/2025/saude/lula-veta-projeto-que-equipara-diabetes-tipo-1-a-deficiencia/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Lula veta projeto que equipara diabetes tipo 1 a deficiência" decoding="async" loading="lazy" sizes="auto, (max-width: 350px) 100vw, 350px" data-src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/presidentelula.jpg?resize=350%2C250&amp;ssl=1" data-srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/presidentelula.jpg?resize=120%2C86&amp;ssl=1 120w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/presidentelula.jpg?resize=350%2C250&amp;ssl=1 350w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/presidentelula.jpg?resize=750%2C536&amp;ssl=1 750w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/presidentelula.jpg?zoom=2&amp;resize=350%2C250&amp;ssl=1 700w" data-sizes="auto" data-expand="700"></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://cartadenoticias.com.br/category/saude/" class="category-saude">Saúde</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://cartadenoticias.com.br/2025/saude/lula-veta-projeto-que-equipara-diabetes-tipo-1-a-deficiencia/">Lula veta projeto que equipara diabetes tipo 1 a deficiência</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://cartadenoticias.com.br/2025/saude/lula-veta-projeto-que-equipara-diabetes-tipo-1-a-deficiencia/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_5 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://cartadenoticias.com.br/2025/saude/dengue-sorotipo-3-volta-a-circular-no-pais-e-preocupa-autoridades/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Dengue: sorotipo 3 volta a circular no país e preocupa autoridades" decoding="async" loading="lazy" sizes="auto, (max-width: 350px) 100vw, 350px" data-src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/mosquitodengue.jpg?resize=350%2C250&amp;ssl=1" data-srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/mosquitodengue.jpg?resize=120%2C86&amp;ssl=1 120w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/mosquitodengue.jpg?resize=350%2C250&amp;ssl=1 350w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/mosquitodengue.jpg?resize=750%2C536&amp;ssl=1 750w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2025/01/mosquitodengue.jpg?zoom=2&amp;resize=350%2C250&amp;ssl=1 700w" data-sizes="auto" data-expand="700"></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://cartadenoticias.com.br/category/saude/" class="category-saude">Saúde</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://cartadenoticias.com.br/2025/saude/dengue-sorotipo-3-volta-a-circular-no-pais-e-preocupa-autoridades/">Dengue: sorotipo 3 volta a circular no país e preocupa autoridades</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://cartadenoticias.com.br/2025/saude/dengue-sorotipo-3-volta-a-circular-no-pais-e-preocupa-autoridades/"><i class="fa fa-clock-o"></i> 9 de janeiro de 2025</a></div></div>
+                    </div>
+                </article>
+                    </div>
+                </div>
+                    <div class="module-overlay">
+				    <div class="preloader_type preloader_dot">
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class="navigation_overlay"><div class="module-preloader jeg_preloader"><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_10768_0_6785ec0a51bf3 = {"header_icon":"","first_title":"Leia tamb\u00e9m","second_title":"","url":"","header_type":"heading_1","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","sticky_post":false,"post_type":"post","content_type":"all","sponsor":false,"number_post":"3","post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":10768,"include_category":"19","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest_modified","date_format":"default","date_format_custom":"d\/m\/Y","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"3","pagination_scroll_limit":3,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","excerpt_length":20,"paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_22"};</script>
+				</div></div><div class="jnews_popup_post_container"></div><div class="jnews_comment_container">	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deixe um comentário</h3><form action="https://cartadenoticias.com.br/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">O seu endereço de e-mail não será publicado.</span> <span class="required-field-message">Campos obrigatórios são marcados com <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Comentário <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Nome</label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name"></p>
+<p class="comment-form-email"><label for="email">E-mail</label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email"></p>
+<p class="comment-form-url"><label for="url">Site</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" autocomplete="url"></p>
+
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publicar comentário"> <input type="hidden" name="comment_post_ID" value="10768" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="12270e710f"></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>Δ<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="243"><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	</div>
+									</div>
+			</div>
+			
+<div class="jeg_sidebar  jeg_sticky_sidebar col-md-4">
+    <div class="jegStickyHolder"><div class="theiaStickySidebar"><div class="widget widget_text" id="text-3">			<div class="textwidget"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_1_uff8gw5uf0ot', {createdWith: '6.8.4', sliderVersion: '7.12.5', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_1_uff8gw5uf0ot" class="ls-wp-container fitvidsignore ls-selectable" style="width:300px;height:500px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:8000;transition2d:1;timeshift:2;"><img loading="lazy" decoding="async" width="339" height="500" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/10/Todos-pela-Paz-1.jpg?fit=339%2C500&amp;ssl=1" class="ls-l ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/10/Todos-pela-Paz-1.jpg?w=339&amp;ssl=1 339w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2023/10/Todos-pela-Paz-1.jpg?resize=203%2C300&amp;ssl=1 203w" sizes="auto, (max-width: 339px) 100vw, 339px" style="top:0px;left:-4px;height:445px;width:300px;" data-ls="durationin:4000;delayin:100;startatfirst:100;fadein:false;"></div><div class="ls-slide"><a style="" class="ls-l" href="https://www.cenibra.com.br/sustentabilidade/ambiental/conservacao/" target="_blank" data-ls="durationin:10000;"><img loading="lazy" decoding="async" width="300" height="500" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Cenibra-incendios-florestais-set-24.jpg?fit=300%2C500&amp;ssl=1" class="ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Cenibra-incendios-florestais-set-24.jpg?w=300&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/Cenibra-incendios-florestais-set-24.jpg?resize=180%2C300&amp;ssl=1 180w" sizes="auto, (max-width: 300px) 100vw, 300px" style="top:0px;left:0px;"></a></div></div>
+</div>
+		</div><div class="widget_text widget widget_custom_html" id="custom_html-5"><div class="textwidget custom-html-widget"><script>
+        (function(d, s, id) {
+            if (d.getElementById(id)) {
+                if (window.__TOMORROW__) {
+                    window.__TOMORROW__.renderWidget();
+                }
+                return;
+            }
+            const fjs = d.getElementsByTagName(s)[0];
+            const js = d.createElement(s);
+            js.id = id;
+            js.src = "https://www.tomorrow.io/v1/widget/sdk/sdk.bundle.min.js";
+
+            fjs.parentNode.insertBefore(js, fjs);
+        })(document, 'script', 'tomorrow-sdk');
+        </script>
+
+        <div class="tomorrow" data-location-id="" data-language="PT" data-unit-system="METRIC" data-skin="light" data-widget-type="upcoming" style="padding-bottom:22px;position:relative;">
+          <a href="https://www.tomorrow.io/weather-api/" rel="nofollow noopener noreferrer" target="_blank" style="position: absolute; bottom: 0; transform: translateX(-50%); left: 50%;">
+            <img alt="Powered by the Tomorrow.io Weather API" src="https://weather-website-client.tomorrow.io/img/powered-by.svg" width="250" height="18">
+          </a>
+        </div></div></div><div class="widget widget_text" id="text-4">			<div class="textwidget"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_2_tjw1pqeubwf6', {createdWith: '6.8.4', sliderVersion: '7.12.3', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_2_tjw1pqeubwf6" class="ls-wp-container fitvidsignore ls-selectable" style="width:297px;height:500px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:8000;"><img loading="lazy" decoding="async" width="300" height="500" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/Premio-jornalismo-360-x-600-e1659037809623.jpg?fit=300%2C500&amp;ssl=1" class="ls-l ls-img-layer" alt="premio nippon" style="top:0px;left:-3px;" data-ls="durationout:1500;position:relative;"></div><div class="ls-slide" data-ls="duration:8000;"><img loading="lazy" decoding="async" width="900" height="1500" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/02/Afirmativa-marco-23.jpg?fit=900%2C1500&amp;ssl=1" class="ls-l ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/02/Afirmativa-marco-23.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/02/Afirmativa-marco-23.jpg?resize=180%2C300&amp;ssl=1 180w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/02/Afirmativa-marco-23.jpg?resize=614%2C1024&amp;ssl=1 614w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/02/Afirmativa-marco-23.jpg?resize=768%2C1280&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/02/Afirmativa-marco-23.jpg?resize=750%2C1250&amp;ssl=1 750w" sizes="auto, (max-width: 900px) 100vw, 900px" style="top:0px;left:-23px;width:329px;height:500px;" data-ls="durationin:5000;fadein:false;"><a href="https://wwws.portoseguro.com.br/vendaonline/vidamaissimples/home.ns?cod=cc7e8405017d4aadbd76538fecffb939&amp;utm_source=38621J&amp;utm_medium=geradorLinks&amp;utm_campaign=GeradordeLinks_LH13YJ&amp;utm_content=AFIRMATIVA_ADM_E_CORRETORA_DE_SEGUROS" target="_self" class="ls-link ls-link-on-top"></a></div><div class="ls-slide"><a style="" class="ls-l" href="https://www.amazon.com.br/Olavo-Menos-Oliva-Walter-Biancardine/dp/B0C62Z9HK4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=1AVC809M742K8&amp;dib=eyJ2IjoiMSJ9.sWJAwc06eR-iiTYoid5Wy0UbyC7kIq_0VW67tZqCDaRf9-Q-3T7JBTDssD-HwFRpWLpB6k3RdqJjY0R9l7xWJA.2NXb9XBISHxpFVTjaqPBfy_4xK2_Szvr9qL7-AbQJTU&amp;dib_tag=se&amp;keywords=mais+olavo+menos+oliva&amp;qid=1722965153&amp;s=books&amp;sprefix=mais+olavo+menos+oliva,stripbooks,211&amp;sr=1-1-fkmr0&amp;linkCode=sl1&amp;tag=cnmultimidia-20&amp;linkId=0e1aaf755965d1bff09794ab168d1cc9&amp;language=pt_BR&amp;ref_=as_li_ss_tl" target="_blank" data-ls="durationin:3000;loop:true;loopcount:1;"><img loading="lazy" decoding="async" width="300" height="454" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/Amazon.jpg?fit=300%2C454&amp;ssl=1" class="ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/Amazon.jpg?w=300&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/08/Amazon.jpg?resize=198%2C300&amp;ssl=1 198w" sizes="auto, (max-width: 300px) 100vw, 300px" style="top:0px;left:-3px;"></a></div></div>
+</div>
+		</div><div class="widget widget_text" id="text-5">			<div class="textwidget"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_3_87tmxj5jjn1u', {createdWith: '6.8.4', sliderVersion: '7.12.5', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_3_87tmxj5jjn1u" class="ls-wp-container fitvidsignore ls-selectable" style="width:300px;height:250px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="bgcolor:#ffffff;duration:8000;transition2d:1;"><img loading="lazy" decoding="async" width="600" height="540" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/ls-project-3-slide-2.jpg?fit=600%2C540&amp;ssl=1" class="ls-tn" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/ls-project-3-slide-2.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/ls-project-3-slide-2.jpg?resize=300%2C270&amp;ssl=1 300w" sizes="auto, (max-width: 600px) 100vw, 600px"><a style="" class="ls-l" href="https://cafecomdeus.blog.br" target="_blank"><img loading="lazy" decoding="async" width="300" height="250" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/banner-cafecomdeus.png?fit=300%2C250&amp;ssl=1" class="ls-img-layer" alt="" style=""></a><a href="https://cafecomdeus.blog.br" target="_self" class="ls-link ls-link-on-top"></a></div><div class="ls-slide"><a style="" class="ls-l" href="https://x.com/william_saliba" target="_blank" data-ls="durationin:5000;"><img loading="lazy" decoding="async" width="1000" height="958" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/X-Anuncio-CN.jpg?fit=1000%2C958&amp;ssl=1" class="ls-img-layer" alt="" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/X-Anuncio-CN.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/X-Anuncio-CN.jpg?resize=300%2C287&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/X-Anuncio-CN.jpg?resize=768%2C736&amp;ssl=1 768w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/10/X-Anuncio-CN.jpg?resize=750%2C719&amp;ssl=1 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" style="top:0px;left:0px;width:294px;height:245px;"></a></div><div class="ls-slide" data-ls="duration:8000;transition2d:5;"><img loading="lazy" decoding="async" width="300" height="250" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/11/Aprenda-WordPress-Clube.png?fit=300%2C250&amp;ssl=1" class="ls-l ls-img-layer" alt="" style=""><a href="https://aprendawordpress.club" target="_blank" class="ls-link ls-link-on-top"></a></div></div>
+</div>
+		</div></div></div></div>		</div>
+
+		<div class="jeg_ad jeg_article jnews_article_bottom_ads">
+			<div class="ads-wrapper  "><div class="ads_shortcode"><script type="text/javascript">jQuery(function() { _initLayerSlider( '#layerslider_8_6ojefv63fvui', {createdWith: '6.8.4', sliderVersion: '7.12.3', allowFullscreen: true, pauseOnHover: 'enabled', skin: 'v6', sliderFadeInDuration: 350, navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, useSrcset: true, skinsPath: 'https://cartadenoticias.com.br/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/', performanceMode: true}); });</script><div id="layerslider_8_6ojefv63fvui" class="ls-wp-container fitvidsignore ls-selectable" style="width:1280px;height:255px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="duration:8000;"><a style="" class="ls-l" href="https://chat.whatsapp.com/Jz93hXoFraP1Q3EijelUvi" target="_blank"><img width="1280" height="252" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/09/CN-Banner-Grupo-WZ.gif?fit=1280%2C252&amp;ssl=1" class="ls-img-layer" alt="" decoding="async" style="top:3px;left:0px;"></a></div><div class="ls-slide" data-ls="duration:8000;"><a style="" class="ls-l" href="https://chat.whatsapp.com/Jz93hXoFraP1Q3EijelUvi" target="_self"><img width="1280" height="252" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2024/07/BannerWhatsApp.gif?fit=1280%2C252&amp;ssl=1" class="ls-img-layer" alt="" decoding="async" style="width:1280px;height:255px;top:0px;left:0px;"></a></div></div></div></div>		</div>
+
+	</div>
+</div>
+                </div>
+            </div>
+
+            <div id="post-body-class" class="post-template-default single single-post postid-10768 single-format-standard wp-embed-responsive jeg_toggle_light jeg_single_tpl_1 jnews jsc_normal wpb-js-composer js-comp-ver-8.0 vc_responsive aa-prefix-carta- aa-disabled-bots"></div>
+
+            
+        </div>
+
+        <div class="post-ajax-overlay">
+    <div class="preloader_type preloader_dot">
+        <div class="newsfeed_preloader jeg_preloader dot">
+            <span></span><span></span><span></span>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader circle">
+            <div class="jnews_preloader_circle_outer">
+                <div class="jnews_preloader_circle_inner"></div>
+            </div>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader square">
+            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+        </div>
+    </div>
+</div>
+    </div>
+        <div class="footer-holder" id="footer" data-id="footer">
+            <div class="jeg_footer jeg_footer_1 dark">
+    <div class="jeg_footer_container jeg_container">
+        <div class="jeg_footer_content">
+            <div class="container">
+
+                <div class="row">
+                    <div class="jeg_footer_primary clearfix">
+                        <div class="col-md-4 footer_column">
+                            <div class="footer_widget widget_media_image" id="media_image-3"><img width="300" height="300" src="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?fit=300%2C300&amp;ssl=1" class="image wp-image-15080  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=75%2C75&amp;ssl=1 75w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=350%2C350&amp;ssl=1 350w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=270%2C270&amp;ssl=1 270w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=192%2C192&amp;ssl=1 192w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=180%2C180&amp;ssl=1 180w, https://i0.wp.com/cartadenoticias.com.br/wp-content/uploads/2020/06/cropped-CN-logo-icone-pag-300x300-1.jpg?resize=32%2C32&amp;ssl=1 32w" sizes="auto, (max-width: 300px) 100vw, 300px"></div><div class="widget_text footer_widget widget_custom_html" id="custom_html-4"><div class="textwidget custom-html-widget"><h5 style="font-family:Arial"><center><strong>JORNALISMO COM CREDIBILIDADE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></center></h5><br><i>** Os artigos de opinião, assinados, expressam a visão do autor e não necessariamente a linha editorial do portal Carta&nbsp;de&nbsp;Notícias.</i></div></div>                        </div>
+                        <div class="col-md-4 footer_column">
+                            <div class="widget_text footer_widget widget_custom_html" id="custom_html-3"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Expediente:</span></h3></div><div class="textwidget custom-html-widget"><a name="expediente"></a><p><span style="color:#ffffff;font-size:1.25em;text-shadow: 1px 1px 0px black;"><strong>CN Multimidia e Marketing Ltda.</strong></span><br>
+<span style="color:#ffffff;">CNPJ: 36.360.043/0001-25</span></p>
+
+	<p><span style="color:#ffffff;"><strong>Diretor: William Saliba</strong></span> - (31) 98744-3030 <br>E-mail: <a class="linkrodape" href="mailto:diretor@cartadenoticias.com.br"><span style="color:#ff8000;">diretor@cartadenoticias.com.br</span></a></p>
+
+<p><span style="color:#ffffff;"><strong>Diretor de Negócios:<br>Rafael Fonseca</strong></span> - (31)&nbsp;97145-7522<br>E-mail: <a class="linkrodape" href="mailto:rafael.fonseca@cartadenoticias.com.br"><span style="color:#ff8000;">rafael.fonseca@cartadenoticias.com.br</span></a></p>
+
+<p><span style="color:#ffffff;"><strong>Coordenador Financeiro e de Planejamento:<br>William Argolo</strong></span> - 
+(31) 98600-3599 <br>E-mail: <a class="linkrodape" href="mailto:financeiro@cartadenoticias.com.br"><span style="color:#ff8000;">financeiro@cartadenoticias.com.br</span></a></p>
+
+<p><span style="color:#ffffff;"><strong>Assessoria Jurídica:<br>Vitor Bizarro</strong></span> - (31) 98828-9999 <br>E-mail: <a class="linkrodape" href="mailto:juridico@cartadenoticias.com.br"><span style="color:#ff8000;">juridico@cartadenoticias.com.br</span></a></p>
+
+
+	<p><span style="color:#ffffff;"><strong>Editor: Cid Miranda</strong></span> - (31) 98562-4064 <br>E-mail: <a class="linkrodape" href="mailto:redacao@cartadenoticias.com.br"><span style="color:#ff8000;">redacao@cartadenoticias.com.br</span></a></p></div></div>                        </div>
+                        <div class="col-md-4 footer_column">
+                            <div class="footer_widget rpwe_widget recent-posts-extended" id="rpwe_widget-6"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Publicações Mais Recentes:</span></h3></div><div class="rpwe-block"><ul class="rpwe-ul"><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://cartadenoticias.com.br/2025/colunistas/william-saliba/vale-do-aco-momento-de-solidariedade-e-reflexao/" target="_self"><img class="rpwe-alignleft rpwe-thumb" src="https://cartadenoticias.com.br/wp-content/uploads/2025/01/Tempestade-e-catastrofe-45x45.jpg" alt="Vale do Aço: momento de solidariedade e reflexão" height="45" width="45" loading="lazy" decoding="async"></a><h3 class="rpwe-title"><a href="https://cartadenoticias.com.br/2025/colunistas/william-saliba/vale-do-aco-momento-de-solidariedade-e-reflexao/" target="_self">Vale do Aço: momento de solidariedade e reflexão</a></h3><time class="rpwe-time published" datetime="2025-01-13T19:06:25-03:00">13 de janeiro de 2025</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://cartadenoticias.com.br/2025/saude/fsfx-expressa-solidariedade-as-vitimas-das-enchentes-em-ipatinga/" target="_self"><img class="rpwe-alignleft rpwe-thumb" src="https://cartadenoticias.com.br/wp-content/uploads/2025/01/hospitalmarciocunha-45x45.jpg" alt="FSFX expressa solidariedade às vítimas das enchentes em Ipatinga" height="45" width="45" loading="lazy" decoding="async"></a><h3 class="rpwe-title"><a href="https://cartadenoticias.com.br/2025/saude/fsfx-expressa-solidariedade-as-vitimas-das-enchentes-em-ipatinga/" target="_self">FSFX expressa solidariedade às vítimas das enchentes em Ipatinga</a></h3><time class="rpwe-time published" datetime="2025-01-13T17:42:27-03:00">13 de janeiro de 2025</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://cartadenoticias.com.br/2025/saude/lula-veta-projeto-que-equipara-diabetes-tipo-1-a-deficiencia/" target="_self"><img class="rpwe-alignleft rpwe-thumb" src="https://cartadenoticias.com.br/wp-content/uploads/2025/01/presidentelula-45x45.jpg" alt="Lula veta projeto que equipara diabetes tipo 1 a deficiência" height="45" width="45" loading="lazy" decoding="async"></a><h3 class="rpwe-title"><a href="https://cartadenoticias.com.br/2025/saude/lula-veta-projeto-que-equipara-diabetes-tipo-1-a-deficiencia/" target="_self">Lula veta projeto que equipara diabetes tipo 1 a deficiência</a></h3><time class="rpwe-time published" datetime="2025-01-13T17:22:16-03:00">13 de janeiro de 2025</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://cartadenoticias.com.br/2025/gerais/ipatinga-reforca-estrutura-de-abrigos-para-acolher-vitimas-das-chuvas/" target="_self"><img class="rpwe-alignleft rpwe-thumb" src="https://cartadenoticias.com.br/wp-content/uploads/2025/01/abrigoipatinga-45x45.jpg" alt="Ipatinga reforça estrutura de abrigos para acolher vítimas das chuvas" height="45" width="45" loading="lazy" decoding="async"></a><h3 class="rpwe-title"><a href="https://cartadenoticias.com.br/2025/gerais/ipatinga-reforca-estrutura-de-abrigos-para-acolher-vitimas-das-chuvas/" target="_self">Ipatinga reforça estrutura de abrigos para acolher vítimas das chuvas</a></h3><time class="rpwe-time published" datetime="2025-01-13T16:52:42-03:00">13 de janeiro de 2025</time></li><li class="rpwe-li rpwe-clearfix"><a class="rpwe-img" href="https://cartadenoticias.com.br/2025/meio-ambiente/prefeitura-de-fabriciano-divulga-balanco-das-chuvas-do-final-de-semana/" target="_self"><img class="rpwe-alignleft rpwe-thumb" src="https://cartadenoticias.com.br/wp-content/uploads/2025/01/vistoriafabriciano-45x45.jpg" alt="Prefeitura de Fabriciano divulga balanço das chuvas do final de semana" height="45" width="45" loading="lazy" decoding="async"></a><h3 class="rpwe-title"><a href="https://cartadenoticias.com.br/2025/meio-ambiente/prefeitura-de-fabriciano-divulga-balanco-das-chuvas-do-final-de-semana/" target="_self">Prefeitura de Fabriciano divulga balanço das chuvas do final de semana</a></h3><time class="rpwe-time published" datetime="2025-01-13T16:41:58-03:00">13 de janeiro de 2025</time></li></ul></div><!-- Generated by http://wordpress.org/plugins/recent-posts-widget-extended/ --></div>                        </div>
+                    </div>
+                </div>
+
+
+                
+                <div class="jeg_footer_secondary clearfix">
+
+                    <!-- secondary footer right -->
+
+                    <div class="footer_right">
+
+                        
+                        			<div class="jeg_social_icon_block socials_widget nobg">
+				<a href="https://www.facebook.com/cartadenoticias" target="_blank" rel="external noopener nofollow" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.instagram.com/cartadenoticias2262/" target="_blank" rel="external noopener nofollow" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://www.youtube.com/@cartadenoticias3988" target="_blank" rel="external noopener nofollow" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a>			</div>
+			
+                        
+                    </div>
+
+                    <!-- secondary footer left -->
+
+                    
+                    
+                                            <p class="copyright"> 2023-2024 © CARTA DE NOTÍCIAS - Todos os Direitos Reservados. Hospedado&nbsp;por&nbsp;<b><a href="https://servla.com.br/" target="_blank">Servla</a></b>. </p>
+                    
+                </div> <!-- secondary menu -->
+
+                
+
+            </div>
+        </div>
+    </div>
+</div><!-- /.footer -->
+        </div>
+
+        <div class="jscroll-to-top">
+        	<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+        </div>
+    </div>
+
+    <script type="text/javascript">var jfla = []</script>
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 banner-de-consentimento-de-cookies optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Gerenciar o Consentimento</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Fechar janela">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">Para fornecer as melhores experiências, usamos tecnologias como cookies para armazenar e/ou acessar informações do dispositivo. O consentimento para essas tecnologias nos permitirá processar dados como comportamento de navegação ou IDs exclusivos neste site. Não consentir ou retirar o consentimento pode afetar negativamente certos recursos e funções.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Funcional</span>
+							<span class="cmplz-always-active">
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox" id="cmplz-functional-optin" data-category="cmplz_functional" class="cmplz-consent-checkbox cmplz-functional" size="40" value="1">
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Funcional</span></label>
+								</span>
+								Sempre ativo							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">O armazenamento ou acesso técnico é estritamente necessário para a finalidade legítima de permitir a utilização de um serviço específico explicitamente solicitado pelo assinante ou utilizador, ou com a finalidade exclusiva de efetuar a transmissão de uma comunicação através de uma rede de comunicações eletrónicas.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferências</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-preferences-optin" data-category="cmplz_preferences" class="cmplz-consent-checkbox cmplz-preferences" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Preferências</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">O armazenamento ou acesso técnico é necessário para o propósito legítimo de armazenar preferências que não são solicitadas pelo assinante ou usuário.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Estatísticas</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-statistics-optin" data-category="cmplz_statistics" class="cmplz-consent-checkbox cmplz-statistics" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Estatísticas</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">O armazenamento ou acesso técnico que é usado exclusivamente para fins estatísticos.</span>
+					<span class="cmplz-description-statistics-anonymous">O armazenamento técnico ou acesso que é usado exclusivamente para fins estatísticos anônimos. Sem uma intimação, conformidade voluntária por parte de seu provedor de serviços de Internet ou registros adicionais de terceiros, as informações armazenadas ou recuperadas apenas para esse fim geralmente não podem ser usadas para identificá-lo.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-marketing-optin" data-category="cmplz_marketing" class="cmplz-consent-checkbox cmplz-marketing" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">O armazenamento ou acesso técnico é necessário para criar perfis de usuário para enviar publicidade ou para rastrear o usuário em um site ou em vários sites para fins de marketing semelhantes.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Gerenciar opções</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gerenciar serviços</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Leia mais sobre esses propósitos</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Aceitar</button>
+		<button class="cmplz-btn cmplz-deny">Negar</button>
+		<button class="cmplz-btn cmplz-view-preferences">Ver Preferências</button>
+		<button class="cmplz-btn cmplz-save-preferences">Salvar Preferências</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Ver Preferências</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gerenciar o Consentimento</button>
+
+</div><div id="selectShareContainer">
+                        <div class="selectShare-inner">
+                            <div class="select_share jeg_share_button">              
+                                <button class="select-share-button jeg_btn-facebook" data-url="http://www.facebook.com/sharer.php?u=[url]&amp;quote=[selected_text]" data-post-url="https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F" data-image-url="" data-title="Sa%C3%BAde%20de%20Ipatinga%20alerta%20para%20o%20crescimento%20de%20casos%20de%20S%C3%ADfilis%20Cong%C3%AAnita"><i class="fa fa-facebook-official"></i></button><button class="select-share-button jeg_btn-twitter" data-url="https://twitter.com/intent/tweet?text=[selected_text]&amp;url=[url]" data-post-url="https%3A%2F%2Fcartadenoticias.com.br%2F2021%2Fsaude%2Fsaude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita%2F" data-image-url="" data-title="Sa%C3%BAde%20de%20Ipatinga%20alerta%20para%20o%20crescimento%20de%20casos%20de%20S%C3%ADfilis%20Cong%C3%AAnita"><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></i>
+                            </button></div>
+                            <div class="selectShare-arrowClip">
+                                <div class="selectShare-arrow"></div>      
+                            </div> 
+                        </div>      
+                      </div><!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand square">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://cartadenoticias.com.br/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Procurar..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Nenhum resultado    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos os resultados    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu sf-js-hover"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9649"><a href="https://cartadenoticias.com.br/category/gerais/">Gerais</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34397"><a href="https://cartadenoticias.com.br/category/politica/">Política</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9652"><a href="https://cartadenoticias.com.br/category/cultura/">Cultura</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9653"><a href="https://cartadenoticias.com.br/category/educacao/">Educação</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9650"><a href="https://cartadenoticias.com.br/category/lazer/">Lazer</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-9651"><a href="https://cartadenoticias.com.br/category/saude/">Saúde</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34398"><a href="https://cartadenoticias.com.br/category/ciencia-e-tecnologia/">Ciência e Tecnologia</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30477"><a href="https://cartadenoticias.com.br/category/rafael-fonseca/">Rafael Fonseca</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33916"><a href="https://cartadenoticias.com.br/category/william-argolo-saliba/">William Argolo Saliba</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34399"><a href="https://cartadenoticias.com.br/category/colunistas/">Colunistas</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31535"><a href="https://cartadenoticias.com.br/category/colunistas/walter-biancardine/">Walter Biancardine</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9657"><a href="https://cartadenoticias.com.br/category/colunistas/william-saliba/">William Saliba</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-9656"><a href="https://cartadenoticias.com.br/category/opiniao/">Opinião</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30475"><a href="https://cartadenoticias.com.br/category/opiniao/amauri_meireles/">Amauri Meireles</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34584"><a href="https://cartadenoticias.com.br/category/opiniao/edmundo-fraga/">Edmundo Fraga</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33959"><a href="https://cartadenoticias.com.br/category/opiniao/flavia_presoti/">Flávia Presoti</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33918"><a href="https://cartadenoticias.com.br/category/gabriel-jadson/">Gabriel Jadson</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33919"><a href="https://cartadenoticias.com.br/category/natalia-brito/">Natália Brito</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34582"><a href="https://cartadenoticias.com.br/category/opiniao/poliane-andrade/">Poliane Andrade</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33921"><a href="https://cartadenoticias.com.br/category/opiniao/ricardo-ramos/">Ricardo Ramos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31534"><a href="https://cartadenoticias.com.br/category/opiniao/wederson-marinho/">Wederson Marinho</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31532"><a href="https://cartadenoticias.com.br/category/opiniao/vitor-bizarro/">Vitor Bizarro</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19742"><a href="https://cartadenoticias.com.br/category/videos/">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28300"><a href="#expediente">Expediente</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9658"><a href="https://cartadenoticias.com.br/fale-conosco/">Fale Conosco</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34396"><a href="https://cartadenoticias.com.br/category/economia/">Economia</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34583"><a href="https://cartadenoticias.com.br/category/opiniao/alice-costa/">Alice Costa</a></li>
+</ul>
+</li>
+</ul></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item socials_widget nobg">
+    <a href="https://www.facebook.com/cartadenoticias" target="_blank" rel="external noopener nofollow" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.instagram.com/cartadenoticias2262/" target="_blank" rel="external noopener nofollow" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://www.youtube.com/@cartadenoticias3988" target="_blank" rel="external noopener nofollow" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a></div><div class="jeg_aside_item jeg_aside_copyright">
+	<p>2023-2024 © CARTA DE NOTÍCIAS - Todos os Direitos Reservados. Hospedado&nbsp;por&nbsp;<b><a href="https://servla.com.br/" target="_blank">Servla</a></b>.</p>
+</div>    </div>
+</div>    </div>
+</div><div class="jnews-cookie-law-policy">Esse website utiliza cookies. Ao continuar a utilizar este website estará dando seu consentimento para a utilização de cookies. <button data-expire="7" class="btn btn-cookie">Eu Aceito</button></div><div class="jeg_read_progress_wrapper"></div>		<!-- Snippet do Google Tag Manager (noscript) adicionado pelo Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2ZP5WBW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- Finalizar o snippet do Gerenciador de Tags do Google (noscript) adicionado pelo Site Kit -->
+			<script type="module">
+		import { Workbox } from "https:\/\/cartadenoticias.com.br\/wp-content\/plugins\/pwa\/wp-includes\/js\/workbox-v7.3.0\/workbox-window.prod.js";
+
+		if ( 'serviceWorker' in navigator ) {
+			window.wp = window.wp || {};
+			window.wp.serviceWorkerWindow = new Workbox(
+				"https:\/\/cartadenoticias.com.br\/wp.serviceworker",
+				{"scope":"\/"}			);
+			window.wp.serviceWorkerWindow.register();
+		}
+	</script>
+	<link rel="stylesheet" id="rpwe-style-css" href="https://cartadenoticias.com.br/wp-content/plugins/recent-posts-widget-extended/assets/css/rpwe-frontend.css?ver=2.0.2" type="text/css" media="all">
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.1" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/cartadenoticias.com.br\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.1" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/perfecty-push-notifications/public/js/perfecty-push-sdk/dist/perfecty-push-sdk.min.js?ver=1.6.3" id="perfecty-push-js"></script>
+<script type="text/javascript" id="wp-statistics-tracker-js-extra">
+/* <![CDATA[ */
+var WP_Statistics_Tracker_Object = {"requestUrl":"https:\/\/cartadenoticias.com.br\/wp-json\/wp-statistics\/v2","ajaxUrl":"https:\/\/cartadenoticias.com.br\/wp-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"post","source_id":10768,"search_query":"","signature":"bc7ad4a2ac4d1e4ad01c70beb390a23e","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"post","source_id":10768,"search_query":"","signature":"bc7ad4a2ac4d1e4ad01c70beb390a23e","endpoint":"online"},"option":{"userOnline":"1","consentLevel":"disabled","dntEnabled":"1","bypassAdBlockers":false,"isWpConsentApiActive":true,"trackAnonymously":false,"isPreview":false},"jsCheckTime":"60000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.11.4" id="wp-statistics-tracker-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-includes/js/comment-reply.min.js?ver=04b0e8fe1f02d4470ce7a7aa9738c24d" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" id="jnews-frontend-js-extra">
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/cartadenoticias.com.br\/2021\/saude\/saude-de-ipatinga-alerta-para-o-crescimento-de-casos-de-sifilis-congenita","popup_script":"magnific","single_gallery":"","ismobile":"","isie":"","sidefeed_ajax":"","language":"pt_BR","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"10768","isblog":"1","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Recaptcha inv\u00e1lido!","empty_username":"Por favor insira seu nome de usu\u00e1rio!","empty_email":"Por favor introduza o seu e-mail!","empty_password":"Por favor, insira sua senha!"},"recaptcha":"0","site_slug":"\/","site_domain":"cartadenoticias.com.br","zoom_button":"1","stt_button_mobile":"","dm_cookie_time":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=1.0.0" id="jnews-frontend-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=1.0.0" id="html5shiv-js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-consent-mode-3d6495dceaebc28bcca3.js" id="googlesitekit-consent-mode-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-21cf1c445673c649970d.js" id="googlesitekit-events-provider-contact-form-7-js" defer=""></script>
+<script type="text/javascript" defer="" src="https://cartadenoticias.com.br/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.19" id="mc4wp-forms-api-js"></script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-mailchimp-7920d200a07d3bcd60bb.js" id="googlesitekit-events-provider-mailchimp-js" defer=""></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202503.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"180313893\",\"post\":\"10768\",\"tz\":\"-3\",\"srv\":\"cartadenoticias.com.br\",\"j\":\"1:14.1\"}") ]);
+_stq.push([ "clickTrackerInit", "180313893", "10768" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-consent-api-js-extra">
+/* <![CDATA[ */
+var consent_api = {"consent_type":"optin","waitfor_consent_hook":"","cookie_expiration":"30","cookie_prefix":"wp_consent"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min.js?ver=1.0.8" id="wp-consent-api-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"28","version":"7.1.5","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"br","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/cartadenoticias.com.br\/wp-json\/complianz\/v1\/","locale":"lang=pt&locale=pt_BR","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"27","cookie_path":"\/","categories":{"statistics":"estatisticas","marketing":"marketing"},"tcf_active":"","placeholdertext":"<div class=\"cmplz-blocked-content-notice-body\">Clique em 'Concordo' para ativar {service}\u00a0<div class=\"cmplz-links\"><a href=\"#\" class=\"cmplz-link cookie-statement\">{title}<\/a><\/div><\/div><button class=\"cmplz-accept-service\">Concordo<\/button>","css_file":"https:\/\/cartadenoticias.com.br\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=28","page_links":{"br":{"cookie-statement":{"title":"Pol\u00edtica de Cookies ","url":"https:\/\/cartadenoticias.com.br\/politica-de-cookies-br\/"},"privacy-statement":{"title":"Pol\u00edtica de Privacidade","url":"https:\/\/cartadenoticias.com.br\/politica-de-privacidade\/"}}},"tm_categories":"1","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click button to enable {service}"};
+/* ]]> */
+</script>
+<script defer="" type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1731674629" id="cmplz-cookiebanner-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-after">
+/* <![CDATA[ */
+	let cmplzBlockedContent = document.querySelector('.cmplz-blocked-content-notice');
+	if ( cmplzBlockedContent) {
+	        cmplzBlockedContent.addEventListener('click', function(event) {
+            event.stopPropagation();
+        });
+	}
+    
+/* ]]> */
+</script>
+<script type="text/javascript" id="jnews-select-share-js-extra">
+/* <![CDATA[ */
+var jnews_select_share = {"is_customize_preview":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/jnews-social-share/assets/js/plugin.js" id="jnews-select-share-js"></script>
+<script defer="" type="text/javascript" src="https://cartadenoticias.com.br/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1733835537" id="akismet-frontend-js"></script>
+<script></script><script type="module">;/*! instant.page v5.1.1 - (C) 2019-2020 Alexandre Dieulot - https://instant.page/license */
+let t,e;const n=new Set,o=document.createElement("link"),i=o.relList&&o.relList.supports&&o.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype,s="instantAllowQueryString"in document.body.dataset,a="instantAllowExternalLinks"in document.body.dataset,r="instantWhitelist"in document.body.dataset,c="instantMousedownShortcut"in document.body.dataset,d=1111;let l=65,u=!1,f=!1,m=!1;if("instantIntensity"in document.body.dataset){const t=document.body.dataset.instantIntensity;if("mousedown"==t.substr(0,9))u=!0,"mousedown-only"==t&&(f=!0);else if("viewport"==t.substr(0,8))navigator.connection&&(navigator.connection.saveData||navigator.connection.effectiveType&&navigator.connection.effectiveType.includes("2g"))||("viewport"==t?document.documentElement.clientWidth*document.documentElement.clientHeight<45e4&&(m=!0):"viewport-all"==t&&(m=!0));else{const e=parseInt(t);isNaN(e)||(l=e)}}if(i){const n={capture:!0,passive:!0};if(f||document.addEventListener("touchstart",(function(t){e=performance.now();const n=t.target.closest("a");h(n)&&v(n.href)}),n),u?c||document.addEventListener("mousedown",(function(t){const e=t.target.closest("a");h(e)&&v(e.href)}),n):document.addEventListener("mouseover",(function(n){if(performance.now()-e<d)return;if(!("closest"in n.target))return;const o=n.target.closest("a");h(o)&&(o.addEventListener("mouseout",p,{passive:!0}),t=setTimeout((()=>{v(o.href),t=void 0}),l))}),n),c&&document.addEventListener("mousedown",(function(t){if(performance.now()-e<d)return;const n=t.target.closest("a");if(t.which>1||t.metaKey||t.ctrlKey)return;if(!n)return;n.addEventListener("click",(function(t){1337!=t.detail&&t.preventDefault()}),{capture:!0,passive:!1,once:!0});const o=new MouseEvent("click",{view:window,bubbles:!0,cancelable:!1,detail:1337});n.dispatchEvent(o)}),n),m){let t;(t=window.requestIdleCallback?t=>{requestIdleCallback(t,{timeout:1500})}:t=>{t()})((()=>{const t=new IntersectionObserver((e=>{e.forEach((e=>{if(e.isIntersecting){const n=e.target;t.unobserve(n),v(n.href)}}))}));document.querySelectorAll("a").forEach((e=>{h(e)&&t.observe(e)}))}))}}function p(e){e.relatedTarget&&e.target.closest("a")==e.relatedTarget.closest("a")||t&&(clearTimeout(t),t=void 0)}function h(t){if(t&&t.href&&(!r||"instant"in t.dataset)&&(a||t.origin==location.origin||"instant"in t.dataset)&&["http:","https:"].includes(t.protocol)&&("http:"!=t.protocol||"https:"!=location.protocol)&&(s||!t.search||"instant"in t.dataset)&&!(t.hash&&t.pathname+t.search==location.pathname+location.search||"noInstant"in t.dataset))return!0}function v(t){if(n.has(t))return;const e=document.createElement("link");e.rel="prefetch",e.href=t,document.head.appendChild(e),n.add(t)}</script><div class="jeg_ad jnews_mobile_sticky_ads "></div><script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script>
+
+
+
+</body></html>

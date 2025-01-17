@@ -1,0 +1,507 @@
+<html lang="pt-br"><head><script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.defer=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '768632441420031'); 
+fbq('track', 'PageView');
+</script><noscript></noscript></head><body data-category-name="viver bem" data-category-id="309482"><img height="1" width="1" src="https://www.facebook.com/tr?id=768632441420031&amp;ev=PageView
+&amp;noscript=1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="HandheldFriendly" content=""><meta name="MobileOptimized" content="width"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="author" content="aRede"><meta name="copyright" content="aRede"><meta name="Publisher" content="https://arede.info"><meta name="Distribution" content="Global"><meta name="generator" content="Mundiware Elite CS"><meta charset="UTF-8"><link type="image/x-icon" rel="shortcut icon" href="/themes/default/favicon.png"><link rel="apple-touch-icon" href="/themes/default/favicon.png"><link rel="icon" type="image/x-icon" href="/themes/default/favicon.png"><meta property="Robots" content="index, follow"><meta name="revisit-after" content="1 Day"><meta name="msvalidate.01" content=""><meta name="google-site-verification" content=""><meta property="fb:admins" content=""><meta property="fb:app_id" content="434215446778689"><meta property="fb:pages" content="252225491593402"><link rel="alternate" type="application/rss+xml" href="https://arede.info/rss"><link rel="dns-prefetch" href="//www.google-analytics.com"><link rel="dns-prefetch" href="//www.googletagservices.com"><link rel="dns-prefetch" href="//googleadservices.com"><link rel="dns-prefetch" href="//connect.facebook.net"><link rel="dns-prefetch" href="//cdn.ampproject.org"><link rel="dns-prefetch" href="//fonts.gstatic.com"><link rel="preconnect" href="//fonts.gstatic.com"><link rel="dns-prefetch" href="//www.googletagmanager.com"><link rel="preconnect" href="//www.googletagmanager.com"><link rel="preconnect" href="//cdn.ampproject.org"><script defer="" src="https://www.googletagmanager.com/gtag/js?id=G-ERRS10WEKC"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ERRS10WEKC');
+</script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" defer=""></script><script>
+   var OneSignal = window.OneSignal || [];
+    var initConfig = {
+        appId: "45c06dba-15fa-4429-84de-b0a214ac60c6",
+    };
+    OneSignal.push(function () {
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/themes/default/assets/js/oneSignal/' };
+        OneSignal.SERVICE_WORKER_PATH = 'themes/default/assets/js/oneSignal/OneSignalSDKWorker.js';
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = 'themes/default/assets/js/oneSignal/OneSignalSDKWorker.js';
+        OneSignal.init(initConfig);
+    });
+</script><meta name="description" content="Nesta sexta (14/6), é lembrada a importância da doação de sangue. Com pouco trabalho e sem nenhum prejuízo, os voluntários salvam vidas"><meta name="keywords" content=""><meta name="DC.title" content="Dia do Doador de Sangue: confira 5 razões para fazer a doação | aRede"><meta name="DC.creator " content="aRede"><meta name="DC.subject" content=" | aRede"><meta name="DC.description" content="Nesta sexta (14/6), é lembrada a importância da doação de sangue. Com pouco trabalho e sem nenhum prejuízo, os voluntários salvam vidas "><meta name="DC.publisher" content="Mundiware Elite CS"><meta name="Custodian" content="Mundiware"><meta name="DC.date.created" content="2024-06-14"><meta name="DC.date.modified" content="2024-06-14"><meta name="DC.Identifier" content="https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao"><meta name="DC.type" content="text.homepage.institucional"><meta name="DC.format" content="text/xhtml"><meta name="DC.type" content="text.homepage.image.video"><meta property="og:title" content="Dia do Doador de Sangue: confira 5 razões para fazer a doação | aRede"><meta property="og:description" content="Nesta sexta (14/6), é lembrada a importância da doação de sangue. Com pouco trabalho e sem nenhum prejuízo, os voluntários salvam vidas"><meta property="og:url" content="https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao"><meta property="og:site_name" content="aRede"><meta property="og:type" content="article"><meta property="og:locale" content="pt_BR"><meta property="og:image" content="https://cdn.arede.info/img/cover/520000/skillful-nurse-is-doing-blood-test-man-clinic-man-_00525356_0_202406141845.jpg?xid=1774594"><meta property="og:image:width" content="3840"><meta property="og:image:height" content="5760"><meta property="article:section" content="Viver Bem"><meta property="article:published_time" content="2024-06-14T18:45"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:site" content="@aredeinfo"><meta property="twitter:creator" content="@aredeinfo"><meta name="twitter:title" content="Dia do Doador de Sangue: confira 5 razões para fazer a doação | aRede"><meta name="twitter:description" content="Nesta sexta (14/6), é lembrada a importância da doação de sangue. Com pouco trabalho e sem nenhum prejuízo, os voluntários salvam vidas"><meta property="twitter:site" content=""><meta property="twitter:creator" content=""><meta property="twitter:image" content="https://cdn.arede.info/img/cover/520000/skillful-nurse-is-doing-blood-test-man-clinic-man-_00525356_0_202406141845.jpg?xid=1774594"><meta property="twitter:image:width" content="3840"><meta property="twitter:image:height" content="5760"><script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao"},"headline":"Dia do Doador de Sangue: confira 5 razões para fazer a doação - aRede","datePublished":"2024-06-14T18:45:33.763-03:00","dateModified":"2024-06-14T18:45:26.66-03:00","author":{"@type":"Person","name":"Da Redação"},"image":"https://cdn.arede.info/themes/default/assets/img/logoRodape-2.png","publisher":{"@type":"Organization","name":"aRede","logo":{"@type":"ImageObject","url":"https://arede.info/themes/default/assets/img/logoRodape-2.png"}},"url":"https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao"}
+</script><link rel="shortlink" href="https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao"><link rel="canonical" href="https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao"><link rel="amphtml" href="https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao?_=amp"><link rel="alternate" href="https://arede.info/viverbem/525356/dia-do-doador-de-sangue-confira-5-razoes-para-fazer-a-doacao"><link rel="preload" href="/themes/default/assets/fonts/GuardianSans/GuardianSans-Bold.otf" as="font" type="font/otf" crossorigin=""><script>
+        function checkWidth(){var n=new URL(location),t;n.searchParams.get("auto-redirect")!="false"&&n.searchParams.get("auto-redirect")!="0"&&(n.protocol!="https:"&&(n.protocol="https:"),t=navigator.userAgent.match(/(?:phone|windows\s+phone|ipod|blackberry|(?:android|bb\d+|meego|silk|googlebot) .+? mobile|palm|windows\s+ce|opera\ mini|avantgo|mobilesafari|docomo|KAIOS)/i)!=null||navigator.userAgent.match(/(?:ipad|playbook|(?:android|bb\d+|meego|silk)(?! .+? mobile))/i)!=null,t?n.searchParams.delete("d",1):n.searchParams.set("d",1),n.href!=location.href&&(location.href=n.href))}window.addEventListener?window.addEventListener("resize",checkWidth):window.attachEvent?window.attachEvent("onresize",checkWidth):window.onresize=checkWidth;checkWidth()
+    </script><link rel="stylesheet" href="/themes/default/assets/bundle/sbundle_95c09919919653945b3884b012cbe1d2.css?t=1734400562" type="text/css" media="all"><title>Dia do Doador de Sangue: confira 5 razões para fazer a doação | aRede</title><script>
+	const u = new URL(location.href);
+	u.search = '';
+	u.hash = '';
+
+	u.pathname = "/ajax";
+    const AJAXPATH = u.href;
+	u.pathname = "/";
+    const BASEPATH = u.href;
+	const isDesktop = parseInt(new URL(location).searchParams.get('d')) == 1;
+</script><script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.defer = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script><script type="text/javascript">
+    googletag.cmd.push(function () {
+        googletag.pubads().enableAsyncRendering();
+        //Desktop
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_01_TOP', [[970, 250], [950, 250], [1200, 250]], 'div-gpt-ad-1664228838332-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_01_texto', [[1200, 250], [950, 250], [970, 250]], 'div-gpt-ad-1664228882163-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_02_texto', [[970, 250], [1200, 250], [950, 250]], 'div-gpt-ad-1664228927709-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_03', [[1200, 250], [950, 250], [970, 250]], 'div-gpt-ad-1666120934730-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_04', [[1200, 250], [970, 250], [950, 250]], 'div-gpt-ad-1664229021857-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_05', [[970, 250], [1200, 250], [950, 250]], 'div-gpt-ad-1664229086255-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_06', [[970, 250], [1200, 250], [950, 250]], 'div-gpt-ad-1664229136816-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_1200x250_07', [[950, 250], [1200, 250], [970, 250]], 'div-gpt-ad-1664229186421-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_300x250_01_texto', [300, 250], 'div-gpt-ad-1664229229111-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_300x250_02_texto', [300, 250], 'div-gpt-ad-1664229270368-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_300x250_03', [300, 250], 'div-gpt-ad-1664229487592-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_300x600_01', [300, 600], 'div-gpt-ad-1664229533929-0').addService(googletag.pubads());
+        //Desktop Turismo
+        googletag.defineSlot('/70803702/aRede_Article_Turismo_300x250_01', [300, 250], 'div-gpt-ad-1723689776795-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_Turismo_300x250_02', [300, 250], 'div-gpt-ad-1723690982411-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_Turismo_300x250_03', [300, 250], 'div-gpt-ad-1723691156582-0').addService(googletag.pubads());
+        
+        //Mobile Turismo
+        googletag.defineSlot('/70803702/aRede_Mobile_Article_Turismo_300x250_01', [300, 250], 'div-gpt-ad-1723691361845-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Mobile_Article_Turismo_300x250_02', [300, 250], 'div-gpt-ad-1723691484487-0').addService(googletag.pubads());
+
+
+        //mobile
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_01_TOP', [300, 250], 'div-gpt-ad-1664229653583-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_02', [[300, 250], [320, 100], [320, 90]], 'div-gpt-ad-1664229716182-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_03', [[300, 250], [320, 100], [320, 90]], 'div-gpt-ad-1664229830256-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_04', [[300, 250], [320, 100], [320, 90]], 'div-gpt-ad-1664229925802-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_05', [[320, 100], [320, 90], [300, 250]], 'div-gpt-ad-1664230007076-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_06', [[320, 90], [320, 100], [300, 250]], 'div-gpt-ad-1664230074206-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_07', [[300, 250], [320, 100], [320, 90]], 'div-gpt-ad-1664230123190-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_08', [[300, 250], [320, 100], [320, 90], 'fluid'], 'div-gpt-ad-1664230185083-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x250_09', [[300, 250], [320, 100], [320, 90]], 'div-gpt-ad-1664230297844-0').addService(googletag.pubads());
+        googletag.defineSlot('/70803702/aRede_Article_mobile_300x600_01', [300, 600], 'div-gpt-ad-1664230335200-0').addService(googletag.pubads());
+        //test home
+        googletag.defineSlot('/70803702/aRede_Home_1200x250_03_Outdoor', [[970, 250], [1200, 250], [950, 250]], 'div-gpt-ad-1664903488726-0').addService(googletag.pubads());
+
+        googletag.enableServices();
+    });
+</script><script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "38408883" });
+  (function() {
+  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.defer = true;
+  s.src = "https://sb.scorecardresearch.com/cs/38408883/beacon.js";
+  el.parentNode.insertBefore(s, el);
+  })();
+</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=38408883&amp;cv=3.6.0&amp;cj=1"></noscript><header data-category-id="309482" data-parent-category-id="0"><div class="header-top"><div class="header-top-wrapper"><div class="header-top-links"><a href="https://aredenegocios.com.br" target="_blank">aRede<b style="font-weight:bold">Negócios</b></a> <a href="https://aredeshopping.com.br" target="_blank">aRede<b style="font-weight:bold">Shopping</b></a> <a href="https://arede.info/jornaldamanha/" target="_blank"><b style="font-weight:bold">Jornal da Manhã</b></a></div><a href="/"><img loading="lazy" class="topArticle-logo" src="/themes/default/assets/img/svg/logobranca.svg" alt="logo"></a><div class="header-mobile-top-search"><a href="#buscaMobile"><img loading="lazy" src="/themes/default/assets/img/svg/searchicon.svg" alt="searchicon" style="height:18px;width:18px"></a><div class="lightbox animate fadeInRight" id="buscaMobile"><div class="mw-searchbox"><div class="mw-li-header mw-li-header-search-box animate fadeInRight"><img loading="lazy" id="lupaSearch" src="/themes/default/assets/img/icons/search-icon.svg" alt="Buscar" class="mw-icon-generic mw-icon-header-search mw-search-button"><input type="text" placeholder="BUSCAR" class="mw-input-search-box mw-top-tex"><img loading="lazy" src="/themes/default/assets/img/icons/loading-3.gif" style="height:23px;display:none;position:absolute;width:20px;right:10px" class="loading" alt="carregando"></div><a href="#">X</a></div></div></div><div class="header-top-links"><a href="https://arede.info/contato-publicidade" target="_blank">Anunciar <b style="font-weight:bold">Grupo aRede</b></a> <a href="https://arede.info/contato" target="_blank"><b style="font-weight:bold">Contato</b></a></div></div></div><div class="header-main" style="background:linear-gradient(85deg,#056165 0%,rgba(255,255,255,1) 100%)"><div class="header-main-wrapper"><input type="checkbox" id="check"><label id="icone" for="check" style="display:flex;gap:10px;align-items:center"><img class="menuasideicon" style="width:30px;height:30px" src="/themes/default/assets/img/svg/menuicon.svg" alt="menuicon"></label><div class="screen-menu"><div class="barra-lateral-menu"><section class="aside-section-menu"><div class="aside-section-menu-header"><label for="check" class="icon-close-menu"><img loading="lazy" src="/themes/default/assets/img/svg/closebutton.svg" style="width:13px;height:12px" alt="close"></label> <img loading="lazy" src="/themes/default/assets/img/svg/logoaside.svg" style="width:190px;height:89px" alt="Logo"><div class="mw-share-buttons-aside"><a href="https://www.facebook.com/aredeinfo/" title="Facebook ARede" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_f.svg" alt="facebook"></a> <a href="https://www.instagram.com/arede.info/" target="_blank" title="Instagram ARede" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_i.svg" alt="instagram"></a> <a href="https://www.youtube.com/c/aRedeinfo_Aconteceu_ta_na_rede" target="_blank" title="Visite nosso canal no Youtube" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_y.svg" alt="youtube"></a> <a href="https://twitter.com/aredeinfo" target="_blank" title="Twitter ARede" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_t.svg" alt="twitter"></a> <a href="https://api.whatsapp.com/send?phone=5542991184382" target="_blank" title="Compartilhar no Whatsapp" class="mw-social-btn" rel="nofollow, noopener, noindex" aria-label="Compartilhar no Whatsapp"><img loading="lazy" src="/themes/default/assets/img/logo_w.svg" alt="whatsapp"></a> <a href="/cdn-cgi/l/email-protection#e3dc90968189868097dea2b1868786d9c5818c879ade8b97979390d9cccc8e948fcd9391869090cca2b1d6d1d6d0d6d5" title="Compartilhar no E-mail"><img loading="lazy" src="/themes/default/assets/img/logo_e.svg" alt="email"></a></div><div class="mw-whatsapp-share"><a href="https://api.whatsapp.com/send?phone=5542991184382" class="mw-whatsapp-share-box"><img loading="lazy" src="/themes/default/assets/img/logo_w.svg" alt="whatsapp"> <h3>Jornalismo</h3></a> <a href="https://api.whatsapp.com/send?phone=554291240530" class="mw-whatsapp-share-box"><img loading="lazy" src="/themes/default/assets/img/logo_w.svg" alt="whatsapp"> <h3>Comercial</h3></a></div></div><section class="aside-section-main"><ul><li class="menuaside-li"><h3>EDITORIAS</h3><ul class="menuaside-ul"><li><a href="/Ultimas">Últimas Notícias</a></li><li><a href="/ponta-grossa">Ponta Grossa</a></li><li><a href="/especial-grupo-arede">Especial Grupo aRede</a></li><li><a href="/campos-gerais">Campos Gerais</a></li><li><a href="/curitibaermc">Curitiba e RMC</a></li><li><a href="/editorias/cotidiano">Cotidiano</a></li><li><a href="arede.info/bom-dia-astral">Horóscopo</a></li><li><a href="/esporte">Esportes</a></li><li><a href="/mix">Mix</a></li><li><a href="/viverbem">Viver Bem</a></li><li><a href="/seu-direito">Seu Direito</a></li><li class="aside-list"><div class="aside-submenu"><a href="#empty">Especiais</a> <img loading="lazy" src="/themes/default/assets/img/icons/up-chevron.svg" style="transform:rotate(180deg) scale(1.5);filter:brightness(0)" alt="carregando"></div><div class="aside-subsubmenu" style="display:none"><a href="https://arede.info/a-forca-do-agro">- A Força do Agro</a> <a href="https://arede.info/painel-digita">- Painel Digital</a> <a href="/pg-competitiva">- PG Competitiva</a> <a href="/especial-grupo-arede">- Especial Grupo aRede</a> <a href="/turismo-regional">- Turismo Regional</a> <a href="https://arede.info/Webseries">- Webseries</a></div></li><li><a href="/Vamos Ler">Vamos Ler</a></li></ul></li><li class="menuaside-li"><h3>SEÇÕES</h3><ul class="menuaside-ul"><li><a href="/aredePlay">aRedePlay</a></li><li><a href="/aredenews">aRedeNews</a></li><li><a href="/webstories">Web Stories</a></li><li><a href="/bom-dia-astral">Bom dia Astral</a></li><li><a href="/previsao-do-tempo">Tempo</a></li><li><a href="/empregos">Empregos</a></li><li><a href="/publieditorial">Conteúdo de marca</a></li><li><a href="/obituario">Obituário</a></li></ul></li><li class="menuaside-li"><h3>PROJETOS</h3><ul class="menuaside-ul"><li><a href="/vamos-ler">Vamos Ler - Geração Digital</a></li><li><a href="/anuario-caminhos">Anuário Caminhos dos Campos Gerais</a></li><li><a href="/revista">Revista Ponta Grossa Competitiva</a></li><li><a href="/o-melhor-da-educacao">Painel Digital 'O Melhor da Educação'</a></li><li><a href="/anuario-direito">Anuário do Direito</a></li><li><a href="/cross-duathlon">Cross Duathlon Ponta Grossa</a></li></ul></li><li class="menuaside-li"><h3>PLATAFORMAS</h3><ul class="menuaside-ul"><li><a href="https://aredeshopping.com.br/">aRedeShopping</a></li><li><a href="http://aredenegocios.com.br/">aRedeNegócios</a></li><li><a href="https://arede.info/jornaldamanha">Jornal da Manhã</a></li></ul></li><li class="menuaside-li"><h3>INSTITUCIONAL</h3><ul class="menuaside-ul"><li><a href="/contato-publicidade">Anunciar Grupo aRede</a></li><li><a href="/contato">Fale Conosco</a></li><li><a href="/politica-de-privacidade">Política de Privacidade</a></li></ul></li></ul></section></section></div><label for="check" class="bg-menu-lateral"><div class="bg-menu-lateral"></div></label></div><h2 class="header-destaque-category"><a href="/viverbem?d=1">VIVER BEM</a></h2><div class="header-main-search"><a href="#busca"><img loading="lazy" src="/themes/default/assets/img/svg/searchicon.svg" style="width:16px;height:16px" alt="searchicon"></a><div class="lightbox animate fadeInRight" id="busca"><div class="mw-searchbox"><div class="mw-li-header mw-li-header-search-box animate fadeInRight"><img loading="lazy" src="/themes/default/assets/img/icons/search-icon.svg" alt="" class="mw-icon-generic mw-icon-header-search mw-search-button"><input type="text" placeholder="BUSCAR" class="mw-input-search-box mw-top-tex"><img loading="lazy" src="/themes/default/assets/img/icons/loading-3.gif" style="height:23px;display:none;position:absolute;right:10px" class="loading" alt="carregando"></div><a href="#">X</a></div></div></div></div></div></header><div class="publiforafora" style="min-height:350px"><div id="div-gpt-ad-1664228838332-0" style="min-width:1200px;min-height:250px"><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664228838332-0'); });
+						</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><main class="mw-page-article" data-article-id="525356" data-category-id="309482" data-generator="Elite CS - Web Text"><div class="mw-article-container"><div class="mw-article-body"><div class="mw-article-data"><article class="mw-article-header"><h1 id="mw-article-title">Dia do Doador de Sangue: confira 5 razões para fazer a doação</h1><h2 id="mw-article-subtitle">Nesta sexta (14/6), é lembrada a importância da doação de sangue. Com pouco trabalho e sem nenhum prejuízo, os voluntários salvam vidas</h2><div class="mw-article-dateinfo"><img loading="lazy" src="/themes/default/assets/img/svg/relogio.svg" style="width:17px;height:17px" alt="relogio"><h3><strong>Publicado: </strong>14/06/2024, 18:45</h3></div><figure class="mw-article-head-image" style="min-height:380px" data-article-id="525356"><img fetchpriority="high" src="https://cdn.arede.info/img/cover/520000/1000x500/skillful-nurse-is-doing-blood-test-man-clinic-man-_00525356_0_202406141845.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fcover%2F520000%2Fskillful-nurse-is-doing-blood-test-man-clinic-man-_00525356_0_202406141845.jpg%3Fxid%3D1774594%26resize%3D1000%252C500%26t%3D1736851786&amp;xid=1774594" alt="Com pouco trabalho e sem nenhum prejuízo, os voluntários salvam vidas" style="width:100%;object-fit:cover" data-cls=""></figure><div class="mw-image-info"><span class="mw-image-description">Com pouco trabalho e sem nenhum prejuízo, os voluntários salvam vidas - <label class="mw-image-author">Foto: Reprodução/Freepik</label></span></div><div class="mw-share-social"><div class="mw-share-author"><h3>Da Redação</h3><a href="https://news.google.com/publications/CAAqBwgKMIvitwswmP3OAw?ceid=BR:pt-419&amp;oc=3&amp;hl=pt-BR&amp;gl=BR" target="_blank" style="background-color:#056165">@Siga-me</a></div><div class="mw-share-buttons"><a href="https://news.google.com/publications/CAAqBwgKMIvitwswmP3OAw?ceid=BR:pt-419&amp;oc=3&amp;hl=pt-BR&amp;gl=BR"><img loading="lazy" src="/themes/default/assets/img/logo_g.svg" alt="Google Notícias"></a> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmwl.press%2FAR525356" title="Compartilhar no Facebook" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_f.svg" alt="facebook"></a> <a href="https://www.instagram.com/arede.info/" target="_blank" title="Compartilhar no Instagram" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_i.svg" alt="twitter"></a> <a href="https://twitter.com/intent/tweet?text=Dia%20do%20Doador%20de%20Sangue%3A%20confira%205%20raz%C3%B5es%20para%20fazer%20a%20doa%C3%A7%C3%A3o&amp;url=https%3A%2F%2Fmwl.press%2FAR525356" target="_blank" title="Compartilhar no Twitter" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_t.svg" alt="twitter"></a> <a href="https://telegram.me/share/?text=Dia do Doador de Sangue: confira 5 razões para fazer a doação&amp;url=https://mwl.press/AR525356" target="_blank" title="Compartilhar no Telegram" class="mw-social-btn" rel="nofollow, noopener, noindex" aria-label="Compartilhar no Telegram"><img loading="lazy" src="/themes/default/assets/img/logo_te.svg" alt="telegram"></a> <a href="https://api.whatsapp.com/send?text=Dia%20do%20Doador%20de%20Sangue%3A%20confira%205%20raz%C3%B5es%20para%20fazer%20a%20doa%C3%A7%C3%A3o%3A%20https%3A%2F%2Fmwl.press%2FAR525356" target="_blank" title="Compartilhar no Whatsapp" class="mw-social-btn" rel="nofollow, noopener, noindex" aria-label="Compartilhar no Whatsapp"><img loading="lazy" src="/themes/default/assets/img/logo_w.svg" alt="whatsapp"></a> <a href="/cdn-cgi/l/email-protection#417e3234232b2422357c00132425247b6105282061252e61052e20252e336125246112202f2634247b61222e2f2728332061746133203b67627375747a243261312033206127203b2433612061252e2067627372707a67627373767a2e67232e25387c29353531327b6e6e2c362d6f31332432326e0013747374727477" title="Compartilhar no E-mail"><img loading="lazy" src="/themes/default/assets/img/logo_e.svg" alt="email"></a></div></div></article><div id="mw-article-content"><div id="banner_desk_5" class="publiforafora" style="display:none"><div id="div-gpt-ad-1664229229111-0" style="min-width:300px;min-height:250px"><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+											googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229229111-0'); });
+										</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div id="banner_desk_6" class="publiforafora" style="display:none"><div id="div-gpt-ad-1664229270368-0" style="min-width:300px;min-height:250px"><script>
+											googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229270368-0'); });
+										</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><p>A doação de sangue é um gesto altruísta e voluntário que pode salvar muitas vidas. Em pouco tempo e sem muita preparação, é possível doar cerca de 450 ml de sangue, que representa apenas uma fração do total de sangue que circula no corpo de um adulto. Em 24h, o volume é reposto pelo organismo.</p><p>Nesta sexta (14/6), comemora-se o Dia Mundial do Doador de Sangue. Ainda em dúvida sobre por que se dirigir ao Hemocentro ou a um banco de sangue? Confira cinco razões para fazer a doação:</p><p><b>Ajuda pelo menos quatro pessoas</b></p><p>De acordo com o Ministério da Saúde, cada bolsa de doação pode salvar a vida de até quatro pessoas. O sangue é separado em vários componentes (hemácias, plaquetas e plasma), que serão direcionados para vários pacientes com necessidades distintas.</p><p>Até o momento, a ciência não conseguiu desenvolver tecnologia suficiente para recriar o sangue em laboratório — são muitas células diferentes com funções complexas que precisariam ser cultivadas para que o paciente recebesse o composto e não sofresse danos à saúde. Por isso, a doação entre humanos ainda é essencial para quem precisa receber sangue.</p><p><b>Permite a realização de cirurgias e auxilia pacientes que sofreram acidentes graves</b></p><p>Alguns dos usuários mais urgentes dos bancos são pessoas que sofreram graves traumas e perderam muito sangue. Cirurgias emergenciais, obrigatórias e eletivas também precisam de bolsas de sangue de prontidão para ajudar na recuperação do paciente.</p><p>Quando o estoque de sangue está baixo, a rede de saúde pode precisar suspender as cirurgias até que os níveis sejam repostos.</p><p><b>Ajuda pacientes&nbsp; que precisam de transfusão frequente de sangue</b></p><p>Pacientes com algumas condições de saúde, como doença falciforme, hemofilia, câncer e queimaduras, precisam de transfusões frequentes de sangue para repor algumas células.</p><p>Na doença falciforme, por exemplo, as hemácias do indivíduo têm um formato diferenciado, que não consegue transportar bem o oxigênio — por isso, é necessária a transfusão das células vermelhas. Pacientes com dengue grave, por outro lado, podem precisar de plaquetas, que auxiliam na coagulação do sangue.</p><p>Pela alta demanda, é importante que o banco de sangue esteja sempre abastecido. Para isso, a doação é essencial.</p><p><b>Ajuda bebês prematuros internados</b></p><p>Em alguns casos, bebês prematuros com anemia podem precisar receber o chamado concentrado de hemácias. A transfusão de células vermelhas do sangue ajuda no transporte de oxigênio, e contribui para a recuperação e crescimento da criança.</p><p>As hemácias, nesse caso, são provenientes de doações de adultos. “Adultos podem doar para bebês prematuros. A doação ajuda a salvar vidas de crianças recém-nascidas que apresentam anemia severa, principalmente os internados com necessidade de cuidados intensivos em UTI”, explica a hematologista Marielle Fraga Salenave, do Hospital Santa Lucia, em Brasília.</p><p><b>Benefícios para a saúde do doador</b></p><p>Praticar boas ações fortalece a saúde mental: estudos mostram que se voluntariar para realizar algo estimula os centros de recompensa do cérebro, diminui o estresse e até ameniza sintomas de depressão.</p><p>“O doador tem o benefício de salvar vidas! Ajudar o próximo traz mais felicidade e uma sensação de bem estar”, afirma Marielle.</p><p>Existem pontos positivos até para a saúde física. Uma pesquisa publicada no American Journal of Epidemiology mostra que doadores regulares de sangue podem ter uma redução de até 88% no risco de problemas cardíacos pela eliminação do excesso de ferro no organismo.</p><p>A retirada de sangue também promove a renovação celular, diminuindo o risco de alguns tipos de doença. O doador também recebe os resultados do exame de sífilis, hepatites B e C e HIV das amostras gratuitamente.</p><p><b>Doe sangue!</b></p><p>Convencido? Para doar é preciso ter entre 16 e 69 anos de idade (o menor de 18 precisa de autorização dos pais), pesar mais de 51 quilos e ter IMC maior ou igual a 18,5.</p><p>O doador deve apresentar um documento de identificação, dormir bem à noite, comer uma refeição saudável e não gordurosa, não ingerir bebida alcoólica nas 12h antes da doação ou fumar 2h antes. É importante verificar no site do Hemocentro sobre as condições que impedem a doação.</p><p>Todas as doações passam por exames sorológicos para rastrear algumas doenças, e serão descartadas caso estejam contaminadas. Antes do procedimento, o voluntário precisa responder um questionário e ser o mais sincero possível. No fim da doação, o indivíduo recebe um atestado médico abonando um dia de trabalho. Em alguns estados, o doador ganha desconto na inscrição de concursos públicos.</p><p><i>Com informações do portal <a href="https://www.metropoles.com/saude/confira-5-razoes-para-doar-sangue">Metrópoles</a></i></p></div><div><div class="article-footer-infos"><div class="article-info-whatsapp"><h2>TUDO SOBRE</h2></div><div class="article-info-tags"><small><a href="/tags/arede">arede</a></small> <small><a href="/tags/dia-mundial-do-doador-de-sangue">dia mundial do doador de sangue</a></small> <small><a href="/tags/doacao-de-sangue">doação de sangue</a></small> <small><a href="/tags/saude">Saúde</a></small> <small><a href="/tags/viver-bem">Viver Bem</a></small></div><div class="article-info-whatsapp"><h2>COMPARTILHAR</h2></div><div class="mw-share-buttons"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmwl.press%2FAR525356" title="Compartilhar no Facebook" target="_blank" rel="noopener noreferrer"><img loading="lazy" style="width:50px" src="/themes/default/assets/img/logo_f.svg" alt="facebook"></a> <a href="https://www.instagram.com/arede.info/" target="_blank" title="Compartilhar no Instagram" rel="noopener noreferrer"><img loading="lazy" style="width:50px" src="/themes/default/assets/img/logo_i.svg" alt="twitter"></a> <a href="https://twitter.com/intent/tweet?text=Dia%20do%20Doador%20de%20Sangue%3A%20confira%205%20raz%C3%B5es%20para%20fazer%20a%20doa%C3%A7%C3%A3o&amp;url=https%3A%2F%2Fmwl.press%2FAR525356" target="_blank" title="Compartilhar no Twitter" rel="noopener noreferrer"><img loading="lazy" style="width:50px" src="/themes/default/assets/img/logo_t.svg" alt="twitter"></a> <a href="https://api.whatsapp.com/send?text=Dia do Doador de Sangue: confira 5 razões para fazer a doação,+confira em+https://mwl.press/AR525356" target="_blank" title="Compartilhar no Whatsapp" class="mw-social-btn" rel="nofollow, noopener, noindex" aria-label="Compartilhar no Whatsapp"><img loading="lazy" style="width:50px" src="/themes/default/assets/img/logo_w.svg" alt="whatsapp"></a> <a href="https://telegram.me/share/?text=Dia do Doador de Sangue: confira 5 razões para fazer a doação&amp;url=https://mwl.press/AR525356" target="_blank" title="Compartilhar no Telegram" class="mw-social-btn" rel="nofollow, noopener, noindex" aria-label="Compartilhar no Telegram"><img loading="lazy" style="width:50px" src="/themes/default/assets/img/logo_te.svg" alt="telegram"></a> <a href="/cdn-cgi/l/email-protection#aa95d9dfc8c0cfc9de97ebf8cfcecf908aeec3cb8acec58aeec5cbcec5d88acecf8af9cbc4cddfcf908ac9c5c4ccc3d8cb8a9f8ad8cbd08c89989e9f91cfd98adacbd8cb8acccbd0cfd88acb8acec5cb8c8998999b918c8998989d91c58cc8c5ced397c2dededad9908585c7ddc684dad8cfd9d985ebf89f989f999f9c" title="Compartilhar no E-mail"><img loading="lazy" style="width:50px" src="/themes/default/assets/img/logo_e.svg" alt="email"></a></div><div class="article-info-whatsapp"><h2>INTERAGIR</h2></div><div class="whatsapp-box"><a href="https://api.whatsapp.com/send?phone=5542991184382" target="_blank">RELATAR ERROS</a> <a href="/grupos-do-whatsapp" target="_blank">RECEBER NOTÍCIAS NO WHATS</a> <a href="https://api.whatsapp.com/send?phone=5542991184382" target="_blank">FALAR COM A GENTE</a></div></div></div><div class="grid-footer-article"><article class="varandaDasMarcasArticle"><header><h2>CONTEÚDO DE MARCA</h2></header><div class="varandaDasMarcasArticle-container"><div class="varadanacoluna"><a href="/publieditorial/554467/planalto-select-hotel-tem-desconto-exclusivo-para-ponta-grossenses"><div class="varanda-wrapper-img"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/WhatsApp-Image-2025-01-10-at-174752_00554467_0_202501101758.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FWhatsApp-Image-2025-01-10-at-174752_00554467_0_202501101758.jpg%3Fxid%3D1926052&amp;xid=1926052" alt="" class="capa-manchetes-img varanda-das-marcas-box-img" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Planalto Select Hotel tem desconto exclusivo para ponta-grossenses</h2></div></a><hr><a href="/publieditorial/554469/lca-inicia-2025-com-grandes-promocoes-em-produtos-selecionados"><div class="varanda-wrapper-img"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/WhatsApp-Image-2025-01-09-at-155333_00554469_0_202501101524.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FWhatsApp-Image-2025-01-09-at-155333_00554469_0_202501101524.jpg%3Fxid%3D1925713&amp;xid=1925713" alt="" class="capa-manchetes-img varanda-das-marcas-box-img" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>LCA inicia 2025 com grandes promoções em produtos selecionados</h2></div></a><hr></div><hr class="linhavertigal"><div class="varadanacoluna"><a href="/publieditorial/553935/premium-vila-velha-e-hotel-de-referencia-para-viagens-a-turismo-em-pg"><div class="varanda-wrapper-img"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/WhatsApp-Image-2025-01-07-at-155953_00553935_0_202501071609.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FWhatsApp-Image-2025-01-07-at-155953_00553935_0_202501071609.jpg%3Fxid%3D1923584&amp;xid=1923584" alt="" class="capa-manchetes-img varanda-das-marcas-box-img" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Premium Vila Velha é hotel de referência para viagens a turismo em PG</h2></div></a><hr><a href="/publieditorial/553100/chocolollow-e-casa-das-aguas-desejam-a-todos-um-feliz-ano-novo"><div class="varanda-wrapper-img"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/Duas-pessoas-7_00553100_0_202412301607.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FDuas-pessoas-7_00553100_0_202412301607.png%3Fxid%3D1919793&amp;xid=1919793" alt="" class="capa-manchetes-img varanda-das-marcas-box-img" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Chocolollow e Casa das Águas desejam a todos um feliz Ano Novo</h2></div></a><hr></div></div><div class="QueroVerMaisArticle"><a href="https://arede.info/contato" target="_blank"><span>Quero divulgar<img loading="lazy" src="/themes/default/assets/img/svg/rightblack.svg" alt="right" style="height:8px;width:10px;padding-left:5px"></span></a> <a href="/publieditorial?d=1"><div class="bottonVerMais"><span>Ver mais<img loading="lazy" src="/themes/default/assets/img/svg/rightblack.svg" alt="right" style="height:8px;width:10px;padding-left:5px"></span></div></a></div></article></div></div></div><div class="mw-aside-article"><div class="mw-maislidasarticle relacionadas manchetes-chamadas"><div><header><img loading="lazy" style="width:34px;height:34px" src="/themes/default/assets/img/SVG/maislidasSVG.svg" alt="Mais"> <h2 class="mw-insert-category-name">MAIS VIVER BEM</h2></header><div class="maislidas-div" data-article-id="554711"><a href="/viverbem/554711/burnout-em-alta-como-identificar-os-sinais-e-buscar-ajuda-profissional"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/busy-office-people-and-a-black-woman-with-a-heada-_00554711_0_202501131354.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2Fbusy-office-people-and-a-black-woman-with-a-heada-_00554711_0_202501131354.jpg%3Fxid%3D1927147&amp;xid=1927147" alt="Burnout em alta: como identificar os sinais e buscar ajuda profissional" class="capa-manchetes-img" style="object-fit:cover"> <h2>Burnout em alta: como identificar os sinais e buscar ajuda profissional</h2></a></div><div class="maislidas-div" data-article-id="554708"><a href="/viverbem/554708/artista-colombiano-retrata-ponta-grossa-em-quadro"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/3fada603-90da-4d87-9844-61d10a94e0a7_00554705_0_202501131207.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2F3fada603-90da-4d87-9844-61d10a94e0a7_00554705_0_202501131207.jpg%3Fxid%3D1927120&amp;xid=1927120" alt="Artista colombiano retrata Ponta Grossa em quadro" class="capa-manchetes-img" style="object-fit:cover"> <h2>Artista colombiano retrata Ponta Grossa em quadro</h2></a></div><div class="maislidas-div" data-article-id="554452"><a href="/viverbem/554452/peca-o-palhaco-e-a-bailarina-traz-alegria-a-estacao-saudade"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/WhatsApp-Image-2025-01-10-at-091009_00554436_0_202501101005.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FWhatsApp-Image-2025-01-10-at-091009_00554436_0_202501101005.jpg%3Fxid%3D1925755&amp;xid=1925755" alt="Peça 'O Palhaço e a Bailarina' traz alegria à Estação Saudade" class="capa-manchetes-img" style="object-fit:cover"> <h2>Peça 'O Palhaço e a Bailarina' traz alegria à Estação Saudade</h2></a></div><div class="maislidas-div" data-article-id="554436"><a href="/ao-vivo/554436/o-palhaco-e-a-bailarina-hoje-no-sesc-estacao-saudade"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/WhatsApp-Image-2025-01-10-at-091009_00554436_0_202501101005.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FWhatsApp-Image-2025-01-10-at-091009_00554436_0_202501101005.jpg%3Fxid%3D1925334&amp;xid=1925334" alt="‘O Palhaço e a Bailarina’, hoje no Sesc Estação Saudade" class="capa-manchetes-img" style="object-fit:cover"> <h2>‘O Palhaço e a Bailarina’, hoje no Sesc Estação Saudade</h2></a></div><div class="maislidas-div" data-article-id="554282"><a href="/viverbem/554282/beleza-natural-e-tendencia-para-o-ano-diz-dermatologista"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/charming-woman-with-white-flower-dark-hair-smiles-_00554282_0_202501091255.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2Fcharming-woman-with-white-flower-dark-hair-smiles-_00554282_0_202501091255.jpg%3Fxid%3D1924883&amp;xid=1924883" alt="Beleza Natural é tendência para o ano, diz dermatologista" class="capa-manchetes-img" style="object-fit:cover"> <h2>Beleza Natural é tendência para o ano, diz dermatologista</h2></a></div><div class="maislidas-div" data-article-id="554273"><a href="/viverbem/554273/brasil-e-o-quarto-pais-mais-estressado-aprenda-a-relaxar"><img loading="lazy" src="https://cdn.arede.info/img/normal/550000/140x90/ESTRESSE_00554273_0_202501091053.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FESTRESSE_00554273_0_202501091053.jpg%3Fxid%3D1924727&amp;xid=1924727" alt="Brasil é o quarto país mais estressado; aprenda a relaxar" class="capa-manchetes-img" style="object-fit:cover"> <h2>Brasil é o quarto país mais estressado; aprenda a relaxar</h2></a></div></div><div class="ultimasnoticiasMais"><div id="LogoUltimasNoticias"></div><a href="/viverbem"><span>Ver mais <img loading="lazy" src="/themes/default/assets/img/svg/rightblack.svg" alt="right" style="height:8px;width:11px;padding-left:5px"></span></a></div></div><div style="grid-column:span 3;height:100px;background-color:#2ea34b;border-radius:15px;display:flex;align-items:center;padding:20px;gap:1.5em;border:3px solid #fff;outline:3px solid #2ea34b;align-self:center"><a href="https://arede.info/grupos-do-whatsapp"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="#ffffff" class="bi bi-whatsapp" viewBox="0 0 16 16"><path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"></path></svg></a> <a href="https://arede.info/grupos-do-whatsapp"><div style="font-size:21px;color:#fff;font-family:'GuardianSans-Medium'"><p>Participe de nossos</p><b>Grupos de Whatsapp</b></div></a></div><div class="publi_article-position"><div id="div-gpt-ad-1664229533929-0" style="min-width:300px;min-height:600px"><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+										googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229533929-0'); });
+									</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div></div></div></main><div class="container-publicidades" style="display:none"><div class="publiforafora" id="ad1" style="display:none"><div id="div-gpt-ad-1666120934730-0" style="min-width:950px;min-height:250px"><script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1666120934730-0'); });
+						</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div class="publiforafora" id="ad2" style="display:none"><div id="div-gpt-ad-1664229021857-0" style="min-width:950px;min-height:250px"><script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229021857-0'); });
+						</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div id="ad-aside" style="display:none"><div id="div-gpt-ad-1664229487592-0" style="min-width:300px;min-height:250px"><script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229487592-0'); });
+						</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div class="publiforafora" id="ad3" style="display:none"><div id="div-gpt-ad-1664229086255-0" style="min-width:950px;min-height:250px"><script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229086255-0'); });
+						</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div class="publiforafora" id="ad4" style="display:none"><div id="div-gpt-ad-1664229136816-0" style="min-width:950px;min-height:250px"><script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229136816-0'); });
+						</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div class="publiforafora" id="ad5" style="display:none"><div id="div-gpt-ad-1664230185083-0" style="min-width:300px;min-height:90px"><script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664230185083-0'); });
+					</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div class="publiforafora" id="ad6" style="display:none"><div id="div-gpt-ad-1664230335200-0" style="min-width:300px;min-height:600px"><script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664230335200-0'); });
+					</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div></div><section id="more-content-article"></section><main class="mw-page-article"><article class="article-varanda-das-marcas"><h2>Conteúdo de marca</h2><a href="https://arede.info/contato" target="_blank"><h3>Quero divulgar <img loading="lazy" src="/themes/default/assets/img/svg/rightblack.svg" alt="right" style="height:8px;padding-left:5px"></h3></a><div class="varanda-das-marcas-content"><div class="varanda-das-marcas-box"><a href="/publieditorial/553097/planalto-select-hotel-tem-desconto-exclusivo-para-ponta-grossenses"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/Fachada-wireless-Planalto-Select-Hotel-com-Lumen_00553097_0_202412301552.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FFachada-wireless-Planalto-Select-Hotel-com-Lumen_00553097_0_202412301552.jpg%3Fxid%3D1919598&amp;xid=1919598" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Planalto Select Hotel tem desconto exclusivo para ponta-grossenses</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/552731/balaroti-vende-abaixo-do-preco-de-custo-na-mega-campanha-da-virada"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/bala_00552731_0_202412262005.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2Fbala_00552731_0_202412262005.jpg%3Fxid%3D1918213&amp;xid=1918213" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Balaroti vende abaixo do preço de custo na 'Mega Campanha da Virada'</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/552173/medvitae-realiza-acoes-de-conscientizacao-sobre-o-cancer-de-pele"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/WhatsApp-Image-2024-12-20-at-095957_00552173_0_202412201558.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FWhatsApp-Image-2024-12-20-at-095957_00552173_0_202412201558.jpg%3Fxid%3D1916032&amp;xid=1916032" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Medvitae realiza ações de conscientização sobre o câncer de pele</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/ponta-grossa/552189/senac-oferece-curso-de-desenvolvimento-de-sistemas-em-pg"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/5232058906994319548cdo_00552189_0_202412201744.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2F5232058906994319548cdo_00552189_0_202412201744.jpg%3Fxid%3D1916264&amp;xid=1916264" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Senac oferece curso de Desenvolvimento de Sistemas em PG</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/552184/hotel-planalto-e-opcao-ideal-de-hospedagem-para-quem-viaja-a-pg"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/197-Aonj_00552184_0_202412201640.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2F197-Aonj_00552184_0_202412201640.jpg%3Fxid%3D1916166&amp;xid=1916166" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Hotel Planalto é opção ideal de hospedagem para quem viaja a PG</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/552082/balaroti-tera-toda-a-loja-com-produtos-a-preco-de-custo-nesta-sexta-feira"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/520000/387x230/Balaroti-Capa_00524790_0_202406111515.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F520000%2FBalaroti-Capa_00524790_0_202406111515.jpg%3Fxid%3D1915496&amp;xid=1915496" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Balaroti terá toda a loja com produtos a preço de custo nesta sexta-feira</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/552074/superstore-faz-a-maior-queima-de-estoque-da-apple-neste-natal"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/Novo-Projeto-5_00552074_0_202412191949.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FNovo-Projeto-5_00552074_0_202412191949.jpg%3Fxid%3D1915554&amp;xid=1915554" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>SuperStore faz a maior queima de estoque da Apple neste Natal</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/551060/centro-hospitalar-sao-camilo-tera-cantata-de-natal"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/CANTATA-NATAL_00551060_0_202412121354.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FCANTATA-NATAL_00551060_0_202412121354.jpg%3Fxid%3D1910832&amp;xid=1910832" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Centro Hospitalar São Camilo terá Cantata de Natal</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550729/pg-tera-feirao-de-carros-com-condicoes-especiais-no-fim-de-semana"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/FEIRAO-2_00550729_0_202412101539.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FFEIRAO-2_00550729_0_202412101539.jpg%3Fxid%3D1908993&amp;xid=1908993" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>PG terá feirão de carros com condições especiais no fim de semana</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550570/fisiodontomed-realiza-semana-do-botox-com-procedimentos-esteticos"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/Botox-1_00550570_0_202412091736.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FBotox-1_00550570_0_202412091736.jpg%3Fxid%3D1908435&amp;xid=1908435" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Fisiodontomed realiza ‘Semana do Botox’ com procedimentos estéticos</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550363/verzaska-lanca-maior-colecao-de-natal-e-conquista-coracao-de-pg"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/Verzaska-1_00550363_0_202412061842.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FVerzaska-1_00550363_0_202412061842.jpg%3Fxid%3D1907364&amp;xid=1907364" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Verzaska lança maior coleção de Natal e conquista coração de PG</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550344/esquadrias-schalon-apresenta-sua-nova-linha-em-pvc"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/ESQUADRIAS_00550344_0_202412061655.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FESQUADRIAS_00550344_0_202412061655.jpg%3Fxid%3D1907179&amp;xid=1907179" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Esquadrias Schalon apresenta sua nova linha em PVC</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550186/balaroti-vende-produtos-a-preco-de-custo-nesta-sexta-em-ponta-grossa"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/Balaroti-1_00550186_0_202412052048.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FBalaroti-1_00550186_0_202412052048.jpg%3Fxid%3D1906459&amp;xid=1906459" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Balaroti vende produtos a preço de custo nesta sexta, em Ponta Grossa</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550173/princesa-assistencia-apoia-festa-de-natal-para-celebrar-a-inclusao"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/natalpicole-1_00550173_0_202412051852.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2Fnatalpicole-1_00550173_0_202412051852.png%3Fxid%3D1906201&amp;xid=1906201" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Princesa Assistência apoia festa de Natal para celebrar a inclusão</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550121/infosystem-smart-inaugura-loja-em-ponta-grossa-neste-sabado"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/Infosystem_00550121_0_202412051023.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FInfosystem_00550121_0_202412051023.jpg%3Fxid%3D1905758&amp;xid=1905758" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>InfoSystem Smart inaugura loja em Ponta Grossa neste sábado</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/550143/zecel-vai-sortear-brindes-especiais-aos-clientes-a-cada-r-100-em-compras"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/550000/387x230/WhatsApp-Image-2024-02-14-at-140710_00550143_0_202412051538.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F550000%2FWhatsApp-Image-2024-02-14-at-140710_00550143_0_202412051538.jpg%3Fxid%3D1905994&amp;xid=1905994" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Zecel vai sortear brindes especiais aos clientes a cada R$ 100 em compras</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/549617/curso-tecnico-de-gastronomia-do-senac-tem-inscricoes-abertas"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/540000/387x230/Senac-1_00549617_0_202412021447.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F540000%2FSenac-1_00549617_0_202412021447.jpg%3Fxid%3D1903476&amp;xid=1903476" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Curso técnico de Gastronomia do Senac tem inscrições abertas</h2></div></a></div><div class="varanda-das-marcas-box"><a href="/publieditorial/549365/premium-vila-velha-hotel-recebe-selo-de-qualidade-no-turismo"><div class="varanda-wrapper-img"><img loading="lazy" class="varanda-das-marcas-box-img" src="https://cdn.arede.info/img/normal/540000/387x230/Premium-Vila-Velha-Hotel-1_00549365_0_202411282136.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fnormal%2F540000%2FPremium-Vila-Velha-Hotel-1_00549365_0_202411282136.jpg%3Fxid%3D1901724&amp;xid=1901724" alt="" style="object-fit:cover"></div><div class="varanda-wrapper-text"><h2>Premium Vila Velha Hotel recebe ‘Selo de Qualidade no Turismo’</h2></div></a></div></div><div class="QueroVerMais"><a href="/publieditorial?d=1"><h3><span>Ver mais<img loading="lazy" src="/themes/default/assets/img/svg/rightblack.svg" alt="right" style="height:8px;padding-left:5px"></span></h3></a></div></article></main><div class="publiforafora"><div id="div-gpt-ad-1664229186421-0" style="min-width:950px;min-height:250px"><script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1664229186421-0'); });
+					</script></div><span style="text-align:center;letter-spacing:5px;color:#bbb" class="span-publicidade">PUBLICIDADE</span></div><div id="cookie-banner-lgpd" class="cookie-banner-lgpd-visible cookie-banner-lgpd-animated"><div><div><p>Este site usa cookies e dados pessoais de acordo com os nossos <a href="/politica-de-privacidade" target="_blank">Termos de Uso e Política de Privacidade</a> e, ao continuar navegando neste site, você declara estar ciente dessas condições.</p></div><div><a href="#" class="btn-continuar"><b>CONTINUAR</b></a></div></div></div><footer class="footer-section"><div class="footer-wrapper-all"><header><img loading="lazy" class="logo-footer" src="/themes/default/assets/img/logo_amarelo.png" alt="logo"><div class="footer-social-links"><div class="mw-share-buttons-aside" style="filter:brightness(1) invert(1)"><a href="https://www.facebook.com/aredeinfo/" title="Facebook ARede" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_f.svg" alt="facebook"></a> <a href="https://www.instagram.com/arede.info/" target="_blank" title="Instagram" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_i.svg" alt="instagram"></a> <a href="https://www.youtube.com/c/aRedeinfo_Aconteceu_ta_na_rede" target="_blank" title="Visite nosso canal no Youtube" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_y.svg" alt="youtube"></a> <a href="https://twitter.com/aredeinfo" target="_blank" title="Compartilhar no Twitter" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_t.svg" alt="twitter"></a> <a href="https://api.whatsapp.com/send?phone=554291240530" target="_blank" title="Whatsapp" class="mw-social-btn" rel="nofollow, noopener, noindex" aria-label="Compartilhar no Whatsapp"><img loading="lazy" src="/themes/default/assets/img/logo_w.svg" alt="whatsapp"></a> <a href="/cdn-cgi/l/email-protection#d4eba7a1b6beb1b7a0e99586b1b0b1eef2b6bbb0ade9bca0a0a4a7eefbfbb9a3b8faa4a6b1a7a7fb9586e1e6e1e7e1e2" title="Compartilhar no E-mail"><img loading="lazy" src="/themes/default/assets/img/logo_e.svg" alt="email"></a></div></div></header><section class="footer-main"><div class="footer-wrapper-left"><div class="footer-main-links"><div class="footer-ul-wrapper"><ul class="menufooter-ul"><div><h3>Editorias</h3></div><li><a href="/Ultimas">Últimas Notícias</a></li><li><a href="/ponta-grossa">Ponta Grossa</a></li><li><a href="/curitibaermc">Curitiba e RMC</a></li><li><a href="/campos-gerais">Campos Gerais</a></li><li><a href="/editorias/cotidiano">Cotidiano</a></li><li><a href="/mix">Mix</a></li><li><a href="#empty">Viver Bem</a></li><li><a href="arede.info/bom-dia-astral">Horóscopo</a></li><li><a href="/esporte">Esportes</a></li><li><a href="/vamos-ler">Vamos Ler</a></li><li><a href="/webseries">Webséries</a></li><li><a href="/a-forca-do-agro">Agronegócio</a></li><li><a href="/seu-direito">Seu Direito</a></li></ul><ul class="menufooter-ul"><div><h3>Seções</h3></div><li><a href="/aredePlay">aRedePlay</a></li><li><a href="/aredenews">aRedeNews</a></li><li><a href="/webstories">Web Stories</a></li><li><a href="/bom-dia-astral">Bom dia Astral</a></li><li><a href="/previsao-do-tempo">Tempo</a></li><li><a href="/empregos">Empregos</a></li><li><a href="/publieditorial">Conteúdo de marca</a></li><li><a href="/obituario">Obituário</a></li></ul></div><div class="footer-ul-wrapper"><ul class="menufooter-ul"><h3>Projetos</h3><li><a href="/vamos-ler">Vamos Ler - Geração Digital</a></li><li><a href="/anuario-caminhos">Anuário Caminhos dos Campos Gerais</a></li><li><a href="/revista">Revista Ponta Grossa Competitiva</a></li><li><a href="/o-melhor-da-educacao">Painel Digital 'O Melhor da Educação'</a></li><li><a href="">Anuário do Direito</a></li><li><a href="/cross-duathlon">Cross Duathlon Ponta Grossa</a></li></ul></div><ul class="menufooter-ul"><div><h3>Institucional</h3></div><svg class="svg-inline--fa fa-comments fa-w-18" style="color:#fff;width:100px;margin:11px 30px" aria-hidden="true" data-prefix="fas" data-icon="comments" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M224 358.857c-37.599 0-73.027-6.763-104.143-18.7-31.375 24.549-69.869 39.508-110.764 43.796a8.632 8.632 0 0 1-.89.047c-3.736 0-7.111-2.498-8.017-6.061-.98-3.961 2.088-6.399 5.126-9.305 15.017-14.439 33.222-25.79 40.342-74.297C17.015 266.886 0 232.622 0 195.429 0 105.16 100.297 32 224 32s224 73.159 224 163.429c-.001 90.332-100.297 163.428-224 163.428zm347.067 107.174c-13.944-13.127-30.849-23.446-37.46-67.543 68.808-64.568 52.171-156.935-37.674-207.065.031 1.334.066 2.667.066 4.006 0 122.493-129.583 216.394-284.252 211.222 38.121 30.961 93.989 50.492 156.252 50.492 34.914 0 67.811-6.148 96.704-17 29.134 22.317 64.878 35.916 102.853 39.814 3.786.395 7.363-1.973 8.27-5.467.911-3.601-1.938-5.817-4.759-8.459z"></path></svg><li><a href="/contato-publicidade">Anunciar Grupo aRede</a></li><li><a href="/contato">Fale Conosco</a></li><li><a href="/politica-de-privacidade">Política de Privacidade</a></li></ul></div><div class="footer-main-links-2"><div class="footer-main-links-inline"><img src="/themes/default/assets/img/svg/rightyellow.svg" style="width:10px;height:16px" alt="right"> <h3>Plataformas</h3><li><a href="https://aredeshopping.com.br/">aRedeShopping</a></li><li><a href="http://aredenegocios.com.br/">aRedeNegócios</a></li><li><a href="https://arede.info/jornaldamanha">Jornal da Manhã</a></li></div><div class="footer-description"><h4>Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem prévia autorização.</h4></div></div></div><div class="footer-wrapper-right"><img loading="lazy" src="/themes/default/assets/img/logorodape-2.png" alt="logorodape"> <h4>Grupo aRede</h4><h4>Copyright © 2013 - 2025</h4><h4>Todos os direitos reservados.</h4></div></section></div><div class="footer-mobile"><header><img loading="lazy" class="logo-footer" src="/themes/default/assets/img/logo_amarelo.png" alt="logo"><div class="footer-social-links"><div class="mw-share-buttons-aside" style="filter:brightness(1) invert(1)"><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmwl.press%2FAR525356" title="Compartilhar no Facebook" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_f.svg" alt="facebook"></a> <a href="https://www.instagram.com/arede.info/" target="_blank" title="Compartilhar no Instagram" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_i.svg" alt="instagram"></a> <a href="https://twitter.com/intent/tweet?text=Dia%20do%20Doador%20de%20Sangue%3A%20confira%205%20raz%C3%B5es%20para%20fazer%20a%20doa%C3%A7%C3%A3o&amp;url=%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20https%3A%2F%2Fmwl.press%2FAR525356%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20" target="_blank" title="Compartilhar no Twitter" rel="noopener noreferrer"><img loading="lazy" src="/themes/default/assets/img/logo_t.svg" alt="twitter"></a> <a href="https://api.whatsapp.com/send?text=Dia do Doador de Sangue: confira 5 razões para fazer a doação,+confira em+https://mwl.press/AR525356" target="_blank" title="Compartilhar no Whatsapp" class="mw-social-btn" rel="nofollow, noopener, noindex" aria-label="Compartilhar no Whatsapp"><img loading="lazy" src="/themes/default/assets/img/logo_w.svg" alt="whatsapp"></a></div></div></header><div class="footer-ul-wrapper-mobile"><h2><img loading="lazy" style="margin-right:5px;width:10px;height:16px" src="/themes/default/assets/img/svg/rightyellow.svg" alt="right"> PORTAL AREDE</h2><div class="footer-ul-wrapper"><ul class="menufooter-ul"><h3>Editorias</h3><li><a href="/Ultimas">Últimas Notícias</a></li><li><a href="/ponta-grossa">Ponta Grossa</a></li><li><a href="/curitibaermc">Curitiba e RMC</a></li><li><a href="/campos-gerais">Campos Gerais</a></li><li><a href="/editorias/cotidiano">Cotidiano</a></li><li><a href="/mix">Mix</a></li><li><a href="#empty">Viver Bem</a></li><li><a href="arede.info/bom-dia-astral">Horóscopo</a></li><li><a href="/esporte">Esportes</a></li><li><a href="/vamos-ler">Vamos Ler</a></li><li><a href="/webseries">Webséries</a></li><li><a href="/a-forca-do-agro">Agronegócio</a></li><li><a href="/seu-direito">Seu Direito</a></li></ul><ul class="menufooter-ul"><h3>Seções</h3><li><a href="/aredePlay">aRedePlay</a></li><li><a href="/aredenews">aRedeNews</a></li><li><a href="/webstories">Web Stories</a></li><li><a href="/bom-dia-astral">Bom dia Astral</a></li><li><a href="/previsao-do-tempo">Tempo</a></li><li><a href="/empregos">Empregos</a></li><li><a href="/publieditorial">Conteúdo de marca</a></li><li><a href="/obituario">Obituário</a></li></ul></div></div><div class="footer-ul-wrapper-mobile"><h2><img loading="lazy" style="margin-right:5px;width:10px;height:16px" src="/themes/default/assets/img/svg/rightyellow.svg" alt="right"> PROJETOS ESPECIAIS</h2><div class="footer-ul-wrapper"><ul class="menufooter-ul"><li><a href="/vamos-ler">Vamos Ler - Geração Digital</a></li><li><a href="/anuario-caminhos">Anuário Caminhos dos Campos Gerais</a></li><li><a href="/revista">Revista Ponta Grossa Competitiva</a></li><li><a href="/o-melhor-da-educacao">Painel Digital 'O Melhor da Educação'</a></li><li><a href="">Anuário do Direito</a></li><li><a href="/cross-duathlon">Cross Duathlon Ponta Grossa</a></li></ul></div></div><div class="footer-ul-wrapper-mobile"><h2><img loading="lazy" style="margin-right:5px;width:10px;height:16px" src="/themes/default/assets/img/svg/rightyellow.svg" alt="right"> PLATAFORMAS</h2><div class="footer-ul-wrapper-a-mobile"><a href="https://aredeshopping.com.br" target="_blank">aRede<span style="font-weight:bold">Shopping</span></a> <a href="https://aredenegocios.com.br" target="_blank">aRede<span style="font-weight:bold">Negócios</span></a> <a href="https://arede.info/jornaldamanha/" target="_blank" style="font-weight:bold">Jornal da Manhã</a></div></div><div class="footer-wrapper-mobile"><svg class="svg-inline--fa fa-comments fa-w-18" style="color:#fff;width:100px;margin-bottom:5px" aria-hidden="true" data-prefix="fas" data-icon="comments" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M224 358.857c-37.599 0-73.027-6.763-104.143-18.7-31.375 24.549-69.869 39.508-110.764 43.796a8.632 8.632 0 0 1-.89.047c-3.736 0-7.111-2.498-8.017-6.061-.98-3.961 2.088-6.399 5.126-9.305 15.017-14.439 33.222-25.79 40.342-74.297C17.015 266.886 0 232.622 0 195.429 0 105.16 100.297 32 224 32s224 73.159 224 163.429c-.001 90.332-100.297 163.428-224 163.428zm347.067 107.174c-13.944-13.127-30.849-23.446-37.46-67.543 68.808-64.568 52.171-156.935-37.674-207.065.031 1.334.066 2.667.066 4.006 0 122.493-129.583 216.394-284.252 211.222 38.121 30.961 93.989 50.492 156.252 50.492 34.914 0 67.811-6.148 96.704-17 29.134 22.317 64.878 35.916 102.853 39.814 3.786.395 7.363-1.973 8.27-5.467.911-3.601-1.938-5.817-4.759-8.459z"></path></svg> <h2>FALE CONOSCO</h2><h2>POLÍTICA DE PRIVACIDADE</h2><button>Anunciar</button></div><p>Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem prévia autorização</p><p>Grupo aRede</p><p>Copyright © 2013 - 2025</p><p>Todos os direitos reservados.</p></div><div class="mw-icons-right"><div class="m-rodape-right"><a href="#"><img id="m-logo" loading="lazy" src="/themes/default/assets/img/logo_top.svg" style="width:56px;height:56px" alt="aRede"></a></div></div></footer><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/themes/default/assets/js/sbundle_8adede6d3c9838a35bea634c19d7a7c9.js?t=1722956974"></script><script>
+		fetch('/Article/RegisterView?articleId=525356');
+
+		function mountaRedePlay() {
+			var splideGeral = new Splide( '.aredeplay-splide.geral', {"perPage":4,"perMove":1} );
+
+			splideGeral.mount();
+
+			var splideVamosLer = new Splide( '.aredeplay-splide.vamos-ler', {"perPage":4,"perMove":1} );
+
+			splideVamosLer.mount();
+
+			var splidearedenews = new Splide( '.aredeplay-splide.aredenews', {"perPage":4,"perMove":1} );
+
+			splidearedenews.mount();
+
+			var splideFalaCidadao = new Splide( '.aredeplay-splide.fala-cidadao', {"perPage":4,"perMove":1} );
+
+			splideFalaCidadao.mount();
+
+			var splidePublieditorial = new Splide( '.aredeplay-splide.publieditorial', {"perPage":4,"perMove":1} );
+
+			splidePublieditorial.mount();
+
+			const botaoaredenews = document.getElementById('aredenews');
+			const botaoVamosLer = document.getElementById('vamos-ler');
+			const botaoFalaCidadao = document.getElementById('fala-cidadao');
+			const botaoGeral = document.getElementById('geral');
+			const botaoPublieditorial = document.getElementById('publieditorial');
+
+			const botaoAredenewsMobile = document.getElementById('aredenews-mobile');
+			const botaoVamosLerMobile = document.getElementById('vamos-ler-mobile');
+			const botaoFalaCidadaoMobile = document.getElementById('fala-cidadao-mobile');
+			const botaoGeralMobile = document.getElementById('geral-mobile');
+			const botaoPublieditorialMobile = document.getElementById('publieditorial-mobile');
+
+			const splidearedenewsEl = document.querySelector('.aredeplay-splide.aredenews');
+			const splideVamosLerEl = document.querySelector('.aredeplay-splide.vamos-ler');
+			const splideFalaCidadaoEl = document.querySelector('.aredeplay-splide.fala-cidadao');
+			const splideGeralEl = document.querySelector('.aredeplay-splide.geral');
+			const splidePublieditorialEl = document.querySelector('.aredeplay-splide.publieditorial');
+
+			botaoaredenews.addEventListener('click', function() {
+				splidearedenewsEl.style.display = 'block';
+				splideVamosLerEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'none';
+				botaoaredenews.classList.add('aredeplay-active');
+				botaoVamosLer.classList.remove('aredeplay-active');
+				botaoFalaCidadao.classList.remove('aredeplay-active');
+				botaoGeral.classList.remove('aredeplay-active');
+				botaoPublieditorial.classList.remove('aredeplay-active');
+			});
+
+			botaoAredenewsMobile.addEventListener('click', function() {
+				splidearedenewsEl.style.display = 'block';
+				splideVamosLerEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'none';
+			});
+
+			botaoVamosLer.addEventListener('click', function() {
+				splidearedenewsEl.style.display = 'none';
+				splideVamosLerEl.style.display = 'block';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'none';
+				botaoaredenews.classList.remove('aredeplay-active');
+				botaoVamosLer.classList.add('aredeplay-active');
+				botaoFalaCidadao.classList.remove('aredeplay-active');
+				botaoGeral.classList.remove('aredeplay-active');
+				botaoPublieditorial.classList.remove('aredeplay-active');
+			});
+
+			botaoVamosLerMobile.addEventListener('click', function() {
+				splideVamosLerEl.style.display = 'block';
+				splidearedenewsEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'none';
+			});
+
+			botaoFalaCidadao.addEventListener('click', function() {
+				splideVamosLerEl.style.display = 'none';
+				splidearedenewsEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'block';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'none';
+				botaoVamosLer.classList.remove('aredeplay-active');
+				botaoaredenews.classList.remove('aredeplay-active');
+				botaoFalaCidadao.classList.add('aredeplay-active');
+				botaoGeral.classList.remove('aredeplay-active');
+				botaoPublieditorial.classList.remove('aredeplay-active');
+			});
+
+			botaoFalaCidadaoMobile.addEventListener('click', function() {
+				splideVamosLerEl.style.display = 'none';
+				splidearedenewsEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'block';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'none';
+			});
+
+			botaoGeral.addEventListener('click', function() {
+				splidearedenewsEl.style.display = 'none';
+				splideVamosLerEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'block';
+				splidePublieditorialEl.style.display = 'none';
+				botaoaredenews.classList.remove('aredeplay-active');
+				botaoVamosLer.classList.remove('aredeplay-active');
+				botaoFalaCidadao.classList.remove('aredeplay-active');
+				botaoGeral.classList.add('aredeplay-active');
+				botaoPublieditorial.classList.remove('aredeplay-active');
+			});
+
+			botaoGeralMobile.addEventListener('click', function() {
+				splidearedenewsEl.style.display = 'none';
+				splideVamosLerEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'block';
+				splidePublieditorialEl.style.display = 'none';
+			});
+
+			botaoPublieditorial.addEventListener('click', function() {
+				splidearedenewsEl.style.display = 'none';
+				splideVamosLerEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'block';
+				botaoaredenews.classList.remove('aredeplay-active');
+				botaoVamosLer.classList.remove('aredeplay-active');
+				botaoFalaCidadao.classList.remove('aredeplay-active');
+				botaoGeral.classList.remove('aredeplay-active');
+				botaoPublieditorial.classList.add('aredeplay-active');
+			});
+
+			botaoPublieditorialMobile.addEventListener('click', function() {
+				splidearedenewsEl.style.display = 'none';
+				splideVamosLerEl.style.display = 'none';
+				splideFalaCidadaoEl.style.display = 'none';
+				splideGeralEl.style.display = 'none';
+				splidePublieditorialEl.style.display = 'block';
+			});
+		}
+
+		function mountaRedeNegocios() {
+			var arnScript = document.createElement('script');
+			arnScript.src = "https://arede.info/themes/default/assets/js/aredeNegocios/script-novo.js";
+			document.body.appendChild(arnScript);
+		}
+
+		function mountHoroscopo() {
+			var splideHoroscopo = new Splide('.horoscopo-splide', {
+				perPage: 1,
+				autoplay: true,
+				rewind     : true,
+				rewindSpeed: 5,
+			});
+
+			splideHoroscopo.mount();
+		}
+
+		function mountPrevisao() {
+			new Splide('.splide__previsao', 
+				{"autoplay":true,"loop":true,"interval":3000}
+			).mount();
+			
+			(async () => {
+				let response = await fetch(AJAXPATH + '/previsao-tempo');
+			
+				let res = await response.json();
+
+				let MaxPontaGrossa = Math.round(res.pontaGrossa.tempMax);
+				let MinPontaGrossa = Math.round(res.pontaGrossa.tempMin);
+				let IconPontaGrossa = res.pontaGrossa.iconPath;
+
+				document.querySelector('.temp-max.ponta-grossa').innerHTML = 'max ' + MaxPontaGrossa + '°C';
+				document.querySelector('.temp-min.ponta-grossa').innerHTML = 'min ' + MinPontaGrossa + '°C';
+				document.querySelector('.icon-img.ponta-grossa').src = IconPontaGrossa; 
+
+				
+				let MaxCastro = Math.round(res.castro.tempMax);
+				let MinCastro = Math.round(res.castro.tempMin);
+				let IconCastro = res.castro.iconPath;
+
+				document.querySelector('.temp-max.castro').innerHTML = 'max ' + MaxCastro + '°C';
+				document.querySelector('.temp-min.castro').innerHTML = 'min ' + MinCastro + '°C';
+				document.querySelector('.icon-img.castro').src = IconCastro;
+
+				let MaxCarambei = Math.round(res.carambei.tempMax);
+				let MinCarambei = Math.round(res.carambei.tempMin);
+				let IconCarambei = res.carambei.iconPath;
+
+				document.querySelector('.temp-max.carambei').innerHTML = 'max ' + MaxCarambei + '°C';
+				document.querySelector('.temp-min.carambei').innerHTML = 'min ' + MinCarambei + '°C';
+				document.querySelector('.icon-img.carambei').src = IconCarambei; 
+
+				let MaxJaguariaiva = Math.round(res.jaguariaiva.tempMax);
+				let MinJaguariaiva = Math.round(res.jaguariaiva.tempMin);
+				let IconJaguariaiva = res.jaguariaiva.iconPath;
+
+				document.querySelector('.temp-max.jaguariaiva').innerHTML = 'max ' + MaxJaguariaiva + '°C';
+				document.querySelector('.temp-min.jaguariaiva').innerHTML = 'min ' + MinJaguariaiva + '°C';
+				document.querySelector('.icon-img.jaguariaiva').src = IconJaguariaiva;
+
+				let MaxTibagi = Math.round(res.tibagi.tempMax);
+				let MinTibagi = Math.round(res.tibagi.tempMin);
+				let IconTibagi = res.tibagi.iconPath;
+				
+				document.querySelector('.temp-max.tibagi').innerHTML = 'max ' + MaxTibagi + '°C';
+				document.querySelector('.temp-min.tibagi').innerHTML = 'min ' + MinTibagi + '°C';
+				document.querySelector('.icon-img.tibagi').src = IconTibagi;
+
+				let MaxTelemaco = Math.round(res.telemaco.tempMax);
+				let MinTelemaco = Math.round(res.telemaco.tempMin);
+				let IconTelemaco = res.telemaco.iconPath;
+				
+				document.querySelector('.temp-max.telemaco').innerHTML = 'max ' + MaxTelemaco + '°C';
+				document.querySelector('.temp-min.telemaco').innerHTML = 'min ' + MinTelemaco + '°C';
+				document.querySelector('.icon-img.telemaco').src = IconTelemaco;
+
+				let MaxReserva = Math.round(res.reserva.tempMax);
+				let MinReserva = Math.round(res.reserva.tempMin);
+				let IconReserva = res.reserva.iconPath;
+
+				document.querySelector('.temp-max.reserva').innerHTML = 'max ' + MaxReserva + '°C';
+				document.querySelector('.temp-min.reserva').innerHTML = 'min ' + MinReserva + '°C';
+				document.querySelector('.icon-img.reserva').src = IconReserva;
+
+				let MaxIrati = Math.round(res.irati.tempMax);
+				let MinIrati = Math.round(res.irati.tempMin);
+				let IconIrati = res.irati.iconPath;
+				
+				document.querySelector('.temp-max.irati').innerHTML = 'max ' + MaxIrati + '°C';
+				document.querySelector('.temp-min.irati').innerHTML = 'min ' + MinIrati + '°C';
+				document.querySelector('.icon-img.irati').src = IconIrati;
+
+				let MaxIpiranga = Math.round(res.ipiranga.tempMax);
+				let MinIpiranga = Math.round(res.ipiranga.tempMin);
+				let IconIpiranga = res.ipiranga.iconPath;
+
+				document.querySelector('.temp-max.ipiranga').innerHTML = 'max ' + MaxIpiranga + '°C';
+				document.querySelector('.temp-min.ipiranga').innerHTML = 'min ' + MinIpiranga + '°C';
+				document.querySelector('.icon-img.ipiranga').src = IconIpiranga;
+
+				let MaxPrudentopolis = Math.round(res.prudentopolis.tempMax);
+				let MinPrudentopolis = Math.round(res.prudentopolis.tempMin);
+				let IconPrudentopolis = res.prudentopolis.iconPath;
+				
+				document.querySelector('.temp-max.prudentopolis').innerHTML = 'max ' + MaxPrudentopolis + '°C';
+				document.querySelector('.temp-min.prudentopolis').innerHTML = 'min ' + MinPrudentopolis + '°C';
+				document.querySelector('.icon-img.prudentopolis').src = IconPrudentopolis;
+
+				let MaxIvai = Math.round(res.ivai.tempMax);
+				let MinIvai = Math.round(res.ivai.tempMin);
+				let IconIvai = res.ivai.iconPath;
+				
+				document.querySelector('.temp-max.ivai').innerHTML = 'max ' + MaxIvai + '°C';
+				document.querySelector('.temp-min.ivai').innerHTML = 'min ' + MinIvai + '°C';
+				document.querySelector('.icon-img.ivai').src = IconIvai;
+			})()
+		}
+
+		function loadMoreContent() {
+
+			const moreContent = document.getElementById("more-content-article");
+
+			fetch('/ajax/moreContentArticle?d=1')
+				.then(res => res.text())
+				.then(html => {
+					var finalContent;
+
+					const contentHTML = new DOMParser().parseFromString(html, "text/html");
+
+					
+						
+							var ad1 = document.getElementById("ad1");
+							var ad2 = document.getElementById("ad2");
+							var ad3 = document.getElementById("ad3");
+							var ad4 = document.getElementById("ad4");
+							var adAside = document.getElementById("ad-aside");
+
+							contentHTML.getElementById("ads-1").insertAdjacentElement('beforeend', ad1);
+							contentHTML.getElementById("ads-2").insertAdjacentElement('beforeend', ad2);
+							contentHTML.getElementById("ads-aside").insertAdjacentElement('beforeend', adAside);
+							contentHTML.getElementById("ads-3").insertAdjacentElement('beforeend', ad3);
+							contentHTML.getElementById("ads-4").insertAdjacentElement('beforeend', ad4);
+
+							ad1.removeAttribute("style");
+							ad2.removeAttribute("style");
+							ad3.removeAttribute("style");
+							ad4.removeAttribute("style");
+							adAside.removeAttribute("style");
+						
+
+						finalContent = contentHTML.getElementById("ads-1").innerHTML;
+						finalContent += contentHTML.getElementById("articles-1").innerHTML;
+						finalContent += contentHTML.getElementById("ads-2").innerHTML;
+						finalContent += contentHTML.getElementById("bloco-aredeplay").innerHTML;
+						finalContent += contentHTML.getElementById("articles-2").innerHTML;
+						finalContent += contentHTML.getElementById("ads-3").innerHTML;
+						finalContent += contentHTML.getElementById("mix").innerHTML;
+						finalContent += contentHTML.getElementById("arn").innerHTML;
+						finalContent += contentHTML.getElementById("ads-4").innerHTML;
+					
+					
+				
+
+					//console.log(finalContent);
+					moreContent.innerHTML = finalContent;
+
+					mountaRedePlay();
+					mountaRedeNegocios();
+					mountHoroscopo();
+					mountPrevisao();
+					//loadNewAds();
+
+				});
+		}
+		
+		function htmlToElement(html) {
+			var template = document.createElement('template');
+			html = html.trim(); // Never return a text node of whitespace as the result
+			template.innerHTML = html;
+			return template.content.firstChild;
+		}
+
+		function remapAds() {
+			var articleParagraphs = document.querySelectorAll('#mw-article-content p');
+			
+			
+				var bannerDesk5 = document.getElementById('banner_desk_5');
+			
+			
+			var bannerDesk6 = document.getElementById('banner_desk_6');
+
+			if (document.querySelector('body').dataset.categoryName == 'Obituário'){
+				document.getElementById('mw-article-content').insertAdjacentElement('beforeend', bannerDesk5);
+				bannerDesk5.style.display = 'flex';
+			} else {
+				if(articleParagraphs[2]) {
+					articleParagraphs[2].insertAdjacentElement('afterend', bannerDesk5);
+					bannerDesk5.style.display = 'flex';
+				}
+
+				if(articleParagraphs[5]) {
+					articleParagraphs[5].insertAdjacentElement('afterend', bannerDesk6);
+					bannerDesk6.style.display = 'flex';
+				}
+			}
+			
+
+		}
+
+		document.addEventListener('DOMContentLoaded', function () {
+			loadMoreContent();
+
+			
+				remapAds();
+			
+		});
+	</script><script>
+		const url = new URL(window.location);
+		url.searchParams.delete('d');
+		window.history.replaceState({}, '', url);
+	</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;901d0fab4f61caf4&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;r&quot;:1,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;64ad13cbcab14bc790f675c17b341260&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+</body></html>

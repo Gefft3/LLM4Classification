@@ -1,0 +1,15 @@
+<html lang="en"><head> 
+            <title>Page not found</title> 
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style> 
+                body{margin:0;padding:0;font-family:sans-serif}.error-page{width:100%;height:100vh;text-align:center;box-sizing:border-box}.error-page h1{font-size:7em;color:#717171;margin:0;padding-top:30vh}.error-page h3{color:grey;font-size:18px;margin:0;margin-bottom:20px;width:33%;margin:0 auto;margin-top:30px;margin-bottom:30px;font-weight:100}.error-page a{display:inline-block;background:#41ad09;padding:10px 20px;color:#fff;text-decoration:none;text-transform:capitalize;font-weight:500;box-shadow:0 4px 8px #b9b9b9}@media only screen and (min-width:320px) and (max-width:768px){.error-page h1{font-size:4em}.error-page h3{width:90%}}
+            </style>
+        </head>
+        <body> 
+            <div class="error-page">
+                <h1>Ooops !</h1>
+                <h3>Invalid Request</h3>
+                <a href="/">Go Home</a>
+            </div> 
+        
+    </body></html>

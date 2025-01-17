@@ -1,0 +1,677 @@
+<html lang="pt-br"><head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/css/fa-all.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&amp;display=swap" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/css/materialize.css" media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/css/fontawesome.min.css" media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>
+        Dourados tem dois casos de Febre Maculosa em investigação    </title>
+
+    <style>
+        /* .link-top:first-child{
+            border-left: 4px solid #0A51A1;            
+        }
+        .link-top:last-child{
+            border-right: 4px solid #0A51A1;
+        } */
+
+        .ac-center{
+            align-content : center;
+        }
+
+
+        .link-top{
+            font-weight: 500;
+            /* border-left: 2px solid #0A51A1;
+            border-right: 2px solid #0A51A1; */
+        }
+
+        .link-top > a{
+            color:  #0A51A1;
+        }
+
+        .brand-logo{
+            margin-left: 0px !important;
+        }
+
+        .gtranslate > a{
+            float: right !important;
+            color:  #fff;
+            /* line-height: 0px !important; */
+        }
+
+        .gtranslate > a > img{
+            /* height: 20px; */
+            /* width: 20px; */
+        }
+        .gtranslate{       
+            /* background-color: #efd332;      */
+            color:  #FFF;
+            /* height: 20px; */
+            /* position: absolute; */
+            z-index: 1;
+            float: right !important;
+            /* line-height: 0px !important; */
+        }
+
+        .pd-40{
+            padding: 40px !important;
+        }
+
+        .nav-content{
+            height: 20px; 
+            display: grid !important; 
+            justify-content: center !important; 
+            background-color: #ffd569;
+        }
+        
+        #menu-central{
+            display: grid !important; 
+            justify-items: center !important;
+        }
+
+        .ta-right{
+            text-align: right;
+        }
+        
+
+        @media only screen and (max-width: 993px) {
+            #menu-central{
+                display: block !important; 
+                justify-items: left !important;
+                width: 100%;
+            }
+            .col-gtranslate{       
+                display: flex;
+                width: 100% !important;
+                justify-content: center;
+            }
+        }
+
+
+    </style>
+
+    <!--Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-42346585-6', 'auto');
+        ga('send', 'pageview');
+
+        (function () {
+          $('[data-toggle="popover"]').popover()
+        })
+
+    </script>
+    <!--Google Analytics -->
+
+        <style>
+        #wpadminbar #wp-admin-bar-vtrts_free_top_button .ab-icon:before {
+            content: "\f185";
+            color: #1DAE22;
+            top: 3px;
+        }
+    </style>
+    <meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="dns-prefetch" href="//portal.dourados.ms.gov.br">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/portal.dourados.ms.gov.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://portal.dourados.ms.gov.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="elementor-icons-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.32.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.10" type="text/css" media="all">
+<style id="elementor-frontend-inline-css" type="text/css">
+.elementor-kit-88354{--e-global-color-primary:#046cb4;--e-global-color-secondary:#F0E204;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Raleway";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Raleway";--e-global-typography-secondary-font-weight:500;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-e5c418b-font-family:"Raleway";--e-global-typography-e5c418b-font-weight:600;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+</style>
+<link rel="stylesheet" id="swiper-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="e-swiper-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.10" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="essential-blocks-animation-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/accordion-toggle/assets/css/animate.min.css?ver=1.2.9" type="text/css" media="all">
+<link rel="stylesheet" id="eael-general-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.0.11" type="text/css" media="all">
+<link rel="stylesheet" id="wpr-text-animations-css-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.7.1004" type="text/css" media="all">
+<link rel="stylesheet" id="wpr-addons-css-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1004" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="https://portal.dourados.ms.gov.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=6.0.11" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Raleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.7.1" type="text/css" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script type="text/javascript" id="ahc_front_js-js-extra">
+/* <![CDATA[ */
+var ahc_ajax_front = {"ajax_url":"https:\/\/portal.dourados.ms.gov.br\/wp-admin\/admin-ajax.php","page_id":"111317","page_title":"Dourados tem dois casos de Febre Maculosa em investiga\u00e7\u00e3o","post_type":"post"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/plugins/visitors-traffic-real-time-statistics/js/front.js?ver=6.7.1" id="ahc_front_js-js"></script>
+<script type="text/javascript" data-cfasync="false" src="https://portal.dourados.ms.gov.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" data-cfasync="false" src="https://portal.dourados.ms.gov.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://portal.dourados.ms.gov.br/index.php/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://portal.dourados.ms.gov.br/index.php/wp-json/wp/v2/posts/111317"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://portal.dourados.ms.gov.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="canonical" href="https://portal.dourados.ms.gov.br/index.php/dourados-tem-dois-casos-de-febre-maculosa-em-investigacao/">
+<link rel="shortlink" href="https://portal.dourados.ms.gov.br/?p=111317">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://portal.dourados.ms.gov.br/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fportal.dourados.ms.gov.br%2Findex.php%2Fdourados-tem-dois-casos-de-febre-maculosa-em-investigacao%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://portal.dourados.ms.gov.br/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fportal.dourados.ms.gov.br%2Findex.php%2Fdourados-tem-dois-casos-de-febre-maculosa-em-investigacao%2F&amp;format=xml">
+<!-- OG TAGS -->
+<meta property="og:site_name" content="Portal Prefeitura de Dourados">
+<meta property="fb:admins" content="">
+<meta property="og:title" content="Dourados tem dois casos de Febre Maculosa em investigação |  Portal Prefeitura de Dourados">
+<meta property="og:description" content="Os casos confirmados de Febre Maculosa este ano, particularmente no interior de São Paulo, com oito mortes, chamaram atenção das autoridades de saúde em todo o Brasil. No Mato Grosso do Sul, porém, o último caso confirmado foi em 2018, mesmo ano em que Dourados teve dois casos notificados, sem confirmação. Atualmente, outros dois casos estão em investigação e sendo monitorados pelo Centro de Informações Estratégica em Vigilância em Saúde (CIEVS-Dourados).&nbsp; Segundo informações da Vigilância Epidemiológica, um desses casos é de uma mulher de 23 anos e o outro, um garoto de quase três anos. Ambos residentes na área urbana, não são da mesma família e estão em tratamento domiciliar, monitorados pelo órgão, através das equipes de atenção primária. “Foram feitos todos os protocolos iniciais de atendimento indicados pelo Ministério da Saúde como notificação, coleta de sangue e receituário. Apenas a criança ficou dois dias internada na UPA por causa do medicamento endovenoso e já está bem”, explica Emerson Eduardo Correa, gerente da Vigilância Epidemiológica. Febre Maculosa A febre maculosa é uma doença infecciosa, causada por uma bactéria do gênero Rickettsia e que é transmitida pela picada de carrapato infectado, principalmente pelo carrapato estrela. A doença não é transmitida de pessoa para pessoa, mas por meio da picada do carrapato. Por isso, para preveni-la, o ideal é evitar estar em locais onde haja exposição a esses bichos ou adotar algumas medidas para quando estiver visitando alguma dessas regiões silvestres, de mata, fazendas, trilhas ecológicas ou de vegetação alta. O Ministério da Saúde indica que, ao visitar uma dessas regiões de maior risco, a pessoa utilize roupas claras, que ajudam a identificar mais rapidamente o carrapato, que tem cor escura. Também é importante usar calças e blusas com mangas compridas e utilizar botas. Se possível, deve-se prender a barra da calça à meia com fita adesiva. Outra medida importante é evitar carrapatos nos animais de estimação. Caso encontre carrapatos aderidos ao corpo, é importante que a remoção seja feita com uma pinça, e não com os dedos. Também é importante não encostar objetos aquecidos ou agulhas para retirar o bicho. “Não aperte ou esmague o carrapato, mas puxe com cuidado e firmeza. Depois de remover o carrapato inteiro, lave a área da mordida com álcool ou sabão e água. Quanto mais rápido retirar os carrapatos do corpo, menor será o risco de contrair a doença”, informa o ministério. Após o uso, todas as peças de roupas devem ser colocadas em água fervente para a retirada dos carrapatos. Sintomas Os sintomas da doença estão relacionados frequentemente à febre, dor pelo corpo, dor de cabeça e manchas avermelhadas, quadro muito parecido com os sintomas de dengue e de leptospirose. Por isso, é importante que, ao chegar a uma unidade de saúde, o profissional seja informado de que a pessoa esteve em região de risco para a doença ou com incidência de carrapatos. A procura pelo serviço médico deve ocorrer rapidamente, assim que surgirem os primeiros sintomas da doença, que costumam aparecer entre 2 e 14 dias após a picada pelo carrapato infectado. Veja no link abaixo Nota Informativa sobre a doença produzida pela Vigilância Epidemiológica de Dourados">
+<meta property="og:url" content="https://portal.dourados.ms.gov.br/index.php/dourados-tem-dois-casos-de-febre-maculosa-em-investigacao/">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://portal.dourados.ms.gov.br/wp-content/uploads/2023/06/carrapato-aa-1-compressed.jpg">
+<meta property="article:section" content="Capa">
+<meta property="article:publisher" content="https://www.facebook.com/facebook">
+<meta name="generator" content="Elementor 3.25.10; features: additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+<meta name="redi-version" content="1.2.4">			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://portal.dourados.ms.gov.br/wp-content/uploads/2022/01/cropped-brasao-32x32.png" sizes="32x32">
+<link rel="icon" href="https://portal.dourados.ms.gov.br/wp-content/uploads/2022/01/cropped-brasao-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://portal.dourados.ms.gov.br/wp-content/uploads/2022/01/cropped-brasao-180x180.png">
+<meta name="msapplication-TileImage" content="https://portal.dourados.ms.gov.br/wp-content/uploads/2022/01/cropped-brasao-270x270.png">
+<style id="wpr_lightbox_styles">
+				.lg-backdrop {
+					background-color: rgba(0,0,0,0.6) !important;
+				}
+				.lg-toolbar,
+				.lg-dropdown {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-dropdown:after {
+					border-bottom-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-sub-html {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-thumb-outer,
+				.lg-progress-bar {
+					background-color: #444444 !important;
+				}
+				.lg-progress {
+					background-color: #a90707 !important;
+				}
+				.lg-icon {
+					color: #efefef !important;
+					font-size: 20px !important;
+				}
+				.lg-icon.lg-toogle-thumb {
+					font-size: 24px !important;
+				}
+				.lg-icon:hover,
+				.lg-dropdown-text:hover {
+					color: #ffffff !important;
+				}
+				.lg-sub-html,
+				.lg-dropdown-text {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				#lg-counter {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				.lg-prev,
+				.lg-next {
+					font-size: 35px !important;
+				}
+
+				/* Defaults */
+				.lg-icon {
+				background-color: transparent !important;
+				}
+
+				#lg-counter {
+				opacity: 0.9;
+				}
+
+				.lg-thumb-outer {
+				padding: 0 10px;
+				}
+
+				.lg-thumb-item {
+				border-radius: 0 !important;
+				border: none !important;
+				opacity: 0.5;
+				}
+
+				.lg-thumb-item.active {
+					opacity: 1;
+				}
+	         </style></head>
+<body class="fundo-body">
+<!-- HEADER -->
+    <!--Desktop-->
+
+    <nav class="nav-extended" style="background-color: #0A51A1;">
+        <div class="nav-content">
+            <ul class="tabs tabs-transparent">
+                <li class="link-top"><a href="https://e-gov.betha.com.br/e-nota" target="_blank">NFS-e</a></li>
+                <li class="link-top"><a href="https://ecidade.dourados.ms.gov.br/matriculadigital/" target="_blank">Matrícula 2025</a></li>
+                <!-- <li class="link-top"><a href="http://egov2.dourados.ms.gov.br/webAtendimento/consulta_bic_outros.jsp" target="_blank">Taxa de Lixo 2025</a></li>
+                <li class="link-top"><a href="http://egov2.dourados.ms.gov.br/webAtendimento/" target="_blank">IPTU 2025</a></li> -->
+                <li class="link-top"><a href="https://portal.dourados.ms.gov.br/index.php/taxa-de-lixo/" target="_blank">Taxa de Lixo </a></li>
+                <li class="link-top"><a href="https://portal.dourados.ms.gov.br/index.php/iptu/" target="_blank">IPTU </a></li>
+                <li class="link-top"><a href="https://leismunicipais.com.br/prefeitura/ms/dourados" target="_blank">Legislação</a></li>
+                <li class="link-top"><a href="https://portal.dourados.ms.gov.br/index.php/simples-nacional/" target="_blank">Simples Nacional</a></li>
+                <!-- <li class="link-top">  </li> -->
+            </ul>                
+        </div>
+
+        <div class="container-fluid">
+        
+            <div class="nav-wrapper">
+                <div class="row" style="margin-bottom: 0px;">
+                    <div class="col s2 ta-right">
+                        <a href="https://portal.dourados.ms.gov.br" class="brand-logo"><img class="marca-topo" src="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/images/pmd/brasao.png" alt=""></a>
+                    </div>
+
+                    <div id="menu-central" class="col s8">
+                        <!-- <div class="row center"> -->
+                            <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                            <ul class="left hide-on-med-and-down menu-desktop fonte-menu">
+                                <!-- <li><a  style="background-color: #f1d430; color: black;"  class="valign-wrapper" href="https://ecidade.dourados.ms.gov.br/matriculadigital/" target="_blank">MATRÍCULA REME 2023</a></li> -->
+                                <!-- <li><a  style="background-color: #f1d430; color: black;margin-left: 2px"  class="valign-wrapper" href="http://egov2.dourados.ms.gov.br/webAtendimento/" target="_blank">IPTU 2023</a></li> -->
+                                <!-- <li><a  style="background-color: #f1d430; color: black; " class="valign-wrapper" href="/index.php/periodo-de-pre-matricula-na-reme-comeca-hoje-atraves-do-site-da-prefeitura/">MATRÍCULA REME 2021</a></li> -->
+                                <li><a class="valign-wrapper" href="https://portal.dourados.ms.gov.br/index.php/menu-pmd-cidadao/">Serviços</a></li>
+                                <!-- <li><a class="valign-wrapper" href="https://portal.dourados.ms.gov.br/index.php/menu-pmd-carta-de-servicos/">ATENDIMENTO AO CIDADÃO</a></li> -->
+                                <li><a class="valign-wrapper" href="https://portal.dourados.ms.gov.br/index.php/menu-pmd-secretarias/">Órgãos Municipais </a></li>
+                                <li><a class="valign-wrapper" href="https://www.dourados.ms.gov.br/index.php/transparencia/" target="_blank">Transparência</a></li>
+                                <li><a class="valign-wrapper" href="http://do.dourados.ms.gov.br/" target="_blank">Diário Oficial</a></li>
+                                <li><a class="valign-wrapper" href="https://e-gov.betha.com.br/cdweb/resource.faces?params=FzKTkvNNaxr_6r0rICKMSA==" target="_blank">Cidadão WEB</a></li>
+                                <li><a class="valign-wrapper" href="https://www.dourados.ms.gov.br/index.php/ouvidoria/" target="_blank">Ouvidoria</a></li>
+                                <li><a style="padding-block: 22px;" class="valign-wrapper" href="https://esic.dourados.ms.gov.br" target="_blank"><img src="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/midia/esic.png" height="22px" style=""></a></li>
+                                <li><a class="valign-wrapper modal-trigger" href="#modal1"><i class="material-icons">search</i></a></li>
+                                <li></li>
+                            </ul>
+                        <!-- </div> -->
+                    </div>     
+                    <div class="col s2 col-gtranslate">                        
+                        <div class="gtranslate">
+                            <div class="gtranslate_wrapper" id="gt-wrapper-58671395"></div>                        </div>
+                    </div>               
+                </div>                    
+            </div>
+        </div>
+    
+    <ul id="slide-out" class="sidenav">
+        <li><a href="https://portal.dourados.ms.gov.br"><i class="material-icons">home</i>HOME</a></li>
+        <li><a href="https://cidadao.dourados.ms.gov.br/castracao/" target="_blank"><i class="material-icons">pets</i>CASTRAÇÃO</a></li>
+        <li><a href="https://portal.dourados.ms.gov.br/index.php/menu-pmd-cidadao/"><i class="material-icons">people</i>SERVIÇOS</a></li>
+        
+        <!--                 <li><a href="https://cidadao.dourados.ms.gov.br/index.php?class=LoginForm&amp;previous_class=AgehabCFDenunciaForm">AGEHAB Fiscal Cidadão</a></li>
+                <li><a href="https://portal.dourados.ms.gov.br/index.php/betha-itbi/">BETHA &#8211; ITBI</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/betha-leiaute-de-rps-e-nfs-e/">BETHA &#8211; Leiaute de RPS e NFS-e</a></li>
+                <li><a href="https://portal.dourados.ms.gov.br/index.php/betha-nota-fiscal-avulsa-nfa-e/">BETHA – Nota Fiscal Avulsa (NFA-e)</a></li>
+                <li><a href="https://portal.dourados.ms.gov.br/index.php/betha-solicitacao-de-acesso-nota-fiscal-e-livro-eletronico/">BETHA – Solicitação de Acesso Nota Fiscal e Livro Eletrônico</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/bolsa-familia/">Bolsa Família</a></li>
+                <li><a href="https://turismo.dourados.ms.gov.br/calendario/cadastro-de-evento/">Cadastro de Eventos 2022</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/cadastro-de-fornecedor/">Cadastro de Fornecedor</a></li>
+                <li><a href="https://cultura.dourados.ms.gov.br/">Cadastro Municipal de Cultura</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/canal-de-denuncia-seplan/">Canal de Denúncia</a></li>
+                <li><a href="https://cidadao.dourados.ms.gov.br/castracao">Castração</a></li>
+                <li><a href="https://e-gov.betha.com.br/cdweb/03114-438/contribuinte/main.faces">Central de Serviços On-line</a></li>
+                <li><a href="">Central do Cidadão atende em horário especial no fim de ano</a></li>
+                <li><a href="https://portal.dourados.ms.gov.br/index.php/certidao-negativa">Certidão Negativa</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/concursos-e-processos-seletivos/">Concursos e Processos Seletivos</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/conselho-municipal-de-assistencia-social-cmas-dourados/">Conselho Municipal de Assistência Social</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/conselhos-municipais/">Conselhos Municipais</a></li>
+                <li><a href="http://egov2.dourados.ms.gov.br/webAtendimento/">Consulta Processos</a></li>
+                <li><a href="http://do.dourados.ms.gov.br/">Diário Oficial</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/documentos-publicos/">Documentos Públicos</a></li>
+                <li><a href="http://ecidade.dourados.ms.gov.br/">E-cidade</a></li>
+                <li><a href="http://esic.dourados.ms.gov.br/index.php?class=CapaEsic">e-SIC</a></li>
+                <li><a href="http://www.dourados.ms.gov.br">Empresário</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/escala-postos-de-saude/">Escala Postos de Saúde</a></li>
+                <li><a href="https://geodourados.dourados.ms.gov.br/">Geo Portal</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/hino-de-dourados/">Hino do Município</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/sintese-historica/">História de Dourados</a></li>
+                <li><a href="https://minhafolha.betha.cloud/">Holerite Online</a></li>
+                <li><a href="http://corona.dourados.ms.gov.br/app/templates/corona/index.php">Informações: Covid-19</a></li>
+                <li><a href="https://habix.agehab.ms.gov.br/inscricao/">Inscrição Habitação</a></li>
+                <li><a href="">Inspeção da Força Aérea prepara aeroporto para voos de jatos comerciais</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/invista-em-dourados/">Invista em Dourados</a></li>
+                <li><a href="https://leismunicipais.com.br/prefeitura/ms/dourados">Legislação</a></li>
+                <li><a href="https://cidadao.dourados.ms.gov.br/secretarias/semad/licitacao/index.php">Licitação</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/lista-de-enderecos/">Lista de Endereços</a></li>
+                <li><a href="https://drive.google.com/open?id=1iEE47gkd_2iAR0Hlg7TsdJLg93ruD4TG&amp;usp=sharing">Mapa EIV</a></li>
+                <li><a href="https://ecidade.dourados.ms.gov.br/matriculadigital/">Matrícula Digital</a></li>
+                <li><a href="https://notadourada.issnetonline.com.br/Default.aspx">Nota Dourada</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/comissao-de-farmacia-e-terapeutica-da-secretaria-de-saude/">Núcleo de Assistência Farmaceutica</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/patrolamento/">Patrolamento</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/cidade-de-dourados/">Perfil de Dourados</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/plano-municipal-de-saude/">Plano Municipal de Saúde</a></li>
+                <li><a href="http://ecidade.dourados.ms.gov.br/">Portal do Aluno</a></li>
+                <li><a href="https://procon.dourados.ms.gov.br/index.php?class=Welcome">PROCON &#8211; Reclamação</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/programa-de-desenvolvimento-economico-de-dourados-pde/">Programa de Desenvolvimento &#8211; PDE</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/proas/">Relação dos Convênios</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/plano-de-acao-siafic/">SIAFIC</a></li>
+                <li><a href="https://eaprove.dourados.ms.gov.br/">Sistema e-Aprove &#8211; Aprovação Digital de Alvará e Habite-se</a></li>
+                <li><a href="http://www.dourados.ms.gov.br/index.php/telefones-uteis/">Telefones Úteis</a></li>
+                <li><a href="http://dourados.ivalocal.com.br/hotsite/">VAF &#8211; Valor Adicionado Fiscal</a></li>
+                <li><a href="https://www.dourados.ms.gov.br/index.php/vigilancia-em-saude/">Vigilância em saúde</a></li>
+         -->
+
+        <li><a href="https://portal.dourados.ms.gov.br/index.php/menu-pmd-carta-de-servicos/"><i class="material-icons">store</i>ATEND. AO CIDADÃO</a></li>
+
+        <!--                     <li><a href="https://www.dourados.ms.gov.br/index.php/semfaz-nossos-servicos/">Carta de Serviços</a></li>
+                    <li><a href="https://portal.dourados.ms.gov.br/index.php/menu-pmd-cidadao/">Central de Serviços</a></li>
+                    <li><a href="https://portal.dourados.ms.gov.br/index.php/certidao-negativa">Certidão Negativa</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/contatos-dos-setores/">Contatos dos Setores</a></li>
+                    <li><a href="https://e-gov.betha.com.br/livroeletronico2">Dec. Serviços Prestados e Tomados</a></li>
+                    <li><a href="http://esic.dourados.ms.gov.br/index.php?class=CapaEsic">e-SIC</a></li>
+                    <li><a href="https://portal.dourados.ms.gov.br/index.php/iptu/">IPTU 2024</a></li>
+                    <li><a href="http://itr.vast.com.br/">ITR</a></li>
+                    <li><a href="https://e-gov.betha.com.br/e-nota">Nota Fiscal de Serviços</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/sala-do-empreendedor/">Sala do Empreendedor</a></li>
+                    <li><a href="https://portal.dourados.ms.gov.br/index.php/betha-solicitacao-de-acesso-nota-fiscal-e-livro-eletronico/">Tutorial de Nota Fiscal Eletrônica</a></li>
+                    <li><a href="http://dourados.ivalocal.com.br/hotsite/">VAF &#8211; Valor Adicionado Fiscal</a></li>
+         -->
+
+        <li><a href="https://portal.dourados.ms.gov.br/index.php/menu-pmd-secretarias/"><i class="material-icons">account_balance</i>SECRETARIAS</a></li>
+
+        <!--                     <li><a href="https://www.dourados.ms.gov.br/index.php/agehab-agencia-municipal-de-habitacao-de-interesse-social/">Agência de Habitação</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/agetran-agencia-municipal-de-transporte-e-transito/">Agência Municipal de Trânsito</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/assessoria-de-comunicacao-2/">Comunicação</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/fundacao-de-esportes-de-dourados/">Fundação de Esportes</a></li>
+                    <li><a href="https://funsaud.dourados.ms.gov.br/">Funsaud &#8211; Fundação de Saúde</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/guarda-municipal-de-dourados/">Guarda Municipal de Dourados</a></li>
+                    <li><a href="https://portal.dourados.ms.gov.br/index.php/instituto-do-meio-ambiente/">Instituto de Meio Ambiente</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/previd/">PREVID</a></li>
+                    <li><a href="https://pgm.dourados.ms.gov.br">Procuradoria Geral do Município</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-municipal-de-servicos-urbanos/">Secretaria de  Serviços Urbanos</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-municipal-de-administracao/">Secretaria de Administração</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-municipal-de-agricultura-familiar-e-economia-solidaria/">Secretaria de Agricultura</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/semas">Secretaria de Assistência Social</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-de-cultura/">Secretaria de Cultura</a></li>
+                    <li><a href="https://portal.dourados.ms.gov.br/index.php/secretaria-de-desenvolvimento-social/">Secretaria de Desenvolvimento</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-municipal-de-educacao/">Secretaria de Educação</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-municipal-de-fazenda/">Secretaria de Fazenda</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-municipal-de-governo/">Secretaria de Governo</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/secretaria-municipal-de-obras-publicas/">Secretaria de Obras Públicas</a></li>
+                    <li><a href="https://www.dourados.ms.gov.br/index.php/seplan/">Secretaria de Planejamento</a></li>
+                    <li><a href="https://portal.dourados.ms.gov.br/index.php/sems/">Secretaria de Saúde</a></li>
+         -->
+
+        <li>
+            <a href="https://www.dourados.ms.gov.br/index.php/transparencia/" target="_blank">
+                <i class="material-icons">perm_device_information</i>TRANSPARÊNCIA
+            </a>
+        </li>
+        <li>
+            <a href="http://do.dourados.ms.gov.br/" target="_blank">
+                <i class="material-icons">picture_as_pdf</i>DIÁRIO OFICIAL
+            </a>
+        </li>
+        <li>
+            <div class="center row">
+                <form id="pesquisar" role="search_imam" method="get" onsubmit="return valida(this)" action="https://portal.dourados.ms.gov.br">
+                <div class="col s12 ">
+                    <div class="row" id="topbarsearch">
+                        <div class="input-field col s6 s12 red-text">
+                            <i class="red-text material-icons prefix">search</i>
+                            <input name="s" type="search" placeholder="Digite sua Pesquisa" id="autocomplete-input" class="autocomplete red-text">
+                        </div>
+                    </div>
+                </div>
+                </form>
+            </div>
+        </li>
+    </ul>
+</nav>
+<!-- </nav> -->
+
+<!-- Modal Search -->
+<div id="modal1" class="modal valign-wrapper">
+    <div class="modal-content">
+        <form id="pesquisar" role="search_imam" method="get" onsubmit="return valida(this)" action="https://portal.dourados.ms.gov.br">
+        <div class="center row">
+            <div class="col s12 ">
+                <div class="row" id="topbarsearch">
+                    <div class="input-field col s6 s12 red-text">
+                        <i class="red-text material-icons prefix">search</i>
+                        <input name="s" type="text" placeholder="Digite sua Pesquisa" id="autocomplete-input" class="autocomplete red-text">
+                    </div>
+                </div>
+            </div>
+        </div>
+        </form>
+    </div>
+</div><div class="espaco-topo single link">
+        <div class="container">
+        <div class="row">
+            <div class="col s12">
+                <h1 class="titulo-single">Dourados tem dois casos de Febre Maculosa em investigação</h1>
+
+                    <h3 class="center-align"> Casos da doença estão concentrados no interior paulista e no Mato Grosso do Sul não tem registro positivo desde 2018</h3>
+
+                    <div style="padding-bottom: 10px;"></div>
+
+                <h5 class="datahora valign-wrapper">
+                    <i class="material-icons">event_available</i> 26/06/2023 |
+                    <i class="material-icons">access_time</i> 10:33 horas</h5>
+                
+<div class="wp-block-image"><figure class="aligncenter size-large"><img fetchpriority="high" decoding="async" width="800" height="479" src="https://www.dourados.ms.gov.br/wp-content/uploads/2023/06/carrapato-aa-1-compressed-800x479.jpg" alt="" class="wp-image-111319" srcset="https://portal.dourados.ms.gov.br/wp-content/uploads/2023/06/carrapato-aa-1-compressed-800x479.jpg 800w, https://portal.dourados.ms.gov.br/wp-content/uploads/2023/06/carrapato-aa-1-compressed-500x299.jpg 500w, https://portal.dourados.ms.gov.br/wp-content/uploads/2023/06/carrapato-aa-1-compressed-768x459.jpg 768w, https://portal.dourados.ms.gov.br/wp-content/uploads/2023/06/carrapato-aa-1-compressed.jpg 1170w" sizes="(max-width: 800px) 100vw, 800px"><figcaption>Bactéria Rickettsia causa a doença e é transmitida pela picada de carrapato infectado (Foto: Prefeitura de Jundiaí)</figcaption></figure></div>
+
+
+
+<p>Os casos confirmados de Febre Maculosa este ano, particularmente no interior de São Paulo, com oito mortes, chamaram atenção das autoridades de saúde em todo o Brasil. No Mato Grosso do Sul, porém, o último caso confirmado foi em 2018, mesmo ano em que Dourados teve dois casos notificados, sem confirmação. Atualmente, outros dois casos estão em investigação e sendo monitorados pelo Centro de Informações Estratégica em Vigilância em Saúde (CIEVS-Dourados).&nbsp;</p>
+
+
+
+<p>Segundo informações da Vigilância Epidemiológica, um desses casos é de uma mulher de 23 anos e o outro, um garoto de quase três anos. Ambos residentes na área urbana, não são da mesma família e estão em tratamento domiciliar, monitorados pelo órgão, através das equipes de atenção primária. “Foram feitos todos os protocolos iniciais de atendimento indicados pelo Ministério da Saúde como notificação, coleta de sangue e receituário. Apenas a criança ficou dois dias internada na UPA por causa do medicamento endovenoso e já está bem”, explica Emerson Eduardo Correa, gerente da Vigilância Epidemiológica.</p>
+
+
+
+<p><strong>Febre Maculosa</strong></p>
+
+
+
+<p>A febre maculosa é uma doença infecciosa, causada por uma bactéria do gênero Rickettsia e que é transmitida pela picada de carrapato infectado, principalmente pelo carrapato estrela. A doença não é transmitida de pessoa para pessoa, mas por meio da picada do carrapato. Por isso, para preveni-la, o ideal é evitar estar em locais onde haja exposição a esses bichos ou adotar algumas medidas para quando estiver visitando alguma dessas regiões silvestres, de mata, fazendas, trilhas ecológicas ou de vegetação alta.</p>
+
+
+
+<p>O Ministério da Saúde indica que, ao visitar uma dessas regiões de maior risco, a pessoa utilize roupas claras, que ajudam a identificar mais rapidamente o carrapato, que tem cor escura. Também é importante usar calças e blusas com mangas compridas e utilizar botas. Se possível, deve-se prender a barra da calça à meia com fita adesiva. Outra medida importante é evitar carrapatos nos animais de estimação.</p>
+
+
+
+<p>Caso encontre carrapatos aderidos ao corpo, é importante que a remoção seja feita com uma pinça, e não com os dedos. Também é importante não encostar objetos aquecidos ou agulhas para retirar o bicho. “Não aperte ou esmague o carrapato, mas puxe com cuidado e firmeza. Depois de remover o carrapato inteiro, lave a área da mordida com álcool ou sabão e água. Quanto mais rápido retirar os carrapatos do corpo, menor será o risco de contrair a doença”, informa o ministério.</p>
+
+
+
+<p>Após o uso, todas as peças de roupas devem ser colocadas em água fervente para a retirada dos carrapatos.</p>
+
+
+
+<p><strong>Sintomas</strong></p>
+
+
+
+<p>Os sintomas da doença estão relacionados frequentemente à febre, dor pelo corpo, dor de cabeça e manchas avermelhadas, quadro muito parecido com os sintomas de dengue e de leptospirose. Por isso, é importante que, ao chegar a uma unidade de saúde, o profissional seja informado de que a pessoa esteve em região de risco para a doença ou com incidência de carrapatos.</p>
+
+
+
+<p>A procura pelo serviço médico deve ocorrer rapidamente, assim que surgirem os primeiros sintomas da doença, que costumam aparecer entre 2 e 14 dias após a picada pelo carrapato infectado.</p>
+
+
+
+<p>Veja no link abaixo Nota Informativa sobre a doença produzida pela Vigilância Epidemiológica de Dourados</p>
+
+
+
+<div data-wp-interactive="core/file" class="wp-block-file"><a href="https://www.dourados.ms.gov.br/wp-content/uploads/2023/06/Nota-Informativa-Febre-Maculosa.pdf">Nota Informativa Febre Maculosa</a><a href="https://www.dourados.ms.gov.br/wp-content/uploads/2023/06/Nota-Informativa-Febre-Maculosa.pdf" class="wp-block-file__button" download="">Baixar</a></div>
+            </div>
+        </div>
+    </div>
+    </div>
+<footer class="portal-footer">
+    <div class="container">
+        <div class="row footer-trata-espacamento">
+            <div class="col m6 s12">
+                <h4 class="footer-titulo">Fale Conosco</h4>
+                <p class="footer-texto"><span class="footer-texto-destaque">R</span>ua Coronel Ponciano, 1700</p>
+                <p class="footer-texto">0800 999 2050</p>
+            </div>
+            <div class="col m6 s12 footer-borda-desktop">
+                <p class="footer-texto">Desenvolvido pelo Depto de Tecnologia da Informação</p>
+                <p class="footer-texto">Secretaria Municipal de Administração</p>
+                <p class="footer-texto-bold">Prefeitura de Dourados 2025</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<div class="fixed-action-btn">
+    <a class="btn-floating btn-large azul-padrao">
+        <i class="large material-icons">share</i>
+    </a>
+    <ul>
+        <!--<li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
+        <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>-->
+        <!--<li><a href="#" class="btn-floating cor-twitter"><i class="fab fa-twitter"></i></a></li>-->
+        <li>
+            <a target="_blank" href="https://api.whatsapp.com/send?text=Veja:%20Dourados tem dois casos de Febre Maculosa em investigação%20Segue%20o%20link:%20http://www.dourados.ms.gov.br/index.php/dourados-tem-dois-casos-de-febre-maculosa-em-investigacao/" class="btn-floating cor-whatsapp"><i class="fab fa-whatsapp"></i></a>
+        </li>
+        <li><a href="" javascript:="" void(0);"="" onclick="window.open('http://www.facebook.com/sharer.php?u=https://portal.dourados.ms.gov.br/index.php/dourados-tem-dois-casos-de-febre-maculosa-em-investigacao/','ventanacompartir', 'toolbar=0, status=0, width=650, height=450');" "="" target="_blank" rel="noopener noreferrer" class="btn-floating cor-facebook"><i class="material-icons">facebook</i></a></li>
+    </ul>
+</div>
+
+<!--JavaScript at end of body for optimized loading-->
+<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/themes/portal-2021/js/materialize.min.js"></script>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.sidenav');
+        var instances = M.Sidenav.init(elems, options);
+    });
+
+    $(document).ready(function(){
+        $('.modal').modal();
+        $('.dropdown-trigger').dropdown();
+        //sidenav
+        $('.sidenav').sidenav();
+        //Botão Footer
+        $('.fixed-action-btn').floatingActionButton();
+        //PopUp
+        //$('.materialboxed').materialbox();
+        //slide
+        $('.slider').slider();
+        //Modal
+        $('.modal').modal({
+            opacity: 0.9,
+            preventScrolling: true,
+        });
+        $('.collapsible').collapsible();
+    });
+    //Menu Mobile
+    $(function(){
+        $(".button-collapse").sidenav();
+    });
+
+</script>
+<div vw="" class="enabled">
+    <div vw-access-button="" class="active"></div>
+    <div vw-plugin-wrapper="">
+        <div class="vw-plugin-top-wrapper"></div>
+    </div>
+</div>
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+<script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+</script>
+<script type="importmap" id="wp-importmap">
+{"imports":{"@wordpress\/interactivity":"https:\/\/portal.dourados.ms.gov.br\/wp-includes\/js\/dist\/script-modules\/interactivity\/index.min.js?ver=06b8f695ef48ab2d9277"}}
+</script>
+<script type="module" src="https://portal.dourados.ms.gov.br/wp-includes/js/dist/script-modules/block-library/file/view.min.js?ver=fdc2f6842e015af83140" id="@wordpress/block-library/file/view-js-module"></script>
+<link rel="modulepreload" href="https://portal.dourados.ms.gov.br/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=06b8f695ef48ab2d9277" id="@wordpress/interactivity-js-modulepreload">			<script type="text/javascript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6" id="wpr-particles-js"></script>
+<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7" id="wpr-jarallax-js"></script>
+<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0" id="wpr-parallax-hover-js"></script>
+<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/plugins/accordion-toggle/assets/js/eb-animation-load.js?ver=1.2.9" id="essential-blocks-eb-animation-js"></script>
+<script type="text/javascript" id="eael-general-js-extra">
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https:\/\/portal.dourados.ms.gov.br\/wp-admin\/admin-ajax.php","nonce":"c8676744dd","i18n":{"added":"Adicionado ","compare":"Comparar","loading":"Carregando..."},"eael_translate_text":{"required_text":"\u00e9 um campo obrigat\u00f3rio","invalid_text":"Inv\u00e1lido","billing_text":"Faturamento","shipping_text":"Envio","fg_mfp_counter_text":"de"},"page_permalink":"https:\/\/portal.dourados.ms.gov.br\/index.php\/dourados-tem-dois-casos-de-febre-maculosa-em-investigacao\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://portal.dourados.ms.gov.br/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.0.11" id="eael-general-js"></script>
+<script type="text/javascript" id="gt_widget_script_58671395-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['58671395'] = {"default_language":"pt","languages":["en","fr","pt","es"],"url_structure":"none","native_language_names":1,"flag_style":"3d","flag_size":24,"wrapper_selector":"#gt-wrapper-58671395","alt_flags":{"en":"usa","pt":"brazil"},"horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+/* ]]> */
+</script><script src="https://portal.dourados.ms.gov.br/wp-content/plugins/gtranslate/js/popup.js?ver=6.7.1" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/index.php/dourados-tem-dois-casos-de-febre-maculosa-em-investigacao/" data-gt-orig-domain="portal.dourados.ms.gov.br" data-gt-widget-id="58671395" defer=""></script>
+</body></html>

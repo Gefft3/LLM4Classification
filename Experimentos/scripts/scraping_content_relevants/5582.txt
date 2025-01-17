@@ -1,0 +1,554 @@
+<html lang="pt-br"><head class="d-print-none">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:title" content="Poluição atmosférica na ótica do Sistema Único de Saúde: vigilância em saúde ambiental e qualidade do ar"><meta property="og:type" content="article"><meta property="fb:app_id" content="1910860599205777"><meta property="og:url" content="https://semil.sp.gov.br/educacaoambiental/prateleira-ambiental/poluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar/"><meta property="og:site_name" content="Prateleira Ambiental | Portal de Educação Ambiental"><meta property="og:description" content="Poluição atmosférica na ótica do Sistema Único de Saúde: vigilância em saúde ambiental e qualidade do ar. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Saúde Ambiental, do […]"><meta property="og:image:width" content="1024"><meta property="og:image:height" content="1024"><meta property="og:image" itemprop="image" content="https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-1024x1024.jpg"><meta name="google-site-verification" content="jUJF8X28gvG_-QpsyQEt2y9gIaha6u6sY7nSf_VWwOg">    <title>Portal de Educação Ambiental</title>
+    <!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-M9QX3SZ8TK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M9QX3SZ8TK');
+</script>    <meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//cdn.datatables.net">
+<link rel="dns-prefetch" href="//cdn.rawgit.com">
+<link rel="dns-prefetch" href="//code.jquery.com">
+<link rel="dns-prefetch" href="//stackpath.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//unpkg.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/semil.sp.gov.br\/educacaoambiental\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="calendario-publicacoes-css-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/calendario-publicacoes/style.css?ver=6.6.2" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://semil.sp.gov.br/educacaoambiental/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="governo-sp-barra-footer-css-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/novabarradogoverno/css/barrafooter.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="governo-sp-barra-topo-css-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/novabarradogoverno/css/barratopo.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="css-widget-posts-slider-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/css-widget-posts-slider.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="css-widget-posts-slider-full-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/css-widget-posts-slider-full.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="css-widget-posts-grid-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/css-widget-posts-grid.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="css-widget-posts-cards-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/css-widget-posts-cards.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="css-owl-carousel-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/owl.carousel.min.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="public-sma-portal-wdn-css-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/public-sma-portal-wdn.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="css-widget-custom-links-images-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/css-widget-custom-links-images.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="css-widget-posts-estatico-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/css/css-widget-posts-estatico.css?ver=2.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="image-hover-effects-css-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="style-css-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/mega-addons-for-visual-composer/css/style.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-latest-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/all.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="stcr-font-awesome-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="stcr-style-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-style.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="sma-horizon-bootstrap-css-css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?ver=4.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="sma-horizon-default-css-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon/style.css?ver=1.1.1" type="text/css" media="all">
+<style id="sma-horizon-default-css-inline-css" type="text/css">
+
+            .footer-content-row h3{
+                color: #ffffff !important;
+            }
+            .footer-content-row p, .footer-content-row a{
+                color:  !important;
+            }
+            .footer-content-row a:hover{
+                color: #034EA2 !important;
+            }
+            .footer-instituicoes{
+                border-bottom: 5px solid ;
+            }
+
+        
+</style>
+<link rel="stylesheet" id="child-theme-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon-cea/style.css?ver=6.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="sma-horizon-jquery-ui-css-css" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css?ver=1.12.1" type="text/css" media="all">
+<link rel="stylesheet" id="sma-horizon-popup-js-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon/inc/magnificpopup/magnific-popup.css?ver=1.12.1" type="text/css" media="all">
+<link rel="stylesheet" id="__EPYT__style-css" href="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.1.2" type="text/css" media="all">
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/semil.sp.gov.br\/educacaoambiental\/wp-admin\/admin-ajax.php","security":"831947955e","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/semil.sp.gov.br\/educacaoambiental\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/semil.sp.gov.br\/educacaoambiental\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\"]","epdovol":"1","version":"14.2.1.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.1.2" id="__ytprefs__-js"></script>
+<link rel="https://api.w.org/" href="https://semil.sp.gov.br/educacaoambiental/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://semil.sp.gov.br/educacaoambiental/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.6.2">
+<link rel="canonical" href="https://semil.sp.gov.br/educacaoambiental/prateleira-ambiental/poluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar/">
+<link rel="shortlink" href="https://semil.sp.gov.br/educacaoambiental/?p=13644">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://semil.sp.gov.br/educacaoambiental/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsemil.sp.gov.br%2Feducacaoambiental%2Fprateleira-ambiental%2Fpoluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://semil.sp.gov.br/educacaoambiental/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsemil.sp.gov.br%2Feducacaoambiental%2Fprateleira-ambiental%2Fpoluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.132.0"><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://semil.sp.gov.br/educacaoambiental"><link rel="alternate" href="https://semil.sp.gov.br/educacaoambiental/wp-json/tribe/events/v1/"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+		<style type="text/css" id="wp-custom-css">
+			.imgDestaqueInfo{
+	display:none;
+}
+
+.imgDestaque figure{
+	margin-bottom: 40px;
+}
+
+.posts-relacionados{
+	display:none;
+}
+
+.redes-sociais div.mt-auto.mb-auto:first-child > a{
+	display:none;
+}
+
+.redes-sociais div.mt-auto.mb-auto:first-child{
+	opacity: 0;
+}
+
+.grid-title{
+	color:white;
+}
+
+.sma_subtitulo{
+	display:none;
+}
+
+.tanamidia .card-overlay{
+	left:0px;
+}
+
+#comments .children li{
+	padding-top:15px;
+	padding-bottom: 1px;
+	margin: 15px 0;
+	background:#eaeaea;
+}
+
+.comments-title{
+	color: black;
+}
+
+.comment-body{
+	margin-bottom: 2em;
+}
+
+#checkbox-width{
+	width: 15px;
+}
+
+.ft-12{
+	font-size:12px !important;
+}
+
+.tanamidia .card-img-top{
+	height:270px;
+}
+
+/* .grid-title:hover{
+	color:#335804;
+} */		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="prateleira-ambiental-template-default single single-prateleira-ambiental postid-13644 tribe-no-js wpb-js-composer js-comp-ver-6.8.0 vc_responsive">
+
+<section class="govsp-topo">     
+        <div id="govsp-topbarGlobal" class="blu-e">
+                <div id="topbarGlobal">
+                    <div id="topbarLink" class="govsp-black">
+                        <div class="govsp-portal">
+                            <a href="https://www.saopaulo.sp.gov.br" title="nova guia Site Governo do Estado de São Paulo" target="_blank"><img src="https://saopaulo.sp.gov.br/barra-govsp/img/logo-governo-do-estado-sp.png" alt="logomarca Governo de São Paulo" height="38" class="logo">
+                            </a>
+                        </div> 
+                    </div>
+                    <nav class="govsp-navbar govsp-navbar-expand-lg">                    
+                        <a class="govsp-social" href="http://bit.ly/govspnozap"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-whatsapp.png" alt="Whatsapp Governo do Estado de SP"></a>
+
+                        <a class="govsp-social" href="https://www.flickr.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-flickr.png" alt="Flickr Governo do Estado de SP"></a>
+                                            
+                        <a class="govsp-social" href="https://www.linkedin.com/company/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-linkedin.png" alt="Linkedin Governo do Estado de SP"></a>
+
+                        <a class="govsp-social" href="https://www.tiktok.com/@governosp"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-tiktok.png" alt="TikTok Governo do Estado de SP"></a>                        
+                        
+                        <a class="govsp-social" href="https://www.youtube.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-youtube.png" alt="Youtube Governo do Estado de SP"></a>
+                        
+                        <a class="govsp-social" href="https://www.twitter.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-twitter.png" alt="Twitter Governo do Estado de SP"></a>
+
+                        <a class="govsp-social" href="https://www.instagram.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-insta.png" alt="Instagram Governo do Estado de SP"></a>
+                        
+                        <a class="govsp-social" href="https://www.facebook.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-facebook.png" alt="Facebook Governo do Estado de SP"></a>                       
+                        
+                        <p class="govsp-social">/governosp</p>
+                        
+                        <a class="govsp-acessibilidade" title="nova guia" href="https://www.saopaulo.sp.gov.br/fale-conosco/comunicar-erros/" target="_blank"><img class="govsp-acessibilidade" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-error-report.png" alt="Comunicar um erro"></a>             
+                    </nav>
+                </div>
+            <button class="govsp-kebab" id="govsp-kebab" aria-expanded="false"><img src="https://saopaulo.sp.gov.br/barra-govsp/img/dots-menu.png" alt="Menu"></button>
+            
+                    <ul class="govsp-dropdown vs3" id="govsp-dropdown" aria-hidden="true">               
+                        
+                        <li><a class="govsp-social" role="button" href="http://bit.ly/govspnozap"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-whatsapp.png" alt="Whatsapp Governo do Estado de SP"></a></li>
+                            
+                        <li><a class="govsp-social" role="button" href="https://www.flickr.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-flickr.png" alt="Flickr Governo do Estado de SP"></a></li>
+                      
+                      <li><a class="govsp-social" role="button" href="https://www.linkedin.com/company/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-linkedin.png" alt="Linkedin Governo do Estado de SP"></a></li>
+
+                      <li><a class="govsp-social" role="button" href="https://www.tiktok.com/@governosp"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-tiktok.png" alt="TikTok Governo do Estado de SP"></a></li>
+
+                      <li><a class="govsp-social" role="button" href="https://www.twitter.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-twitter.png" alt="Twitter Governo do Estado de SP"></a></li>
+                      
+                      <li><a class="govsp-social" role="button" href="https://www.youtube.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-youtube.png" alt="Youtube Governo do Estado de SP"></a></li> 
+
+                      <li><a class="govsp-social" role="button" href="https://www.instagram.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-insta.png" alt="Instagram Governo do Estado de SP"></a></li>
+                    
+                      <li><a class="govsp-social" role="button" href="https://www.facebook.com/governosp/"><img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-facebook.png" alt="Facebook Governo do Estado de SP"></a></li>
+                      
+                      <li><p class="govsp-social">/governosp</p></li>
+                  </ul> 
+        </div>
+        
+        <script src="https://saopaulo.sp.gov.br/barra-govsp/js/script-top-v2.js?vs=3.0"></script>
+        <noscript>
+          Seu navegador não tem suporte a JavaScript ou está desativado!</noscript>
+    </section>
+<header style="background-image: url(https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon/img/header1.jpeg);" class="main-header">
+    <section class="main-menu menu-minimalista">
+    <nav class="navbar navbar-expand-md navbar-light" role="navigation">
+        <div class="container main-menu-container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="text-center text-md-left font-weight-bold ml-auto mr-auto titulo" href="https://semil.sp.gov.br/educacaoambiental">Portal de Educação Ambiental</a>
+
+            <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-menu-principal" class="nav navbar-nav ml-auto" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-522 nav-item"><a itemprop="url" href="/educacaoambiental/" class="nav-link"><span itemprop="name">Início</span></a></li>
+<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-400 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/oportal/" class="nav-link"><span itemprop="name">Conheça o Portal</span></a></li>
+<li id="menu-item-339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-339 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/category/politicas-de-meio-ambiente/" class="nav-link"><span itemprop="name">Políticas de Meio Ambiente</span></a></li>
+<li id="menu-item-6117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-6117 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-6117"><span itemprop="name">Vida Sustentável</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-6117">
+	<li id="menu-item-334" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-334 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/category/vida-sustentavel/" class="dropdown-item"><span itemprop="name">Vida Sustentável</span></a></li>
+	<li id="menu-item-6118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6118 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/category/calendario-ambiental/" class="dropdown-item"><span itemprop="name">Calendário Ambiental</span></a></li>
+</ul>
+</li>
+<li id="menu-item-627" class="menu-item menu-item-type-post_type_archive menu-item-object-pea-videos menu-item-627 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/videos/" class="nav-link"><span itemprop="name">Participe!</span></a></li>
+<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-401 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-401"><span itemprop="name">Onde Tem EA?</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-401">
+	<li id="menu-item-14782" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14782 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/centros-ea/" class="dropdown-item"><span itemprop="name">Centros de Educação Ambiental</span></a></li>
+	<li id="menu-item-14793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14793 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/mapa-da-ea/" class="dropdown-item"><span itemprop="name">Mapa da Educação Ambiental</span></a></li>
+	<li id="menu-item-14784" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14784 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/ecopontos/" class="dropdown-item"><span itemprop="name">Ecopontos</span></a></li>
+	<li id="menu-item-15397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15397 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/cetras-de-sao-paulo/" class="dropdown-item"><span itemprop="name">Cetras do Estado de São Paulo</span></a></li>
+	<li id="menu-item-14787" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14787 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/observacao-de-aves/" class="dropdown-item"><span itemprop="name">Observação de Aves</span></a></li>
+	<li id="menu-item-14786" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14786 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/parques-e-ucs/" class="dropdown-item"><span itemprop="name">Parques e UCs</span></a></li>
+</ul>
+</li>
+<li id="menu-item-335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-335 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-335"><span itemprop="name">Prateleira Ambiental</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-335">
+	<li id="menu-item-371" class="menu-item menu-item-type-taxonomy menu-item-object-secoespa menu-item-371 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/secoespa/publicacoes/" class="dropdown-item"><span itemprop="name">Publicações</span></a></li>
+	<li id="menu-item-637" class="menu-item menu-item-type-taxonomy menu-item-object-secoespa menu-item-637 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/secoespa/artigos-e-dissertacoes/" class="dropdown-item"><span itemprop="name">Artigos e Dissertações</span></a></li>
+	<li id="menu-item-338" class="menu-item menu-item-type-taxonomy menu-item-object-secoespa menu-item-338 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/secoespa/cartazes-e-banners/" class="dropdown-item"><span itemprop="name">Cartazes e banners</span></a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-taxonomy menu-item-object-secoespa menu-item-369 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/secoespa/videos/" class="dropdown-item"><span itemprop="name">Vídeos</span></a></li>
+	<li id="menu-item-2757" class="menu-item menu-item-type-taxonomy menu-item-object-secoespa menu-item-2757 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/secoespa/sites/" class="dropdown-item"><span itemprop="name">Sites</span></a></li>
+	<li id="menu-item-14788" class="menu-item menu-item-type-taxonomy menu-item-object-secoespa menu-item-14788 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/secoespa/materiais-cientificos/" class="dropdown-item"><span itemprop="name">Materiais Científicos</span></a></li>
+	<li id="menu-item-14790" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14790 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/entender-direito-ambiental/" class="dropdown-item"><span itemprop="name">Entender Direito Ambiental</span></a></li>
+	<li id="menu-item-14808" class="menu-item menu-item-type-taxonomy menu-item-object-secoespa menu-item-14808 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/secoespa/podcast/" class="dropdown-item"><span itemprop="name">Áudio – Fique por Dentro</span></a></li>
+</ul>
+</li>
+<li id="menu-item-14706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14706 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/category/ead/" class="nav-link"><span itemprop="name">EAD</span></a></li>
+<li id="menu-item-4985" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-4985 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/dicionario-ambiental/" class="nav-link"><span itemprop="name">Dicionário Ambiental</span></a></li>
+<li id="menu-item-12962" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-has-children dropdown menu-item-12962 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-12962"><span itemprop="name">Ei, Professores!</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-12962">
+	<li id="menu-item-14804" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14804 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/ei-professores/" class="dropdown-item"><span itemprop="name">Ei, Professores!</span></a></li>
+	<li id="menu-item-14803" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14803 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/processos-formativos/" class="dropdown-item"><span itemprop="name">Processos Formativos</span></a></li>
+	<li id="menu-item-14805" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14805 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/o-que-eu-vou-ser-quando-crescer/" class="dropdown-item"><span itemprop="name">O que eu vou ser quando crescer?</span></a></li>
+	<li id="menu-item-14806" class="menu-item menu-item-type-taxonomy menu-item-object-categoriapa menu-item-14806 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/categoriapa/linha-do-tempo-de-ea/" class="dropdown-item"><span itemprop="name">Linha do tempo de EA</span></a></li>
+	<li id="menu-item-16454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16454 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/calendario-completo/" class="dropdown-item"><span itemprop="name">Calendário Ambiental</span></a></li>
+</ul>
+</li>
+<li id="menu-item-14820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-14820 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-14820"><span itemprop="name">Agenda</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-14820">
+	<li id="menu-item-409" class="menu-item menu-item-type-post_type_archive menu-item-object-tribe_events menu-item-409 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/eventos/" class="dropdown-item"><span itemprop="name">Agenda</span></a></li>
+	<li id="menu-item-14821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14821 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/divulgue-eventos/" class="dropdown-item"><span itemprop="name">Envie seu evento</span></a></li>
+</ul>
+</li>
+<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-399 nav-item"><a itemprop="url" href="https://semil.sp.gov.br/educacaoambiental/facaparte/" class="nav-link"><span itemprop="name">Faça parte</span></a></li>
+</ul></div>                
+            <div style="position:relative;">
+                <div class="bg-search search-div">
+                    <form action="https://semil.sp.gov.br/educacaoambiental" method="get" class="mr-15 ml-15 item-secundario">
+                        <input id="input-busca" type="text" name="s" style="margin-top:5px;" class="search-secondary-menu w-100" placeholder="Pesquisar">
+                        <input id="submit-busca" type="submit" class="btn submit-secondary-menu w-100" value="Buscar">
+                    </form>
+                </div>
+                <a class="navbar-brand nav-link search-button item-secundario" href="#"><i class="fa fa-search"></i></a> 
+            </div>
+        </div>
+    </nav>
+</section></header>
+
+    <section class="breadcrumbs metade-espaco">   
+        <section class="breadcrumbs-container container">
+                <section class="breadcrumbs-main row">
+                <div class="breadcrumbs-content col-12">
+                    <div id="crumbs"><a href="https://semil.sp.gov.br/educacaoambiental"><i class="fa fa-home" style="font-size:18px;"></i></a> / <a href="https://semil.sp.gov.br/educacaoambiental/prateleira-ambiental/">Prateleira Ambiental</a> / <span class="current">Poluição atmosférica na ótica do Sistema Único de Saúde: vigilância em saúde ambiental e qualidade do ar</span></div>                </div>
+            </section>
+        </section>
+    </section>
+
+
+
+<section class="content-area metade-espaco-top">
+    <main class="container"> 
+        <section class="row">
+                            <div class="link-back espaco t-26 col-12">
+                    <a href="javascript:history.go(-1)" class="t-26">
+                        <i class="icon-ic_arrow_back_24px"></i>
+                    </a>
+                    <h2 class="text-uppercase t-26">Poluição atmosférica na ótica do Sistema Único de Saúde: vigilância em saúde ambiental e qualidade do ar</h2>
+                </div>
+                        <article class="col-12 col-md-8">
+                <div id="content" class="site-content" role="main">
+                    <section class="altespaco60">
+    <div class="imgDestaque">
+<img width="1024" height="1024" src="https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-1024x1024.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-1024x1024.jpg 1024w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-300x300.jpg 300w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-150x150.jpg 150w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-768x768.jpg 768w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-48x48.jpg 48w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-250x250.jpg 250w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-550x550.jpg 550w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-800x800.jpg 800w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-180x180.jpg 180w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica-500x500.jpg 500w, https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicaoatmosferica.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px"><div class=""><p class="imgDestaqueDate espaco">17/08/2023</p></div>
+  
+</div>        <div class="wp-content">
+            <p data-pm-slice="1 1 []"><strong>Poluição atmosférica na ótica do Sistema Único de Saúde</strong>: vigilância em saúde ambiental e qualidade do ar. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Saúde Ambiental, do Trabalhador e Vigilância das Emergências em Saúde Pública, 2021.</p>
+<p>A poluição do ar consiste num importante fator de risco para saúde pública, estando associada ao adoecimento e à morte, principalmente por doenças cardiorrespiratórias e câncer de pulmão. O presente material, elaborado pelo Ministério da Saúde (MS), tem como objetivo abordar a relação entre poluição do ar e a saúde humana a fim de esclarecer aos usuários e aos profissionais do Sistema Único de Saúde (SUS) os aspectos que tangenciam este tema. A promoção e a proteção da saúde da população por meio da melhoria da qualidade do ar depende de políticas e medidas adotadas por agentes públicos e privados.</p>
+<p>&nbsp;</p>
+<p><a href="https://smastr16.blob.core.windows.net/portaleducacaoambiental/sites/201/2023/08/poluicao_atmosferica_sus_saude_ambiental.pdf" target="_blank" rel="noopener">Download da publicação</a></p>
+        </div>
+
+    </section>                </div>
+            </article>
+            <aside id="sidebar" class="col-12 col-md-4 espaco ">
+    <div class="sticky col-12">
+<li id="horizon_prateleirasearch-2" class="widget horizon_prateleiraSearch metade-espaco-top"><h3 class="widgettitle metade-espaco"></h3>
+
+            <form role="search" action="https://semil.sp.gov.br/educacaoambiental/" method="get" id="searchform">
+                <input type="text" name="s" placeholder="Buscar item da Prateleira">
+                <input type="hidden" name="prateleira_ambiental" value="prateleira_ambiental">
+                <input type="submit" alt="Search" value="Buscar">
+            </form>
+        <div class="borda-bottom-clara"></div></li>
+    </div>
+</aside>
+
+            
+        </section>
+        <div class="row"><div class="col-12 div-btn-right redes-sociais espaco d-flex justify-content-between"><div class="mt-auto mb-auto"></div><div class="mt-auto mb-auto"><a href="https://www.linkedin.com/cws/share?url=http://semil.sp.gov.br/educacaoambiental/prateleira-ambiental/poluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar/" target="_blank"><i class="fa fa-linkedin"></i></a><a target="_blank" href="http://pinterest.com/pin/create/button/?url=http://semil.sp.gov.br/educacaoambiental/prateleira-ambiental/poluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar/&amp;media=http://arquivo.ambiente.sp.gov.br/home/2018/11/header-01-site.jpg&amp;description=Polui%C3%A7%C3%A3o%20atmosf%C3%A9rica%20na%20%C3%B3tica%20do%20Sistema%20%C3%9Anico%20de%20Sa%C3%BAde%3A%20vigil%C3%A2ncia%20em%20sa%C3%BAde%20ambiental%20e%20qualidade%20do%20ar"><i class="fa fa-pinterest-p"></i></a><a href="http://twitter.com/intent/tweet?text=Poluição atmosférica na ótica do Sistema Único de Saúde: vigilância em saúde ambiental e qualidade do ar&amp;url=http://semil.sp.gov.br/educacaoambiental/prateleira-ambiental/poluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar/&amp;via=ambientesp" title="Twittar sobrePoluição atmosférica na ótica do Sistema Único de Saúde: vigilância em saúde ambiental e qualidade do ar" target="_blank"><i class="fa fa-twitter"></i></a><a href="http://facebook.com/share.php?u=http://semil.sp.gov.br/educacaoambiental/prateleira-ambiental/poluicao-atmosferica-na-otica-do-sistema-unico-de-saude-vigilancia-em-saude-ambiental-e-qualidade-do-ar/&amp;t=Polui%C3%A7%C3%A3o+atmosf%C3%A9rica+na+%C3%B3tica+do+Sistema+%C3%9Anico+de+Sa%C3%BAde%3A+vigil%C3%A2ncia+em+sa%C3%BAde+ambiental+e+qualidade+do+ar" target="_blank" title="Compartilhar Poluição atmosférica na ótica do Sistema Único de Saúde: vigilância em saúde ambiental e qualidade do ar no Facebook"><i class="fa fa-facebook-f"></i></a></div></div></div>    </main>
+</section>
+
+    <footer class="main-footer footer3 d-print-none" style="background:#231f20;border-top:solid 5px ;">
+        <section class="footer-content padding-top espaco">
+            <div class="container">
+
+                <div class="row footer-content-row">
+                   <div class="col-md-8">
+                        <div class="col-12 row">
+
+                                                                    <div class="col-md-3">
+                                                                                    </div>
+                                                                            <div class="col-md-3">
+                                                                                    </div>
+                                                                            <div class="col-md-3">
+                                                                                    </div>
+                                                                            <div class="col-md-3">
+                                                                                    </div>
+                                                           </div>
+                   </div>                  
+                    <div class="col-md-4">
+                                                <div class="text-center text-md-right footer-instituicoes  bar-white"></div>
+                        
+                        <div class="row footer-content-row flex-row-reverse">
+                            <div class="col-md-12 d-flex flex-row-reverse text-right telefone">
+                                                                    <i class="fa fa-phone"></i>
+                                    <p>+55 11 3133-3000 </p>
+                                                            </div>
+                            <div class="col-12 d-flex flex-row-reverse text-right endereco">
+                                                                     <i class="fa fa-globe"></i>
+                                    <p>Av. Professor Frederico Hermann Junior, 345<br>
+                                    Alto de Pinheiros - CEP 05459-900 - São Paulo</p>
+                                                            </div>
+                         </div>
+                    </div>
+               </div>
+            
+            </div>
+        </section>
+        <a id="back-to-top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
+        <section class="main-footer-copyright">
+            <section class="container footer-copyright-container">
+                <section class="row flex-row-reverse footer-copyright-row">
+                    <div class="col-12 col-md-2 social-icon text-center">
+
+                                                  <a href="https://twitter.com/semilsp" target="_blank"><i class="fa fa-twitter"></i></a>
+                                                                            <a href="https://www.facebook.com/semilsp" target="_blank"><i class="fa fa-facebook"></i></a>
+                                                                            <a href="https://www.instagram.com/semilsp" target="_blank"><i class="fa fa-instagram"></i></a>
+                        
+                                                    <a href="https://www.youtube.com/@semilsp" target="_blank"><i class="fa fa-youtube"></i></a>
+                        
+                    </div>
+                    <div class="col-12 col-md-10 text-center copyright">
+                                            2025 | Secretaria de Meio Ambiente, Infraestrutura e Logística | Portal de Educação Ambiental                                        </div>
+                    
+                </section>
+            </section>
+        </section>    </footer>
+    <section id="govsp-rodape" class="border-top">
+    <div class="container">
+        <div class="linha-botoes">
+            <div class="coluna-4">
+                <a href="https://fala.sp.gov.br/" class="btn btn-model">Ouvidoria</a>
+            </div>
+
+            <div class="coluna-4">
+                <a href="http://www.transparencia.sp.gov.br/" class="btn btn-model">Transparência</a>
+            </div>
+
+            <div class="coluna-4">
+                <a href="https://fala.sp.gov.br/" class="btn btn-model">SIC</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container rodape mt-4">
+        <div class="logo-rodape">
+            <a href="https://www.saopaulo.sp.gov.br/">
+                <img src="https://www.saopaulo.sp.gov.br/barra-govsp/img/logo-rodape-governo-do-estado-sp.png" alt="site do Governo de São Paulo" width="206" height="38">
+            </a>
+        </div>
+    </div>
+</section>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["domingo","segunda-feira","ter\u00e7a-feira","quarta-feira","quinta-feira","sexta-feira","s\u00e1bado"],"dayNamesShort":["dom","seg","ter","qua","qui","sex","s\u00e1b"],"dayNamesMin":["D","S","T","Q","Q","S","S"],"monthNames":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"monthNamesShort":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"monthNamesMin":["jan","fev","mar","abr","maio","jun","jul","ago","set","out","nov","dez"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js?ver=1.12.9" id="calendario-publicacoes-popper-js-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/calendario-publicacoes/script.js" id="calendario-publicacoes-js-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/semil.sp.gov.br\/educacaoambiental\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2023-10-27 10:58:15+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Error:":["Erro:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/novabarradogoverno/js/barratopo.js?ver=1.0" id="governo-sp-barra-js-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/semil-sorteios/src/js/jquery.mask.min.js?ver=1.0.0" id="sorteios-jquerymask-js-js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js?ver=3.2.1" id="sma-horizon-bootstrap-jquery-js"></script>
+<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?ver=4.0.0" id="sma-horizon-bootstrap-js-js"></script>
+<script type="text/javascript" id="public-sma-portal-wdn-js-js-extra">
+/* <![CDATA[ */
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/js/public-sma-portal-wdn.js?ver=2.3.0" id="public-sma-portal-wdn-js-js"></script>
+<script type="text/javascript" id="owl-carousel-wdn-js-js-extra">
+/* <![CDATA[ */
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/js/owl.carousel.min.js?ver=2.3.0" id="owl-carousel-wdn-js-js"></script>
+<script type="text/javascript" id="init-carrossel-js-js-extra">
+/* <![CDATA[ */
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/js/init-carrossel.js?ver=2.3.0" id="init-carrossel-js-js"></script>
+<script type="text/javascript" id="/-js-extra">
+/* <![CDATA[ */
+var owlAtributes = {"num_col":"3"};
+var owlAtributes = {"num_col":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/sma-portal-widget-destaque-news/class/../assets/js/public-sma-portal-wdn.js?ver=2.3.0" id="/-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon-cea/js/init.js?ver=1" id="child-init-js-js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js?ver=1.12.9" id="sma-horizon-bootstrap-jquery-popper-js"></script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js?ver=1.12.0" id="sma-horizon-datepicker-jquery-js"></script>
+<script type="text/javascript" src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js?ver=4.0.0" id="sma-horizon-masonry-js-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon/inc/magnificpopup/jquery.magnific-popup.min.js?ver=1.0.0" id="sma-horizon-popup-js-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon/js/script.js?ver=1.0.0" id="sma-horizon-horizon-js-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/themes/horizon/js/sticky.js?ver=1.0.0" id="sma-horizon-sticky-js-js"></script>
+<script type="text/javascript" src="https://semil.sp.gov.br/educacaoambiental/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.1.2" id="__ytprefsfitvids__-js"></script>
+
+
+
+
+
+
+
+</body></html>

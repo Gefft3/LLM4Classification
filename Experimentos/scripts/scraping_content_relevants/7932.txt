@@ -1,0 +1,2319 @@
+<html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,initial-scale=1, initial-scale=1.0, user-scalable=no">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="google-site-verification" content="8pnJe8rohHwyVen0WXYCjOqXYOM0yclYiqaefh-7eJw">
+
+	<!-- Title -->
+	<title>Surto de sarampo: Flórida relata 10 casos, incluindo 9 em Broward</title>
+
+
+	<link rel="preconnect" href="https://www.google.com" crossorigin="">
+	<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="">
+	<link rel="preconnect" href="https://csi.gstatic.com" crossorigin="">
+	<link rel="preconnect" href="https://stats.g.doubleclick.net" crossorigin="">
+	<link rel="preconnect" href="https://cdn.onesignal.com" crossorigin="">
+	<meta http-equiv="x-dns-prefetch-control" content="on">
+	<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+	<link rel="dns-prefetch" href="//securepubads.g.doubleclick.net">
+	<link rel="dns-prefetch" href="//cm.g.doubleclick.net">
+	<link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+	<link rel="dns-prefetch" href="//www.googletagmanager.com">
+	<link rel="dns-prefetch" href="//www.googletagservices.com">
+	<link rel="dns-prefetch" href="//www.googleadservices.com">
+	<link rel="dns-prefetch" href="//www.google-analytics.com">
+	<link rel="dns-prefetch" href="//www.googleads.g.doubleclick.net">
+	<link rel="dns-prefetch" href="//cdn.onesignal.com">
+
+	<!-- ADS -->
+		<script type="text/javascript">
+		var adtags = adtags || {};
+		var adInline = adInline || {};
+
+		adtags.adunits = adtags.adunits || [];
+		adInline.adunits = adInline.adunits || [];
+
+		adtags.campanhas = adtags.campanhas || [];
+		adtags.campanhas.push(0, 2774477697);
+
+		adtags.cmd = adtags.cmd || [];
+		adInline.cmd = adInline.cmd || [];
+
+					adtags.adunits.push({
+				name: 'leaderboard_ATF',
+				divname: 'div-gpt-ad-1234567890123-0',
+				size: [[728,90],[336,280],[320,100],[320,50],[300,250],[300,50]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[728,90],[320,100],[320,50],[300,50]]).
+					addSize([320, 0], [[320,100],[320,50],[300,250],[300,50]]).
+					build();
+					return ret;
+				}
+							});
+					adtags.adunits.push({
+				name: 'rectangle_ATF_right',
+				divname: 'div-gpt-ad-1234567890123-1',
+				size: [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					addSize([320, 0], [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					build();
+					return ret;
+				}
+							});
+					adtags.adunits.push({
+				name: 'rectangle_BTF_right_x1',
+				divname: 'div-gpt-ad-1234567890123-2',
+				size: [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					addSize([320, 0], [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					build();
+					return ret;
+				}
+							});
+					adtags.adunits.push({
+				name: 'rectangle_BTF_right_x2',
+				divname: 'div-gpt-ad-1234567890123-3',
+				size: [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					addSize([320, 0], [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					build();
+					return ret;
+				}
+							});
+					adtags.adunits.push({
+				name: 'rectangle_BTF_right_x3',
+				divname: 'div-gpt-ad-1234567890123-4',
+				size: [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					addSize([320, 0], [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					build();
+					return ret;
+				}
+							});
+					adtags.adunits.push({
+				name: 'billboard_FB',
+				divname: 'div-gpt-ad-1234567890123-5',
+				size: [[970,90],[728,90],[320,100],[320,50],[300,50]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([970, 0], [[970,90],[728,90],[320,100],[320,50],[300,50]]).
+					addSize([320, 0], [[320,100],[320,50],[300,50]]).
+					build();
+					return ret;
+				}
+				,
+						beforeShow: 
+            function(e){
+                $('.fixer-footer').show()
+            }
+        												});
+					adtags.adunits.push({
+				name: 'rectangle_modal',
+				divname: 'div-gpt-ad-1234567890123-6',
+				size: [[550,480],[300,260]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[550,480]]).
+					addSize([320, 0], [[300,260]]).
+					build();
+					return ret;
+				}
+				,
+						beforeShow: 
+																						function(e){
+																				$('#modal').show()
+																			}
+																							,
+						view: 
+																			function(e){
+																				$('#'+e.slot.getSlotId().getDomId()).append('<button style="font-weight: bold;background-color: #fff;color: #000;border-radius: 50px;width: 22px; height: 22px;padding: 0px;font-size: 12px;" onclick="$(\'#modal\').hide()">x</button>')
+																				setTimeout(function() {
+																					$('#modal').hide();
+																				}, 30000);
+																			}
+																							,
+						timeframe: -1												});
+					adtags.adunits.push({
+				name: 'materia_rectangle_inline_x1',
+				divname: 'div-gpt-ad-1234567890123-7',
+				size: [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					addSize([320, 0], [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					build();
+					return ret;
+				}
+							});
+							adInline.adunits.push({
+				name: 'materia_rectangle_inline',
+				size: [[336,280],[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]],
+				sizeMap: function() {
+					var ret = googletag.sizeMapping().
+					addSize([768, 0], [[336,280],[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					addSize([320, 0], [[320,100],[320,50],[300,250],[300,50],[250,250],[200,200],[180,150]]).
+					build();
+					return ret;
+				}
+				,
+						freq: 4
+					,
+						after: 'p.texto'
+					,
+						prepend: '<p class="texto">'
+					,
+						pospend: '</p>'
+												});
+			</script>
+			<script>
+			adInline.cmd.push(function() {
+				adtags.addInline(0);
+			});
+		</script>
+		<script src="/js/dfp.js?v=37"></script>
+	<!-- AMP -->
+	<link rel="canonical" href="https://www.gazetanews.com/noticias/florida/2024/03/479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html">
+			<link rel="amphtml" href="https://www.gazetanews.com/noticias/florida/2024/03/amp/479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html">
+		<!-- AUTO REFRESH -->
+	
+
+	<!-- GENERAL -->
+	<meta property="title" content="Surto de sarampo: Flórida relata 10 casos, incluindo 9 em Broward">
+	<meta name="description" content="Portal de notícias 24h online">
+	<meta name="author" content="Arlaine Castro">
+	<meta name="robots" content="all">
+	<meta name="referrer" content="always">
+	<meta name="language" content="pt-br">
+
+	<meta itemprop="name" content="GazetaNews">
+	<meta itemprop="description" content="Portal de notícias 24h online">
+	<meta itemprop="copyrightYear" content="2024">
+	<meta itemprop="copyrightHolder" content="GazetaNews">
+
+	
+	<!-- ARTICLE -->
+				<meta property="article:tag" content="Sarampo">
+			<meta itemprop="keywords" content="Sarampo">
+			
+	<!-- FACEBOOK -->
+	<meta property="og:site_name" content="GazetaNews">
+	<meta property="og:title" content="Surto de sarampo: Flórida relata 10 casos, incluindo 9 em Broward">
+	<meta property="og:description" content="Portal de notícias 24h online">
+	<meta property="og:url" content="https://www.gazetanews.com/noticias/florida/2024/03/479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html">
+	<meta property="og:image" content="https://midias.gazetanews.com/wp-content/uploads/2019/04/sarampo-Foto-engeplus.jpg">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="article">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="600">
+	<meta property="og:image:height" content="450">
+
+	
+	<meta property="article:published_time" content="2024-11-28">
+	<meta property="article:author" content="Arlaine Castro">
+	<meta property="article:publisher" content="https://www.facebook.com/gazetabraziliannews/">
+	<meta property="article:published_time" content="2024-03-01 11:27:18">
+
+	<!-- TWITTER -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="https://www.gazetanews.com/noticias/florida/2024/03/479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html">
+	<meta name="twitter:title" content="Surto de sarampo: Flórida relata 10 casos, incluindo 9 em Broward">
+	<meta name="twitter:description" content="Portal de notícias 24h online">
+	<meta property="twitter:image:src" content="https://midias.gazetanews.com/wp-content/uploads/2019/04/sarampo-Foto-engeplus.jpg">
+
+	<meta name="application-name" content="Gazeta Brazilian News">
+	<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">
+		{
+			"@context": "https://schema.org",
+			"@graph": [{
+				"@type": "Organization",
+				"@id": "/#organization",
+				"name": "",
+				"url": "/",
+				"sameAs": ["http://www.facebook.com/pages/Gazeta-Brazilian-News/178598944481", "http://www.oninstagram.com/profile/gazetanews", "https://twitter.com/Gazeta_News"]
+			}, {
+				"@type": "WebSite",
+				"@id": "/#website",
+				"url": "/",
+				"name": "Gazeta News: O maior Jornal Brasileiro da Florida, nos EUA",
+				"publisher": {
+					"@id": "/#organization"
+				},
+				"potentialAction": {
+					"@type": "SearchAction",
+					"target": "/?s={search_term_string}",
+					"query-input": "required name=search_term_string"
+				}
+			}, {
+				"@type": "WebPage",
+				"@id": "/#webpage",
+				"url": "/",
+				"inLanguage": "pt-BR",
+				"name": "Gazeta News: O maior Jornal Brasileiro da Fl\u00f3rida, nos EUA",
+				"isPartOf": {
+					"@id": "/#website"
+				},
+				"about": {
+					"@id": "/#organization"
+				},
+				"image": {
+					"@type": "ImageObject",
+					"@id": "/#primaryimage",
+					"url": "/wp-content/uploads/2017/11/BANNER_GAZETA_1.gif",
+					"width": 730,
+					"height": 90
+				},
+				"primaryImageOfPage": {
+					"@id": "/#primaryimage"
+				},
+				"datePublished": "2018-04-16T04:42:23-04:00",
+				"dateModified": "2020-06-10T14:51:45-04:00",
+				"description": "Por 26 anos o Jornal Gazeta News tem se destacado na comunidade brasileira da Fl\u00f3rida, nos EUA, como o melhor jornal brasileiro da regi\u00e3o"
+			}]
+		}
+	</script>
+	<!-- / Yoast SEO plugin. -->
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//s.w.org">
+	<link rel="alternate" type="application/rss+xml" title="Feed para Gazeta News: O maior Jornal Brasileiro da Florida, nos EUA »" href="/feed/">
+	<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Gazeta News: O maior Jornal Brasileiro da Florida, nos EUA »" href="/comments/feed/">
+	<script type="text/javascript">
+		gg_rtl = false;
+		gg_columnized_max_w = 260;
+		gg_masonry_min_w = 250;
+		gg_phosostr_min_w = 250;
+		gg_coll_max_w = 400;
+
+		gg_preload_hires_img = false;
+		gg_use_deeplink = true;
+		gg_monopage_filter = false;
+		gg_back_to_gall_scroll = true;
+
+		// global vars
+		gg_galleria_toggle_info = true;
+		gg_galleria_fx = 'slide';
+		gg_galleria_fx_time = 400;
+		gg_galleria_img_crop = true;
+		gg_galleria_autoplay = true;
+		gg_galleria_interval = 3000;
+		gg_delayed_fx = true;
+	</script>
+	<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+	<script type="text/javascript" data-cfasync="false">
+		var mi_version = '7.10.4';
+		var mi_track_user = true;
+		var mi_no_track_reason = '';
+
+		var disableStr = 'ga-disable-UA-150557724-1';
+
+		/* Function to detect opted out users */
+		function __gaTrackerIsOptedOut() {
+			return document.cookie.indexOf(disableStr + '=true') > -1;
+		}
+
+		/* Disable tracking if the opt-out cookie exists. */
+		if (__gaTrackerIsOptedOut()) {
+			window[disableStr] = true;
+		}
+
+		/* Opt-out function */
+		function __gaTrackerOptout() {
+			document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+			window[disableStr] = true;
+		}
+
+		if (mi_track_user) {
+			(function(i, s, o, g, r, a, m) {
+				i['GoogleAnalyticsObject'] = r;
+				i[r] = i[r] || function() {
+					(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date();
+				a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0];
+				a.async = 1;
+				a.src = g;
+				m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', '//www.google-analytics.com/analytics.js', '__gaTracker');
+
+			__gaTracker('create', 'G-0TYXBTJ0M5', 'auto');
+			__gaTracker('set', 'forceSSL', true);
+			__gaTracker('require', 'displayfeatures');
+			__gaTracker('send', 'pageview');
+		} else {
+			console.log("");
+			(function() {
+				/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+				var noopfn = function() {
+					return null;
+				};
+				var noopnullfn = function() {
+					return null;
+				};
+				var Tracker = function() {
+					return null;
+				};
+				var p = Tracker.prototype;
+				p.get = noopfn;
+				p.set = noopfn;
+				p.send = noopfn;
+				var __gaTracker = function() {
+					var len = arguments.length;
+					if (len === 0) {
+						return;
+					}
+					var f = arguments[len - 1];
+					if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+						console.log('Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason);
+						return;
+					}
+					try {
+						f.hitCallback();
+					} catch (ex) {
+
+					}
+				};
+				__gaTracker.create = function() {
+					return new Tracker();
+				};
+				__gaTracker.getByName = noopnullfn;
+				__gaTracker.getAll = function() {
+					return [];
+				};
+				__gaTracker.remove = noopfn;
+				window['__gaTracker'] = __gaTracker;
+			})();
+		}
+	</script>
+	<!-- Google tag (gtag.js) -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0TYXBTJ0M5"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-0TYXBTJ0M5');
+	</script>
+	<!-- / Google Analytics by MonsterInsights -->
+	<script type="text/javascript">
+		window._wpemojiSettings = {
+			"baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
+			"ext": ".png",
+			"svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/",
+			"svgExt": ".svg",
+			"source": {
+				"concatemoji": "https:\/\/gazetanews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"
+			}
+		};
+		/*! This file is auto-generated */
+		! function(e, a, t) {
+			var r, n, o, i, p = a.createElement("canvas"),
+				s = p.getContext && p.getContext("2d");
+
+			function c(e, t) {
+				var a = String.fromCharCode;
+				s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, e), 0, 0);
+				var r = p.toDataURL();
+				return s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, t), 0, 0), r === p.toDataURL()
+			}
+
+			function l(e) {
+				if (!s || !s.fillText) return !1;
+				switch (s.textBaseline = "top", s.font = "600 32px Arial", e) {
+					case "flag":
+						return !c([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) && (!c([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !c([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]));
+					case "emoji":
+						return !c([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340])
+				}
+				return !1
+			}
+
+			function d(e) {
+				var t = a.createElement("script");
+				t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
+			}
+			for (i = Array("flag", "emoji"), t.supports = {
+					everything: !0,
+					everythingExceptFlag: !0
+				}, o = 0; o < i.length; o++) t.supports[i[o]] = l(i[o]), t.supports.everything = t.supports.everything && t.supports[i[o]], "flag" !== i[o] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[i[o]]);
+			t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function() {
+				t.DOMReady = !0
+			}, t.supports.everything || (n = function() {
+				t.readyCallback()
+			}, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
+				"complete" === a.readyState && t.readyCallback()
+			})), (r = t.source || {}).concatemoji ? d(r.concatemoji) : r.wpemoji && r.twemoji && (d(r.twemoji), d(r.wpemoji)))
+		}(window, document, window._wpemojiSettings);
+	</script>
+	<style type="text/css">
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel="stylesheet" id="js_composer_front-css" href="/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="wp-block-library-theme-css" href="/wp-includes/css/dist/block-library/theme.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="gg-lcl-skin-css" href="/wp-content/plugins/global-gallery/js/lightboxes/lc-lightbox/skins/light.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="gg-lightbox-css-css" href="/wp-content/plugins/global-gallery/js/lightboxes/lc-lightbox/css/lc_lightbox.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="pencisc-css" href="/wp-content/plugins/penci-framework/assets/css/single-shortcode.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-oswald-css" href="//fonts.googleapis.com/css?family=Oswald%3A400&amp;ver=5.4.2" type="text/css" media="all">
+	<link rel="stylesheet" id="parent-style-css" href="/wp-content/themes/pennews/style.css?v=21" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-style-child-css" href="/wp-content/themes/pennews-child/style.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-font-awesome-css" href="/wp-content/themes/pennews/css/font-awesome.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CMukta+Vaani%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7COswald%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CTeko%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CPoppins%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%7CJosefin+Sans%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%3A300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%26subset%3Dcyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Clatin-ext" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-portfolio-css" href="/wp-content/themes/pennews/css/portfolio.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-recipe-css" href="/wp-content/themes/pennews/css/recipe.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-review-css" href="/wp-content/themes/pennews/css/review.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="penci-style-css" href="/wp-content/themes/pennews-child/style.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="bootstrap-css" href="/css/bootstrap/bootstrap.min.css" type="text/css" media="all">
+
+
+	<link rel="stylesheet" id="penci-style-css" href="/css/style_header.css?v=" 21="" type="text/css" media="all">
+
+	<link rel="stylesheet" id="gg_fontawesome-css" href="/wp-content/plugins/global-gallery/css/font-awesome/css/font-awesome.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="gg-custom-css-css" href="/wp-content/plugins/global-gallery/css/custom.css?ver=21" type="text/css" media="all">
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var monsterinsights_frontend = {
+			"js_events_tracking": "true",
+			"download_extensions": "doc,pdf,ppt,zip,xls,docx,pptx,xlsx",
+			"inbound_paths": "[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]",
+			"home_url": "https:\/\/gazetanews.com",
+			"hash_tracking": "false"
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=21"></script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var impression_object = {
+			"ajax_url": "https:\/\/gazetanews.com\/wp-admin\/admin-ajax.php"
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/wp-content/plugins/adrotate-pro/library/jquery.adrotate.dyngroup.js"></script>
+
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var click_object = {
+			"ajax_url": "https:\/\/gazetanews.com\/wp-admin\/admin-ajax.php"
+		};
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js"></script>
+	<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js?ver=21" id="jquery-core-js"></script>
+	<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=21"></script>
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
+	<meta name="generator" content="WordPress 5.4.2">
+	<link rel="shortlink" href="/">
+	<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgazetanews.com%2F">
+	<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgazetanews.com%2F&amp;format=xml">
+	<!-- AdRotate CSS -->
+	<style type="text/css" media="screen">
+		.g {
+			margin: 0px;
+			padding: 0px;
+			overflow: hidden;
+			line-height: 1;
+			zoom: 1;
+		}
+
+		.g img {
+			height: auto;
+		}
+
+		.g-col {
+			position: relative;
+			float: left;
+		}
+
+		.g-col:first-child {
+			margin-left: 0;
+		}
+
+		.g-col:last-child {
+			margin-right: 0;
+		}
+
+		.g-1 {
+			margin: 0px 0px 0px 0px;
+			float: left;
+			clear: left;
+		}
+
+		.g-2 {
+			margin: 0px 0px 0px 0px;
+			width: 100%;
+			max-width: 320px;
+			height: 100%;
+			max-height: 100px;
+		}
+
+		.g-3 {
+			margin: 22px 22px 22px 22px;
+			width: 100%;
+			max-width: 350px;
+			height: 100%;
+			max-height: 350px;
+			float: left;
+			clear: left;
+		}
+
+		.g-4 {
+			margin: 0px 0px 0px 0px;
+			width: 100%;
+			max-width: 300px;
+			height: 100%;
+			max-height: 250px;
+		}
+
+		.g-5 {
+			margin: 0px 0px 0px 0px;
+			width: 100%;
+			max-width: 300px;
+			height: 100%;
+			max-height: 250px;
+		}
+
+		.g-6 {
+			margin: 20px 20px 20px 0px;
+			width: 100%;
+			max-width: 340px;
+			height: 100%;
+			max-height: 300px;
+			float: left;
+			clear: left;
+		}
+
+		@media only screen and (max-width: 480px) {
+
+			.g-col,
+			.g-dyn,
+			.g-single {
+				width: 100%;
+				margin-left: 0;
+				margin-right: 0;
+			}
+		}
+	</style>
+	<!-- /AdRotate CSS -->
+
+	<!-- <meta name="NextGEN" version="3.2.2" /> -->
+	<script>
+		var portfolioDataJs = portfolioDataJs || [];
+		var penciBlocksArray = [];
+		var PENCILOCALCACHE = {};
+		(function() {
+			"use strict";
+
+			PENCILOCALCACHE = {
+				data: {},
+				remove: function(ajaxFilterItem) {
+					delete PENCILOCALCACHE.data[ajaxFilterItem];
+				},
+				exist: function(ajaxFilterItem) {
+					return PENCILOCALCACHE.data.hasOwnProperty(ajaxFilterItem) && PENCILOCALCACHE.data[ajaxFilterItem] !== null;
+				},
+				get: function(ajaxFilterItem) {
+					return PENCILOCALCACHE.data[ajaxFilterItem];
+				},
+				set: function(ajaxFilterItem, cachedData) {
+					PENCILOCALCACHE.remove(ajaxFilterItem);
+					PENCILOCALCACHE.data[ajaxFilterItem] = cachedData;
+				}
+			};
+		})();
+
+		function penciBlock() {
+			this.atts_json = '';
+			this.content = '';
+		}
+	</script>
+	<style type="text/css">
+	</style>
+	<style type="text/css">
+
+	</style>
+	<script type="application/ld+json">
+		{
+			"@context": "http:\/\/schema.org\/",
+			"@type": "organization",
+			"@id": "#organization",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https:\/\/gazetanews.com\/wp-content\/uploads\/2016\/02\/cropped-LogoGazeta-1.png"
+			},
+			"url": "https:\/\/gazetanews.com\/",
+			"name": "Gazeta News: O maior Jornal Brasileiro da Florida, nos EUA",
+			"description": "H\u00e1 26 anos servindo a comunidade brasileira na Florida"
+		}
+	</script>
+	<script type="application/ld+json">
+		{
+			"@context": "http:\/\/schema.org\/",
+			"@type": "WebSite",
+			"name": "Gazeta News: O maior Jornal Brasileiro da Florida, nos EUA",
+			"alternateName": "H\u00e1 26 anos servindo a comunidade brasileira na Florida",
+			"url": "https:\/\/gazetanews.com\/",
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "https:\/\/gazetanews.com\/search\/{search_term}",
+				"query-input": "required name=search_term"
+			}
+		}
+	</script>
+	<script type="application/ld+json">
+		{
+			"@context": "http:\/\/schema.org\/",
+			"@type": "WPSideBar",
+			"name": "Sidebar Right",
+			"alternateName": "Add widgets here to display them on blog and single",
+			"url": "https:\/\/gazetanews.com"
+		}
+	</script>
+	<script type="application/ld+json">
+		{
+			"@context": "http:\/\/schema.org\/",
+			"@type": "WPSideBar",
+			"name": "Sidebar Left",
+			"alternateName": "Add widgets here to display them on page",
+			"url": "https:\/\/gazetanews.com"
+		}
+	</script>
+	<meta property="fb:app_id" content="348280475330978">
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+	<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
+	<style type="text/css" id="custom-background-css">
+		body.custom-background {
+			background-color: #ffffff;
+		}
+	</style>
+	<!-- AdRotate JS -->
+	<script type="text/javascript">
+		var $ = jQuery;
+		jQuery(document).ready(function() {
+			if (jQuery.fn.gslider) {
+				jQuery('.g-2').gslider({
+					groupid: 2,
+					speed: 15000,
+					repeat_impressions: 'Y'
+				});
+				jQuery('.g-3').gslider({
+					groupid: 3,
+					speed: 6000,
+					repeat_impressions: 'Y'
+				});
+				jQuery('.g-4').gslider({
+					groupid: 4,
+					speed: 6000,
+					repeat_impressions: 'Y'
+				});
+				jQuery('.g-5').gslider({
+					groupid: 5,
+					speed: 8000,
+					repeat_impressions: 'Y'
+				});
+				jQuery('.g-6').gslider({
+					groupid: 6,
+					speed: 7000,
+					repeat_impressions: 'Y'
+				});
+			}
+		});
+	</script>
+	<!-- /AdRotate JS -->
+
+	<link rel="icon" href="/img/cropped-favicongn-32x32.png" sizes="32x32">
+	<link rel="icon" href="/img/cropped-favicongn-192x192.png" sizes="192x192">
+	<link rel="apple-touch-icon" href="/wp-content/uploads/2017/11/cropped-favicongn-180x180.png">
+	<meta name="msapplication-TileImage" content="/wp-content/uploads/2017/11/cropped-favicongn-270x270.png">
+	<style type="text/css" id="wp-custom-css">
+		.penci-page-header {
+			background-color: #eee;
+		}
+
+		.penci-image-holder {
+			position: relative;
+			width: 100%;
+			background: #ffffff url(images/no-image.jpg);
+			display: block;
+			vertical-align: top;
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: cover;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			height: 100%;
+			transition: transform .3s ease, opacity .3s;
+			transition-timing-function: cubic-bezier(0.39, 0.76, 0.51, 0.56);
+		}
+	</style>
+	<script type="text/javascript">
+		jQuery(document).delegate('.gg_linked_img', 'click', function() {
+			var link = jQuery(this).data('gg-link');
+			window.open(link, '_top');
+		});
+	</script>
+
+	<style type="text/css" data-type="vc_shortcodes-custom-css">
+		.vc_custom_1587428070484 {
+			padding-top: 3px !important;
+		}
+
+		@media screen and (min-width: 1025px) {
+			.vc_custom_1588269363661 {
+				margin-top: 0px !important;
+			}
+		}
+
+		.vc_custom_1588114037051 {
+			margin-left: 0px !important;
+		}
+
+		.vc_custom_1588114047376 {
+			margin-left: 0px !important;
+		}
+	</style><noscript>
+		<style type="text/css">
+			.wpb_animate_when_almost_visible {
+				opacity: 1;
+			}
+		</style>
+	</noscript>
+	<style>
+		a.custom-button.pencisc-button {
+			background: transparent;
+			color: #D3347B;
+			border: 2px solid #D3347B;
+			line-height: 36px;
+			padding: 0 20px;
+			font-size: 14px;
+			font-weight: bold;
+		}
+
+		a.custom-button.pencisc-button:hover {
+			background: #D3347B;
+			color: #fff;
+			border: 2px solid #D3347B;
+		}
+
+		a.custom-button.pencisc-button.pencisc-small {
+			line-height: 28px;
+			font-size: 12px;
+		}
+
+		a.custom-button.pencisc-button.pencisc-large {
+			line-height: 46px;
+			font-size: 18px;
+		}
+	</style>
+	<style>
+		.carousel-control-prev-icon,
+		.carousel-control-next-icon {
+			outline: black;
+			background-size: 100%, 100%;
+			background-image: none;
+		}
+
+		.carousel-control-next-icon {
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+			color: black;
+			position: absolute;
+			right: -30px;
+		}
+
+		.carousel-control-prev-icon {
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+			color: black;
+			position: absolute;
+			left: -30px;
+		}
+
+		.carousel-caption {
+			position: absolute !important;
+			right: 0% !important;
+			bottom: 0px !important;
+			left: 0% !important;
+			z-index: 10 !important;
+			padding-top: 0px !important;
+			padding-bottom: 0px !important;
+			color: #fff !important;
+			text-align: center !important;
+			font-size: 14px;
+		}
+
+		#posts .ad-unit {
+			display: flex;
+			align-content: center;
+			justify-content: center;
+			margin-top: 30px;
+			margin-bottom: 30px;
+			flex-flow: column;
+		}
+
+		.ad-unit:before {
+			content: "publicidade";
+			width: 100%;
+			color: #000;
+			text-transform: uppercase;
+			font-size: 10px;
+			font-family: Open-Sans-Regular, sans-serif;
+			text-align: center;
+			-webkit-letter-spacing: .5px;
+			-moz-letter-spacing: .5px;
+			-ms-letter-spacing: .5px;
+			letter-spacing: .5px;
+			padding: 0 0 5px;
+			display: block;
+			position: relative;
+			opacity: .8;
+			background: #fff;
+		}
+
+		.ad-unit>div {
+			text-align: center;
+			display: inline-flex;
+		}
+
+		.ad-unit iframe {
+			display: block;
+			margin: 0 auto;
+		}
+
+		.ads-fixed>.ad-unit {
+			margin: 0 auto;
+			width: 100%;
+			height: 97px;
+			border: 1px solid #000;
+			background-color: white;
+		}
+
+		.ads-fixed>.ad-unit:before {
+			content: "";
+		}
+
+		.modal1 .ad-unit:before {
+			content: "";
+			padding: 0px;
+		}
+
+		.close-btn {
+			border: 1px solid black;
+			padding-left: 1px;
+			padding-right: 1px;
+			background-color: white;
+			right: 10px;
+			bottom: 100px;
+			position: fixed;
+		}
+
+		.fixer-footer {
+			text-align: -webkit-center;
+			position: fixed;
+			left: 0;
+			bottom: 0;
+			width: 100%;
+			z-index: 99;
+		}
+
+		.wpb_wrapper.ads {
+			display: flex;
+			justify-content: space-evenly;
+		}
+
+		.wpb_wrapper.ads2 {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+			align-items: center;
+			flex-wrap: wrap;
+		}
+
+		.wpb_wrapper.ads2>div {
+			float: left;
+		}
+
+		@media (max-width:600px) {
+
+			.wpb_wrapper.ads,
+			.wpb_wrapper.ads2 {
+				display: block;
+			}
+
+			.wpb_wrapper.ads>div,
+			.wpb_wrapper.ads2>div {
+				clear: both;
+				float: none;
+			}
+
+
+		}
+
+		.iframe-container {
+			position: relative;
+			padding-bottom: 56.25%;
+			/* 16:9 */
+			height: 0;
+		}
+
+		.iframe-container iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+	</style>
+	<link rel="stylesheet" id="vc_google_fonts_poppins100100italic200200italic300300italicregularitalic500500italic600600italic700700italic800800italic900900italic-css" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin&amp;ver=5.4.2" type="text/css" media="all">
+	<link rel="stylesheet" id="sb-font-awesome-css" href="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/css/font-awesome.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="sbvcytc-style-css" href="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/css/style.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="sb-sbtrap-style-css" href="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/css/sbtrap.min.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="sb-animate-css-css" href="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/css/animate.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="sb-magnific-popup-style-css" href="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/css/magnific-popup.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="sb-slick-style-css" href="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/css/slick.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="ngg_trigger_buttons-css" href="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="fancybox-0-css" href="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="fontawesome_v4_shim_style-css" href="https://use.fontawesome.com/releases/v5.3.1/css/v4-shims.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="fontawesome-css" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="nextgen_basic_thumbnails_style-css" href="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="nextgen_pagination_style-css" href="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pagination/static/style.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="nggallery-css" href="/wp-content/ngg_styles/nggallery.css?ver=21" type="text/css" media="all">
+	<link rel="stylesheet" id="custom-css" href="/css/custom.css?ver=21" type="text/css" media="all">
+
+	
+</head>
+
+<body class="home-page bp-legacy home page-template page-template-page-templates page-template-full-width page-template-page-templatesfull-width-php page page-id-3863 wp-custom-logo group-blog header-sticky penci_enable_ajaxsearch penci_sticky_content_sidebar wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+
+
+	<div id="modal" style="display:none; width: 100%; height: 100%; background-color:transparent; position: fixed; top: 0; left: 0; z-index: 100002;">
+		<div style="width: 100%; height: 100%; background-color: #000; position: absolute; top: 0; left: 0; opacity: 0.8;"></div>
+		<style>
+			user agent stylesheet h2 {
+				display: block;
+				font-size: 1.5em;
+				margin-block-start: 0.83em;
+				margin-block-end: 0.83em;
+				margin-inline-start: 0px;
+				margin-inline-end: 0px;
+				font-weight: bold;
+			}
+
+			@media screen and (max-width: 551px) .msg-paywall {
+				text-align: center;
+				width: 60%;
+				position: absolute;
+				justify-content: center;
+				height: 310px;
+				display: flex;
+				align-items: center;
+				padding: 20px;
+				flex-wrap: wrap;
+			}
+		</style>
+		<div class="modal1" style="position: relative; top: 15%;">
+			<div class="block divcenter">
+				<div class="center" style="text-align: -webkit-center;">
+					
+		<div id="ad-unit-6" class="ad-unit">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(6); });</script>
+		</div>
+						</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="page" class="site">
+		<div class="penci-topbar clearfix style-1">
+						<div class="penci-topbar_container penci-container-fluid">
+				<div class="penci-topbar__left">
+					<!--<div class="topbar_item topbar_weather"> <i class="penci-weather-icons wi wi-night-rain"></i>
+						<div class="penci-weather-now"> <span class="penci-weather-degrees">85.53</span> <span class="penci-weather-unit">F</span></div>
+						<div class="penci-weather-location">
+							<div class="penci-weather-city">Deerfield Beach</div>
+						</div>
+					</div>-->
+					<div class="topbar_item topbar_date"></div>
+					<div class="topbar_item topbar_fale"><a href="/fale-conosco" style="text-decoration: none;">FALE CONOSCO</a></div>
+					
+				</div>
+				<div class="penci-topbar__right">
+					<div class="topbar_item topbar__social-media">
+						<a class="social-media-item socail_media__facebook" target="_blank" href="https://www.facebook.com/gazetabraziliannews/" title="Facebook" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-facebook"></i><span class="social_title screen-reader-text">Facebook</span></span></a><a class="social-media-item socail_media__twitter" target="_blank" href="https://twitter.com/Gazeta_News" title="Twitter" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-twitter"></i><span class="social_title screen-reader-text">Twitter</span></span></a><a class="social-media-item socail_media__instagram" target="_blank" href="https://www.instagram.com/gazetanews/" title="Instagram" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-instagram"></i><span class="social_title screen-reader-text">Instagram</span></span></a><a class="social-media-item socail_media__google" target="_blank" href="https://play.google.com/store/apps/details?id=com.app.psmgyywajfipolrajbkwcutzsteivhldxunenvrgmh" title="Google" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-google-plus"></i><span class="social_title screen-reader-text">Google</span></span></a><a class="social-media-item socail_media__youtube" target="_blank" href="https://www.youtube.com/channel/UCcZxlThCegoTiiWwGR6_16w" title="Youtube" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-youtube-play"></i><span class="social_title screen-reader-text">Youtube</span></span></a><a class="social-media-item socail_media__rss" target="_blank" href="/_conteudo/noticias/rss.xml" title="Rss" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-rss"></i><span class="social_title screen-reader-text">Rss</span></span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="site-header-wrapper">
+			<div class="header__top header--s2">
+				<div class="penci-container-fluid header-top__container">
+					<div class="site-branding">
+						<h1><a href="/" class="custom-logo-link" rel="home"><img width="370" height="70" src="/img/logo_gazetanews.png" class="custom-logo" alt="Gazeta News"></a></h1>
+					</div>
+					<div class="header__banner" itemscope="" itemtype="https://schema.org/WPAdBlock" data-type="image">
+						
+		<div id="ad-unit-0" class="ad-unit">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(0); });</script>
+		</div>
+							</div>
+				</div>
+			</div>
+			<header id="masthead" class="site-header header--s2" data-height="80" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+    <div class="penci-container-fluid header-content__container">
+        <nav id="site-navigation" class="main-navigation penci_disable_padding_menu penci_enable_line_menu pencimn-fadein_up" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+			<ul id="menu-main-navigation" class="menu">
+				<li id="menu-item-180546-123" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-180546"><a href="/" itemprop="url">Home</a></li>
+<li id="menu-item-139275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139275"><a href="/noticias" itemprop="url">Notícias</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/tags/coronavirus/" itemprop="url">Coronavirus</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/florida" itemprop="url">Flórida</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/noticias/eua" itemprop="url">EUA</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/imigracao" itemprop="url">Imigração</a></li>
+		<li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="/noticias/brasil" itemprop="url">Brasil</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/mundo" itemprop="url">Mundo</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/noticias/esportes" itemprop="url">Esportes</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/entretenimento" itemprop="url">Entretenimento</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/opiniao" itemprop="url">Opinião</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/noticias/tecnologia" itemprop="url">Tecnologia</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/noticias/economia" itemprop="url">Economia</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/politica" itemprop="url">Política</a></li>
+	</ul>
+</li>
+<li id="menu-item-139291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139291"><a href="/imigracao" itemprop="url">Imigração</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/imigracao" itemprop="url">Notícias</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/imigracao/duvidas-frequentes" itemprop="url">Dúvidas Frequentes</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/imigracao/pergunte-ao-advogado" itemprop="url">Pergunte ao Advogado</a></li>
+		<li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="/imigracao/tipos-de-vistos" itemprop="url">Tipos de Vistos</a></li>
+	</ul>
+</li>
+<li id="menu-item-197837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-197837"><a href="/colunistas" itemprop="url">Colunistas</a>
+	<ul class="sub-menu">
+				<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/chris-bianchi" itemprop="url">CHRIS BIANCHI - INSIGHT</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/claudia-fehribach" itemprop="url">CLAUDIA FEHRIBACH – FINANÇAS</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/fabiano-bellati">FABIANO BELLATI - ECONOMIA</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/colunistas/gene-de-souza" itemprop="url">GENE DE SOUZA – MÚSICA</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/george-fernandes" itemprop="url">GEORGE FERNANDES - ESPORTES</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/giovana-guido--saude-e-bem-estar" itemprop="url">GIOVANA GUIDO – SAÚDE &amp; BEM-ESTAR</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/jana-nascimento-nagase" itemprop="url">JANA NAGASE – CINEMA E TV</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/lair-ribeiro" itemprop="url">LAIR RIBEIRO – COMPORTAMENTO</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/samantha-di-khali" itemprop="url">SAMANTHA DIKHALI – HORÓSCOPO CIGANO</a></li>
+        <li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/telma-abrahao--comportamento" itemprop="url">TELMA ABRAHÃO - COMPORTAMENTO</a></li>
+    </ul>
+</li>
+<li id="menu-item-139820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139820"><a href="/entretenimento" itemprop="url">Entretenimento</a>
+	<ul class="sub-menu">
+				<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/entretenimento/sociais">SOCIAIS</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/colunistas/miami-be-happy">MIAMI BE HAPPY</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/jana-nascimento-nagase">Cinema &amp; Televisão</a></li>
+		<li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="/colunistas/lair-ribeiro">Comportamento</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/claudia-fehribach">Finanças</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/gene-de-souza">Música</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/giovana-guido--saude-e-bem-estar">Saúde &amp; Bem-Estar</a></li>
+	</ul>
+</li>
+<li id="menu-item-166967" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-166967"><a href="/furacao" itemprop="url">Furacão</a></li>
+<li id="menu-item-166967" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-166967"><a href="/podcast" itemprop="url">PODCAST</a></li>
+<!-- <li id="menu-item-180581" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-180581"><a href="/fale-conosco" itemprop="url">Anuncie</a></li> -->
+<li id="menu-item-180581" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-180581"><a href="/fale-conosco" itemprop="url">Fale Conosco</a></li>
+<li id="menu-item-139333" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-139333"><a href="/edicoes-impressas" itemprop="url">Edições Impressas</a></li>
+	
+			</ul>
+		</nav>
+        <div class="header__social-search">
+            <div class="penci-menuhbg-wapper penci-menu-toggle-wapper">
+                <a href="#pencimenuhbgtoggle" class="penci-menuhbg-toggle">
+                    <span class="penci-menuhbg-inner">
+                        <i class="lines-button lines-button-double">
+                            <i class="penci-lines"></i>
+                        </i>
+                        <i class="lines-button lines-button-double penci-hover-effect">
+                            <i class="penci-lines"></i>
+                        </i>
+                    </span>
+                </a>
+            </div>
+            <div class="header__search header__search_dis_bg" id="top-search">
+                <a class="search-click"><i class="fa fa-search"></i></a>
+                <div class="show-search">
+                    <div class="show-search__content">
+                        <div class="search">
+                            <div class="search-box">
+                                <style>
+                                    .search-box {
+                                        display: none;
+                                    }
+
+                                    @media (min-width:768px) {
+                                        .search-box {
+                                            display: flex;
+                                        }
+                                    }
+
+                                    #___gcse_0 {
+                                        height: 30px;
+                                        margin-top: 50px;
+                                    }
+
+                                    .gsc-input {
+                                        float: left;
+                                        display: inline-block;
+                                        width: 145px;
+                                        height: 24px;
+                                        line-height: 24px;
+                                        padding: 0 3%;
+                                        outline: none;
+                                        border: 1px solid #9e9d9d;
+                                        font-family: 'Lato-Regular';
+                                        font-size: 13px;
+                                        color: #878786;
+                                        font-weight: normal;
+                                        padding: 0;
+                                    }
+
+                                    .gsc-search-box-tools .gsc-search-box .gsc-input,
+                                    .gs_tti50,
+                                    .gsib_a {
+                                        margin: 0;
+                                        padding: 0;
+                                        background-color: #FFFFFF;
+                                    }
+
+                                    .gs_tti50 {
+                                        height: 22px;
+                                    }
+
+                                    .gs_tti50 input {
+                                        margin-top: -5px;
+                                        background: none;
+                                        height: 22px;
+                                    }
+
+                                    .gsc-search-button {
+                                        background-image: url(images/search-icon.png);
+                                        background-repeat: no-repeat;
+                                        margin-left: 5px;
+                                        padding: 0;
+                                        height: 25px;
+                                        width: 25px;
+                                        background-position: 6px 6px;
+                                    }
+
+                                    .gsc-search-button input,
+                                    input.gsc-search-button,
+                                    input.gsc-search-button:hover,
+                                    input.gsc-search-button:focus {
+                                        border: none;
+                                        opacity: 0;
+                                        width: 50px;
+                                        height: 50px;
+                                        margin-top: -12px;
+                                        background-size: 18px;
+                                        background-color: #fff;
+
+                                    }
+
+                                    input.gsc-input {
+                                        background: none !important;
+                                        font-family: 'Open Sans', arial, sans-serif;
+                                        font-weight: 700;
+                                        font-size: 14px;
+                                        line-height: 14px;
+                                        padding-bottom: 5px !important;
+                                    }
+
+                                    table td.gsib_b {
+                                        border: none;
+                                        padding: 0px;
+                                    }
+
+                                    .gsc-input-box {
+                                        border: none;
+                                    }
+
+                                    button.gsc-search-button {
+                                        display: flex;
+                                        align-items: center;
+                                        justify-content: center;
+                                        background-color: #1F83AF;
+                                    }
+
+                                    .gscb_a {
+                                        line-height: 22px;
+                                    }
+
+                                    a.gsst_a {
+                                        margin: 0px;
+                                        border: none;
+                                    }
+
+                                    table td.gsib_a {
+                                        border: none;
+                                    }
+
+                                    .gsc-control-cse {
+                                        background-color: #F8F9FA;
+                                        border-color: #F8F9FA;
+                                        margin-top: -50px;
+                                    }
+
+                                    .svg {
+                                        margin-top: 0px !important;
+                                    }
+
+                                    .gsc-above-wrapper-area-container tbody tr {
+                                        display: flex;
+                                        white-space: nowrap;
+                                        justify-content: space-between;
+                                    }
+
+                                    .gs-title {
+                                        font-size: 17px;
+                                    }
+
+                                    .gs-webResult .gs-visibleUrl {
+                                        font-size: 12px;
+                                    }
+
+                                    .gs-web-image-box .gs-image {
+                                        max-width: 150px;
+                                    }
+
+                                    .gs-snippet {
+                                        font-size: 14px;
+                                    }
+
+                                    .gs-web-image-box {
+                                        width: 160px;
+                                    }
+
+                                    .gsc-results .gsc-cursor-box .gsc-cursor-page {
+                                        font-size: 16px;
+                                    }
+                                </style>
+                                <script>
+                                    (function() {
+                                        var cx = 'acd3377eee39800ad';
+                                        var gcse = document.createElement('script');
+                                        gcse.type = 'text/javascript';
+                                        gcse.async = true;
+                                        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                                        var s = document.getElementsByTagName('script')[0];
+                                        s.parentNode.insertBefore(gcse, s);
+                                        setTimeout(function() {
+                                            var result = document.getElementsByClassName("gsc-results-wrapper-overlay")[0];
+                                            var body = document.getElementsByTagName('body')[0];
+                                            body.insertBefore(result, body.firstChild);
+                                        }, 3000);
+                                    })();
+                                </script>
+                                <gcse:search></gcse:search>
+                            </div>
+                        </div>
+                        <div class="penci-ajax-search-results">
+                            <div id="penci-ajax-search-results-wrapper" class="penci-ajax-search-results-wrapper"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div></header>
+		</div>
+		<div class="penci-header-mobile">
+			<div class="penci-header-mobile_container">
+				<button class="menu-toggle navbar-toggle" aria-expanded="false"><span class="screen-reader-text">Menu</span><i class="fa fa-bars"></i></button>
+				<div class="site-branding">
+					<a href="/" class="custom-logo-link" rel="home"><img width="232" height="60" src="/img/logo_gazetanews.png" "="" class=" custom-logo" alt="Gazeta News"></a>
+				</div>
+				<div class="header__search-mobile header__search" id="top-search-mobile"> <a class="search-click"><i class="fa fa-search"></i></a>
+					<div class="show-search">
+						<div class="show-search__content">
+							<form method="get" class="search-form" action="/search/">
+								<label> <span class="screen-reader-text">Search for:</span>
+									<input type="text" id="penci-search-field-mobile" class="search-field penci-search-field-mobile" placeholder="Enter keyword..." value="" name="q" autocomplete="off"> </label>
+								<button type="submit" class="search-submit"> <i class="fa fa-search"></i> <span class="screen-reader-text">Search</span> </button>
+							</form>
+							<div class="penci-ajax-search-results">
+								<div class="penci-ajax-search-results-wrapper"></div>
+								<div class="penci-loader-effect penci-loading-animation-9">
+									<div class="penci-loading-circle">
+										<div class="penci-loading-circle1 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle2 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle3 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle4 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle5 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle6 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle7 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle8 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle9 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle10 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle11 penci-loading-circle-inner"></div>
+										<div class="penci-loading-circle12 penci-loading-circle-inner"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><div id="content" class="site-content">
+	<div class="penci-page-header penci-pheader-center" style="height:160px;padding-top:40px;padding-bottom:40px;">
+		<div class="penci-page-header-inner penci-container-fluid">
+			<h1 class="penci-page-header-title titulo-materia">Surto de sarampo: Flórida relata 10 casos, incluindo 9 em Broward</h1>
+			<div class="penci_breadcrumbs">
+				<ul itemscope="" itemtype="http://schema.org/BreadcrumbList">
+					<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="name">
+							Notícias<i class="fa fa-angle-right"></i>Flórida						</span>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+			<div class="vc_row wpb_row vc_row_27848147 vc_row-fluid penci-pb-row" style="background-color: #fff;">
+				<div class="wpb_column vc_column_container vc_col-sm-12 penci-col-12">
+					<div class="vc_column-inner wpb_column vc_column_container vc_col-sm-12 penci-col-12 ">
+						<div class="wpb_wrapper">
+							<div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+							<div class="penci-container-vc penci-container-fluid penci-container-width-1400 penci_vc_sticky_sidebar penci-vc_two-sidebar">
+								<div class="penci-container__content penci-con_sb2_sb1">
+									<div class="penci-content-main penci-wide-content " role="complementary">
+										<div class="theiaStickySidebar">
+											<div class="penci-content-post noloaddisqus" data-id="1965" data-title="">
+												<article id="post-1965" class="penci-single-artcontent noloaddisqus post-1965 post type-post status-publish format-standard has-post-thumbnail hentry category-featured category-travel tag-life-style tag-news tag-travel tag-update penci-post-item">
+																										<div>
+														<p class="assunto">Sarampo Flórida </p>
+														<p class="chamada"></p>
+													</div>
+													<div class="entry-meta penci-entry-meta">
+														<span class="entry-meta-item penci-byline">by <span class="author vcard"><a class="url fn n" href="#">Arlaine Castro</a></span></span>
+														<span class="entry-meta-item penci-posted-on">
+															<i class="fa fa-clock-o"></i>
+															<time class="entry-date published" datetime="2024-03-01T11:27:18+00:00">01 de Março, 2024 às 11h27</time>
+															<time class="updated" datetime="1969-12-31T21:00:00+00:00">31 de Dezembro, 1969</time></span>
+														<!--<span class="entry-meta-item penci-comment-count"><a class="penci_pmeta-link" href="#respond"><i class="la la-comments"></i>0</a></span>-->
+													</div>
+													<div class="share-article">
+														<ul>
+															<li class="facebook">
+																<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gazetanews.com/noticias/florida/2024/03/479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html&amp;utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=AMP">
+																	<i class="icon icon-facebook">
+																		<svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" style="vertical-align: middle;">
+																			<g>
+																				<path d="m29.4 0.3v5.9h-3.5q-1.9 0-2.6 0.8t-0.7 2.4v4.2h6.6l-0.9 6.6h-5.7v16.9h-6.8v-16.9h-5.7v-6.6h5.7v-4.9q0-4.1 2.3-6.4t6.2-2.3q3.3 0 5.1 0.3z">
+																				</path>
+																			</g>
+																		</svg>
+																	</i>
+																</a>
+															</li>
+															<li class="twitter">
+																<a target="_blank" href="https://twitter.com/share?url=Surto+de+sarampo%3A+Fl%C3%B3rida+relata+10+casos%2C+incluindo+9+em+Broward+https%3A%2F%2Fwww.gazetanews.com%2Fnoticias%2Fflorida%2F2024%2F03%2F479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=AMP&amp;text=&amp;via=Gazeta_News">
+																	<i class="icon icon-twitter">
+																		<svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" style="vertical-align: middle;">
+																			<g>
+																				<path d="m37.7 9.1q-1.5 2.2-3.7 3.7 0.1 0.3 0.1 1 0 2.9-0.9 5.8t-2.6 5.5-4.1 4.7-5.7 3.3-7.2 1.2q-6.1 0-11.1-3.3 0.8 0.1 1.7 0.1 5 0 9-3-2.4-0.1-4.2-1.5t-2.6-3.5q0.8 0.1 1.4 0.1 1 0 1.9-0.3-2.5-0.5-4.1-2.5t-1.7-4.6v0q1.5 0.8 3.3 0.9-1.5-1-2.4-2.6t-0.8-3.4q0-2 0.9-3.7 2.7 3.4 6.6 5.4t8.3 2.2q-0.2-0.9-0.2-1.7 0-3 2.1-5.1t5.1-2.1q3.2 0 5.3 2.3 2.4-0.5 4.6-1.7-0.8 2.5-3.2 3.9 2.1-0.2 4.2-1.1z">
+																				</path>
+																			</g>
+																		</svg>
+																	</i>
+																</a>
+															</li>
+															<li class="whatsapp">
+																<a target="_blank" href="whatsapp://send?text=Surto+de+sarampo%3A+Fl%C3%B3rida+relata+10+casos%2C+incluindo+9+em+Broward+https%3A%2F%2Fwww.gazetanews.com%2Fnoticias%2Fflorida%2F2024%2F03%2F479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html&amp;utm_source=&amp;utm_medium=social&amp;utm_campaign=AMP">
+																	<i class="icon icon-whatsapp">
+																		<svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" style="vertical-align: middle;">
+																			<g>
+																				<path d="m25 21.7q0.3 0 2.2 1t2 1.2q0 0.1 0 0.3 0 0.8-0.4 1.7-0.3 0.9-1.6 1.5t-2.2 0.6q-1.3 0-4.3-1.4-2.2-1-3.8-2.6t-3.3-4.2q-1.6-2.3-1.6-4.3v-0.2q0.1-2 1.7-3.5 0.5-0.5 1.2-0.5 0.1 0 0.4 0t0.4 0.1q0.4 0 0.6 0.1t0.3 0.6q0.2 0.5 0.8 2t0.5 1.7q0 0.5-0.8 1.3t-0.7 1q0 0.2 0.1 0.3 0.7 1.7 2.3 3.1 1.2 1.2 3.3 2.2 0.3 0.2 0.5 0.2 0.4 0 1.2-1.1t1.2-1.1z m-4.5 11.9q2.8 0 5.4-1.1t4.5-3 3-4.5 1.1-5.4-1.1-5.5-3-4.5-4.5-2.9-5.4-1.2-5.5 1.2-4.5 2.9-2.9 4.5-1.2 5.5q0 4.5 2.7 8.2l-1.7 5.2 5.4-1.8q3.5 2.4 7.7 2.4z m0-30.9q3.4 0 6.5 1.4t5.4 3.6 3.5 5.3 1.4 6.6-1.4 6.5-3.5 5.3-5.4 3.6-6.5 1.4q-4.4 0-8.2-2.1l-9.3 3 3-9.1q-2.4-3.9-2.4-8.6 0-3.5 1.4-6.6t3.6-5.3 5.3-3.6 6.6-1.4z">
+																				</path>
+																			</g>
+																		</svg>
+																	</i>
+																</a>
+															</li>
+														</ul>
+													</div>
+													<style>
+														@media screen and (max-width: 539px) {
+															.imagem-carousel {
+																display: flex;
+																justify-content: center;
+																margin-bottom: 0px;
+																width: 320px;
+																height: 300px;
+															}
+														}
+
+														@media screen and (max-width: 767px) and (min-width: 540px) {
+															.imagem-carousel {
+																display: flex;
+																justify-content: center;
+																margin-bottom: 0px;
+																width: 540px;
+																height: 300px;
+															}
+														}
+
+														@media screen and (min-width: 768px) {
+															.imagem-carousel {
+																display: flex;
+																justify-content: center;
+																margin-bottom: 45px;
+																width: 720px;
+																height: 400px;
+															}
+														}
+													</style>
+
+																																										<div class="entry-media penci-entry-media">
+																<div class="post-format-meta ">
+																	<div class="post-image penci-standard-format">
+																		<figure id="attachment_2474" class="wp-caption alignnone">
+																			<img width="100%" height="auto" src="https://midias.gazetanews.com/wp-content/uploads/2019/04/sarampo-Foto-engeplus.jpg" class="attachment-penci-thumb-960-auto size-penci-thumb-960-auto wp-post-image" sizes="(max-width: 960px) 100vw, 960px" title="">
+																			<figcaption class="wp-caption-text">sarampo Foto engeplus Foto: </figcaption>
+																		</figure>
+																	</div>
+																</div>
+															</div>
+																																								<div class="penci-entry-content entry-content">
+														
+														<script src="/js/jquery/jquery-3.4.1.min.js"></script>
+
+														
+															<div style="float: right; margin-left: 15px;">
+																
+		<div id="ad-unit-7" class="ad-unit">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(7); });</script>
+		</div>
+		
+															</div><p class="texto">Um jovem que voltou de viagem é o último paciente com<a href="https://www.gazetanews.com/noticias/florida/2024/02/479421-surto-de-sarampo-aumenta-em-escola-de-broward-fl-doenca-foi-erradicada-nos-anos-2000.html"> sarampo na Flórida</a>. O caso do vírus altamente contagioso transmitido pelo ar no condado de Polk aumentou o total de casos confirmados no estado de nove para dez.</p>
+<p class="texto">De acordo com o Departamento de Saúde da Flórida, o novo paciente tem entre 20 e 24 anos. Os outros nove casos estão no condado de Broward. A maior parte são crianças que estudam na Manatee Bay Elementary School, em Weston. Três delas têm entre 10 e 14 anos. Outros quatro têm entre 5 e 9 anos e dois têm quatro anos ou menos.</p><div class="relatedMiddle"></div>
+<p class="texto">“Estamos vivendo uma doença que foi erradicada no início dos anos 2000”, disse Luisa Murcia, uma mãe preocupada que conversou recentemente com o Local 10 News em Broward.</p>
+<p class="texto">Durante esta semana no sul da Flórida, a Dra. Aileen Marty, especialista em doenças infecciosas da Universidade Internacional da Flórida, disse que a eficácia das vacinas fez com que as pessoas esquecessem o quão perigoso o sarampo pode ser.</p>
+<p class="texto">A lista do FDOH em Broward incluía seis casos desde terça-feira, depois que as autoridades relataram um surto em uma escola pública do condado de Broward, em Weston.</p>
+<p class="texto">“Antes, era preciso ter bons motivos para cancelar”, disse Marty sobre as vacinas exigidas para frequentar escolas públicas.</p>
+<p class="texto">Joseph Ladapo, cirurgião-geral do estado, enfrentou críticas sobre a maneira como lidou com o surto na Manatee Bay Elementary School, em 19200 Manatee Isles Drive.<br></p>
+<p class="texto">“Devido à alta taxa de imunidade na comunidade, bem como ao fardo para as famílias e ao custo educacional de crianças saudáveis que faltam à escola, (o departamento de saúde do estado) está transferindo para os pais ou responsáveis a tomada de decisões sobre a frequência escolar”, escreveu Ladapo em uma carta aos pais.</p>
+<p class="texto">O superintendente do condado de Broward, Peter Licata, relatou durante uma reunião pública que 33 dos 1.067 alunos da Manatee Bay Elementary School não foram vacinados.<br></p>
+<p class="texto">Os Centros de Controle e Prevenção de Doenças dos EUA recomendam que as crianças que não foram vacinadas contra o sarampo “sejam suspensas” de ir à escola durante três semanas para conter um surto.</p>
+<p class="texto">“O sarampo infectará 15 a 20 pessoas por pessoa entre os não vacinados”, disse Marty.<br></p>
+<p class="texto">Fonte: Local 10.</p>														<div class="share-article">
+															<ul>
+																<li class="facebook">
+																	<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gazetanews.com/noticias/florida/2024/03/479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html&amp;utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=AMP">
+																		<i class="icon icon-facebook">
+																			<svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" style="vertical-align: middle;">
+																				<g>
+																					<path d="m29.4 0.3v5.9h-3.5q-1.9 0-2.6 0.8t-0.7 2.4v4.2h6.6l-0.9 6.6h-5.7v16.9h-6.8v-16.9h-5.7v-6.6h5.7v-4.9q0-4.1 2.3-6.4t6.2-2.3q3.3 0 5.1 0.3z">
+																					</path>
+																				</g>
+																			</svg>
+																		</i>
+																	</a>
+																</li>
+																<li class="twitter">
+																	<a target="_blank" href="https://twitter.com/share?url=Surto+de+sarampo%3A+Fl%C3%B3rida+relata+10+casos%2C+incluindo+9+em+Broward+https%3A%2F%2Fwww.gazetanews.com%2Fnoticias%2Fflorida%2F2024%2F03%2F479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html&amp;utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=AMP&amp;text=&amp;via=Gazeta_News">
+																		<i class="icon icon-twitter">
+																			<svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" style="vertical-align: middle;">
+																				<g>
+																					<path d="m37.7 9.1q-1.5 2.2-3.7 3.7 0.1 0.3 0.1 1 0 2.9-0.9 5.8t-2.6 5.5-4.1 4.7-5.7 3.3-7.2 1.2q-6.1 0-11.1-3.3 0.8 0.1 1.7 0.1 5 0 9-3-2.4-0.1-4.2-1.5t-2.6-3.5q0.8 0.1 1.4 0.1 1 0 1.9-0.3-2.5-0.5-4.1-2.5t-1.7-4.6v0q1.5 0.8 3.3 0.9-1.5-1-2.4-2.6t-0.8-3.4q0-2 0.9-3.7 2.7 3.4 6.6 5.4t8.3 2.2q-0.2-0.9-0.2-1.7 0-3 2.1-5.1t5.1-2.1q3.2 0 5.3 2.3 2.4-0.5 4.6-1.7-0.8 2.5-3.2 3.9 2.1-0.2 4.2-1.1z">
+																					</path>
+																				</g>
+																			</svg>
+																		</i>
+																	</a>
+																</li>
+																<li class="whatsapp">
+																	<a target="_blank" href="whatsapp://send?text=Surto+de+sarampo%3A+Fl%C3%B3rida+relata+10+casos%2C+incluindo+9+em+Broward+https%3A%2F%2Fwww.gazetanews.com%2Fnoticias%2Fflorida%2F2024%2F03%2F479660-surto-de-sarampo-florida-relata-10-casos-incluindo-9-em-broward.html&amp;utm_source=&amp;utm_medium=social&amp;utm_campaign=AMP">
+																		<i class="icon icon-whatsapp">
+																			<svg fill="currentColor" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40" style="vertical-align: middle;">
+																				<g>
+																					<path d="m25 21.7q0.3 0 2.2 1t2 1.2q0 0.1 0 0.3 0 0.8-0.4 1.7-0.3 0.9-1.6 1.5t-2.2 0.6q-1.3 0-4.3-1.4-2.2-1-3.8-2.6t-3.3-4.2q-1.6-2.3-1.6-4.3v-0.2q0.1-2 1.7-3.5 0.5-0.5 1.2-0.5 0.1 0 0.4 0t0.4 0.1q0.4 0 0.6 0.1t0.3 0.6q0.2 0.5 0.8 2t0.5 1.7q0 0.5-0.8 1.3t-0.7 1q0 0.2 0.1 0.3 0.7 1.7 2.3 3.1 1.2 1.2 3.3 2.2 0.3 0.2 0.5 0.2 0.4 0 1.2-1.1t1.2-1.1z m-4.5 11.9q2.8 0 5.4-1.1t4.5-3 3-4.5 1.1-5.4-1.1-5.5-3-4.5-4.5-2.9-5.4-1.2-5.5 1.2-4.5 2.9-2.9 4.5-1.2 5.5q0 4.5 2.7 8.2l-1.7 5.2 5.4-1.8q3.5 2.4 7.7 2.4z m0-30.9q3.4 0 6.5 1.4t5.4 3.6 3.5 5.3 1.4 6.6-1.4 6.5-3.5 5.3-5.4 3.6-6.5 1.4q-4.4 0-8.2-2.1l-9.3 3 3-9.1q-2.4-3.9-2.4-8.6 0-3.5 1.4-6.6t3.6-5.3 5.3-3.6 6.6-1.4z">
+																					</path>
+																				</g>
+																			</svg>
+																		</i>
+																	</a>
+																</li>
+															</ul>
+														</div>
+														<!-- 
+														<figure id="attachment_2474" style="width: 380px" class="wp-caption alignnone">
+														<img class="wp-image-2474 size-full" src="http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1.jpg" alt="" width="800" height="533" srcset="http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1.jpg 800w, http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1-300x200.jpg 300w, http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1-768x512.jpg 768w, http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1-480x320.jpg 480w, http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1-280x186.jpg 280w, http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1-600x400.jpg 600w, http://max.pennews.pencidesign.com/wp-content/uploads/2017/07/single1-585x390.jpg 585w" sizes="(max-width: 800px) 100vw, 800px" />
+															<figcaption class="wp-caption-text">Donald Trump. Foto: Leah Mills\Reuters.</figcaption>
+														</figure>
+														
+														-->
+														<!-- 
+														<div class="penci-block_content"><div class="penci-slider-sync penci-fadeInUp" data-auto="0" data-autotime="4000" data-speed="800" data-loop="0" data-autowidth="1" data-nav="1"><div class="penci-big_items penci-big_thumbs  penci-owl-carousel-style popup-gallery-slider owl-loaded"><div class="owl-stage-outer owl-height" style="height: 453px;"><div class="owl-stage" style="transform: translate3d(-2716px, 0px, 0px); transition: all 0.8s ease 0s; width: 8148px;"><div class="owl-item cloned" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" data-src="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/nature-960x640.jpg" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/nature-960x640.jpg" title="Man Taking Photos Standing On Mountain"></a><span class="penci__gallery-caption"><span>Man Taking Photos Standing On Mountain</span></span></div></div><div class="owl-item cloned" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/smartphone-android-960x636.jpg" title="Instagram Update Rolling Out to All Users" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/smartphone-android-960x636.jpg&quot;);"></a><span class="penci__gallery-caption"><span>Instagram Update Rolling Out to All Users</span></span></div></div><div class="owl-item cloned" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/long-exposure-960x640.jpg" title="City Light with Long Exposure Photography" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/long-exposure-960x640.jpg&quot;);"></a><span class="penci__gallery-caption"><span>City Light with Long Exposure Photography</span></span></div></div><div class="owl-item" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/vr-960x640.jpg" title="This is an image caption" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/vr-960x640.jpg&quot;);"></a><span class="penci__gallery-caption"><span>This is an image caption</span></span></div></div><div class="owl-item active" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/hotel-960x640.jpg" title="Hotel Design Next To The Beach" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/hotel-960x640.jpg&quot;);"></a><span class="penci__gallery-caption"><span>Hotel Design Next To The Beach</span></span></div></div><div class="owl-item" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/skyscraper-960x540.jpg" title="Modern Architecture Showcase News" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/skyscraper-960x540.jpg&quot;);"></a><span class="penci__gallery-caption"><span>Modern Architecture Showcase News</span></span></div></div><div class="owl-item" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/nature-960x640.jpg" title="Man Taking Photos Standing On Mountain" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/nature-960x640.jpg&quot;);"></a><span class="penci__gallery-caption"><span>Man Taking Photos Standing On Mountain</span></span></div></div><div class="owl-item" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/smartphone-android-960x636.jpg" title="Instagram Update Rolling Out to All Users" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/smartphone-android-960x636.jpg&quot;);"></a><span class="penci__gallery-caption"><span>Instagram Update Rolling Out to All Users</span></span></div></div><div class="owl-item" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/long-exposure-960x640.jpg" title="City Light with Long Exposure Photography" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/long-exposure-960x640.jpg&quot;);"></a><span class="penci__gallery-caption"><span>City Light with Long Exposure Photography</span></span></div></div><div class="owl-item cloned" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" data-src="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/vr-960x640.jpg" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/vr-960x640.jpg" title="This is an image caption"></a><span class="penci__gallery-caption"><span>This is an image caption</span></span></div></div><div class="owl-item cloned" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" data-src="http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/hotel-960x640.jpg" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/hotel-960x640.jpg" title="Hotel Design Next To The Beach"></a><span class="penci__gallery-caption"><span>Hotel Design Next To The Beach</span></span></div></div><div class="owl-item cloned" style="width: 679px;"><div class="penci-gal-item"><a class="penci-image-holder penci-lazy" data-src="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/skyscraper-960x540.jpg" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/skyscraper-960x540.jpg" title="Modern Architecture Showcase News"></a><span class="penci__gallery-caption"><span>Modern Architecture Showcase News</span></span></div></div></div></div><div class="owl-nav"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></div><div class="penci-small_items penci-small_thumbs  penci-owl-carousel-style owl-loaded owl-drag"><div class="owl-stage-outer owl-height" style="height: 100px;"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 840px;"><div class="owl-item active item-active-1" style="width: auto;"><div class="penci-small-thumb penci-small-thumb-0"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/vr-960x640.jpg" title="This is an image caption" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/vr-960x640.jpg&quot;);"></a></div></div><div class="owl-item active current item-active-2" style="width: auto;"><div class="penci-small-thumb penci-small-thumb-1"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/hotel-960x640.jpg" title="Hotel Design Next To The Beach" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/hotel-960x640.jpg&quot;);"></a></div></div><div class="owl-item active item-active-3" style="width: auto;"><div class="penci-small-thumb penci-small-thumb-2"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/skyscraper-960x540.jpg" title="Modern Architecture Showcase News" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/skyscraper-960x540.jpg&quot;);"></a></div></div><div class="owl-item active" style="width: auto;"><div class="penci-small-thumb penci-small-thumb-3"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/nature-960x640.jpg" title="Man Taking Photos Standing On Mountain" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/nature-960x640.jpg&quot;);"></a></div></div><div class="owl-item active" style="width: auto;"><div class="penci-small-thumb penci-small-thumb-4"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/smartphone-android-960x636.jpg" title="Instagram Update Rolling Out to All Users" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/04/smartphone-android-960x636.jpg&quot;);"></a></div></div><div class="owl-item" style="width: auto;"><div class="penci-small-thumb penci-small-thumb-5"><a class="penci-image-holder penci-lazy" href="http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/long-exposure-960x640.jpg" title="City Light with Long Exposure Photography" style="display: block; background-image: url(&quot;http://max.pennews.pencidesign.com/wp-content/uploads/2017/05/long-exposure-960x640.jpg&quot;);"></a></div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div></div></div></div>
+														-->
+													</div>
+												</article>
+
+												<div class="related">
+																									</div>
+
+												<div class="penci-post-related"></div>
+												<div id="wordpress-1965-comment" class="active multi-wordpress-comment penci-tab-pane"></div>
+											</div>
+										</div>
+									</div>
+									<div class="widget-area widget-area-1 " role="complementary">
+	<div class="theiaStickySidebar" style="z-index: 62;">
+		<style>
+			#penci-banner_box--44505 .penci-promo-item.penci-banner-has-text:after {
+				content: none;
+			}
+		</style>
+		<div id="penci-banner_box--6854" class="penci-block-vc penci-banner-box penci-list-banner style-title-1 style-title-left penci-link-filter-hidden penci-empty-block-title penci-vc-column-1">
+			<div class="penci-block-heading"></div>
+			<div class="penci-block_content">
+				<div class="penci-promo-item penci-banner-has-text">
+					
+		<div id="ad-unit-1" class="ad-unit">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(1); });</script>
+		</div>
+						</div>
+			</div>
+		</div>
+		<div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+		<div id="penci-banner_box--44505" class="penci-block-vc penci-banner-box penci-list-banner style-title-1 style-title-left penci-link-filter-hidden penci-empty-block-title penci-vc-column-1 js-edicao">
+		</div>
+		<div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+		<div id="penci-banner_box--6854" class="penci-block-vc penci-banner-box penci-list-banner style-title-1 style-title-left penci-link-filter-hidden penci-empty-block-title penci-vc-column-1">
+			<div class="penci-block-heading"></div>
+			<div class="penci-block_content">
+				<div class="penci-promo-item penci-banner-has-text" style="height: 300px">
+					
+		<div id="ad-unit-2" class="ad-unit rectangle_BTF_right_x1" style="width: 100%">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(2); });</script>
+		</div>
+						</div>
+			</div>
+		</div>
+		<div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+		<div id="penci_block_6__27957343" class="penci-block-vc penci-block_6 penci__general-meta style-title-1 style-title-left penci-block-load_more penci-imgtype-landscape penci-link-filter-hidden penci-vc-column-1" data-current="1" data-blockuid="penci_block_6__27957343">
+			<div class="tab-content clearfix json_ultimas" data-url="/_conteudo/_files/json/ultimasnoticias.json" id="tabs-1">
+				<div id="recent-post-list-sidebar" class="json_ultimas_itens">
+				</div>
+			</div>
+		</div>
+		<style>
+			@media screen and (min-width: 768px) {
+				#penci_block_6__27957343 .penci-ajax-more .penci-block-ajax-more-button {
+					padding-top: 0;
+					font-size: 13px !important;
+				}
+			}
+
+			@media screen and (min-width: 768px) {
+				#penci_block_6__27957343 .penci__post-title {
+					font-size: 13px !important;
+				}
+			}
+		</style>
+		<div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+		<div id="penci-banner_box--6854" class="penci-block-vc penci-banner-box penci-list-banner style-title-1 style-title-left penci-link-filter-hidden penci-empty-block-title penci-vc-column-1">
+			<div class="penci-block-heading"></div>
+			<div class="penci-block_content">
+				<div class="penci-promo-item penci-banner-has-text">
+					
+		<div id="ad-unit-3" class="ad-unit">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(3); });</script>
+		</div>
+						</div>
+			</div>
+		</div>
+		<div id="penci-banner_box--6854" class="penci-block-vc penci-banner-box penci-list-banner style-title-1 style-title-left penci-link-filter-hidden penci-empty-block-title penci-vc-column-1">
+			<div class="penci-block-heading"></div>
+			<div class="penci-block_content">
+				<div class="penci-promo-item penci-banner-has-text">
+					
+		<div id="ad-unit-4" class="ad-unit">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(4); });</script>
+		</div>
+						</div>
+			</div>
+		</div>
+	</div>
+</div>								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+</div>
+<style>
+	.share-article {
+		margin: 0;
+		list-style: none
+	}
+
+	.share-article ul {
+		margin-bottom: 5px;
+	}
+
+	.share-article li a i.icon svg {
+		width: 20px;
+		height: 20px
+	}
+
+	svg:not(:root) {
+		overflow: hidden
+	}
+
+	.share-article li {
+		display: inline-block;
+		margin: 0 2px !important;
+	}
+
+	.share-article li a {
+		cursor: pointer;
+		position: relative;
+		z-index: 9
+	}
+
+	.share-article li a i.icon.icon-facebook {
+		background-color: #3b5998;
+		line-height: 28px
+	}
+
+	.share-article li a i.icon.icon-twitter {
+		background-color: #1da1f2;
+		line-height: 28px
+	}
+
+	.share-article li a i.icon.icon-whatsapp {
+		background-color: #4dc247;
+		line-height: 28px
+	}
+
+	.share-article li a i.icon {
+		display: inline-block;
+		width: 30px;
+		height: 30px;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		color: #fff;
+		border-radius: 0%;
+	}
+</style><div class="fixer-footer" style="display: none;">
+	<span class="fa fa-times close-btn" onclick="$('.fixer-footer').html('')"> </span>
+	<div class="ads-fixed">
+		
+		<div id="ad-unit-5" class="ad-unit">
+			<script type="text/javascript">adtags.cmd.push(function() { adtags.printAdUnit(5); });</script>
+		</div>
+			</div>
+</div>
+<footer id="colophon" class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+	<div class="footer__bottom style-1" style="background-color: #eee;">
+		<div class="footer__bottom_container footer__sidebars-inner penci-container-fluid" style="background-color: #eee;">
+			<div class="footer__logo">
+				<a href="/" rel="home"><img src="/img/logo_gazetanews.png" alt="logo" width="250" height="47"></a>
+			</div>
+			<div class="footer__social-media"> <a class="social-media-item socail_media__facebook" target="_blank" href="https://www.facebook.com/gazetabraziliannews/" title="Facebook" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-facebook"></i><span class="social_title screen-reader-text">Facebook</span></span></a><a class="social-media-item socail_media__twitter" target="_blank" href="https://twitter.com/Gazeta_News" title="Twitter" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-twitter"></i><span class="social_title screen-reader-text">Twitter</span></span></a><a class="social-media-item socail_media__instagram" target="_blank" href="https://www.instagram.com/gazetanews/" title="Instagram" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-instagram"></i><span class="social_title screen-reader-text">Instagram</span></span></a><a class="social-media-item socail_media__google" target="_blank" href="https://play.google.com/store/apps/details?id=com.app.psmgyywajfipolrajbkwcutzsteivhldxunenvrgmh" title="Google" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-google-plus"></i><span class="social_title screen-reader-text">Google</span></span></a><a class="social-media-item socail_media__youtube" target="_blank" href="https://www.youtube.com/channel/UCcZxlThCegoTiiWwGR6_16w" title="Youtube" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-youtube-play"></i><span class="social_title screen-reader-text">Youtube</span></span></a><a class="social-media-item socail_media__rss" target="_blank" href="/_conteudo/noticias/rss.xml" title="Rss" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-rss"></i><span class="social_title screen-reader-text">Rss</span></span></a></div>
+		</div>
+	</div>
+	<div class="footer__copyright_menu">
+		<div class="footer__sidebars-inner penci-container-fluid penci_bottom-sub penci_has_copyright penci_has_menu">
+			<div class="site-info"> @2024 - GazetaNews. All Right Reserved.</div>
+		</div>
+	</div>
+</footer>
+</div>
+<aside class="mobile-sidebar ">
+	<div id="sidebar-nav-logo">
+		<a href="/"><img src="/img/LogoGazeta-1.png" alt="Gazeta News: O maior Jornal Brasileiro da Florida, nos EUA"></a>
+	</div>
+	<div class="header-social sidebar-nav-social">
+		<div class="inner-header-social">
+			<a class="social-media-item socail_media__facebook" target="_blank" href="https://www.facebook.com/pages/Gazeta-Brazilian-News/178598944481" title="Facebook" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-facebook"></i><span class="social_title screen-reader-text">Facebook</span></span></a><a class="social-media-item socail_media__twitter" target="_blank" href="https://twitter.com/Gazeta_News" title="Twitter" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-twitter"></i><span class="social_title screen-reader-text">Twitter</span></span></a><a class="social-media-item socail_media__instagram" target="_blank" href="https://www.instagram.com/gazetanews/" title="Instagram" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-instagram"></i><span class="social_title screen-reader-text">Instagram</span></span></a><a class="social-media-item socail_media__google" target="_blank" href="https://play.google.com/store/apps/details?id=com.app.psmgyywajfipolrajbkwcutzsteivhldxunenvrgmh" title="Google" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-google-plus"></i><span class="social_title screen-reader-text">Google</span></span></a><a class="social-media-item socail_media__youtube" target="_blank" href="https://www.youtube.com/channel/UCcZxlThCegoTiiWwGR6_16w" title="Youtube" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-youtube-play"></i><span class="social_title screen-reader-text">Youtube</span></span></a><a class="social-media-item socail_media__rss" target="_blank" href="/feed/" title="Rss" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-rss"></i><span class="social_title screen-reader-text">Rss</span></span></a> </div>
+	</div>
+	<nav class="mobile-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+		<ul id="primary-menu-mobile" class="primary-menu-mobile">
+			<li id="menu-item-180546-123" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-180546"><a href="/" itemprop="url">Home</a></li>
+<li id="menu-item-139275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139275"><a href="/noticias" itemprop="url">Notícias</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/tags/coronavirus/" itemprop="url">Coronavirus</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/florida" itemprop="url">Flórida</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/noticias/eua" itemprop="url">EUA</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/imigracao" itemprop="url">Imigração</a></li>
+		<li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="/noticias/brasil" itemprop="url">Brasil</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/mundo" itemprop="url">Mundo</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/noticias/esportes" itemprop="url">Esportes</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/entretenimento" itemprop="url">Entretenimento</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/opiniao" itemprop="url">Opinião</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/noticias/tecnologia" itemprop="url">Tecnologia</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/noticias/economia" itemprop="url">Economia</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/noticias/politica" itemprop="url">Política</a></li>
+	</ul>
+</li>
+<li id="menu-item-139291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139291"><a href="/imigracao" itemprop="url">Imigração</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/imigracao" itemprop="url">Notícias</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/imigracao/duvidas-frequentes" itemprop="url">Dúvidas Frequentes</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/imigracao/pergunte-ao-advogado" itemprop="url">Pergunte ao Advogado</a></li>
+		<li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="/imigracao/tipos-de-vistos" itemprop="url">Tipos de Vistos</a></li>
+	</ul>
+</li>
+<li id="menu-item-197837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-197837"><a href="/colunistas" itemprop="url">Colunistas</a>
+	<ul class="sub-menu">
+				<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/chris-bianchi" itemprop="url">CHRIS BIANCHI - INSIGHT</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/claudia-fehribach" itemprop="url">CLAUDIA FEHRIBACH – FINANÇAS</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/fabiano-bellati">FABIANO BELLATI - ECONOMIA</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/colunistas/gene-de-souza" itemprop="url">GENE DE SOUZA – MÚSICA</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/george-fernandes" itemprop="url">GEORGE FERNANDES - ESPORTES</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/giovana-guido--saude-e-bem-estar" itemprop="url">GIOVANA GUIDO – SAÚDE &amp; BEM-ESTAR</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/jana-nascimento-nagase" itemprop="url">JANA NAGASE – CINEMA E TV</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/lair-ribeiro" itemprop="url">LAIR RIBEIRO – COMPORTAMENTO</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/samantha-di-khali" itemprop="url">SAMANTHA DIKHALI – HORÓSCOPO CIGANO</a></li>
+        <li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/telma-abrahao--comportamento" itemprop="url">TELMA ABRAHÃO - COMPORTAMENTO</a></li>
+    </ul>
+</li>
+<li id="menu-item-139820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139820"><a href="/entretenimento" itemprop="url">Entretenimento</a>
+	<ul class="sub-menu">
+				<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/entretenimento/sociais">SOCIAIS</a></li>
+		<li id="menu-item-3652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3652"><a href="/colunistas/miami-be-happy">MIAMI BE HAPPY</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/jana-nascimento-nagase">Cinema &amp; Televisão</a></li>
+		<li id="menu-item-3649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3649"><a href="/colunistas/lair-ribeiro">Comportamento</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/claudia-fehribach">Finanças</a></li>
+		<li id="menu-item-3651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3651"><a href="/colunistas/gene-de-souza">Música</a></li>
+		<li id="menu-item-3650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3650"><a href="/colunistas/giovana-guido--saude-e-bem-estar">Saúde &amp; Bem-Estar</a></li>
+	</ul>
+</li>
+<li id="menu-item-166967" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-166967"><a href="/furacao" itemprop="url">Furacão</a></li>
+<li id="menu-item-166967" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-166967"><a href="/podcast" itemprop="url">PODCAST</a></li>
+<!-- <li id="menu-item-180581" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-180581"><a href="/fale-conosco" itemprop="url">Anuncie</a></li> -->
+<li id="menu-item-180581" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-180581"><a href="/fale-conosco" itemprop="url">Fale Conosco</a></li>
+<li id="menu-item-139333" class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-home menu-item-139333"><a href="/edicoes-impressas" itemprop="url">Edições Impressas</a></li>
+					</ul>
+	</nav>
+</aside>
+<a id="close-sidebar-nav" class="header-1"><i class="fa fa-close"></i></a>
+<div class="penci-menu-hbg-overlay"></div>
+<div class="penci-menu-hbg penci-menu-hbg-left">
+	<div class="penci-menu-hbg-inner">
+		<a id="penci-close-hbg"><i class="fa fa-close"></i></a>
+		<div class="penci-hbg-header">
+			<div class="penci-hbg-logo site-branding"><a href="/home" rel="home"><img src="/img/LogoGazeta-1.png" alt="logo "></a></div>
+		</div>
+		<div class="penci-hbg-content">
+			<div class="penci-menu-hbg-widgets1">
+			</div>
+			<nav class="menu-hamburger-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+				<ul id="primary-menu-mobile" class="primary-menu-mobile">
+					<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-180546"><a href="https://gazetanews.com" aria-current="page">Home</a></li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-197931"><a href="/tags/coronavirus/">CORONAVIRUS</a></li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-139275"><a href="/noticias">NOTÍCIAS</a>
+						<ul class="sub-menu">
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139285"><a href="/noticias/florida">FLÓRIDA</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139276"><a href="/noticias/eua">EUA</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139280"><a href="/imigracao">IMIGRAÇÃO</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139283"><a href="/noticias/brasil">BRASIL</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139277"><a href="/noticias/mundo">MUNDO</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139278"><a href="/noticias/esportes">ESPORTE</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139823"><a href="/entretenimento">ENTRETENIMENTO</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139286"><a href="/noticias/opiniao">OPINIÃO</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-180547"><a href="/noticias/tecnologia">TECNOLOGIA</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-180548"><a href="/noticias/economia">ECONOMIA</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-180559"><a href="/noticias/politica">POLÍTICA</a></li>
+						</ul>
+					</li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-139291"><a href="/imigracao">IMIGRAÇÃO</a>
+						<ul class="sub-menu">
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139292"><a href="/imigracao">NOTÍCIAS</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139293"><a href="/imigracao/duvidas-frequentes">DÚVIDAS FREQUENTES</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139289"><a href="/imigracao/pergunte-ao-advogado">PERGUNTE AO ADVOGADO</a></li>
+							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139290"><a href="/imigracao/tipos-de-vistos">TIPOS DE VISTOS</a></li>
+						</ul>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-197837"><a href="/colunistas">COLUNISTAS</a>
+						<ul class="sub-menu">
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197843"><a href="/colunistas/adriana-tanese-nogueira">Adriana Tanese – Saúde e Bem Estar</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197841"><a href="/colunistas/claudia-fehribach">Claudia Fehribach – Finanças</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199176"><a href="/colunistas/connie-rocha">Connie Rocha – Bastidores</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197838"><a href="/colunistas/emerson-duran">Emerson Duran – Meteorologia</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197842"><a href="/colunistas/gene-de-souza">Gene de Souza – Música</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197840"><a href="/colunistas/ingrid-domingues">Ingrid Domingues – Imigração</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197839"><a href="/colunistas/jana-nascimento-nagase">Jana Nagase – Cinema e TV</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198615"><a href="/colunistas/roberta">Roberta D”Albuquerque – Maternidade</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198614"><a href="/colunistas/samantha-di-khali">Samantha Dikhali – Horóscopo Cigano</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198614"><a href="/colunistas/lair-ribeiro">Lair Ribeiro – Comportamento</a></li>
+						</ul>
+					</li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-139820"><a href="/entretenimento">ENTRETENIMENTO</a>
+						<ul class="sub-menu">
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139287"><a href="/entretenimento/sociais">SOCIAIS</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139287"><a href="/colunistas/miami-be-happy">MIAMI BE HAPPY</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-170214"><a href="/entretenimento/agenda">AGENDA</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139297"><a href="/colunistas/jana-nascimento-nagase">Cinema &amp; Televisão</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139299"><a href="/colunistas/lair-ribeiro">Comportamento</a></li>
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-170213"><a href="/entretenimento/comunidade">Comunidade</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139296"><a href="/entretenimento/decoracao-e-arte">Decoração e Arte</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139306"><a href="/colunistas/claudia-fehribach">Finanças</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139310"><a href="/entretenimento/moda-e-beleza">Moda &amp; Beleza</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139312"><a href="/colunistas/gene-de-souza">Música</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139314"><a href="/colunistas/adriana-tanese-nogueira">Saúde &amp; Bem-Estar</a></li>
+							<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139317"><a href="/entretenimento/viagem-e-lazer">Viagem &amp; Lazer</a></li>
+						</ul>
+					</li>
+					<!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180578"><a href="/radio">RADIO</a></li> -->
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166967"><a href="/tv">TV</a></li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-180581"><a href="/fale-conosco">ANUNCIE</a></li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139333"><a href="/edicoes-impressas">Edições Impressas</a></li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180549"><a href="/fale-conosco">Fale Conosco</a></li>
+				</ul>
+			</nav>
+			<div class="penci-menu-hbg-widgets2">
+			</div>
+		</div>
+		<div class="penci-hbg-footer">
+			<div class="penci_menu_hbg_ftext">@2024 - GazetaNews. All Right Reserved. </div>
+			<div class="penci-menu-hbg-socials">
+				<a class="social-media-item socail_media__facebook" target="_blank" href="https://www.facebook.com/pages/Gazeta-Brazilian-News/178598944481" title="Facebook" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-facebook"></i><span class="social_title screen-reader-text">Facebook</span></span></a><a class="social-media-item socail_media__twitter" target="_blank" href="https://twitter.com/Gazeta_News" title="Twitter" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-twitter"></i><span class="social_title screen-reader-text">Twitter</span></span></a><a class="social-media-item socail_media__instagram" target="_blank" href="https://www.instagram.com/gazetanews/" title="Instagram" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-instagram"></i><span class="social_title screen-reader-text">Instagram</span></span></a><a class="social-media-item socail_media__google" target="_blank" href="https://play.google.com/store/apps/details?id=com.app.psmgyywajfipolrajbkwcutzsteivhldxunenvrgmh" title="Google" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-google-plus"></i><span class="social_title screen-reader-text">Google</span></span></a><a class="social-media-item socail_media__youtube" target="_blank" href="https://www.youtube.com/channel/UCcZxlThCegoTiiWwGR6_16w" title="Youtube" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-youtube-play"></i><span class="social_title screen-reader-text">Youtube</span></span></a><a class="social-media-item socail_media__rss" target="_blank" href="/feed/" title="Rss" rel="noopener"><span class="socail-media-item__content"><i class="fa fa-rss"></i><span class="social_title screen-reader-text">Rss</span></span></a> </div>
+		</div>
+	</div>
+</div> <a href="#" id="scroll-to-top"><i class="fa fa-angle-up"></i></a>
+<!-- ngg_resource_manager_marker -->
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var wpcf7 = {
+		"apiSettings": {
+			"root": "https:\/\/gazetanews.com\/wp-json\/contact-form-7\/v1",
+			"namespace": "contact-form-7\/v1"
+		}
+	};
+	/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3"></script>
+<script type="text/javascript" src="/wp-content/plugins/global-gallery/js/lightboxes/lc-lightbox/lib/alloy_finger.min.js?ver=6.3"></script>
+<script type="text/javascript" src="/wp-content/plugins/global-gallery/js/lightboxes/lc-lightbox/js/lc_lightbox.gg.min.js?ver=6.3"></script>
+<script type="text/javascript" src="/wp-content/plugins/penci-pennews-recipe/js/jquery.rateyo.min.js?ver=2.3"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var PENCI = {
+		"ajaxUrl": "https:\/\/gazetanews.com\/wp-admin\/admin-ajax.php",
+		"nonce": "679981e5b9",
+		"normalFill": "#b9b9b9",
+		"ratedFill": "#FFCA00"
+	};
+	/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/penci-pennews-recipe/js/rating_recipe.js?ver=2.3.2"></script>
+<script type="text/javascript" src="/wp-content/plugins/penci-pennews-review/js/jquery.easypiechart.min.js?ver=1.0"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var PENCI = {
+		"postID": "180363",
+		"ajaxUrl": "https:\/\/gazetanews.com\/wp-admin\/admin-ajax.php",
+		"nonce": "679981e5b9",
+		"normalFill": "#b9b9b9",
+		"ratedFill": "#FFCA00"
+	};
+	/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/penci-pennews-review/js/rating_review.js?ver=3.0"></script>
+<script type="text/javascript" id="penci-js-extra">
+	/* <![CDATA[ */
+	var PENCILOCALIZE = {
+		"ajaxUrl": "https:\/\/gazetanews.com\/wp-admin\/admin-ajax.php",
+		"nonce": "b3b6400e9a",
+		"errorMsg": "Something wrong happened. Please try again.",
+		"login": "Email Address",
+		"password": "Password",
+		"errorPass": "<p class=\"message message-error\">Password does not match the confirm password<\/p>",
+		"prevNumber": "1",
+		"minlengthSearch": "0",
+		"linkTitle": "View More",
+		"linkTextAll": "Menu",
+		"linkText": "More"
+	};
+	/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/themes/pennews/js/script.min.js?v=21" id="penci-js"></script>
+<script type="text/javascript" src="/wp-content/plugins/global-gallery/js/frontend.js?ver=6.3" id="gg-frontend-js-js"></script>
+<script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.4.2"></script>
+<script type="text/javascript" src="/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/isotope.pkgd.min.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/magnific-popup.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/imagesloaded.pkgd.min.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/doT.min.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/moment-with-locales.min.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/jquery.fitvids.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/jquery.viewportchecker.min.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/slick.min.js?v=21"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var sbvcytc_vars = {
+		"http": "https:\/\/",
+		"language": "pt_BR",
+		"plugin_dir": "https:\/\/gazetanews.com\/wp-content\/plugins\/sb-youtube-channel-vc-addon",
+		"ajax_url": "https:\/\/gazetanews.com\/wp-admin\/admin-ajax.php"
+	};
+	/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/sb-youtube-channel-vc-addon/assets/js/script.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery-pro/modules/picturefill/static/picturefill.min.js?v=21"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var photocrati_ajax = {
+		"url": "https:\/\/gazetanews.com\/?photocrati_ajax=1",
+		"wp_home_url": "https:\/\/gazetanews.com",
+		"wp_site_url": "https:\/\/gazetanews.com",
+		"wp_root_url": "https:\/\/gazetanews.com",
+		"wp_plugins_url": "https:\/\/gazetanews.com\/wp-content\/plugins",
+		"wp_content_url": "https:\/\/gazetanews.com\/wp-content",
+		"wp_includes_url": "https:\/\/gazetanews.com\/wp-includes\/",
+		"ngg_param_slug": "nggallery"
+	};
+	/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?v=21"></script>
+<script type="text/javascript" id="ngg_common-js-extra">
+	var galleries = {};
+	galleries.gallery_6cf6d0ce38fdcd7fa428feeb384af142 = {
+		"id": null,
+		"ids": null,
+		"source": "tags",
+		"src": "",
+		"container_ids": ["campeonato-brasileiro", "pandemia"],
+		"gallery_ids": [],
+		"album_ids": [],
+		"tag_ids": [],
+		"display_type": "photocrati-nextgen_basic_thumbnails",
+		"display": "",
+		"exclusions": [],
+		"order_by": "sortorder",
+		"order_direction": "ASC",
+		"image_ids": [],
+		"entity_ids": [],
+		"tagcloud": false,
+		"returns": "included",
+		"slug": null,
+		"sortorder": [],
+		"display_settings": {
+			"use_lightbox_effect": true,
+			"display_view": "default-view.php",
+			"images_per_page": 7,
+			"number_of_columns": 0,
+			"thumbnail_width": 240,
+			"thumbnail_height": 160,
+			"show_all_in_lightbox": false,
+			"ajax_pagination": 0,
+			"use_imagebrowser_effect": 0,
+			"template": "\/chroot\/home\/a1c87321\/gazetanews.com\/html\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/nextgen_gallery_display\/templates\/related.php",
+			"display_no_images_error": false,
+			"disable_pagination": true,
+			"show_slideshow_link": false,
+			"slideshow_link_text": "[Show slideshow]",
+			"override_thumbnail_settings": 0,
+			"thumbnail_quality": "100",
+			"thumbnail_crop": 1,
+			"thumbnail_watermark": 0,
+			"ngg_triggers_display": "never",
+			"display_type_view": "default",
+			"_errors": [],
+			"maximum_entity_count": 7
+		},
+		"excluded_container_ids": [],
+		"maximum_entity_count": 500,
+		"__defaults_set": true,
+		"_errors": [],
+		"ID": "6cf6d0ce38fdcd7fa428feeb384af142"
+	};
+	galleries.gallery_6cf6d0ce38fdcd7fa428feeb384af142.wordpress_page_root = "https:\/\/gazetanews.com\/campeonato-brasileiro-de-2020-e-estendido-ate-fevereiro-de-2021\/";
+	var nextgen_lightbox_settings = {
+		"static_path": "",
+		"context": "nextgen_images"
+	};
+	galleries.gallery_6cf6d0ce38fdcd7fa428feeb384af142.captions_enabled = false;
+	galleries.gallery_73926089084be89f7e76fcb9b09ef803 = {
+		"id": null,
+		"ids": null,
+		"source": "tags",
+		"src": "",
+		"container_ids": ["michael-jordan", "morte-george-floyd", "racismo"],
+		"gallery_ids": [],
+		"album_ids": [],
+		"tag_ids": [],
+		"display_type": "photocrati-nextgen_basic_thumbnails",
+		"display": "",
+		"exclusions": [],
+		"order_by": "sortorder",
+		"order_direction": "ASC",
+		"image_ids": [],
+		"entity_ids": [],
+		"tagcloud": false,
+		"returns": "included",
+		"slug": null,
+		"sortorder": [],
+		"display_settings": {
+			"use_lightbox_effect": true,
+			"display_view": "default-view.php",
+			"images_per_page": 7,
+			"number_of_columns": 0,
+			"thumbnail_width": 240,
+			"thumbnail_height": 160,
+			"show_all_in_lightbox": false,
+			"ajax_pagination": 0,
+			"use_imagebrowser_effect": 0,
+			"template": "\/chroot\/home\/a1c87321\/gazetanews.com\/html\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/nextgen_gallery_display\/templates\/related.php",
+			"display_no_images_error": false,
+			"disable_pagination": true,
+			"show_slideshow_link": false,
+			"slideshow_link_text": "[Show slideshow]",
+			"override_thumbnail_settings": 0,
+			"thumbnail_quality": "100",
+			"thumbnail_crop": 1,
+			"thumbnail_watermark": 0,
+			"ngg_triggers_display": "never",
+			"display_type_view": "default",
+			"_errors": [],
+			"maximum_entity_count": 7
+		},
+		"excluded_container_ids": [],
+		"maximum_entity_count": 500,
+		"__defaults_set": true,
+		"_errors": [],
+		"ID": "73926089084be89f7e76fcb9b09ef803"
+	};
+	galleries.gallery_73926089084be89f7e76fcb9b09ef803.wordpress_page_root = "https:\/\/gazetanews.com\/michael-jordan-doara-100-milhoes-a-organizacoes-para-combater-racismo\/";
+	var nextgen_lightbox_settings = {
+		"static_path": "",
+		"context": "nextgen_images"
+	};
+	galleries.gallery_73926089084be89f7e76fcb9b09ef803.captions_enabled = false;
+	galleries.gallery_b01767eec875459b5540f08ac47c4484 = {
+		"id": null,
+		"ids": null,
+		"source": "tags",
+		"src": "",
+		"container_ids": ["basquete", "coronavirus", "esporte", "futebol"],
+		"gallery_ids": [],
+		"album_ids": [],
+		"tag_ids": [],
+		"display_type": "photocrati-nextgen_basic_thumbnails",
+		"display": "",
+		"exclusions": [],
+		"order_by": "sortorder",
+		"order_direction": "ASC",
+		"image_ids": [],
+		"entity_ids": [],
+		"tagcloud": false,
+		"returns": "included",
+		"slug": null,
+		"sortorder": [],
+		"display_settings": {
+			"use_lightbox_effect": true,
+			"display_view": "default-view.php",
+			"images_per_page": 7,
+			"number_of_columns": 0,
+			"thumbnail_width": 240,
+			"thumbnail_height": 160,
+			"show_all_in_lightbox": false,
+			"ajax_pagination": 0,
+			"use_imagebrowser_effect": 0,
+			"template": "\/chroot\/home\/a1c87321\/gazetanews.com\/html\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/nextgen_gallery_display\/templates\/related.php",
+			"display_no_images_error": false,
+			"disable_pagination": true,
+			"show_slideshow_link": false,
+			"slideshow_link_text": "[Show slideshow]",
+			"override_thumbnail_settings": 0,
+			"thumbnail_quality": "100",
+			"thumbnail_crop": 1,
+			"thumbnail_watermark": 0,
+			"ngg_triggers_display": "never",
+			"display_type_view": "default",
+			"_errors": [],
+			"maximum_entity_count": 7
+		},
+		"excluded_container_ids": [],
+		"maximum_entity_count": 500,
+		"__defaults_set": true,
+		"_errors": [],
+		"ID": "b01767eec875459b5540f08ac47c4484"
+	};
+	galleries.gallery_b01767eec875459b5540f08ac47c4484.wordpress_page_root = "https:\/\/gazetanews.com\/futebol-brasileiro-pode-voltar-no-final-de-junho-afirma-cbf\/";
+	var nextgen_lightbox_settings = {
+		"static_path": "",
+		"context": "nextgen_images"
+	};
+	galleries.gallery_b01767eec875459b5540f08ac47c4484.captions_enabled = false;
+</script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.easing-1.3.pack.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.pack.js?v=21"></script>
+<script type="text/javascript" src="/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/nextgen_fancybox_init.js?v=21"></script>
+<script type="text/javascript" src="https://use.fontawesome.com/releases/v5.3.1/js/v4-shims.js?v=21"></script>
+<script type="text/javascript" defer="" integrity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="anonymous" data-auto-replace-svg="false" data-keep-original-source="false" data-search-pseudo-elements="" src="https://use.fontawesome.com/releases/v5.3.1/js/all.js?v=21"></script>
+<script type="text/javascript">
+	if (navigator.appVersion.indexOf("MSIE 8.") != -1 || navigator.appVersion.indexOf("MSIE 9.") != -1) {
+		document.body.className += ' gg_old_loader';
+	} else {
+		document.body.className += ' gg_new_loader';
+	}
+</script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery('.penci-social-item.whatsapp').on("click", function(e) {
+			if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+				var article = jQuery(this).attr("data-text");
+				var weburl = jQuery(this).attr("data-link");
+				var whats_app_message = encodeURIComponent(article) + " - " + encodeURIComponent(weburl);
+				var whatsapp_url = "whatsapp://send?text=" + whats_app_message;
+				window.location.href = whatsapp_url;
+			} else {
+				alert('Sharing on whatsapp will does not work on PC.');
+			}
+		});
+	});
+</script>
+<script type="text/javascript">
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.12&appId=";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
+	// thumbs maker
+	var gg_lb_thumb = function(src) {
+		return '/wp-content/plugins/global-gallery/classes/easy_wp_thumbs.php?src=' + encodeURIComponent(src) + '&w=100&h=100';
+	};
+	// show lightbox 
+	gg_throw_lb = function(gall_obj, rel, clicked_index, no_deeplink) {
+		if (!Object.keys(gall_obj).length) {
+			return false;
+		}
+		if (jQuery('#gg_lb_gall').length) {
+			jQuery('#gg_lb_gall').empty();
+		} else {
+			jQuery('body').append('<div id="gg_lb_gall"></div>');
+		}
+		if (typeof(gg_no_lb) != 'undefined') {
+			return false;
+		}
+		var sel_img = [];
+		jQuery.each(Object.keys(gall_obj), function(i, v) {
+			var obj = gall_obj[v];
+			var o = {
+				src: obj.img,
+				title: obj.title,
+				txt: obj.descr,
+				author: obj.author,
+				canonical_url: (false) ? "https://gazetanews.com?lcl_canon=" + encodeURIComponent(obj.img) : false
+			};
+			sel_img.push(o);
+		})
+		var lcl_obj = lc_lightbox(sel_img, {
+			deeplink: (typeof(no_deeplink) == 'undefined') ? false : false,
+			img_zoom: true,
+			global_type: 'image',
+			wrap_class: 'lcl_zoomin_oc',
+			slideshow: true,
+			open_close_time: 500,
+			animation_time: 300,
+			slideshow_time: 5000,
+			autoplay: true,
+			counter: false,
+			progressbar: true,
+			max_width: '85%',
+			max_height: '75%',
+			ol_opacity: 0.7,
+			ol_color: '#2b1785',
+			ol_pattern: '1',
+			border_w: 4,
+			border_col: '#444444',
+			padding: 20,
+			radius: 7,
+			shadow: false,
+			remove_scrollbar: false,
+			skin: 'light',
+			data_position: 'under',
+			cmd_position: 'inner',
+			ins_close_pos: 'corner',
+			nav_btn_pos: 'middle',
+			txt_hidden: 200,
+			thumbs_nav: true,
+			tn_hidden: 600,
+			thumbs_w: 100,
+			thumbs_h: 100,
+			thumbs_maker_url: false,
+			fullscreen: true,
+			fs_only: 600,
+			socials: true,
+			fb_direct_share: true,
+			comments: false,
+			download: true,
+			rclick_prevent: false,
+			html_is_ready: function() {
+				jQuery.each(this.vars.elems, function(i, v) {
+					v.download = v.src;
+				});
+			}
+		});
+		if (typeof(lcl_gg_prepare) == 'undefined' || !lcl_gg_prepare || typeof(no_deeplink) != 'undefined') {
+			lcl_open(lcl_obj, clicked_index);
+		} else {
+			if (typeof(lcl_gg_nulling_prepare) != 'undefined') {
+				clearTimeout(lcl_gg_nulling_prepare);
+			}
+			lcl_gg_nulling_prepare = setTimeout(function() {
+				lcl_gg_prepare = false;
+			}, 150);
+		}
+	};
+</script>
+<!-- External JavaScripts
+	============================================= -->
+<script src="/js/jquery.js"></script>
+<script src="/js/plugins.js?v=21"></script>
+<script src="/js/custom.js?v=21"></script>
+<script src="/js/bootstrap/bootstrap.min.js"></script>
+<!-- Footer Scripts
+	============================================= -->
+<script src="/js/functions.js"></script>
+	<script src="/js/infinite-scroll.pkgd.min.js" async=""></script>
+
+
+</body></html>

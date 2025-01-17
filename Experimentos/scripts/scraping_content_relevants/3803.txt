@@ -1,0 +1,621 @@
+<html lang="pt-BR"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <script>
+    //<![CDATA[
+    !function(){if(-1==document.cookie.indexOf("device_pixel_ratio")&&"devicePixelRatio"in window&&2==window.devicePixelRatio){var e=new Date;e.setTime(e.getTime()+36e5),document.cookie="device_pixel_ratio="+window.devicePixelRatio+"; expires="+e.toUTCString()+"; path=/",-1!=document.cookie.indexOf("device_pixel_ratio")&&window.location.reload()}}();
+    //]]>
+    </script>
+    <script>
+    //<![CDATA[
+    var mobile,dominio,prefixo,ssl;function _get_cookie(o){for(var i=o+"=",e=document.cookie.split(";"),t=0;t<e.length;t++){for(var n=e[t];" "==n.charAt(0);)n=n.substring(1);if(-1!=n.indexOf(i))return n.substring(i.length,n.length)}return""}function _testar_mobile(){return screen.width<=699}!_testar_mobile()||"0"!=(mobile=_get_cookie("mobile"))&&(ssl="br"!=(dominio=location.host).split(".").slice(-1)?(dominio="dev.pmv.local",!(prefixo="mobile")):(dominio="vitoria.es.gov.br",prefixo="m",!0),""==mobile&&(document.cookie="mobile=1; path=/; domain="+dominio),prefixo&&(prefixo+="."),location.href="http"+(ssl?"s":"")+"://"+prefixo+dominio+location.pathname+location.hash);
+    //]]>
+    </script>
+    <script>
+    //<![CDATA[
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src="https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})(window,document,"script","dataLayer","G-JMPB6Y7PZH");
+    //]]>
+    </script>
+    <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-111269324-1"></script>
+    <script>
+    //<![CDATA[
+    function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-111269324-1",{cookie_domain:"vitoria.es.gov.br",cookie_flags:"SameSite=None;Secure"});
+    //]]>
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="guarda, GCMV, apreensão, operação, verão. redução, infração, infrações, trânsito">
+    <meta name="description" content="A preservação de vidas no trânsito é algo possível com ações operacionais, educativas e de fiscalização. Com esse conjunto de medidas, Vitória reduziu o número de mortes no trânsito em 56%, saindo de 9 para 4 casos. Durante as ações de fiscalização em 2023, a GCMV abordou mais de 2.350 veículos, com aproximadamente 700 autuações aplicadas. Dessas, quase 25% são de pessoas conduzindo veículo sem possuir a Carteira Nacional de Habilitação (CNH).">
+    <link type="text/css" rel="stylesheet" href="/css/colorbox_comum.min.css">
+    <link type="text/css" rel="stylesheet" href="/kernel/css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="/kernel/css/kernel.min.css">
+    <link type="text/css" rel="stylesheet" href="/css/default.min.css">
+    <link type="text/css" rel="stylesheet" href="/css/default.producao.min.css">
+    <link rel="shortcut icon" href="/img/producao/favicons/favicon.ico">
+    <meta property="og:image:url" content="https://www.vitoria.es.gov.br/recursos/imagens/banco/2023/01/30/109904/normal@2x.jpg">
+    <meta property="og:image:width" content="700">
+    <meta property="og:image:height" content="394">
+    <meta property="twitter:image" content="https://www.vitoria.es.gov.br/recursos/imagens/banco/2023/01/30/109904/normal@2x.jpg">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:site" content="@vitoriaonline">
+    <meta property="fb:admins" content="vitoriaonline">
+    <meta property="og:url" content="https://www.vitoria.es.gov.br/noticia/vitoria-tem-reducao-de-56-por-cento-do-numero-de-mortes-no-transito-47311">
+    <meta property="og:title" content="Vitória tem redução de 56% do número de mortes no trânsito">
+    <meta property="og:description" content="A preservação de vidas no trânsito é algo possível com ações operacionais, educativas e de fiscalização. Com esse conjunto de medidas, Vitória reduziu o número de mortes no trânsito em 56%, saindo de 9 para 4 casos. Durante as ações de fiscalização em 2023, a GCMV abordou mais de 2.350 veículos, com aproximadamente 700 autuações aplicadas. Dessas, quase 25% são de pessoas conduzindo veículo sem possuir a Carteira Nacional de Habilitação (CNH).">
+    <meta property="og:site_name" content="Prefeitura de Vitória">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Gabinete do Prefeito, Segurança">
+    <meta property="article:tag" content="guarda">
+    <meta property="article:tag" content="GCMV">
+    <meta property="article:tag" content="apreensão">
+    <meta property="article:tag" content="operação">
+    <meta property="article:tag" content="verão. redução">
+    <meta property="article:tag" content="infração">
+    <meta property="article:tag" content="infrações">
+    <meta property="article:tag" content="trânsito">
+    <meta property="article:published_time" content="2023-03-29T14:10:00-03:00">
+    <meta property="article:modified_time" content="2023-03-29T14:25:02-03:00">
+    <script src="/kernel/js/jquery.min.js"></script>
+    <script src="/kernel/js/bootstrap.min.js"></script>
+    <script src="/kernel/js/modernizr.custom.js"></script>
+    <title>
+      Vitória tem redução de 56% do número de mortes no trânsito – Prefeitura de Vitória
+    </title>
+  </head>
+  <body>
+    <header>
+      <div class="topo">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-md-3">
+              <h1 class="logo">
+                <a href="/" title="Volta para a página inicial" accesskey="0">Prefeitura de Vitória</a>
+              </h1>
+            </div>
+            <div class="hidden-xs">
+              <!-- .Abre #pular -->
+              <div id="pular" class="sr-only">
+                <h2>
+                  Atalhos de teclado:
+                </h2><a id="atalho-pular"></a>
+                <ul>
+                  <li>
+                    <a href="/cidadao/acessibilidade#a_acessibilidade_portal" title="Instruções de acessibilidade [Alt + a]" accesskey="a">Ir para a página de instruções de acessibilidade [<kbd>Alt + a</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="#atalho-index" title="Página inicial">Ir para a página inicial do Portal [<kbd>Alt + 0</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="https://portalservicos.vitoria.es.gov.br" title="Portal de Serviços [Alt + 1]" accesskey="1">Ir para o Portal de Serviços [<kbd>Alt + 1</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="/cidade" title="A Cidade [Alt + 2]" accesskey="2">Ir para o perfil "A Cidade" [<kbd>Alt + 2</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="/cidadao" title="Cidadão [Alt + 3]" accesskey="3">Ir para o perfil "Cidadão" [<kbd>Alt + 3</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="/empreendedor" title="Empreendedor [Alt + 4]" accesskey="4">Ir para o perfil "Empreendedor" [<kbd>Alt + 4</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="/prefeitura" title="Prefeitura [Alt + 5]" accesskey="5">Ir para o perfil "Prefeitura" [<kbd>Alt + 5</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="/turista" title="Turista [Alt + 6]" accesskey="6">Ir para o perfil "Turista" [<kbd>Alt + 6</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="/servidor" title="Servidor [Alt + 7]" accesskey="7">Ir para o perfil "Servidor" [<kbd>Alt + 7</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="/imprensa" title="Imprensa [Alt + 8]" accesskey="8">Ir para o perfil "Imprensa" [<kbd>Alt + 8</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="#atalho-conteudo" title="Conteúdo principal [Alt + c]" accesskey="c">Ir para o conteúdo desta página [<kbd>Alt + c</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="#atalho-busca" title="Busca">Ir para a busca [<kbd>Alt + 9</kbd>]</a>
+                  </li>
+                  <li>
+                    <a href="#atalho-pular" title="Topo da página [Alt + t]" accesskey="t">Voltar para o início deste menu [<kbd>Alt + t</kbd>]</a>
+                  </li>
+                </ul>
+              </div><!-- Fecha #pular -->
+            </div>
+            <div class="col-xs-12 col-md-9">
+              <div class="menu-topo hidden-print">
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="http://observavix.vitoria.es.gov.br/" accesskey="" rel="external">Observa VIX</a>
+                  </li>
+                  <li>
+                    <a href="/secretarias.php" accesskey="" rel="">Secretarias</a>
+                    <div class="dropdown">
+                      <div class=""></div>
+                      <ul class="list-unstyled">
+                        <li>
+                          <a href="/gabpref" title="Gabinete do Prefeito">Gabinete do Prefeito</a>
+                        </li>
+                        <li>
+                          <a href="/segov" title="Secretaria de Governo">Governo e Comunicação</a>
+                        </li>
+                        <li>
+                          <a href="/central" title="Assessoria Especial - Central de Serviços">Central de Serviços</a>
+                        </li>
+                        <li>
+                          <a href="/semas" title="Secretaria de Assistência Social">Assistência Social</a>
+                        </li>
+                        <li>
+                          <a href="/semcid" title="Secretaria de Cidadania, Direitos Humanos e Trabalho">Cidadania, Direitos Humanos e Trabalho</a>
+                        </li>
+                        <li>
+                          <a href="/semc" title="Secretaria de Cultura">Cultura</a>
+                        </li>
+                        <li>
+                          <a href="/sedec" title="Secretaria de Desenvolvimento da Cidade e Habitação">Desenvolvimento da Cidade e Habitação</a>
+                        </li>
+                        <li>
+                          <a href="/seme" title="Secretaria de Educação">Educação</a>
+                        </li>
+                        <li>
+                          <a href="/semesp" title="Secretaria de Esportes e Lazer">Esportes</a>
+                        </li>
+                        <li>
+                          <a href="/semfa" title="Secretaria de Fazenda">Fazenda</a>
+                        </li>
+                        <li>
+                          <a href="/seges" title="Secretaria de Gestão e Planejamento">Gestão e Planejamento</a>
+                        </li>
+                        <li>
+                          <a href="/semmam" title="Secretaria de Meio Ambiente">Meio Ambiente</a>
+                        </li>
+                        <li>
+                          <a href="/semob" title="Secretaria de Obras">Obras</a>
+                        </li>
+                        <li>
+                          <a href="/semus" title="Secretaria de Saúde">Saúde</a>
+                        </li>
+                        <li>
+                          <a href="/semsu" title="Secretaria de Segurança Urbana">Segurança</a>
+                        </li>
+                        <li>
+                          <a href="/setran" title="Secretaria de Transportes, Trânsito e Infraestrutura Urbana">Transportes</a>
+                        </li>
+                        <li>
+                          <a href="/cgm" title="Controladoria Geral do Município">Controladoria</a>
+                        </li>
+                        <li>
+                          <a href="/pgm" title="Procuradoria Geral do Município">Procuradoria</a>
+                        </li>
+                        <li>
+                          <a href="/cdtiv" title="Companhia de Desenvolvimento, Turismo e Inovação de Vitória">Cia. de Desenvolvimento de Vitória</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                  <li>
+                    <a href="https://portalservicos.vitoria.es.gov.br/" accesskey="1" rel="external">Portal de Serviços</a>
+                  </li>
+                  <li>
+                    <a href="https://cartadeservicos.vitoria.es.gov.br" accesskey="" rel="external">Carta de Serviços</a>
+                  </li>
+                  <li>
+                    <a href="http://transparencia.vitoria.es.gov.br" accesskey="" rel="external">Transparência Vitória</a>
+                    <div class="dropdown">
+                      <div class=""></div>
+                      <ul class="list-unstyled">
+                        <li>
+                          <a href="https://transparencia.vitoria.es.gov.br/DadosAbertos.Lista.aspx" rel="external">Dados Abertos</a>
+                        </li>
+                        <li>
+                          <a href="https://transparencia.vitoria.es.gov.br/CanalDenuncia.aspx" rel="external">Denúncia - Prevenção à corrupção</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                  <li>
+                    <a href="/legislacao.php" accesskey="" rel="">Legislação</a>
+                    <div class="dropdown">
+                      <div class=""></div>
+                      <ul class="list-unstyled">
+                        <li>
+                          <a href="https://diariooficial.vitoria.es.gov.br" rel="external">Diário Oficial</a>
+                        </li>
+                        <li>
+                          <a href="https://sistemas.vitoria.es.gov.br/atosnormativos" rel="external">Decretos e leis</a>
+                        </li>
+                        <li>
+                          <a href="https://atosoficiais.vitoria.es.gov.br" rel="external">Atos Oficiais</a>
+                        </li>
+                        <li>
+                          <a href="https://sistemas.vitoria.es.gov.br/docOficial" rel="external">Documentação oficial</a>
+                        </li>
+                        <li>
+                          <a href="https://sistemas.vitoria.es.gov.br/atosnormativos/?id=27970" rel="external">Código de Ética</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="acessibilidade hidden-print">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12">
+              <ul class="list-unstyled menu-acessibilidade">
+                <li class="instrucoes">
+                  <a href="/cidadao/acessibilidade#a_acessibilidade_portal" title="Fornece detalhes sobre a acessibilidade do Portal" class="text-hide">Sobre a acessibilidade</a>
+                </li>
+                <li class="aumentar-fonte">
+                  <a href="#" title="Aumentar a fonte" class="">A+</a>
+                </li>
+                <li class="diminuir-fonte">
+                  <a href="#" title="Diminuir a fonte" class="">A-</a>
+                </li>
+                <li class="acionar-alto-contraste">
+                  <a href="#" title="Altera o contraste da tela" class="text-hide">Alto contraste</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="menu hidden-print">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <nav>
+                <ul class="list-unstyled clearfix">
+                  <li>
+                    <a href="/cidade" title="Atalho: [Alt + 2]" class="">A Cidade</a>
+                  </li>
+                  <li>
+                    <a href="/cidadao" title="Atalho: [Alt + 3]" class="">Cidadão</a>
+                  </li>
+                  <li>
+                    <a href="/empreendedor" title="Atalho: [Alt + 4]" class="">Empreendedor</a>
+                  </li>
+                  <li>
+                    <a href="/prefeitura" title="Atalho: [Alt + 5]" class="">Prefeitura</a>
+                  </li>
+                  <li>
+                    <a href="/turista" title="Atalho: [Alt + 6]" class="">Turista</a>
+                  </li>
+                  <li>
+                    <a href="/servidor" title="Atalho: [Alt + 7]" class="">Servidor</a>
+                  </li>
+                  <li>
+                    <a href="/imprensa" title="Atalho: [Alt + 8]" class="">Imprensa</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="barra-busca hidden-print">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-md-7">
+              <div class="row">
+                <form id="frm_busca" method="get" action="/busca.php" accept-charset="UTF-8">
+                  <a id="atalho-busca"></a>
+                  <div class="form-group" title="Serão retornados resultados com TODAS as palavras. (Máx. 50 caracteres) [Alt + 9]">
+                    <div class="col-sm-12">
+                      <input id="txt_busca" name="termo" maxlength="50" accesskey="9" placeholder="Digite uma ou mais palavras" type="text" value="">
+                    </div>
+                  </div><button id="btn_buscar" title="Buscar" class="text-hide" disabled="disabled" type="submit">Buscar</button>
+                </form>
+              </div>
+            </div>
+            <div class="col-xs-12 col-md-5">
+              <ul class="icones">
+                <li>
+                  <a href="https://sistemas.vitoria.es.gov.br/sic/aberto/" rel="external" class="pmv-156-online text-hide" title="156 Online">156 Online</a>
+                </li>
+                <li>
+                  <a href="https://agendamento.vitoria.es.gov.br" rel="external" class="agendamento text-hide" title="Agendamento online - Serviços">Agendamento online - Serviços</a>
+                </li>
+                <li>
+                  <a href="https://minhaconsulta.vitoria.es.gov.br" rel="external" class="minha-consulta text-hide" title="Agendamento online - Saúde">Agendamento online - Saúde</a>
+                </li>
+                <li>
+                  <a href="https://autorizatransporte.vitoria.es.gov.br/" rel="external" class="portaaporta text-hide" title="Porta a Porta">Porta a Porta</a>
+                </li>
+                <li>
+                  <a href="https://bemestaranimal.vitoria.es.gov.br/" rel="external" class="bem-estar-animal text-hide" title="Portal Bem-estar Animal">Portal Bem-estar Animal</a>
+                </li>
+                <li>
+                  <a href="https://documentosperdidos.vitoria.es.gov.br/" rel="external" class="documentos-perdidos text-hide" title="Busca de documentos perdidos">Busca de documentos perdidos</a>
+                </li>
+                <li>
+                  <a href="https://protocolo.vitoria.es.gov.br/" rel="external" class="protocolo-virtual text-hide" title="Protocolo Virtual">Protocolo Virtual</a>
+                </li>
+                <li>
+                  <a href="/prefeitura/aprovacao-online" class="aprovacao-online text-hide" title="Aprovação Online">Aprovação Online</a>
+                </li>
+                <li>
+                  <a href="/semsu/boletins-registrar-ou-imprimir" class="boat text-hide" title="Boletim de Ocorrência de Acidente de Trânsito">Boletim de Ocorrência de Acidente de Trânsito</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <div class="interna noticia">
+          <div class="row">
+            <div class="col-xs-12">
+              <ul class="breadcrumb">
+                <li>
+                  <a href="/">Início</a>
+                </li>
+                <li>
+                  <a href="/imprensa">Imprensa</a>
+                </li>
+                <li>
+                  <a href="/imprensa/todas_noticias">Todas as notícias</a>
+                </li>
+                <li>
+                  <a href="/noticias/vitoria-tem-reducao-de-56-por-cento-do-numero-de-mortes-no-transito-47311">Vitória tem redução de 56% do número de mortes no trânsito</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-md-3">
+              <div class="submenu hidden-print">
+                <h2>
+                  Imprensa
+                </h2><a id="atalho-menu" href="#"></a>
+                <ul class="list-unstyled">
+                  <li>
+                    <!-- manual -->
+                    <a href="https://atosoficiais.vitoria.es.gov.br" rel="external" class="" title="Abre este link em outra aba">Atos Oficiais</a>
+                  </li>
+                  <li>
+                    <!-- conteudo_687 -->
+                    <a href="/imprensa/politica-de-comunicacao-para-garantir-o-direito-a-informacao" rel="" class="" title="">Direito à Informação</a>
+                  </li>
+                  <li>
+                    <!-- manual -->
+                    <a href="/imprensa/assessores" rel="" class="" title="">Lista de assessores</a>
+                  </li>
+                  <li>
+                    <!-- conteudo_1027 -->
+                    <a href="/imprensa/manual-do-assessor" rel="" class="" title="">Manual do Assessor</a>
+                  </li>
+                  <li>
+                    <!-- conteudo_129 -->
+                    <a href="/imprensa/regulamento-para-uso-das-fotos-disponiveis-na-sala-de-imprensa" rel="" class="" title="">Regulamento para uso de fotos e reprodução de notícias</a>
+                  </li>
+                  <li>
+                    <!-- manual -->
+                    <a href="/imprensa/todas_noticias" rel="" class="" title="">Todas as notícias</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-md-9">
+              <a href="#" id="atalho-conteudo"></a>
+              <h4>
+                Notícias
+              </h4>
+              <h3 class="destacado">
+                Vitória tem redução de 56% do número de mortes no trânsito
+              </h3>
+              <div>
+                <p class="data-publicacao">
+                  <em>Publicada em 29/03/2023, às 14h10 | Atualizada em 29/03/2023, às 14h25</em>
+                </p>
+                <p class="autoria">
+                  Por Acácio Rodrigues, com edição de Andreza Lopes
+                </p>
+              </div>
+              <hr>
+              <div class="ods clearfix">
+                <ul class="list-unstyled ods">
+                  <li>
+                    <a href="https://observavix.vitoria.es.gov.br/objetivo/16" rel="external" title="Paz, justiça e instituições eficazes"><img src="/img/ods/ods_16.png" width="50" height="50" alt="Paz, justiça e instituições eficazes"></a>
+                  </li>
+                </ul>
+              </div>
+              <hr>
+              <div class="payload clearfix">
+                <div class="vinculo imagem pull-right">
+                  <div class="credito">
+                    Divulgação Semsu
+                  </div>
+                  <div class="midia">
+                    <a href="/recursos/imagens/banco/2023/01/30/109904/normal@2x.jpg" title="Operação Verão nas praias de Vitória" class="lightbox cboxElement"><img src="/recursos/imagens/banco/2023/01/30/109904/normal.jpg" width="350" height="197" alt="Operação Verão nas praias de Vitória" class="img-rounded img-responsive"></a>
+                  </div>
+                  <div class="legenda">
+                    <em>Operação Verão nas praias de Vitória.<span class="glyphicon glyphicon-search" id="gl-0" aria-hidden="true"></span> <a href="/recursos/imagens/banco/2023/01/30/109904/normal@2x.jpg" title="Operação Verão nas praias de Vitória" class="lightbox cboxElement text-hide">(ampliar)</a></em>
+                  </div>
+                </div>
+                <p>
+                  A preservação de vidas no trânsito é algo possível com ações operacionais, educativas e de fiscalização. Com esse conjunto de medidas, Vitória reduziu o número de mortes no trânsito em 56%, saindo de 9 para 4 casos.
+                </p>
+                <p>
+                  "Obedecer o limite de velocidade, ceder espaço a pedestres e ciclistas, usar o cinto de segurança, não dirigir embriagado, são algumas mudanças do comportamento dos motoristas que fazem a diferença para um trânsito mais seguro para todos", alerta o prefeito de Vitória, Lorenzo Pazolini.
+                </p>
+                <p>
+                  A redução de 56% das mortes no trânsito corresponde ao período entre 1° de janeiro e 28 de fevereiro, comparado a 2022, época de grande movimentação turística e festas.
+                </p>
+                <p>
+                  "Temos intensificado as nossas operações de fiscalização de trânsito em dias e horários específicos, para garantir um trabalho eficaz, inibindo as infrações, e reduzindo os acidentes", disse o gerente de Operações e Fiscalização no Trânsito, Brunno Xavier.
+                </p>
+                <h4>
+                  Carteira de Habilitação
+                </h4>
+                <p>
+                  Durante as ações de fiscalização em 2023, a Guarda Civil Municipal de Vitória (<abbr>GCMV</abbr>) abordou mais de 2.350 veículos, com aproximadamente 700 autuações aplicadas. Dessas, quase 25% são de pessoas conduzindo veículo sem possuir a Carteira Nacional de Habilitação (<abbr>CNH</abbr>).
+                </p>
+                <p>
+                  "É importante que a fiscalização identifique essas pessoas. Mas pedimos a conscientização e que andem de forma regular, para evitar acidentes", afirma Brunno Xavier.
+                </p>
+                <div class="vinculo imagem pull-left">
+                  <div class="credito">
+                    Divulgação Semsu
+                  </div>
+                  <div class="midia">
+                    <a href="/recursos/imagens/banco/2023/01/30/109903/normal@2x.jpg" title="Operação Verão nas praias de Vitória" class="lightbox cboxElement"><img src="/recursos/imagens/banco/2023/01/30/109903/normal.jpg" width="350" height="350" alt="Operação Verão nas praias de Vitória" class="img-rounded img-responsive"></a>
+                  </div>
+                  <div class="legenda">
+                    <em>Operação Verão nas praias de Vitória.<span class="glyphicon glyphicon-search" id="gl-1" aria-hidden="true"></span> <a href="/recursos/imagens/banco/2023/01/30/109903/normal@2x.jpg" title="Operação Verão nas praias de Vitória" class="lightbox cboxElement text-hide">(ampliar)</a></em>
+                  </div>
+                </div>
+                <h4>
+                  Operação Verão
+                </h4>
+                <p>
+                  Com 2.817 abordagens entre 24 de dezembro e 22 de fevereiro, o Grupo Tático Operacional de Trânsito (<abbr>GTO</abbr>), da Guarda Civil Municipal de Vitória (<abbr>GCMV</abbr>), concluiu a Operação Verão. As ações, concentradas nas praias da capital, resultaram em prisões, 1.215 testes de alcoolemia, 608 autuações e 138 remoções.
+                </p>
+                <p>
+                  Além de prisões por embriaguez, também houve apreensão de entorpecentes.
+                </p>
+                <p>
+                  "Com foco na diminuição de acidentes, não tivemos acidentes graves e nem morte no trânsito. Durante toda a Operação Verão, foi intensificada a fiscalização de alcoolemia", destaca o gerente de Operações e Fiscalização no Trânsito, Brunno Xavier.
+                </p>
+                <p>
+                  "As ações da Guarda continuam e nosso objetivo é conscientizar, estimular boas práticas e mudança de comportamento no trânsito", concluiu Brunno.
+                </p>
+              </div>
+              <hr>
+              <div class="hidden-print">
+                <p class="up">
+                  <a href="#atalho-conteudo">Voltar para o topo</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="servicos hidden-print">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <div>
+                <ul class="list-unstyled clearfix">
+                  <li class="pmv-156-online">
+                    <p>
+                      <a href="https://sistemas.vitoria.es.gov.br/sic" rel="external">Solicitação de serviços</a>
+                    </p>
+                  </li>
+                  <li class="disque-silencio">
+                    <p>
+                      <a href="https://sistemas.vitoria.es.gov.br/sic/aberto/?url=cadastro&amp;srv=196" rel="external">Disque-Silêncio</a>
+                    </p>
+                  </li>
+                  <li class="ouvidoria">
+                    <p>
+                      <a href="https://sistemas.vitoria.es.gov.br/sic/aberto/?url=inicial" rel="external">Ouvidoria Municipal</a>
+                    </p>
+                  </li>
+                  <li class="acesso-informacao">
+                    <p>
+                      <a href="https://sistemas.vitoria.es.gov.br/sic/lai/" rel="external">Dados públicos</a>
+                    </p>
+                  </li>
+                  <li class="lista-telefonica">
+                    <p>
+                      <a href="https://sistemas.vitoria.es.gov.br/listatelefonica" rel="external">Lista telefônica</a>
+                    </p>
+                  </li>
+                  <li class="perguntas-respostas">
+                    <p>
+                      <a href="/perguntas_respostas.php" rel="">Perguntas e respostas</a>
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-8 endereco">
+            <address>
+              <strong><span class="p-name">Prefeitura Municipal de Vitória</span></strong><br>
+              <span class="p-street-address">Avenida Marechal Mascarenhas de Moraes, 1.927</span><br>
+              <span class="p-locality">Bento Ferreira, Vitória, ES</span> - CEP: <span class="p-postal-code">29.050-945</span><br>
+              Telefone: <span class="p-tel">(27) 3382-6000</span> - Protocolo Geral<br>
+              (Atendimento ao público de <time datetime="08:00">08</time> às <time datetime="17:00">17</time> horas)
+            </address>
+          </div>
+          <div class="col-xs-12 col-md-4 menu-rodape hidden-print">
+            <ul class="redes-sociais list-unstyled">
+              <li>
+                <a href="https://www.facebook.com/vitoriaonline" class="text-hide fb" title="Facebook" rel="external">Facebook</a>
+              </li>
+              <li>
+                <a href="https://x.com/vitoriaonline" class="text-hide twt" title="X" rel="external">X</a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/vitoriaonline" class="text-hide itg" title="Instagram" rel="external">Instagram</a>
+              </li>
+              <li>
+                <a href="/rss_indisponivel.php" class="text-hide rss" title="RSS" rel="external"><abbr title="Really Simple Syndication">RSS</abbr></a>
+              </li>
+            </ul>
+            <ul class="links list-unstyled">
+              <li>
+                <a href="/mapa_site.php">Mapa do site</a>
+              </li>
+              <li>
+                <a href="/prefeitura/politica-de-privacidade-do-portal">Privacidade</a>
+              </li>
+              <li>
+                <a href="/prefeitura/canais-de-comunicacao">Contato</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12">
+            <p class="text-center hidden-print">
+              <span id="gl-portal" class="glyphicon glyphicon-phone"></span> <a href="https://m.vitoria.es.gov.br" id="link-mobile">Versão mobile</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <div class="voltar-topo">
+      <a href="#" title="Voltar ao topo da página" class="text-hide">Voltar ao topo da página</a>
+    </div>
+    <div vw="" class="enabled">
+      <div vw-access-button="" class="active"></div>
+      <div vw-plugin-wrapper="">
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script> 
+    <script>
+
+                                new window.VLibras.Widget("https://vlibras.gov.br/app");
+    </script><!-- FIM DO CODIGO -->
+    <script src="/js/payload.min.js"></script>
+    <script src="/js/jquery.colorbox.min.js"></script>
+    <script src="/js/jwplayer.min.js"></script>
+    <script src="/js/default.min.js"></script>
+    <script src="/js/jquery.tabslideout.min.js"></script>
+    <script src="/kernel/js/kernel.min.js"></script>
+    <script src="/kernel/js/jquery-ui.min.js"></script>
+    <script src="/kernel/js/jquery.cookie.min.js"></script> 
+    <script>
+    //<![CDATA[
+    $(function(){
+        preparar_pagina_noticia();
+    });
+    //]]>
+    </script><!-- Pagina gerada em 0,55938 seg. [2025-01-14 04:13:37] -->
+  
+</body></html>

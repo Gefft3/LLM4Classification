@@ -1,0 +1,895 @@
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML"><head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book#">
+    <!--[if IE]><![endif]-->
+<link rel="dns-prefetch" href="//d33xdlntwy0kbs.cloudfront.net">
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//scholar.google.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//rum-static.pingdom.net">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="https://www.medrxiv.org/sites/default/files/images/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="type" content="article">
+<meta name="category" content="article">
+<meta name="HW.identifier" content="/medrxiv/early/2023/01/31/2023.01.29.23285159.atom">
+<meta name="HW.pisa" content="medrxiv;2023.01.29.23285159v1">
+<meta name="DC.Format" content="text/html">
+<meta name="DC.Language" content="en">
+<meta name="DC.Title" content="Probable transmission of SARS-CoV-2 from an African lion to zoo employees">
+<meta name="DC.Identifier" content="10.1101/2023.01.29.23285159">
+<meta name="DC.Date" content="2023-01-31">
+<meta name="DC.Publisher" content="Cold Spring Harbor Laboratory Press">
+<meta name="DC.Rights" content="© 2023, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/">
+<meta name="DC.AccessRights" content="restricted">
+<meta name="DC.Description" content="Animal to human transmission of SARS-CoV-2 has not previously been reported in a zoo setting. A vaccinated African lion with physical limitations requiring hand feeding tested positive for SARS-CoV-2 after development of respiratory signs. Zoo employees were screened, monitored prospectively for development of symptoms, then re-screened as indicated, with confirmation by RT-PCR and whole-genome virus sequencing when possible. Trace-back investigation narrowed the source of infection to one of five people. Three exposed employees subsequently developed symptoms, two with viral genomes identical to the lion’s. Forward contact tracing investigation confirmed probable lion-to-human transmission.
+
+Close contact with large cats is a risk factor for bidirectional zoonotic SARS-CoV-2 transmission that should be considered when occupational health and biosecurity practices at zoos are designed and implemented. SARS-CoV-2 rapid testing and detection methods in big cats and other susceptible animals should be developed and validated to facilitate timely implementation of One Health investigations.
+
+### Competing Interest Statement
+
+The authors have declared no competing interest.
+
+### Funding Statement
+
+The study did not receive any funding.
+
+### Author Declarations
+
+I confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.
+
+Yes
+
+The details of the IRB/oversight body that provided approval or exemption for the research described are given below:
+
+This activity was reviewed by CDC and was conducted consistent with applicable federal law and CDC policy.
+
+I confirm that all necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived, and that any patient/participant/sample identifiers included were not known to anyone (e.g., hospital staff, patients or participants themselves) outside the research group so cannot be used to identify individuals.
+
+Yes
+
+I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).
+
+Yes
+
+I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable.
+
+Yes
+
+All data produced in the present study are available upon reasonable request to the authors">
+<meta name="DC.Contributor" content="Audrey A. Siegrist">
+<meta name="DC.Contributor" content="Kira L. Richardson">
+<meta name="DC.Contributor" content="Ria R. Ghai">
+<meta name="DC.Contributor" content="Brian Pope">
+<meta name="DC.Contributor" content="Jamie Yeadon">
+<meta name="DC.Contributor" content="Betsy Culp">
+<meta name="DC.Contributor" content="Casey Barton Behravesh">
+<meta name="DC.Contributor" content="Lixia Liu">
+<meta name="DC.Contributor" content="Jennifer A. Brown">
+<meta name="DC.Contributor" content="Leslie V. Boyer">
+<meta name="article:published_time" content="2023-01-31">
+<meta name="citation_title" content="Probable transmission of SARS-CoV-2 from an African lion to zoo employees">
+<meta name="citation_abstract" lang="en" content="<h3>Abstract</h3>
+<p>Animal to human transmission of SARS-CoV-2 has not previously been reported in a zoo setting. A vaccinated African lion with physical limitations requiring hand feeding tested positive for SARS-CoV-2 after development of respiratory signs. Zoo employees were screened, monitored prospectively for development of symptoms, then re-screened as indicated, with confirmation by RT-PCR and whole-genome virus sequencing when possible. Trace-back investigation narrowed the source of infection to one of five people. Three exposed employees subsequently developed symptoms, two with viral genomes identical to the lion’s. Forward contact tracing investigation confirmed probable lion-to-human transmission.</p><p>Close contact with large cats is a risk factor for bidirectional zoonotic SARS-CoV-2 transmission that should be considered when occupational health and biosecurity practices at zoos are designed and implemented. SARS-CoV-2 rapid testing and detection methods in big cats and other susceptible animals should be developed and validated to facilitate timely implementation of One Health investigations.</p>">
+<meta name="citation_journal_title" content="medRxiv">
+<meta name="citation_publisher" content="Cold Spring Harbor Laboratory Press">
+<meta name="citation_publication_date" content="2023/01/01">
+<meta name="citation_mjid" content="medrxiv;2023.01.29.23285159v1">
+<meta name="citation_id" content="2023.01.29.23285159v1">
+<meta name="citation_public_url" content="https://www.medrxiv.org/content/10.1101/2023.01.29.23285159v1">
+<meta name="citation_abstract_html_url" content="https://www.medrxiv.org/content/10.1101/2023.01.29.23285159v1.abstract">
+<meta name="citation_full_html_url" content="https://www.medrxiv.org/content/10.1101/2023.01.29.23285159v1.full">
+<meta name="citation_pdf_url" content="https://www.medrxiv.org/content/medrxiv/early/2023/01/31/2023.01.29.23285159.full.pdf">
+<meta name="citation_doi" content="10.1101/2023.01.29.23285159">
+<meta name="citation_num_pages" content="19">
+<meta name="citation_article_type" content="Article">
+<meta name="citation_firstpage" content="2023.01.29.23285159">
+<meta name="citation_author" content="Audrey A. Siegrist">
+<meta name="citation_author_institution" content="Potawatomi Zoo">
+<meta name="citation_author_orcid" content="http://orcid.org/0000-0003-2609-3666">
+<meta name="citation_author" content="Kira L. Richardson">
+<meta name="citation_author_institution" content="Indiana Department of Health">
+<meta name="citation_author" content="Ria R. Ghai">
+<meta name="citation_author_institution" content="Centers for Disease Control and Prevention">
+<meta name="citation_author_orcid" content="http://orcid.org/0000-0001-9775-4826">
+<meta name="citation_author" content="Brian Pope">
+<meta name="citation_author_institution" content="Indiana Department of Health">
+<meta name="citation_author" content="Jamie Yeadon">
+<meta name="citation_author_institution" content="Indiana Department of Health">
+<meta name="citation_author" content="Betsy Culp">
+<meta name="citation_author_institution" content="Potawatomi Zoo">
+<meta name="citation_author" content="Casey Barton Behravesh">
+<meta name="citation_author_institution" content="Centers for Disease Control and Prevention">
+<meta name="citation_author" content="Lixia Liu">
+<meta name="citation_author_institution" content="Indiana Department of Health">
+<meta name="citation_author" content="Jennifer A. Brown">
+<meta name="citation_author_institution" content="Indiana Department of Health">
+<meta name="citation_author" content="Leslie V. Boyer">
+<meta name="citation_author_institution" content="The University of Arizona">
+<meta name="citation_author_email" content="boyer@viper.arizona.edu">
+<meta name="citation_author_orcid" content="http://orcid.org/0000-0002-7622-2326">
+<meta name="citation_reference" content="Centers for Disease Control and Prevention, National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases. How Covid-19 spreads [Internet]. 2021. [cited 2022 Jul 1]. Available from: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html.">
+<meta name="citation_reference" content="Ghai RR, Carpenter A, Liew AY, Martin KB, Herring MK, Gerber SI, et al. Animal reservoirs and hosts for emerging alphacoronaviruses and betacoronaviruses. Emerg Infect Dis. 2021;27(4):1015–1022.">
+<meta name="citation_reference" content="World Organisation for Animal Health. COVID-19 Events in animals [Internet]. 2022. [cited 2022 Jul 1]. Available from: https://www.woah.org/en/what-we-offer/emergency-and-resilience/covid-19/#ui-id-3.">
+<meta name="citation_reference" content="Oreshkova N, Molenaar RJ, Vreman S, Harders F, Oude Munnink BBO, Hakze-van der Honing R, et al. SARS-CoV-2 infection in farmed minks, the Netherlands, April and May Euro Surveill. 2021;26(12):pii=210325c. Available from: https://doi.org/10.2807/1560-7917.ES.2021.26.12.210325c. Corrected and republished from: Euro Surveill. 2020;25(23):2001005.">
+<meta name="citation_reference" content="San Diego Zoo Global. San Diego Zoo Safari Park gorillas recovering after SARS-CoV-2 diagnosis [Internet]. 2021. [cited 2022 Aug 23]. Available from: https://sandiegozoowildlifealliance.org/pressroom/news-releases/san-diego-zoo-safari-park-gorillas-recovering-after-sars-cov-2-diagnosis.">
+<meta name="citation_reference" content="Cushing AC, Sawatzki K, Grome HN, Puryear WB, Kelly N, Runstadler J. Duration of antigen shedding and development of antibody titers in Malayan tigers (Panthera tigris jacksoni) naturally infected with SARS-CoV-2. J Zoo Wildl Med. 2021 Dec;52(4):1224–1228.">
+<meta name="citation_reference" content="Grome HN, Meyer B, Read E, Buchanan M, Cushing A, Sawatzki K, et al. SARS-CoV-2 outbreak among Malayan tigers and humans, Tennessee, USA, 2020. Emerg Infect Dis. 2022 Apr;28(4):833–836.">
+<meta name="citation_reference" content="Koeppel KN, Mendes A, Strydom A, Rotherham L, Mulumba M, Venter M. SARS-CoV-2 reverse zoonoses to pumas and lions, South Africa. Viruses. 2022 Jan 11;14(1):120.">
+<meta name="citation_reference" content="McAloose D, Laverack M, Wang L, Killian ML, Caserta LC, Yuan F, et al. From people to Panthera: natural SARS-CoV-2 infection in tigers and lions at the Bronx Zoo. MBio [Internet]. 2020 Oct 13;11(5):e02220–20.">
+<meta name="citation_reference" content="Mitchell PK, Martins M, Reilly T, Caserta LC, Anderson RR, Cronk BD, et al. SARS-CoV-2 B.1.1.7 variant infection in Malayan tigers, Virginia, USA. Emerg Infect Dis. 2021 Dec;27(12):3171–3173.">
+<meta name="citation_reference" content="Alberto-Orlando S, Calderon JL, Leon-Sosa A, Patiño L, Zambrano-Alvarado MN, Pasquel-Villa LD, et al. SARS-CoV-2 transmission from infected owner to household dogs and cats is associated with food sharing. Int J Infect Dis. 2022;122:295–299.">
+<meta name="citation_reference" content="Sit THC, Brackman CJ, Ip SM, Tam KWS, Law PYT, To EMW, et al. Infection of dogs with SARS-CoV-2. Nature. 2020;586(7831):776–778.">
+<meta name="citation_reference" content="Oude Munnink BB, Sikkema RS, Nieuwenhuijse DF, Molenaar RJ, Munger E, Molenkamp R, et al. Transmission of SARS-CoV-2 on mink farms between humans and mink and back to humans. Science. 2021;371(6525):172–177.">
+<meta name="citation_reference" content="Wendling NM, Carpenter A, Liew A, Ghai R, Gallardo-Romero N, Stoddard R, et al. Transmission of SARS-CoV-2 delta variant (B.1.617.2) from a fully vaccinated human to a canine in Georgia, July 2021. Zoonoses Public Health. 2022;69(5):587–592.">
+<meta name="citation_reference" content="Rabalski L, Kosinski M, Mazur-Panasiuk N, Szewczyk B, Bienkowska-Szewczyk K, Kant R, et al. Zoonotic spill-over of SARS-CoV-2: mink-adapted virus in humans. Clin Microbiol Infect. 2022;28(3):451.e1-451.e4.">
+<meta name="citation_reference" content="Kuchipudi SV, Surendran-Nair M, Ruden RM, Yon M, Nissly RH, Vandegrift KJ, et al. Multiple spillovers from humans and onward transmission of SARS-CoV-2 in white-tailed deer. Proc Natl Acad Sci USA. 2022;119(6):e2121644119.">
+<meta name="citation_reference" content="Hammer AS, Quaade ML, Rasmussen TB, Fonager J, Rasmussen M, Mundbjerg K, et al. SARS-CoV-2 transmission between mink (Neovison vison) and humans, Denmark. Emerg Infect Dis. 2021;27(2):547–551.">
+<meta name="citation_reference" content="Sila T, Sunghan J, Laochareonsuk W, Surasombatpattana S, Kongkamol C, Ingviya T, et al. Suspected cat-to-human transmission of SARS-CoV-2, Thailand, July-September 2021. Emerg Infect Dis. 2022;28(7):1485–1488.">
+<meta name="citation_reference" content="Yen HL, Sit THC, Brackman CJ, Chuk SSY, Gu H, Tam KWS, et al. Transmission of SARS-CoV-2 delta variant (AY.127) from pet hamsters to humans, leading to onward human-to-human transmission: a case study. Lancet. 2022;399(10329):1070–1078.">
+<meta name="citation_reference" content="Terio K, Bronson E, McAloose D. Updated guidance for working around non-domestic felid species during the SARS CoV-2 pandemic. Zoo and Aquarium All Hazards Partnership [Internet]. 2021 [cited 2022 Jul 20]; Available from: https://zahp.org/wp-content/uploads/2021/11/COVID19-guidance-Felid-TAG-29Oct21.pdf.">
+<meta name="citation_reference" content="Zoo and Aquarium All Hazards Partnership. COVID-19 infection prevention and control assessment tool for captive wildlife facilities: zoos, sanctuaries, aquaria, and wild animal rehabilitation centers [Internet]. Zoo and Aquarium All Hazards Partnership. 2021 [cited 2022 Jul 20]. Available from: https://zahp.org/wp-content/uploads/2021/11/COVID-19-Infection-Prevention-and-Control-Assessment-Tool-for-Captive-Wildlife-Facilities-1.pdf">
+<meta name="citation_reference" content="Centers for Disease Control and Prevention, National Center for Emerging and Zoonotic Infectious Disease. Reducing the risk of SARS-CoV-2 spreading between people and wildlife [Internet]. c2021 [cited 2022 Nov 26]. Available from: https://www.cdc.gov/healthypets/covid-19/wildlife.html.">
+<meta name="citation_reference" content="Allender MC, Adkesson MJ, Langan JN, Delk KW, Meehan T, Aitken-Palmer C, et al. Multi-species outbreak of SARS-CoV-2 Delta variant in a zoological institution, with the detection in two new families of carnivores. Transbound Emerg Dis. 2022;69(5):e3060–e3075.">
+<meta name="citation_reference" content="Tenforde MW, Self WH, Adams K, Gaglani M, Ginde AA, McNeal T, et al. Association between mRNA vaccination and COVID-19 hospitalization and disease severity. JAMA 2021 Nov;326(20):2043–2054.">
+<meta name="citation_reference" content="Lauring AS, Tenforde MW, Chappell JD, Gaglani M, Ginde AA, McNeal T, et al. Clinical severity of, and effectiveness of mRNA vaccines against COVID-19 from Omicron, Delta, and Alpha SARS-CoV-2 variants in the United States: prospective observational study. BMJ 2022;376:e069761.">
+<meta name="citation_reference" content="Oldjen H and Crook E. Investigation of an outbreak of SARS-CoV-2 infection among African lions at Utah’s Hogle Zoo [Webinar]. May 2022 ZOHU (Zoonoses and One-Health Updates), Centers for Disease Control and Prevention: https://www.cdc.gov/onehealth/zohu/2022/may.html. Forthcoming 2022.">
+<meta name="citation_reference" content="Centers for Disease Control and Prevention, National Center for Emerging and Zoonotic Infectious Disease. One Health Basics [Internet]. c2022 [cited 2022 Nov 26]. Available from: https://www.cdc.gov/onehealth/basics/index.html.">
+<meta name="twitter:title" content="Probable transmission of SARS-CoV-2 from an African lion to zoo employees">
+<meta name="twitter:site" content="@medrxivpreprint">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://www.medrxiv.org/sites/default/files/images/medrxiv_logo_homepage7-5-small-test-up.png">
+<meta name="twitter:description" content="Animal to human transmission of SARS-CoV-2 has not previously been reported in a zoo setting. A vaccinated African lion with physical limitations requiring hand feeding tested positive for SARS-CoV-2 after development of respiratory signs. Zoo employees were screened, monitored prospectively for development of symptoms, then re-screened as indicated, with confirmation by RT-PCR and whole-genome virus sequencing when possible. Trace-back investigation narrowed the source of infection to one of five people. Three exposed employees subsequently developed symptoms, two with viral genomes identical to the lion’s. Forward contact tracing investigation confirmed probable lion-to-human transmission.
+
+Close contact with large cats is a risk factor for bidirectional zoonotic SARS-CoV-2 transmission that should be considered when occupational health and biosecurity practices at zoos are designed and implemented. SARS-CoV-2 rapid testing and detection methods in big cats and other susceptible animals should be developed and validated to facilitate timely implementation of One Health investigations.
+
+### Competing Interest Statement
+
+The authors have declared no competing interest.
+
+### Funding Statement
+
+The study did not receive any funding.
+
+### Author Declarations
+
+I confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.
+
+Yes
+
+The details of the IRB/oversight body that provided approval or exemption for the research described are given below:
+
+This activity was reviewed by CDC and was conducted consistent with applicable federal law and CDC policy.
+
+I confirm that all necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived, and that any patient/participant/sample identifiers included were not known to anyone (e.g., hospital staff, patients or participants themselves) outside the research group so cannot be used to identify individuals.
+
+Yes
+
+I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).
+
+Yes
+
+I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable.
+
+Yes
+
+All data produced in the present study are available upon reasonable request to the authors">
+<meta name="og-title" property="og:title" content="Probable transmission of SARS-CoV-2 from an African lion to zoo employees">
+<meta name="og-url" property="og:url" content="https://www.medrxiv.org/content/10.1101/2023.01.29.23285159v1">
+<meta name="og-site-name" property="og:site_name" content="medRxiv">
+<meta name="og-description" property="og:description" content="Animal to human transmission of SARS-CoV-2 has not previously been reported in a zoo setting. A vaccinated African lion with physical limitations requiring hand feeding tested positive for SARS-CoV-2 after development of respiratory signs. Zoo employees were screened, monitored prospectively for development of symptoms, then re-screened as indicated, with confirmation by RT-PCR and whole-genome virus sequencing when possible. Trace-back investigation narrowed the source of infection to one of five people. Three exposed employees subsequently developed symptoms, two with viral genomes identical to the lion’s. Forward contact tracing investigation confirmed probable lion-to-human transmission.
+
+Close contact with large cats is a risk factor for bidirectional zoonotic SARS-CoV-2 transmission that should be considered when occupational health and biosecurity practices at zoos are designed and implemented. SARS-CoV-2 rapid testing and detection methods in big cats and other susceptible animals should be developed and validated to facilitate timely implementation of One Health investigations.
+
+### Competing Interest Statement
+
+The authors have declared no competing interest.
+
+### Funding Statement
+
+The study did not receive any funding.
+
+### Author Declarations
+
+I confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.
+
+Yes
+
+The details of the IRB/oversight body that provided approval or exemption for the research described are given below:
+
+This activity was reviewed by CDC and was conducted consistent with applicable federal law and CDC policy.
+
+I confirm that all necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived, and that any patient/participant/sample identifiers included were not known to anyone (e.g., hospital staff, patients or participants themselves) outside the research group so cannot be used to identify individuals.
+
+Yes
+
+I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).
+
+Yes
+
+I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable.
+
+Yes
+
+All data produced in the present study are available upon reasonable request to the authors">
+<meta name="og-type" property="og:type" content="article">
+<meta name="og-image" property="og:image" content="https://www.medrxiv.org/sites/default/files/images/medrxiv_logo_homepage7-5-small-test-up.png">
+<meta name="citation_date" content="2023-01-31">
+<link rel="alternate" type="text/plain" title="Full Text (Plain)" href="/content/10.1101/2023.01.29.23285159v1.full.txt">
+<link rel="alternate" type="application/vnd.ms-powerpoint" title="Powerpoint" href="/content/10.1101/2023.01.29.23285159v1.ppt">
+<link rel="alternate" type="application/pdf" title="Full Text (PDF)" href="/content/10.1101/2023.01.29.23285159v1.full.pdf">
+<meta name="description" content="medRxiv - The Preprint Server for Health Sciences">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://www.medrxiv.org/content/10.1101/2023.01.29.23285159v1">
+<link rel="shortlink" href="https://www.medrxiv.org/node/610149">
+    <title>Probable transmission of SARS-CoV-2 from an African lion to zoo employees | medRxiv</title>  
+    <link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__7SC0i-kTgUlQGKuqbmyS18Sez8FDO-aG9FSHkGrLGl8__EBUojqg5W_1M2-aUl2Y1w9JxEEauoJ0pj29wOb-7Vz4__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all">
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__UufzdoKtMhzTNiAJfsa_0bYn78zz-bBHwNEqMQ0UIXk__1-Opexvnkee5dlO1d6qLW5_7DT6gOdNGKRcC-FxT6QU__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all">
+<style type="text/css" media="all">
+/* <![CDATA[ */
+.panels-flexible-new .panels-flexible-region{padding:0}.panels-flexible-new .panels-flexible-region-inside{padding-right:.5em;padding-left:.5em}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0}.panels-flexible-new .panels-flexible-column{padding:0}.panels-flexible-new .panels-flexible-column-inside{padding-right:.5em;padding-left:.5em}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0}.panels-flexible-new .panels-flexible-row{padding:0 0 .5em;margin:0}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0}.panels-flexible-column-new-main{float:left;width:99.0000%}.panels-flexible-new-inside{padding-right:0}.panels-flexible-new{width:auto}.panels-flexible-region-new-center{float:left;width:99.0000%}.panels-flexible-row-new-main-row-inside{padding-right:0}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__PWuQ_RYRTJ4BLEKsbWQeHysPg0gOQ3571ruQa_rXvAo__pWyBeQHtoijrNnOoDz9ZPdiNPirDrSCPOz0Q1CDCeno__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all">
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:gray}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff !important}.eu-cookie-withdraw-tab{border-color:#fff}.eu-cookie-compliance-more-button{color:#fff !important}
+/* ]]> */
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__ElJr3PIJEvw3qLXc1cnYiLj2G4KgDPSXFOfm6Phf8hw__JdWGm15cDWjsK6KrFlQVXQix9YgNeYysf22XZHj-Y-c__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__Wnlyen9qEpwh_Qaf9okEu4QdVGM0BDothxeqA6Nbvo8__EJmw6SZD9bYoS8jocCpPYS3JFRURpdzmuvJoAUNiI-g__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__8yvrBWwHZPSguRku6c2FZXz75v3M9-HDFlmDDO0ZTQc__2i5fOal7T1XioOiL8E1j-5GRVuLFoaX_Cmf1tDdfOGA__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all">
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__XH6bpcI0f2dImc-p674DLCZtWBGb-QwxJK1YexVGtno__vUceGprdo5nIhV6DH93X7fI3r8RcTJbChbas9TQXeW4__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__2WBMox6sOrN42ss5lCnH7WWVRdFdJCxtTKnQJYRwTE4__yqNvNYLvMpjy3ffuJrjjm9uW2i-Me1c23KLYuWHaqio__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all">
+<!--<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.medrxiv.org/sites/default/files/advagg_css/css__0UdkijVVije2y6eACFDyME7f-U1wKqvEIE2VmIycJtA__rtQnXv8GOc-AsynbhzSlQBD_2lVxAkB6XEFUCK72qXc__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://d33xdlntwy0kbs.cloudfront.net/cshl_custom_medrxiv.css" media="all">
+    <script type="text/javascript" src="https://www.medrxiv.org/sites/default/files/advagg_js/js__BKYqkKToQ7EjirB7eIdMEH5521EU3da9IpoOs8Ex2XI__aSjVoX8giBmLhN2EbCgIGQJNu89Mh5aVu1LvI_gkJ7Y__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="https://www.medrxiv.org/sites/default/files/advagg_js/js__4Cn2dxvNlsJ-sHe6QOTLREaQvcqb0Yh0Zm9tTOHtQow__JeZEUjzbaj_yX6UjCI8eBbXy_J64ZVuoWmc2fSpLZHo__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en&amp;render=explicit&amp;onload=drupalRecaptchaOnload"></script>
+<script type="text/javascript" src="https://www.medrxiv.org/sites/default/files/advagg_js/js__dGWpV57YWu3sX6UOe04RMH-iP9jSkEP7Ajt0caYXZZk__1l8Wa0iuIek7SEVmMuU0Y9TlAvRR-XZVfl1u9ezOPes__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.js"></script>
+<script type="text/javascript" async="async" src="https://scholar.google.com/scholar_js/casa.js"></script>
+<script type="text/javascript" async="async" src="https://www.googletagmanager.com/gtag/js?id=G-0K57TCX5BY"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/*!
+ * yepnope1.5.4
+ * (c) WTFPL, GPLv2
+ */
+(function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}})(this,document);
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+yepnope({
+  test: Modernizr.matchmedia,
+  nope: '/sites/all/libraries/media-match/media.match.min.js'
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _prum=[['id', '52e95df3abe53d2e33000000'], ['mark', 'firstbyte',
+      (new Date()).getTime()]]; (function() {
+      var s=document.getElementsByTagName('script')[0],
+      p=document.createElement('script');
+      p.async='async'; p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(typeof window.MathJax === "undefined") window.MathJax = { menuSettings: { zoom: "Click" } };
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-0K57TCX5BY", {"groups":"default","anonymize_ip":true});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"jcore_1","theme_token":"nyq7CM7Nvt_l0SUDfAWo9sgnD_ZcErMXtGg8kjdbL5g"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"highwire":{"nid":"610149","apath":"\/medrxiv\/early\/2023\/01\/31\/2023.01.29.23285159.atom","pisa":"medrxiv;2023.01.29.23285159v1","ac":{"\/medrxiv\/early\/2023\/01\/31\/2023.01.29.23285159.atom":{"access":{"full":true},"pisa_id":"","apath":"\/medrxiv\/early\/2023\/01\/31\/2023.01.29.23285159.atom","jcode":"medrxiv"}},"processed":["highwire_math"],"markup":[{"requested":"abstract","variant":"abstract","view":"abstract","pisa":"medrxiv;2023.01.29.23285159v1"}],"modal_window_width":"560","share_modal_width":"560","share_modal_title":"Share this Article"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"instances":"{\u0022highwire_abstract_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:20,\u0022height\u0022:20,\u0022border\u0022:1,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-abstract-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-abstract-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022right center\u0022,\u0022my\u0022:\u0022left center\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022shift\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter click \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}},\u0022highwire_author_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:15,\u0022height\u0022:15,\u0022border\u0022:1,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-author-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-author-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022top center\u0022,\u0022my\u0022:\u0022bottom center\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}},\u0022highwire_reflinks_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:15,\u0022height\u0022:15,\u0022border\u0022:1,\u0022mimic\u0022:\u0022top center\u0022,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-ref-link-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-ref-link-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022bottom left\u0022,\u0022my\u0022:\u0022top left\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022flip\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}}}","qtipDebug":"{\u0022leaveElement\u0022:0}","panel_ajax_tab":{"path":"sites\/all\/modules\/contrib\/panels_ajax_tab"},"disqus":{"domain":"medRxiv","url":"https:\/\/www.medrxiv.org\/content\/10.1101\/2023.01.29.23285159v1","title":"Probable transmission of SARS-CoV-2 from an African lion to zoo employees","identifier":"node\/610149"},"panels_ajax_pane":{"new-28877068-b9cb-4641-830b-b6b4638c98bb":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022SBrXZNkBEAOqC2sAO5JYO8fnGrAj9XYLAJc+x7e7QpWAoT0+D3UT4OL7XkVgWM1LtP5qU4fofL0Zh3dBOgYw8JOuyW6k+E9I2cov63PIPbv\\\\\\\/xce827\\\\\\\/xUnOzlzjFwwYglfR9KbqGLWCGRdltuTnsM9O\\\\\\\/JCzbWyLA0iPtUHIsWnWUO+cxhnAMm6cC6Wel89glQzmPBeqz\\\\\\\/dGl8llOSZ1cQ\\\\\\\/pExKkYfxRZK\\\\\\\/6fTI8Dlo9wefTRjLj4PMRe2wK7YzglDPRcTDzKBQ7F5lhD+NYumpndinSe7aFrqCxN+CGa4Nh62FibT0VjjQpk4LCNRgQkFuMM9Yi2PbV5YoY9Oh7uROvPrG3kiB48cexYAhWM2F14jN779jw3ETH\\\\\\\/kR7NgI\\\\\\\/YlK6MBrwbisDIo1A2\\\\\\\/OT\\\\\\\/tvQ3u\\\\\\\/YyqDEFnD8mQNAHBvikAP7BxgYPWbbcaRA2oSJMmI+AvuF64GXgLcmZ0GPvGz1n6ZNFwL1hiQ0fQwHv5E6DDfKIwJn\\\\\\\/wKYF+NrBO9HhG66LTLQz5cZdXpfpMNmMgSKd1DE1VE2cLzpwh8vQJciJP\\\\\\\/I7QPscOZzxd2uqkYzawV7ZJNcJw504+86JNs14u3CysZHhFyr8OukYU998z6C47JuYPbFFmh+3ezjk5375DgESy1N7vXD5j+SYFTXw6Cj1tMvhEdo1mjttJQUUPJjJx79WbDGBtxbYqyMqMozZbpTj\\\\\\\/qHB8cQTBpYm6GFITWhuZkOk\\\\\\\/PxwP+EhSuerzy2lziXQjZcAOEc0EqnBzw1gpERiXxcLEXtoH1ZD6U4QB6D++fD0m4t0D7JnuDj5fEJJ5ySaLPFlSuHgcL\\\\\\\/3mMEKV\\\\\\\/DWcQNlt9CMYWvmm\\\\\\\/P4B2NJHbL5sOpgRX0C+sd16OI5l1B2PlJz71V\\\\\\\/v4u7F31QXdr\\\\\\\/UBQY83DqEQHi\\\\\\\/hv\\\\\\\/Qb3GQt11d5zwoT1IgyYDmzdhGocz3EL0KWYK\\\\\\\/sz+F1Hv9kZhGcFfj5CNJmiQ5XBOyFQj9pAUkeyXdh9hxuejoepOIrnpJaLQavLfiX23aiU6NneJpoade4aMzsoIF6X1yrAZi1HMPAIPtGfC9Rpa\\\\\\\/Qqv9OH50CQFWJ\\\\\\\/wR8a2\\\\\\\/VBD+gz6nynDWRwssBXdnT8bBl8lB566Gub5O4YlPaadoQry7zLRltWd5swYPHMQJ76YBeJtmHuk0bsni\\\\\\\/9RNT4wANfcq7Ayj8V7o87t4FkPcz95ZQo5AsHRylv57ummEj3SN9GuNZL3fgWVEUj73vhM0Cnm5gIePeAmbkLAl8ZZw7IS6jcr\\\\\\\/dotaoCoBvOuCFk6Hc\\\\\\\/3p+RYWJaAjSBmOIdp4o9ZDlguSSEQIva2m2oOEqDvPUrjCz2p0THbruidsQe9\\\u0022,\\\u0022iv\\\u0022:\\\u0022SCipgy6nwIc3A6DAZDqIbw==\\\u0022,\\\u0022salt\\\u0022:\\\u0022f9d8845712f72c9fee5db7d9ff111eab\\\u0022}\u0022,\u0022hmac\u0022:\u002293dc8bda0b1631d0e8372980e146f47a9cc691a6d604e25a06fdc05e56b15c7f\u0022}"},"urlIsAjaxTrusted":{"\/content\/10.1101\/2023.01.29.23285159v1":true},"ws_fl":{"width":100,"height":21},"ws_gpo":{"size":"","annotation":"","lang":"","callback":"","width":300},"color":{"logo":"https:\/\/www.medrxiv.org\/sites\/default\/files\/medrxiv_internal_logo.png"},"highwire_list_expand":{"is_collapsed":"1"},"highwireResponsive":{"enquire_enabled":1,"breakpoints_configured":1,"breakpoints":{"zero":"all and (min-width: 0px)","xsmall":"all and (min-width: 380px)","narrow":"all and (min-width: 768px) and (min-device-width: 768px), (max-device-width: 800px) and (min-width: 768px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EWe use cookies on this site to enhance your user experience. By clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 role=\u0022dialog\u0022 aria-labelledby=\u0022Continue\u0022\n        class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EContinue\u003C\/button\u003E\n                  \u003Cbutton type=\u0022button\u0022 role=\u0022dialog\u0022 aria-labelledby=\u0022Find out more\u0022\n        class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EFind out more\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 role=\u0022dialog\u0022 aria-labelledby=\u0022Continue\u0022\n        class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EContinue\u003C\/button\u003E\n                  \u003Cbutton type=\u0022button\u0022 role=\u0022dialog\u0022 aria-labelledby=\u0022Find out more\u0022\n        class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EFind out more\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/help\/cookie-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"365","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u0026lt;h2\u0026gt;We use cookies on this site to enhance your user experience\u0026lt;\/h2\u0026gt;\u0026lt;p\u0026gt;You have given your consent for us to set cookies.\u0026lt;\/p\u0026gt;\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"googleanalytics":{"account":["G-0K57TCX5BY"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"jnl_biorxiv_styles":{"defaultJCode":"medrxiv"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 768px) and (min-device-width: 768px), (max-device-width: 800px) and (min-width: 768px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body class="html not-front not-logged-in page-node page-node- page-node-610149 node-type-highwire-article context-content hw-default-jcode-medrxiv hw-article-type-article">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P4HH5NV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P4HH5NV');</script>
+<!-- End Google Tag Manager -->
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+        <div class="page clearfix page-box-shadows footer-borders panels-page panels-layout-jcore_2col" id="page">
+      <header id="section-header" class="section section-header">
+    
+  <div id="zone-branding" class="zone zone-branding clearfix print-display-block container-30">
+    <div class="grid-15 prefix-1 region region-branding print-display-block" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" class="" data-icon-position="" data-hide-link-title="0"><img alt="medRxiv" src="https://www.medrxiv.org/sites/default/files/medrxiv_internal_logo.png"></a>      </div>
+                </div>
+          </div>
+</div><div class="grid-11 suffix-1 region region-branding-second print-hidden" id="region-branding-second">
+  <div class="region-inner region-branding-second-inner">
+    <div class="block block-system block-menu block-main-menu block-system-main-menu odd block-without-title" id="block-system-main-menu">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <nav class="menubar-nav"><ul class="menu" role="menu"><li class="first leaf" role="menuitem"><a href="/" title="" class="" data-icon-position="" data-hide-link-title="0">Home</a></li>
+<li class="leaf" role="menuitem"><a href="/content/about-medrxiv" class="" data-icon-position="" data-hide-link-title="0">About</a></li>
+<li class="leaf" role="menuitem"><a href="/submit-a-manuscript" class="" data-icon-position="" data-hide-link-title="0">Submit</a></li>
+<li class="last leaf" role="menuitem"><a href="/content/alertsrss" title="" class="" data-icon-position="" data-hide-link-title="0">ALERTS / RSS</a></li>
+</ul></nav>    </div>
+  </div>
+</div><div class="block block-panels-mini block-biorxiv-search-box block-panels-mini-biorxiv-search-box even block-without-title" id="block-panels-mini-biorxiv-search-box">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-display panel-1col clearfix" id="mini-panel-biorxiv_search_box">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-seach-quicksearch">
+  
+      
+  
+  <div class="pane-content">
+    <form class="highwire-quicksearch button-style-mini button-style-mini" action="/content/10.1101/2023.01.29.23285159v1" method="post" id="highwire-search-quicksearch-form-0" accept-charset="UTF-8"><div><div class="form-item form-item-label-invisible form-type-textfield form-item-keywords">
+  <label class="element-invisible" for="search_rightsidebar_keywords_387699004">Search for this keyword </label>
+ <input placeholder="Search" type="text" id="search_rightsidebar_keywords_387699004" name="keywords" value="" size="60" maxlength="128" class="form-text">
+</div>
+<div class="button-wrapper button-mini"><span class="icon-search"></span><input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="search_rightsidebar_submit_274899883" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-DHupgRfhiT6SNgTPQMOafAbje6iKLKszmeUlWC8-A94">
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form_0">
+</div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2 advanced-search-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/search">Advanced Search</a>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+  
+  <div id="zone-header" class="zone zone-header clearfix container-30">
+  	      </div>
+</header>    
+      <section id="section-content" class="section section-content">
+    
+  <div id="zone-content" class="zone zone-content clearfix container-30">    
+        
+    <div class="grid-28 suffix-1 prefix-1 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-display panels-960-layout jcore-2col-layout">
+	  
+  <div class="panel-row-wrapper clearfix">
+		
+		<div class="main-content-wrapper grid-17 suffix-1 alpha">
+			<div class="panel-panel panel-region-content">
+			  <div class="inside"><div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article node610149" data-node-nid="610149" id="node-610149--21642668043" data-pisa="medrxiv;2023.01.29.23285159v1" data-pisa-master="medrxiv;2023.01.29.23285159" data-apath="/medrxiv/early/2023/01/31/2023.01.29.23285159.atom" data-hw-author-tooltip-instance=""><div class="highwire-cite highwire-cite-highwire-article highwire-citation-medrxiv-article-top clearfix has-author-tooltip">
+
+  
+      <h1 class="highwire-cite-title" id="page-title">Probable transmission of SARS-CoV-2 from an African lion to zoo employees</h1>  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first hw-author-orcid-logo-wrapper" data-delta="0"><a href="http://orcid.org/0000-0003-2609-3666" target="_blank" class="hw-author-orcid-logo link-icon-only link-icon"><span class="hw-icon-orcid hw-icon-color-orcid"></span> <span class="title element-invisible">View ORCID Profile</span></a><span class="nlm-given-names">Audrey A.</span> <span class="nlm-surname">Siegrist</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Kira L.</span> <span class="nlm-surname">Richardson</span></span>, <span class="highwire-citation-author hw-author-orcid-logo-wrapper" data-delta="2"><a href="http://orcid.org/0000-0001-9775-4826" target="_blank" class="hw-author-orcid-logo link-icon-only link-icon"><span class="hw-icon-orcid hw-icon-color-orcid"></span> <span class="title element-invisible">View ORCID Profile</span></a><span class="nlm-given-names">Ria R.</span> <span class="nlm-surname">Ghai</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Brian</span> <span class="nlm-surname">Pope</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Jamie</span> <span class="nlm-surname">Yeadon</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Betsy</span> <span class="nlm-surname">Culp</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Casey Barton</span> <span class="nlm-surname">Behravesh</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Lixia</span> <span class="nlm-surname">Liu</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Jennifer A.</span> <span class="nlm-surname">Brown</span></span>, <span class="highwire-citation-author hw-author-orcid-logo-wrapper" data-delta="9"><a href="http://orcid.org/0000-0002-7622-2326" target="_blank" class="hw-author-orcid-logo link-icon-only link-icon"><span class="hw-icon-orcid hw-icon-color-orcid"></span> <span class="title element-invisible">View ORCID Profile</span></a><span class="nlm-given-names">Leslie V.</span> <span class="nlm-surname">Boyer</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="label">doi:</span> https://doi.org/10.1101/2023.01.29.23285159 </span></div>
+  
+  
+  
+</div>
+<div id="hw-article-author-popups-node-610149--21642668043" style="display: none;"><div class="author-tooltip-0"><div class="author-tooltip-name">Audrey A. Siegrist </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">1</span><span class="nlm-institution">Potawatomi Zoo</span>, South Bend, Indiana, <span class="nlm-country">USA</span></div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Audrey%2BA.%2BSiegrist%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Siegrist%20AA&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link"><a href="/search/author1%3AAudrey%2BA.%2BSiegrist%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li><li class="author-orcid-link last"><a href="http://orcid.org/0000-0003-2609-3666" target="_blank" class="" data-icon-position="" data-hide-link-title="0">ORCID record for Audrey A. Siegrist</a></li></ul></div><div class="author-tooltip-1"><div class="author-tooltip-name">Kira L. Richardson </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">2</span><span class="nlm-institution">Indiana Department of Health</span>, Indianapolis, Indiana</div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Kira%2BL.%2BRichardson%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Richardson%20KL&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link last"><a href="/search/author1%3AKira%2BL.%2BRichardson%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li></ul></div><div class="author-tooltip-2"><div class="author-tooltip-name">Ria R. Ghai </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">3</span><span class="nlm-institution">Centers for Disease Control and Prevention</span>, Atlanta, Georgia, <span class="nlm-country">USA</span></div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Ria%2BR.%2BGhai%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Ghai%20RR&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link"><a href="/search/author1%3ARia%2BR.%2BGhai%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li><li class="author-orcid-link last"><a href="http://orcid.org/0000-0001-9775-4826" target="_blank" class="" data-icon-position="" data-hide-link-title="0">ORCID record for Ria R. Ghai</a></li></ul></div><div class="author-tooltip-3"><div class="author-tooltip-name">Brian Pope </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">2</span><span class="nlm-institution">Indiana Department of Health</span>, Indianapolis, Indiana</div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Brian%2BPope%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Pope%20B&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link last"><a href="/search/author1%3ABrian%2BPope%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li></ul></div><div class="author-tooltip-4"><div class="author-tooltip-name">Jamie Yeadon </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">2</span><span class="nlm-institution">Indiana Department of Health</span>, Indianapolis, Indiana</div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Jamie%2BYeadon%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Yeadon%20J&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link last"><a href="/search/author1%3AJamie%2BYeadon%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li></ul></div><div class="author-tooltip-5"><div class="author-tooltip-name">Betsy Culp </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">1</span><span class="nlm-institution">Potawatomi Zoo</span>, South Bend, Indiana, <span class="nlm-country">USA</span></div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Betsy%2BCulp%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Culp%20B&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link last"><a href="/search/author1%3ABetsy%2BCulp%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li></ul></div><div class="author-tooltip-6"><div class="author-tooltip-name">Casey Barton Behravesh </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">3</span><span class="nlm-institution">Centers for Disease Control and Prevention</span>, Atlanta, Georgia, <span class="nlm-country">USA</span></div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Casey%2BBarton%2BBehravesh%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Behravesh%20CB&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link last"><a href="/search/author1%3ACasey%2BBarton%2BBehravesh%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li></ul></div><div class="author-tooltip-7"><div class="author-tooltip-name">Lixia Liu </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">2</span><span class="nlm-institution">Indiana Department of Health</span>, Indianapolis, Indiana</div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Lixia%2BLiu%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Liu%20L&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link last"><a href="/search/author1%3ALixia%2BLiu%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li></ul></div><div class="author-tooltip-8"><div class="author-tooltip-name">Jennifer A. Brown </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">2</span><span class="nlm-institution">Indiana Department of Health</span>, Indianapolis, Indiana</div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Jennifer%2BA.%2BBrown%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Brown%20JA&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link last"><a href="/search/author1%3AJennifer%2BA.%2BBrown%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li></ul></div><div class="author-tooltip-9"><div class="author-tooltip-name">Leslie V. Boyer </div><div class="author-tooltip-affiliation"><span class="author-tooltip-text"><div class="author-affiliation"><span class="nlm-sup">4</span><span class="nlm-institution">The University of Arizona</span>, Tucson, Arizona, <span class="nlm-country">USA</span></div></span></div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=Leslie%2BV.%2BBoyer%2B" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li><li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Boyer%20LV&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li><li class="author-site-search-link"><a href="/search/author1%3ALeslie%2BV.%2BBoyer%2B" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li><li class="author-orcid-link"><a href="http://orcid.org/0000-0002-7622-2326" target="_blank" class="" data-icon-position="" data-hide-link-title="0">ORCID record for Leslie V. Boyer</a></li><li class="author-corresp-email-link last"><span>For correspondence: 
+<a href="mailto:boyer@viper.arizona.edu" class="" data-icon-position="" data-hide-link-title="0">boyer@viper.arizona.edu</a></span></li></ul></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-panel-tabs pane-panels-ajax-tab-tabs">
+  
+      
+  
+  <div class="pane-content">
+    <div class="item-list"><ul class="tabs inline panels-ajax-tab"><li class="first"><a href="/content/10.1101/2023.01.29.23285159v1" class="panels-ajax-tab-tab" data-panel-name="biorxiv_tab_art" data-target-id="highwire_article_tabs" data-entity-context="node:610149" data-trigger="" data-url-enabled="1">Abstract</a><a href="/panels_ajax_tab/biorxiv_tab_art/node:610149/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li><li><a href="/content/10.1101/2023.01.29.23285159v1.full-text" class="panels-ajax-tab-tab" data-panel-name="article_tab_full_text" data-target-id="highwire_article_tabs" data-entity-context="node:610149" data-trigger="full-text" data-url-enabled="1">Full Text</a><a href="/panels_ajax_tab/article_tab_full_text/node:610149/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li><li><a href="/content/10.1101/2023.01.29.23285159v1.article-info" class="panels-ajax-tab-tab" data-panel-name="biorxiv_tab_info" data-target-id="highwire_article_tabs" data-entity-context="node:610149" data-trigger="article-info" data-url-enabled="1">Info/History</a><a href="/panels_ajax_tab/biorxiv_tab_info/node:610149/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li><li><a href="/content/10.1101/2023.01.29.23285159v1.article-metrics" class="panels-ajax-tab-tab" data-panel-name="article_tab_metrics" data-target-id="highwire_article_tabs" data-entity-context="node:610149" data-trigger="article-metrics" data-url-enabled="1">Metrics</a><a href="/panels_ajax_tab/article_tab_metrics/node:610149/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li><li><a href="/content/10.1101/2023.01.29.23285159v1.external-links" class="panels-ajax-tab-tab" data-panel-name="article_tab_data_code" data-target-id="highwire_article_tabs" data-entity-context="node:610149" data-trigger="external-links" data-url-enabled="1">Data/Code</a><a href="/panels_ajax_tab/article_tab_data_code/node:610149/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li><li class="last"><a href="/content/10.1101/2023.01.29.23285159v1.full.pdf+html" class="panels-ajax-tab-tab" data-panel-name="biorxiv_tab_pdf" data-target-id="highwire_article_tabs" data-entity-context="node:610149" data-trigger="full.pdf+html" data-url-enabled="1"><i class="icon-file-alt"></i> Preview PDF</a><a href="/panels_ajax_tab/biorxiv_tab_pdf/node:610149/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li></ul></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-panel-tabs-container">
+  
+      
+  
+  <div class="pane-content">
+    <div data-panels-ajax-tab-preloaded="biorxiv_tab_art" id="panels-ajax-tab-container-highwire_article_tabs" class="panels-ajax-tab-container"><div class="panels-ajax-tab-loading" style="display:none"><img class="loading" src="https://www.medrxiv.org/sites/all/modules/contrib/panels_ajax_tab/images/loading.gif" alt="Loading" title="Loading"></div><div class="panels-ajax-tab-wrap-biorxiv_tab_art"><div class="panel-display panel-1col clearfix">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-markup">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" data-highwire-cite-ref-tooltip-instance="highwire_reflinks_tooltip" class="content-block-markup" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div class="article abstract-view "><span class="highwire-journal-article-marker-start"></span><div class="section abstract" id="abstract-1"><h2 class="">Abstract</h2><p id="p-2">Animal to human transmission of SARS-CoV-2 has not previously been reported in a zoo setting. A vaccinated African lion with physical limitations requiring hand feeding tested positive for SARS-CoV-2 after development of respiratory signs. Zoo employees were screened, monitored prospectively for development of symptoms, then re-screened as indicated, with confirmation by RT-PCR and whole-genome virus sequencing when possible. Trace-back investigation narrowed the source of infection to one of five people. Three exposed employees subsequently developed symptoms, two with viral genomes identical to the lion’s. Forward contact tracing investigation confirmed probable lion-to-human transmission.</p><p id="p-3">Close contact with large cats is a risk factor for bidirectional zoonotic SARS-CoV-2 transmission that should be considered when occupational health and biosecurity practices at zoos are designed and implemented. SARS-CoV-2 rapid testing and detection methods in big cats and other susceptible animals should be developed and validated to facilitate timely implementation of One Health investigations.</p></div><h3>Competing Interest Statement</h3><p id="p-4">The authors have declared no competing interest.</p><h3>Funding Statement</h3><p id="p-5">The study did not receive any funding.</p><h3>Author Declarations</h3><p id="p-6">I confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.</p><p id="p-7">Yes</p><p id="p-8">The details of the IRB/oversight body that provided approval or exemption for the research described are given below:</p><p id="p-9">This activity was reviewed by CDC and was conducted consistent with applicable federal law and CDC policy.</p><p id="p-10">I confirm that all necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived, and that any patient/participant/sample identifiers included were not known to anyone (e.g., hospital staff, patients or participants themselves) outside the research group so cannot be used to identify individuals.</p><p id="p-11">Yes</p><p id="p-12">I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).</p><p id="p-13">Yes</p><p id="p-14">I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable.</p><p id="p-15">Yes</p><div class="section data-availability" id="sec-15"><h2 class="">Data Availability</h2><p id="p-55">All data produced in the present study are available upon reasonable request to the authors</p></div><span class="highwire-journal-article-marker-end"></span></div><span class="related-urls"></span></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-biorxiv-copyright">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-highwire-copyright field-type-text field-label-inline clearfix"><div class="field-label">Copyright&nbsp;</div><div class="field-items"><div class="field-item even">The copyright holder for this preprint is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.<span class="license-type"> It is made available under a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" class="" data-icon-position="" data-hide-link-title="0">CC-BY-NC-ND 4.0 International license</a>.</span></div></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-disqus-comment">
+  
+      
+  
+  <div class="pane-content">
+    <div id="disqus_thread"><noscript><p><a href="http://medRxiv.disqus.com/?url=https%3A%2F%2Fwww.medrxiv.org%2Fcontent%2F10.1101%2F2023.01.29.23285159v1" class="" data-icon-position="" data-hide-link-title="0">View the discussion thread.</a></p></noscript></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-back-to-top">
+  
+      
+  
+  <div class="pane-content">
+    <a href="#page" class="back-to-top" data-icon-position="" data-hide-link-title="0"><span class="icon-chevron-up"></span> Back to top</a>  </div>
+
+  
+  </div>
+</div>
+			</div>
+		</div>
+		
+		<div class="sidebar-right-wrapper grid-10 omega">
+			<div class="panel-panel panel-region-sidebar-right">
+			  <div class="inside"><div class="panel-pane pane-highwire-node-pager">
+  
+      
+  
+  <div class="pane-content">
+    <div class="pager highwire-pager pager-mini clearfix highwire-node-pager highwire-article-pager"><span class="pager-prev"><a href="/content/10.1101/2023.01.28.23284802v1" title="A Public Health Hackathon for Medical Students in Africa: Process, Outcome and Recommendations" rel="prev" class="pager-link-prev link-icon"><span class="icon-circle-arrow-left"></span> <span class="title">Previous</span></a></span><span class="pager-next"><a href="/content/10.1101/2022.09.14.22279959v2" title="A modeling-based approach to optimize COVID-19 vaccine dosing schedules for improved protection" rel="next" class="pager-link-next link-icon-right link-icon"><span class="title">Next</span> <span class="icon-circle-arrow-right"></span></a></span></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1">
+  
+      
+  
+  <div class="pane-content">
+    Posted&nbsp;January 31, 2023.  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-biorxiv-art-tools">
+  
+      
+  
+  <div class="pane-content">
+    <div id="mini-panel-biorxiv_art_tools" class="highwire-2col-stacked panel-display">
+	  
+  <div class="panel-row-wrapper clearfix">
+		<div class="content-left-wrapper content-column">
+          <div class="panel-panel panel-region-content-left">
+            <div class="inside"><div class="panel-pane pane-highwire-variant-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/content/10.1101/2023.01.29.23285159v1.full.pdf" target="_self" class="article-dl-pdf-link link-icon"><span class="icon-external-link-sign"></span> <span class="title">Download PDF</span></a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-variant-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/content/early/2023/01/31/2023.01.29.23285159.external-links" target="_self" class="link-icon"><span class="icon-file"></span> <span class="title">Data/Code</span></a>  </div>
+
+  
+  </div>
+</div>
+          </div>
+        </div>
+        
+        <div class="content-right-wrapper content-column">
+          <div class="panel-panel panel-region-content-right">
+            <div class="inside"><div class="panel-pane pane-minipanel-dialog-link pane-biorxiv-art-email">
+  
+      
+  
+  <div class="pane-content">
+    <div class="minipanel-dialog-wrapper"><div class="minipanel-dialog-link-link"><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger" title="Email this Article" data-icon-position="" data-hide-link-title="0"><i class="icon-envelope"></i> Email</a></div><div class="minipanel-dialog-link-mini" style="display:none"><div class="panel-display panel-1col clearfix" id="mini-panel-biorxiv_art_email">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-forward-form pane-forward">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/10.1101/2023.01.29.23285159v1" method="post" id="forward-form" accept-charset="UTF-8"><div><div id="edit-instructions" class="form-item form-item-label-before form-type-item">
+ <p>Thank you for your interest in spreading the word about medRxiv.</p><p>NOTE: Your email address is requested solely to identify you as the sender of this article.</p>
+</div>
+<div class="form-item form-item-label-before form-type-textfield form-item-email">
+  <label for="edit-email">Your Email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-email" name="email" value="" size="58" maxlength="256" class="form-text required">
+</div>
+<div class="form-item form-item-label-before form-type-textfield form-item-name">
+  <label for="edit-name">Your Name <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="58" maxlength="256" class="form-text required">
+</div>
+<div class="form-item form-item-label-before form-type-textarea form-item-recipients">
+  <label for="edit-recipients">Send To <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-recipients" name="recipients" cols="50" rows="5" class="form-textarea required"></textarea></div>
+<div class="description">Enter multiple addresses on separate lines or separate them with commas.</div>
+</div>
+<div id="edit-page" class="form-item form-item-label-before form-type-item">
+  <label for="edit-page">You are going to email the following </label>
+ <a href="/content/10.1101/2023.01.29.23285159v1" class="active" data-icon-position="" data-hide-link-title="0">Probable transmission of SARS-CoV-2 from an African lion to zoo employees</a>
+</div>
+<div id="edit-subject" class="form-item form-item-label-before form-type-item">
+  <label for="edit-subject">Message Subject </label>
+ (Your Name) has forwarded a page to you from medRxiv
+</div>
+<div id="edit-body" class="form-item form-item-label-before form-type-item">
+  <label for="edit-body">Message Body </label>
+ (Your Name) thought you would like to see this page from the medRxiv website.
+</div>
+<div class="form-item form-item-label-before form-type-textarea form-item-message">
+  <label for="edit-message--2">Your Personal Message </label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-message--2" name="message" cols="50" rows="10" class="form-textarea"></textarea></div>
+</div>
+<input type="hidden" name="path" value="node/610149">
+<input type="hidden" name="path_cid" value="">
+<input type="hidden" name="forward_footer" value=" ">
+<input type="hidden" name="form_build_id" value="form-QiiRV37dkOn4hZTN9DO6537MijjjMf_W-o1QOekQZp4">
+<input type="hidden" name="form_id" value="forward_form">
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="424482982">
+<input type="hidden" name="captcha_token" value="38774868c52f8c63059d072a564f85dd">
+<input type="hidden" name="captcha_response" value="Google no captcha">
+<div class="g-recaptcha" data-sitekey="6LfnJVIUAAAAAE-bUOMg0MJGki4lqSvDmhJp19fN" data-theme="light" data-type="image"></div></div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Send Message" class="form-submit"></div></div></form>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-share-link highwire_clipboard_link_ajax" id="shareit">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/" class="link-icon"><span class="icon-share-alt"></span> <span class="title">Share</span></a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-biorxiv-share highwire_clipboard_form_ajax_shareit">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panel-display omega-12-onecol" id="mini-panel-biorxiv_share">
+
+		  <div class="panel-panel grid-12 panel-region-preface">
+		  <div class="inside"><div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article node610149--3" data-node-nid="610149" id="node-610149--41126765410" data-pisa="medrxiv;2023.01.29.23285159v1" data-pisa-master="medrxiv;2023.01.29.23285159" data-seqnum="610149" data-apath="/medrxiv/early/2023/01/31/2023.01.29.23285159.atom"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <div class="highwire-cite-title">
+      <div class="highwire-cite-title">Probable transmission of SARS-CoV-2 from an African lion to zoo employees</div>    </div>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Audrey A.</span> <span class="nlm-surname">Siegrist</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Kira L.</span> <span class="nlm-surname">Richardson</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Ria R.</span> <span class="nlm-surname">Ghai</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Brian</span> <span class="nlm-surname">Pope</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Jamie</span> <span class="nlm-surname">Yeadon</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Betsy</span> <span class="nlm-surname">Culp</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Casey Barton</span> <span class="nlm-surname">Behravesh</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Lixia</span> <span class="nlm-surname">Liu</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Jennifer A.</span> <span class="nlm-surname">Brown</span></span>, <span class="highwire-citation-author" data-delta="9"><span class="nlm-given-names">Leslie V.</span> <span class="nlm-surname">Boyer</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">medRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2023.01.29.23285159; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2023.01.29.23285159 </span></div>
+  
+  
+  </div>
+</div>  </div>
+
+  
+  </div>
+</div>
+	  </div>
+	
+  <div class="panel-panel grid-12 panel-region-content">
+  	<div class="inside"><div class="panel-pane pane-highwire-article-clipboard-copy">
+  
+      
+  
+  <div class="pane-content">
+    <div class="clipboard-copy">
+  <span class="label-url">
+    <label for="dynamic">Share This Article:</label>
+  </span>
+  <span class="input-text-url">
+    <input type="text" id="dynamic" value="https://www.medrxiv.org/content/10.1101/2023.01.29.23285159v1" size="50">
+  </span>
+  <span class="copy-button button">
+    <button id="copy-dynamic" class="clipboardjs-button" data-clipboard-target="#dynamic" data-clipboard-alert-style="tooltip" data-clipboard-alert-text="Copied!">Copy</button>
+  </span>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+	
+		  <div class="panel-panel grid-12 panel-region-postscript">
+	    <div class="inside"><div class="panel-pane pane-service-links text-center">
+  
+      
+  
+  <div class="pane-content">
+    <div class="service-links"><a href="https://twitter.com/share?url=https%3A//www.medrxiv.org/content/10.1101/2023.01.29.23285159v1&amp;text=Probable%20transmission%20of%20SARS-CoV-2%20from%20an%20African%20lion%20to%20zoo%20employees" id="twitter" title="Share this on Twitter" class="service-links-twitter" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://www.medrxiv.org/sites/all/modules/highwire/highwire/images/twitter.png" alt="Twitter logo"></a> <a href="https://www.facebook.com/sharer.php?u=https%3A//www.medrxiv.org/content/10.1101/2023.01.29.23285159v1&amp;t=Probable%20transmission%20of%20SARS-CoV-2%20from%20an%20African%20lion%20to%20zoo%20employees" id="facebook" title="Share on Facebook" class="service-links-facebook" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://www.medrxiv.org/sites/all/modules/highwire/highwire/images/fb-blue.png" alt="Facebook logo"></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.medrxiv.org/content/10.1101/2023.01.29.23285159v1&amp;title=Probable%20transmission%20of%20SARS-CoV-2%20from%20an%20African%20lion%20to%20zoo%20employees&amp;summary=&amp;source=medRxiv" id="linkedin" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://www.medrxiv.org/sites/all/modules/highwire/highwire/images/linkedin-32px.png" alt="LinkedIn logo"></a> <a href="http://www.mendeley.com/import/?url=https%3A//www.medrxiv.org/content/10.1101/2023.01.29.23285159v1&amp;title=Probable%20transmission%20of%20SARS-CoV-2%20from%20an%20African%20lion%20to%20zoo%20employees" id="mendeley" title="Share on Mendeley" class="service-links-mendeley" rel="nofollow" data-icon-position="" data-hide-link-title="0"><img src="https://www.medrxiv.org/sites/all/modules/highwire/highwire/images/mendeley.png" alt="Mendeley logo"></a></div>  </div>
+
+  
+  </div>
+</div>
+	  </div>
+	
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-minipanel-dialog-link pane-biorxiv-cite-tool">
+  
+      
+  
+  <div class="pane-content">
+    <div class="minipanel-dialog-wrapper"><div class="minipanel-dialog-link-link"><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Citation Tools"><span class="icon-globe"></span> <span class="title">Citation Tools</span></a></div><div class="minipanel-dialog-link-mini" style="display:none"><div class="panel-display panel-1col clearfix" id="mini-panel-biorxiv_cite_tool">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-citation-export">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-citation-export">  
+  <div class="highwire-citation-info">
+      <div class="highwire-article-citation highwire-citation-type-highwire-article cite-tool-node610149--5" data-node-nid="610149" id="citation-node-610149--61644774402" data-pisa="medrxiv;2023.01.29.23285159v1" data-pisa-master="medrxiv;2023.01.29.23285159" data-seqnum="610149" data-apath="/medrxiv/early/2023/01/31/2023.01.29.23285159.atom"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-biorxiv-article-pap-list clearfix">
+
+      <div class="highwire-cite-title">
+      <div class="highwire-cite-title">Probable transmission of SARS-CoV-2 from an African lion to zoo employees</div>    </div>
+  
+      <div class="highwire-cite-authors"><span class="highwire-citation-authors"><span class="highwire-citation-author first" data-delta="0"><span class="nlm-given-names">Audrey A.</span> <span class="nlm-surname">Siegrist</span></span>, <span class="highwire-citation-author" data-delta="1"><span class="nlm-given-names">Kira L.</span> <span class="nlm-surname">Richardson</span></span>, <span class="highwire-citation-author" data-delta="2"><span class="nlm-given-names">Ria R.</span> <span class="nlm-surname">Ghai</span></span>, <span class="highwire-citation-author" data-delta="3"><span class="nlm-given-names">Brian</span> <span class="nlm-surname">Pope</span></span>, <span class="highwire-citation-author" data-delta="4"><span class="nlm-given-names">Jamie</span> <span class="nlm-surname">Yeadon</span></span>, <span class="highwire-citation-author" data-delta="5"><span class="nlm-given-names">Betsy</span> <span class="nlm-surname">Culp</span></span>, <span class="highwire-citation-author" data-delta="6"><span class="nlm-given-names">Casey Barton</span> <span class="nlm-surname">Behravesh</span></span>, <span class="highwire-citation-author" data-delta="7"><span class="nlm-given-names">Lixia</span> <span class="nlm-surname">Liu</span></span>, <span class="highwire-citation-author" data-delta="8"><span class="nlm-given-names">Jennifer A.</span> <span class="nlm-surname">Brown</span></span>, <span class="highwire-citation-author" data-delta="9"><span class="nlm-given-names">Leslie V.</span> <span class="nlm-surname">Boyer</span></span></span></div>
+  
+      <div class="highwire-cite-metadata"><span class="highwire-cite-metadata-journal highwire-cite-metadata">medRxiv </span><span class="highwire-cite-metadata-pages highwire-cite-metadata">2023.01.29.23285159; </span><span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="doi_label">doi:</span> https://doi.org/10.1101/2023.01.29.23285159 </span></div>
+  
+  
+  </div>
+</div>  </div>
+  <div class="highwire-citation-formats">
+  	      <h2>Citation Manager Formats</h2>
+        <div class="highwire-citation-formats-links">
+      <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.spage&amp;rft.epage&amp;rft.atitle=Probable%20transmission%20of%20SARS-CoV-2%20from%20an%20African%20lion%20to%20zoo%20employees&amp;rft.volume&amp;rft.issue&amp;rft.date=2023-01-01%2000%3A00%3A00&amp;rft.stitle&amp;rft.jtitle=medRxiv&amp;rft.au=Siegrist%2C+Audrey+A.&amp;rft.au=Richardson%2C+Kira+L.&amp;rft.au=Ghai%2C+Ria+R.&amp;rft.au=Pope%2C+Brian&amp;rft.au=Yeadon%2C+Jamie&amp;rft.au=Culp%2C+Betsy&amp;rft.au=Behravesh%2C+Casey+Barton&amp;rft.au=Liu%2C+Lixia&amp;rft.au=Brown%2C+Jennifer+A.&amp;rft.au=Boyer%2C+Leslie+V."></span><ul class="hw-citation-links inline button button-alt button-grid clearfix"><li class="bibtext first"><a href="/highwire/citation/610149/bibtext" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">BibTeX</a></li><li class="bookends"><a href="/highwire/citation/610149/bookends" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">Bookends</a></li><li class="easybib"><a href="/highwire/citation/610149/easybib" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">EasyBib</a></li><li class="endnote-tagged"><a href="/highwire/citation/610149/endnote-tagged" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">EndNote (tagged)</a></li><li class="endnote-8-xml"><a href="/highwire/citation/610149/endnote-8-xml" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">EndNote 8 (xml)</a></li><li class="medlars"><a href="/highwire/citation/610149/medlars" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">Medlars</a></li><li class="mendeley"><a href="/highwire/citation/610149/mendeley" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">Mendeley</a></li><li class="papers"><a href="/highwire/citation/610149/papers" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">Papers</a></li><li class="refworks-tagged"><a href="/highwire/citation/610149/refworks-tagged" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">RefWorks Tagged</a></li><li class="reference-manager"><a href="/highwire/citation/610149/reference-manager" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">Ref Manager</a></li><li class="ris"><a href="/highwire/citation/610149/ris" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">RIS</a></li><li class="zotero last"><a href="/highwire/citation/610149/zotero" class="hw-download-citation-link" data-icon-position="" data-hide-link-title="0">Zotero</a></li></ul>    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+</div>
+          </div>
+        </div>
+	</div> <!-- /.panel-row-wrapper -->	
+	
+	</div>
+
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-service-links">
+  
+      
+  
+  <div class="pane-content">
+    <div class="service-links"><div class="item-list"><ul><li class="first"><a href="https://twitter.com/share?url=https%3A//www.medrxiv.org/content/10.1101/2023.01.29.23285159v1&amp;count=horizontal&amp;via=&amp;text=Probable%20transmission%20of%20SARS-CoV-2%20from%20an%20African%20lion%20to%20zoo%20employees&amp;counturl=https%3A//www.medrxiv.org/content/10.1101/2023.01.29.23285159v1" class="twitter-share-button service-links-twitter-widget" id="twitter_widget" title="Tweet This" rel="nofollow" data-icon-position="" data-hide-link-title="0"><span class="element-invisible">Tweet Widget</span></a></li><li><a href="https://www.facebook.com/plugins/like.php?href=https%3A//www.medrxiv.org/content/10.1101/2023.01.29.23285159v1&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;width=100&amp;height=21&amp;font=&amp;locale=" id="facebook_like" title="I Like it" class="service-links-facebook-like" rel="nofollow" data-icon-position="" data-hide-link-title="0"><span class="element-invisible">Facebook Like</span></a></li><li class="last"><a href="https://www.medrxiv.org/content/10.1101/2023.01.29.23285159v1" id="google_plus_one" title="Plus it" class="service-links-google-plus-one" rel="nofollow" data-icon-position="" data-hide-link-title="0"><span class="element-invisible">Google Plus One</span></a></li></ul></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-article-collections">
+  
+        <h2 class="pane-title">Subject Area</h2>
+    
+  
+  <div class="pane-content">
+    <div class="highwire-list-wrapper highwire-article-collections"><div class="highwire-list"><ul class="highwire-article-collection-term-list"><li class="first last odd"><span class="highwire-article-collection-term"><a href="/collection/epidemiology" class="highlight" data-icon-position="" data-hide-link-title="0">Epidemiology<i class="icon-caret-right"></i>
+</a></span></li></ul></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-biorxiv-subject-collections block-style-col2">
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-biorxiv_subject_collections">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-snippet">
+  
+      
+  
+  <div class="pane-content">
+    <div class="snippet biorxiv-subject-areas-table-title" id="biorxiv-subject-areas-table-title">
+  
+      
+  <div class="snippet-content">
+    <b>Subject Areas</b>  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-snippet">
+  
+      
+  
+  <div class="pane-content">
+    <div class="snippet biorxiv-subject-areas-view-papers" id="biorxiv-subject-areas-view-papers">
+  
+      
+  <div class="snippet-content">
+    <a href="/content/early/recent"><strong>All Articles</strong></a>  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-subject-collections">
+  
+      
+  
+  <div class="pane-content">
+    <ul id="collection" class="collection highwire-list-expand"><li class="outer collection depth-2  child first"><div class="data-wrapper"><a href="/collection/addiction-medicine" class="" data-icon-position="" data-hide-link-title="0">Addiction Medicine</a> <span class="article-count">(404)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/allergy-and-immunology" class="" data-icon-position="" data-hide-link-title="0">Allergy and Immunology</a> <span class="article-count">(713)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/anesthesia" class="" data-icon-position="" data-hide-link-title="0">Anesthesia</a> <span class="article-count">(208)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/cardiovascular-medicine" class="" data-icon-position="" data-hide-link-title="0">Cardiovascular Medicine</a> <span class="article-count">(2971)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/dentistry-and-oral-medicine" class="" data-icon-position="" data-hide-link-title="0">Dentistry and Oral Medicine</a> <span class="article-count">(336)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/dermatology" class="" data-icon-position="" data-hide-link-title="0">Dermatology</a> <span class="article-count">(254)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/emergency-medicine" class="" data-icon-position="" data-hide-link-title="0">Emergency Medicine</a> <span class="article-count">(446)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/endocrinology-including-diabetes-mellitus-and-metabolic-disease" class="" data-icon-position="" data-hide-link-title="0">Endocrinology (including Diabetes Mellitus and Metabolic Disease)</a> <span class="article-count">(1050)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/epidemiology" class="" data-icon-position="" data-hide-link-title="0">Epidemiology</a> <span class="article-count">(12821)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/forensic-medicine" class="" data-icon-position="" data-hide-link-title="0">Forensic Medicine</a> <span class="article-count">(12)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/gastroenterology" class="" data-icon-position="" data-hide-link-title="0">Gastroenterology</a> <span class="article-count">(832)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/genetic-and-genomic-medicine" class="" data-icon-position="" data-hide-link-title="0">Genetic and Genomic Medicine</a> <span class="article-count">(4625)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/geriatric-medicine" class="" data-icon-position="" data-hide-link-title="0">Geriatric Medicine</a> <span class="article-count">(424)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/health-economics" class="" data-icon-position="" data-hide-link-title="0">Health Economics</a> <span class="article-count">(733)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/health-informatics" class="" data-icon-position="" data-hide-link-title="0">Health Informatics</a> <span class="article-count">(2944)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/health-policy" class="" data-icon-position="" data-hide-link-title="0">Health Policy</a> <span class="article-count">(1074)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/health-systems-and-quality-improvement" class="" data-icon-position="" data-hide-link-title="0">Health Systems and Quality Improvement</a> <span class="article-count">(1093)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/hematology" class="" data-icon-position="" data-hide-link-title="0">Hematology</a> <span class="article-count">(394)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/hiv-aids" class="" data-icon-position="" data-hide-link-title="0">HIV/AIDS</a> <span class="article-count">(935)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/infectious_diseases" class="" data-icon-position="" data-hide-link-title="0">Infectious Diseases (except HIV/AIDS)</a> <span class="article-count">(14147)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/intensive-care-and-critical-care-medicine" class="" data-icon-position="" data-hide-link-title="0">Intensive Care and Critical Care Medicine</a> <span class="article-count">(854)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/medical-education" class="" data-icon-position="" data-hide-link-title="0">Medical Education</a> <span class="article-count">(430)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/medical-ethics" class="" data-icon-position="" data-hide-link-title="0">Medical Ethics</a> <span class="article-count">(116)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/nephrology" class="" data-icon-position="" data-hide-link-title="0">Nephrology</a> <span class="article-count">(476)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/neurology" class="" data-icon-position="" data-hide-link-title="0">Neurology</a> <span class="article-count">(4415)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/nursing" class="" data-icon-position="" data-hide-link-title="0">Nursing</a> <span class="article-count">(238)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/nutrition" class="" data-icon-position="" data-hide-link-title="0">Nutrition</a> <span class="article-count">(653)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/obstetrics-and-gynecology" class="" data-icon-position="" data-hide-link-title="0">Obstetrics and Gynecology</a> <span class="article-count">(818)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/occupational-and-environmental-health" class="" data-icon-position="" data-hide-link-title="0">Occupational and Environmental Health</a> <span class="article-count">(739)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/oncology" class="" data-icon-position="" data-hide-link-title="0">Oncology</a> <span class="article-count">(2298)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/ophthalmology" class="" data-icon-position="" data-hide-link-title="0">Ophthalmology</a> <span class="article-count">(653)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/orthopedics" class="" data-icon-position="" data-hide-link-title="0">Orthopedics</a> <span class="article-count">(260)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/otolaryngology" class="" data-icon-position="" data-hide-link-title="0">Otolaryngology</a> <span class="article-count">(327)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/pain-medicine" class="" data-icon-position="" data-hide-link-title="0">Pain Medicine</a> <span class="article-count">(284)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/palliative-medicine" class="" data-icon-position="" data-hide-link-title="0">Palliative Medicine</a> <span class="article-count">(84)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/pathology" class="" data-icon-position="" data-hide-link-title="0">Pathology</a> <span class="article-count">(503)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/pediatrics" class="" data-icon-position="" data-hide-link-title="0">Pediatrics</a> <span class="article-count">(1201)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/pharmacology-and-therapeutics" class="" data-icon-position="" data-hide-link-title="0">Pharmacology and Therapeutics</a> <span class="article-count">(510)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/primary-care-research" class="" data-icon-position="" data-hide-link-title="0">Primary Care Research</a> <span class="article-count">(503)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/psychiatry-and-clinical-psychology" class="" data-icon-position="" data-hide-link-title="0">Psychiatry and Clinical Psychology</a> <span class="article-count">(3807)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/public-and-global-health" class="" data-icon-position="" data-hide-link-title="0">Public and Global Health</a> <span class="article-count">(7010)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/radiology-and-imaging" class="" data-icon-position="" data-hide-link-title="0">Radiology and Imaging</a> <span class="article-count">(1549)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/rehabilitation-medicine-and-physical-therapy" class="" data-icon-position="" data-hide-link-title="0">Rehabilitation Medicine and Physical Therapy</a> <span class="article-count">(920)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/respiratory-medicine" class="" data-icon-position="" data-hide-link-title="0">Respiratory Medicine</a> <span class="article-count">(922)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/rheumatology" class="" data-icon-position="" data-hide-link-title="0">Rheumatology</a> <span class="article-count">(446)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/sexual-and-reproductive-health" class="" data-icon-position="" data-hide-link-title="0">Sexual and Reproductive Health</a> <span class="article-count">(446)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/sports-medicine" class="" data-icon-position="" data-hide-link-title="0">Sports Medicine</a> <span class="article-count">(386)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/surgery" class="" data-icon-position="" data-hide-link-title="0">Surgery</a> <span class="article-count">(491)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/toxicology" class="" data-icon-position="" data-hide-link-title="0">Toxicology</a> <span class="article-count">(60)</span></div></li>
+<li class="outer collection depth-2  child"><div class="data-wrapper"><a href="/collection/transplantation" class="" data-icon-position="" data-hide-link-title="0">Transplantation</a> <span class="article-count">(212)</span></div></li>
+<li class="outer collection depth-2  child last"><div class="data-wrapper"><a href="/collection/urology" class="" data-icon-position="" data-hide-link-title="0">Urology</a> <span class="article-count">(185)</span></div></li>
+</ul>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+			</div>
+		</div>
+	
+	</div> <!-- /.panel-row-wrapper -->	
+	
+	</div>
+
+    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</section>    
+  
+  </div>    <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div><script type="text/javascript" src="https://www.medrxiv.org/sites/default/files/advagg_js/js__Vh5BcRYb6VtLoN3uam6O4DIKltYUVMjVDWtakoysPq0__Wed8jsPTirEozek7dWSCS8970Cp7a9xKKgFk6FPuSVM__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.js"></script>
+<script type="text/javascript" src="https://d33xdlntwy0kbs.cloudfront.net/cshl_custom_medrxiv.js"></script>
+<script type="text/javascript" src="https://www.medrxiv.org/sites/default/files/advagg_js/js__BmqjBnkz3MgYCAoc25s1lDRMEjLhC3mEPVonUFIHi08__Unwv5-ZIuHBfFwytsjEx1niBVJ7n1T4lPws7VrkHXM4__gnm2apizFIHoQYmy-9Rg5pUCEXq7KteeN5NR2roU4DU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function euCookieComplianceLoadScripts() {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+  
+
+</body></html>

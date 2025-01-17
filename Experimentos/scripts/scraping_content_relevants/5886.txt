@@ -1,0 +1,713 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="twitter:widgets:csp" content="on">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@TribunaHojePR">
+
+        <title>Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió - TribunaHoje.com</title>
+    
+        <meta name="description" content="O Portal de Notícias que mais cresce em Alagoas. Jornalismo, informação, futebol Alagoano, blogs. Acompanhe tudo na hora do que acontece no estado de Alagoas.">
+            <meta name="keywords" content="notícias, news, alagoas, arapiraca, maceió, palmeira dos Índios, santana do ipanema, sertão, policia, cinema, redação, jornalismo, esportes, futebol, campeonato alagoano, csa, crb, asa, justiça, saúde, zona da mata">
+            <meta name="title" content="Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió - Tribunahoje.com">
+    
+        <meta property="og:title" content="Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió">
+    <meta name="twitter:title" content="Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió">
+        <meta name="robots" content="index, follow">
+    <meta name="author" content="2i9 NEGÓCIOS DIGITAIS - http://www.2i9.com.br">
+
+        <meta property="og:description" content="O Portal de Notícias que mais cresce em Alagoas. Jornalismo, informação, futebol Alagoano, blogs. Acompanhe tudo na hora do que acontece no estado de Alagoas.">
+    
+            <meta property="og:url" content="https://tribunahoje.com/noticias/saude/2023/09/13/126203-sociedade-alagoana-de-infectologia-alerta-sobre-surto-de-doenca-meningococica-em-maceio">
+
+    
+        <meta property="og:image" content="https://img.tribunahoje.com/zS1SPHNzjP5OxzFMl8LbNWh0A9Y=/300x300/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg">
+    <meta name="twitter:image" content="https://img.tribunahoje.com/zS1SPHNzjP5OxzFMl8LbNWh0A9Y=/300x300/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg">
+        <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Tribuna Hoje">
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    
+    <script type="text/javascript">
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'UA-19103997-32', { 'cookieDomain': 'tribunahoje.com' } );
+        // Plugins
+
+        ga('send', 'pageview');
+    </script>
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+
+    <link href="/assets/css/style.css?v=0.0.12" rel="stylesheet" type="text/css">
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <link href="//s3.tribunahoje.com/assets/js/libs/dflip/css/dflip.css" rel="stylesheet" type="text/css">
+    <link href="//s3.tribunahoje.com/assets/js/libs/dflip/css/themify-icons.css" rel="stylesheet" type="text/css">
+    <script src="//s3.tribunahoje.com/assets/js/app.js"></script>
+    <script src="//s3.tribunahoje.com/assets/js/libs/jquery.mask.min.js"></script>
+    <script type="text/javascript">
+        const popupCenter = (url, title, w, h) => {
+            // Fixes dual-screen position                             Most browsers      Firefox
+            const dualScreenLeft = window.screenLeft !== undefined ? window.screenLeft : window.screenX;
+            const dualScreenTop = window.screenTop !== undefined ? window.screenTop : window.screenY;
+
+            const width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+            const height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+            const systemZoom = width / window.screen.availWidth;
+            const left = (width - w) / 2 / systemZoom + dualScreenLeft
+            const top = (height - h) / 2 / systemZoom + dualScreenTop
+            const newWindow = window.open(url, title,
+                `
+                                            scrollbars=yes,
+                                            width=${w / systemZoom},
+                                            height=${h / systemZoom},
+                                            top=${top},
+                                            left=${left}
+                                            `
+            )
+
+            if (window.focus) newWindow.focus();
+        }
+    </script>
+    
+
+    <!-- Taboola -->
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/tribunahoje-publisher/loader.js',
+        'tb_loader_script');
+        if(window.performance && typeof window.performance.mark == 'function')
+            {window.performance.mark('tbl_ic');}
+    </script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(
+    function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.9&appId=944800728907632";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<header class="header">
+    <div class="social-nav">
+        <div class="container">
+            <div class="row">
+                <div class="col-4 --menu-mobile">
+                    <div class="temperature">
+                        <span>Maceió, 14 de janeiro de 2025</span>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <ul class="nav-social">
+                        <li>
+                            <a href="https://www.facebook.com/Tribuna-Hoje-101512302446733/" target="_blank"><img src="//s3.tribunahoje.com/assets/images/facebook.svg" alt="Facebook"></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/tribuna_hoje" target="_blank"><img src="//s3.tribunahoje.com/assets/images/twitter.svg" alt="twitter"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/tribunahoje_/" target="_blank"><img src="//s3.tribunahoje.com/assets/images/instagram.svg" alt="instagram"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/user/Portaltribuna" target="_blank"><img src="//s3.tribunahoje.com/assets/images/youtube.svg" alt="youtube"></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-4 --menu-mobile">
+                    <ul class="nav-links">
+                        <li>
+                            <a href="https://tribunahoje.com/fale-conosco?assunto=Anuncie">Anuncie</a>
+                        </li>
+                        <li>
+                            <a href="https://tribunahoje.com/fale-conosco?assunto=Contato">Contato</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container info-header">
+        <div class="row align-items-center">
+
+            <div class="col-6 col-sm-6 col-md-3 --menu-mobile">
+                <a class="header-logo" href="https://tribunahoje.com">
+                    <img src="//s3.tribunahoje.com/assets/images/tribuna-hoje-logo.png" alt="Tribuna hoje">
+                </a>
+            </div>
+
+            <div class="col-12 col-sm-12 col-md-6">
+                <div class="newspaper-edition">
+                    <div class="newspaper">
+                        <a href="https://tribunahoje.com/tribuna-independente"><img src="//s3.tribunahoje.com/assets/images/jornal1.png" alt=""></a>
+                        <a href="https://tribunahoje.com/tribuna-independente"><img src="/images/tag_certificado.png" alt=""></a>
+                    </div>
+                    <div class="edition">
+                        <h1>Edição digital</h1>
+                                                    <a href="https://tribunahoje.com/tribuna-independente">
+                                <img src="//s3.tribunahoje.com/assets/images/user.svg" alt="">
+                                <span>Fazer login</span>
+                            </a>
+                                                <a href="https://tribunahoje.com/tribuna-independente">
+                            <img src="//s3.tribunahoje.com/assets/images/edition.svg" alt="">
+                            <span>Edições anteriores</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-12 hide-desktop">
+                <div class="menu-mobile">
+                    <a href="javascript:;" class="menu-button"><img src="//s3.tribunahoje.com/assets/images/menu.png" alt=""></a>
+                    <a href="https://tribunahoje.com" class="logo-menu-mobile"><img src="//s3.tribunahoje.com/assets/images/tribuna-hoje-logo.png" alt=""></a>
+                    <button class="search-button"><img src="//s3.tribunahoje.com/assets/images/search.svg" alt="Procurar"></button>
+                    <form action="https://tribunahoje.com/forms/pesquisar" class="search-form-header">
+                        <input type="hidden" name="_token" value="bo9rzqnpmyUzbOBNpqYxCT5VLCHq3cYKLfH3sul9">                        <input type="text" placeholder="O que você procura?" name="q">
+                    </form>
+                </div>
+            </div>
+
+            <div class="col-6 col-sm-6 col-md-3 --menu-mobile">
+                <form class="search-form" action="https://tribunahoje.com/forms/pesquisar">
+                    <input type="hidden" name="_token" value="bo9rzqnpmyUzbOBNpqYxCT5VLCHq3cYKLfH3sul9">                    <input type="text" name="q" placeholder="O que você procura?">
+                    <button type="submit"><img src="//s3.tribunahoje.com/assets/images/search.svg" alt="Procurar">
+                    </button>
+                </form>
+            </div>
+
+            <div class="col-6 col-sm-6 col-md-6 hide-desktop --menu-mobile">
+                <button class="hamburger --open hamburger--squeeze" type="button">
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+                </button>
+            </div>
+
+        </div>
+    </div>
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-742Q80NWF3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-742Q80NWF3');
+    </script>
+</header>
+
+<nav class="menu --menu-mobile">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12">
+                <ul class="menu-list">
+                    <li><a href="https://tribunahoje.com/ultimas">últimas</a></li>
+                    <li class="has-submenu">
+                        <a href="javascript:;">notícias
+                            <img src="//s3.tribunahoje.com/assets/images/arrow-down.svg" alt=""></a>
+                        <ul class="submenu">
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/brasil">Brasil</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/ciencia-e-tecnologia">Ciência e Tecnologia</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/cooperativas">Cooperativas</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/economia">Economia</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/educacao">Educação</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/entretenimento">Entretenimento</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/interior">Interior</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/mundo">Mundo</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/roteiro-cultural">Roteiro cultural</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/saude">Saúde</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://tribunahoje.com/noticias/turismo">Turismo</a>
+                                </li>
+                                                    </ul>
+                    </li>
+                    <li><a href="/noticias/politica">política</a></li>
+                    <li><a href="/noticias/cidades">cidades</a></li>
+                    <li><a href="/noticias/esportes">esportes</a></li>
+                    <li><a href="/noticias/interior">interior</a></li>
+                    <li><a href="/noticias/policia">polícia</a></li>
+                    <li class="has-submenu">
+                        <a href="https://tribunahoje.com/blogs">blogs <img src="//s3.tribunahoje.com/assets/images/arrow-down.svg" alt=""></a>
+                        <ul class="submenu">
+                                                            <li><a href="https://tribunahoje.com/blogs/zenita-almeida">Zenita Almeida</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/t-claudio-bulgarelli">T+ Claudio Bulgarelli</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/sergio-toledo">Sérgio Toledo</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/roberto-baia">Roberto Baia</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/petrucia-camelo">Petrucia Camelo</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/o-direito-no-cotidiano">O Direito no Cotidiano</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/enio-lins">Enio Lins</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/edmilson-teixeira">Edmilson Teixeira</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/coluna-esplanada">Coluna Esplanada</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/bartpapo-com-geraldo-camara">Bartpapo com Geraldo Câmara</a></li>
+                                                            <li><a href="https://tribunahoje.com/blogs/alisson-barreto">Alisson Barreto</a></li>
+                                                    </ul>
+                    </li>
+                    <li><a href="https://tribunahoje.com/tvweb">tv web</a></li>
+                    <li><a href="https://tribunahoje.com/videos">vídeos</a></li>
+                    <li><a href="/especiais">especiais</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="global">
+
+
+<img width="1" height="1" src="https://tribunahoje.com/track/NoticiaTexto-126203">
+
+<main class="main-content">
+
+
+    <div class="ads --home-top">
+        <div class="container">
+            <div class="row">
+
+                <style>
+
+                    .banner-top-mobile {
+                        display: none !important;
+                    }
+
+                    @media  screen and (max-width: 600px) {
+                        .banner-top-mobile {
+                            display: block !important;
+                        }
+                    }
+                </style>
+                <div class="col-12 col-sm-12 banner-top-mobile mb-3">
+                    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2961785384592097" crossorigin="anonymous"></script>
+                    <ins class="adsbygoogle" style="display:block" data-ad-format="fluid" data-ad-layout-key="-h9-a-m-9e+o0" data-ad-client="ca-pub-2961785384592097" data-ad-slot="6533504165"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+
+                <div class="col-12 col-sm-12">
+
+                    <div class="banner-big">
+    <script type="text/javascript">$.get("/contador/773", {}, function(a) {});</script><a target="_blank" href="/publicidade/773"><img src="//s3.tribunahoje.com/uploads/publicidade/773/bannerweb-728x90px.gif" alt=""></a>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="news-intern-list">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-12 col-sm-12">
+                    <h1 class="news-card__title">Saúde</h1>
+                </div>
+
+                <div class="col-12 col-sm-12">
+
+                    <div class="left-side">
+                        <header class="news-header">
+                            <h1 class="news-header__title">Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió</h1>
+                            <p class="news-header__excerpt"></p>
+
+                            <div class="info">
+                                <div class="info__content">
+                                                                            <span class="info__author">Por Assessoria</span>
+                                                                        <span class="info__time">13/09/2023 09h11</span>
+                                </div>
+
+                                <div class="header__social --share">
+                                    <div class="ssk-group ssk-sm" data-url="https://tribunahoje.com/noticias/saude/2023/09/13/126203-sociedade-alagoana-de-infectologia-alerta-sobre-surto-de-doenca-meningococica-em-maceio" data-text="Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió" data-twitter-via="user">
+                                        <a href="javascript:;" onclick="popupCenter('https://www.facebook.com/share.php?u=https://tribunahoje.com/noticias/saude/2023/09/13/126203-sociedade-alagoana-de-infectologia-alerta-sobre-surto-de-doenca-meningococica-em-maceio', 'Publicar no facebook', 600, 350);" class="ssk ssk-facebook ssk-round"></a>
+                                        <a href="javascript:;" onclick="popupCenter('https://twitter.com/intent/tweet?url=https://tribunahoje.com/noticias/saude/2023/09/13/126203-sociedade-alagoana-de-infectologia-alerta-sobre-surto-de-doenca-meningococica-em-maceio&amp;text=Tribuna Hoje - Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió', 'Twitter', 600, 350);" class="ssk ssk-twitter ssk-round"></a>
+                                        <a href="whatsapp://send?text=https://tribunahoje.com/noticias/saude/2023/09/13/126203-sociedade-alagoana-de-infectologia-alerta-sobre-surto-de-doenca-meningococica-em-maceio" class="ssk ssk-whatsapp ssk-round"></a>
+                                        <a href="javascript:;" onclick="popupCenter('https://www.linkedin.com/shareArticle?mini=true&amp;url=https://tribunahoje.com/noticias/saude/2023/09/13/126203-sociedade-alagoana-de-infectologia-alerta-sobre-surto-de-doenca-meningococica-em-maceio&amp;title=Tribuna Hoje - Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió', 'LinkedIn', 600, 350);" class="ssk ssk-linkedin ssk-round"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                            <figure>
+                                    <picture>
+                                        <source media="(max-width: 575px)" srcset="//img.tribunahoje.com/NRKpcksqLP7AsvMBKMWpBp0TZNQ=/525x325/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg">
+                                        <source media="(min-width: 576px) and (max-width: 767px)" srcset="//img.tribunahoje.com/0BRxYwJJYlyTabTL1KbgPvOFAMo=/490x303/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg">
+                                        <source media="(min-width: 768px) and (max-width: 991px)" srcset="//img.tribunahoje.com/RyMdX2DCKBq2A2I3QrLTTYSRs2M=/690x427/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg">
+                                        <source media="(min-width: 992px) and (max-width: 1023px)" srcset="//img.tribunahoje.com/ilfNcWj3WPSXNmOMU5wigILVacU=/930x576/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg">
+                                        <source media="(min-width: 1024px) and (max-width: 1199px)" srcset="//img.tribunahoje.com/EMVss96E35xw-9ShnmtMt8IGE8Y=/600x362/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg">
+                                        <img src="//img.tribunahoje.com/hDYYLPWwOuLQYzSNTZIiQjYdWec=/840x520/smart/s3.tribunahoje.com/uploads/imagens/images-1-7.jpg" alt="Sociedade Alagoana de Infectologia alerta sobre surto de doença meningocócica em Maceió">
+                                    </picture>
+                                                                            <figcaption>Define-se como surto um aumento incomum no número de casos da doença em uma área específica e em um período de tempo determinado - Foto: Reprodução</figcaption>
+                                                                    </figure>
+                                                    </header>
+
+
+
+                        <section class="news-content --content block-internal">
+                            <p>A Sociedade Alagoana de Infectologia alerta autoridades, profissionais de Saúde e sociedade sobre surto de doença meningocócica (tipo de meningite) em Maceió. Define-se como surto um aumento incomum no número de casos da doença em uma área específica e em um período de tempo determinado.<br><br>Analisando o Boletim Epidemiológico divulgado pela Secretaria de Estado da Saúde de Alagoas (Sesau) e os dados referentes aos anos anteriores, observamos que o número de casos confirmados de doença meningocócica até o mês de julho de 2023, é quase o dobro dos casos confirmados em todo o ano de 2022.<br><br>A doença meningocócica é causada por uma bactéria chamada Neisseria Meningitidis, e é potencialmente muito grave, podendo levar ao óbito em 10 a 30% dos casos.  O quadro clínico é bem variado, mas os sintomas mais comuns  são os que estão presentes em quadros de meningite em geral: febre, cefaleia, vômitos,  porem na maioria dos casos, surgem também petéquias (manchas avermelhadas) ou equimoses (manchas roxas) na pele.<br><br>A identificação de um surto é crucial para que as autoridades de Saúde Pública possam tomar medidas imediatas para conter a disseminação da doença, como a administração de vacinas, o fornecimento de profilaxia antibiótica para contatos próximos e a educação da comunidade sobre medidas preventivas, além de manter os profissionais de saúde em alerta para identificação rápida de casos suspeitos.<br><br>É importante estar atento às diretrizes e recomendações das autoridades de Saúde em caso de suspeita de um surto de doença meningocócica. A prevenção e o tratamento precoces são fundamentais para controlar essa infecção potencialmente grave.</p>
+
+
+                            
+                            
+                            
+                            
+                            
+                            <div style="margin: 40px 0; border-bottom: 1px solid #E0E0E0;"></div>
+                            <!-- Taboola -->
+                            <div id="taboola-below-article-thumbnails"></div>
+                            <script type="text/javascript">
+                                window._taboola = window._taboola || [];
+                                _taboola.push({
+                                    mode: 'alternating-thumbnails-a',
+                                    container: 'taboola-below-article-thumbnails',
+                                    placement: 'Below Article Thumbnails',
+                                    target_type: 'mix'
+                                });
+                            </script>
+                            <div class="clever-core-ads"></div>
+                        </section>
+                    </div>
+
+                    <div class="right-side --blogs">
+
+    <div class="right-side-box right-side__banner">
+    <script type="text/javascript">$.get("/contador/771", {}, function(a) {});</script><a target="_blank" href="/publicidade/771"><img src="//s3.tribunahoje.com/uploads/publicidade/771/bannerweb-300x250px.gif" alt=""></a>
+</div>
+
+
+    <div class="right-side-box section-column --side">
+    <h1 class="section__title">Mais lidas</h1>
+
+    <ul class="section__list --no-border">
+                <li>
+            <a href="https://tribunahoje.com/noticias/entretenimento/2025/01/09/149800-berta-obriga-sirley-a-cometer-crime-em-mania-de-voce" class="news-block --counter">
+                <div class="counter">1</div>
+                <div class="news-block__content">
+                    <span>Reviravolta!</span>
+                    <h1 class="news-block__title">Berta obriga Sirley a cometer crime em 'Mania de Você'</h1>
+                </div>
+            </a>
+        </li>
+                <li>
+            <a href="https://tribunahoje.com/noticias/entretenimento/2025/01/09/149764-praia-de-pituba-em-coruripe-recebeu-gravacoes-de-reality-show" class="news-block --counter">
+                <div class="counter">2</div>
+                <div class="news-block__content">
+                    <span>Netflix Brasil</span>
+                    <h1 class="news-block__title">Praia de Pituba, em Coruripe, recebeu gravações de reality show</h1>
+                </div>
+            </a>
+        </li>
+                <li>
+            <a href="https://tribunahoje.com/noticias/cidades/2025/01/09/149762-prefeitura-de-maceio-cedera-imoveis-a-braskem" class="news-block --counter">
+                <div class="counter">3</div>
+                <div class="news-block__content">
+                    <span>Residencial</span>
+                    <h1 class="news-block__title">Prefeitura de Maceió cederá imóveis à Braskem</h1>
+                </div>
+            </a>
+        </li>
+                <li>
+            <a href="https://tribunahoje.com/noticias/cidades/2025/01/08/149717-vitimas-da-braskem-temem-a-volta-do-vlt" class="news-block --counter">
+                <div class="counter">4</div>
+                <div class="news-block__content">
+                    <span>Maceió</span>
+                    <h1 class="news-block__title">Vítimas da Braskem temem a volta do VLT</h1>
+                </div>
+            </a>
+        </li>
+                <li>
+            <a href="https://tribunahoje.com/noticias/entretenimento/2025/01/06/149653-misterios-que-a-3a-temporada-de-round-6-precisa-resolver" class="news-block --counter">
+                <div class="counter">5</div>
+                <div class="news-block__content">
+                    <span>Sucesso da Netflix</span>
+                    <h1 class="news-block__title">Mistérios que a 3ª temporada de 'Round 6' precisa resolver</h1>
+                </div>
+            </a>
+        </li>
+            </ul>
+</div>
+
+    <div class="right-side-box right-side__banner">
+    <img class="news-block__img" src="//s3.tribunahoje.com/assets/images/banner-300.png" alt="News title">
+</div>
+
+</div>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <br><br><br>
+    <div class="ads --middle">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12">
+
+                    <div class="banner-big">
+	<img src="//s3.tribunahoje.com/assets/images/banner-970.png" alt="">
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</main>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-12 col-sm-12">
+                <div class="logo-footer">
+                    <a href="javascript:;"><img src="//s3.tribunahoje.com/assets/images/tribuna-footer-logo.png" alt="logo-footer"></a>
+                </div>
+            </div>
+
+            <nav class="col-12 col-sm-12">
+                <div class="footer-menu">
+                    <ul class="menu-list">
+                        <li><a href="https://tribunahoje.com/ultimas">últimas</a></li>
+                        <li class="has-submenu">
+                            <a href="javascript:;">notícias
+                                <img src="//s3.tribunahoje.com/assets/images/arrow-down.svg" alt=""></a>
+                            <ul>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/brasil">Brasil</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/ciencia-e-tecnologia">Ciência e Tecnologia</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/cooperativas">Cooperativas</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/economia">Economia</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/educacao">Educação</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/entretenimento">Entretenimento</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/interior">Interior</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/mundo">Mundo</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/roteiro-cultural">Roteiro cultural</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/saude">Saúde</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://tribunahoje.com/noticias/turismo">Turismo</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                        <li><a href="/noticias/politica">política</a></li>
+                        <li><a href="/noticias/cidades">cidades</a></li>
+                        <li><a href="/noticias/esportes">esportes</a></li>
+                        <li><a href="/noticias/interior">interior</a></li>
+                        <li><a href="/noticias/policia">polícia</a></li>
+                        <li class="has-submenu">
+                            <a href="https://tribunahoje.com/blogs">blogs <img src="//s3.tribunahoje.com/assets/images/arrow-down.svg" alt=""></a>
+                            <ul>
+                                                                    <li><a href="https://tribunahoje.com/blogs/zenita-almeida">Zenita Almeida</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/t-claudio-bulgarelli">T+ Claudio Bulgarelli</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/sergio-toledo">Sérgio Toledo</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/roberto-baia">Roberto Baia</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/petrucia-camelo">Petrucia Camelo</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/o-direito-no-cotidiano">O Direito no Cotidiano</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/enio-lins">Enio Lins</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/edmilson-teixeira">Edmilson Teixeira</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/coluna-esplanada">Coluna Esplanada</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/bartpapo-com-geraldo-camara">Bartpapo com Geraldo Câmara</a></li>
+                                                                    <li><a href="https://tribunahoje.com/blogs/alisson-barreto">Alisson Barreto</a></li>
+                                                            </ul>
+                        </li>
+                        <li><a href="https://tribunahoje.com/tvweb">tv web</a></li>
+                        <li><a href="https://tribunahoje.com/videos">vídeos</a></li>
+                    </ul>
+                </div>
+            </nav>
+
+            <div class="col-12 col-sm-12">
+                <div class="footer-address">
+                    <h1>Empresarial Humberto Lobo</h1>
+                    <p>Avenida Menino Marcelo, 9350, Serraria, CEP. 57031-530, Maceió – Alagoas</p>
+
+                    <h1>Comercial (82) 3316-5855</h1>
+                    <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="395a56545c4b5a505855174d4b505b4c575850575d5c495c575d5c574d5c795e54585055175a5654">[email&nbsp;protected]</a></p>
+
+                    <h1>Redação</h1>
+                    <p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6a180f0e0b090b052a1e1803081f040b0205000f44090507">[email&nbsp;protected]</a></p>
+
+                    <ul class="footer-social">
+                        <li>
+                            <a href="https://www.facebook.com/Tribuna-Hoje-101512302446733/" target="_blank"><img src="//s3.tribunahoje.com/assets/images/facebook.svg" alt="Facebook"></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/tribuna_hoje" target="_blank"><img src="//s3.tribunahoje.com/assets/images/twitter.svg" alt="twitter"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/tribunahoje_/" target="_blank"><img src="//s3.tribunahoje.com/assets/images/instagram.svg" alt="instagram"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/user/Portaltribuna" target="_blank"><img src="//s3.tribunahoje.com/assets/images/youtube.svg" alt="youtube"></a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="footer-copyright">
+                    <span></span>
+                    <span>© 2025 | TRIBUNA HOJE | Todos os direitos reservados</span>
+                    <a href="https://www.2i9.com.br/" target="_blank"><img src="//s3.tribunahoje.com/assets/images/logo-2i9.svg" alt="logo-2i9.svg"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="menu-responsive">
+    <div class="header-responsive">
+        <a href="javascript:;" class="logo-menu-mobile --mobile"><img src="//s3.tribunahoje.com/assets/images/tribuna-hoje-logo.png" alt=""></a>
+        <a href="javascript:;" class="close-menu"><img src="//s3.tribunahoje.com/assets/images/close.svg" alt=""></a>
+    </div>
+    <ul class="menu-responsive__list">
+        <li><a href="https://tribunahoje.com/ultimas">últimas</a></li>
+        <li class="has-submenu">
+            <a href="javascript:;">notícias <img src="//s3.tribunahoje.com/assets/images/arrow-down-white.svg" alt=""></a>
+
+            <ul class="submenu">
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/brasil">Brasil</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/ciencia-e-tecnologia">Ciência e Tecnologia</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/cooperativas">Cooperativas</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/economia">Economia</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/educacao">Educação</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/entretenimento">Entretenimento</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/interior">Interior</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/mundo">Mundo</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/roteiro-cultural">Roteiro cultural</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/saude">Saúde</a>
+                    </li>
+                                    <li>
+                        <a href="https://tribunahoje.com/noticias/turismo">Turismo</a>
+                    </li>
+                            </ul>
+        </li>
+        <li><a href="/noticias/politica">política</a></li>
+        <li><a href="/noticias/cidades">cidades</a></li>
+        <li><a href="/noticias/esportes">esportes</a></li>
+        <li><a href="/noticias/interior">interior</a></li>
+        <li><a href="/noticias/policia">polícia</a></li>
+        <li class="has-submenu">
+            <a href="https://tribunahoje.com/blogs">blogs <img src="//s3.tribunahoje.com/assets/images/arrow-down.svg" alt=""></a>
+            <ul class="submenu">
+                                    <li><a href="https://tribunahoje.com/blogs/zenita-almeida">Zenita Almeida</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/t-claudio-bulgarelli">T+ Claudio Bulgarelli</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/sergio-toledo">Sérgio Toledo</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/roberto-baia">Roberto Baia</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/petrucia-camelo">Petrucia Camelo</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/o-direito-no-cotidiano">O Direito no Cotidiano</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/enio-lins">Enio Lins</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/edmilson-teixeira">Edmilson Teixeira</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/coluna-esplanada">Coluna Esplanada</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/bartpapo-com-geraldo-camara">Bartpapo com Geraldo Câmara</a></li>
+                                    <li><a href="https://tribunahoje.com/blogs/alisson-barreto">Alisson Barreto</a></li>
+                            </ul>
+        </li>
+        <li><a href="https://tribunahoje.com/tvweb">tv web</a></li>
+        <li><a href="https://tribunahoje.com/videos">vídeos</a></li>
+    </ul>
+</div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript"> var infolinks_pid = 3427327; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script> 
+
+    
+<!-- Taboola -->
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>   
+
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;901c4224c812df53&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;r&quot;:1,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;0fe4ffb5f48a4a2bb58f52144cdf86df&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+
+
+</div></body></html>

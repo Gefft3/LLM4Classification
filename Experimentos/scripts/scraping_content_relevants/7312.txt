@@ -1,0 +1,604 @@
+<html lang="pt-br"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="description" content="">
+        <meta name="author" content="Fundação Municipal de Saúde - FMS">
+
+        <title>Teresina registra aumento na procura e positividades dos testes de covid-19 - Fundação Municipal de Saúde de Teresina - FMS</title>
+        <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="xtx5a2JtuICpucvph18yUe1No/FuZNbuSurMWg9isWs+Oc57EFxm6p+jyrVWb9vgh+2LuZ0AS/qxxpzbo630eg==">
+        <link rel="icon" type="image/png" href="/assets/logofms-143a72d691c88c5ec1c2afc8ffad34d3d339b353b633fb6850a931d83f3a4790.png">
+        <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+        <!--[if lt IE 9]>
+          <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js" type="text/javascript"></script>
+        <![endif]-->
+
+        <link rel="stylesheet" media="all" href="/assets/application-f65fc7d8b740c6340e0c6cac8cc8f2e62463e8a1bd112e01e566b33ccc5320ef.css">
+        <!-- For third-generation iPad with high-resolution Retina display: -->
+        <!-- Size should be 144 x 144 pixels -->
+        <link rel="apple-touch-icon-precomposed" type="image/png" href="/assets/logofms-143a72d691c88c5ec1c2afc8ffad34d3d339b353b633fb6850a931d83f3a4790.png" sizes="144x144">
+
+        <!-- For iPhone with high-resolution Retina display: -->
+        <!-- Size should be 114 x 114 pixels -->
+        <link rel="apple-touch-icon-precomposed" type="image/png" href="/assets/logofms-143a72d691c88c5ec1c2afc8ffad34d3d339b353b633fb6850a931d83f3a4790.png" sizes="114x114">
+
+        <!-- For first- and second-generation iPad: -->
+        <!-- Size should be 72 x 72 pixels -->
+        <link rel="apple-touch-icon-precomposed" type="image/png" href="/assets/logofms-143a72d691c88c5ec1c2afc8ffad34d3d339b353b633fb6850a931d83f3a4790.png" sizes="72x72">
+
+        <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+        <!-- Size should be 57 x 57 pixels -->
+        <link rel="apple-touch-icon-precomposed" type="image/png" href="/assets/logofms-143a72d691c88c5ec1c2afc8ffad34d3d339b353b633fb6850a931d83f3a4790.png">
+
+        <!-- For all other devices -->
+        <!-- Size should be 32 x 32 pixels -->
+        <link rel="shortcut icon" type="image/x-icon" href="/assets/logofms-143a72d691c88c5ec1c2afc8ffad34d3d339b353b633fb6850a931d83f3a4790.png">
+
+        <!-- Metatag to sidebar works perfectly -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <!-- Facebook Open Grapth Markup -->
+        <meta property="og:site_name" content="Fundação Municipal de Saúde de Teresina - FMS">
+        <meta property="og:locale" content="pt_BR">
+        <meta property="og:image" content="https://site.fms.pmt.pi.gov.br/assets/logofms-143a72d691c88c5ec1c2afc8ffad34d3d339b353b633fb6850a931d83f3a4790.png">
+    </head>
+    <body>
+        <div id="sb-site">
+            <!-- Top Menu for medium and large devices -->
+            <header class="hidden-xs hidden-sm hidden-print" id="header-full-top">
+    <div class="container-fluid">
+        <div class="row" id="top">
+            <div class="container">
+                <div class="col-md-12 row">
+                    <div class="col-md-6 col-sm-6 date pull-left">
+                        <div class="col-md-12">
+                            <h4 style="font-size: 12px">Seja Bem vindo - Teresina, 14 de Janeiro de 2025</h4>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="col-md-12">
+                            <form action="https://site.fms.pmt.pi.gov.br/buscar" method="get" class="navbar-form pull-right" id="searchform">
+                                <div class="input-group" style="max-width:470px;">
+                                    <input type="text" class="form-control" id="s" name="q" value="" placeholder="Buscar Notícia...">
+                                    <div class="input-group-btn">
+                                        <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </form>
+
+                            <div id="social-menu" class="pull-right">
+                                <ul>
+                                    <li>
+                                        <a href="https://www.facebook.com/fmsteresina" title="FMS no Facebook" target="_blank" data-toggle="tooltip" data-placement="bottom">
+                                            <i class="fa fa-facebook-square fa-2x"></i> </a>  </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row visible-lg visible-md ">
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="col-md-2">
+                    </div>
+                    <div class="col-md-12">
+                        <a href="/"><img alt="Fundação Municipal de Saúde de Teresina - FMS" title="Fundação Municipal de Saúde de Teresina - FMS" class="img-responsive" src="/assets/logo-fms3-35d9f2e04f961d6673bb636bd5258718c7a195605aef76c5c443b4c93f134cfb.png"></a>
+                    </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </header>
+
+
+            <!-- Horizontal Navigation Bar -->
+            <div class="navbar navbar-static-top navbar-default navbar-header-full hidden-print" role="navigation" id="horizontal-navigation">
+  <div class="container">
+    <div class="col-md-12">
+      <div class="container">
+        <div class="navbar-header">
+          <div class="row">
+            <a class="navbar-brand hidden-lg hidden-md" href="/">
+              FUNDAÇÃO MUNICIPAL DE SAÚDE - FMS TERESINA
+            </a>
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">FMS-THE</span>
+              <span><i class="fa fa-bars"></i></span>
+              <span class="navmenu">Menu</span>
+            </button>
+          </div>
+          <div class="navbar-collapse collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav">
+              <li><a href="/">Início</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Licitações<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                    <li><a href="/dcp?id=1">PLANEJAMENTO-DCP</a> </li>
+                    <li><a href="/dcp?id=2">PUBLICAÇÕES </a> </li>
+                    <li><a href="/dcp?id=3">PUBLICAÇÕES - PREGÕES</a> </li>
+                </ul>
+              </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Institucional
+                          <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                              <li><a href="https://site.fms.pmt.pi.gov.br/identidade-institucional">Identidade Institucional</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/presidencia">Presidência</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/historico">Histórico</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/legislacao">Legislação</a></li>
+                              <li><a target="_blank" href="https://digisusgmp.saude.gov.br/v1.5/transparencia/downloads">Instrumentos de Planejamento do SUS</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/organograma">Organograma</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Unidades de Saúde
+                          <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                              <li><a href="/ubs">UBS</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/rede-de-saude-mental-caps">CAPS</a></li>
+                              <li><a target="_blank" href="https://www.arcgis.com/apps/instant/nearby/index.html?appid=cef22400b9c54b018f419be32b1d46f2">Buscar UBS próxima</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/hospitais">Hospitais</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/samu-teresina">SAMU</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/centro-integrado-de-saude-lineu-araujo-cisla">Centro Integrado de Saúde Lineu Araújo</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/centro-de-diagnostico-raul-bacelar">Laboratório Raul Bacelar</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/gerencia-de-farmacia">Gerência de Farmácia</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/zoonoses">Gerência de Zoonoses</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Espaço do Servidor
+                          <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                              <li><a href="https://site.fms.pmt.pi.gov.br/estatuto">Estatuto</a></li>
+                              <li><a href="https://pmt.pi.gov.br/wp-content/uploads/sites/34/2021/12/269859998_961731221419644_4084476750077632194_n.jpg">Tabela de pagamento</a></li>
+                              <li><a target="_blank" href="http://contracheque.teresina.pi.gov.br/contracheque/">Contra-cheque Online</a></li>
+                              <li><a target="_blank" href="https://processoeletronico.pmt.pi.gov.br/sip/login.php?sigla_orgao_sistema=PMT&amp;sigla_sistema=SEI">Protocolo Web</a></li>
+                              <li><a target="_blank" href="https://sites.google.com/view/bibliotecafms/">Biblioteca da Atenção Básica</a></li>
+                              <li><a href="https://sites.google.com/view/cievsteresina">Notifica CIEVS</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Serviços
+                          <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                              <li><a href="/resultados_de_exames">Resultados de Exames</a></li>
+                              <li><a href="/agendamentos">Confirmação Consulta</a></li>
+                              <li><a href=" /documentos">Documentos</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/lista-de-espera-equipamento-motorizado-pcd">Lista de espera equipamento motorizado PCD</a></li>
+                              <li><a href="/sistemas">Sistemas</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">COVID-19
+                          <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                              <li><a href="https://metabase.fms.pmt.pi.gov.br/public/dashboard/6602cab6-61ce-4113-a857-f41e795cb230">Painel Vacinação COVID-19</a></li>
+                              <li><a target="_blank" href="http://vacinaja.fms.pmt.pi.gov.br/">Vacine Já</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/instrucoes-vacine-ja">Instruções Agendamento Vacina</a></li>
+                              <li><a target="_blank" href="https://sites.google.com/view/bibliotecafms/dab-diretoria-de-aten%C3%A7%C3%A3o-b%C3%A1sica/enfermagem/coronavirus">Documentos e Informes</a></li>
+                              <li><a target="_blank" href="https://drive.google.com/drive/folders/1sI-1T6lZjsg4gDcKjOfoAxH05NshoCSP?usp=sharing">Relação Vacinados </a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Ouvidoria
+                          <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                              <li><a href="/fale-conosco">Ouvidoria</a></li>
+                              <li><a href="https://site.fms.pmt.pi.gov.br/pesquisa-de-satisfacao-ouvidoria">Pesquisa de satisfação</a></li>
+                        </ul>
+                      </li>
+            </ul>
+            <div class="hidden-lg hidden-md pull-left">
+              <form action="https://site.fms.pmt.pi.gov.br/buscar" method="get" class="navbar-form" id="searchform">
+                <div class="input-group" style="max-width:470px;">
+                  <input type="text" class="form-control" id="s" name="q" value="" placeholder="Buscar...">
+                  <div class="input-group-btn">
+                    <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+            <div id="fb-root"></div>
+            <script>
+              window.fbAsyncInit = function () {
+                  FB.init({
+                      appId: '170352546691686', // App ID
+                      status: true, // check login status
+                      cookie: true, // enable cookies to allow the server to access the session
+                      version: 'v2.6', // API Version
+                      xfbml: true  // parse XFBML
+                  });
+                  // Additional initialization code here
+              };
+
+              // Load the SDK Asynchronously
+              (function (d) {
+                  var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+                  if (d.getElementById(id)) {
+                      return;
+                  }
+                  js = d.createElement('script');
+                  js.id = id;
+                  js.async = true;
+                  js.src = "//connect.facebook.net/pt_BR/all.js";
+                  ref.parentNode.insertBefore(js, ref);
+              }(document));
+            </script>
+
+            <!-- Content -->
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="container">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="row">
+                                <!-- Main Content -->
+                                <div class="col-md-9 col-sm-12 col-xs-12">
+                                    <div class="row col-md-12 col-sm-12 col-xs-12" id="content">
+                                        
+                                        <ol class="breadcrumb hidden-print">
+    <li><a href="/">Página Inicial</a></li>
+      <li><a href="/noticias">Notícias</a></li>
+      <li class="active">Teresina registra aumento na procura e positividades dos testes de covid-19 </li>
+</ol>
+
+  <h5 class="lead-news">COVID-19</h5>
+  <div class="separator"></div>
+  <h1 class="news-title">Teresina registra aumento na procura e positividades dos testes de covid-19</h1>
+  <h2 class="news-sub">A FMS monitora diariamente os indicadores da COVID-19 no município por meio do Centro de Informações Estratégicas em Vigilância em Saúde Municipal (CIEVS)</h2>
+
+<div class="line-date">
+    <span><i class="fa fa-calendar"></i> 16/01/2024 | 12:16</span>
+    <span><i class="fa fa-print"></i> <a onclick="printPage()" href="#">Imprimir</a></span>
+      <span class="pull-right hidden-print" id="share-button"><a href="#share-post" class="btn btn-success btn-xs"><i class="fa fa-share-alt"></i> Compartilhar</a></span>
+      <span class="pull-right hidden-print" id="share-button"><a href="#comments" class="btn btn-primary btn-xs"><i class="fa fa-comments"></i> Comentarários</a></span>
+</div>
+
+<div class="text-justify">
+      <div class="col-md-5" style="padding: 0">
+        <img title="Teresina registra aumento na procura e positividades dos testes de covid-19" alt="Teresina registra aumento na procura e positividades dos testes de covid-19" width="320" maxheight="300" src="/system/posts/photos/000/005/502/original/WhatsApp_Image_2022-01-20_at_10.38.37.jpeg?1705418256">
+        <div class="caption" style="padding: 0">
+          <span style="font-size: 10px">Fonte: Ascom FMS</span>
+        </div>
+      </div>
+    <p>Teresina registrou um aumento de 34% de casos positivos de covid-19 na segunda semana epidemiológica de 2024, que abrange os dias 7 a 13 deste ano. De acordo com a análise da Fundação Municipal de Saúde (FMS), o número reflete um aumento da procura pela testagem e da ampliação da disponibilidade de testes para a população na rede de saúde do município.</p>
+
+<p>&nbsp;</p>
+
+<p>Segundo o diretor de Vigilância em Saúde da FMS, Walfrido Salmito, foi registrado um aumento na demanda por testagem antígeno em 27%, sendo realizados nesta semana 1122 testes. A demanda por testagem RT-PCR também aumentou em 17% quando comparada com a semana anterior, estando a taxa de positividade em 33% das amostras analisadas. “Diante disso, vemos um cenário de estabilidade para a COVID-19 em Teresina, pois o aumento da positividade se dá em função do aumento dos testes realizados”, diz.</p>
+
+<p>&nbsp;</p>
+
+<p>Dados da FMS mostram que ontem (15), 20 pacientes estavam internados na rede hospitalar de Teresina. “Este número engloba tanto os pacientes internados por COVID-19 quanto aqueles com outras enfermidades que positivaram para a doença”, explica Walfrido Salmito. Este número representa um decréscimo de 39% quando comparado com o mesmo momento da semana epidemiológica anterior.</p>
+
+<p>&nbsp;</p>
+
+<p>A FMS monitora diariamente os indicadores da COVID-19 no município por meio do Centro de Informações Estratégicas em Vigilância em Saúde Municipal (CIEVS-Teresina). Esse monitoramento inclui o número de casos suspeitos e confirmados, a demanda por testes diagnósticos e sua positividade (antígeno e RT-PCR), o número de internações por síndrome respiratória aguda grave (SRAG) e a quantidade de pacientes hospitalizados na rede com teste positivo para SARS-CoV-2, a quantidade de pacientes no sistema de regulação de leitos à espera de vaga em leitos destinados à assistência de pacientes com COVID-19, a taxa de transmissão da doença (R0), a ocorrência de óbitos e as coberturas vacinais atingidas na cidade.</p>
+
+<p>&nbsp;</p>
+
+<p>A FMS ressalta que todo o planejamento de funcionamento da rede pública municipal de saúde para atender casos de COVID-19 em Teresina é realizado tendo como base os parâmetros relacionados acima, reavaliados diariamente para ajustes, conforme as necessidades do município. Atualmente, a dose de vacina bivalente é disponibilizada em todas as unidades básicas de saúde distribuídas pelas zonas urbana e rural da cidade, incluindo um posto de vacinação localizado no Teresina Shopping (edifício garagem - estacionamento G3), que funciona de segunda a sexta, das 10 às 20 horas).</p>
+
+</div>
+
+
+<div class="hidden-print">
+</div>
+
+
+    <div class="tags hidden-print">
+        <h5><strong>Tags:</strong></h5>
+          <span class="label label-default">fms</span>
+    </div>
+
+  <div class="row hidden-print">
+      <div class="col-md-12" id="share-post">
+    <h5 class="lead-news">Compartilhar: </h5>
+    <p class="well well-sm">
+        <!-- Twitter -->
+        <a href="https://twitter.com/home?status=Teresina registra aumento na procura e positividades dos testes de covid-19+https://site.fms.pmt.pi.gov.br/noticia/5502/teresina-registra-aumento-na-procura-e-positividades-dos-testes-de-covid-19" title="Compartilhar no Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Twitter</a>
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://site.fms.pmt.pi.gov.br/noticia/5502/teresina-registra-aumento-na-procura-e-positividades-dos-testes-de-covid-19" title="Comparthilhar no Facebook" class="btn btn-facebook fb-like" data-title="Teresina registra aumento na procura e positividades dos testes de covid-19" data-desc="A FMS monitora diariamente os indicadores da COVID-19 no município por meio do Centro de Informações Estratégicas em Vigilância em Saúde Municipal (CIEVS)" data-href="https://site.fms.pmt.pi.gov.br/noticia/5502/teresina-registra-aumento-na-procura-e-positividades-dos-testes-de-covid-19" target="_blank">
+            <i class="fa fa-facebook"></i> Facebook</a>
+        <!-- LinkedIn --> 
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://site.fms.pmt.pi.gov.br/noticia/5502/teresina-registra-aumento-na-procura-e-positividades-dos-testes-de-covid-19&amp;title=Teresina registra aumento na procura e positividades dos testes de covid-19&amp;summary=A FMS monitora diariamente os indicadores da COVID-19 no município por meio do Centro de Informações Estratégicas em Vigilância em Saúde Municipal (CIEVS)" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-linkedin"></i> LinkedIn</a>
+        <!-- Email -->
+        <a href="mailto:ouvidoriasus@pmt.pi.gov.br" target="_blank" class="btn btn-mail"><i class="fa fa-envelope-o"></i> Email</a>
+    </p>
+</div>
+  </div>
+
+<hr class="dotted-line">
+
+
+<div class="row more-news-comments hidden-print" id="comments">
+    <div class="col-md-12 news-index-card">
+        <div class="card">
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active">
+                    <h3><strong>Comentários (0)</strong></h3>
+                    <hr>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <button type="button" class="btn btn-primary" id="addComment">Adicionar Comentário</button>
+                            <form data-parsley-validate="" validate="true" class="simple_form hidden" novalidate="novalidate" id="new_comment" action="/enviar-comentario" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="OKz5V0h1kPO7XOlyWw2nQDbZqW7hjxr5Gu6cLRQRTibASU5HOkROmY1G6C6KPU7xXHmBJhLrh+3hwsysuN4LNw==">
+                                <p>Preencha corretamente os <strong>TODOS</strong> os campos abaixo.</p>
+                                
+                                <div class="form-group hidden comment_slug"><input class="form-control hidden" value="teresina-registra-aumento-na-procura-e-positividades-dos-testes-de-covid-19" type="hidden" name="comment[slug]" id="comment_slug"></div>
+                                <div class="form-group text required comment_body"><label class="control-label text required" for="comment_body"><abbr title="Obrigatório">*</abbr> Comentário:</label><textarea class="form-control text required" data-parsley-maxlength="650" data-parsley-required-message="Ops! Você esqueceu de preencher o campo acima." data-parsley-maxlength-message="Ops! Você excedeu o número de caracteres limite da mensagem (650 caracteres)." cols="6" rows="5" wrap_with="form-group" required="required" aria-required="true" placeholder="Digite aqui sua mensagem (até 650 caracteres)." name="comment[body]" id="comment_body"></textarea></div>
+                                <span class="help-block"><p id="characterLeft" class="help-block ">Você atingiu o limite de caracteres permitidos.</p></span> 
+                                <div class="form-group string required comment_author"><label class="control-label string required" for="comment_author"><abbr title="Obrigatório">*</abbr> Seu Nome:</label><input class="form-control string required" data-parsley-required-message="Ops! Você esqueceu de preencher o campo acima." required="required" aria-required="true" placeholder="Seu nome" type="text" name="comment[author]" id="comment_author"></div>
+                                <div class="form-group email required comment_email"><label class="control-label email required" for="comment_email"><abbr title="Obrigatório">*</abbr> Email:</label><input class="form-control string email required" data-parsley-type-message="Ops! Você digitou um email inválido." data-parsley-required-message="Ops! Você esqueceu de preencher o campo acima." required="required" aria-required="true" placeholder="seuemail@email.com" type="email" name="comment[email]" id="comment_email"></div>
+                                <div class="form-group">
+                                    <script src="https://www.recaptcha.net/recaptcha/api.js" async="" defer=""></script>
+<div data-sitekey="6LcklgYgAAAAAD8jZwK4sr4dc-MKah7cxFr0xpuQ" class="g-recaptcha "></div>
+          <noscript>
+            <div>
+              <div style="width: 302px; height: 422px; position: relative;">
+                <div style="width: 302px; height: 422px; position: absolute;">
+                  <iframe src="https://www.recaptcha.net/recaptcha/api/fallback?k=6LcklgYgAAAAAD8jZwK4sr4dc-MKah7cxFr0xpuQ" name="ReCAPTCHA" style="width: 302px; height: 422px; border-style: none; border: 0; overflow: hidden;">
+                  </iframe>
+                </div>
+              </div>
+              <div style="width: 300px; height: 60px; border-style: none;
+                bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px;
+                background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+                <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1;
+                  margin: 10px 25px; padding: 0px; resize: none;">                </textarea>
+              </div>
+            </div>
+          </noscript>
+
+                                </div>
+                                <input type="submit" name="commit" value="Enviar Comentário" class="btn btn-default btn btn-primary" id="btnSendComment">
+                                  <button type="button" class="btn btn-default" id="cancelComment">Cancelar</button>
+</form>                                <div class="clearfix">&nbsp;</div>
+                                <div class="row col-xs-12 col-md-12">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix">&nbsp;</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr class="dotted-line hidden-print">
+    <div class="col-md-12 visible-print-block">
+        <p>
+            <strong>Fundação Municipal de Saúde de Teresina - FMS</strong>
+        </p>
+        <p>
+            <strong>Endereço Web: </strong>https://site.fms.pmt.pi.gov.br/noticia/5502/teresina-registra-aumento-na-procura-e-positividades-dos-testes-de-covid-19
+        </p>
+    </div>
+
+    <div class="row more-news-comments hidden-print">
+        <div class="col-md-12 news-index-card">
+            <div class="card">
+                <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane active">
+                        <h3><strong>Mais Notícias</strong></h3>
+                        <hr>
+                        <ul class="list-unstyled all-news">
+                              <li>
+                                  <span><i class="fa fa-clock-o"></i> aproximadamente 18 horas</span> - 
+                                  <strong><a href="https://site.fms.pmt.pi.gov.br/noticia/5767/gerencia-de-saude-bucal-da-fms-realiza-reuniao-com-cro-pi-e-sindicato-dos-odontologistas">Gerência de Saúde Bucal da FMS realiza reunião com CRO-PI e Sindicato dos Odontologistas</a></strong>
+                              </li>
+                              <li>
+                                  <span><i class="fa fa-clock-o"></i> 12/01/2025</span> - 
+                                  <strong><a href="https://site.fms.pmt.pi.gov.br/noticia/5766/hut-recebe-nota-de-agradecimento-pelo-atendimento-prestado-as-vitimas-de-acidente-na-br-316">HUT recebe  nota de agradecimento pelo atendimento prestado às vítimas de acidente na BR 316</a></strong>
+                              </li>
+                              <li>
+                                  <span><i class="fa fa-clock-o"></i> 12/01/2025</span> - 
+                                  <strong><a href="https://site.fms.pmt.pi.gov.br/noticia/5765/hut-recebe-oito-vitimas-de-grave-acidente-na-br-316">HUT recebe oito vítimas de grave acidente na BR-316</a></strong>
+                              </li>
+                              <li>
+                                  <span><i class="fa fa-clock-o"></i> 10/01/2025</span> - 
+                                  <strong><a href="https://site.fms.pmt.pi.gov.br/noticia/5764/prefeito-silvio-mendes-e-fms-realizam-reuniao-estrategica-para-enfrentar-crise-na-saude-de-teresina">Prefeito Silvio Mendes e FMS realizam reunião estratégica para enfrentar crise na saúde de Teresina</a></strong>
+                              </li>
+                            <div class="separator"></div>
+                            <li>
+                                <a href="/noticias">
+                                    <h5>Mais notícias <span><i class="fa fa-arrow-circle-o-right"></i></span></h5>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix">&nbsp;</div>
+                </div>
+            </div>
+        </div>
+    </div>
+                                    </div>
+                                </div>
+                                <!-- Side Menu -->
+                                <div class="hidden-sm hidden-xs hidden-print">
+  <div class="col-md-3" id="secondary-column">
+      <div class="col-md-12" id="side-menu">
+
+          <div class="tab-pane active">
+              <center>
+                <a target="_blank" href="https://forms.gle/9qCE2qVb8QakkaDR6"><img class="img-responsive" src="/system/banners/images/000/000/015/small/pesquisa_satisfacao_ouvidora.jpg?1729614716" alt="Pesquisa satisfacao ouvidora"></a>
+              </center>
+          </div>
+
+        <div class="row card features">
+        <ul class="nav nav-pills nav-stacked">
+
+              <li class="nav-header"><h4 style="padding-top:10%;color: #2f51c2;">Links Úteis</h4></li>
+                  <li><a class="subcategorie " href="https://docs.google.com/forms/d/e/1FAIpQLSf5YJtIOp6DrPmN8BizpG_5Iv4em7gt6-3NJhZzvgo5YBg4JQ/viewform">Painel de Cursos para servidores da FMS</a></li>
+                  <li><a class="subcategorie " href="https://sites.google.com/view/cievsteresina">Notifica CIEVS</a></li>
+                  <li><a class="subcategorie " href="https://metabase.fms.pmt.pi.gov.br/public/dashboard/6602cab6-61ce-4113-a857-f41e795cb230">Painel Vacinação COVID-19</a></li>
+                  <li><a class="subcategorie " href="https://site.fms.pmt.pi.gov.br/i-revista-cientifica-da-rede-de-atencao-psicossocial-de-teresina">I Revista Científica da Atenção Psicossocial de Teresina</a></li>
+                  <li><a class="subcategorie " href="https://site.fms.pmt.pi.gov.br/calendario-de-combate-a-dengue">Calendário Ecoepidemiológico de combate à Dengue</a></li>
+                  <li><a class="subcategorie " href="http://www.painelcovid19teresina.pmt.pi.gov.br/">Painel Epidemiológico COVID-19</a></li>
+                  <li><a class="subcategorie " href="https://vacinateresina.fms.pmt.pi.gov.br/">Vacina Teresina</a></li>
+                  <li><a class="subcategorie " href="https://site.fms.pmt.pi.gov.br/censo-hospitalar">Censo Hospitalar</a></li>
+                  <li><a class="subcategorie " href="https://site.fms.pmt.pi.gov.br/laudos-insalubridade-hospitais-upas-e-samu">Laudos de insalubridade - Hospitais, UPA e SAMU</a></li>
+                  <li><a class="subcategorie " href="https://site.fms.pmt.pi.gov.br/vigilancia-das-sindromes-neuroinvasivas">Vigilância das síndromes neuroinvasivas</a></li>
+                  <li><a class="subcategorie " href="https://digisusgmp.saude.gov.br/v1.5/transparencia/downloads">Instrumentos de Planejamento do SUS</a></li>
+                  <li><a class="subcategorie " href="https://site.fms.pmt.pi.gov.br/solicitacao-de-copia-de-declaracao-de-obito-e-ou-declaracao-de-nascido-vivo">Solicitação de cópia de declaração de óbito e/ou declaração de nascido vivo</a></li>
+                  <li><a class="subcategorie " href="/vigilancia-sanitaria">Vigilância Sanitária</a></li>
+          <li>
+            <a href="https://site.fms.pmt.pi.gov.br/resultados_de_exames"><i class="fa fa-file-pdf-o"></i> Resultado de Exames</a>
+          </li>
+        </ul>
+        </div>
+        <div class="row card features">
+          <div class="face-plugin">
+            <div class="fb-page" data-href="https://www.facebook.com/fmsteresina" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/fmsteresina"><a href="https://www.facebook.com/fmsteresina">Fundação Municipal de Saúde - FMS Teresina</a></blockquote></div></div>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+<div class="hidden-lg hidden-md">
+</div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Banners -->
+            <div class="row" id="banners">
+  <div class="container">
+    <div class="col-md-12">
+      <div class="link-titles">
+        <h4 class="text-center"><span>Links importantes</span></h4>
+      </div>
+    </div>
+    <div class="thumb-links">
+      <div class="col-xs-3 text-center"></div>
+      <div class="col-xs-6 text-center">
+        <div class="col-xs-6 col-md-4">
+        <a target="_blank" href="https://transparencia.pmt.pi.gov.br/"><img alt="Portal da Transparência Teresiana" title="Portal da Transparência Teresiana" class="img-responsive" src="/assets/portal-transparencia-7626bcc36769e1c709eb77db59036880877438badfaba643b736d8d4651c91a0.png"></a>
+        </div>
+        <div class="col-xs-6 col-md-4">
+        <a target="_blank" href="https://dom.pmt.pi.gov.br/lista_diario.php"><img alt="Diário Oficial de Teresiana" title="Diário Oficial de Teresiana" class="img-responsive" src="/assets/dom-76715454987698381b3da73274b11689fe523b0094b1e9a85da1605adc124820.png"></a>
+        </div>
+        <div class="col-xs-6 col-md-4">
+        <a target="_blank" href="https://ouvidoria.teresina.pi.gov.br/"><img alt="Ouvidoria de Teresina" title="Ouvidoria de Teresina" class="img-responsive" src="/assets/ouvidoria-9a8e675b5de486891d5e4f9ae324f7cc4463b516ae0ba02d67254fee97bbfee8.png"></a>
+        </div>
+      </div>
+      <div class="col-xs-3 text-center"></div>
+    </div>
+  </div>
+</div>
+
+
+            <!-- Main content END -->
+            <div class="row hidden-print" id="footer">
+    <div class="col-md-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3><strong>Fundação Municipal de Saúde de Teresina - FMS</strong></h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                    <p> A FMS tem por objetivo o planejamento e a execução da política de saúde do Município de Teresina, desenvolvendo atividades integradas de prevenção, proteção, promoção e recuperação da saúde.</p>
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-home"></i> Rua Governador Artur de Vasconcelos, 3015 - Aeroporto, Teresina - PI CEP: 64002-530</li>
+                        <li><i class="fa fa-phone"></i> (+55) 86 3228-8700</li>
+                        <li><i class="fa fa-envelope-o"></i> <a href="mailto:ouvidoriasus@pmt.pi.gov.br" target="_blank">ouvidoriasus@pmt.pi.gov.br</a></li>
+                        <li><i class="fa fa-map-marker"></i> <a href="https://www.google.com.br/maps/place/Funda%C3%A7%C3%A3o+Municipal+de+Sa%C3%BAde+-+FMS/@-5.0633289,-42.8153531,17z/data=!4m5!3m4!1s0x78e39af7bcd04e3:0x538a10faed175a6a!8m2!3d-5.0620892!4d-42.8153638?hl=pt-BR" target="_blank">Encontre no Google Maps</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+
+                </div>
+            </div>
+        </div>
+        <div class="footer-nav">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-9 col-sm-9 col-md-10 col-lg-10">
+                        <ul class="copy-footer">
+                            <li>Copyright <span class="copy">© 2025, Todos os direitos reservados - Desenvolvido por GTI-FMS</span> </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Printable Footer -->
+<div class="row visible-print-block" id="footer">
+    <div class="col-md-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3><strong>Fundação Municipal de Saúde de Teresina - FMS</strong></h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 visible-print-block">
+                    <h4>Contato</h4>
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-home"></i> Rua Governador Artur de Vasconcelos, 3015 - Aeroporto, Teresina - PI CEP: 64002-530</li>
+                        <li><i class="fa fa-phone"></i> (+55) 86 3228-8700</li>
+                        <li><i class="fa fa-envelope-o"></i> ouvidoriasus@pmt.pi.gov.br</li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                </div>
+            </div>
+        </div>
+        <div class="footer-nav">
+            <div class="container">
+                <div class="borda-footer">
+                </div>
+                <div class="row">
+                    <div class="col-xs-9 col-sm-9 col-md-10 col-lg-10">
+                        <ul class="copy-footer">
+                            <li>Copyright <span class="copy">© 2025, Todos os direitos reservados</span></li>
+                            <li><span>Desenvolvido por GTI-FMS</span></li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-3 col-sm-3 col-md-2 col-lg-2">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+
+        <script src="/assets/application-91d051cec90328bf025492b3585bf900ee0a6628943021042c49acb8cdffc9f1.js"></script>
+        <script src="/assets/parsley.min-5d45f3358efe178ad76650ff47b14893fd8e7513e47e431211122e59b756152b.js"></script>
+        
+
+        <!-- facebook plugin -->
+        <div id="fb-root"></div>
+        <script>(function (d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id))
+                  return;
+              js = d.createElement(s);
+              js.id = id;
+              js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.4&appId=275409062475388";
+              fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <!-- fim facebook plugin -->
+    
+
+</body></html>

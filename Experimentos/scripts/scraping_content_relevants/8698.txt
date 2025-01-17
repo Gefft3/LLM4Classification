@@ -1,0 +1,1017 @@
+<html lang="pt-BR"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Página não encontrada -</title>
+    <link rel="icon" href="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/images/favicon.png" type="image/png">
+
+    <!-- Preload for Bootstrap -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+    </noscript>
+
+    <!-- Carregar CSS adicional, se necessário -->
+    <link rel="preload" href="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/css/custom.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/css/custom.css">
+    </noscript>
+
+    <!-- FontAwesome only if needed -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/js/all.min.js" crossorigin="anonymous" defer=""></script>
+
+    <!-- Prefetch DNS for external resources (optional) -->
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="//kit.fontawesome.com">
+    <!-- Meta Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1613212292600723');
+	fbq('track', 'PageView');
+	</script>
+	<noscript></noscript></head><body><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1613212292600723&amp;ev=PageView&amp;noscript=1">
+	<!-- End Meta Pixel Code -->
+    <meta name="robots" content="noindex, follow">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:title" content="Página não encontrada -">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://muitainformacao.com.br/#website","url":"https://muitainformacao.com.br/","name":"Muita Informação","description":"","publisher":{"@id":"https://muitainformacao.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://muitainformacao.com.br/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://muitainformacao.com.br/#organization","name":"Muita Informação","url":"https://muitainformacao.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://muitainformacao.com.br/#/schema/logo/image/","url":"https://muitainformacao.com.br/wp-content/uploads/2024/10/logo-muita-inforamcao.png","contentUrl":"https://muitainformacao.com.br/wp-content/uploads/2024/10/logo-muita-inforamcao.png","width":334,"height":178,"caption":"Muita Informação"},"image":{"@id":"https://muitainformacao.com.br/#/schema/logo/image/"},"sameAs":["https://facebook.com/muitainformacao","https://x.com/informacaomuita","https://www.instagram.com/portalmuitainformacao","https://www.youtube.com/channel/UCOg6a9ii6q403d0yjnTvH5A"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/muitainformacao.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://muitainformacao.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+
+<!-- Snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+
+<!-- Snippet do Google Analytics adicionado pelo Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-NMKBLQQ" id="google_gtagjs-js" async=""></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["muitainformacao.com.br"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-NMKBLQQ");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); } 
+/* ]]> */
+</script>
+
+<!-- Fim do snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+<link rel="https://api.w.org/" href="https://muitainformacao.com.br/wp-json/"><meta name="generator" content="WordPress 6.7.1">
+<meta name="generator" content="Site Kit by Google 1.144.0">
+
+
+
+    <header id="header-fixed">
+        <div id="border-fixed" class="py-2 border-bottom border-5 border-gray bg-icon">
+            <div class="container">
+	                            <div id="menu-institucional-fixed" class="row align-items-center">
+                    <div class="col-md-3">
+                        <nav class="navbar navbar-expand-lg">
+                            <div class="collapse navbar-collapse" id="navbarNav">
+                                <ul id="menu-menu-institucional" class="navbar-nav" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-3864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3864 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/" class="nav-link"><span class="fw-bold" itemprop="name">Início</span></a></li>
+<li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/quem-somos/" class="nav-link"><span class="fw-bold" itemprop="name">Quem Somos</span></a></li>
+<li id="menu-item-3865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3865 nav-item"><a target="_blank" rel="noopener noreferrer" itemprop="url" href="https://www.youtube.com/channel/UCOg6a9ii6q403d0yjnTvH5A" class="nav-link"><span class="fw-bold" itemprop="name">Vídeos</span></a></li>
+</ul>                            </div>
+                        </nav>
+                    </div>
+                    <div class="col-md-4">
+                        <a href="https://api.whatsapp.com/send?phone=5571999239387&amp;text=Ol%C3%A1." class="btn btn-white text-primary border-0"><i class="fa-brands fs-6 me-2 fa-whatsapp"></i> Envie sua mensagem - <strong>(71) 99923-9387</strong></a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="https://facebook.com/muitainformacao" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-facebook"></i>
+                        </a>
+                        <a href="https://www.instagram.com/portalmuitainformacao" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-instagram"></i>
+                        </a>
+                        <a href="https://twitter.com/informacaomuita" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-x-twitter"></i>
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCOg6a9ii6q403d0yjnTvH5A" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-youtube"></i>
+                        </a>
+                    </div>
+                    <div class="col-md-2">
+	                    <form role="search" method="get" class="search-form" action="https://muitainformacao.com.br/">
+  <div class="input-group">
+    <input type="search" class="form-control" placeholder="Pesquisar..." value="" name="s" title="Buscar por:">
+    <button type="submit" class="btn btn-outline-primary">
+      <i class="fa fa-search"></i>
+    </button>
+  </div>
+</form>	                    <!-- Coluna para o Formulário de Busca -->
+<!--
+		                    <div class="d-flex">
+		                        <form role="search" method="get" class="search-form" action="https://muitainformacao.com.br/">
+  <div class="input-group">
+    <input type="search" class="form-control" placeholder="Pesquisar..." value="" name="s" title="Buscar por:" />
+    <button type="submit" class="btn btn-outline-primary">
+      <i class="fa fa-search"></i>
+    </button>
+  </div>
+</form>		                    </div>
+-->
+                    </div>
+                </div>
+                            </div>
+        </div>
+
+        <div id="padding-fixed" class="py-4 border-bottom border-5 border-light bg-primary">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div id="logo-fixed" class="col-md-4 col-9 text-start text-md-center mx-auto">
+                        <a href="https://muitainformacao.com.br/"><img src="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/images/logotipo-muita-informacao.svg" alt=" - Página não encontrada -" width="289" height="146" class="img-fluid"></a>
+                    </div>
+                    <div id="menu-fixed" class="col-md-8 col-3 text-end">
+	                                            	<!-- Executando exibir_banner --><div class="banner-container full-banner-header-728x90"><div class="banner-slide" data-tempo="20">  <a href="https://atendimentovirtual.embasa.ba.gov.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/EMBASA-BANNER_AGUA-DE-CHUVA_728x90px.gif" alt="EMBASA – Verão 2025 – Banner 728x90gif.">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://doe.irmadulce.org.br/doacao-por-transferencia" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/BANNER-720-1-MILHAO-DE-AMIGOS-OSIDpx.png" alt="IRMÃ DULCE – 1 Milhão de Amigos – 728×90">  </a></div><div class="banner-slide" data-tempo="20">  <a href="https://salvador.ba.gov.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-728x90px-ACOES-DA-PMS.gif" alt="PREFEITURA DE SALVADOR – Ações da Prefeitura – Jan 2025 – Banner 728x90gif.">  </a></div></div>                                                
+	                                        </div>
+                </div>
+                            </div>
+        </div>
+                <div id="menu-desktop-fixed" class="py-2 bg-primary">
+		    <div class="container">
+		        <div class="row">
+		            <div class="col-12">
+		                <nav class="navbar navbar-expand-lg bg-primary">
+		                    <!-- Coluna para o Menu -->
+		                    <div class="collapse navbar-collapse me-auto" id="navbarPrimary">
+		                        <ul id="menu-menu-principal" class="navbar-nav custom-nav fs-6" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-7647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7647 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/ultimas-noticias/" class="nav-link"><span class="fw-bold" itemprop="name">Últimas notícias</span></a></li>
+<li id="menu-item-56708" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56708 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/carnaval/" class="nav-link"><span class="fw-bold" itemprop="name">Carnaval 2025</span></a></li>
+<li id="menu-item-37392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37392 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/politica/" class="nav-link"><span class="fw-bold" itemprop="name">Política</span></a></li>
+<li id="menu-item-37386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37386 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/cidades/" class="nav-link"><span class="fw-bold" itemprop="name">Cidades</span></a></li>
+<li id="menu-item-37393" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37393 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/saude/" class="nav-link"><span class="fw-bold" itemprop="name">Saúde</span></a></li>
+<li id="menu-item-37388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37388 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/cultura/" class="nav-link"><span class="fw-bold" itemprop="name">Cultura</span></a></li>
+<li id="menu-item-37394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37394 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/vixe/" class="nav-link"><span class="fw-bold" itemprop="name">Vixe</span></a></li>
+<li id="menu-item-37391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37391 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/negocios/" class="nav-link"><span class="fw-bold" itemprop="name">Negócios</span></a></li>
+<li id="menu-item-37385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37385 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/artigos/" class="nav-link"><span class="fw-bold" itemprop="name">Artigos</span></a></li>
+<li id="menu-item-37390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37390 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/inspiracao/" class="nav-link"><span class="fw-bold" itemprop="name">Inspiração</span></a></li>
+<li id="menu-item-37387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37387 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/coluna-ohh/" class="nav-link"><span class="fw-bold" itemprop="name">Coluna Ohh!</span></a></li>
+<li id="menu-item-56709" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56709 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/eleicoes-2024/" class="nav-link"><span class="fw-bold" itemprop="name">Eleições 2024</span></a></li>
+</ul>		                    </div>
+		                </nav>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+            </header>
+
+    <div class="main">        <section class="container">
+            <div class="row mt-5 align-items-center">
+                <div class="col-md-8 col-12  mx-auto">
+                    <div id="carouselHighlights" class="carousel slide" data-bs-ride="carousel">
+                                                <div class="carousel-inner">
+                                                                <div class="carousel-item active">
+	                                    <a href="https://muitainformacao.com.br/cidades/bruno-reis-anuncia-inicio-das-obras-de-200-unidades-do-minha-casa-minha-vida-em-salvador/" class="stretched-link text-decoration-none">
+                                                                                                                                            <img class="img-fluid" width="880" height="500" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Bruno-Reis-anuncia-inicio-das-obras-do-Minha-Casa-Minha-Vida-em-Salvador-com-200-unidades-habitacionais-856x525.jpg" alt="Bruno Reis anuncia início das obras de 200 unidades do ‘Minha Casa, Minha Vida’ em Salvador - ">
+                                                                                        </a><div class="carousel-caption text-start"><a href="https://muitainformacao.com.br/cidades/bruno-reis-anuncia-inicio-das-obras-de-200-unidades-do-minha-casa-minha-vida-em-salvador/" class="stretched-link text-decoration-none">
+                                                </a><a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white" style="background-color: #660000!important">
+	                                                Cidades	                                            </a>
+                                                <h1 class="fs-3 my-1 text-white">Bruno Reis anuncia início das obras de 200 unidades do ‘Minha Casa, Minha Vida’ em Salvador</h1>
+                                            </div>
+                                        
+                                    </div>
+                                                                <div class="carousel-item ">
+	                                    <a href="https://muitainformacao.com.br/politica/lula-sanciona-lei-que-restringe-uso-de-celular-em-escolas/" class="stretched-link text-decoration-none">
+                                                                                                                                            <img class="img-fluid" width="880" height="500" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Oscar-2025-Indicacao-de-finalistas-e-adiada-novamente-devido-a-incendios-em-Los-Angeles-2-856x525.jpg" alt="Lula sanciona lei que restringe uso de celular em escolas - ">
+                                                                                        </a><div class="carousel-caption text-start"><a href="https://muitainformacao.com.br/politica/lula-sanciona-lei-que-restringe-uso-de-celular-em-escolas/" class="stretched-link text-decoration-none">
+                                                </a><a href="https://muitainformacao.com.br/politica/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white">
+	                                                Política	                                            </a>
+                                                <h2 class="fs-3 my-1 text-white">Lula sanciona lei que restringe uso de celular em escolas</h2>
+                                            </div>
+                                        
+                                    </div>
+                                                                <div class="carousel-item ">
+	                                    <a href="https://muitainformacao.com.br/politica/jeronimo-rodrigues-anuncia-investimento-de-r-13-bilhao-em-escolas-estaduais/" class="stretched-link text-decoration-none">
+                                                                                                                                            <img class="img-fluid" width="880" height="500" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/reproducao_joasouza_GOVBA-1-856x525.jpg" alt="Jerônimo Rodrigues anuncia investimento de R$ 1,3 bilhão em escolas estaduais - ">
+                                                                                        </a><div class="carousel-caption text-start"><a href="https://muitainformacao.com.br/politica/jeronimo-rodrigues-anuncia-investimento-de-r-13-bilhao-em-escolas-estaduais/" class="stretched-link text-decoration-none">
+                                                </a><a href="https://muitainformacao.com.br/politica/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white">
+	                                                Política	                                            </a>
+                                                <h2 class="fs-3 my-1 text-white">Jerônimo Rodrigues anuncia investimento de R$ 1,3 bilhão em escolas estaduais</h2>
+                                            </div>
+                                        
+                                    </div>
+                                                                <div class="carousel-item ">
+	                                    <a href="https://muitainformacao.com.br/cultura/ensaios-de-verao-em-salvador-confira-agenda-dos-eventos-para-este-mes-de-janeiro/" class="stretched-link text-decoration-none">
+                                                                                                                                            <img class="img-fluid" width="880" height="500" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Cortejo-Afro-856x525.jpg" alt="Ensaios de Verão em Salvador: confira agenda dos eventos para este mês de janeiro - ">
+                                                                                        </a><div class="carousel-caption text-start"><a href="https://muitainformacao.com.br/cultura/ensaios-de-verao-em-salvador-confira-agenda-dos-eventos-para-este-mes-de-janeiro/" class="stretched-link text-decoration-none">
+                                                </a><a href="https://muitainformacao.com.br/cultura/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white" style="background-color: #d96d00!important">
+	                                                Cultura	                                            </a>
+                                                <h2 class="fs-3 my-1 text-white">Ensaios de Verão em Salvador: confira agenda dos eventos para este mês de janeiro</h2>
+                                            </div>
+                                        
+                                    </div>
+                                                                <div class="carousel-item ">
+	                                    <a href="https://muitainformacao.com.br/cultura/festas-movimentam-lavagem-do-bonfim-com-atracoes-imperdiveis/" class="stretched-link text-decoration-none">
+                                                                                                                                            <img class="img-fluid" width="880" height="500" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/14_01_2021_Lavagem-do-Bonfim-2021_Imagem-do-Sr-do-Bonfim_Foto_Jefferson-Peixoto_Secom_Pms-32-1-1024x684-1-856x525.jpg" alt="Festas movimentam Lavagem do Bonfim com atrações imperdíveis - ">
+                                                                                        </a><div class="carousel-caption text-start"><a href="https://muitainformacao.com.br/cultura/festas-movimentam-lavagem-do-bonfim-com-atracoes-imperdiveis/" class="stretched-link text-decoration-none">
+                                                </a><a href="https://muitainformacao.com.br/cultura/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white" style="background-color: #d96d00!important">
+	                                                Cultura	                                            </a>
+                                                <h2 class="fs-3 my-1 text-white">Festas movimentam Lavagem do Bonfim com atrações imperdíveis</h2>
+                                            </div>
+                                        
+                                    </div>
+                                                    </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselHighlights" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselHighlights" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                </div>
+                                <div class="col-md-4 col-12 mx-auto  ">
+	                <div class="bg-primary">
+		                <div class="row">
+			                <div class="col-12">
+				                <h2 class="fs-6 text-white px-3 pt-1">Confira</h2>
+			                </div>
+		                </div>
+	                    <a href="/vixe/">
+	                        <img src="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/images/ic-vixe.svg" alt="Vixe" width="433" height="280" class="img-fluid ==">
+	                    </a>
+	                    <a href="https://muitainformacao.com.br/cultura/o-que-fazer-em-salvador-no-fim-de-semana-marcia-freire-carlinhos-brown-durval-lelys-timbalada-e-mais-confira-na-agenda-do-portal-m/">
+	                        <img src="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/images/ic-cultura.svg" alt="Vixe" width="433" height="280" class="img-fluid py-1">
+	                    </a>
+	                </div>
+                </div>
+                            </div>
+        </section>
+
+        <section class="highlights-news mt-5">
+	                    <div class="container">
+                <div class="row">
+                    <div class="col-md-12 mx-auto">
+                        <div class="card">
+                            <div class="row card-body p-0 border-primary align-items-center">
+                                                                <div class="col-md-3 ">
+                                    <h2 class="text-white p-0 m-0 fs-5 fw-normal text-uppercase text-center">
+	                                    
+	                                    <span class="badge w-100 bg-primary py-4 px-3">
+	                                    	<a class="text-white" href="/ultimas-noticias/" style="text-decoration: none;">Últimas Notícias</a>
+										</span>
+	                                </h2>
+                                </div>
+                                                                <div class="col-md-9 col-11 pt-2 mx-auto">
+                                    <div id="highlightNews">
+                                                                                        <div class="highlight-item">
+                                                    <h3 class="fs-6 fw-bold mb-1"><a href="https://muitainformacao.com.br/saude/salvador-amplia-vacinacao-antirrabica-para-caes-e-gatos-em-areas-turisticas-e-do-suburbio/" class="text-dark text-decoration-none">Salvador amplia vacinação antirrábica para cães e gatos em áreas turísticas e do Subúrbio</a></h3>
+                                                    <small class="text-muted small">14 de janeiro de 2025</small>
+                                                </div>
+                                                                                            <div class="highlight-item">
+                                                    <h3 class="fs-6 fw-bold mb-1"><a href="https://muitainformacao.com.br/politica/sidonio-palmeira-toma-posse-como-ministro-da-secom-nesta-terca-feira/" class="text-dark text-decoration-none">Sidônio Palmeira toma posse como ministro da Secom nesta terça-feira</a></h3>
+                                                    <small class="text-muted small">14 de janeiro de 2025</small>
+                                                </div>
+                                                                                            <div class="highlight-item">
+                                                    <h3 class="fs-6 fw-bold mb-1"><a href="https://muitainformacao.com.br/cidades/programa-de-alfabetizacao-gratuito-para-jovens-e-adultos-inicia-inscricoes-para-2025/" class="text-dark text-decoration-none">Programa de alfabetização gratuito para jovens e adultos inicia inscrições para 2025</a></h3>
+                                                    <small class="text-muted small">13 de janeiro de 2025</small>
+                                                </div>
+                                                                                            <div class="highlight-item">
+                                                    <h3 class="fs-6 fw-bold mb-1"><a href="https://muitainformacao.com.br/cultura/caixa-cultural-celebra-40-anos-do-axe-music-com-roda-de-conversa-sobre-wesley-rangel/" class="text-dark text-decoration-none">CAIXA Cultural celebra 40 anos do Axé Music com roda de conversa sobre Wesley Rangel</a></h3>
+                                                    <small class="text-muted small">13 de janeiro de 2025</small>
+                                                </div>
+                                                                                            <div class="highlight-item">
+                                                    <h3 class="fs-6 fw-bold mb-1"><a href="https://muitainformacao.com.br/cultura/festa-dos-mares-no-principote-celebra-iemanja-com-jau-no-rio-vermelho/" class="text-dark text-decoration-none">Festa ‘Dos Mares’ no Principote celebra Iemanjá com Jau no Rio Vermelho</a></h3>
+                                                    <small class="text-muted small">13 de janeiro de 2025</small>
+                                                </div>
+                                                                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+                <section class="mt-5">
+            <div class="container">
+                <div class="row ">
+                    <div class="col-md-6 col-12  mx-auto">
+                        						<div class="bg-primary p-4 text-white">
+                            <h2 class="mb-4 "><i class="fa-regular fa-circle-play"></i> Galeria de Vídeos</h2>
+                            							<div id="carouselVideos" class="carousel slide" data-bs-ride="carousel">
+							    <div id="video-carousel-inner" class="carousel-inner">
+							        							            <div class="carousel-item active">
+							                <a href="#" class="stretched-link text-decoration-none" data-bs-toggle="modal" data-bs-target="#videoModal" data-video-id="o8wq-WZWM-I" data-video-title="">
+							                    <img class="img-fluid youtube-thumbnail" src="https://img.youtube.com/vi/o8wq-WZWM-I/hqdefault.jpg" alt="" width="588" height="392">
+							                </a>
+							            </div>
+							        							            <div class="carousel-item ">
+							                <a href="#" class="stretched-link text-decoration-none" data-bs-toggle="modal" data-bs-target="#videoModal" data-video-id="o4P4uJVWmNU" data-video-title="">
+							                    <img class="img-fluid youtube-thumbnail" src="https://img.youtube.com/vi/o4P4uJVWmNU/hqdefault.jpg" alt="" width="588" height="392">
+							                </a>
+							            </div>
+							        							            <div class="carousel-item ">
+							                <a href="#" class="stretched-link text-decoration-none" data-bs-toggle="modal" data-bs-target="#videoModal" data-video-id="PNaWuB4Bdcw" data-video-title="">
+							                    <img class="img-fluid youtube-thumbnail" src="https://img.youtube.com/vi/PNaWuB4Bdcw/hqdefault.jpg" alt="" width="588" height="392">
+							                </a>
+							            </div>
+							        							            <div class="carousel-item ">
+							                <a href="#" class="stretched-link text-decoration-none" data-bs-toggle="modal" data-bs-target="#videoModal" data-video-id="DAKWSHuuYGE" data-video-title="">
+							                    <img class="img-fluid youtube-thumbnail" src="https://img.youtube.com/vi/DAKWSHuuYGE/hqdefault.jpg" alt="" width="588" height="392">
+							                </a>
+							            </div>
+							        							            <div class="carousel-item ">
+							                <a href="#" class="stretched-link text-decoration-none" data-bs-toggle="modal" data-bs-target="#videoModal" data-video-id="OdB5vtnrg8k" data-video-title="">
+							                    <img class="img-fluid youtube-thumbnail" src="https://img.youtube.com/vi/OdB5vtnrg8k/hqdefault.jpg" alt="" width="588" height="392">
+							                </a>
+							            </div>
+							        							    </div>
+							    <button class="carousel-control-prev" type="button" data-bs-target="#carouselVideos" data-bs-slide="prev">
+							        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							        <span class="visually-hidden">Previous</span>
+							    </button>
+							    <button class="carousel-control-next" type="button" data-bs-target="#carouselVideos" data-bs-slide="next">
+							        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+							        <span class="visually-hidden">Next</span>
+							    </button>
+							</div>
+                        </div>
+                        
+                        <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+						    <div class="modal-dialog modal-dialog-centered modal-lg">
+						        <div class="modal-content">
+						            <div class="modal-header">
+						                <!-- Removendo o texto fixo "Título do Vídeo" -->
+						                <h3 class="modal-title fs-6" id="videoModalLabel"></h3>
+						                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+						            </div>
+						            <div class="modal-body">
+						                <div class="ratio ratio-16x9">
+						                    <iframe id="videoIframe" src="" allowfullscreen=""></iframe>
+						                </div>
+						            </div>
+						        </div>
+						    </div>
+						</div>                    </div>
+                    
+                                        
+                                        
+                                        <div class="col-md-6 col-12  mx-auto">
+                        						<div class="bg-info p-4 text-white">
+                            <h2 class="mb-4 "><i class="fa-solid fa-podcast"></i> Podcasts</h2>
+                            <div id="carouselPodcasts" class="carousel slide" data-bs-ride="carousel">
+                                                                <div class="carousel-inner">
+                                                                                <div class="carousel-item active">
+                                                <a href="https://muitainformacao.com.br/saude/pediatra-diz-que-pais-de-crianca-com-sindrome-de-patau-devem-viver-cada-momento-do-bebe/" class="stretched-link text-decoration-none">
+                                                                                                                                                                    <img class="img-fluid" width="588" height="441" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/Foto-027-1.jpg" alt="Pediatra diz que pais de criança com Síndrome de Patau devem viver cada momento do bebê - ">
+                                                                                                        <div class="carousel-caption text-start">
+<!--
+                                                        <a href="https://muitainformacao.com.br/podcast/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white">
+			                                                Podcast			                                            </a>
+-->
+                                                        <h3 class="fs-4 my-1 text-white">Pediatra diz que pais de criança com Síndrome de Patau devem viver cada momento do bebê</h3> <!-- Título com h3 -->
+                                                    </div>
+                                                </a>
+                                            </div>
+                                                                                <div class="carousel-item ">
+                                                <a href="https://muitainformacao.com.br/podcast/informalidade-de-casais-pode-gerar-prejuizo-a-uma-das-partes-alerta-advogado/" class="stretched-link text-decoration-none">
+                                                                                                                                                                    <img class="img-fluid" width="588" height="441" src="https://muitainformacao.com.br/wp-content/uploads/2024/07/podcast-1-588x392.jpg" alt="Informalidade de casais pode gerar prejuízo a uma das partes, alerta advogado - ">
+                                                                                                        <div class="carousel-caption text-start">
+<!--
+                                                        <a href="https://muitainformacao.com.br/podcast/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white">
+			                                                Podcast			                                            </a>
+-->
+                                                        <h3 class="fs-4 my-1 text-white">Informalidade de casais pode gerar prejuízo a uma das partes, alerta advogado</h3> <!-- Título com h3 -->
+                                                    </div>
+                                                </a>
+                                            </div>
+                                                                                <div class="carousel-item ">
+                                                <a href="https://muitainformacao.com.br/podcast/cresce-numero-de-contratos-de-namoro-entre-casais-que-querem-evitar-uniao-estavel/" class="stretched-link text-decoration-none">
+                                                                                                                                                                    <img class="img-fluid" width="588" height="441" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/Rodrigo-Raiol-1.jpg" alt="Cresce número de contratos de namoro entre casais que querem evitar união estável - ">
+                                                                                                        <div class="carousel-caption text-start">
+<!--
+                                                        <a href="https://muitainformacao.com.br/podcast/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white">
+			                                                Podcast			                                            </a>
+-->
+                                                        <h3 class="fs-4 my-1 text-white">Cresce número de contratos de namoro entre casais que querem evitar união estável</h3> <!-- Título com h3 -->
+                                                    </div>
+                                                </a>
+                                            </div>
+                                                                                <div class="carousel-item ">
+                                                <a href="https://muitainformacao.com.br/negocios/criadora-do-metodo-financeirar-raquel-santos-da-dicas-para-empreender/" class="stretched-link text-decoration-none">
+                                                                                                                                                                    <img class="img-fluid" width="588" height="441" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/Design-sem-nome-49.jpg" alt="Criadora do método Financeirar, Raquel Santos dá dicas para empreender - ">
+                                                                                                        <div class="carousel-caption text-start">
+<!--
+                                                        <a href="https://muitainformacao.com.br/negocios/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white">
+			                                                Negócios			                                            </a>
+-->
+                                                        <h3 class="fs-4 my-1 text-white">Criadora do método Financeirar, Raquel Santos dá dicas para empreender</h3> <!-- Título com h3 -->
+                                                    </div>
+                                                </a>
+                                            </div>
+                                                                                <div class="carousel-item ">
+                                                <a href="https://muitainformacao.com.br/negocios/plano-de-negocios-define-70-do-sucesso-empresarial-diz-especialista/" class="stretched-link text-decoration-none">
+                                                                                                                                                                    <img class="img-fluid" width="588" height="441" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/Design-sem-nome-48.jpg" alt="Plano de negócios define 70% do sucesso empresarial, diz especialista - ">
+                                                                                                        <div class="carousel-caption text-start">
+<!--
+                                                        <a href="https://muitainformacao.com.br/destaques/" class="badge bg-primary fw-lighter fs-6 text-uppercase text-decoration-none text-white">
+			                                                Destaques			                                            </a>
+-->
+                                                        <h3 class="fs-4 my-1 text-white">Plano de negócios define 70% do sucesso empresarial, diz especialista</h3> <!-- Título com h3 -->
+                                                    </div>
+                                                </a>
+                                            </div>
+                                                                    </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselPodcasts" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselPodcasts" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>                    </div>
+                                    </div>
+            </div>
+        </section>
+        
+        <section class="mt-5">
+		    <div class="container">
+		        <div class="row">
+		            		            <!-- Exibir a notícia principal -->
+		            <div class="col-md-8 col-11 mx-auto">
+					    					        <a href="https://muitainformacao.com.br/saude/salvador-amplia-vacinacao-antirrabica-para-caes-e-gatos-em-areas-turisticas-e-do-suburbio/" class="text-decoration-none">
+						        <img class="img-fluid" width="880" height="500" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Vacinacao-antirrabica-880x500.jpg" alt="Salvador amplia vacinação antirrábica para cães e gatos em áreas turísticas e do Subúrbio - ">
+					        </a>
+					        <a href="https://muitainformacao.com.br/saude/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #008c23!important">
+					            Saúde					        </a>
+					        <h2 class="fs-4 my-1 fw-bold"><a href="https://muitainformacao.com.br/saude/salvador-amplia-vacinacao-antirrabica-para-caes-e-gatos-em-areas-turisticas-e-do-suburbio/" class="text-decoration-none text-dark">Salvador amplia vacinação antirrábica para cães e gatos em áreas turísticas e do Subúrbio</a></h2>
+					        <p class="text-muted">
+						        <a href="https://muitainformacao.com.br/saude/salvador-amplia-vacinacao-antirrabica-para-caes-e-gatos-em-areas-turisticas-e-do-suburbio/" class="text-decoration-none text-muted"></a></p><p><a href="https://muitainformacao.com.br/saude/salvador-amplia-vacinacao-antirrabica-para-caes-e-gatos-em-areas-turisticas-e-do-suburbio/" class="text-decoration-none text-muted">A iniciativa, que já está em sua segunda semana, busca proteger os animais e prevenir a disseminação da raiva na capital baiana</a></p><a href="https://muitainformacao.com.br/saude/salvador-amplia-vacinacao-antirrabica-para-caes-e-gatos-em-areas-turisticas-e-do-suburbio/" class="text-decoration-none text-muted">
+</a>
+						    <p></p>
+					    					</div>
+		            <!-- Exibir as próximas 3 notícias menores -->
+		            <div class="col-md-4 col-11 mx-auto ">
+					    					    <a href="https://muitainformacao.com.br/politica/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white">
+					        Política					    </a> 
+					    <small class="small text-muted">14/01/2025 às 07:00</small>
+					    <h2 class="fs-6 my-1 fw-bold">
+					        <a href="https://muitainformacao.com.br/politica/sidonio-palmeira-toma-posse-como-ministro-da-secom-nesta-terca-feira/" class="text-decoration-none text-dark">Sidônio Palmeira toma posse como ministro da Secom nesta terça-feira</a>
+					    </h2>
+					    <p class="text-muted">
+					        <a href="https://muitainformacao.com.br/politica/sidonio-palmeira-toma-posse-como-ministro-da-secom-nesta-terca-feira/" class="text-decoration-none text-muted">Publicitário baiano planeja mudanças estratégicas na comunicação do governo e já demitiu José Chrispiniano pelo jornalista Laércio Portela</a>
+					    </p>
+					    <hr>
+					    					    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					        Cidades					    </a> 
+					    <small class="small text-muted">13/01/2025 às 23:30</small>
+					    <h2 class="fs-6 my-1 fw-bold">
+					        <a href="https://muitainformacao.com.br/cidades/programa-de-alfabetizacao-gratuito-para-jovens-e-adultos-inicia-inscricoes-para-2025/" class="text-decoration-none text-dark">Programa de alfabetização gratuito para jovens e adultos inicia inscrições para 2025</a>
+					    </h2>
+					    <p class="text-muted">
+					        <a href="https://muitainformacao.com.br/cidades/programa-de-alfabetizacao-gratuito-para-jovens-e-adultos-inicia-inscricoes-para-2025/" class="text-decoration-none text-muted">Aulas incluem todo o material didático necessário, e o início das atividades está previsto para março</a>
+					    </p>
+					    <hr>
+					    					    <a href="https://muitainformacao.com.br/cultura/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #d96d00!important">
+					        Cultura					    </a> 
+					    <small class="small text-muted">13/01/2025 às 23:00</small>
+					    <h2 class="fs-6 my-1 fw-bold">
+					        <a href="https://muitainformacao.com.br/cultura/caixa-cultural-celebra-40-anos-do-axe-music-com-roda-de-conversa-sobre-wesley-rangel/" class="text-decoration-none text-dark">CAIXA Cultural celebra 40 anos do Axé Music com roda de conversa sobre Wesley Rangel</a>
+					    </h2>
+					    <p class="text-muted">
+					        <a href="https://muitainformacao.com.br/cultura/caixa-cultural-celebra-40-anos-do-axe-music-com-roda-de-conversa-sobre-wesley-rangel/" class="text-decoration-none text-muted">Exposição terá início na quarta-feira (15), e seguirá em exibição até 16 de março</a>
+					    </p>
+					    <hr>
+					    					</div>
+							        </div>
+		    </div>
+		</section>
+		
+		<section class="mt-5">
+		    <div class="container">
+			    <div class="row mt-1 d-none">
+				    <div class="col-md-12 col-11 mx-auto">
+					    <div class="bg-primary">
+						    <h2 class="text-white pt-5 px-2 fs-3 border-bottom border-5 border-gray bg-icon-opacity-5">Notícias com Muita Informação</h2>
+					    </div>
+				    </div>
+			    </div>
+			    <div class="row">
+				    <div class="col-md-8">
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                	<img onclick="window.location.href='https://muitainformacao.com.br/cultura/festa-dos-mares-no-principote-celebra-iemanja-com-jau-no-rio-vermelho/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Reproducao_principote-2-320x220.jpg" width="320" height="220" alt="Festa ‘Dos Mares’ no Principote celebra Iemanjá com Jau no Rio Vermelho - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/carnaval/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #c600c6!important">
+					                        Carnaval					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 22:30</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cultura/festa-dos-mares-no-principote-celebra-iemanja-com-jau-no-rio-vermelho/" class="text-decoration-none text-dark">Festa ‘Dos Mares’ no Principote celebra Iemanjá com Jau no Rio Vermelho</a></h3>
+					                    <p>Evento especial oferece experiência única de celebração religiosa e festiva&nbsp;beira-mar</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                	<img onclick="window.location.href='https://muitainformacao.com.br/cidades/cbpm-discute-avancos-da-mineracao-baiana-com-ministro-de-minas-e-energia-durante-missao-na-arabia-saudita/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/CBPM-320x220.jpg" width="320" height="220" alt="CBPM discute avanços da mineração baiana com ministro de Minas e Energia durante missão na Arábia Saudita - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					                        Cidades					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 22:00</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/cbpm-discute-avancos-da-mineracao-baiana-com-ministro-de-minas-e-energia-durante-missao-na-arabia-saudita/" class="text-decoration-none text-dark">CBPM discute avanços da mineração baiana com ministro de Minas e Energia durante missão na Arábia Saudita</a></h3>
+					                    <p>Presidente da CBPM, Henrique Carballal afirmou que a mineração baiana se tornou referência em práticas sustentáveis e inovação no setor mineral</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                	<img onclick="window.location.href='https://muitainformacao.com.br/cidades/conselho-de-transportes-aprova-aumento-da-passagem-de-onibus-em-feira-de-santana/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Reajuste-no-transporte-coletivo-e-concurso-publico-movimentam-Feira-de-Santana-320x220.jpg" width="320" height="220" alt="Conselho de Transportes aprova aumento da passagem de ônibus em Feira de Santana - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					                        Cidades					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 21:30</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/conselho-de-transportes-aprova-aumento-da-passagem-de-onibus-em-feira-de-santana/" class="text-decoration-none text-dark">Conselho de Transportes aprova aumento da passagem de ônibus em Feira de Santana</a></h3>
+					                    <p>Com o reajuste, valor das passagens passará de R$ 4,75 para R$ 5,15 para quem utiliza o cartão social Via Feira e para R$ 5,50 no pagamento em dinheiro</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                	<img onclick="window.location.href='https://muitainformacao.com.br/politica/luiz-caetano-defende-candidatura-de-wilson-cardoso-a-presidencia-da-upb/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Luiz-Caetano-3-320x220.jpg" width="320" height="220" alt="Luiz Caetano defende candidatura de Wilson Cardoso à presidência da UPB - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/politica/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white">
+					                        Política					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 21:00</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/politica/luiz-caetano-defende-candidatura-de-wilson-cardoso-a-presidencia-da-upb/" class="text-decoration-none text-dark">Luiz Caetano defende candidatura de Wilson Cardoso à presidência da UPB</a></h3>
+					                    <p>Candidatura do prefeito de Andaraí também foi defendida pelo senador Jaques Wagner (PT) e pelo presidente estadual do PT, Éden Valadares</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                	<img onclick="window.location.href='https://muitainformacao.com.br/politica/lula-sanciona-lei-que-restringe-uso-de-celular-em-escolas/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Oscar-2025-Indicacao-de-finalistas-e-adiada-novamente-devido-a-incendios-em-Los-Angeles-2-320x220.jpg" width="320" height="220" alt="Lula sanciona lei que restringe uso de celular em escolas - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/politica/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white">
+					                        Política					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 20:30</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/politica/lula-sanciona-lei-que-restringe-uso-de-celular-em-escolas/" class="text-decoration-none text-dark">Lula sanciona lei que restringe uso de celular em escolas</a></h3>
+					                    <p>Presidente destacou a importância da medida para a educação e elogiou a postura dos parlamentares</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                	<img onclick="window.location.href='https://muitainformacao.com.br/cidades/bruno-reis-anuncia-inicio-das-obras-de-200-unidades-do-minha-casa-minha-vida-em-salvador/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Bruno-Reis-anuncia-inicio-das-obras-do-Minha-Casa-Minha-Vida-em-Salvador-com-200-unidades-habitacionais-320x220.jpg" width="320" height="220" alt="Bruno Reis anuncia início das obras de 200 unidades do ‘Minha Casa, Minha Vida’ em Salvador - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					                        Cidades					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 20:00</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/bruno-reis-anuncia-inicio-das-obras-de-200-unidades-do-minha-casa-minha-vida-em-salvador/" class="text-decoration-none text-dark">Bruno Reis anuncia início das obras de 200 unidades do ‘Minha Casa, Minha Vida’ em Salvador</a></h3>
+					                    <p>Conforme o prefeito, a expectativa é que sejam iniciadas ainda em janeiro, após o cumprimento da última formalidade</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					</div>
+				    <div class="col-md-4">
+					    						        <div class="row">
+						            <div class="col-md-12 col-11 mx-auto">
+						                <div>
+						                    						                        <img onclick="window.location.href='https://muitainformacao.com.br/cultura/oscar-2025-indicacao-de-finalistas-e-adiada-novamente-devido-a-incendios-em-los-angeles/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Oscar-2025-Indicacao-de-finalistas-e-adiada-novamente-devido-a-incendios-em-Los-Angeles-320x220.jpg" width="400" height="280" alt="Oscar 2025: indicação de finalistas é adiada novamente devido a incêndios em Los Angeles - ">
+						                    						                    <div class="mt-2">
+						                        <!-- Título, categoria e resumo -->
+						                        <a href="https://muitainformacao.com.br/cultura/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #d96d00!important">
+						                            Cultura						                        </a> 
+						                        <small class="text-muted small">13/01/2025 às 19:30</small>
+						                        <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cultura/oscar-2025-indicacao-de-finalistas-e-adiada-novamente-devido-a-incendios-em-los-angeles/" class="text-decoration-none text-dark">Oscar 2025: indicação de finalistas é adiada novamente devido a incêndios em Los Angeles</a></h3>
+						                    </div>
+						                </div>
+						                <hr>
+						            </div>
+						        </div>
+												        <div class="row">
+						            <div class="col-md-12 col-11 mx-auto">
+						                <div>
+						                    						                        <img onclick="window.location.href='https://muitainformacao.com.br/cidades/enem-2024-registra-apenas-12-redacoes-nota-mil-menor-numero-da-historia/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Enem-2024-registra-12-notas-mil-na-redacao-com-destaque-para-escola-publica-em-Minas-Gerais-320x220.jpg" width="400" height="280" alt="Enem 2024 registra apenas 12 redações nota mil, menor número da história - ">
+						                    						                    <div class="mt-2">
+						                        <!-- Título, categoria e resumo -->
+						                        <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+						                            Cidades						                        </a> 
+						                        <small class="text-muted small">13/01/2025 às 19:02</small>
+						                        <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/enem-2024-registra-apenas-12-redacoes-nota-mil-menor-numero-da-historia/" class="text-decoration-none text-dark">Enem 2024 registra apenas 12 redações nota mil, menor número da história</a></h3>
+						                    </div>
+						                </div>
+						                <hr>
+						            </div>
+						        </div>
+						
+					    <div class="row mt-1 ">
+						    <div class="col-md-12 col-12  mx-auto">
+							    <div class="bg-info p-2 text-center">
+								    <!-- Executando exibir_banner --><div class="banner-container square-banner-400x400"><div class="banner-slide" data-tempo="20">  <a href="https://salvador.ba.gov.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-400x400px-ACOES-DA-PMS.gif" alt="PREFEITURA DE SALVADOR – Ações da Prefeitura Jan 2025 – Banner 400x400gif.">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://atakarejo.com.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/VERAO-ATAKAREJO-2025-BANNER-400x400px.gif" alt="ATAKAREJO – Verão 2025 – Banner 400×400.">  </a></div><div class="banner-slide" data-tempo="20">  <a href="https://ofertas.mouradubeux.com.br/rive-teaser?utm_source=Portal&amp;utm_medium=portal_muita_informacao_rive&amp;utm_campaign=portal_muita_informacao_rive&amp;utm_id=portal_muita_informacao_rive" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/BANNER-400x400-RIVE-1.gif" alt="MOURA DUBEUX – Rivê Rio Vermelho – 400×400">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://www.instagram.com/cosbatbluebay?igsh=MXRuaGoydWx2Mzd4dg==" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2024/11/Banner-Site-Gif-CB-site-400x400-1.gif" alt="COSBAT – Banner 400×400">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://www.fjs.org.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-300x250-TRABALHE-CONOSCO.jpg" alt="FUNDAÇÃO JOSÉ SILVEIRA – Venha Trabalhar Conosco – Banner 300×250.">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://empreendimentos.vivamood.com.br/mood-costa-azul-salvador?utm_source=muita_informacao_mood_costa_azul&amp;utm_medium=muita_informacao&amp;utm_campaign=muita_informacao&amp;utm_id=muita_informacao&amp;utm_term=muita_informacao&amp;utm_content=muita_informacao" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-400x400-MOOD-COSTA-AZUL.png" alt="MOURA DUBEUX – Mood Costa Azul – Banner 400x400png.">  </a></div></div>							    </div>
+						    </div>
+					    </div>
+					    <div class="row mt-1">
+						    <div class="col-md-12 col-11 mx-auto">
+							    <div class="bg-primary">
+								    <h2 class="text-white pt-5 px-2 fs-3 border-bottom border-5 border-gray bg-icon-opacity-5">Mais Lidas</h2>
+							    </div>
+						    </div>
+					    </div>
+					    <div class="row mt-1">
+						    <div class="col-md-12 col-11 mx-auto">
+							    								        <a href="https://muitainformacao.com.br/cultura/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #d96d00!important">
+								            Cultura								        </a> <small class="small text-muted">13/10/2024 às 02:00</small>
+								        <h3 class="fs-6 my-1 fw-bold"><a href="https://muitainformacao.com.br/cultura/cultura-artesa-de-maragogipinho-ganha-vida-em-adaptacao-de-livro-infantil/" class="text-decoration-none text-dark">Cultura artesã de Maragogipinho ganha vida em adaptação de livro infantil</a></h3>
+								        <hr>
+																        <a href="https://muitainformacao.com.br/vixe/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #d28e09!important">
+								            Vixe								        </a> <small class="small text-muted">11/09/2024 às 13:53</small>
+								        <h3 class="fs-6 my-1 fw-bold"><a href="https://muitainformacao.com.br/vixe/vixe-a-estrategia-de-guerra-de-brito-e-elmar-contra-lira-bruno-evita-clima-de-ja-ganhou-de-2022-geraldo-pega-ar-e-se-cala-sobre-mudanca-do-carnaval/" class="text-decoration-none text-dark">Vixe! A estratégia de guerra de Brito e Elmar contra Lira. Bruno evita clima de ‘já ganhou’ de 2022. Geraldo ‘pega ar’ e se cala sobre mudança do Carnaval</a></h3>
+								        <hr>
+																        <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+								            Cidades								        </a> <small class="small text-muted">10/06/2024 às 16:33</small>
+								        <h3 class="fs-6 my-1 fw-bold"><a href="https://muitainformacao.com.br/cidades/cidade-baiana-recebera-novo-campus-de-universidade-federal-saiba-qual/" class="text-decoration-none text-dark">Cidade baiana receberá novo campus de universidade federal; saiba qual</a></h3>
+								        <hr>
+														    </div>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+		</section>
+				<section class="mt-5">
+		    <div class="container">
+			    <div class="row ">
+				    <div class="col-md-12 col-12  mx-auto">
+					    <div class="bg-light p-4 text-center">
+						    <!-- Executando exibir_banner --><div class="banner-container full-banner-body-1140x130"><div class="banner-slide" data-tempo="10">  <a href="https://doe.irmadulce.org.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/BANNER-1140x130-1-MILHAO-DE-AMIGOS-OSIDpx.png" alt="IRMÃ DULCE – 1 Milhão de Amigos – 1140×130">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://www.casadeapostasfontenova.com.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-1140x130-ARENA-DE-GRANDES-MOMENTOS-pdf.jpg" alt="ARENA – Grandes Momentos – Banner 1140x130png.">  </a></div></div>					    </div>
+				    </div>
+			    </div>
+		    </div>
+		</section>
+				
+		<section class="mt-5 bg-light">
+		    <div class="container">
+			    <div class="row">
+				    <div class="col-md-12 col-11 mx-auto">
+					    <h2 class="text-secondary pt-5 px-2 fs-2 bg-icon-opacity-5 border-bottom border-5 border-gray">Cidades</h2>
+				    </div>
+			    </div>
+		    
+				<div class="row">
+												<div class="col-md-3">
+						    <div class="row">
+						        <div class="col-md-12 col-11 mx-auto">
+						            <div>
+						                						                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/programa-de-alfabetizacao-gratuito-para-jovens-e-adultos-inicia-inscricoes-para-2025/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Programa-de-Alfabetizacao--320x220.jpg" width="320" height="220" alt="Programa de alfabetização gratuito para jovens e adultos inicia inscrições para 2025 - ">
+						                						                <div class="mt-2">
+						                    <!-- Título, categoria e resumo -->
+						                    						                        <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+						                            Cidades						                        </a>
+						                    						                    <small class="text-muted small">13/01/2025 às 23:30</small>
+						                    <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/programa-de-alfabetizacao-gratuito-para-jovens-e-adultos-inicia-inscricoes-para-2025/" class="text-decoration-none text-dark">Programa de alfabetização gratuito para jovens e adultos inicia inscrições para 2025</a></h3>
+						                </div>
+						            </div>
+						        </div>
+						    </div>
+						</div>
+												<div class="col-md-3">
+						    <div class="row">
+						        <div class="col-md-12 col-11 mx-auto">
+						            <div>
+						                						                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/cbpm-discute-avancos-da-mineracao-baiana-com-ministro-de-minas-e-energia-durante-missao-na-arabia-saudita/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/CBPM-320x220.jpg" width="320" height="220" alt="CBPM discute avanços da mineração baiana com ministro de Minas e Energia durante missão na Arábia Saudita - ">
+						                						                <div class="mt-2">
+						                    <!-- Título, categoria e resumo -->
+						                    						                        <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+						                            Cidades						                        </a>
+						                    						                    <small class="text-muted small">13/01/2025 às 22:00</small>
+						                    <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/cbpm-discute-avancos-da-mineracao-baiana-com-ministro-de-minas-e-energia-durante-missao-na-arabia-saudita/" class="text-decoration-none text-dark">CBPM discute avanços da mineração baiana com ministro de Minas e Energia durante missão na Arábia Saudita</a></h3>
+						                </div>
+						            </div>
+						        </div>
+						    </div>
+						</div>
+												<div class="col-md-3">
+						    <div class="row">
+						        <div class="col-md-12 col-11 mx-auto">
+						            <div>
+						                						                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/conselho-de-transportes-aprova-aumento-da-passagem-de-onibus-em-feira-de-santana/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Reajuste-no-transporte-coletivo-e-concurso-publico-movimentam-Feira-de-Santana-320x220.jpg" width="320" height="220" alt="Conselho de Transportes aprova aumento da passagem de ônibus em Feira de Santana - ">
+						                						                <div class="mt-2">
+						                    <!-- Título, categoria e resumo -->
+						                    						                        <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+						                            Cidades						                        </a>
+						                    						                    <small class="text-muted small">13/01/2025 às 21:30</small>
+						                    <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/conselho-de-transportes-aprova-aumento-da-passagem-de-onibus-em-feira-de-santana/" class="text-decoration-none text-dark">Conselho de Transportes aprova aumento da passagem de ônibus em Feira de Santana</a></h3>
+						                </div>
+						            </div>
+						        </div>
+						    </div>
+						</div>
+												<div class="col-md-3">
+						    <div class="row">
+						        <div class="col-md-12 col-11 mx-auto">
+						            <div>
+						                						                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/bruno-reis-anuncia-inicio-das-obras-de-200-unidades-do-minha-casa-minha-vida-em-salvador/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Bruno-Reis-anuncia-inicio-das-obras-do-Minha-Casa-Minha-Vida-em-Salvador-com-200-unidades-habitacionais-320x220.jpg" width="320" height="220" alt="Bruno Reis anuncia início das obras de 200 unidades do ‘Minha Casa, Minha Vida’ em Salvador - ">
+						                						                <div class="mt-2">
+						                    <!-- Título, categoria e resumo -->
+						                    						                        <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+						                            Cidades						                        </a>
+						                    						                    <small class="text-muted small">13/01/2025 às 20:00</small>
+						                    <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/bruno-reis-anuncia-inicio-das-obras-de-200-unidades-do-minha-casa-minha-vida-em-salvador/" class="text-decoration-none text-dark">Bruno Reis anuncia início das obras de 200 unidades do ‘Minha Casa, Minha Vida’ em Salvador</a></h3>
+						                </div>
+						            </div>
+						        </div>
+						    </div>
+						</div>
+										</div>
+				
+				<div class="row mt-5">
+				    <div class="col-md-8">
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/enem-2024-registra-apenas-12-redacoes-nota-mil-menor-numero-da-historia/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/Enem-2024-registra-12-notas-mil-na-redacao-com-destaque-para-escola-publica-em-Minas-Gerais-320x220.jpg" width="320" height="220" alt="Enem 2024 registra apenas 12 redações nota mil, menor número da história - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					                        Cidades					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 19:02</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/enem-2024-registra-apenas-12-redacoes-nota-mil-menor-numero-da-historia/" class="text-decoration-none text-dark">Enem 2024 registra apenas 12 redações nota mil, menor número da história</a></h3>
+					                    <p>Apesar do recorde negativo, média nacional de redação aumentou 15 pontos em comparação ao ano anterior</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/bahia-apresenta-potencial-mineral-em-evento-global-na-arabia-saudita/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/divulgacao_CBPM-1-320x220.jpg" width="320" height="220" alt="CBPM participa de evento internacional para impulsionar mineração sustentável na Bahia - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					                        Cidades					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 18:38</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/bahia-apresenta-potencial-mineral-em-evento-global-na-arabia-saudita/" class="text-decoration-none text-dark">CBPM participa de evento internacional para impulsionar mineração sustentável na Bahia</a></h3>
+					                    <p>Estado busca atrair investimentos para mineração sustentável e fortalecimento da transição energética</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/nota-do-enem-descubra-como-funciona-calculo/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/enem_josecruz_agbrasil-320x220.jpg" width="320" height="220" alt="Nota do Enem: descubra como funciona cálculo&nbsp; - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					                        Cidades					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 14:05</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/nota-do-enem-descubra-como-funciona-calculo/" class="text-decoration-none text-dark">Nota do Enem: descubra como funciona cálculo&nbsp;</a></h3>
+					                    <p>Entenda como resultado influencia na entrada da universidade ou na conquista de bolsa pelo ProUni</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row">
+					        <div class="col-md-12 col-11 mx-auto">
+					            <div class="d-flex align-items-start mb-3">
+					                					                    <img onclick="window.location.href='https://muitainformacao.com.br/cidades/bruno-reis-detalha-acoes-de-enfrentamento-as-chuvas-e-investimentos-em-infraestrutura/';" style="cursor: pointer;" class="img-fluid me-3" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/reproducao_brunoreis_equipeMM-1-320x220.jpg" width="320" height="220" alt="Bruno Reis detalha ações de enfrentamento às chuvas e investimentos em infraestrutura - ">
+					                					                <div>
+					                    <!-- Título, categoria e resumo -->
+					                    <a href="https://muitainformacao.com.br/cidades/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white" style="background-color: #660000!important">
+					                        Cidades					                    </a> 
+					                    <small class="text-muted small">13/01/2025 às 12:11</small>
+					                    <h3 class="fs-4 mt-2 fw-bold"><a href="https://muitainformacao.com.br/cidades/bruno-reis-detalha-acoes-de-enfrentamento-as-chuvas-e-investimentos-em-infraestrutura/" class="text-decoration-none text-dark">Bruno Reis detalha ações de enfrentamento às chuvas e investimentos em infraestrutura</a></h3>
+					                    <p>Assim como outros 50 municípios baianos, a capital enfrenta, desde sexta, fortes chuvas que já superaram média esperada para janeiro</p>
+					                </div>
+					            </div>
+					            <hr>
+					        </div>
+					    </div>
+					    					    <div class="row pt-2 pb-4">
+						    <div class="col-md-12 col-11 mx-auto text-center">
+							    <a class="btn btn-outline-secondary btn-sm text-uppercase" href="/cidades/">Ver Mais Notícias de Cidades</a>
+						    </div>
+					    </div>
+					</div>
+				    <div class="col-md-4">
+					    <div class="row mt-1">
+						    <div class="col-md-12 col-11 mx-auto">
+							    <div class="bg-primary">
+								    <h2 class="text-white pt-5 px-2 fs-3 border-bottom border-5 border-gray bg-icon-opacity-5">Política</h2>
+							    </div>
+						    </div>
+					    </div>
+					    						        <div class="row">
+						            <div class="col-md-12 col-11 mx-auto">
+					                    <div class="mt-2">
+					                        <!-- Título, categoria e resumo -->
+					                        <a href="https://muitainformacao.com.br/politica/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white">
+					                            Política					                        </a> 
+					                        <small class="text-muted small">14/01/2025 às 07:00</small>
+					                        <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/politica/sidonio-palmeira-toma-posse-como-ministro-da-secom-nesta-terca-feira/" class="text-decoration-none text-dark">Sidônio Palmeira toma posse como ministro da Secom nesta terça-feira</a></h3>
+					                    </div>
+						                <hr>
+						            </div>
+						        </div>
+												        <div class="row">
+						            <div class="col-md-12 col-11 mx-auto">
+					                    <div class="mt-2">
+					                        <!-- Título, categoria e resumo -->
+					                        <a href="https://muitainformacao.com.br/politica/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white">
+					                            Política					                        </a> 
+					                        <small class="text-muted small">13/01/2025 às 21:00</small>
+					                        <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/politica/luiz-caetano-defende-candidatura-de-wilson-cardoso-a-presidencia-da-upb/" class="text-decoration-none text-dark">Luiz Caetano defende candidatura de Wilson Cardoso à presidência da UPB</a></h3>
+					                    </div>
+						                <hr>
+						            </div>
+						        </div>
+												        <div class="row">
+						            <div class="col-md-12 col-11 mx-auto">
+					                    <div class="mt-2">
+					                        <!-- Título, categoria e resumo -->
+					                        <a href="https://muitainformacao.com.br/politica/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white">
+					                            Política					                        </a> 
+					                        <small class="text-muted small">13/01/2025 às 20:30</small>
+					                        <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/politica/lula-sanciona-lei-que-restringe-uso-de-celular-em-escolas/" class="text-decoration-none text-dark">Lula sanciona lei que restringe uso de celular em escolas</a></h3>
+					                    </div>
+						                <hr>
+						            </div>
+						        </div>
+												        <div class="row">
+						            <div class="col-md-12 col-11 mx-auto">
+					                    <div class="mt-2">
+					                        <!-- Título, categoria e resumo -->
+					                        <a href="https://muitainformacao.com.br/politica/" class="badge bg-primary mt-3 text-uppercase fw-lighter text-decoration-none text-white">
+					                            Política					                        </a> 
+					                        <small class="text-muted small">13/01/2025 às 17:07</small>
+					                        <h3 class="fs-6 mt-2 fw-bold"><a href="https://muitainformacao.com.br/politica/deputados-baianos-irao-a-posse-de-donald-trump-nos-eua/" class="text-decoration-none text-dark">Deputados baianos irão à posse de Donald Trump nos EUA</a></h3>
+					                    </div>
+						                <hr>
+						            </div>
+						        </div>
+												
+						<div class="row pt-2 pb-4">
+						    <div class="col-md-12 col-11 mx-auto text-center">
+							    <a class="btn btn-outline-secondary btn-sm text-uppercase" href="/politica/">Ver Mais Notícias de Política</a>
+						    </div>
+					    </div>
+
+					    <div class="row mt-1 ">
+						    <div class="col-md-12 col-12  mx-auto">
+							    <div class="bg-info p-2 text-center">
+								    <!-- Executando exibir_banner --><div class="banner-container square-banner-400x400"><div class="banner-slide" data-tempo="10">  <a href="https://empreendimentos.vivamood.com.br/mood-costa-azul-salvador?utm_source=muita_informacao_mood_costa_azul&amp;utm_medium=muita_informacao&amp;utm_campaign=muita_informacao&amp;utm_id=muita_informacao&amp;utm_term=muita_informacao&amp;utm_content=muita_informacao" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-400x400-MOOD-COSTA-AZUL.png" alt="MOURA DUBEUX – Mood Costa Azul – Banner 400x400png.">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://www.fjs.org.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-300x250-TRABALHE-CONOSCO.jpg" alt="FUNDAÇÃO JOSÉ SILVEIRA – Venha Trabalhar Conosco – Banner 300×250.">  </a></div><div class="banner-slide" data-tempo="20">  <a href="https://salvador.ba.gov.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/BANNER-400x400px-ACOES-DA-PMS.gif" alt="PREFEITURA DE SALVADOR – Ações da Prefeitura Jan 2025 – Banner 400x400gif.">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://www.instagram.com/cosbatbluebay?igsh=MXRuaGoydWx2Mzd4dg==" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2024/11/Banner-Site-Gif-CB-site-400x400-1.gif" alt="COSBAT – Banner 400×400">  </a></div><div class="banner-slide" data-tempo="20">  <a href="https://ofertas.mouradubeux.com.br/rive-teaser?utm_source=Portal&amp;utm_medium=portal_muita_informacao_rive&amp;utm_campaign=portal_muita_informacao_rive&amp;utm_id=portal_muita_informacao_rive" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2024/10/BANNER-400x400-RIVE-1.gif" alt="MOURA DUBEUX – Rivê Rio Vermelho – 400×400">  </a></div><div class="banner-slide" data-tempo="10">  <a href="https://atakarejo.com.br/" target="_blank">      <img class="img-fluid" src="https://muitainformacao.com.br/wp-content/uploads/2025/01/VERAO-ATAKAREJO-2025-BANNER-400x400px.gif" alt="ATAKAREJO – Verão 2025 – Banner 400×400.">  </a></div></div>							    </div>
+						    </div>
+					    </div>
+					    
+				    </div>
+			    </div>
+			</div>
+		</section>
+	                
+    <footer class="bg-info mt-5">
+	<div class="container">
+		<div class="row py-5 align-items-center">
+			<div class="col-md-6 col-11 mx-auto text-center text-md-start">
+				<div class="row">
+					<div class="col-md-12 col-11 mx-auto text-center text-md-start">
+						<a href="https://api.whatsapp.com/send?phone=5571999239387&amp;text=Ol%C3%A1." class="text-decoration-none">
+						<div class="d-flex align-items-center text-white">
+					    	<i class="fa-brands fs-2 me-4 fa-whatsapp"></i>
+						    <div>
+						        <span>Envie sua mensagem</span><br>
+						        <strong class="fs-4">(71) 99923-9387</strong>
+						    </div>
+						</div>
+						</a>
+					</div>
+				</div>
+				<div class="row py-4">
+					<div class="col-md-12 text-center text-md-start">
+						<strong class="fw-lighter">siga nossas redes sociais</strong>
+                        <a href="https://facebook.com/muitainformacao" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-facebook"></i>
+                        </a>
+                        <a href="https://www.instagram.com/portalmuitainformacao" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-instagram"></i>
+                        </a>
+                        <a href="https://twitter.com/informacaomuita" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-x-twitter"></i>
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCOg6a9ii6q403d0yjnTvH5A" target="_blank" class="btn p-0 ms-2 btn-white text-primary border-0">
+                            <i class="fa-brands fs-5 fa-youtube"></i>
+                        </a>
+                    </div>
+				</div>
+			</div>
+			<div class="col-md-6 col-10 my-3 mx-auto text-md-end text-center">
+				<img src="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/images/logotipo-muita-informacao.svg" alt=" - Página não encontrada -" width="200" class="img-fluid">
+			</div>
+		</div>
+				<hr class="bg-light mb-0 pb-0">
+		<div class="row">
+			<div class="col-12">
+				<nav class="navbar navbar-expand-lg bg-info">
+                    <button class="navbar-toggler navbar-toggler-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                        <i class="fa-solid fa-bars text-white"></i>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarPrimary">
+                        <ul id="menu-menu-principal-1" class="navbar-nav custom-nav fs-6 me-auto mb-lg-0" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7647 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/ultimas-noticias/" class="nav-link"><span class="fw-bold" itemprop="name">Últimas notícias</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56708 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/carnaval/" class="nav-link"><span class="fw-bold" itemprop="name">Carnaval 2025</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37392 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/politica/" class="nav-link"><span class="fw-bold" itemprop="name">Política</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37386 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/cidades/" class="nav-link"><span class="fw-bold" itemprop="name">Cidades</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37393 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/saude/" class="nav-link"><span class="fw-bold" itemprop="name">Saúde</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37388 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/cultura/" class="nav-link"><span class="fw-bold" itemprop="name">Cultura</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37394 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/vixe/" class="nav-link"><span class="fw-bold" itemprop="name">Vixe</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37391 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/negocios/" class="nav-link"><span class="fw-bold" itemprop="name">Negócios</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37385 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/artigos/" class="nav-link"><span class="fw-bold" itemprop="name">Artigos</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37390 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/inspiracao/" class="nav-link"><span class="fw-bold" itemprop="name">Inspiração</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37387 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/coluna-ohh/" class="nav-link"><span class="fw-bold" itemprop="name">Coluna Ohh!</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56709 nav-item"><a itemprop="url" href="https://muitainformacao.com.br/eleicoes-2024/" class="nav-link"><span class="fw-bold" itemprop="name">Eleições 2024</span></a></li>
+</ul>                    </div>
+                </nav>
+			</div>
+		</div>
+			</div>
+	<div class="bg-primary">
+		<div class="container">
+			<div class="row align-items-center py-5">
+				<div class="col-md-6 col-10 text-md-start text-center text-white small">
+					© Copyright 2024-2025 - Muita Informação
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+</div>
+
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" defer="" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    	<script>
+	    // Passando os IDs dos vídeos para o JavaScript
+	    const videos = [];
+	    const videoIds = videos.map(video => video.video_id);
+	</script>
+    <script src="https://muitainformacao.com.br/wp-content/themes/muitainformacao/assets/js/custom.js" defer=""></script>
+    
+
+</body></html>

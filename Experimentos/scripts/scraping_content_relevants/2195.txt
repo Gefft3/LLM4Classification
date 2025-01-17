@@ -1,0 +1,1032 @@
+<html><head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Portal Oficial da Prefeitura Municipal de Campos dos Goytacazes</title>
+	<meta name="description" content="Portal Oficial da Prefeitura Municipal de Campos dos Goytacazes">
+    <meta name="keywords" content="prefeitura, cidade, concurso, mapas da cidade, diário oficial, notícias, campos, campos dos goytacazes ">
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+	<link rel="stylesheet" href="/css/font.css">
+	<link rel="stylesheet" href="/css/bootstrap.css">
+	<link rel="stylesheet" href="/css/bootstrap-theme.css">
+	<link rel="stylesheet" href="/css/simpleplaylist.css">
+        <link rel="stylesheet" href="/css/font-awesome.css">
+        <link rel="stylesheet" href="/css/validationEngine.jquery.css">
+        <link rel="stylesheet" href="/css/juicyslider-min.css">
+		<link rel="stylesheet" href="/css/weather-icons.css">
+        <link rel="stylesheet" href="/css/print_detail.css" media="print">
+        
+	<link rel="stylesheet" href="css/blueimp-gallery.min.css">
+
+        <link rel="stylesheet" href="/css/style.css">
+        <script src="/js/helpers/helpers.js"></script>
+        <script src="/js/libs/jquery.js"></script>
+         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
+	<script src="/js/libs/bootstrap.js"></script>
+        <script src="/js/p.print.js"></script>
+        <script src="/js/jquery.validationEngine.js"></script>
+        <script src="/js/languages/jquery.validationEngine-pt_BR.js"></script>
+       
+        <script src="/js/juicyslider.js"></script>
+        <script src="/js/simpleplaylist.js"></script>
+        <script src="/js/jquery.sharrre.js"></script>
+	<script src="/js/script-all.js"></script>
+	
+	<script async="" src="js/responsive-switch.min.js"></script> 
+	<script src="js/blueimp-gallery.min.js"></script>
+
+	
+
+
+
+<link rel="manifest" href="/manifest.json">
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+
+
+
+    OneSignal.push(["init", {
+      appId: "16f931a0-121e-4e16-b054-f28a2893521a",
+      autoRegister: true,
+      notifyButton: {
+        enable: false, /* Set to false to hide */
+
+    text: {
+            'tip.state.unsubscribed': 'Assine as notificações do Portal',
+            'tip.state.subscribed': "Você está inscrito para receber notificações",
+            'tip.state.blocked': "Você bloqueou suas notificações",
+            'message.prenotify': 'Click para assinar as notificações',
+            'message.action.subscribed': "Obrigado por se inscrever!",
+            'message.action.resubscribed': "Você está inscrito para receber notificações",
+            'message.action.unsubscribed': "Você não receberá notificações novamente",
+            'dialog.main.title': 'Gerenciar Notificações',
+            'dialog.main.button.subscribe': 'Inscrever',
+            'dialog.main.button.unsubscribe': 'Remover Inscrição',
+            'dialog.blocked.title': 'Bloquear notificações',
+            'dialog.blocked.message': "Siga as instruções para receber notificações do Portal:"
+        },
+   
+   },
+
+ 
+    httpPermissionRequest: {
+        enable: true,
+        useCustomModal: false,
+        modalTitle: 'Obrigado por se inscrever!',
+        modalMessage: "Agora você está inscrito nas notificações do Portal.",
+        modalButtonText: 'Fechar'
+
+      },
+
+
+    }]);
+
+OneSignal.push(function() {
+  OneSignal.registerForPushNotifications({
+    modalPrompt: false
+  });
+});
+
+
+
+  </script>
+<!--
+ <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "16f931a0-121e-4e16-b054-f28a2893521a",
+      autoRegister: true, /* Set to true to automatically prompt visitors */
+       welcomeNotification: {
+        disable: true
+    }, 
+
+ 
+      httpPermissionRequest: {
+        enable: true,
+        useCustomModal: false,
+        modalTitle: 'Obrigado por se inscrever!',
+        modalMessage: "Agora você está inscrito nas notificações do Portal.",
+        modalButtonText: 'Fechar'
+
+      },
+      notifyButton: {
+          enable: false, /* Set to false to hide */
+
+    text: {
+            'tip.state.unsubscribed': 'Assine as notificações do Portal',
+            'tip.state.subscribed': "Você está inscrito para receber notificações",
+            'tip.state.blocked': "Você bloqueou suas notificações",
+            'message.prenotify': 'Click para assinar as notificações',
+            'message.action.subscribed': "Obrigado por se inscrever!",
+            'message.action.resubscribed': "Você está inscrito para receber notificações",
+            'message.action.unsubscribed': "Você não receberá notificações novamente",
+            'dialog.main.title': 'Gerenciar Notificações',
+            'dialog.main.button.subscribe': 'Inscrever',
+            'dialog.main.button.unsubscribe': 'Remover Inscrição',
+            'dialog.blocked.title': 'Bloquear notificações',
+            'dialog.blocked.message': "Siga as instruções para receber notificações do Portal:"
+        }   
+}
+    }]);
+
+
+OneSignal.push(function() {
+  OneSignal.getUserId().then(function(userId) {
+    console.log("OneSignal User ID:", userId);
+  });
+});
+
+  </script>
+
+
+-->
+
+
+<!--
+<script async src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1429866-1";
+urchinTracker();
+</script>
+-->
+
+
+        
+    
+	
+	<meta property="og:title" content="Hemocentro de Campos participa de importante pesquisa em parceria com a Fiocruz ">
+      <meta property="og:type" content="article">
+      <meta property="og:site_name" content="Portal Campos - RJ">
+	  <meta property="og:description" content="Em parceria com o Instituto Oswaldo Cruz, Fiocruz, o Hemocentro Regional de Campos trouxe a Infectologista e Pesquisadora, Elba Lemos, para acompanhar as atividades de um estudo sobre agentes infeccio ...">
+	  <meta property="og:image" content="https://www.campos.rj.gov.br/app/assets/noticias/with-201782?w=550&amp;h=400&amp;crop=fit">
+	  <meta property="og:image:type" content="image/jpeg">
+
+	  <link rel="image_src" href="https://www.campos.rj.gov.br/app/assets/noticias/with-201782?w=550&amp;h=400&amp;crop=fit">
+	  
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-1429866-1","auto");ga("send","pageview");</script></head>
+<body>
+	   <nav class="navbar navbar-default navbar-fixed-top navbar-campos" role="navigation">
+		  <div class="container">
+		    <!-- Brand and toggle get grouped for better mobile display -->
+		    <div class="navbar-header">
+		      <button type="button" class="navbar-toggle search" data-toggle="collapse" data-target="#div1">
+			      &nbsp;<span class="sr-search fa fa-search"></span>&nbsp;
+
+			  </button>
+			  
+			  
+			  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		        <span class="sr-only">Toggle navigation</span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+                            		      </button>
+			  <div class="logo-marca">
+              <a class="logo" href="/" data-toggle="tooltip" data-placement="bottom" title="Página Inicial">
+                 <img src="/img/novalogo.png" alt="" id="imgLogo">
+		      </a>
+			  </div>
+			  
+		    </div>
+			<div id="div1" isshow="false" class="collapse">
+			   				<form method="get" action="search.php" class="navbar-form navbar-right" role="search">
+					<i class="glyphicon glyphicon-search icon-search-form"></i>
+					   <div class="form-group">
+						 <input type="text" class="form-control search-control" name="s" placeholder="DIGITE SUA PESQUISA">
+					   </div>
+					  <!-- <button type="submit" class="btn btn-search" hidden="hidden">Buscar</button> -->
+				</form>
+				<span class="separator-brand pull-right"></span>
+			</div>
+
+		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		      <ul class="nav navbar-nav" id="ng-navigation">
+		         <li class="dropdown ">
+		          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Prefeitura <b class="caret"></b></a>
+		          <ul class="dropdown-menu">
+		               <li><a href="./organograma.php">Organograma</a></li>  
+  			     <!-- <li><a href="/calendarioPag.php">CALENDÁRIO DE PAGAMENTO</a></li> -->
+                          <li><a href="/lista-orgaos.php">Lista de Órgãos</a></li>
+                          <li><a href="https://leismunicipais.com.br/prefeitura/rj/campos-dos-goytacazes">Lista de Leis municipais</a></li>
+		            <li><a href="/licitacoes.php">Avisos e Editais de Licitações</a></li>
+                            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeur9WlF2X6-wmwIy8GglfbLHcdTp2RFC35jQSy7zB-kX10uA/viewform" target="_blank">Cadastro de Fornecedores</a></li>
+		            <li><a href="/diario-oficial.php">Diário Oficial</a></li>
+                          <li><a href="https://www.campos.rj.gov.br/arquivos/LeiOrganicaDoMunicipio.pdf">Lei Orgânica</a></li>
+                          <li><a href="https://leismunicipais.com.br/a1/codigo-tributario-campos-dos-goytacazes-rj" target="_blank">Código Tributário</a></li>
+		            <li><a href="/plano-diretor.php">Planos Municipais</a></li>
+                            <li><a href="https://www.campos.rj.gov.br/arquivos/Docs/ValorUFICA_2024.pdf" target="_blank">Unidade Fiscal do Município - UFICA</a></li>
+                            <!-- <li><a href="https://www.campos.rj.gov.br/newdocs/1542233062PERFILCAMPOS2018.pdf" target="_blank" >Anuário - 2018</a></li> -->
+                            <!-- <li><a href="https://www.campos.rj.gov.br/newdocs/1530125150CartilhadeOrientacaoAgentesPublicos.pdf" target="_blank">ELEIÇÕES - ORIENTAÇÃO AOS AGENTES PÚBLICOS</a></li> -->
+		          </ul>
+		        </li>
+                        
+		        <li class="dropdown ">
+		          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Notícias <b class="caret"></b></a>
+		          <ul class="dropdown-menu">
+		            <li><a href="/destaques-noticias.php">Destaques</a></li>
+		            <li><a href="/categorias-noticias.php">Categorias</a></li>
+		            <li><a href="/ultimas-noticias.php">Últimas</a></li>
+		          </ul>
+		        </li>
+		       
+                       
+              <li class="dropdown ">
+		          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Multimídia <b class="caret"></b></a>
+		          <ul class="dropdown-menu">
+		            <li><a href="https://www.facebook.com/pg/PrefCamposdosGoytacazes/photos/?ref=page_internal">Fotos Prefeitura</a></li>
+		            <li><a href="https://www.facebook.com/pg/PrefCamposdosGoytacazes/videos/?ref=page_internal">Vídeos Prefeitura</a></li>
+                            <li><a href="https://www.youtube.com/user/portalcampos" target="_blank">Canal YouTube</a></li>
+		           
+		          </ul>
+		        </li>
+                        
+
+                   <li class="dropdown ">
+		          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Informações <b class="caret"></b></a>
+		          <ul class="dropdown-menu">
+		            <li><a href="http://www.campos.rj.gov.br/arquivos/Docs/EQUIPAMENTOS-SMDHS-CRAS-CREAS.pdf" target="_blank">ATENDIMENTOS: SMDHS / CRAS / CREAS</a></li>
+                            <li><a href="https://www.campos.rj.gov.br/pmcg-minhacasa.php" target="_self">BENEFICIÁRIOS DO MINHA CASA MINHA VIDA</a></li>
+			    <li><a href="https://www.campos.rj.gov.br/newdocs/1566948583ProtocolodeAssistenciaPreNatal.pdf" target="_blank">PROTOCOLO DE ASSISTÊNCIA: PRÉ-NATAL, PARTO E PUERPÉRIO</a></li>
+                            <li><a href="https://www.campos.rj.gov.br/arquivos/Docs/CamposConselhosMunicipais.pdf" target="_blank">CONSELHOS MUNICIPAIS</a></li>
+                            <li><a href="/pmcg-conselhos.php" target="_self">CONSELHOS TUTELARES</a></li>
+                            <li><a href="/pmcg-mulher.php" target="_self">REDE DE ATENDIMENTO À MULHER</a></li>
+                            <li><a href="https://www.campos.rj.gov.br/arquivos/Docs/CartilhaProjetoFortaleSerFMIJ.pdf" target="_blank">Cartilha FortaleSER/FMIJ</a></li>
+                            <li><a href="/mapas-municipais.php">Mapas Municipais</a></li>
+		            <li><a href="/sites-prefeitura.php">Sites da Prefeitura</a></li>
+                            <li><a href="/telefones-uteis.php">Telefones Úteis</a></li>
+                            <li><a href="/logos-hinos-manual.php">Identidade Visual / Hino</a></li>
+		          </ul>
+		        </li>
+                        <li class="">
+		          <a href="/servicos.php">Serviços</a>	          
+		        </li>
+		        
+		          
+		          
+		            <li class=""><a href="https://sistema.ouvidorias.gov.br/publico/RJ/CamposdosGoytacazes/Manifestacao/RegistrarManifestacao" target="_blank">Ouvidoria Geral</a></li>
+		      </ul>
+			  			   <div class="desktop-search-box">
+		      				<form method="get" action="search.php" class="navbar-form navbar-right" role="search">
+					<i class="glyphicon glyphicon-search icon-search-form"></i>
+					   <div class="form-group">
+						 <input type="text" class="form-control search-control" name="s" placeholder="DIGITE SUA PESQUISA">
+					   </div>
+					  <!-- <button type="submit" class="btn btn-search" hidden="hidden">Buscar</button> -->
+				</form>
+				<span class="separator-brand pull-right"></span>
+			  </div>
+			  			  
+			  <button type="button" class="inavbar-toggle btn btn-xs btn-default" style="margin-top:13px;" data-toggle="iwcollapse" data-target="#cBoSearch">
+			      &nbsp;<span class="sr-search fa fa-search"></span>&nbsp;
+
+			  </button>
+              		    </div><!-- /.navbar-collapse -->
+		  </div><!-- /.container-fluid -->
+		</nav>
+		
+		<div id="cBoSearch" isshow="false">
+			   				<form method="get" action="search.php" class="navbar-form navbar-right" role="search">
+					<i class="glyphicon glyphicon-search icon-search-form"></i>
+					   <div class="form-group">
+						 <input type="text" class="form-control search-control" name="s" placeholder="DIGITE SUA PESQUISA">
+					   </div>
+					  <!-- <button type="submit" class="btn btn-search" hidden="hidden">Buscar</button> -->
+				</form>
+				<span class="separator-brand pull-right"></span>
+	    </div>
+
+<div style="width: 100%; height: auto;">
+
+
+<!-- BOX PUBLICIDADE -->
+                                                      
+<div id="banner-publicidade" class="carousel slide" data-interval="9500" data-ride="carousel">
+<!-- Wrapper for slides -->
+
+  <ol style="bottom: -10px" class="carousel-indicators">
+    <li data-target="#banner-publicidade" data-slide-to="0" class="active"></li>
+    <li data-target="#banner-publicidade" data-slide-to="1"></li>
+    <li data-target="#banner-publicidade" data-slide-to="2"></li>
+    <li data-target="#banner-publicidade" data-slide-to="3"></li>
+    <li data-target="#banner-publicidade" data-slide-to="4"></li>
+    <li data-target="#banner-publicidade" data-slide-to="5"></li>
+    <li data-target="#banner-publicidade" data-slide-to="6"></li>
+    <li data-target="#banner-publicidade" data-slide-to="7"></li>
+       </ol>
+                                                          
+<div class="carousel-inner ">
+
+<div class="item active">
+<a href="https://tributos.campos.rj.gov.br:8084/imobiliarioGateway/#/guia-campos" target="_blank"><img src="../img/banner-publicidade/topo_iptu2025.gif" width="100%" height="100%" alt="IPTU 2025"></a>
+</div>
+
+
+<div class="item">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeP_muTEk8AYU1X2UDJl2BYDeJ2gfpb9wgtahFu9rzJ_Vm2BQ/viewform?pli=1" target="_blank"><img src="../img/banner-publicidade/topo_IIconfeMeioAmbiente.gif" width="100%" height="100%" alt="CONFERÊNCIA MUNICIPAL DO MEIO AMBIENTE"></a>
+</div>
+
+
+<div class="item">
+<a href="https://www.pae-seduct-campos.com/processos-seletivos" target="_blank"><img src="../img/banner-publicidade/topo_proc.seletivo2025.gif" width="100%" height="100%" alt="PROCESSO SELETIVO 2025"></a>
+</div>
+
+
+
+<div class="item">
+<a href="https://www.pae-seduct-campos.com/matricula" target="_blank"><img src="../img/banner-publicidade/topo_proc.matricula2025.gif" width="100%" height="100%" alt="PROCESSO DE MATRÍCULA 2025"></a>
+</div>
+
+
+<div class="item">
+<a href="https://www.campos.rj.gov.br/pmcg-chamamento.php" target="_self"><img src="../img/banner-publicidade/topo_chamamentoagri.gif" width="100%" height="100%" alt="CHAMAMENTO PÚBLICO AGRICULTURA FAMILIAR"></a>
+</div>
+
+
+<!-- <div class="item">
+<a href="https://forms.office.com/r/mhwL6tqLqD" target="_blank"><img src="../img/banner-publicidade/topo_capacitalicitanet.gif" width="100%" height="100%"
+								      alt="CAPACITAÇÃO FORNECEDORES PMCG" ></a>
+</div> -->
+
+
+<div class="item">
+<a href="https://saude.campos.rj.gov.br/testecovid/precadastro" target="_blank"><img src="../img/banner-publicidade/topo_teste-covid.gif" width="100%" height="100%" alt="AGENDAMENTO TESTE COVID"></a>
+</div>
+
+
+<!-- <div class="item">
+<a href="https://www.campos.rj.gov.br/app/assets/docs/licitacao/3/8988" target="_blank"><img src="../img/banner-publicidade/topo_credenciamentosaude.gif" width="100%" height="100%"
+	
+							      alt="CREDENCIAMENTO SAÚDE" ></a>
+</div> -->
+
+
+<!-- <div class="item">
+
+<a href="https://saude.campos.rj.gov.br/atendimentonucleo" target="_blank"><img src="../img/banner-publicidade/topo_nucleoavalia.gif" width="100%" height="100%"
+	
+							      alt="CONTROLE E AVALIAÇÃO SAÚDE" ></a>
+</div> -->
+
+
+<div class="item">
+<a href="https://www.campos.rj.gov.br/app/assets/diario-oficial/link/5787" target="_blank"><img src="../img/banner-publicidade/topo_cemiterio.gif" width="100%" height="100%" alt="AUDIÊNCIA PÚBLICA CEMITÉRIOS"></a>
+</div>
+
+
+<div class="item">
+<a href="https://campos.mitraonline.com.br/plantaonline/manuais.php" target="_blank"><img src="../img/banner-publicidade/topo_PlantaOnline.gif" width="100%" height="100%" alt="PLANTA ON-LINE"></a>
+</div>
+
+
+<!--  <div class="item">
+<a href="https://social.campos.rj.gov.br/index.php/relacao-de-beneficiarios-cartao-goitaca/" target="_blank"><img src="../img/banner-publicidade/topo_cartgoitaca.gif" width="100%" height="100%"
+								      alt="CARTÃO GOITACÁ" ></a>
+</div> -->
+
+
+<!-- <div class="item">
+<a href="https://www.campos.rj.gov.br/pmcg_verao2022.php" target="_self"><img src="../img/banner-publicidade/topo_verao2022.gif" width="100%" height="100%"
+								      alt="PROGRAMAÇÃO VERÃO 2022" ></a>
+</div> -->
+
+
+<!-- <div class="item">
+<a href="https://campos.rj.gov.br/iptu2021/" target="_blank"><img src="../img/banner-publicidade/topo_iptucomp.gif" width="100%" height="100%"
+								      alt="IPTU COMPLEMENTAR" ></a>
+
+</div>  -->
+
+
+</div>
+<!-- END BOX PUBLICIDADE -->
+
+
+
+
+<!-- <a href="#" target="_self"><img src="../img/banner-publicidade/topo-capasite.gif" width="100%" height="100%"alt="Plano de Retomada - Campos" ></a> -->
+
+<!--<a href="https://campos.rj.gov.br/iptu2022/" target="_blank"><img src="../img/banner-publicidade/topo_iptu2021.gif" width="100%" height="100%"alt="Plano de Retomada - Campos" ></a> -->
+
+
+                    </div>
+
+ 
+<div class="container-fluid site-page margin-top-50">
+    <!-- BOX CARROUSSEL -->
+    <div class="box-fluid-carrousel cbanners">
+        <div class="container">
+            <div id="banner-full-container" class="carousel slide box-campo-carrousel" data-interval="4000" data-ride="carousel">
+                <!-- Indicators -->
+
+
+                         </div>   
+        </div>
+    </div>  
+    <div class="box-fluid-midia-social">
+        <div class="bg-fluid-midia-social"></div>
+
+        <div class="container container-midia ">
+          <span class="shadows-midia-social  shadow-left"></span>
+         
+           <div class="col-xs-12 box-container-midia">
+                <div class="date-label">
+                    <span class="day">14</span>
+                    <span class="month-year">
+                        Janeiro de 2025                    </span>
+                </div>
+				  <div class="services-info-label">
+					<a href="https://webmail.campos.rj.gov.br/" target="_blank" data-toggle="tooltip" title="Acesse o novo sistema de webmail" data-animation="true" class="media-icons webemail"><span>Webmail</span></a>
+                </div>
+                <span class="separator-midia"></span>
+
+                <div class="box-icons-media">
+                   <a href="https://www.facebook.com/PrefCamposdosGoytacazes" target="_blank" data-toggle="tooltip" title="Curta nossa página no facebook" data-animation="true" class="media-icons facebook"><span>Facebook</span></a>
+
+
+                     <a href="https://twitter.com/prefcampos" target="_blank" data-toggle="tooltip" title="Siga-nos no twitter" data-animation="true" class="media-icons twitter"><span>twitter</span></a>
+                     <a href="http://www.campos.rj.gov.br/rss.php" target="_blank" data-toggle="tooltip" title="Assine nosso feed" data-animation="true" class="media-icons rss"><span>rss</span></a> 
+                   <a href="http://www.youtube.com/user/portalcampos" target="_blank" data-toggle="tooltip" title="Veja nosso canal no youtube" data-animation="true" class="media-icons youtube"><span>youtube</span></a>
+
+                </div> 
+
+
+            </div>
+            
+            <span class="shadows-midia-social shadow-right"></span>
+           
+        </div>
+        
+    </div>    
+	
+		
+	    <div class="container site-page-content"> 
+              <div class="row"> 
+      <div class="col-md-8">
+      
+
+
+
+<div class="text-header margin-bottom-15">
+    <h3>Notícia <small> no detalhe </small></h3>
+    <span class="border-estilo"></span>
+</div>
+
+<div class="box-detail-noticia" id="print-frame-preview">
+
+    <div class="row">
+       
+        <div class="col-md-12">
+            <h1>Hemocentro de Campos participa de importante pesquisa em parceria com a Fiocruz </h1>
+           <p class="materia" style="font-size: 16px;">Objetivo do estudo é pesquisar patogenos que, geralmente, não são investigados, como os agentes virais transmitidos por roedores (ratos) e gatos, como a bartonelose (doença da arranhadura do gato) </p><br>
+
+        </div>
+
+
+<div class="col-md-12 by-autor"><strong>Por:</strong> Redação -
+<strong>Foto:</strong> Divulgação / HFM - <span class="fa fa-calendar"></span> 16/07/2022 - 17:19:47<br> <br> </div>
+
+                            <div class="col-md-12">
+                <div class="thumbnail">
+
+                    
+                                                           <!--  <li> <a href="https://www.campos.rj.gov.br/up/photos.php?id_fotos=201782">
+                        -->    
+                        <img class="print-image" src="https://www.campos.rj.gov.br/app/assets/noticias/with-201782" alt=" (Foto: Divulgação / HFM)">
+                        <!-- </li> </a> -->
+
+                       
+
+                </div>
+
+            </div>
+
+                <div class="clearfix"></div>
+        <div class="col-md-12 imateria">
+          <p class="materia"></p><div>Em parceria com o Instituto Oswaldo Cruz, Fiocruz, o Hemocentro Regional de Campos trouxe a Infectologista e Pesquisadora, Elba Lemos, para acompanhar as atividades de um estudo sobre agentes infecciosos zoonóticos. As zoonoses são doenças que atingem tanto o homem como outros animais. Geralmente o agente infeccioso salta do animal, por exemplo, o morcego, para o homem, mas lembrando que o ser humano também pode passar para o animal.&nbsp;</div><div><br></div><div>O objetivo do estudo é pesquisar patogenos que, geralmente, não são investigados, como os agentes virais transmitidos por roedores (ratos) e gatos como a bartonelose (doença da arranhadura do gato). No caso das viroses transmitidas pelos ratos, um destaque para a negligenciada arenavirose. Além da febre hemorrágica brasileira causada pelo arenavirus Sabia, uma das doenças humanas de elevada letalidade, temos também o arenavirus causador de meningite viral, o vírus da coriomeningite linfocitica (LCMV).</div><div><br></div><div>Estudos conduzidos em roedores em diversos municípios fluminenses foi possível identificar o LCMV em roedores apenas no município de Campos, o que levou a decisão de continuar os estudos a partir de um projeto de pesquisa de aluno de doutorado da Fiocruz, médico da Hemorio&nbsp;</div><div><br></div><div>A transmissão desses agentes virais para o homem ocorre por contato direto, por meio da inalação de aerossóis contendo partículas virais procedentes de urina, fezes, secreções de roedores infectados. Pessoas que tiveram contato com esses animais, mesmo sem saber, correm risco de infecção, podendo até evoluir para uma meningite viral. Pacientes com quadros de imunidade baixa, transplantados, soro positivos e gestantes podem apresentar quadros mais graves, incluindo, no caso das gestantes, comprometimento do bebê.&nbsp; &nbsp;O estudo que está sendo realizado visa investigar a prevalência sorológica de infecção pelo LCMV em indivíduos saudáveis doadores de sangue.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div>Quanto a bartonelose, é uma doença que pode variar de uma infecção leve a quadro grave como meningite, causada por bactérias que no paciente com anemia falciforme pode ser fatal. Por isso, a importância de seu estudo em doadores de sangue, pois a pesquisa de bartonela não se encontra incluída na lista de agentes infecciosos que são testados obrigatoriamente nos bancos de sangue pelo Ministério da Saúde como, por exemplo, HIV, sífilis, hepatites B e C. Este é o projeto de pesquisa da diretora técnica do Hemocentro Regional de Campos, Sandra Chalhoub.&nbsp; &nbsp;&nbsp;</div><div>&nbsp; &nbsp;</div><div>De acordo com Elba, “a Fiocruz possui os testes para o diagnóstico das arenaviroses e bartoneloses. Os testes estão disponíveis para pesquisa e a vigilância, mesmo tendo custo alto”, disse.</div><div><br></div><div>Além do estudo sobre bartonelas e LCMV em doadores de sangue, a proposta é, também, comparar a prevalência dos agentes infecciosos causadores de sífilis aids e hepatites B e C investigados nos doadores de sangue entre dois hemocentros: o Hemocentro Regional de Campos e o Hemorio. Segundo a diretora do Hemocentro de Campos, para tal serão analisados os cadastros de doadores de sangue dos dois hemocentros durante o período de 2017 a 2022 - comparação exclusivamente de doadores dos municípios de Campos e do Rio de Janeiro&nbsp;</div><div><br></div><div>A infectologista Elba também comentou sobre outras zoonoses que são responsáveis por mais de 80% das doenças infecciosas emergentes descritas no mundo.&nbsp;</div><div><br></div><div>Dentre as diversas zoonoses a infectologista chamou a atenção para a raiva, lembrando o recente caso em um adolescente no Distrito Federal, associado a gato de rua. Ela ressaltou, neste caso, sobre a importância da vacinação.&nbsp;</div><div><br></div><div>“A raiva é uma doença para qual temos vacina e, assim, se ela está ocorrendo é porque está existindo falha. De fato, a cobertura vacinal nos animais domésticos tem caído aumentando o risco da raiva na população humana.&nbsp; Infelizmente é possível concluir que o movimento irresponsavelmente equivocado e danoso antivacina também chegou na veterinária”, comentou Elba que, recentemente, foi uma das coautoras do livro Vacinas, publicado pela editora Fiocruz.&nbsp;</div><div><br></div><div>Ela reforça que temos muitas doenças e que podemos e devemos eliminar a presença daquelas para as quais existe a vacina. Em relação a medidas preventivas básicas para reduzir ou impedir contato com animais infectados podemos listar</div><div><br></div><div>Evitar deixar alimentos expostos em bancadas indevidamente;</div><div><br></div><div>Não acumular lixo dentro e fora de casas e comércios que possam atrair ratos;</div><div><br></div><div>Manter ambientes limpos e higienizados sempre com armadilhas para exterminar roedores;</div><div><br></div><div>Manter os cães e gatos vacinados e sem carrapatos e pulgas</div><div><br></div><div>Lavar as mãos com frequência e higienizar os alimentos de forma adequada.</div><div><br></div><div>Por isso são importantes as campanhas do CCZ da cidade, a vacinação dos pets, permitindo que eles permaneçam saudáveis e diminuindo o risco de zoonoses, não somente na população humana, como também de outros animais. Por fim, a infectologista reforçou mais uma vez sobre a importância da vacinação que previne o contágio de um animal para o outro, além de proteger a população humana, não só de algumas zoonoses como a febre amarela e a raiva, mas também outras doenças exclusivas do homem, como sarampo, poliomielite, entre outras.</div><div><br></div><p></p>
+        </div>
+    </div>
+</div>
+<div class="row">
+   
+    <div class="col-md-12 margin-top-15">
+<script type="text/javascript">
+var addthis_config = addthis_config||{};
+addthis_config.data_track_addressbar = false;
+
+}
+</script>
+
+<!--
+<style type="text/css">
+@media print
+{
+body * { visibility: hidden; }
+.box-detail-noticia * { visibility: visible; padding: 0px; margin: 0px; }
+}
+</style>
+-->
+
+
+<script type="text/javascript">
+
+    function PrintElem(elem)
+    {
+        Popup($(elem).html());
+    }
+
+    function Popup(data)
+    {
+        var mywindow = window.open('', 'new div', 'height=800,width=600');
+        mywindow.document.write('<html><head><title>Portal Campos - Imprimir notícia sem foto</title>');
+        /*optional stylesheet*/ //mywindow.document.write('<link rel="stylesheet" href="main.css" type="text/css" />');
+        mywindow.document.write('</head><body >');
+        mywindow.document.write(data);
+        mywindow.document.write('</body></html>');
+
+        mywindow.print();
+        mywindow.close();
+
+        return true;
+    }
+
+</script>
+
+
+
+        <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+            <a class="addthis_button_email" addthis:title="Hemocentro de Campos participa de importante pesquisa em parceria com a Fiocruz "></a>
+            <!--<a class="addthis_button_print"></a>-->
+            <a class="button print-preview" href="" onclick="PrintElem('#print-frame-preview')"><i class="fa fa-2x fa-print"></i> <span></span></a>
+            <a class="addthis_button_facebook" addthis:title="Hemocentro de Campos participa de importante pesquisa em parceria com a Fiocruz "></a>
+            <a class="addthis_button_twitter" addthis:title="Hemocentro de Campos participa de importante pesquisa em parceria com a Fiocruz "></a>
+            <a class="addthis_button_google_plusone_share" addthis:title="Hemocentro de Campos participa de importante pesquisa em parceria com a Fiocruz "></a>
+	    <a class="addthis_button_whatsapp"></a>
+
+        </div>
+
+    </div>  
+
+</div>
+
+<ul class="ul-noticias-detail">
+    <li class="header"><h5>Últimas Notícias adicionadas</h5></li>
+            <li class="item">
+
+            <a href="exibirNoticia.php?id_noticia=94165" class="link-noticia-list-detail">
+                <span class="data-date">
+                    13/01/2025                    19:26:48                </span> 
+                <span class="data-text">Mais de 120 veículos abordados na Operação Verão Seguro, no fim de semana </span>
+
+            </a>
+        </li>
+            <li class="item">
+
+            <a href="exibirNoticia.php?id_noticia=94163" class="link-noticia-list-detail">
+                <span class="data-date">
+                    13/01/2025                    19:08:47                </span> 
+                <span class="data-text">Prefeito faz entrega do Cartão Recomeçar a vítimas da enchente em Santo Eduardo  </span>
+
+            </a>
+        </li>
+            <li class="item">
+
+            <a href="exibirNoticia.php?id_noticia=94161" class="link-noticia-list-detail">
+                <span class="data-date">
+                    13/01/2025                    17:44:11                </span> 
+                <span class="data-text">Igualdade Racial abre inscrições para Cursos de Verão 2025 </span>
+
+            </a>
+        </li>
+            <li class="item">
+
+            <a href="exibirNoticia.php?id_noticia=94159" class="link-noticia-list-detail">
+                <span class="data-date">
+                    13/01/2025                    17:16:00                </span> 
+                <span class="data-text">Esporte é Vida com vagas abertas para aulas de Funcional em Farol de São Tomé </span>
+
+            </a>
+        </li>
+            <li class="item">
+
+            <a href="exibirNoticia.php?id_noticia=94157" class="link-noticia-list-detail">
+                <span class="data-date">
+                    13/01/2025                    16:05:34                </span> 
+                <span class="data-text">Atualização cadastral de prestadores de serviços prossegue na Educação </span>
+
+            </a>
+        </li>
+    
+</ul>
+
+<script>
+    window.document.title = 'Hemocentro de Campos participa de importante pesquisa em parceria com a Fiocruz ';
+</script>
+                                  
+      </div>
+       <div class="col-md-4">
+        <div class="row">
+           
+            <!-- BOX TV -->
+      <div class="col-md-12 ">
+         <div class="text-header">
+           <h3>PMCG <small> CONCURSOS</small></h3>
+
+             <span class="border-estilo"></span>
+
+                 </div>
+                   
+
+<div class="item active">
+
+<a href="https://www.campos.rj.gov.br/pmcg-concursos.php" target="_self"><img src="../img/banner-publicidade/mobile_editais_concursos2023.gif" width="100%" height="100%" alt="CONCURSOS PMCG - 2023"></a>
+
+
+
+<!-- <a href="https://inscricoes.campos.rj.gov.br/formulario/formulario-progressao" target="_brank"><img src="../img/banner-publicidade/mobile_progressao.gif" width="100%" height="100%"
+								      alt="ESTUDO DE IMPACTO DA PROGRESSÃO" ></a> --> 
+
+
+<!--<a href="https://sistemas.campos.rj.gov.br/area-do-servidor/autoavaliacao" target="_brank"><img src="../img/banner-publicidade/mobile_avaliacao.gif" width="100%" height="100%"
+								      alt="AVALIAÇÃO FUNCIONAL" ></a> --> 
+
+<br> <br>
+
+
+                                                                        
+    </div>
+</div>
+
+
+<!-- END BOX TV -->  <!-- BOX TV -->
+      <div class="col-md-12 ">
+         <div class="text-header">
+<h3>Utilidade <small> Prefeitura</small></h3>
+
+             <span class="border-estilo"></span>
+
+                                </div>
+
+                    <div class="item active">
+
+
+<!-- <a href="https://drive.google.com/drive/folders/1nTeaCLJeizXDSdHz5Wy65y_InzcsHzJA" target="_blank"><img src="../img/banner-publicidade/mobile_substituicao.gif" width="100%" height="100%"
+								     alt="DOCUMENTOS TRANSIÇÃO" ></a> -->
+
+<!-- <a href="https://sistemas.campos.rj.gov.br/area-do-servidor/editais/628c083a8ac59722b15ff4b6" target="_blank"><img src="../img/banner-publicidade/mobile_substituicao.gif" width="100%" height="100%"
+								     alt="EDITAL DE SUBSTITUIÇÃO - FMS" ></a>
+<span class="border-estilo"></span>  -->
+
+
+<a href="https://saude.campos.rj.gov.br/atendimentonucleo" target="_blank"><img src="../img/banner-publicidade/mobile_triagem.gif" width="100%" height="100%" alt="PRÉ-ATENDIMENTO"></a>
+<span class="border-estilo"></span>
+
+
+
+<a href="https://www.campos.rj.gov.br/pmcg-residuos.php" target="_self"><img src="../img/banner-publicidade/mobile_residuos.gif" width="100%" height="100%" alt="PLANO MUNICIPAL DE RESÍDUOS SÓLIDOS"></a>
+<span class="border-estilo"></span>
+
+
+<a href="https://sistemas.campos.rj.gov.br/area-do-servidor/avaliacoes_desempenho/" target="_blank"><img src="../img/banner-publicidade/mobile_servidores2024.gif" width="100%" height="100%" alt="AVALIAÇÃO FUNCIONAL 2023"></a>
+<span class="border-estilo"></span>
+
+<!-- <a href="https://www.campos.rj.gov.br/exibirNoticia.php?id_noticia=83592" target="_self"><img src="../img/banner-publicidade/mobile_nada_opor.gif" width="100%" height="100%"
+								     alt="NADA OPOR SEC. TURISMO" ></a> -->
+
+<a href="https://www.campos.rj.gov.br/arquivos/Docs/RequerimentoNadaOpor.pdf" target="_blank"><img src="../img/banner-publicidade/mobile_nada_opor.gif" width="100%" height="100%" alt="NADA OPOR SEC. TURISMO"></a>
+
+<span class="border-estilo"></span> 
+
+
+<a href="https://sistemas.campos.rj.gov.br/area-do-servidor/servidores/autenticar" target="_blank"><img src="../img/banner-publicidade/mobile_recadastrar.gif" width="100%" height="100%" alt="CURSOS CIDAC"></a>
+
+<!-- <span class="border-estilo"></span> 
+
+<a href="http://appcidadaocampos.sistemasdesaude.com.br/" target="_blank"><img src="img/banner-publicidade/mobile_teste_hepatite.gif" width="100%" height="100%" 
+								      alt="AGENDAMENTO HEPATITES E DOENÇAS VIRAIS" ></a> -->
+<span class="border-estilo"></span> 
+
+<!-- <a href="https://www.campos.rj.gov.br/app/admin/assets/noticias/docs/f4dee414171a0760e5042d05a1fcb9a5.pdf" target="_blank"><img src="../img/banner-publicidade/mobile_baixagrande.gif" width="100%" height="100%"
+								     alt="CHAMAMENTO PÚBLICO POLICLÍNICA DE BAIXA GRANDE" ></a>
+
+<span class="border-estilo"></span> -->
+
+<!-- <a href="https://www.campos.rj.gov.br/exibirNoticia.php?id_noticia=70320" target="_self"><img src="../img/banner-publicidade/mobile_mais_cienciaS.gif" width="100%" height="100%"
+								     alt="MAIS CIÊNCIA ENSINO SUPERIOR" ></a>
+<span class="border-estilo"></span> 
+
+<a href="https://www.campos.rj.gov.br/pmcg-ciencia.php" target="_self"><img src="../img/banner-publicidade/mobile_mais_ciencia.gif" width="100%" height="100%"
+								     alt="MAIS CIÊNCIA NA ESCOLA " ></a>
+<span class="border-estilo"></span> -->
+
+
+<!-- <a href="https://appcidadaocampos.sistemasdesaude.com.br/" target="_blank"><img src="../img/banner-publicidade/mobile_consultafacil.gif" width="100%" height="100%"
+								     alt="AGENDAMENTO CONSULTAS" ></a> -->
+<span class="border-estilo"></span> 
+
+
+<!-- <a href="https://campos.rj.gov.br/pmcg-estagio.php" target="_self"><img src="../img/banner-publicidade/mobile_estagiopmcg.gif" width="100%" height="100%"
+								     alt="SELEÇÃO PARA ESTÁGIO PMCG" ></a>
+<span class="border-estilo"></span>  -->
+
+
+<!-- <a href="https://cidac.campos.rj.gov.br/inscricoes/editais-culture-campos/" target="_blank"><img src="../img/banner-publicidade/mobile_editaisFCJOL.gif" width="100%" height="100%"
+								     alt="EDITAIS CULTURE CAMPOS" ></a>
+<span class="border-estilo"></span>  -->
+
+
+<a href="https://sistemas.campos.rj.gov.br/area-do-servidor/servidores/autenticar" target="_blank"><img src="../img/banner-publicidade/mobile-previcampos.gif" width="100%" height="100%" alt="RECADASTRAMENTO PREVICAMPOS"></a>
+
+<!-- <span class="border-estilo"></span>
+
+
+<a href="https://www.campos.rj.gov.br/exibirNoticia.php?id_noticia=60864" target="_blank"><img src="../img/banner-publicidade/mobile-fundeb.gif" width="100%" height="100%"
+								     alt="CHAMAMENTO FUNDEB" ></a> -->
+<span class="border-estilo"></span>
+                  
+<br>
+                                                                       
+    </div>
+</div>
+
+<!-- END BOX TV -->  
+
+							
+<div class="col-md-12 box-mais-noticias margin-top-15">
+							<!-- Nav tabs -->
+							<ul class="nav nav-tabs mais-noticias-tabs">
+							  <li class="active"><a href="#mais-noticias" data-toggle="tab">Últimas</a></li>
+                                                          <li><a href="#mais-lidas" data-toggle="tab">Mais Lidas</a></li>
+                                                          
+                                                          
+                                                          
+                                                          
+							  
+							</ul>
+
+							<!-- Tab panes -->
+							<div class="tab-content">
+
+
+  <div class="tab-pane active" id="mais-noticias">
+							      
+							      
+
+                                
+             <a href="exibirNoticia.php?id_noticia=94165" class="item-mais-lida">
+			 
+			 			 
+			  <span class="info-data"><span class="_day">13</span><span class="_month">01</span><span class="glyphicon glyphicon-time"></span> 19h26</span>
+		
+		  
+			 <p class="data-mais-lida"> Mais de 120 veículos abordados na Operação Verão Seguro, no fim de semana </p>
+			
+			 </a>
+                                 
+                                                                
+             <a href="exibirNoticia.php?id_noticia=94163" class="item-mais-lida">
+			 
+			 			 
+			  <span class="info-data"><span class="_day">13</span><span class="_month">01</span><span class="glyphicon glyphicon-time"></span> 19h08</span>
+		
+		  
+			 <p class="data-mais-lida"> Prefeito faz entrega do Cartão Recomeçar a vítimas da enchente em Santo Eduardo  </p>
+			
+			 </a>
+                                 
+                                                                
+             <a href="exibirNoticia.php?id_noticia=94161" class="item-mais-lida">
+			 
+			 			 
+			  <span class="info-data"><span class="_day">13</span><span class="_month">01</span><span class="glyphicon glyphicon-time"></span> 17h44</span>
+		
+		  
+			 <p class="data-mais-lida"> Igualdade Racial abre inscrições para Cursos de Verão 2025 </p>
+			
+			 </a>
+                                 
+                                                                
+             <a href="exibirNoticia.php?id_noticia=94159" class="item-mais-lida">
+			 
+			 			 
+			  <span class="info-data"><span class="_day">13</span><span class="_month">01</span><span class="glyphicon glyphicon-time"></span> 17h16</span>
+		
+		  
+			 <p class="data-mais-lida"> Esporte é Vida com vagas abertas para aulas de Funcional em Farol de São Tomé </p>
+			
+			 </a>
+                                 
+                                                                
+             <a href="exibirNoticia.php?id_noticia=94157" class="item-mais-lida">
+			 
+			 			 
+			  <span class="info-data"><span class="_day">13</span><span class="_month">01</span><span class="glyphicon glyphicon-time"></span> 16h05</span>
+		
+		  
+			 <p class="data-mais-lida"> Atualização cadastral de prestadores de serviços prossegue na Educação </p>
+			
+			 </a>
+                                 
+                                
+                                
+                                
+							      
+							  </div>
+    
+<div class="tab-pane  " id="mais-lidas">
+							        
+							    
+				
+				<a href="exibirNoticia.php?id_noticia=93711" class="item-mais-lida">
+				    <span class="order-number">1</span>
+				
+				    <p class="data-mais-lida">Contribuinte adimplente terá desconto de 10% no IPTU em cota única até 20 de janeiro</p></a>
+				
+								
+				<a href="exibirNoticia.php?id_noticia=94069" class="item-mais-lida">
+				    <span class="order-number">2</span>
+				
+				    <p class="data-mais-lida">IPTU 2025: Guias para pagamento podem ser emitidas a partir desta sexta-feira </p></a>
+				
+								
+				<a href="exibirNoticia.php?id_noticia=93691" class="item-mais-lida">
+				    <span class="order-number">3</span>
+				
+				    <p class="data-mais-lida">Prefeito Wladimir anuncia antecipação do pagamento de dezembro </p></a>
+				
+								
+				<a href="exibirNoticia.php?id_noticia=93983" class="item-mais-lida">
+				    <span class="order-number">4</span>
+				
+				    <p class="data-mais-lida">Prefeitura desmente aumentos de IPTU e Contribuição sobre Serviço de Iluminação 
+</p></a>
+				
+								
+				<a href="exibirNoticia.php?id_noticia=93799" class="item-mais-lida">
+				    <span class="order-number">5</span>
+				
+				    <p class="data-mais-lida">Aberto edital de Processo Seletivo para contratação temporária de mediadores </p></a>
+				
+								
+				<a href="exibirNoticia.php?id_noticia=93931" class="item-mais-lida">
+				    <span class="order-number">6</span>
+				
+				    <p class="data-mais-lida">Primeiro DO do ano traz medidas de austeridade e cumprimento de TAG junto ao TCE</p></a>
+				
+											  
+                     
+                                 
+                							  </div>
+
+							
+							 
+							</div>
+          </div>
+       
+
+        
+   
+</div>       </div>
+       </div>	                   
+    </div>
+		
+    <!-- RODAPE -->
+<script src="js/blueimp-gallery.min.js"></script>
+
+        <div class="container-fluid site-footer">
+              <div class="container">
+              	   <span class="brasao"></span>
+                    <div class="col-md-4 left-footer">
+
+                              
+
+                                <form action="ajaxNewsLetter.php" method="post" id="FormNewsLetter" class="form-news-letter" accept-charset="utf-8">
+
+
+                                	<!--   <h4>WhatsApp <small>Prefeitura</small></h4>
+                                <p>Todas as novidades da SUA CIDADE no WhatsApp</p>
+
+<a href="https://www.campos.rj.gov.br/whats-campos.php" target="_self"><img src="../img/banners-header/WhatsAppFooter.gif" width="100%" height="100%"
+	
+							      alt="WhatsApp Prefeitura" ></a> -->
+
+                                	  <div class="form-group">
+                                        
+                                	  </div>
+
+                                	  <div class="form-group">
+                                        
+                                        
+                                	  </div>
+                                </form>
+                                <div class="separator-bottom-footer"></div>
+                         
+                    </div> 
+
+                   
+ <div class="col-md-4 center-footer">
+
+                    	<ul class="links-footer">
+                    		<li class="header-link">Outros Links</li>
+
+				<!-- <li><a href="https://www.campos.rj.gov.br/newdocs/1542233062PERFILCAMPOS2018.pdf" target="_blank" >ANUÁRIO - 2018</a></li> -->
+
+
+			   <!-- <li><a href="https://www.mitracidadesdigitais.com.br/campos/segundaviaiptu/" target="_blank">IPTU 2017 - Pague aqui</a></li> -->
+				 
+				   
+                     </ul>
+                    	<ul class="links-footer">
+                    		<li class="header-link">Utilidades</li>
+
+                           <li><a href="http://www.campos.rj.gov.br/arquivos/EQUIPAMENTOS-SMDHS-CRAS-CREAS-2021-2024.pdf" target="_blank">ATENDIMENTOS: SMDHS / CRAS / CREAS</a></li>
+                           <li><a href="https://www.campos.rj.gov.br/pmcg-minhacasa.php" target="_self">BENEFICIÁRIOS DO MINHA CASA MINHA VIDA</a></li>
+			   <li><a href="https://www.campos.rj.gov.br/newdocs/1566948583ProtocolodeAssistenciaPreNatal.pdf" target="_blank">PROTOCOLO DE ASSISTÊNCIA: PRÉ-NATAL, PARTO E PUERPÉRIO</a></li>
+                           <li><a href="https://www.campos.rj.gov.br/arquivos/Docs/CamposConselhosMunicipais.pdf" target="_blank">CONSELHOS MUNICIPAIS</a></li>
+                           <li><a href="/pmcg-conselhos.php" target="_self">CONSELHOS TUTELARES</a></li>
+                           <li><a href="http://www.campos.rj.gov.br/arquivos/LeiOrganicaDoMunicipio.pdf" target="_blank">LEI ORGÂNICA DO MUNICÍPIO</a></li>
+                           <li><a href="https://leismunicipais.com.br/a1/codigo-tributario-campos-dos-goytacazes-rj" target="_blank">CÓDIGO TRIBUTÁRIO DO MUNICÍPIO</a></li>
+                           <!-- <li><a href="https://www.campos.rj.gov.br/newdocs/1530125150CartilhadeOrientacaoAgentesPublicos.pdf" target="_blank">ELEIÇÕES - ORIENTAÇÃO AOS AGENTES PÚBLICOS</a></li> -->
+
+                           <li><a href="/servicos.php">Mais serviços</a></li>
+
+                    	</ul>
+                    	<div class="separator-bottom-footer"></div>
+                    </div>	
+
+
+                    <div class="col-md-4 right-footer">
+
+                    	<ul class="links-footer">
+                    	    <li><a href="/index.php">Portal</a></li>
+                            <!-- <li><a href="./organograma.php">Organograma</a></li> -->
+                            <!-- <li><a href="/calendarioPag.php">Calendário de pagamento</a></li> -->
+                            <li><a href="/lista-orgaos.php">Lista de orgãos</a></li>
+                            <li><a href="https://leismunicipais.com.br/prefeitura/rj/campos-dos-goytacazes">Lista de Leis Municipais</a></li>
+                            <li><a href="/licitacoes.php">Avisos e Editais de Licitações</a></li>
+                            <li><a href="/diario-oficial.php">Diário Oficial</a></li>
+                            <li><a href="/plano-diretor.php">Planos Municipais</a></li>
+                            <li><a href="/destaques-noticias.php">Destaques</a></li>
+                            <li><a href="/categorias-noticias.php">Categorias</a></li>
+                            <li><a href="/ultimas-noticias.php">Últimas notícias</a></li>
+                           <li><a href="https://www.facebook.com/pg/PrefCamposdosGoytacazes/photos/?ref=page_internal" target="_blank">Fotos Prefeitura</a></li>
+                            <li><a href="/mapas-municipais.php">Mapas Municipais</a></li>
+                            <li><a href="/sites-prefeitura.php">Sites da Prefeitura</a></li>
+                            <li><a href="/telefones-uteis.php">Telefones Úteis</a></li>
+                            <li><a href="/logos-hinos-manual.php">Identidade Visual / Hino</a></li>
+                            <li><a href="https://sistema.ouvidorias.gov.br/publico/RJ/CamposdosGoytacazes/Manifestacao/RegistrarManifestacao" target="_blank">Ouvidoria Geral</a></li>
+                            <li><a href="https://webmail.campos.rj.gov.br/" target="_blank">Webmail</a></li>
+                            <li><a href="https://www.facebook.com/PrefCamposdosGoytacazes">Facebook</a></li> 
+                            <li><a href="https://www.instagram.com/campos.pmcg/">Instagram</a></li> 
+                            <li><a href="https://www.facebook.com/pg/PrefCamposdosGoytacazes/videos/?ref=page_internal" target="_blank">Vídeos Prefeitura</a></li>
+                            <li><a href="https://www.youtube.com/user/portalcampos" target="_blank">Canal YouTube</a></li>
+                            <li><a href="/servicos.php">Serviços</a></li>
+                            <li><a href="#"></a></li>
+
+                    	</ul>
+                    	
+
+
+                    </div>	
+                   
+              </div>
+
+
+         <div class="bottom-footer">
+                <div class="container">
+
+                   <div class="col-md-8">
+                         <p class="todos-os-direitos pull-left">Prefeitura Municipal de Campos dos Goytacazes - RJ - Copyright 2025 - Todos os direitos reservados. <br>
+Rua. Coronel Ponciano de Azeredo Furtado, 47 Parque Santo Amaro. Cep: 28030-045 CNPJ 29.116.894/0001-61</p>
+                    
+                     <!-- <span  class="link-versao-mobile pull-right"> <a href="#" class="rs-link" data-link-desktop="Versão Classica" data-link-responsive="Versão Mobile"></a></span> -->
+                    
+                    <!-- <i class="glyphicon glyphicon-phone"></i><br/> <a href="#">Versão Mobile </a> </span> -->
+
+                    <div class="separator-bottom-footer"></div>
+                   </div>  
+                   <div class="col-md-4">
+                   	       <span class="copyright">
+                                Portal Campos<br>
+                               2025                  	       </span>
+                            
+                   </div>
+                </div>
+                  
+         </div>
+
+        </div>  
+    
+  
+ <script type="text/javascript">var addthis_config = {"data_track_addressbar": false};</script> 
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5967b6e2b0d44b8f"></script> 
+
+<!-- <a href="#" class="rs-link" data-link-desktop="Versão Classica" data-link-responsive="Versão Mobile"></a> -->
+
+
+
+</div></div></body></html>

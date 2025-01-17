@@ -1,0 +1,1409 @@
+<html class="no-js" lang="es"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://diariosanrafael.com.ar/xmlrpc.php">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta property="og:type" content="article">
+<meta property="og:title" content="Detectadas bacterias multirresistentes fuera de ambientes hospitalarios">
+<meta property="og:site_name" content="Diario San Rafael">
+<meta property="og:description" content="Las bacterias de la especie Klebsiella pneumoniae se encuentran entre los microorganismos que causan más infecciones hospitalarias y también entre">
+<meta property="og:url" content="https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/">
+<meta property="og:locale" content="es_ES">
+<meta property="article:published_time" content="2021-09-26T02:57:00-03:00">
+<meta property="article:modified_time" content="2021-09-25T19:00:37-03:00">
+<meta property="article:author" content="Gabriel Paz">
+<meta property="article:section" content="SALUD">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Detectadas bacterias multirresistentes fuera de ambientes hospitalarios">
+<meta name="twitter:description" content="Las bacterias de la especie Klebsiella pneumoniae se encuentran entre los microorganismos que causan más infecciones hospitalarias y también entre">
+<meta name="twitter:url" content="https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/">
+<meta name="twitter:site" content="">
+			<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var e=this;e.win=window,e.doc=document,e.noop=function(){},e.globalBody=e.doc.getElementsByTagName("body")[0],e.globalBody=e.globalBody?e.globalBody:e.doc,e.win.jnewsDataStorage=e.win.jnewsDataStorage||{_storage:new WeakMap,put:function(e,t,n){this._storage.has(e)||this._storage.set(e,new Map),this._storage.get(e).set(t,n)},get:function(e,t){return this._storage.get(e).get(t)},has:function(e,t){return this._storage.has(e)&&this._storage.get(e).has(t)},remove:function(e,t){var n=this._storage.get(e).delete(t);return 0===!this._storage.get(e).size&&this._storage.delete(e),n}},e.windowWidth=function(){return e.win.innerWidth||e.docEl.clientWidth||e.globalBody.clientWidth},e.windowHeight=function(){return e.win.innerHeight||e.docEl.clientHeight||e.globalBody.clientHeight},e.requestAnimationFrame=e.win.requestAnimationFrame||e.win.webkitRequestAnimationFrame||e.win.mozRequestAnimationFrame||e.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(e){return setTimeout(e,1e3/60)},e.cancelAnimationFrame=e.win.cancelAnimationFrame||e.win.webkitCancelAnimationFrame||e.win.webkitCancelRequestAnimationFrame||e.win.mozCancelAnimationFrame||e.win.msCancelRequestAnimationFrame||e.win.oCancelRequestAnimationFrame||function(e){clearTimeout(e)},e.classListSupport="classList"in document.createElement("_"),e.hasClass=e.classListSupport?function(e,t){return e.classList.contains(t)}:function(e,t){return e.className.indexOf(t)>=0},e.addClass=e.classListSupport?function(t,n){e.hasClass(t,n)||t.classList.add(n)}:function(t,n){e.hasClass(t,n)||(t.className+=" "+n)},e.removeClass=e.classListSupport?function(t,n){e.hasClass(t,n)&&t.classList.remove(n)}:function(t,n){e.hasClass(t,n)&&(t.className=t.className.replace(n,""))},e.objKeys=function(e){var t=[];for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&t.push(n);return t},e.isObjectSame=function(e,t){var n=!0;return JSON.stringify(e)!==JSON.stringify(t)&&(n=!1),n},e.extend=function(){for(var e,t,n,o=arguments[0]||{},i=1,a=arguments.length;i<a;i++)if(null!==(e=arguments[i]))for(t in e)o!==(n=e[t])&&void 0!==n&&(o[t]=n);return o},e.dataStorage=e.win.jnewsDataStorage,e.isVisible=function(e){return 0!==e.offsetWidth&&0!==e.offsetHeight||e.getBoundingClientRect().length},e.getHeight=function(e){return e.offsetHeight||e.clientHeight||e.getBoundingClientRect().height},e.getWidth=function(e){return e.offsetWidth||e.clientWidth||e.getBoundingClientRect().width},e.supportsPassive=!1;try{var t=Object.defineProperty({},"passive",{get:function(){e.supportsPassive=!0}});"createEvent"in e.doc?e.win.addEventListener("test",null,t):"fireEvent"in e.doc&&e.win.attachEvent("test",null)}catch(e){}e.passiveOption=!!e.supportsPassive&&{passive:!0},e.setStorage=function(e,t){e="jnews-"+e;var n={expired:Math.floor(((new Date).getTime()+432e5)/1e3)};t=Object.assign(n,t);localStorage.setItem(e,JSON.stringify(t))},e.getStorage=function(e){e="jnews-"+e;var t=localStorage.getItem(e);return null!==t&&0<t.length?JSON.parse(localStorage.getItem(e)):{}},e.expiredStorage=function(){var t,n="jnews-";for(var o in localStorage)o.indexOf(n)>-1&&"undefined"!==(t=e.getStorage(o.replace(n,""))).expired&&t.expired<Math.floor((new Date).getTime()/1e3)&&localStorage.removeItem(o)},e.addEvents=function(t,n,o){for(var i in n){var a=["touchstart","touchmove"].indexOf(i)>=0&&!o&&e.passiveOption;"createEvent"in e.doc?t.addEventListener(i,n[i],a):"fireEvent"in e.doc&&t.attachEvent("on"+i,n[i])}},e.removeEvents=function(t,n){for(var o in n)"createEvent"in e.doc?t.removeEventListener(o,n[o]):"fireEvent"in e.doc&&t.detachEvent("on"+o,n[o])},e.triggerEvents=function(t,n,o){var i;o=o||{detail:null};return"createEvent"in e.doc?(!(i=e.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||i.initCustomEvent(n,!0,!1,o),void t.dispatchEvent(i)):"fireEvent"in e.doc?((i=e.doc.createEventObject()).eventType=n,void t.fireEvent("on"+i.eventType,i)):void 0},e.getParents=function(t,n){void 0===n&&(n=e.doc);for(var o=[],i=t.parentNode,a=!1;!a;)if(i){var r=i;r.querySelectorAll(n).length?a=!0:(o.push(r),i=r.parentNode)}else o=[],a=!0;return o},e.forEach=function(e,t,n){for(var o=0,i=e.length;o<i;o++)t.call(n,e[o],o)},e.getText=function(e){return e.innerText||e.textContent},e.setText=function(e,t){var n="object"==typeof t?t.innerText||t.textContent:t;e.innerText&&(e.innerText=n),e.textContent&&(e.textContent=n)},e.httpBuildQuery=function(t){return e.objKeys(t).reduce(function t(n){var o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(i,a){var r=n[a];a=encodeURIComponent(a);var s=o?"".concat(o,"[").concat(a,"]"):a;return null==r||"function"==typeof r?(i.push("".concat(s,"=")),i):["number","boolean","string"].includes(typeof r)?(i.push("".concat(s,"=").concat(encodeURIComponent(r))),i):(i.push(e.objKeys(r).reduce(t(r,s),[]).join("&")),i)}}(t),[]).join("&")},e.get=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("GET",t,n,o,i)},e.post=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("POST",t,n,o,i)},e.ajax=function(t,n,o,i,a){var r=new XMLHttpRequest,s=n,c=e.httpBuildQuery(o);if(t=-1!=["GET","POST"].indexOf(t)?t:"GET",r.open(t,s+("GET"==t?"?"+c:""),!0),"POST"==t&&r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.setRequestHeader("X-Requested-With","XMLHttpRequest"),r.onreadystatechange=function(){4===r.readyState&&200<=r.status&&300>r.status&&"function"==typeof i&&i.call(void 0,r.response)},void 0!==a&&!a){return{xhr:r,send:function(){r.send("POST"==t?c:null)}}}return r.send("POST"==t?c:null),{xhr:r}},e.scrollTo=function(t,n,o){function i(e,t,n){this.start=this.position(),this.change=e-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=t,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(e,t,n,o){return(e/=o/2)<1?n/2*e*e+t:-n/2*(--e*(e-2)-1)+t},i.prototype.stop=function(){this.finish=!0},i.prototype.move=function(t){e.doc.documentElement.scrollTop=t,e.globalBody.parentNode.scrollTop=t,e.globalBody.scrollTop=t},i.prototype.position=function(){return e.doc.documentElement.scrollTop||e.globalBody.parentNode.scrollTop||e.globalBody.scrollTop},i.prototype.animateScroll=function(){this.currentTime+=this.increment;var t=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(t),this.currentTime<this.duration&&!this.finish?e.requestAnimationFrame.call(e.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new i(t,n,o)},e.unwrap=function(t){var n,o=t;e.forEach(t,(function(e,t){n?n+=e:n=e})),o.replaceWith(n)},e.performance={start:function(e){performance.mark(e+"Start")},stop:function(e){performance.mark(e+"End"),performance.measure(e,e+"Start",e+"End")}},e.fps=function(){var t=0,n=0,o=0;!function(){var i=t=0,a=0,r=0,s=document.getElementById("fpsTable"),c=function(t){void 0===document.getElementsByTagName("body")[0]?e.requestAnimationFrame.call(e.win,(function(){c(t)})):document.getElementsByTagName("body")[0].appendChild(t)};null===s&&((s=document.createElement("div")).style.position="fixed",s.style.top="120px",s.style.left="10px",s.style.width="100px",s.style.height="20px",s.style.border="1px solid black",s.style.fontSize="11px",s.style.zIndex="100000",s.style.backgroundColor="white",s.id="fpsTable",c(s));var l=function(){o++,n=Date.now(),(a=(o/(r=(n-t)/1e3)).toPrecision(2))!=i&&(i=a,s.innerHTML=i+"fps"),1<r&&(t=n,o=0),e.requestAnimationFrame.call(e.win,l)};l()}()},e.instr=function(e,t){for(var n=0;n<t.length;n++)if(-1!==e.toLowerCase().indexOf(t[n].toLowerCase()))return!0},e.winLoad=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.win,{load:o})},e.docReady=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.doc,{DOMContentLoaded:o})},e.fireOnce=function(){e.docReady((function(){e.assets=e.assets||[],e.assets.length&&(e.boot(),e.load_assets())}),50)},e.boot=function(){e.length&&e.doc.querySelectorAll("style[media]").forEach((function(e){"not all"==e.getAttribute("media")&&e.removeAttribute("media")}))},e.create_js=function(t,n){var o=e.doc.createElement("script");switch(o.setAttribute("src",t),n){case"defer":o.setAttribute("defer",!0);break;case"async":o.setAttribute("async",!0);break;case"deferasync":o.setAttribute("defer",!0),o.setAttribute("async",!0)}e.globalBody.appendChild(o)},e.load_assets=function(){"object"==typeof e.assets&&e.forEach(e.assets.slice(0),(function(t,n){var o="";t.defer&&(o+="defer"),t.async&&(o+="async"),e.create_js(t.url,o);var i=e.assets.indexOf(t);i>-1&&e.assets.splice(i,1)})),e.assets=jnewsoption.au_scripts=window.jnewsads=[]},e.setCookie=function(e,t,n){var o="";if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),o="; expires="+i.toUTCString()}document.cookie=e+"="+(t||"")+o+"; path=/"},e.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1,i.length);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return null},e.eraseCookie=function(e){document.cookie=e+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},e.docReady((function(){e.globalBody=e.globalBody==e.doc?e.doc.getElementsByTagName("body")[0]:e.globalBody,e.globalBody=e.globalBody?e.globalBody:e.doc})),e.winLoad((function(){e.winLoad((function(){var t=!1;if(void 0!==window.jnewsadmin)if(void 0!==window.file_version_checker){var n=e.objKeys(window.file_version_checker);n.length?n.forEach((function(e){t||"10.0.4"===window.file_version_checker[e]||(t=!0)})):t=!0}else t=!0;t&&(window.jnewsHelper.getMessage(),window.jnewsHelper.getNotice())}),2500)}))},window.jnews.library=new window.jnews.library;</script>
+	<!-- This site is optimized with the Yoast SEO plugin v24.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Detectadas bacterias multirresistentes fuera de ambientes hospitalarios - Diario San Rafael</title>
+	<link rel="canonical" href="https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Detectadas bacterias multirresistentes fuera de ambientes hospitalarios - Diario San Rafael">
+	<meta property="og:description" content="Las bacterias de la especie Klebsiella pneumoniae se encuentran entre los microorganismos que causan más infecciones hospitalarias y también entre los que han desarrollado la mayor resistencia a los antibióticos durante los últimos años.Pertenece a este grupo la KPC (Klebsiella pneumoniae carbapenemase), por ejemplo, que se granjeó el mote de superbacteria debido a que produce […]">
+	<meta property="og:url" content="https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/">
+	<meta property="og:site_name" content="Diario San Rafael">
+	<meta property="article:publisher" content="https://www.facebook.com/DiarioSanRafael">
+	<meta property="article:author" content="Gabriel Paz">
+	<meta property="article:published_time" content="2021-09-26T05:57:00+00:00">
+	<meta property="article:modified_time" content="2021-09-25T22:00:37+00:00">
+	<meta name="author" content="Gabriel Paz">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@diariosanrafael">
+	<meta name="twitter:site" content="@diariosanrafael">
+	<meta name="twitter:label1" content="Escrito por">
+	<meta name="twitter:data1" content="Gabriel Paz">
+	<meta name="twitter:label2" content="Tiempo de lectura">
+	<meta name="twitter:data2" content="2 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/#article","isPartOf":{"@id":"https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/"},"author":{"name":"Gabriel Paz","@id":"https://diariosanrafael.com.ar/#/schema/person/70a4ea2fd821de6dca9530c98f456eae"},"headline":"Detectadas bacterias multirresistentes fuera de ambientes hospitalarios","datePublished":"2021-09-26T05:57:00+00:00","dateModified":"2021-09-25T22:00:37+00:00","mainEntityOfPage":{"@id":"https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/"},"wordCount":390,"publisher":{"@id":"https://diariosanrafael.com.ar/#organization"},"articleSection":["SALUD"],"inLanguage":"es"},{"@type":"WebPage","@id":"https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/","url":"https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/","name":"Detectadas bacterias multirresistentes fuera de ambientes hospitalarios - Diario San Rafael","isPartOf":{"@id":"https://diariosanrafael.com.ar/#website"},"datePublished":"2021-09-26T05:57:00+00:00","dateModified":"2021-09-25T22:00:37+00:00","breadcrumb":{"@id":"https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/"]}]},{"@type":"BreadcrumbList","@id":"https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https://diariosanrafael.com.ar/"},{"@type":"ListItem","position":2,"name":"Detectadas bacterias multirresistentes fuera de ambientes hospitalarios"}]},{"@type":"WebSite","@id":"https://diariosanrafael.com.ar/#website","url":"https://diariosanrafael.com.ar/","name":"Diario San Rafael","description":"","publisher":{"@id":"https://diariosanrafael.com.ar/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://diariosanrafael.com.ar/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https://diariosanrafael.com.ar/#organization","name":"Diario San Rafael","url":"https://diariosanrafael.com.ar/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://diariosanrafael.com.ar/#/schema/logo/image/","url":"https://i0.wp.com/diariosanrafael.com.ar/wp-content/uploads/2021/08/Logo-SanRafael.jpeg?fit=1798%2C362&ssl=1","contentUrl":"https://i0.wp.com/diariosanrafael.com.ar/wp-content/uploads/2021/08/Logo-SanRafael.jpeg?fit=1798%2C362&ssl=1","width":1798,"height":362,"caption":"Diario San Rafael"},"image":{"@id":"https://diariosanrafael.com.ar/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/DiarioSanRafael","https://x.com/diariosanrafael","https://www.instagram.com/diariosanrafael","https://www.youtube.com/channel/UCWhsV1YALBkWBsbJQBkGv1g"]},{"@type":"Person","@id":"https://diariosanrafael.com.ar/#/schema/person/70a4ea2fd821de6dca9530c98f456eae","name":"Gabriel Paz","image":{"@type":"ImageObject","inLanguage":"es","@id":"https://diariosanrafael.com.ar/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/23e0b7e374a582d0f3ca1b0ffd02d175?s=96&d=retro&r=g","contentUrl":"https://secure.gravatar.com/avatar/23e0b7e374a582d0f3ca1b0ffd02d175?s=96&d=retro&r=g","caption":"Gabriel Paz"},"sameAs":["Gabriel Paz","@gabri.paz"],"url":"https://diariosanrafael.com.ar/author/gabrielpaz/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fundingchoicesmessages.google.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="alternate" type="application/rss+xml" title="Diario San Rafael » Feed" href="https://diariosanrafael.com.ar/feed/">
+<link rel="alternate" type="application/rss+xml" title="Diario San Rafael » Feed de los comentarios" href="https://diariosanrafael.com.ar/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/diariosanrafael.com.ar\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<!-- diariosanrafael.com.ar is managing ads with Advanced Ads 1.56.1 – https://wpadvancedads.com/ --><script id="dsr-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+				<script>
+			document.addEventListener( 'aagam_empty_slot', function ( ev ) {
+				const div = document.getElementById( ev.detail );
+				if ( ! div ) {
+					return;
+				}
+				const prefix = 'dsr-', wrapper = div.closest( '[id^="' + prefix + '"]' );
+				if ( ! wrapper ) {
+					return;
+				}
+				if ( wrapper.classList.contains( prefix + 'sticky' ) || wrapper.classList.contains( prefix + 'layer' ) ) {
+					return;
+				}
+				wrapper.style.display = 'none';
+			} );
+		</script>
+		<link rel="stylesheet" id="sby_styles-css" href="https://diariosanrafael.com.ar/wp-content/plugins/feeds-for-youtube/css/sb-youtube.min.css?ver=2.2.4" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://diariosanrafael.com.ar/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="https://diariosanrafael.com.ar/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://diariosanrafael.com.ar/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="jetpack-sharing-buttons-style-inline-css" type="text/css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="unslider-css-css" href="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-slider/public/assets/css/unslider.css?ver=1.4.10" type="text/css" media="all">
+<link rel="stylesheet" id="slider-css-css" href="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-slider/public/assets/css/slider.css?ver=1.4.10" type="text/css" media="all">
+<link rel="stylesheet" id="wpfc-css" href="https://diariosanrafael.com.ar/wp-content/plugins/gs-facebook-comments/public/css/wpfc-public.css?ver=1.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-podcast-css" href="https://diariosanrafael.com.ar/wp-content/plugins/jnews-podcast/assets/css/plugin.css?ver=11.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-podcast-darkmode-css" href="https://diariosanrafael.com.ar/wp-content/plugins/jnews-podcast/assets/css/darkmode.css?ver=11.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-video-css" href="https://diariosanrafael.com.ar/wp-content/plugins/jnews-video/assets/css/plugin.css?ver=11.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="sigijh-front_css-css" href="https://diariosanrafael.com.ar/wp-content/plugins/just-highlight/css/style.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-parent-style-css" href="https://diariosanrafael.com.ar/wp-content/themes/jnews/style.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="widget-heading-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="widget-post-info-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor-pro/assets/css/widget-post-info.min.css?ver=3.26.2" type="text/css" media="all">
+<link rel="stylesheet" id="widget-icon-list-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" type="text/css" media="all">
+<link rel="stylesheet" id="widget-image-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="widget-icon-box-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="swiper-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" type="text/css" media="all">
+<link rel="stylesheet" id="e-swiper-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-14-css" href="https://diariosanrafael.com.ar/wp-content/uploads/elementor/css/post-14.css?ver=1735908860" type="text/css" media="all">
+<link rel="stylesheet" id="sby-styles-css" href="https://diariosanrafael.com.ar/wp-content/plugins/feeds-for-youtube/css/sb-youtube.min.css?ver=2.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-74565-css" href="https://diariosanrafael.com.ar/wp-content/uploads/elementor/css/post-74565.css?ver=1735937991" type="text/css" media="all">
+<link rel="stylesheet" id="jeg_customizer_font-css" href="//fonts.googleapis.com/css?family=Lato%3Areguler&amp;display=swap&amp;ver=1.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-frontend-css" href="https://diariosanrafael.com.ar/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-elementor-css" href="https://diariosanrafael.com.ar/wp-content/themes/jnews/assets/css/elementor-frontend.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-style-css" href="https://diariosanrafael.com.ar/wp-content/themes/jnews-child/style.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-darkmode-css" href="https://diariosanrafael.com.ar/wp-content/themes/jnews/assets/css/darkmode.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-video-darkmode-css" href="https://diariosanrafael.com.ar/wp-content/plugins/jnews-video/assets/css/darkmode.css?ver=11.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="__EPYT__style-css" href="https://diariosanrafael.com.ar/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.1.3" type="text/css" media="all">
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 25%;
+                }
+                
+</style>
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-select-share-css" href="https://diariosanrafael.com.ar/wp-content/plugins/jnews-social-share/assets/css/plugin.css" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-weather-style-css" href="https://diariosanrafael.com.ar/wp-content/plugins/jnews-weather/assets/css/plugin.css?ver=11.0.2" type="text/css" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-slider/public/assets/js/unslider.min.js?ver=1.4.10" id="unslider-js-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.move.js?ver=1.4.10" id="unslider-move-js-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.swipe.js?ver=1.4.10" id="unslider-swipe-js-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/gs-facebook-comments/public/js/wpfc-public.js?ver=1.7.5" id="wpfc-js"></script>
+<script type="text/javascript" id="advanced-ads-advanced-js-js-extra">
+/* <![CDATA[ */
+var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_needed"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.56.1" id="advanced-ads-advanced-js-js"></script>
+<script type="text/javascript" id="advanced_ads_pro/visitor_conditions-js-extra">
+/* <![CDATA[ */
+var advanced_ads_pro_visitor_conditions = {"referrer_cookie_name":"advanced_ads_pro_visitor_referrer","referrer_exdays":"365","page_impr_cookie_name":"advanced_ads_page_impressions","page_impr_exdays":"3650"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-pro/modules/advanced-visitor-conditions/inc/conditions.min.js?ver=2.28.2" id="advanced_ads_pro/visitor_conditions-js"></script>
+
+<!-- Fragmento de código de la etiqueta de Google (gtag.js) añadida por Site Kit -->
+
+<!-- Fragmento de código de Google Analytics añadido por Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-K5Q7ZB6" id="google_gtagjs-js" async=""></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["diariosanrafael.com.ar"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-K5Q7ZB6");
+/* ]]> */
+</script>
+
+<!-- Finalizar fragmento de código de la etiqueta de Google (gtags.js) añadida por Site Kit -->
+<script type="text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/diariosanrafael.com.ar\/wp-admin\/admin-ajax.php","security":"6fdde3100a","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/diariosanrafael.com.ar\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/diariosanrafael.com.ar\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"14.2.1.3","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.1.3" id="__ytprefs__-js"></script>
+<link rel="https://api.w.org/" href="https://diariosanrafael.com.ar/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://diariosanrafael.com.ar/wp-json/wp/v2/posts/83771"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://diariosanrafael.com.ar/xmlrpc.php?rsd">
+
+<link rel="shortlink" href="https://diariosanrafael.com.ar/?p=83771">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://diariosanrafael.com.ar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://diariosanrafael.com.ar/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.142.0"><meta property="fb:app_id" content="595509488301396">    <style type="text/css">
+		.badge-status { display:inline; font-size:11px; color:#fff; padding:3px 5px; margin:5px;  position: relative; top:-7px;
+			-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
+		.widget .badge-status {top:-3px; font-size:10px; }
+	</style>
+    	<style>img#wpstats{display:none}</style>
+		<script>advads_items = { conditions: {}, display_callbacks: {}, display_effect_callbacks: {}, hide_callbacks: {}, backgrounds: {}, effect_durations: {}, close_functions: {}, showed: [] };</script><style type="text/css" id="dsr-layer-custom-css"></style><script type="text/javascript">
+		var advadsCfpQueue = [];
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script>
+		<script data-cfasync="false" type="text/javascript" id="clever-core">
+/* <![CDATA[ */
+(function (document, window) {
+var a, c = document.createElement("script"), f = window.frameElement;
+
+c.id = "CleverCoreLoader81223";
+c.src = "https://scripts.cleverwebserver.com/bef38d6f08d965e81ac59747e3e2753d.js";
+
+c.async = !0;
+c.type = "text/javascript";
+c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+c.setAttribute("data-callback", "put-your-callback-function-here");
+c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+
+
+try {
+a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+} catch (e) {
+a = !1;
+}
+
+a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+a.parentNode.insertBefore(c, a);
+})(document, window);
+/* ]]> */
+</script>
+<!-- Metaetiquetas de Google AdSense añadidas por Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Acabar con las metaetiquetas de Google AdSense añadidas por Site Kit -->
+<meta name="generator" content="Elementor 3.26.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<meta property="fb:app_id" content="595509488301396">			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			
+<!-- Fragmento de código de recuperación de bloqueo de anuncios de Google AdSense añadido por Site Kit. -->
+<script async="" src="https://fundingchoicesmessages.google.com/i/pub-8043318152519312?ers=1" nonce="2GQIoPUKs6qX6ROEyqCVlw"></script><script nonce="2GQIoPUKs6qX6ROEyqCVlw">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<!-- Fragmento de código de finalización de recuperación de bloqueo de anuncios de Google AdSense añadido por Site Kit. -->
+
+<!-- Fragmento de código de protección de errores de recuperación de bloqueo de anuncios de Google AdSense añadido por Site Kit. -->
+<script>(function(){'use strict';function aa(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}var ba="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
+function ea(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var fa=ea(this);function ha(a,b){if(b)a:{var c=fa;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ba(c,a,{configurable:!0,writable:!0,value:b})}}
+var ia="function"==typeof Object.create?Object.create:function(a){function b(){}b.prototype=a;return new b},l;if("function"==typeof Object.setPrototypeOf)l=Object.setPrototypeOf;else{var m;a:{var ja={a:!0},ka={};try{ka.__proto__=ja;m=ka.a;break a}catch(a){}m=!1}l=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}var la=l;
+function n(a,b){a.prototype=ia(b.prototype);a.prototype.constructor=a;if(la)la(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.A=b.prototype}function ma(){for(var a=Number(this),b=[],c=a;c<arguments.length;c++)b[c-a]=arguments[c];return b}
+var na="function"==typeof Object.assign?Object.assign:function(a,b){for(var c=1;c<arguments.length;c++){var d=arguments[c];if(d)for(var e in d)Object.prototype.hasOwnProperty.call(d,e)&&(a[e]=d[e])}return a};ha("Object.assign",function(a){return a||na});/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var p=this||self;function q(a){return a};var t,u;a:{for(var oa=["CLOSURE_FLAGS"],v=p,x=0;x<oa.length;x++)if(v=v[oa[x]],null==v){u=null;break a}u=v}var pa=u&&u[610401301];t=null!=pa?pa:!1;var z,qa=p.navigator;z=qa?qa.userAgentData||null:null;function A(a){return t?z?z.brands.some(function(b){return(b=b.brand)&&-1!=b.indexOf(a)}):!1:!1}function B(a){var b;a:{if(b=p.navigator)if(b=b.userAgent)break a;b=""}return-1!=b.indexOf(a)};function C(){return t?!!z&&0<z.brands.length:!1}function D(){return C()?A("Chromium"):(B("Chrome")||B("CriOS"))&&!(C()?0:B("Edge"))||B("Silk")};var ra=C()?!1:B("Trident")||B("MSIE");!B("Android")||D();D();B("Safari")&&(D()||(C()?0:B("Coast"))||(C()?0:B("Opera"))||(C()?0:B("Edge"))||(C()?A("Microsoft Edge"):B("Edg/"))||C()&&A("Opera"));var sa={},E=null;var ta="undefined"!==typeof Uint8Array,ua=!ra&&"function"===typeof btoa;var F="function"===typeof Symbol&&"symbol"===typeof Symbol()?Symbol():void 0,G=F?function(a,b){a[F]|=b}:function(a,b){void 0!==a.g?a.g|=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function va(a){var b=H(a);1!==(b&1)&&(Object.isFrozen(a)&&(a=Array.prototype.slice.call(a)),I(a,b|1))}
+var H=F?function(a){return a[F]|0}:function(a){return a.g|0},J=F?function(a){return a[F]}:function(a){return a.g},I=F?function(a,b){a[F]=b}:function(a,b){void 0!==a.g?a.g=b:Object.defineProperties(a,{g:{value:b,configurable:!0,writable:!0,enumerable:!1}})};function wa(){var a=[];G(a,1);return a}function xa(a,b){I(b,(a|0)&-99)}function K(a,b){I(b,(a|34)&-73)}function L(a){a=a>>11&1023;return 0===a?536870912:a};var M={};function N(a){return null!==a&&"object"===typeof a&&!Array.isArray(a)&&a.constructor===Object}var O,ya=[];I(ya,39);O=Object.freeze(ya);var P;function Q(a,b){P=b;a=new a(b);P=void 0;return a}
+function R(a,b,c){null==a&&(a=P);P=void 0;if(null==a){var d=96;c?(a=[c],d|=512):a=[];b&&(d=d&-2095105|(b&1023)<<11)}else{if(!Array.isArray(a))throw Error();d=H(a);if(d&64)return a;d|=64;if(c&&(d|=512,c!==a[0]))throw Error();a:{c=a;var e=c.length;if(e){var f=e-1,g=c[f];if(N(g)){d|=256;b=(d>>9&1)-1;e=f-b;1024<=e&&(za(c,b,g),e=1023);d=d&-2095105|(e&1023)<<11;break a}}b&&(g=(d>>9&1)-1,b=Math.max(b,e-g),1024<b&&(za(c,g,{}),d|=256,b=1023),d=d&-2095105|(b&1023)<<11)}}I(a,d);return a}
+function za(a,b,c){for(var d=1023+b,e=a.length,f=d;f<e;f++){var g=a[f];null!=g&&g!==c&&(c[f-b]=g)}a.length=d+1;a[d]=c};function Aa(a){switch(typeof a){case "number":return isFinite(a)?a:String(a);case "boolean":return a?1:0;case "object":if(a&&!Array.isArray(a)&&ta&&null!=a&&a instanceof Uint8Array){if(ua){for(var b="",c=0,d=a.length-10240;c<d;)b+=String.fromCharCode.apply(null,a.subarray(c,c+=10240));b+=String.fromCharCode.apply(null,c?a.subarray(c):a);a=btoa(b)}else{void 0===b&&(b=0);if(!E){E={};c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split("");d=["+/=","+/","-_=","-_.","-_"];for(var e=
+0;5>e;e++){var f=c.concat(d[e].split(""));sa[e]=f;for(var g=0;g<f.length;g++){var h=f[g];void 0===E[h]&&(E[h]=g)}}}b=sa[b];c=Array(Math.floor(a.length/3));d=b[64]||"";for(e=f=0;f<a.length-2;f+=3){var k=a[f],w=a[f+1];h=a[f+2];g=b[k>>2];k=b[(k&3)<<4|w>>4];w=b[(w&15)<<2|h>>6];h=b[h&63];c[e++]=g+k+w+h}g=0;h=d;switch(a.length-f){case 2:g=a[f+1],h=b[(g&15)<<2]||d;case 1:a=a[f],c[e]=b[a>>2]+b[(a&3)<<4|g>>4]+h+d}a=c.join("")}return a}}return a};function Ba(a,b,c){a=Array.prototype.slice.call(a);var d=a.length,e=b&256?a[d-1]:void 0;d+=e?-1:0;for(b=b&512?1:0;b<d;b++)a[b]=c(a[b]);if(e){b=a[b]={};for(var f in e)Object.prototype.hasOwnProperty.call(e,f)&&(b[f]=c(e[f]))}return a}function Da(a,b,c,d,e,f){if(null!=a){if(Array.isArray(a))a=e&&0==a.length&&H(a)&1?void 0:f&&H(a)&2?a:Ea(a,b,c,void 0!==d,e,f);else if(N(a)){var g={},h;for(h in a)Object.prototype.hasOwnProperty.call(a,h)&&(g[h]=Da(a[h],b,c,d,e,f));a=g}else a=b(a,d);return a}}
+function Ea(a,b,c,d,e,f){var g=d||c?H(a):0;d=d?!!(g&32):void 0;a=Array.prototype.slice.call(a);for(var h=0;h<a.length;h++)a[h]=Da(a[h],b,c,d,e,f);c&&c(g,a);return a}function Fa(a){return a.s===M?a.toJSON():Aa(a)};function Ga(a,b,c){c=void 0===c?K:c;if(null!=a){if(ta&&a instanceof Uint8Array)return b?a:new Uint8Array(a);if(Array.isArray(a)){var d=H(a);if(d&2)return a;if(b&&!(d&64)&&(d&32||0===d))return I(a,d|34),a;a=Ea(a,Ga,d&4?K:c,!0,!1,!0);b=H(a);b&4&&b&2&&Object.freeze(a);return a}a.s===M&&(b=a.h,c=J(b),a=c&2?a:Q(a.constructor,Ha(b,c,!0)));return a}}function Ha(a,b,c){var d=c||b&2?K:xa,e=!!(b&32);a=Ba(a,b,function(f){return Ga(f,e,d)});G(a,32|(c?2:0));return a};function Ia(a,b){a=a.h;return Ja(a,J(a),b)}function Ja(a,b,c,d){if(-1===c)return null;if(c>=L(b)){if(b&256)return a[a.length-1][c]}else{var e=a.length;if(d&&b&256&&(d=a[e-1][c],null!=d))return d;b=c+((b>>9&1)-1);if(b<e)return a[b]}}function Ka(a,b,c,d,e){var f=L(b);if(c>=f||e){e=b;if(b&256)f=a[a.length-1];else{if(null==d)return;f=a[f+((b>>9&1)-1)]={};e|=256}f[c]=d;e&=-1025;e!==b&&I(a,e)}else a[c+((b>>9&1)-1)]=d,b&256&&(d=a[a.length-1],c in d&&delete d[c]),b&1024&&I(a,b&-1025)}
+function La(a,b){var c=Ma;var d=void 0===d?!1:d;var e=a.h;var f=J(e),g=Ja(e,f,b,d);var h=!1;if(null==g||"object"!==typeof g||(h=Array.isArray(g))||g.s!==M)if(h){var k=h=H(g);0===k&&(k|=f&32);k|=f&2;k!==h&&I(g,k);c=new c(g)}else c=void 0;else c=g;c!==g&&null!=c&&Ka(e,f,b,c,d);e=c;if(null==e)return e;a=a.h;f=J(a);f&2||(g=e,c=g.h,h=J(c),g=h&2?Q(g.constructor,Ha(c,h,!1)):g,g!==e&&(e=g,Ka(a,f,b,e,d)));return e}function Na(a,b){a=Ia(a,b);return null==a||"string"===typeof a?a:void 0}
+function Oa(a,b){a=Ia(a,b);return null!=a?a:0}function S(a,b){a=Na(a,b);return null!=a?a:""};function T(a,b,c){this.h=R(a,b,c)}T.prototype.toJSON=function(){var a=Ea(this.h,Fa,void 0,void 0,!1,!1);return Pa(this,a,!0)};T.prototype.s=M;T.prototype.toString=function(){return Pa(this,this.h,!1).toString()};
+function Pa(a,b,c){var d=a.constructor.v,e=L(J(c?a.h:b)),f=!1;if(d){if(!c){b=Array.prototype.slice.call(b);var g;if(b.length&&N(g=b[b.length-1]))for(f=0;f<d.length;f++)if(d[f]>=e){Object.assign(b[b.length-1]={},g);break}f=!0}e=b;c=!c;g=J(a.h);a=L(g);g=(g>>9&1)-1;for(var h,k,w=0;w<d.length;w++)if(k=d[w],k<a){k+=g;var r=e[k];null==r?e[k]=c?O:wa():c&&r!==O&&va(r)}else h||(r=void 0,e.length&&N(r=e[e.length-1])?h=r:e.push(h={})),r=h[k],null==h[k]?h[k]=c?O:wa():c&&r!==O&&va(r)}d=b.length;if(!d)return b;
+var Ca;if(N(h=b[d-1])){a:{var y=h;e={};c=!1;for(var ca in y)Object.prototype.hasOwnProperty.call(y,ca)&&(a=y[ca],Array.isArray(a)&&a!=a&&(c=!0),null!=a?e[ca]=a:c=!0);if(c){for(var rb in e){y=e;break a}y=null}}y!=h&&(Ca=!0);d--}for(;0<d;d--){h=b[d-1];if(null!=h)break;var cb=!0}if(!Ca&&!cb)return b;var da;f?da=b:da=Array.prototype.slice.call(b,0,d);b=da;f&&(b.length=d);y&&b.push(y);return b};function Qa(a){return function(b){if(null==b||""==b)b=new a;else{b=JSON.parse(b);if(!Array.isArray(b))throw Error(void 0);G(b,32);b=Q(a,b)}return b}};function Ra(a){this.h=R(a)}n(Ra,T);var Sa=Qa(Ra);var U;function V(a){this.g=a}V.prototype.toString=function(){return this.g+""};var Ta={};function Ua(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};function Va(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)}function Wa(a){this.g=a||p.document||document}Wa.prototype.appendChild=function(a,b){a.appendChild(b)};/*
+
+ SPDX-License-Identifier: Apache-2.0
+*/
+function Xa(a,b){a.src=b instanceof V&&b.constructor===V?b.g:"type_error:TrustedResourceUrl";var c,d;(c=(b=null==(d=(c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document).querySelector)?void 0:d.call(c,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",c)};function Ya(a){a=void 0===a?document:a;return a.createElement("script")};function Za(a,b,c,d,e,f){try{var g=a.g,h=Ya(g);h.async=!0;Xa(h,b);g.head.appendChild(h);h.addEventListener("load",function(){e();d&&g.head.removeChild(h)});h.addEventListener("error",function(){0<c?Za(a,b,c-1,d,e,f):(d&&g.head.removeChild(h),f())})}catch(k){f()}};var $a=p.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ab=p.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),bb=p.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu");function db(a,b,c){this.i=a;this.l=new Wa(this.i);this.g=null;this.j=[];this.m=!1;this.u=b;this.o=c}
+function eb(a){if(a.i.body&&!a.m){var b=function(){fb(a);p.setTimeout(function(){return gb(a,3)},50)};Za(a.l,a.u,2,!0,function(){p[a.o]||b()},b);a.m=!0}}
+function fb(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.i.body.appendChild(d);a.j.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=hb(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=hb(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,
+85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Va(a.l.g,"IMG");d.className=Ua();d.src=$a;d.alt="Warning icon";d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ab;var g=X(a);g.textContent=bb;Y(a,e,f);Y(a,e,g);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.i.body.appendChild(a.g);b=W(1,5);for(c=
+0;c<b;c++)d=X(a),a.i.body.appendChild(d),a.j.push(d)}function Y(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)}function W(a,b){return Math.floor(a+Math.random()*(b-a))}function hb(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f,255)).toString()+")"}function X(a){a=Va(a.l.g,"DIV");a.className=Ua();return a}
+function gb(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(ib(a),fb(a),p.setTimeout(function(){return gb(a,b-1)},50))}
+function ib(a){var b=a.j;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];if(c)b=c.call(b);else if("number"==typeof b.length)b={next:aa(b)};else throw Error(String(b)+" is not an iterable or ArrayLike");for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.j=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};function jb(a,b,c,d,e){function f(k){document.body?g(document.body):0<k?p.setTimeout(function(){f(k-1)},e):b()}function g(k){k.appendChild(h);p.setTimeout(function(){h?(0!==h.offsetHeight&&0!==h.offsetWidth?b():a(),h.parentNode&&h.parentNode.removeChild(h)):a()},d)}var h=kb(c);f(3)}function kb(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};function Ma(a){this.h=R(a)}n(Ma,T);function lb(a){this.h=R(a)}n(lb,T);var mb=Qa(lb);function nb(a){a=Na(a,4)||"";if(void 0===U){var b=null;var c=p.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:q,createScript:q,createScriptURL:q})}catch(d){p.console&&p.console.error(d.message)}U=b}else U=b}a=(b=U)?b.createScriptURL(a):a;return new V(a,Ta)};function ob(a,b){this.m=a;this.o=new Wa(a.document);this.g=b;this.j=S(this.g,1);this.u=nb(La(this.g,2));this.i=!1;b=nb(La(this.g,13));this.l=new db(a.document,b,S(this.g,12))}ob.prototype.start=function(){pb(this)};
+function pb(a){qb(a);Za(a.o,a.u,3,!1,function(){a:{var b=a.j;var c=p.btoa(b);if(c=p[c]){try{var d=Sa(p.atob(c))}catch(e){b=!1;break a}b=b===Na(d,1)}else b=!1}b?Z(a,S(a.g,14)):(Z(a,S(a.g,8)),eb(a.l))},function(){jb(function(){Z(a,S(a.g,7));eb(a.l)},function(){return Z(a,S(a.g,6))},S(a.g,9),Oa(a.g,10),Oa(a.g,11))})}function Z(a,b){a.i||(a.i=!0,a=new a.m.XMLHttpRequest,a.open("GET",b,!0),a.send())}function qb(a){var b=p.btoa(a.j);a.m[b]&&Z(a,S(a.g,5))};(function(a,b){p[a]=function(){var c=ma.apply(0,arguments);p[a]=function(){};b.apply(null,c)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ob(window,mb(window.atob(a)))).start()});}).call(this);
+
+window.__h82AlnkH6D91__("WyJwdWItODA0MzMxODE1MjUxOTMxMiIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi04MDQzMzE4MTUyNTE5MzEyIl0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hYb0VaSGY0YWROMnFPX0Q5LTAzZkUwdGJMMVlPeERZR0p1OF9VY3ZqcFk4aEtfQ0dpQlQ4RHg1bnF1MGp1NkM5Y0p6a3hnN05memZ5dXdvX2ZVVWY3T0RnXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZBbzEteTlaRVVuREtkQkdDNkZEdE8tY0lpTnN5OWJrT0R3cjlSaXJLWkxWSDktcVJNbjRCa2V4N2EzOGl4dTYyaHZIanFsM0xqSWptc3I5THA3cHlfMlFcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFVwQkZtSG85UWtsU1dnb05xZUtPVEcxMzhaZUhaTTNTV1l4Z29yTE1lR1FCcC12ZlVmaXhfSHJiSlhKNTBGd1NKMzFwV2RFUXBZSHJta3N1VXBsRnF0MVFcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFdMOXlBMEV3bzNKOEVjaUEtUmhkVjZldXpqSnBIRnVqcFFRbEFwUUFZLV9aaG5OUE5IdHdtTU5LdWFDVXA2RWRiSUl3QnF1N2N6MlpJVWlEOHBoaUdla0FcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUZ3dORE16TVRneE5USTFNVGt6TVRJXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi04MDQzMzE4MTUyNTE5MzEyLmpzP3VzcXBcdTAwM2RDQTgiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4V3pDcUQtbUZxd1JPY2NRN01wckZFRTdnWUxidFYyQkhyMi1lTUszLTl0REpjSEM5UzFIVl9xZkxqX1MyNkgzZG10eUhNVUxGU3hFRFdUWTNDVWI4WmZyd1x1MDAzZFx1MDAzZCJd");</script>
+<!-- Fragmento de código de finalización de protección de errores de recuperación de bloqueo de anuncios de Google AdSense añadido por Site Kit. -->
+<script async="" src=" https://t.seedtag.com/t/7830-8389-01.js "></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","@id":"https:\/\/diariosanrafael.com.ar\/#organization","url":"https:\/\/diariosanrafael.com.ar\/","name":"","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/www.facebook.com\/DiarioSanRafael","https:\/\/www.instagram.com\/diariosanrafael\/?hl=es-la","https:\/\/twitter.com\/diariosanrafael?lang=es","https:\/\/www.youtube.com\/channel\/UCWhsV1YALBkWBsbJQBkGv1g"]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"https:\/\/diariosanrafael.com.ar\/#website","url":"https:\/\/diariosanrafael.com.ar\/","name":"","potentialAction":{"@type":"SearchAction","target":"https:\/\/diariosanrafael.com.ar\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="icon" href="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/cropped-dsr512x512-32x32.png" sizes="32x32">
+<link rel="icon" href="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/cropped-dsr512x512-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/cropped-dsr512x512-180x180.png">
+<meta name="msapplication-TileImage" content="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/cropped-dsr512x512-270x270.png">
+<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">@media only screen and (min-width : 1200px) { .container, .jeg_vc_content > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_row, .jeg_vc_content > .vc_element > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row, .jeg_vc_content > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper { max-width : 1300px; } .elementor-section.elementor-section-boxed > .elementor-container { max-width : 1300px; }  } @media only screen and (min-width : 1441px) { .container, .jeg_vc_content > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_row, .jeg_vc_content > .vc_element > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row, .jeg_vc_content > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper { max-width : 1400px; } .elementor-section.elementor-section-boxed > .elementor-container { max-width : 1400px; }  } body { --j-alt-color : #c80125; } .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon, .entry-header .jeg_post_meta .fa, .jeg_review_stars, .jeg_price_review_list { color : #c80125; } .jeg_share_button.share-float.share-monocrhome a { background-color : #c80125; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_search_no_expand .jeg_search_input { line-height : 29px; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_nav_icon { height : 29px; } .jeg_topbar, .jeg_topbar.dark, .jeg_topbar.custom { background : #b30f2d; } .jeg_midbar { height : 81px; } .jeg_midbar, .jeg_midbar.dark { background-color : #c80125; } .jeg_header .jeg_bottombar.jeg_navbar,.jeg_bottombar .jeg_nav_icon { height : 50px; } .jeg_header .jeg_bottombar.jeg_navbar, .jeg_header .jeg_bottombar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_header .jeg_bottombar .jeg_menu_style_1 > li, .jeg_header .jeg_bottombar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 50px; } .jeg_header .jeg_bottombar, .jeg_header .jeg_bottombar.jeg_navbar_dark, .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row, .jeg_bottombar.jeg_navbar_dark.jeg_navbar_boxed .jeg_nav_row { border-top-width : 0px; } .jeg_stickybar.jeg_navbar,.jeg_navbar .jeg_nav_icon { height : 63px; } .jeg_stickybar.jeg_navbar, .jeg_stickybar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_stickybar .jeg_menu_style_1 > li, .jeg_stickybar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 63px; } .jeg_header_sticky .jeg_navbar_wrapper:not(.jeg_navbar_boxed), .jeg_header_sticky .jeg_navbar_boxed .jeg_nav_row { background : #c80125; } .jeg_stickybar, .jeg_stickybar.dark { color : #ffffff; } .jeg_stickybar a, .jeg_stickybar.dark a { color : #ffffff; } .jeg_mobile_midbar, .jeg_mobile_midbar.dark { background : #c80125; } .jeg_header .socials_widget > a > i.fa:before { color : #ffffff; } .jeg_header .socials_widget.nobg > a > i > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget.nobg > a > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget > a > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget > a > i > span.jeg-icon svg { fill : #ffffff; } .jeg_aside_item.socials_widget > a > i.fa:before { color : #ffffff; } .jeg_aside_item.socials_widget.nobg a span.jeg-icon svg { fill : #ffffff; } .jeg_aside_item.socials_widget a span.jeg-icon svg { fill : #ffffff; } .jeg_nav_icon .jeg_mobile_toggle.toggle_btn { color : #ffffff; } .jeg_header .jeg_search_wrapper.search_icon .jeg_search_toggle { color : #ffffff; } body,input,textarea,select,.chosen-container-single .chosen-single,.btn,.button { font-family: Lato,Helvetica,Arial,sans-serif; } .jeg_header, .jeg_mobile_wrapper { font-family: Lato,Helvetica,Arial,sans-serif; } .jeg_main_menu > li > a { font-family: Lato,Helvetica,Arial,sans-serif; } h3.jeg_block_title, .jeg_footer .jeg_footer_heading h3, .jeg_footer .widget h2, .jeg_tabpost_nav li { font-family: Lato,Helvetica,Arial,sans-serif; } .jeg_post_title, .entry-header .jeg_post_title, .jeg_single_tpl_2 .entry-header .jeg_post_title, .jeg_single_tpl_3 .entry-header .jeg_post_title, .jeg_single_tpl_6 .entry-header .jeg_post_title, .jeg_content .jeg_custom_title_wrapper .jeg_post_title { font-family: Lato,Helvetica,Arial,sans-serif; } .jeg_post_excerpt p, .content-inner p { font-family: Lato,Helvetica,Arial,sans-serif; } </style></head>
+<body class="post-template-default single single-post postid-83771 single-format-standard wp-embed-responsive non-logged-in jeg_toggle_light jeg_single_tpl_1 jnews jsc_normal elementor-default elementor-template-full-width elementor-kit-14 aa-prefix-dsr- elementor-page-74565">
+<!-- /21820527814/diariosanrafael_video_instream_ADEQ -->
+<div id="div-gpt-ad-1687442640715-0">
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1687442640715-0'); });
+  </script>
+</div>
+
+
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class="ads-wrapper  "></div>    </div>
+
+    <!-- The Main Wrapper
+    ============================================= -->
+    <div class="jeg_viewport">
+
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- HEADER -->
+<div class="jeg_header normal">
+    <div class="jeg_topbar jeg_container jeg_navbar_wrapper dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left  jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_nav_icon">
+    <a href="#" aria-label="Show Menu" class="toggle_btn jeg_mobile_toggle">
+    	<span></span><span></span><span></span>
+    </a>
+</div><div class="jeg_nav_item jeg_nav_html">
+    <b>SECCIONES</b></div><div class="jeg_separator separator1"></div><div class="jeg_nav_item jeg_nav_html">
+    <span class="frase-top"><ul><li><!-- wp:paragraph -->
+<p><em>La vida es una obra teatral que no importa cuánto haya durado, sino lo bien que haya sido representada.</em> | Séneca</p>
+<!-- /wp:paragraph --></li></ul></span></div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_top_date">
+    martes  14, de enero , 2025</div><div class="jeg_separator separator2"></div>			<div class="jeg_nav_item socials_widget jeg_social_icon_block nobg">
+				<a href="https://www.facebook.com/DiarioSanRafael" target="_blank" rel="external noopener nofollow" aria-label="Find us on Facebook" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.instagram.com/diariosanrafael/?hl=es-la" target="_blank" rel="external noopener nofollow" aria-label="Find us on Instagram" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://twitter.com/diariosanrafael?lang=es" target="_blank" rel="external noopener nofollow" aria-label="Find us on Twitter" class="jeg_twitter"><i class="fa fa-twitter"><span class="jeg-icon icon-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></span></i> </a><a href="https://www.youtube.com/channel/UCWhsV1YALBkWBsbJQBkGv1g" target="_blank" rel="external noopener nofollow" aria-label="Find us on Youtube" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a>			</div>
+			                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div><!-- /.jeg_container --><div class="jeg_midbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+			<a href="https://diariosanrafael.com.ar/" aria-label="Visit Homepage" style="padding: 0 0 0 0;">
+				<img class="jeg_logo_img" src="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png" alt="Diario San Rafael" data-light-src="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png" data-light-srcset="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png 1x,  2x" data-dark-src="http://diariosanrafael.com.ar/diariosanrafael/wp-content/uploads/2021/08/logo-dsr2021.png" data-dark-srcset="http://diariosanrafael.com.ar/diariosanrafael/wp-content/uploads/2021/08/logo-dsr2021.png 1x, http://diariosanrafael.com.ar/diariosanrafael/wp-content/uploads/2021/08/logo-dsr2021.png 2x">			</a>
+		</div>
+	</div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_nav_html">
+    <div class="box_reproductor">
+<div class="logo_radio"><img src="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/logo_radio_dsr.svg"></div>
+<div class="enlace_radio"><a rel="nofollow noopener noreferrer" href="http://fmvos94-5.ar/" target="_blank" class="title_radio"><span>ESCUCHÁ <br> LA RADIO</span></a></div>
+<div class="img_boton_reproducir"><a rel="nofollow noopener noreferrer" href="http://fmvos94-5.ar/" target="_blank"><img src="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/boton_reproducir.png"></a></div>
+</div></div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_nav_html">
+    
+            <div class="elfsight-widget-weather elfsight-widget" data-elfsight-weather-options="%7B%22typeLocation%22%3A%22specificLocation%22%2C%22location%22%3A%22-34.597380534218026%2C%20-68.24521776631734%22%2C%22customLocationName%22%3A%22%22%2C%22lang%22%3A%22es%22%2C%22units%22%3A%22metric%22%2C%22windUnits%22%3A%22kilometres%22%2C%22pressureUnits%22%3A%22mb%22%2C%22timeFormat%22%3A%2224%22%2C%22layout%22%3A%22currentWeather%22%2C%22backgroundType%22%3A%22color%22%2C%22backgroundColor%22%3A%22rgb%28200%2C%201%2C%2037%29%22%2C%22dailyForecastBackgroundColor%22%3A%22rgb%28250%2C%20250%2C%20250%29%22%2C%22currentTemperatureSize%22%3A24%2C%22currentWeatherSize%22%3A24%2C%22iconsAnimation%22%3Atrue%2C%22showUnits%22%3Atrue%2C%22showAllDays%22%3Afalse%2C%22widgetId%22%3A%221%22%7D" data-elfsight-weather-version="1.3.1" data-elfsight-widget-id="elfsight-weather-1">
+            </div>
+            </div><div class="jeg_separator separator3"></div><!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle" aria-label="Search Button"><i class="fa fa-search"></i></a>
+    <form action="https://diariosanrafael.com.ar/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Búsqueda..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sin resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos los resultados    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div><!-- /.jeg_header -->        </div>
+
+        <div class="jeg_header_sticky">
+            <div class="sticky_blankspace"></div>
+<div class="jeg_header normal">
+    <div class="jeg_container">
+        <div data-mode="fixed" class="jeg_stickybar jeg_navbar jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_shadow jeg_navbar_normal">
+            <div class="container">
+    <div class="jeg_nav_row">
+        
+            <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                <div class="item_wrap jeg_nav_alignleft">
+                    <div class="jeg_nav_item jeg_nav_icon">
+    <a href="#" aria-label="Show Menu" class="toggle_btn jeg_mobile_toggle">
+    	<span></span><span></span><span></span>
+    </a>
+</div><div class="jeg_separator separator1"></div><div class="jeg_nav_item jeg_logo">
+    <div class="site-title">
+		<a href="https://diariosanrafael.com.ar/" aria-label="Visit Homepage">
+    	    <img class="jeg_logo_img" src="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png" alt="DSR" data-light-src="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png" data-light-srcset="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png 1x,  2x" data-dark-src="" data-dark-srcset=" 1x,  2x">    	</a>
+    </div>
+</div>                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                <div class="item_wrap jeg_nav_aligncenter">
+                    <div class="jeg_nav_item jeg_nav_html">
+    <div class="box_reproductor">
+<div class="logo_radio"><img src="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/logo_radio_dsr.svg"></div>
+<div class="enlace_radio"><a rel="nofollow noopener noreferrer" href="http://fmvos94-5.ar/" target="_blank" class="title_radio"><span>ESCUCHÁ <br> LA RADIO</span></a></div>
+<div class="img_boton_reproducir"><a rel="nofollow noopener noreferrer" href="http://fmvos94-5.ar/" target="_blank"><img src="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/boton_reproducir.png"></a></div>
+</div></div>                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignright">
+                    <div class="jeg_separator separator5"></div><!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle" aria-label="Search Button"><i class="fa fa-search"></i></a>
+    <form action="https://diariosanrafael.com.ar/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Búsqueda..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sin resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos los resultados    </div>
+</div></div>                </div>
+            </div>
+
+                </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="scroll">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item">
+    <a href="#" aria-label="Show Menu" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div><div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+			<a href="https://diariosanrafael.com.ar/" aria-label="Visit Homepage">
+				<img class="jeg_logo_img" src="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png" srcset="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png 1x, https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png 2x" alt="DSR" data-light-src="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png" data-light-srcset="https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png 1x, https://diariosanrafael.com.ar/wp-content/uploads/2021/12/logo-dsr-simple.png 2x" data-dark-src="" data-dark-srcset=" 1x,  2x">			</a>
+		</div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_nav_html">
+    <div class="box_reproductor">
+<div class="logo_radio"><img src="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/logo_radio_dsr.svg"></div>
+<div class="enlace_radio"><a rel="nofollow noopener noreferrer" href="http://fmvos94-5.ar/" target="_blank" class="title_radio"><span><strong>PLAY</strong></span></a></div>
+</div></div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_search_wrapper jeg_search_popup_expand">
+    <a href="#" aria-label="Search Button" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	<form action="https://diariosanrafael.com.ar/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Búsqueda..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sin resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos los resultados    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div>
+<div class="sticky_blankspace" style="height: 60px;"></div>        </div>
+
+        <div class="jeg_ad jeg_ad_top jnews_header_bottom_ads">
+            <div class="ads-wrapper  "></div>        </div>
+
+        		<div data-elementor-type="single-post" data-elementor-id="74565" class="elementor elementor-74565 elementor-location-single post-83771 post type-post status-publish format-standard hentry category-salud" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-eeb83a9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eeb83a9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-78eb4a2" data-id="78eb4a2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c05fcef elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="c05fcef" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Detectadas bacterias multirresistentes fuera de ambientes hospitalarios</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4d89ac33 elementor-widget elementor-widget-post-info" data-id="4d89ac33" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-a953390 elementor-inline-item" itemprop="datePublished">
+						<a href="https://diariosanrafael.com.ar/2021/09/26/">
+											<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-calendar-alt"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+										<time>septiembre 26, 2021</time>					</span>
+									</a>
+				</li>
+				</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-43029d0 elementor-widget elementor-widget-html" data-id="43029d0" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8043318152519312" crossorigin="anonymous"></script>
+<!-- Nota Bajo Foto -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8043318152519312" data-ad-slot="1945833680" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5df60803 elementor-widget elementor-widget-jnews_post_share_elementor" data-id="5df60803" data-element_type="widget" data-widget_type="jnews_post_share_elementor.default">
+				<div class="elementor-widget-container">
+					<div class="jeg_custom_share_wrapper   "><div class="jeg_share_bottom_container"><div class="jeg_share_button share-bottom clearfix">
+                <div class="jeg_sharelist">
+                    <a href="//api.whatsapp.com/send?text=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios%0Ahttps%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-whatsapp expanded"><i class="fa fa-whatsapp"></i><span>Enviar</span></a><a href="https://telegram.me/share/url?url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F&amp;text=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios" rel="nofollow" class="jeg_btn-telegram expanded"><i class="fa fa-telegram"></i><span>Compartir</span></a><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-facebook expanded"><i class="fa fa-facebook-official"></i><span>Compartir</span></a><a href="https://twitter.com/intent/tweet?text=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios&amp;url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-twitter expanded"><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></i><span>Tweet</span></a><a href="mailto:?subject=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios&amp;body=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-email expanded"><i class="fa fa-envelope"></i><span>Enviar</span></a>
+                    
+                </div>
+            </div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c0e6b48 elementor-widget elementor-widget-theme-post-content" data-id="c0e6b48" data-element_type="widget" data-widget_type="theme-post-content.default">
+				<div class="elementor-widget-container">
+					
+<p>Las bacterias de la especie Klebsiella pneumoniae se encuentran entre los microorganismos que causan más infecciones hospitalarias y también entre los que han desarrollado la mayor resistencia a los antibióticos durante los últimos años.<br>Pertenece a este grupo la KPC (Klebsiella pneumoniae carbapenemase), por ejemplo, que se granjeó el mote de superbacteria debido a que produce una enzima capaz de inactivar los fármacos más potentes disponibles para el tratamiento de infecciones graves.<br>En un estudio reciente que contó con el apoyo de la Fundación de Apoyo a la Investigación Científica del Estado de São Paulo – FAPESP y que salió publicado en el Journal of Global Antimicrobial Resistance, se demostró que los patógenos multirresistentes –incluso las productoras de KPC– ya no constituyen un problema que se ciñe al ambiente hospitalario en Brasil.<br>Al analizar especímenes de K. pneumoniae aislados en la orina de 48 personas diagnosticadas con infección urinaria en la región de Ribeirão Preto, interior de São Paulo, los científicos observaron que 29 muestras (el 60,4%) contenían bacterias no susceptibles a tres o más tipos de antibióticos y, ende, consideradas multirresistentes (MDR). En 30 muestras (el 62,5%), se detectaron 73 tipos distintos genes de virulencia, codificadores de proteínas que ayudan al microorganismo a esquivar al sistema inmunológico o a propagarse más fácilmente en el ambiente.<br>Pitondo da Silva coordina un proyecto cuyo objetivo consiste en comparar el perfil molecular de especímenes de Klebsiella aislados en pacientes de hospitales de cinco ciudades correspondientes a las cinco regiones brasileñas [Londrina (sur), Brasilia (centro-oeste), Teresina (nordeste), Manaos (norte) y Ribeirão Preto (sudeste)] y de países de los cinco continentes (Nueva Zelandia, Canadá, Holanda, Sudáfrica y la India). Las muestras de la comunidad de Ribeirão Preto se obtuvieron por casualidad, cuando los investigadores recolectaban bacterias aisladas en pacientes de un hospital local. Ese trabajo comenzó cuando Pitondo da Silva aún era investigador de la Facultad de Ciencias Farmacéuticas de Ribeirão Preto (FCFRP), de la Universidad de São Paulo (USP).<br>En el estudio ahora divulgado en el Journal of Global Antimicrobial Resistance, se tomaron en cuenta únicamente los análisis de las 48 muestras de los pacientes no internados.</p>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-cb7145b elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cb7145b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-44690bb" data-id="44690bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b70a14b elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="b70a14b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Click para descargar o imprimir la nota</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-397ce89 elementor-widget elementor-widget-jnews_post_share_elementor" data-id="397ce89" data-element_type="widget" data-widget_type="jnews_post_share_elementor.default">
+				<div class="elementor-widget-container">
+					<div class="jeg_custom_share_wrapper   "><div class="jeg_share_bottom_container"><div class="jeg_share_button share-bottom clearfix">
+                <div class="jeg_sharelist">
+                    <a href="//api.whatsapp.com/send?text=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios%0Ahttps%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-whatsapp expanded"><i class="fa fa-whatsapp"></i><span>Enviar</span></a><a href="https://telegram.me/share/url?url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F&amp;text=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios" rel="nofollow" class="jeg_btn-telegram expanded"><i class="fa fa-telegram"></i><span>Compartir</span></a><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-facebook expanded"><i class="fa fa-facebook-official"></i><span>Compartir</span></a><a href="https://twitter.com/intent/tweet?text=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios&amp;url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-twitter expanded"><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></i><span>Tweet</span></a><a href="mailto:?subject=Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios&amp;body=https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" rel="nofollow" class="jeg_btn-email expanded"><i class="fa fa-envelope"></i><span>Enviar</span></a>
+                    
+                </div>
+            </div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2dc1443 elementor-widget elementor-widget-html" data-id="2dc1443" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8043318152519312" crossorigin="anonymous"></script>
+<!-- HORIZONTAL NOTAS -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8043318152519312" data-ad-slot="7096980520" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4928bea elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-shortcode" data-id="4928bea" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><div class="fb-background-color">
+		  <div class="fb-comments" data-href="https://diariosanrafael.com.ar/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios/" data-numposts="10" data-lazy="true" data-colorscheme="light" data-order-by="social" data-mobile="true">
+		  </div></div>
+		  <style>
+		  	.fb-background-color {
+				background: #ffffff !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  </div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4815dfa3 elementor-widget elementor-widget-heading" data-id="4815dfa3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">La información justa siempre con vos!</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-334bb1c7 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="334bb1c7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-xs" href="https://t.me/dsrnoticias" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">SUSCRIBITE TELEGRAM</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-97fdbb3 elementor-widget__width-auto elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="97fdbb3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-xs" href="https://chat.whatsapp.com/JWHUcBQGBmXECdRxJKH8qC" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">SUSCRIBITE WHATSAPP</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-4be89a01 elementor-widget__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="4be89a01" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-xs" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">SUSCRIBITE A NUESTRO NEWSLETTER</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fe8b44d" data-id="fe8b44d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-39d8a82 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="39d8a82" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://diariosanrafael.com.ar/sorteo-moto-benelli/" target="_blank">
+							<img width="350" height="218" src="https://diariosanrafael.com.ar/wp-content/uploads/2021/08/Anuncio-Diario.gif" class="attachment-large size-large wp-image-84112" alt="">								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-4b784fe7 elementor-position-left elementor-vertical-align-middle elementor-hidden-phone elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="4b784fe7" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve"><style type="text/css">	.st0{fill:#E90021;}</style><g>	<path class="st0" d="M334.1,138.53c1.12-0.77,1.69-2.1,1.69-4.01c0-1.96-0.56-3.32-1.69-4.09c-1.12-0.77-3.32-1.15-6.59-1.15h-7.96   v10.4h8.43C330.94,139.68,332.98,139.3,334.1,138.53z"></path>	<polygon class="st0" points="259.08,152.34 270.73,152.34 264.96,133.12  "></polygon>	<path class="st0" d="M423.2,158.89c3.87,0,6.71-1.22,8.51-3.67c1.8-2.45,2.71-6.31,2.71-11.59c0-5.3-0.9-9.17-2.71-11.62   c-1.8-2.45-4.64-3.67-8.51-3.67c-3.9,0-6.76,1.23-8.59,3.69c-1.83,2.46-2.75,6.33-2.75,11.6c0,5.25,0.91,9.11,2.75,11.57   C416.44,157.66,419.31,158.89,423.2,158.89z"></path>	<path class="st0" d="M300,1L300,1C134.87,1,1,134.87,1,300v0c0,165.13,133.87,299,299,299h0c165.13,0,299-133.87,299-299v0   C599,134.87,465.13,1,300,1z M209.43,115.83h18.91v55.5h-18.91V115.83z M144.84,115.83h22.44c5.7,0,9.94,0.25,12.73,0.73   c2.78,0.49,5.21,1.3,7.28,2.43c4,2.26,7.01,5.44,9.02,9.53c2.01,4.09,3.02,9.13,3.02,15.11c0,6.28-1.25,11.56-3.75,15.84   c-2.5,4.28-6.18,7.47-11.04,9.55c-1.88,0.83-4.24,1.42-7.08,1.77c-2.84,0.35-7.38,0.53-13.63,0.53h-18.98V115.83z M259.9,450.27   c-15.63,15.58-38.01,23.37-67.15,23.37c-26.85,0-48.14-7.79-63.85-23.37c-15.72-15.58-24.54-37.53-26.46-65.84h63.23   c1.74,9.52,4.9,16.36,9.48,20.52c4.58,4.17,11.41,6.25,20.48,6.25c7.6,0,13.58-1.7,17.94-5.08c4.35-3.39,6.53-8.06,6.53-14.01   c0-9.52-9.12-17.25-27.35-23.2c-3.67-1.19-6.46-2.08-8.39-2.68c-14.94-5-26.83-9.55-35.67-13.65c-8.84-4.1-15.28-7.94-19.31-11.51   c-7.79-7.25-13.63-15.94-17.53-26.05c-3.9-10.11-5.84-21.65-5.84-34.62c0-26.05,7.56-46.51,22.68-61.38   c15.12-14.87,35.92-22.3,62.41-22.3c26.03,0,46.51,7.11,61.45,21.32c14.94,14.22,23.37,34.59,25.29,61.11h-61.72   c-1.01-7.73-3.64-13.5-7.9-17.31c-4.26-3.81-10.33-5.71-18.21-5.71c-6.97,0-12.14,1.49-15.53,4.46c-3.39,2.98-5.09,7.49-5.09,13.56   c0,8.68,8.89,15.94,26.67,21.77c1.56,0.6,2.75,1.01,3.57,1.25c2.56,0.83,6.46,2.08,11.68,3.75c23.55,7.73,38.95,14.75,46.19,21.06   c8.98,7.73,15.53,16.54,19.66,26.41c4.12,9.87,6.19,21.53,6.19,34.97C283.34,412.38,275.53,434.69,259.9,450.27z M276.26,171.33   l-2.16-7.35h-18.4l-2.24,7.35h-18.24l20.32-55.5h18.79l20.32,55.5H276.26z M401.22,122.23c5.37-5.22,12.7-7.84,21.98-7.84   c9.26,0,16.57,2.61,21.93,7.84c5.36,5.23,8.04,12.36,8.04,21.4c0,9.02-2.68,16.15-8.04,21.38c-5.36,5.24-12.67,7.86-21.93,7.86   c-9.28,0-16.61-2.62-21.98-7.86c-5.37-5.24-8.06-12.36-8.06-21.38C393.16,134.59,395.84,127.46,401.22,122.23z M364.14,115.83   h18.91v55.5h-18.91V115.83z M301.23,115.83h27.65c8.66,0,14.83,1.24,18.53,3.73c3.7,2.49,5.55,6.57,5.55,12.25   c0,3.39-0.76,6.2-2.28,8.44c-1.52,2.24-3.86,4.01-7.02,5.31c3.22,0.65,5.56,1.94,7.02,3.86c1.46,1.92,2.25,4.74,2.35,8.46   l0.31,7.72c0,0.05,0.01,0.11,0.04,0.19c0.08,2.21,0.63,3.37,1.65,3.47v2.07h-18.71c-0.34-1.33-0.6-2.49-0.77-3.48   c-0.17-0.99-0.25-1.76-0.25-2.32v-5.54c0-2.86-0.59-4.88-1.77-6.05c-1.18-1.17-3.22-1.75-6.12-1.75h-7.88v19.14h-18.32V115.83z    M491.58,466.33h-65.57c-1.19-6.3-2.08-11.8-2.68-16.51c-0.6-4.7-0.89-8.36-0.89-10.97v-26.23c0-13.56-2.06-23.11-6.19-28.64   c-4.12-5.53-11.27-8.3-21.44-8.3h-27.63v90.64h-64.19V203.49h96.91c30.33,0,51.98,5.89,64.95,17.66   c12.97,11.78,19.45,31.11,19.45,57.99c0,16.06-2.66,29.38-7.97,39.97c-5.31,10.59-13.52,18.98-24.61,25.16   c11.27,3.09,19.47,9.19,24.61,18.29c5.13,9.1,7.88,22.45,8.25,40.06l1.1,36.58c0,0.24,0.04,0.54,0.14,0.89   c0.28,10.47,2.2,15.94,5.78,16.42V466.33z"></path>	<path class="st0" d="M178,154.3c1.79-1.98,2.69-5.54,2.69-10.66c0-5-0.92-8.54-2.75-10.62c-1.83-2.08-4.94-3.13-9.34-3.13h-5.22   v27.39h4.98C173,157.27,176.21,156.28,178,154.3z"></path>	<path class="st0" d="M418.17,272.64c-3.94-3.63-11.64-5.44-23.09-5.44h-27.9v49.25h29.55c10.36,0,17.5-1.81,21.44-5.44   c3.94-3.63,5.91-9.96,5.91-19C424.09,282.72,422.11,276.27,418.17,272.64z"></path></g></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<span class="elementor-icon-box-title">
+						<span>
+							MÁS LEÍDAS						</span>
+					</span>
+				
+				
+			</div>
+			
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7e8949f6 elementor-widget-mobile__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-view-default elementor-widget elementor-widget-icon" data-id="7e8949f6" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve"><style type="text/css">	.st0{fill:#E90021;}</style><g>	<path class="st0" d="M334.1,138.53c1.12-0.77,1.69-2.1,1.69-4.01c0-1.96-0.56-3.32-1.69-4.09c-1.12-0.77-3.32-1.15-6.59-1.15h-7.96   v10.4h8.43C330.94,139.68,332.98,139.3,334.1,138.53z"></path>	<polygon class="st0" points="259.08,152.34 270.73,152.34 264.96,133.12  "></polygon>	<path class="st0" d="M423.2,158.89c3.87,0,6.71-1.22,8.51-3.67c1.8-2.45,2.71-6.31,2.71-11.59c0-5.3-0.9-9.17-2.71-11.62   c-1.8-2.45-4.64-3.67-8.51-3.67c-3.9,0-6.76,1.23-8.59,3.69c-1.83,2.46-2.75,6.33-2.75,11.6c0,5.25,0.91,9.11,2.75,11.57   C416.44,157.66,419.31,158.89,423.2,158.89z"></path>	<path class="st0" d="M300,1L300,1C134.87,1,1,134.87,1,300v0c0,165.13,133.87,299,299,299h0c165.13,0,299-133.87,299-299v0   C599,134.87,465.13,1,300,1z M209.43,115.83h18.91v55.5h-18.91V115.83z M144.84,115.83h22.44c5.7,0,9.94,0.25,12.73,0.73   c2.78,0.49,5.21,1.3,7.28,2.43c4,2.26,7.01,5.44,9.02,9.53c2.01,4.09,3.02,9.13,3.02,15.11c0,6.28-1.25,11.56-3.75,15.84   c-2.5,4.28-6.18,7.47-11.04,9.55c-1.88,0.83-4.24,1.42-7.08,1.77c-2.84,0.35-7.38,0.53-13.63,0.53h-18.98V115.83z M259.9,450.27   c-15.63,15.58-38.01,23.37-67.15,23.37c-26.85,0-48.14-7.79-63.85-23.37c-15.72-15.58-24.54-37.53-26.46-65.84h63.23   c1.74,9.52,4.9,16.36,9.48,20.52c4.58,4.17,11.41,6.25,20.48,6.25c7.6,0,13.58-1.7,17.94-5.08c4.35-3.39,6.53-8.06,6.53-14.01   c0-9.52-9.12-17.25-27.35-23.2c-3.67-1.19-6.46-2.08-8.39-2.68c-14.94-5-26.83-9.55-35.67-13.65c-8.84-4.1-15.28-7.94-19.31-11.51   c-7.79-7.25-13.63-15.94-17.53-26.05c-3.9-10.11-5.84-21.65-5.84-34.62c0-26.05,7.56-46.51,22.68-61.38   c15.12-14.87,35.92-22.3,62.41-22.3c26.03,0,46.51,7.11,61.45,21.32c14.94,14.22,23.37,34.59,25.29,61.11h-61.72   c-1.01-7.73-3.64-13.5-7.9-17.31c-4.26-3.81-10.33-5.71-18.21-5.71c-6.97,0-12.14,1.49-15.53,4.46c-3.39,2.98-5.09,7.49-5.09,13.56   c0,8.68,8.89,15.94,26.67,21.77c1.56,0.6,2.75,1.01,3.57,1.25c2.56,0.83,6.46,2.08,11.68,3.75c23.55,7.73,38.95,14.75,46.19,21.06   c8.98,7.73,15.53,16.54,19.66,26.41c4.12,9.87,6.19,21.53,6.19,34.97C283.34,412.38,275.53,434.69,259.9,450.27z M276.26,171.33   l-2.16-7.35h-18.4l-2.24,7.35h-18.24l20.32-55.5h18.79l20.32,55.5H276.26z M401.22,122.23c5.37-5.22,12.7-7.84,21.98-7.84   c9.26,0,16.57,2.61,21.93,7.84c5.36,5.23,8.04,12.36,8.04,21.4c0,9.02-2.68,16.15-8.04,21.38c-5.36,5.24-12.67,7.86-21.93,7.86   c-9.28,0-16.61-2.62-21.98-7.86c-5.37-5.24-8.06-12.36-8.06-21.38C393.16,134.59,395.84,127.46,401.22,122.23z M364.14,115.83   h18.91v55.5h-18.91V115.83z M301.23,115.83h27.65c8.66,0,14.83,1.24,18.53,3.73c3.7,2.49,5.55,6.57,5.55,12.25   c0,3.39-0.76,6.2-2.28,8.44c-1.52,2.24-3.86,4.01-7.02,5.31c3.22,0.65,5.56,1.94,7.02,3.86c1.46,1.92,2.25,4.74,2.35,8.46   l0.31,7.72c0,0.05,0.01,0.11,0.04,0.19c0.08,2.21,0.63,3.37,1.65,3.47v2.07h-18.71c-0.34-1.33-0.6-2.49-0.77-3.48   c-0.17-0.99-0.25-1.76-0.25-2.32v-5.54c0-2.86-0.59-4.88-1.77-6.05c-1.18-1.17-3.22-1.75-6.12-1.75h-7.88v19.14h-18.32V115.83z    M491.58,466.33h-65.57c-1.19-6.3-2.08-11.8-2.68-16.51c-0.6-4.7-0.89-8.36-0.89-10.97v-26.23c0-13.56-2.06-23.11-6.19-28.64   c-4.12-5.53-11.27-8.3-21.44-8.3h-27.63v90.64h-64.19V203.49h96.91c30.33,0,51.98,5.89,64.95,17.66   c12.97,11.78,19.45,31.11,19.45,57.99c0,16.06-2.66,29.38-7.97,39.97c-5.31,10.59-13.52,18.98-24.61,25.16   c11.27,3.09,19.47,9.19,24.61,18.29c5.13,9.1,7.88,22.45,8.25,40.06l1.1,36.58c0,0.24,0.04,0.54,0.14,0.89   c0.28,10.47,2.2,15.94,5.78,16.42V466.33z"></path>	<path class="st0" d="M178,154.3c1.79-1.98,2.69-5.54,2.69-10.66c0-5-0.92-8.54-2.75-10.62c-1.83-2.08-4.94-3.13-9.34-3.13h-5.22   v27.39h4.98C173,157.27,176.21,156.28,178,154.3z"></path>	<path class="st0" d="M418.17,272.64c-3.94-3.63-11.64-5.44-23.09-5.44h-27.9v49.25h29.55c10.36,0,17.5-1.81,21.44-5.44   c3.94-3.63,5.91-9.96,5.91-19C424.09,282.72,422.11,276.27,418.17,272.64z"></path></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-74f818ef elementor-widget-mobile__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-heading" data-id="74f818ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">MÁS LEÍDAS</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-54503d1 elementor-widget elementor-widget-wp-widget-jnews_popular" data-id="54503d1" data-element_type="widget" data-widget_type="wp-widget-jnews_popular.default">
+				<div class="elementor-widget-container">
+					<ul class="popularpost_list"><li class="popularpost_item format-standard">
+                <div class="jeg_thumb">
+                    
+                    <a href="https://diariosanrafael.com.ar/anses-prepara-un-reconocimiento-historico-para-aquellos-que-se-jubilaron-sin-moratoria/" aria-label="Read article: ANSES prepara un reconocimiento histórico para aquellos que se jubilaron sin moratoria"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://diariosanrafael.com.ar/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="ANSES prepara un reconocimiento histórico para aquellos que se jubilaron sin moratoria" decoding="async" sizes="(max-width: 350px) 100vw, 350px" data-src="https://diariosanrafael.com.ar/wp-content/uploads/2025/01/sin_turnos_en_anses.jpg_250472578-350x250.jpg" data-srcset="https://diariosanrafael.com.ar/wp-content/uploads/2025/01/sin_turnos_en_anses.jpg_250472578-350x250.jpg 350w, https://diariosanrafael.com.ar/wp-content/uploads/2025/01/sin_turnos_en_anses.jpg_250472578-120x86.jpg 120w, https://diariosanrafael.com.ar/wp-content/uploads/2025/01/sin_turnos_en_anses.jpg_250472578-750x536.jpg 750w, https://diariosanrafael.com.ar/wp-content/uploads/2025/01/sin_turnos_en_anses.jpg_250472578-1140x815.jpg 1140w" data-sizes="auto" data-expand="700"></div></a>
+                </div>
+                <h3 class="jeg_post_title">
+                    <a href="https://diariosanrafael.com.ar/anses-prepara-un-reconocimiento-historico-para-aquellos-que-se-jubilaron-sin-moratoria/" data-num="01">ANSES prepara un reconocimiento histórico para aquellos que se jubilaron sin moratoria</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartir</span>
+                        <div class="socialshare_list">
+                            <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdiariosanrafael.com.ar%2Fanses-prepara-un-reconocimiento-historico-para-aquellos-que-se-jubilaron-sin-moratoria%2F" class="jeg_share_fb"><span class="share-text">Compartir</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=ANSES%20prepara%20un%20reconocimiento%20hist%C3%B3rico%20para%20aquellos%20que%20se%20jubilaron%20sin%20moratoria&amp;url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fanses-prepara-un-reconocimiento-historico-para-aquellos-que-se-jubilaron-sin-moratoria%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://diariosanrafael.com.ar/un-veterinario-explico-los-beneficios-que-tiene-dormir-con-un-gato/" data-num="02">Un veterinario explicó los beneficios que tiene dormir con un gato</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartir</span>
+                        <div class="socialshare_list">
+                            <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdiariosanrafael.com.ar%2Fun-veterinario-explico-los-beneficios-que-tiene-dormir-con-un-gato%2F" class="jeg_share_fb"><span class="share-text">Compartir</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Un%20veterinario%20explic%C3%B3%20los%20beneficios%20que%20tiene%20dormir%20con%20un%20gato&amp;url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fun-veterinario-explico-los-beneficios-que-tiene-dormir-con-un-gato%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://diariosanrafael.com.ar/conmocion-murio-benjamin-mansilla-tras-dos-dias-de-agonia/" data-num="03">Conmoción: murió Benjamín Mansilla tras dos días de agonía</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartir</span>
+                        <div class="socialshare_list">
+                            <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdiariosanrafael.com.ar%2Fconmocion-murio-benjamin-mansilla-tras-dos-dias-de-agonia%2F" class="jeg_share_fb"><span class="share-text">Compartir</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Conmoci%C3%B3n%3A%20muri%C3%B3%20Benjam%C3%ADn%20Mansilla%20tras%20dos%20d%C3%ADas%20de%20agon%C3%ADa&amp;url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fconmocion-murio-benjamin-mansilla-tras-dos-dias-de-agonia%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://diariosanrafael.com.ar/alertan-a-productores-de-tomate-por-posible-aparicion-de-podredumbre-apical/" data-num="04">Alertan a productores de tomate por posible aparición de “podredumbre apical”</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartir</span>
+                        <div class="socialshare_list">
+                            <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdiariosanrafael.com.ar%2Falertan-a-productores-de-tomate-por-posible-aparicion-de-podredumbre-apical%2F" class="jeg_share_fb"><span class="share-text">Compartir</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Alertan%20a%20productores%20de%20tomate%20por%20posible%20aparici%C3%B3n%20de%20%E2%80%9Cpodredumbre%20apical%E2%80%9D&amp;url=https%3A%2F%2Fdiariosanrafael.com.ar%2Falertan-a-productores-de-tomate-por-posible-aparicion-de-podredumbre-apical%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://diariosanrafael.com.ar/cual-es-el-condimento-que-sirve-para-alejar-definitivamente-a-las-cucarachas-de-tu-casa/" data-num="05">Cuál es el condimento que sirve para alejar definitivamente a las cucarachas de tu casa</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartir</span>
+                        <div class="socialshare_list">
+                            <a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdiariosanrafael.com.ar%2Fcual-es-el-condimento-que-sirve-para-alejar-definitivamente-a-las-cucarachas-de-tu-casa%2F" class="jeg_share_fb"><span class="share-text">Compartir</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Cu%C3%A1l%20es%20el%20condimento%20que%20sirve%20para%20alejar%20definitivamente%20a%20las%20cucarachas%20de%20tu%20casa&amp;url=https%3A%2F%2Fdiariosanrafael.com.ar%2Fcual-es-el-condimento-que-sirve-para-alejar-definitivamente-a-las-cucarachas-de-tu-casa%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li></ul>				</div>
+				</div>
+				<div class="elementor-element elementor-element-63cba1d elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="63cba1d" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<iframe id="totalpoll-iframe-139096" src="https://diariosanrafael.com.ar/poll/portezuelo/?embed=1" frameborder="0" allowtransparency="true" width="100%" height="400"></iframe><script>window.addEventListener('message', function (event) {if (event.data.totalpoll && event.data.totalpoll.action === 'resizeHeight') {document.querySelector('#totalpoll-iframe-139096').height = event.data.totalpoll.value;}}, false);document.querySelector('#totalpoll-iframe-139096').contentWindow.postMessage({totalpoll: {action: 'requestHeight'}}, '*');</script>				</div>
+				</div>
+				<div class="elementor-element elementor-element-435c231 elementor-widget elementor-widget-html" data-id="435c231" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8043318152519312" crossorigin="anonymous"></script>
+<!-- SIDEBAR NOTA 1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8043318152519312" data-ad-slot="8459869940" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-48db1219 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="48db1219" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-163ff1d1" data-id="163ff1d1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-58416f7b elementor-widget elementor-widget-jnews_post_related_elementor" data-id="58416f7b" data-element_type="widget" data-widget_type="jnews_post_related_elementor.default">
+				<div class="elementor-widget-container">
+					<div class="jnews_related_post_container jeg_custom_related_wrapper   "><div class="jeg_postblock_22 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_3o3 jnews_module_83771_3_6785e49202e64   " data-unique="jnews_module_83771_3_6785e49202e64">
+					<div class="jeg_block_heading jeg_block_heading_1 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Noticias<strong> Relacionadas</strong></span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts_wrap">
+                    <div class="jeg_posts jeg_load_more_flag"> 
+                        <article class="jeg_post jeg_pl_md_5 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://diariosanrafael.com.ar/a-que-velocidad-deberias-caminar-para-anadir-anos-a-tu-vida/" aria-label="Read article: A qué velocidad deberías caminar para añadir años a tu vida"><div class="thumbnail-container animate-lazy no_thumbnail size-715 "></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://diariosanrafael.com.ar/category/salud/" class="category-salud">SALUD</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://diariosanrafael.com.ar/a-que-velocidad-deberias-caminar-para-anadir-anos-a-tu-vida/">A qué velocidad deberías caminar para añadir años a tu vida</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://diariosanrafael.com.ar/a-que-velocidad-deberias-caminar-para-anadir-anos-a-tu-vida/"><i class="fa fa-clock-o"></i> 16/12/2024</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_5 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://diariosanrafael.com.ar/dia-mundial-del-cancer-de-pulmon-el-tabaquismo-provoca-el-84-de-los-casos-del-tumor-mas-letal/" aria-label="Read article: Día Mundial del Cáncer de Pulmón: el tabaquismo provoca el 84% de los casos del tumor más letal"><div class="thumbnail-container animate-lazy no_thumbnail size-715 "></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://diariosanrafael.com.ar/category/salud/" class="category-salud">SALUD</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://diariosanrafael.com.ar/dia-mundial-del-cancer-de-pulmon-el-tabaquismo-provoca-el-84-de-los-casos-del-tumor-mas-letal/">Día Mundial del Cáncer de Pulmón: el tabaquismo provoca el 84% de los casos del tumor más letal</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://diariosanrafael.com.ar/dia-mundial-del-cancer-de-pulmon-el-tabaquismo-provoca-el-84-de-los-casos-del-tumor-mas-letal/"><i class="fa fa-clock-o"></i> 17/11/2024</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_5 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://diariosanrafael.com.ar/por-que-conviene-desayunar-y-cenar-temprano/" aria-label="Read article: Por qué conviene desayunar y cenar temprano"><div class="thumbnail-container animate-lazy no_thumbnail size-715 "></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://diariosanrafael.com.ar/category/salud/" class="category-salud">SALUD</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://diariosanrafael.com.ar/por-que-conviene-desayunar-y-cenar-temprano/">Por qué conviene desayunar y cenar temprano</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://diariosanrafael.com.ar/por-que-conviene-desayunar-y-cenar-temprano/"><i class="fa fa-clock-o"></i> 22/10/2024</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_5 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://diariosanrafael.com.ar/las-frutas-se-estan-volviendo-menos-nutritivas/" aria-label="Read article: ¿Las frutas se están volviendo menos nutritivas?"><div class="thumbnail-container animate-lazy no_thumbnail size-715 "></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://diariosanrafael.com.ar/category/salud/" class="category-salud">SALUD</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://diariosanrafael.com.ar/las-frutas-se-estan-volviendo-menos-nutritivas/">¿Las frutas se están volviendo menos nutritivas?</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://diariosanrafael.com.ar/las-frutas-se-estan-volviendo-menos-nutritivas/"><i class="fa fa-clock-o"></i> 17/10/2024</a></div></div>
+                    </div>
+                </article>
+                    </div>
+                </div>
+                    <div class="module-overlay">
+				    <div class="preloader_type preloader_circle">
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class="navigation_overlay"><div class="module-preloader jeg_preloader"><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_83771_3_6785e49202e64 = {"header_icon":"","first_title":"Noticias","second_title":" Relacionadas","url":"","header_type":"heading_1","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","sticky_post":false,"post_type":"post","content_type":"all","sponsor":false,"number_post":{"unit":"px","size":4,"sizes":[]},"post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":83771,"include_category":"563","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":{"unit":"px","size":4,"sizes":[]},"pagination_scroll_limit":{"unit":"px","size":3,"sizes":[]},"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","excerpt_length":{"unit":"px","size":20,"sizes":[]},"paged":1,"column_class":"jeg_col_3o3","class":"jnews_block_22"};</script>
+				</div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		        <div class="footer-holder" id="footer" data-id="footer">
+            <div class="jeg_footer jeg_footer_custom">
+    <div class="jeg_container">
+        <div class="jeg_content">
+            <div class="jeg_vc_content">
+                		<div data-elementor-type="wp-post" data-elementor-id="47" class="elementor elementor-47" data-elementor-post-type="footer">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-1c28acc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1c28acc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37aec9d" data-id="37aec9d" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c3c0cfc elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c3c0cfc" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4c75114" data-id="4c75114" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-7dfa2be elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7dfa2be" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-39d2881" data-id="39d2881" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ccf894c elementor-widget elementor-widget-image" data-id="ccf894c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://diariosanrafael.com.ar/wp-content/uploads/2021/07/DSR_logo.svg" class="attachment-full size-full wp-image-16" alt="">															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b277ad6 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b277ad6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9a0a6d6" data-id="9a0a6d6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7adfe43 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="7adfe43" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-shrink" href="https://www.facebook.com/DiarioSanRafael">
+			<i aria-hidden="true" class="fab fa-facebook-f"></i>			</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-910098e elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="910098e" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-shrink" href="https://www.instagram.com/diariosanrafael/?hl=es-la">
+			<i aria-hidden="true" class="fab fa-instagram"></i>			</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d094d42 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="d094d42" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-shrink" href="https://twitter.com/diariosanrafael?lang=es">
+			<i aria-hidden="true" class="fab fa-twitter"></i>			</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9f51db0 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="9f51db0" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-shrink" href="https://www.youtube.com/channel/UCWhsV1YALBkWBsbJQBkGv1g">
+			<i aria-hidden="true" class="fab fa-youtube"></i>			</a>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d02374e elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d02374e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6b57b16" data-id="6b57b16" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a955b42 elementor-widget elementor-widget-heading" data-id="a955b42" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">redaccion@diariosanrafael.com.ar</span>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7336d39" data-id="7336d39" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d835fda elementor-widget elementor-widget-heading" data-id="d835fda" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">direccion@diariosanrafael.com.ar</span>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0f04db5" data-id="0f04db5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f031f2c elementor-widget elementor-widget-heading" data-id="f031f2c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">publicidad@diariosanrafael.com.ar</span>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-651f606 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="651f606" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5569119" data-id="5569119" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1235330 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1235330" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a7b9413 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7b9413" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-cb9b42e" data-id="cb9b42e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-72346fc elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="72346fc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Comandante Salas 131 . Teléfono: 2604425317 . San Rafael, Mendoza . C.P: 5600</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-550235e elementor-hidden-desktop elementor-widget elementor-widget-heading" data-id="550235e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Comandante Salas 131 . Teléfono: 2604425317 <br> San Rafael, Mendoza . C.P: 5600</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b2dfb19 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b2dfb19" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fe83888" data-id="fe83888" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-d464267 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d464267" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4574c87" data-id="4574c87" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aac11d6 elementor-widget elementor-widget-heading" data-id="aac11d6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">© 2022 Diario San Rafael. Todos los derechos reservados.</span>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0253592" data-id="0253592" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a23c4b1 elementor-widget elementor-widget-heading" data-id="a23c4b1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<span class="elementor-heading-title elementor-size-default">by dilookmedia.com</span>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		            </div>
+        </div>
+    </div>
+</div><!-- /.footer -->        </div>
+
+        <div class="jscroll-to-top">
+        	<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+        </div>
+    </div>
+
+    <!-- Login Popup Content -->
+<div id="jeg_loginform" class="jeg_popup mfp-with-anim mfp-hide">
+    <div class="jeg_popupform jeg_popup_account">
+        <form action="#" data-type="login" method="post" accept-charset="utf-8">
+            <h3>¡Bienvenido de nuevo!</h3>            <p>Inicie sesión en su cuenta a continuación</p>
+
+            <!-- Form Messages -->
+            <div class="form-message"></div>
+            <p class="input_field">
+                <input type="text" name="username" placeholder="Usuario" value="">
+            </p>
+            <p class="input_field">
+                <input type="password" name="password" placeholder="Contraseña" value="">
+            </p>
+            <p class="input_field remember_me">
+                <input type="checkbox" id="remember_me" name="remember_me" value="true">
+                <label for="remember_me">Recuérdame</label>
+            </p>
+						<p class="submit">
+                <input type="hidden" name="action" value="login_handler">
+                <input type="hidden" name="jnews_nonce" value="2f6f95e2b1">
+                <input type="submit" name="jeg_login_button" class="button" value="Iniciar sesión" data-process="Procesando . . ." data-string="Iniciar sesión">
+            </p>
+            <div class="bottom_links clearfix">
+                <a href="#jeg_forgotform" class="jeg_popuplink forgot">¿Contraseña olvidada?</a>
+                            </div>
+        </form>
+    </div>
+</div>
+
+
+<!-- Forgot Password Popup Content -->
+<div id="jeg_forgotform" class="jeg_popup mfp-with-anim mfp-hide">
+    <div class="jeg_popupform jeg_popup_account">
+        <form action="#" data-type="forgot" method="post" accept-charset="utf-8">
+            <h3>Recupera tu contraseña</h3>
+            <p>Ingrese su nombre de usuario o dirección de correo electrónico para restablecer su contraseña.</p>
+
+            <!-- Form Messages -->
+            <div class="form-message"></div>
+
+            <p class="input_field">
+                <input type="text" name="user_login" placeholder="Su correo electrónico o nombre de usuario" value="">
+            </p>
+			<div class="g-recaptcha" data-sitekey=""></div>
+            <p class="submit">
+                <input type="hidden" name="action" value="forget_password_handler">
+                <input type="hidden" name="jnews_nonce" value="2f6f95e2b1">
+                <input type="submit" name="jeg_login_button" class="button" value="Restablecer la contraseña" data-process="Procesando . . ." data-string="Restablecer la contraseña">
+            </p>
+            <div class="bottom_links clearfix">
+                <a href="#jeg_loginform" aria-label="" class="jeg_popuplink"><i class="fa fa-lock"></i> Iniciar sesión</a>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">var jfla = ["view_counter"]</script>
+	  	<div id="fb-root"></div>
+		<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&amp;version=v12.0&amp;appId=595509488301396&amp;autoLogAppEvents=1">
+		</script>
+
+	  						<script>
+						(function (i, s, o, g, r, a, m) {
+							i['GoogleAnalyticsObject'] = r
+							i[r] = i[r] || function () {
+								(i[r].q = i[r].q || []).push(arguments)
+							}, i[r].l = 1 * new Date()
+							a = s.createElement(o),
+								m = s.getElementsByTagName(o)[0]
+							a.async = 1
+							a.src = g
+							m.parentNode.insertBefore(a, m)
+						})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga')
+
+						ga('create', 'UA-53865538-1', 'auto')
+						ga('send', 'pageview')
+					</script>
+					<div id="jeg_playlist" class="jeg_popup create_playlist mfp-with-anim mfp-hide">
+	<div class="jeg_popupform jeg_popupform_playlist">
+		<form action="#" method="post" accept-charset="utf-8">
+			<h3>Agregar nueva lista de reproducción</h3>
+
+			<!-- Form Messages -->
+			<div class="form-message"></div>
+
+			<div class="form-group">
+				<p class="input_field">
+					<input type="text" name="title" placeholder="Playlist Name" value="">
+				</p>
+				<p class="input_field">
+					<select name="visibility"><option disabled="" selected="selected" value="">- Seleccione Visibilidad -</option><option value="public">Public</option><option value="private">Private</option></select>				</p>
+				<!-- submit button -->
+				<div class="submit">
+					<input type="hidden" name="type" value="create_playlist">
+					<input type="hidden" name="action" value="playlist_handler">
+					<input type="hidden" name="post_id" value="">
+					<input type="hidden" name="jnews-playlist-nonce" value="6f1d9f54e3">
+					<input type="submit" name="jeg_save_button" class="button" value="Save" data-process="Procesando . . ." data-string="Save">
+				</div>
+			</div>
+
+
+		</form>
+	</div>
+</div>
+
+<div id="notification_action_renderer" class="jeg_popup_container">
+	<div id="paper_toast">
+		<span id="label"></span>
+	</div>
+</div>
+<!-- YouTube Feeds JS -->
+<script type="text/javascript">
+
+</script>
+<div id="selectShareContainer">
+                        <div class="selectShare-inner">
+                            <div class="select_share jeg_share_button">              
+                                <button class="select-share-button jeg_btn-facebook" data-url="http://www.facebook.com/sharer.php?u=[url]&amp;quote=[selected_text]" data-post-url="https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" data-image-url="" data-title="Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios"><i class="fa fa-facebook-official"></i></button><button class="select-share-button jeg_btn-twitter" data-url="https://twitter.com/intent/tweet?text=[selected_text]&amp;url=[url]" data-post-url="https%3A%2F%2Fdiariosanrafael.com.ar%2Fdetectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios%2F" data-image-url="" data-title="Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios"><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></i>
+                            </button></div>
+                            <div class="selectShare-arrowClip">
+                                <div class="selectShare-arrow"></div>      
+                            </div> 
+                        </div>      
+                      </div><div class="dsr-03d4fff8e7e478fe3389965072cc6051 dsr-popup-principal" id="dsr-03d4fff8e7e478fe3389965072cc6051"></div><!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand round">
+    <a href="#" aria-label="Search Button" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://diariosanrafael.com.ar/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Búsqueda..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sin resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos los resultados    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu sf-js-hover"><li id="menu-item-71529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71529"><a href="https://diariosanrafael.com.ar/actualidad/">Actualidad</a>
+<ul class="sub-menu">
+	<li id="menu-item-71534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71534"><a href="https://diariosanrafael.com.ar/category/la-provincia/">La Provincia</a></li>
+	<li id="menu-item-71532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71532"><a href="https://diariosanrafael.com.ar/category/el-pais/">El País</a></li>
+	<li id="menu-item-71531" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71531"><a href="https://diariosanrafael.com.ar/category/el-mundo/">El Mundo</a></li>
+</ul>
+</li>
+<li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="https://diariosanrafael.com.ar/category/deportes/">Deportes</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="https://diariosanrafael.com.ar/category/sociedad/">Sociedad</a></li>
+<li id="menu-item-71536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71536"><a href="https://diariosanrafael.com.ar/category/tecnologia/">Tecnología</a></li>
+<li id="menu-item-71533" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71533"><a href="https://diariosanrafael.com.ar/category/espectaculos/">Espectáculos</a></li>
+<li id="menu-item-73037" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73037"><a href="https://diariosanrafael.com.ar/category/efemerides/">Efemérides</a></li>
+<li id="menu-item-73036" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73036"><a href="https://diariosanrafael.com.ar/category/editorial/">Editorial</a></li>
+<li id="menu-item-73038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73038"><a href="https://diariosanrafael.com.ar/category/hace-diez-anos/">Hace Diez Años</a></li>
+</ul></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item socials_widget nobg">
+    <a href="https://www.facebook.com/DiarioSanRafael" target="_blank" rel="external noopener nofollow" aria-label="Find us on Facebook" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.instagram.com/diariosanrafael/?hl=es-la" target="_blank" rel="external noopener nofollow" aria-label="Find us on Instagram" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://twitter.com/diariosanrafael?lang=es" target="_blank" rel="external noopener nofollow" aria-label="Find us on Twitter" class="jeg_twitter"><i class="fa fa-twitter"><span class="jeg-icon icon-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></span></i> </a><a href="https://www.youtube.com/channel/UCWhsV1YALBkWBsbJQBkGv1g" target="_blank" rel="external noopener nofollow" aria-label="Find us on Youtube" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a></div><div class="jeg_aside_item jeg_aside_copyright">
+	<p></p>
+</div>    </div>
+</div>    </div>
+</div><div class="jeg_read_progress_wrapper"></div>			<script type="text/javascript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel="stylesheet" id="elementor-post-47-css" href="https://diariosanrafael.com.ar/wp-content/uploads/elementor/css/post-47.css?ver=1735908862" type="text/css" media="all">
+<link rel="stylesheet" id="e-animation-shrink-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="widget-divider-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.26.3" type="text/css" media="all">
+<link rel="stylesheet" id="elfsight-weather-custom-css" href="https://diariosanrafael.com.ar/wp-content/uploads/elfsight-weather/elfsight-weather-custom.css?ver=1.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" type="text/css" media="all">
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/jnews-auto-load-post/assets/js/jquery.autoload.js" id="jnews-autoload-js"></script>
+<script type="text/javascript" id="jnews-podcast-js-extra">
+/* <![CDATA[ */
+var jnewspodcast = {"lang":{"added_queue":"Added to Queue","failed":"There&#039;s something wrong"},"player_option":"diario-san-rafael-jnews-player"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/jnews-podcast/assets/js/plugin.js?ver=11.6.0" id="jnews-podcast-js"></script>
+<script type="text/javascript" id="sigijh-front_js-js-extra">
+/* <![CDATA[ */
+var optionsValues = {"colorSelect":"#ff0","animationSpeed":"Very fast","animationActive":"Yes","animationScroll":"Yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/just-highlight/js/animation.js?ver=1.1" id="sigijh-front_js-js"></script>
+<script type="text/javascript" id="advanced-ads-pro/cache_busting-js-extra">
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/diariosanrafael.com.ar\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]},"moveintohidden":"","wp_timezone_offset":"-10800","the_id":"83771","is_singular":"1"};
+var advanced_ads_responsive = {"reload_on_resize":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="advanced-ads-pro/cache_busting-js-before">
+/* <![CDATA[ */
+document.addEventListener( 'advads_ajax_ad_select', function(ev){ ev.detail.gam = {"conditionals":{"is_archive":false,"is_category":false,"is_front_page":false,"is_home":false,"is_post_type_archive":false,"is_single":true,"is_singular":true},"vars":{"query_obj":[],"user_id":0,"post_id":83771,"categories":["salud"],"term":["salud"],"terms":["salud"],"post_type":"post","page_slug":"detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios","page_id":83771}}; } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-pro/assets/js/base.min.js?ver=2.28.2" id="advanced-ads-pro/cache_busting-js"></script>
+<script type="text/javascript" id="advanced-ads-layer-footer-js-js-extra">
+/* <![CDATA[ */
+var advanced_ads_layer_settings = {"layer_class":"dsr-layer","placements":["popup-principal"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-layer/public/assets/js/layer.js?ver=1.7.11" id="advanced-ads-layer-footer-js-js"></script>
+<script type="text/javascript" id="advanced-ads-pro/front-js-extra">
+/* <![CDATA[ */
+var advanced_ads_cookies = {"cookie_path":"\/","cookie_domain":""};
+var advadsCfpInfo = {"cfpExpHours":"3","cfpClickLimit":"3","cfpBan":"7","cfpPath":"","cfpDomain":"diariosanrafael.com.ar"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?ver=2.28.2" id="advanced-ads-pro/front-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/comment-reply.min.js?ver=6.7.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=1.0.0" id="html5shiv-js"></script>
+<![endif]-->
+<script type="text/javascript" id="advadsTrackingScript-js-extra">
+/* <![CDATA[ */
+var advadsTracking = {"impressionActionName":"aatrack-records","clickActionName":"aatrack-click","targetClass":"dsr-target","blogId":"1","frontendPrefix":"dsr-"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-tracking/public/assets/js/dist/tracking.min.js?ver=2.8.3" id="advadsTrackingScript-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/advanced-ads-tracking/public/assets/js/dist/delayed.min.js?ver=2.8.3" id="advadsTrackingDelayed-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/jnews-video/assets/js/supposition.js?ver=11.6.1" id="supposition-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" id="jnews-video-js-extra">
+/* <![CDATA[ */
+var jnewsvideo = {"user_playlist":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/jnews-video/assets/js/plugin.js?ver=11.6.1" id="jnews-video-js"></script>
+<script type="text/javascript" id="jnews-frontend-js-extra">
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/diariosanrafael.com.ar\/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios","popup_script":"disable","single_gallery":"","ismobile":"","isie":"","sidefeed_ajax":"","language":"es_ES","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"83771","isblog":"1","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Recaptcha no v\u00e1lido!","empty_username":"\u00a1Por favor, introduzca su nombre de usuario!","empty_email":"\u00a1Por favor introduzca su correo electr\u00f3nico!","empty_password":"\u00a1Por favor, introduzca su contrase\u00f1a!"},"recaptcha":"0","site_slug":"\/","site_domain":"diariosanrafael.com.ar","zoom_button":"0","stt_button_mobile":"","dm_cookie_time":"0","autoload_limit":"10","autoload_content":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=1.0.0" id="jnews-frontend-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.1.3" id="__ytprefsfitvids__-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202503.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"216700741\",\"post\":\"83771\",\"tz\":\"-3\",\"srv\":\"diariosanrafael.com.ar\",\"hp\":\"atomic\",\"ac\":\"3\",\"amp\":\"0\",\"j\":\"1:14.2.1\"}") ]);
+_stq.push([ "clickTrackerInit", "216700741", "83771" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="jnews-select-share-js-extra">
+/* <![CDATA[ */
+var jnews_select_share = {"is_customize_preview":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/jnews-social-share/assets/js/plugin.js" id="jnews-select-share-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/jnews-weather/assets/js/plugin.js?ver=11.0.2" id="jnews-weather-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/elfsight-weather-cc/assets/elfsight-weather.js?ver=1.3.1" id="elfsight-weather-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.26.2" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.26.3" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.26.3" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/diariosanrafael.com.ar\/wp-admin\/admin-ajax.php","nonce":"6d083b4034","urls":{"assets":"https:\/\/diariosanrafael.com.ar\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/diariosanrafael.com.ar\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"es_ES","app_id":"595509488301396"},"lottie":{"defaultAnimationUrl":"https:\/\/diariosanrafael.com.ar\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.26.2" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.26.3","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"e_css_smooth_scroll":true,"theme_builder_v2":true,"home_screen":true,"landing-pages":true,"nested-elements":true,"editor_v2":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https:\/\/diariosanrafael.com.ar\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/diariosanrafael.com.ar\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/diariosanrafael.com.ar\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"ef9b89e4f2"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":83771,"title":"Detectadas%20bacterias%20multirresistentes%20fuera%20de%20ambientes%20hospitalarios%20-%20Diario%20San%20Rafael","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.3" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://diariosanrafael.com.ar/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.26.2" id="pro-elements-handlers-js"></script>
+<script type="module">;/*! instant.page v5.1.1 - (C) 2019-2020 Alexandre Dieulot - https://instant.page/license */
+let t,e;const n=new Set,o=document.createElement("link"),i=o.relList&&o.relList.supports&&o.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype,s="instantAllowQueryString"in document.body.dataset,a="instantAllowExternalLinks"in document.body.dataset,r="instantWhitelist"in document.body.dataset,c="instantMousedownShortcut"in document.body.dataset,d=1111;let l=65,u=!1,f=!1,m=!1;if("instantIntensity"in document.body.dataset){const t=document.body.dataset.instantIntensity;if("mousedown"==t.substr(0,9))u=!0,"mousedown-only"==t&&(f=!0);else if("viewport"==t.substr(0,8))navigator.connection&&(navigator.connection.saveData||navigator.connection.effectiveType&&navigator.connection.effectiveType.includes("2g"))||("viewport"==t?document.documentElement.clientWidth*document.documentElement.clientHeight<45e4&&(m=!0):"viewport-all"==t&&(m=!0));else{const e=parseInt(t);isNaN(e)||(l=e)}}if(i){const n={capture:!0,passive:!0};if(f||document.addEventListener("touchstart",(function(t){e=performance.now();const n=t.target.closest("a");h(n)&&v(n.href)}),n),u?c||document.addEventListener("mousedown",(function(t){const e=t.target.closest("a");h(e)&&v(e.href)}),n):document.addEventListener("mouseover",(function(n){if(performance.now()-e<d)return;if(!("closest"in n.target))return;const o=n.target.closest("a");h(o)&&(o.addEventListener("mouseout",p,{passive:!0}),t=setTimeout((()=>{v(o.href),t=void 0}),l))}),n),c&&document.addEventListener("mousedown",(function(t){if(performance.now()-e<d)return;const n=t.target.closest("a");if(t.which>1||t.metaKey||t.ctrlKey)return;if(!n)return;n.addEventListener("click",(function(t){1337!=t.detail&&t.preventDefault()}),{capture:!0,passive:!1,once:!0});const o=new MouseEvent("click",{view:window,bubbles:!0,cancelable:!1,detail:1337});n.dispatchEvent(o)}),n),m){let t;(t=window.requestIdleCallback?t=>{requestIdleCallback(t,{timeout:1500})}:t=>{t()})((()=>{const t=new IntersectionObserver((e=>{e.forEach((e=>{if(e.isIntersecting){const n=e.target;t.unobserve(n),v(n.href)}}))}));document.querySelectorAll("a").forEach((e=>{h(e)&&t.observe(e)}))}))}}function p(e){e.relatedTarget&&e.target.closest("a")==e.relatedTarget.closest("a")||t&&(clearTimeout(t),t=void 0)}function h(t){if(t&&t.href&&(!r||"instant"in t.dataset)&&(a||t.origin==location.origin||"instant"in t.dataset)&&["http:","https:"].includes(t.protocol)&&("http:"!=t.protocol||"https:"!=location.protocol)&&(s||!t.search||"instant"in t.dataset)&&!(t.hash&&t.pathname+t.search==location.pathname+location.search||"noInstant"in t.dataset))return!0}function v(t){if(n.has(t))return;const e=document.createElement("link");e.rel="prefetch",e.href=t,document.head.appendChild(e),n.add(t)}</script><script>window.advads_admin_bar_items = [];</script><script>window.advads_ajax_queries = [{"id":"popup-principal","method":"placement","params":{"previous_method":"placement","previous_id":"popup-principal","post":"r0","url_parameter":"\/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios\/","placement_type":"layer","inline-css":"","layer_placement":{"trigger":"","offset":"0","delay_sec":"0","effect":"show","duration":"0","background":"1","background_click_close":"1","auto_close":{"delay":"5"},"close":{"where":"inside","side":"right","timeout":"0"},"sticky":{"assistant":"center","position":{"width":"0","height":"0"}}},"placement_width":"0","placement_height":"0","cache-busting":"auto","output":{"class":["dsr-popup-principal"],"placement_id":"popup-principal"}},"elementid":"dsr-03d4fff8e7e478fe3389965072cc6051","blog_id":1}];
+window.advads_ajax_queries_args = {"r0":{"id":83771,"author":"7","post_type":"post"}};
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( !window.advanced_ads_pro ) {console.log("Advanced Ads Pro: cache-busting can not be initialized");} });</script><div class="jeg_ad jnews_mobile_sticky_ads "></div><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/diariosanrafael.com.ar\/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios\/"},"dateCreated":"2021-09-26 02:57:00America\/Argentina\/Mendoza","datePublished":"2021-09-26 02:57:00America\/Argentina\/Mendoza","dateModified":"2021-09-25 22:00:37America\/Argentina\/Mendoza","url":"https:\/\/diariosanrafael.com.ar\/detectadas-bacterias-multirresistentes-fuera-de-ambientes-hospitalarios\/","headline":"Detectadas bacterias multirresistentes fuera de ambientes hospitalarios","name":"Detectadas bacterias multirresistentes fuera de ambientes hospitalarios","articleBody":"<!-- wp:paragraph -->\n<p>Las bacterias de la especie Klebsiella pneumoniae se encuentran entre los microorganismos que causan m\u00e1s infecciones hospitalarias y tambi\u00e9n entre los que han desarrollado la mayor resistencia a los antibi\u00f3ticos durante los \u00faltimos a\u00f1os.<br>Pertenece a este grupo la KPC (Klebsiella pneumoniae carbapenemase), por ejemplo, que se granje\u00f3 el mote de superbacteria debido a que produce una enzima capaz de inactivar los f\u00e1rmacos m\u00e1s potentes disponibles para el tratamiento de infecciones graves.<br>En un estudio reciente que cont\u00f3 con el apoyo de la Fundaci\u00f3n de Apoyo a la Investigaci\u00f3n Cient\u00edfica del Estado de S\u00e3o Paulo - FAPESP y que sali\u00f3 publicado en el Journal of Global Antimicrobial Resistance, se demostr\u00f3 que los pat\u00f3genos multirresistentes \u2013incluso las productoras de KPC\u2013 ya no constituyen un problema que se ci\u00f1e al ambiente hospitalario en Brasil.<br>Al analizar espec\u00edmenes de K. pneumoniae aislados en la orina de 48 personas diagnosticadas con infecci\u00f3n urinaria en la regi\u00f3n de Ribeir\u00e3o Preto, interior de S\u00e3o Paulo, los cient\u00edficos observaron que 29 muestras (el 60,4%) conten\u00edan bacterias no susceptibles a tres o m\u00e1s tipos de antibi\u00f3ticos y, ende, consideradas multirresistentes (MDR). En 30 muestras (el 62,5%), se detectaron 73 tipos distintos genes de virulencia, codificadores de prote\u00ednas que ayudan al microorganismo a esquivar al sistema inmunol\u00f3gico o a propagarse m\u00e1s f\u00e1cilmente en el ambiente.<br>Pitondo da Silva coordina un proyecto cuyo objetivo consiste en comparar el perfil molecular de espec\u00edmenes de Klebsiella aislados en pacientes de hospitales de cinco ciudades correspondientes a las cinco regiones brasile\u00f1as [Londrina (sur), Brasilia (centro-oeste), Teresina (nordeste), Manaos (norte) y Ribeir\u00e3o Preto (sudeste)] y de pa\u00edses de los cinco continentes (Nueva Zelandia, Canad\u00e1, Holanda, Sud\u00e1frica y la India). Las muestras de la comunidad de Ribeir\u00e3o Preto se obtuvieron por casualidad, cuando los investigadores recolectaban bacterias aisladas en pacientes de un hospital local. Ese trabajo comenz\u00f3 cuando Pitondo da Silva a\u00fan era investigador de la Facultad de Ciencias Farmac\u00e9uticas de Ribeir\u00e3o Preto (FCFRP), de la Universidad de S\u00e3o Paulo (USP).<br>En el estudio ahora divulgado en el Journal of Global Antimicrobial Resistance, se tomaron en cuenta \u00fanicamente los an\u00e1lisis de las 48 muestras de los pacientes no internados.<\/p>\n<!-- \/wp:paragraph -->","author":{"@type":"Person","name":"Gabriel Paz","url":"https:\/\/diariosanrafael.com.ar\/author\/gabrielpaz\/","sameAs":["Gabriel Paz","@gabri.paz"]},"articleSection":["SALUD"],"publisher":{"@type":"Organization","name":"","url":"https:\/\/diariosanrafael.com.ar","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/www.facebook.com\/DiarioSanRafael","https:\/\/www.instagram.com\/diariosanrafael\/?hl=es-la","https:\/\/twitter.com\/diariosanrafael?lang=es","https:\/\/www.youtube.com\/channel\/UCWhsV1YALBkWBsbJQBkGv1g"]}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"hentry","entry-title":"Detectadas bacterias multirresistentes fuera de ambientes hospitalarios","published":"2021-09-26 02:57:00","updated":"2021-09-25 22:00:37"}</script>
+		<script type="text/javascript">
+			(function() {
+			var t   = document.createElement( 'script' );
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute( 'data-site-id', '64113a956159622cad5ef41b' );
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName( 'script' )[0];
+			s.parentNode.insertBefore( t, s );
+			})();
+		</script>
+		<script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><script id="dsr-tracking">var advads_tracking_ads = {};var advads_tracking_urls = {"1":"https:\/\/diariosanrafael.com.ar\/wp-content\/ajax-handler.php"};var advads_tracking_methods = {"1":"frontend"};var advads_tracking_parallel = {"1":false};var advads_tracking_linkbases = {"1":"https:\/\/diariosanrafael.com.ar\/linkout\/"};</script>
+
+</body></html>

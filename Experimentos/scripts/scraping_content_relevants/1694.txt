@@ -1,0 +1,320 @@
+<html lang="pt-br"><head>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-SK3X16HB5R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SK3X16HB5R');
+</script>
+<!-- End Google Tag Manager -->
+	
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gripe aviária: autoridades dos EUA notificam primeiro caso de variante em humanos</title>
+
+    <base href="https://agroin.com.br">
+
+    <meta name="title" content="Gripe aviária: autoridades dos EUA notificam primeiro caso de variante em humanos">
+    <meta name="description" content="É o primeiro caso conhecido em humanos no país com a cepa que já atingiu mais de 30 milhões de aves domésticas, em pelo menos 34 Estados.">
+    <meta itemprop="image" content="https://agroin.com.br/assets/images/logotipo_agroin.png">
+    <link rel="canonical" href="https://agroin.com.br/noticias/21995/gripe-aviaria-autoridades-dos-eua-notificam-primeiro-caso-de-variante-em-humanos">
+
+    <meta property="twitter:title" content="Gripe aviária: autoridades dos EUA notificam primeiro caso de variante em humanos">
+    <meta property="twitter:description" content="É o primeiro caso conhecido em humanos no país com a cepa que já atingiu mais de 30 milhões de aves domésticas, em pelo menos 34 Estados.">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:image" content="https://agroin-websites-images.s3-sa-east-1.amazonaws.com/uploads/news/2022/04/d62add508a939936c169bb00ed60ca57cacbf176626c64c4e14a9.jpg">
+    <meta property="twitter:creator" content="{{ $configuration->twitter_profile }}">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Gripe aviária: autoridades dos EUA notificam primeiro caso de variante em humanos">
+    <meta property="og:description" content="É o primeiro caso conhecido em humanos no país com a cepa que já atingiu mais de 30 milhões de aves domésticas, em pelo menos 34 Estados.">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:site_name" content="AGROIN® Comunicação">
+    <meta property="og:image" content="https://agroin-websites-images.s3-sa-east-1.amazonaws.com/uploads/news/2022/04/d62add508a939936c169bb00ed60ca57cacbf176626c64c4e14a9.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:url" content="https://agroin.com.br/noticias/21995/gripe-aviaria-autoridades-dos-eua-notificam-primeiro-caso-de-variante-em-humanos">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Passion+One|Roboto&amp;display=swap">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <meta name="grecaptcha-key" content="">
+    <script src="https://www.google.com/recaptcha/api.js?render="></script>
+
+</head>
+<body>
+
+<!-- Publicidade: Mega Banner -->
+<div class="container">
+    <div class="row">
+
+        
+    </div>
+</div>
+
+<!-- Header -->
+<header class="header-container">
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-4 social_nav_container">
+
+                <ul class="nav social_nav">
+                                        <li class="nav-item">
+                        <a class="nav-link active" href="https://www.facebook.com/profile.php?id=61556551177060"><i class="fa fa-facebook-square"></i></a>
+                    </li>
+                    
+                                        <li class="nav-item">
+                        <a class="nav-link" href="https://www.instagram.com/agroin_comunic/"><i class="fa fa-instagram"></i></a>
+                    </li>
+                    
+                                        <li class="nav-item">
+                        <a class="nav-link" href="https://twitter.com/Agroin_Comunic"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://agroin.com.br/fale-conosco"><i class="fa fa-envelope-o"></i></a>
+                    </li>
+                </ul>
+
+            </div>
+
+            <div class="col-md-4">
+                <div class="logotipo-container">
+                    <a href="/">
+                        <img src="assets/images/logotipo_agroin.png" alt="">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="form_container">
+                    <form action="https://agroin.com.br/noticias/buscar" method="get" target="_self">
+                        <div class="input-group my-2">
+                            <input type="text" class="form-control" name="keyword" placeholder="O que você procura?">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary btn-search" type="submit">
+                                    <i class="fa fa-search"></i>
+                                    Buscar
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</header>
+
+<!-- Main Menu -->
+<nav class="navbar navbar-expand-lg navbar-light bg-main-menu">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                                                            <a class="nav-item nav-link" href="/" target="_self">Home</a>
+                                            <a class="nav-item nav-link" href="/noticias/editorial/agricultura" target="_self">Agricultura</a>
+                                            <a class="nav-item nav-link" href="/noticias/editorial/pecuaria" target="_self">Pecuária</a>
+                                            <a class="nav-item nav-link" href="/noticias/editorial/economia" target="_self">Economia</a>
+                                            <a class="nav-item nav-link" href="/noticias/editorial/pesquisa" target="_self">Pesquisa</a>
+                                            <a class="nav-item nav-link" href="/noticias/editorial/tecnologia" target="_self">Tecnologia</a>
+                                            <a class="nav-item nav-link" href="/noticias/editorial/mundo" target="_self">Mundo</a>
+                                            <a class="nav-item nav-link" href="/noticias/" target="_self">+ Notícias</a>
+                                            <a class="nav-item nav-link" href="/jornal" target="_self">Jornal Agroin</a>
+                                            <a class="nav-item nav-link" href="pagina/23/email-marketing-agroin" target="_self">Email Marketing</a>
+                                            <a class="nav-item nav-link" href="/fale-conosco" target="_self">Contato</a>
+                                                </div>
+        </div>
+    </div>
+</nav>
+
+<!-- Body -->
+<div class="container">
+
+    
+    <div class="row">
+
+        <div class="col-lg-8">
+
+            <div class="news-view-container mt-5">
+
+                <div class="news-date">
+                    Publicado em 29/04/2022 19h20
+                </div>
+
+                <h1 class="news-title">
+                    Gripe aviária: autoridades dos EUA notificam primeiro caso de variante em humanos
+                </h1>
+
+                <div class="news-subtitle">
+                    É o primeiro caso conhecido em humanos no país com a cepa que já atingiu mais de 30 milhões de aves domésticas, em pelo menos 34 Estados.
+                </div>
+
+                <div>
+
+                    <div class="news-author">
+                        <strong>Por:</strong> Estadão Conteúdo
+
+                        <ul class="nav social_nav">
+                            <li class="nav-item">
+                                <a class="nav-link" style="color: darkgreen" target="_blank" href="https://api.whatsapp.com/send?text=Gripe aviária: autoridades dos EUA notificam primeiro caso de variante em humanos https://agroin.com.br/noticias/21995/gripe-aviaria-autoridades-dos-eua-notificam-primeiro-caso-de-variante-em-humanos"><i class="fa fa-whatsapp"></i></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link">
+                                    <iframe class="facebook-share-button" src="https://www.facebook.com/plugins/share_button.php?href=https://agroin.com.br/noticias/21995/gripe-aviaria-autoridades-dos-eua-notificam-primeiro-caso-de-variante-em-humanos&amp;layout=button&amp;size=large&amp;appId=648202918657953&amp;width=121&amp;height=28" width="121" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media">
+                                    </iframe>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="nav-link twitter-share-button" data-size="large" data-text="Gripe aviária: autoridades dos EUA notificam primeiro caso de variante em humanos" data-related="t" data-lang="pt" data-show-count="false">Tweet</a>
+                                <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+                <hr>
+
+                <div class="news-text" style="padding-top: 0px;">
+
+                    <!-- Publicidade: Mega Banner -->
+                    <div class="row">
+
+                        
+                    </div>
+
+                    <p>Uma pessoa no Colorado (EUA) testou positivo para a variante H5N1 do vírus de gripe aviária altamente patogênica (HPAI). De acordo com informações dos Centros de Controle e Prevenção de Doenças (CDC), este é o primeiro caso conhecido em humanos, nos Estados Unidos. A cepa já atingiu mais de 30 milhões de aves domésticas, em pelo menos 34 Estados, e é considerada a pior em sete anos.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://agroin-websites-images.s3-sa-east-1.amazonaws.com/uploads/repository/2022/04/6c0352843e467ff10a8e44fb5b5e8e5c80dd4c24626c648de0eb6.jpg" alt="" width="600" height="405"></p>
+<p>Segundo o CDC, a pessoa, não identificada, teve contato direto com aves e estava trabalhando no abate de animais que poderiam estar infectados com gripe aviária. O único sintoma que apresentou foi fadiga, informou a agência. Um caso anterior foi notificado em dezembro, no Reino Unido, de uma pessoa assintomática que também teve contato com aves infectadas.</p>
+<p>O CDC disse acreditar que o risco para o público em geral é baixo e que é possível que o teste positivo tenha sido resultado de contaminação da superfície. Outras pessoas também envolvidas na mesma operação de abate de aves no Colorado testaram negativo, mas estão sendo testadas novamente por precaução. Aves infectadas espalham vírus em sua saliva, muco e fezes, representando um risco potencial para as pessoas em contato próximo com elas.</p>
+<p>A agência disse agora que está monitorando os vírus H5N1 em busca de alterações genéticas associadas à adaptação a mamíferos, mas garante que a versão que circula no país é diferente das versões que levaram a centenas de casos humanos confirmados em todo o mundo desde 2003.O CDC aconselha as pessoas que devem lidar com aves a usar luvas e, quando possível, máscaras cirúrgicas e óculos de proteção. O consumo da carne de aves e dos ovos, se devidamente manuseados e cozidos, permanece seguro.</p>
+
+                    <!-- Publicidade: Mega Banner -->
+                    <div class="row">
+
+                                                    <div class="col-md-12">
+                                <div class="mega-banner-container">
+                                    
+                                                                                    <img class="img-fluid" src="https://agroin-websites-images.s3-sa-east-1.amazonaws.com/uploads/advertsing/2024/07/0ada001c727c0d3f564980315f6f254171183ddf669ea9606135d.jpg" alt="Publicidade">
+                                        
+                                                                    </div>
+                            </div>
+                        
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <div class="sidebar pb-2">
+
+            <div class="square-banner mb-4">
+            <div class="hat mb-2">Publicidade</div>
+            
+                                    <a href="https://estanciatoquedemidas.com.br/" target="_blank">
+                        <img src="https://agroin-websites-images.s3-sa-east-1.amazonaws.com/uploads/advertsing/2021/07/ff050f32d80a00c96d69d2c503b13ebfe6ac1bdf60f77f51c9f49.gif" alt="Publicidade">
+                    </a>
+                
+                    </div>
+    
+    
+    <div class="most-readed-news mb-4">
+        <h2>Mais lidas</h2>
+
+                                    <div class="most-readed-container">
+                    <a href="noticias/28189/desvendando-a-genetica-da-adaptacao-plantas-mais-resilientes-ao-clima">
+                        <div class="title">Desvendando a genética da adaptação: Plantas mais resilientes ao clima</div>
+                        <div class="date">Publicado em: 09/01/2025</div>
+                    </a>
+                </div>
+                            <div class="most-readed-container">
+                    <a href="noticias/28187/pastagem-zuri-prospera-com-fertirrigacao-e-reuso-de-aguas-da-suinocultura">
+                        <div class="title">Pastagem Zuri prospera com fertirrigação e reuso de águas da suinocultura</div>
+                        <div class="date">Publicado em: 09/01/2025</div>
+                    </a>
+                </div>
+                            <div class="most-readed-container">
+                    <a href="noticias/28176/manejo-da-irrigacao-estrategia-crucial-para-controlar-a-mela-foliar-no-algodao">
+                        <div class="title">Manejo da irrigação: estratégia crucial para controlar a Mela Foliar no algodão</div>
+                        <div class="date">Publicado em: 08/01/2025</div>
+                    </a>
+                </div>
+                            <div class="most-readed-container">
+                    <a href="noticias/28188/preservacao-da-materia-organica-do-solo-estrategia-chave-para-fertilidade-e-sustentabilidade">
+                        <div class="title">Preservação da matéria orgânica do solo: Estratégia chave para fertilidade e sustentabilidade</div>
+                        <div class="date">Publicado em: 09/01/2025</div>
+                    </a>
+                </div>
+                            <div class="most-readed-container">
+                    <a href="noticias/28194/defensivos-biologicos-unem-sustentabilidade-e-produtividade-para-a-soja-mesmo-em-periodo-de-desafios-climaticos">
+                        <div class="title">Defensivos biológicos unem sustentabilidade e produtividade para a soja mesmo em período de desafios climáticos</div>
+                        <div class="date">Publicado em: 09/01/2025</div>
+                    </a>
+                </div>
+                    
+    </div>
+
+    
+</div>
+
+        </div>
+
+    </div>
+
+
+</div>
+
+<footer class="footer-container mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                Copyright 2025 © www.agroin.com.br - Todos os direitos reservados<br>
+                wisley@agroin.com.br • Tel/WhatsApp: (67) 3043-2569 - 99974-6911
+            </div>
+            <div class="col-md-4">
+                <br>
+                <div class="float-right">Desenvolvimento: Agroin Websites</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-6609122-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+</body></html>

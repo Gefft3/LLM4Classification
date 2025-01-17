@@ -1,0 +1,712 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="title" content="Dengue: por que pacientes com sintomas podem testar negativo para o vírus?">
+
+    <meta name="Description" content="Dengue: por que pacientes com sintomas podem testar negativo para o vírus? - ">
+    <meta name="img" content="https://www.jornalevolucao.com.br/admin/img/fotos/171473670648testedengue-jpg_t.jpg">
+
+                <meta property="og:title" content="Dengue: por que pacientes com sintomas podem testar negativo para o vírus?">
+            <meta property="og:description" content="Dengue: por que pacientes com sintomas podem testar negativo para o vírus? - ">
+            <meta property="og:image" content="https://www.jornalevolucao.com.br/admin/img/fotos/171473670648testedengue-jpg_t.jpg">
+            <meta property="og:image:type" content="image/jpg">
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https://www.jornalevolucao.com.br/textos/67324/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+            <meta property="og:image:width" content="640">
+            <meta property="og:image:height" content="480">
+            <meta property="fb:app_id" content="1587342288153204">
+            <meta property="og:locale" content="pt_BR">
+                <meta name="language" content="pt-br">
+    <meta name="Robots" content="Index, Follow">
+    <meta name="revisit-after" content="1 Day">
+    <meta name="rating" content="General">
+    
+    <meta name="author" content="Jornal Evolução">
+    <meta name="copyright" content="">
+    <meta name="Publisher" content="Samuca Webdesign">
+
+	<title>Dengue: por que pacientes com sintomas podem testar negativo para o vírus?</title>
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/animate.min.css">
+    <link rel="stylesheet" href="/css/jquery-ui.css">
+    <link rel="stylesheet" href="/css/jquery.Jcrop.min.css" type="text/css">
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery-ui.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.zoom.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+	<script src="/js/funcoes.js?1619729102"></script>
+
+    <link rel="stylesheet" type="text/css" href="/shadowbox_js/shadowbox.css">
+    <script type="text/javascript" src="/shadowbox_js/shadowbox.js"></script>
+    <script type="text/javascript">
+    
+    Shadowbox.init({
+        language: 'pt',
+        players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv'],
+        //handleOversize: "drag",
+        //modal: false
+    
+    });
+    
+    </script>
+
+  	<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MSHDCL71PZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MSHDCL71PZ');
+</script>
+
+      <!-- responsivo -->
+		<script type="text/javascript">
+		$(window).load(function() {
+			// Slideshow 4
+		  $("#slider4").responsiveSlides({
+			auto: true,
+			pager: true,
+			nav: true,
+			speed: 500,
+			namespace: "callbacks",
+			before: function () {
+			  //$('.slide-legenda').append("<li>before event fired.</li>");
+			},
+			after: function () {
+			  //$('.events').append("<li>after event fired.</li>");
+			}
+		  });
+			});
+		  </script>
+        <script type="text/javascript">
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='//rec.getsmartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', '13563c7f0eb35dd42ce85ded7e8f110617cbd8f3');
+</script>
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-5479977639219455",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3889444-50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3889444-50');
+</script>
+
+<script src="https://api.nobeta.com.br/nobetaads&amp;id=jornalevolucao.inter"></script>    
+    <script>
+    $(function() {
+        $( ".calendario" ).datepicker(
+        {
+            dateFormat: 'dd/mm/yy',
+            //showOn: "button",
+            //buttonImage: 'imagens/ico-calendario.png',
+            showButtonPanel:true,
+            changeMonth: true,
+            changeYear: true,
+            dayNames: ['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado','Domingo'],
+            dayNamesMin: ['Dom','Seg','Ter','Qua','Qui','Sex','Sab','Dom'],
+            dayNamesShort: ['Dom','Seg','Ter','Qua','Qui','Sex','Sab','Dom'],
+            monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
+            monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
+            currentText: "Hoje",
+            closeText: "Fechar",
+            yearRange: "-100:+0"
+            //numberOfMonths: 3
+        }
+        );
+    });
+    </script>
+  </head>
+  <body class="fundoContainer">
+  	<div id="divPublicidadeReport"></div>
+					<!-- Modal -->
+				<div class="modal" id="modalQuestion" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+					<div class="modal-content">
+					  <div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+						<h4 class="modal-title" id="myModalLabel"></h4>
+					  </div>
+					  <div class="modal-body">
+						<div class="text-center">
+							<button id="butQuestion" type="button" class="btn btn-success"><span class="glyphicon glyphicon-ok"></span> Ok</button>
+					        <button id="butCancelar" type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Cancelar</button>
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+                    
+    <div id="divFundo" class="fundo12 cor4">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6"><h5 class="fonte16 cor4">Jornal Evolução Notícias de Santa Catarina</h5></div>
+                <div class="col-sm-6 text-right " data-id="rubberBand">
+                    <h5 class="fonte16">
+                        <a href="https://www.facebook.com/jornalevolucaosbs/" target="_blank"><img src="/imagens/ico-face.png" height="20" alt="Facebook Jornal Evolução"></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                <a href="/contato"><font class="cor4"><span class="glyphicon glyphicon-earphone"></span> (47) 99660-9995</font></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a id="whatsapp" href="#"><img src="/imagens/ico-whatsapp.png" height="20" alt="Whatsapp Jornal Evolução"><font class="cor4"> (47) 99660-9995</font></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contato"><font class="cor4"><span class="glyphicon glyphicon-envelope cor4"></span> E-mail</font></a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fundo3">
+        <div class="container">
+            <div class="row">
+                    <div class="col-sm-3">
+                        <br>
+                        <a href="/inicial"><img id="logo" class="img-responsive " data-id="fadeIn fadeInLeft" src="/imagens/logo.png" border="0"></a>
+                        <br>
+                    </div>
+                    <div class="col-sm-9 text-center z-index1">
+                        <br>
+                        <br>
+                        <nav class="navbar  navbar-fixo" data-id="fadeIn fadeInRight menuMobile">
+                            <div id="teste" class="container-fluid">
+                                <div class="navbar-header">
+                                  <button type="button" class="navbar-toggle collapsed borda1" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar borda1"></span>
+                                    <span class="icon-bar borda1"></span>
+                                    <span class="icon-bar borda1"></span>
+                                  </button>
+                                </div>
+                                <div id="navbar" class="navbar-collapse collapse ">
+                                <ul class="nav navbar-nav navbar-right">
+                                                                                        <li class="childMenu ">
+                                                        <a href="/inicial">Inicial</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu"><a href="/textos/496/parceiros/0">Parceiros</a></li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/ultimas-noticias">Notícias</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/colunistas">Colunistas</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu"><a href="/textos/495/sobre-nos/0">Sobre nós</a></li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/contato">Contato</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="javascript:void($('#divBusca').fadeToggle());void($('#key').focus());"><i class="glyphicon glyphicon-search"></i></a>
+                                                                                                            </li>
+                                                                                    </ul>
+                                </div>
+                            </div>
+                        </nav>
+
+                        <div id="divBusca" class="none">
+                            <br>
+                            <form class="form-group" name="form_busca" method="post" action="/busca">
+                                <div class="row">
+                                    <div class="col-sm-6"></div>
+                                    <div class="col-sm-6">
+                                        <div class="input-group">
+                                            <input class="form-control" name="key" type="text" id="key" size="40" maxlength="100" placeholder="Pesquisar" value="">
+                                            <span class="input-group-btn">
+                                                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        </div>
+                </div>
+        </div>
+    </div>
+
+    
+                <div class="fundo5 alturaMinima2"></div>
+            <div class="container">
+	<div class="row">
+				<div class="col-sm-9">
+			
+			    	                        <h1>Dengue: por que pacientes com sintomas podem testar negativo para o vírus?</h1>
+                                                                                <h5>
+                                Sexta, 03 de maio de 2024                                </h5>
+                                <br>
+                                                        <div class="row">
+                            <div class="col-sm-12 text-justify">
+                            <p style="margin-bottom: 1em; color: #222222; font-family: Arial; background-color: #ffffff; font-size: 14pt; font-weight: bold; text-align: center;"><span style="color: #ff0000; font-weight: bold;"></span></p><div style="text-align:center;"><span style="text-align:center;margin: 0 10px 3px 0;clear:both;width:300px;text-align:left;"><a href="/admin/img/fotos/171473670648testedengue-jpg_t_g.jpg" rel="shadowbox[vocation]" title=""><img class="img-responsive" src="/admin/img/fotos/171473670648testedengue-jpg_t_g.jpg" border="0" title="Clique para ampliar" alt="Clique para ampliar"></a><font style="color:#666;font-style:italic;font-weight:bold;"><br></font></span></div><p></p>
+<p style="margin-bottom: 1em; color: #222222; font-family: Arial; background-color: #ffffff; font-size: 12pt; text-align: center;"><em>Especialista do CEUB explica a influência do período da infecção, do limite de detecção do teste, isolamento viral, enzimas e da temperatura</em></p>
+<div style="color: #222222; font-family: Arial; background-color: #ffffff; text-align: justify; font-size: 11pt;">
+<div>Febre, dor de cabeça forte, dor atrás dos olhos, vômito, manchas vermelhas na pele com teste negativo para dengue. Este pode ser um cenário possível e até mesmo comum. Mas por que pacientes com sintomas clássicos da doença podem isentar a detecção pelo vírus transmitido para o Aedes aegypti? Gil Amaro, professor de Ciências Biológicas do Centro Universitário de Brasília (CEUB) e mestre em Biologia Molecular explica que fatores podem influenciar a acurácia de um exame positivo indicando a doença.</div>
+<div>&nbsp;</div>
+<div>Confira a entrevista, na íntegra:&nbsp;</div>
+<div>&nbsp;</div>
+<div><strong>Por que vários pacientes testam negativo mesmo tendo todos os sintomas clássicos?</strong></div>
+<div>GA: Cada fase da doença tem um exame específico. Os testes para o período dos sintomas são o RT-PCR, o do Antígeno NS1 ou o de Isolamento Viral. Se a pessoa usar os testes de Anticorpo IgG/IgM no período de sintomas, o resultado será negativo, porque esse teste IgG/IgM é para outra fase da doença. O segundo motivo é que todo exame tem um limite de detecção, sensibilidade e especificidade. Essas três propriedades afetam quando o exame "acerta" ou "erra". As configurações de ciclo, enzimas e temperaturas no teste RT-PCR podem diminuir a especificidade, afetar o limite de detecção e dar falso negativo. Por fim, a parte pré-analítica pode diminuir a qualidade da amostra dificultando a detecção. Laboratórios com certificações e acreditações tem chance maior de acertar o exame.</div>
+<div>&nbsp;</div>
+<div><strong>Como é feito o teste de dengue? Há mais de um? Existe a possibilidade de um falso negativo? Se sim, por que isso acontece?</strong></div>
+<div>GA: O padrão é procurar o vírus da dengue ou os anticorpos gerados contra ele no sangue. Situações especiais usam outros fluídos do corpo como saliva, sêmen, urina, líquor ou líquido amniótico. Tem mais de um tipo de exame e cada exame funciona bem em uma fase da doença. Como todo teste tem um limite de detecção, uma sensibilidade e uma especificidade, há uma chance pequena de falsos negativos, mesmo usando o teste correto de cada fase da doença.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Além dos três motivos citados acima e dos fatores pré-analíticos, analíticos e pós-analíticos, até a temperatura de armazenamento do sangue coletado pode afetar o teste. A ciência está em constante melhoria e os testes são otimizados ano a ano para ficarem mais efetivos, acertando quando tem e quando não tem a doença.</div>
+<div>&nbsp;</div>
+<div><strong>Por que alguns pacientes mesmo tendo todos os sintomas clássicos, característicos de dengue, testam negativo para a doença?</strong></div>
+<div>GA: Isso ocorre por causa das fases da doença e do uso correto dos testes para cada fase. Vale alertar que outros exames, que não medem diretamente o vírus, ajudam no manejo clínico do paciente que tem dengue, mas o teste deu negativo. O conjunto de sinais e sintomas podem determinar a suspeita de dengue mesmo se um teste der resultado negativo. Existem sinais de alarme e gravidade característicos da dengue, além da sazonalidade. É possível determinar dengue pelos testes laboratoriais ou pelo chamado “vínculo clínico-epidemiológico".</div>
+<div>&nbsp;</div>
+<div><strong>Existe a possibilidade desse paciente que testou negativo ter contraído uma carga viral menor da doença?</strong></div>
+<div>GA: Sim, é possível. Cada pessoa tem uma constituição genética e fatores ambientais, como nutrição e o histórico de outras doenças, aliados à presença de anticorpos gerada por infecções anteriores do mesmo subtipo de dengue, pode levar à diminuição mais rápida da viremia. Na maioria dos casos, na segunda infecção por dengue do mesmo subtipo, os anticorpos IgG e IgM atacam o vírus rapidamente, sendo o período e a quantidade de viremia menor.&nbsp;</div>
+<div>&nbsp;</div>
+<div>Em casos raros, a cada nova infecção a saúde da pessoa fica mais comprometida. E, dependendo da saúde no momento da próxima infecção com a dengue, o cenário pode piorar muito. Plaquetas baixas ou imunidade baixa por outras doenças ou medicamentos pode agravar o caso e prolongar a viremia em tempo e em quantidade da carga viral.</div>
+<div>&nbsp;</div>
+<div><strong>Qual a orientação para os pacientes que testaram negativo mas apresentam todos os sintomas da doença?</strong></div>
+<div>GA: A orientação é procurar as unidades de saúde para avaliação do vínculo-epidemiológico que determina dengue. Outros exames podem determinar a suspeita de dengue e, até mesmo, classificar o grupo de estadiamento (A, B, C ou D), que vai do mais leve até o mais grave. No Brasil existem unidades de saúde especializadas e as tendas para atendimento inicial. Casos graves tem manejo clínico específico e monitoramento constante para evitar falecimento.</div>
+<div>&nbsp;</div>
+<div><strong>É possível que existam ainda mais casos de dengue do que foi notificado por conta dessa testagem negativa?</strong></div>
+<div>GA: Sim. Além dos casos falso-negativos existem os portadores assintomáticos, que podem transmitir o vírus mesmo sem ter sintomas. Além do período da história natural de toda doença, quando já aconteceu a infecção, quando as alterações fisiológicas e bioquímicas que permitem detectar sinais e sintomas estão baixas. Resumo: quando está bem no início da infecção.</div>
+<div>&nbsp;</div>
+<div><strong>Quais os perigos do autodiagnóstico de dengue ou de um paciente que, por conta do teste negativo, acredita que não contraiu a doença?</strong></div>
+<div>GA: O autodiagnóstico é perigoso porque toda infecção por dengue gera perda de líquido dos órgãos e essa perda é mais comum que a hemorragia, podendo agravar. O autodiagnóstico não consegue avaliar o corpo no nível que os exames de sangue fazem. Além disso, há grupos de risco: pessoas com situações específicas ou doenças que, se contraírem dengue, tem chance maior de evoluir para casos graves.</div>
+<div>&nbsp;</div>
+<div>Tanto o exame de sangue quanto o exame clínico permitem avaliar a gravidade da doença pelos sinais de hemodinâmicos no início do agravamento, podendo agir para evitar. Enquanto o autodiagnóstico não abarca todas as possibilidades e a doença pode evoluir até causar danos irreparáveis, quando a pessoa perceber que está com sinais críticos, pode ser tarde demais.</div>
+<div>&nbsp;</div>
+</div>                                <br>
+                                                             </div>
+                        </div>
+
+
+                                                <div id="divPubRodape"></div>
+                        <script type="text/javascript">
+							$('#divPubRodape').load("/home.php?action=publicidade&id_cab=7&limite=1");
+                        </script>
+
+                        								<br>
+                                <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style ">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_pinterest_pinit"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+                                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51de2d2b7e09a8f5"></script>
+                                <!-- AddThis Button END -->
+                                				<div class="row">
+	            	<div class="col-sm-12">
+	                    <div class="bs-callout">
+		                    <h4><i class="glyphicon glyphicon-comment"></i> Comente</h4>
+		                    <br>
+		                    <form method="post" name="form-cadastro" id="form-cadastro">
+		                        <a name="comentar"></a>
+		                        <input name="id_msg2" type="hidden" id="id_msg2" size="25" maxlength="100">
+		                        <input name="endereco_msg" type="hidden" id="endereco_msg" value="www.jornalevolucao.com.br/textos/67324/1/como-a-integracao-entre-industria-e-universidade-pode-trazer-beneficios">
+		                        <label>Comentário</label>
+		                        <div class="none mostrar">
+			                        											<a href="javascript:mural_insere_emotion('01');" title="Inserir emotion"><img src="/smilies/01.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('02');" title="Inserir emotion"><img src="/smilies/02.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('03');" title="Inserir emotion"><img src="/smilies/03.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('04');" title="Inserir emotion"><img src="/smilies/04.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('05');" title="Inserir emotion"><img src="/smilies/05.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('06');" title="Inserir emotion"><img src="/smilies/06.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('07');" title="Inserir emotion"><img src="/smilies/07.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('08');" title="Inserir emotion"><img src="/smilies/08.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('09');" title="Inserir emotion"><img src="/smilies/09.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('10');" title="Inserir emotion"><img src="/smilies/10.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('11');" title="Inserir emotion"><img src="/smilies/11.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('12');" title="Inserir emotion"><img src="/smilies/12.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('13');" title="Inserir emotion"><img src="/smilies/13.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('14');" title="Inserir emotion"><img src="/smilies/14.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('15');" title="Inserir emotion"><img src="/smilies/15.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('16');" title="Inserir emotion"><img src="/smilies/16.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('17');" title="Inserir emotion"><img src="/smilies/17.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('18');" title="Inserir emotion"><img src="/smilies/18.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('19');" title="Inserir emotion"><img src="/smilies/19.gif" border="0"></a>
+													                        </div>
+		                        <textarea class="form-control" name="mensagem_msg" cols="23" rows="5" id="mensagem_msg" onkeyup="limite_caracteres(this.id,2000,document.getElementById('limite').id);$('.mostrar').slideDown();" required="" tabindex="0"></textarea>
+		                        		                                <div class="none mostrar">
+			                                <label>Seu nome</label>
+			                                <input class="form-control" name="nome_msg" type="text" id="nome_msg" maxlength="50" required="required" tabindex="0">
+		                                </div>
+		                                		                                <div class="none mostrar">
+			                                <label>Seu e-mail</label>
+			                          		<input class="form-control" name="email_msg" type="text" id="email_msg" maxlength="100" value="" tabindex="0">
+		                                </div>
+		                                		                        <input type="hidden" name="id_not" id="id_not" value="67324">
+		                        <div id="resposta"></div>
+		                        <input name="limite" type="hidden" id="limite" value="2000" size="4" maxlength="0" readonly="">
+		                        <div class="mostrar none">
+		                        	<div id="divCaptcha">
+				                    												<img class="img-responsive " src="/imagens/captcha_m.jpg" id="imagens/captcha_m.jpg" border="0">
+																                    </div>
+				                    <label>Digite o número da imagem acima:</label>
+				                    <input class="form-control" name="codigo_captcha" type="text" id="codigo_captcha" maxlength="4" required="required">
+				                    <script type="text/javascript">
+				                    function captcha()
+				                        {
+				                            document.getElementById('divCaptcha').innerHTML = '';
+				                            document.getElementById('divCaptcha').innerHTML = '<img style="border:1px solid #CCC" src="/imagens/captcha_m.jpg?1715285851>">';
+				                        }
+				                    setTimeout("captcha();",1000);
+				                    </script>
+			                    </div>
+		                        <br><input class="btn btn-danger" name="butEnvia" type="button" id="butEnvia" value="Enviar" onclick="ajax('#form-cadastro','/home.php?action=comentario',1,'#divResult');">
+		                        <br><br>
+		                        <div id="divNumComentario"></div>
+		                        <div id="divResult">
+						            		                        </div>
+		                        
+		                        </form>
+	                    </div>
+	                </div>
+	            </div>
+						                                <br>
+		                                <h4><span class="glyphicon glyphicon-chevron-down"></span> Conteúdo relacionado</h4>
+		                                <br>
+		                                												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67362/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171508667604unnamed-68-jpg_t_m.jpg" id="admin/img/fotos/171508667604unnamed-68-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67362/1/dia-nacional-do-cafe-entenda-os-beneficios-do-grao-para-a-beleza-da-pele"><h4><font class="bold">Dia Nacional do Café: entenda os benefícios do grão para a beleza da pele</font> <font class="cor2 italic">1 minuto atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67428/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526616427prefeitura-faz-envio-de-agua-ao-rio-grande-do-sul-jpg_t_m.jpg" id="admin/img/fotos/171526616427prefeitura-faz-envio-de-agua-ao-rio-grande-do-sul-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67428/1/prefeitura-faz-envio-de-agua-ao-rio-grande-do-sul"><h4><font class="bold">Prefeitura faz envio de água ao Rio Grande do Sul</font> <font class="cor2 italic">5 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/67424/1/previsao-do-tempo-quinta9-alertas-para-vendaval-queda-de-temperaturas-e-tempestade-no-rio-grande"><h4><font class="bold">PREVISÃO DO TEMPO: quinta(9) alertas para vendaval, queda de temperaturas e tempestade no Rio Grande</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/67423/1/previsao-do-tempo-quintafeira-9-com-alerta-de-chuva-em-santa-catarina"><h4><font class="bold">PREVISÃO DO TEMPO: quinta-feira (9) com alerta de chuva em Santa Catarina</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67422/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526216280unnamed-92-jpg_t_m.jpg" id="admin/img/fotos/171526216280unnamed-92-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67422/1/condor-traz-campea-do-masterchef-brasil-9-para-lancar-linha-exclusiva-na-apas-show-2024"><h4><font class="bold">Condor traz campeã do MasterChef Brasil 9 para lançar linha exclusiva na APAS SHOW 2024</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67421/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526204666unnamed-91-jpg_t_m.jpg" id="admin/img/fotos/171526204666unnamed-91-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67421/1/entre-franciscos-o-santo-e-o-papa"><h4><font class="bold">Entre Franciscos: o santo e o papa</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67420/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526190325prefeitura-adquire-nova-escavadeira-jpg_t_m.jpg" id="admin/img/fotos/171526190325prefeitura-adquire-nova-escavadeira-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67420/1/prefeitura-adquire-nova-escavadeira"><h4><font class="bold">Prefeitura adquire nova escavadeira</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67419/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526181738rua-ervino-treml-recebe-pavimentacao-asfaltica-jpg_t_m.jpg" id="admin/img/fotos/171526181738rua-ervino-treml-recebe-pavimentacao-asfaltica-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67419/1/rua-ervino-treml-recebe-pavimentacao-asfaltica"><h4><font class="bold">Rua Ervino Treml recebe pavimentação asfáltica</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67418/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526177477unnamed-90-jpg_t_m.jpg" id="admin/img/fotos/171526177477unnamed-90-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67418/1/capacidade-dos-portos-esta-no-limite-para-receber-conteineres"><h4><font class="bold">Capacidade dos portos está no limite para receber contêineres</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/67417/1/cni-sesi-e-senai-coordenam-acoes-de-doacoes-da-industria-e-federacoes-anunciam-ajuda-de-r-65-milh"><h4><font class="bold">CNI, SESI e SENAI coordenam ações de doações da indústria  e federações anunciam ajuda de R$ 65 milh</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/67416/1/como-controlar-nossa-respiracao-pode-auxiliar-a-compreender-emocoes-e-ter-uma-vida-mais-significativ"><h4><font class="bold">Como controlar nossa respiração pode auxiliar a compreender emoções e ter uma vida mais significativ</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67415/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/1715261532382-3-jpg_t_m.jpg" id="admin/img/fotos/1715261532382-3-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67415/1/pauta-cheia-na-sessao-da-camara-mirim"><h4><font class="bold">Pauta cheia na sessão da Câmara Mirim</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/67414/1/greve-dos-professores-de-sc-esta-suspensa-por-60-dias"><h4><font class="bold">Greve dos professores de SC está suspensa por 60 dias</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67413/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526138576pavimentacao-quatro-vias-jpg_t_m.jpg" id="admin/img/fotos/171526138576pavimentacao-quatro-vias-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67413/1/mais-quatro-vias-serao-pavimentadas"><h4><font class="bold">Mais quatro vias serão pavimentadas</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67412/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526128955unnamed-88-jpg_t_m.jpg" id="admin/img/fotos/171526128955unnamed-88-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67412/1/quais-os-impactos-da-viagem-de-darwin-a-america-do-sul"><h4><font class="bold">Quais os impactos da viagem de Darwin à América do Sul?</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67411/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526124839obras-na-educacao-evoluem-1-jpg_t_m.jpg" id="admin/img/fotos/171526124839obras-na-educacao-evoluem-1-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67411/1/obras-na-educacao-evoluem"><h4><font class="bold">Obras na educação evoluem</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/67410/1/temporais-no-rio-grande-do-sul-devem-afetar-todos-os-setores-da-economia-e-elevar-precos-dos-aliment"><h4><font class="bold">Temporais no Rio Grande do Sul devem afetar todos os setores da economia e elevar preços dos aliment</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/67409/1/campanha-de-solidariedade-da-condor-leva-130-mil-produtos-para-as-vitimas-das-enchentes-no-rio-grand"><h4><font class="bold">Campanha de solidariedade da Condor leva 130 mil produtos para as vítimas das enchentes no Rio Grand</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67408/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/171526109012deputada-paulinha-fara-palestra-em-sao-bento-do-sul-jpg_t_m.jpg" id="admin/img/fotos/171526109012deputada-paulinha-fara-palestra-em-sao-bento-do-sul-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67408/1/deputada-paulinha-fara-palestra-em-sao-bento-do-sul-sobre-os-passos-da-mulher-na-politica-"><h4><font class="bold">Deputada Paulinha fará palestra em São Bento do Sul sobre "Os Passos da Mulher na Política"</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/67407/1/dengue-por-que-pacientes-com-sintomas-podem-testar-negativo-para-o-virus">
+																					<img class="img-responsive " src="/admin/img/fotos/1715260853723-etapa-da-superliga-catarinense-furbo-de-voleibol-jpg_t_m.jpg" id="admin/img/fotos/1715260853723-etapa-da-superliga-catarinense-furbo-de-voleibol-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/67407/1/3-etapa-da-superliga-catarinense-furbo-de-voleibol"><h4><font class="bold">3ª Etapa da Superliga Catarinense FURBO de Voleibol</font> <font class="cor2 italic">7 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        			
+
+
+		</div>
+		<div class="col-sm-3">
+			<br>
+					</div>
+	</div>	
+</div>
+
+<br>    
+    
+
+    <div class="fundo8 cor7 animated fonte17 borda-top3">
+        <div class="container">
+            <div class="row">
+                                <div class="col-sm-12">
+                    <br>
+                                                            <a class="link_personalizado" href="/inicial">Inicial</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/textos/496/parceiros/0">Parceiros</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/ultimas-noticias">Notícias</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/colunistas">Colunistas</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/textos/495/sobre-nos/0">Sobre nós</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/contato">Contato</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="javascript:void($('#divBusca').fadeToggle());void($('#key').focus());"><i class="glyphicon glyphicon-search"></i></a>
+                                                            <br>
+                </div>
+                            </div>
+            <div class="row linha25 ">
+                <div class="col-sm-6">
+                    <br>
+                    <strong class="cor8">Contato</strong>
+                    <br>
+                    Fone: (47) 99660-9995<br>
+                    Celular / Whatsapp: (47) 99660-9995<br>
+                    E-mail: <a class="link_personalizado2" href="mailto:paskiba@gmail.com"><font class="cor7">paskiba<img src="/imagens/arroba2.png">gmail.com</font></a><br><br>
+                   
+                </div>
+                <div class="col-sm-6">
+                    <br>
+                                    </div>
+            </div>
+            <br>
+        </div>
+    </div>
+
+    <div class="fundo1 fonte16">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 padding10 cor7">
+                    © Copyright 2025 - Jornal Evolução Notícias de Santa Catarina                </div>
+                <div class="col-sm-4 text-right">
+                    <a id="bySamuca" href="https://www.samucawebdesign.com.br/?utm_source=bySamuca&amp;utm_medium=site&amp;utm_campaign=portfolio" target="_blank"><img src="/imagens/by_samuca.png" alt="by SAMUCA" height="35" border="0"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+     <script data-cfasync="false" type="text/javascript" id="clever-core">
+                                    (function (document, window) {
+                                        var a, c = document.createElement("script");
+
+                                        c.id = "CleverCoreLoader55397";
+                                        c.src = "//scripts.cleverwebserver.com/0a64dcdcbcd89c8d0f1540e08ec12091.js";
+
+                                        c.async = !0;
+                                        c.type = "text/javascript";
+                                        c.setAttribute("data-target", window.name);
+                                        c.setAttribute("data-callback", "put-your-callback-macro-here");
+
+                                        try {
+                                            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                                        } catch (e) {
+                                            a = !1;
+                                        }
+
+                                        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                                        a.parentNode.insertBefore(c, a);
+                                    })(document, window);
+                                </script>                             
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip(); 
+    });
+
+
+    $(document).ready(function() { 
+
+                        if($(window).width() < 768)
+                    {   
+                        $("html, body").animate({ scrollTop: $('.navPro').offset().top }, 1000);
+                    }
+                     
+
+	  var navbarToggle = '.navbar-toggle'; // name of navbar toggle, BS3 = '.navbar-toggle', BS4 = '.navbar-toggler'  
+	  $('.dropdown, .dropup').each(function() {
+	    var dropdown = $(this),
+	      dropdownToggle = $('[data-toggle="dropdown"]', dropdown),
+	      dropdownHoverAll = dropdownToggle.data('dropdown-hover-all') || false;
+	    
+	    // Mouseover
+	    dropdown.hover(function(){
+	      var notMobileMenu = $(navbarToggle).length > 0 && $(navbarToggle).css('display') === 'none';
+	      if ((dropdownHoverAll == true || (dropdownHoverAll == false && notMobileMenu))) { 
+	        dropdownToggle.trigger('click');
+	      }
+	    })
+	  });
+
+	
+
+    var whatsapp = '';
+    if($(window).width() < 768)
+    	{
+            whatsapp = 'api';
+			$('.menuCategoria').addClass('dropdown-toggle');
+			$('.menuCategoria').attr('data-toggle','dropdown');
+    	}
+    else
+        {   
+            whatsapp = 'web';
+            setInterval(function(){
+            $('#divTextoX').height($('#divTextoImg').height());
+            },100);
+
+        }
+    $('#whatsapp').attr('href','https://'+whatsapp+'.whatsapp.com/send?phone=5547996609995');
+
+
+
+        $(window).scroll(function()
+            {
+                if($(window).width() > 765)
+                    {
+                        if($(window).scrollTop() > 205)
+                            {
+                                $('#carrinhoHome').show();
+                                $("#navbar2").addClass('navbar-fixed-top');
+                                $("#navbar2").addClass('fundo2');
+                            } 
+                        else 
+                            {
+                                $('#carrinhoHome').hide();
+                                $("#navbar2").removeClass('navbar-fixed-top');
+                                $("#navbar2").removeClass('fundo2');
+                            }
+                    }
+                else
+                    {   
+                        $('#carrinhoHome').hide();
+                    }
+            });
+        $('#carrinhoHome').hide();
+
+	});
+
+    $.ajaxSetup ({
+        // Disable caching of AJAX responses
+        cache: false
+    });
+
+    </script>
+  
+</body></html>

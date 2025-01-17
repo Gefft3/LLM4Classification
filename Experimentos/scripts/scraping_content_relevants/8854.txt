@@ -1,0 +1,1232 @@
+<html class="no-js" lang="pt-BR"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://horacampinas.com.br/xmlrpc.php">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta property="og:type" content="article">
+<meta property="og:title" content="Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer">
+<meta property="og:site_name" content="Hora Campinas">
+<meta property="og:description" content="Estudo publicado no Journal of Medicinal Chemistry descreve o desenvolvimento de uma molécula inédita capaz de inibir a proteína VRK1,">
+<meta property="og:url" content="https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:image" content="https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg">
+<meta property="og:image:height" content="700">
+<meta property="og:image:width" content="1170">
+<meta property="article:published_time" content="2024-06-02T01:00:32-03:00">
+<meta property="article:modified_time" content="2024-06-02T08:11:02-03:00">
+<meta property="article:section" content="Cidade e Região">
+<meta property="article:tag" content="biologia">
+<meta property="article:tag" content="Campinas">
+<meta property="article:tag" content="câncer">
+<meta property="article:tag" content="mama">
+<meta property="article:tag" content="molécula">
+<meta property="article:tag" content="pesquisa">
+<meta property="article:tag" content="próstata">
+<meta property="article:tag" content="Unicamp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer">
+<meta name="twitter:description" content="Estudo publicado no Journal of Medicinal Chemistry descreve o desenvolvimento de uma molécula inédita capaz de inibir a proteína VRK1,">
+<meta name="twitter:url" content="https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/">
+<meta name="twitter:site" content="">
+<meta name="twitter:image" content="https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg">
+<meta name="twitter:image:width" content="1170">
+<meta name="twitter:image:height" content="700">
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->			<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var e=this;e.win=window,e.doc=document,e.noop=function(){},e.globalBody=e.doc.getElementsByTagName("body")[0],e.globalBody=e.globalBody?e.globalBody:e.doc,e.win.jnewsDataStorage=e.win.jnewsDataStorage||{_storage:new WeakMap,put:function(e,t,n){this._storage.has(e)||this._storage.set(e,new Map),this._storage.get(e).set(t,n)},get:function(e,t){return this._storage.get(e).get(t)},has:function(e,t){return this._storage.has(e)&&this._storage.get(e).has(t)},remove:function(e,t){var n=this._storage.get(e).delete(t);return 0===!this._storage.get(e).size&&this._storage.delete(e),n}},e.windowWidth=function(){return e.win.innerWidth||e.docEl.clientWidth||e.globalBody.clientWidth},e.windowHeight=function(){return e.win.innerHeight||e.docEl.clientHeight||e.globalBody.clientHeight},e.requestAnimationFrame=e.win.requestAnimationFrame||e.win.webkitRequestAnimationFrame||e.win.mozRequestAnimationFrame||e.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(e){return setTimeout(e,1e3/60)},e.cancelAnimationFrame=e.win.cancelAnimationFrame||e.win.webkitCancelAnimationFrame||e.win.webkitCancelRequestAnimationFrame||e.win.mozCancelAnimationFrame||e.win.msCancelRequestAnimationFrame||e.win.oCancelRequestAnimationFrame||function(e){clearTimeout(e)},e.classListSupport="classList"in document.createElement("_"),e.hasClass=e.classListSupport?function(e,t){return e.classList.contains(t)}:function(e,t){return e.className.indexOf(t)>=0},e.addClass=e.classListSupport?function(t,n){e.hasClass(t,n)||t.classList.add(n)}:function(t,n){e.hasClass(t,n)||(t.className+=" "+n)},e.removeClass=e.classListSupport?function(t,n){e.hasClass(t,n)&&t.classList.remove(n)}:function(t,n){e.hasClass(t,n)&&(t.className=t.className.replace(n,""))},e.objKeys=function(e){var t=[];for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&t.push(n);return t},e.isObjectSame=function(e,t){var n=!0;return JSON.stringify(e)!==JSON.stringify(t)&&(n=!1),n},e.extend=function(){for(var e,t,n,o=arguments[0]||{},i=1,a=arguments.length;i<a;i++)if(null!==(e=arguments[i]))for(t in e)o!==(n=e[t])&&void 0!==n&&(o[t]=n);return o},e.dataStorage=e.win.jnewsDataStorage,e.isVisible=function(e){return 0!==e.offsetWidth&&0!==e.offsetHeight||e.getBoundingClientRect().length},e.getHeight=function(e){return e.offsetHeight||e.clientHeight||e.getBoundingClientRect().height},e.getWidth=function(e){return e.offsetWidth||e.clientWidth||e.getBoundingClientRect().width},e.supportsPassive=!1;try{var t=Object.defineProperty({},"passive",{get:function(){e.supportsPassive=!0}});"createEvent"in e.doc?e.win.addEventListener("test",null,t):"fireEvent"in e.doc&&e.win.attachEvent("test",null)}catch(e){}e.passiveOption=!!e.supportsPassive&&{passive:!0},e.setStorage=function(e,t){e="jnews-"+e;var n={expired:Math.floor(((new Date).getTime()+432e5)/1e3)};t=Object.assign(n,t);localStorage.setItem(e,JSON.stringify(t))},e.getStorage=function(e){e="jnews-"+e;var t=localStorage.getItem(e);return null!==t&&0<t.length?JSON.parse(localStorage.getItem(e)):{}},e.expiredStorage=function(){var t,n="jnews-";for(var o in localStorage)o.indexOf(n)>-1&&"undefined"!==(t=e.getStorage(o.replace(n,""))).expired&&t.expired<Math.floor((new Date).getTime()/1e3)&&localStorage.removeItem(o)},e.addEvents=function(t,n,o){for(var i in n){var a=["touchstart","touchmove"].indexOf(i)>=0&&!o&&e.passiveOption;"createEvent"in e.doc?t.addEventListener(i,n[i],a):"fireEvent"in e.doc&&t.attachEvent("on"+i,n[i])}},e.removeEvents=function(t,n){for(var o in n)"createEvent"in e.doc?t.removeEventListener(o,n[o]):"fireEvent"in e.doc&&t.detachEvent("on"+o,n[o])},e.triggerEvents=function(t,n,o){var i;o=o||{detail:null};return"createEvent"in e.doc?(!(i=e.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||i.initCustomEvent(n,!0,!1,o),void t.dispatchEvent(i)):"fireEvent"in e.doc?((i=e.doc.createEventObject()).eventType=n,void t.fireEvent("on"+i.eventType,i)):void 0},e.getParents=function(t,n){void 0===n&&(n=e.doc);for(var o=[],i=t.parentNode,a=!1;!a;)if(i){var r=i;r.querySelectorAll(n).length?a=!0:(o.push(r),i=r.parentNode)}else o=[],a=!0;return o},e.forEach=function(e,t,n){for(var o=0,i=e.length;o<i;o++)t.call(n,e[o],o)},e.getText=function(e){return e.innerText||e.textContent},e.setText=function(e,t){var n="object"==typeof t?t.innerText||t.textContent:t;e.innerText&&(e.innerText=n),e.textContent&&(e.textContent=n)},e.httpBuildQuery=function(t){return e.objKeys(t).reduce(function t(n){var o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(i,a){var r=n[a];a=encodeURIComponent(a);var s=o?"".concat(o,"[").concat(a,"]"):a;return null==r||"function"==typeof r?(i.push("".concat(s,"=")),i):["number","boolean","string"].includes(typeof r)?(i.push("".concat(s,"=").concat(encodeURIComponent(r))),i):(i.push(e.objKeys(r).reduce(t(r,s),[]).join("&")),i)}}(t),[]).join("&")},e.get=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("GET",t,n,o,i)},e.post=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("POST",t,n,o,i)},e.ajax=function(t,n,o,i,a){var r=new XMLHttpRequest,s=n,c=e.httpBuildQuery(o);if(t=-1!=["GET","POST"].indexOf(t)?t:"GET",r.open(t,s+("GET"==t?"?"+c:""),!0),"POST"==t&&r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.setRequestHeader("X-Requested-With","XMLHttpRequest"),r.onreadystatechange=function(){4===r.readyState&&200<=r.status&&300>r.status&&"function"==typeof i&&i.call(void 0,r.response)},void 0!==a&&!a){return{xhr:r,send:function(){r.send("POST"==t?c:null)}}}return r.send("POST"==t?c:null),{xhr:r}},e.scrollTo=function(t,n,o){function i(e,t,n){this.start=this.position(),this.change=e-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=t,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(e,t,n,o){return(e/=o/2)<1?n/2*e*e+t:-n/2*(--e*(e-2)-1)+t},i.prototype.stop=function(){this.finish=!0},i.prototype.move=function(t){e.doc.documentElement.scrollTop=t,e.globalBody.parentNode.scrollTop=t,e.globalBody.scrollTop=t},i.prototype.position=function(){return e.doc.documentElement.scrollTop||e.globalBody.parentNode.scrollTop||e.globalBody.scrollTop},i.prototype.animateScroll=function(){this.currentTime+=this.increment;var t=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(t),this.currentTime<this.duration&&!this.finish?e.requestAnimationFrame.call(e.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new i(t,n,o)},e.unwrap=function(t){var n,o=t;e.forEach(t,(function(e,t){n?n+=e:n=e})),o.replaceWith(n)},e.performance={start:function(e){performance.mark(e+"Start")},stop:function(e){performance.mark(e+"End"),performance.measure(e,e+"Start",e+"End")}},e.fps=function(){var t=0,n=0,o=0;!function(){var i=t=0,a=0,r=0,s=document.getElementById("fpsTable"),c=function(t){void 0===document.getElementsByTagName("body")[0]?e.requestAnimationFrame.call(e.win,(function(){c(t)})):document.getElementsByTagName("body")[0].appendChild(t)};null===s&&((s=document.createElement("div")).style.position="fixed",s.style.top="120px",s.style.left="10px",s.style.width="100px",s.style.height="20px",s.style.border="1px solid black",s.style.fontSize="11px",s.style.zIndex="100000",s.style.backgroundColor="white",s.id="fpsTable",c(s));var l=function(){o++,n=Date.now(),(a=(o/(r=(n-t)/1e3)).toPrecision(2))!=i&&(i=a,s.innerHTML=i+"fps"),1<r&&(t=n,o=0),e.requestAnimationFrame.call(e.win,l)};l()}()},e.instr=function(e,t){for(var n=0;n<t.length;n++)if(-1!==e.toLowerCase().indexOf(t[n].toLowerCase()))return!0},e.winLoad=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.win,{load:o})},e.docReady=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.doc,{DOMContentLoaded:o})},e.fireOnce=function(){e.docReady((function(){e.assets=e.assets||[],e.assets.length&&(e.boot(),e.load_assets())}),50)},e.boot=function(){e.length&&e.doc.querySelectorAll("style[media]").forEach((function(e){"not all"==e.getAttribute("media")&&e.removeAttribute("media")}))},e.create_js=function(t,n){var o=e.doc.createElement("script");switch(o.setAttribute("src",t),n){case"defer":o.setAttribute("defer",!0);break;case"async":o.setAttribute("async",!0);break;case"deferasync":o.setAttribute("defer",!0),o.setAttribute("async",!0)}e.globalBody.appendChild(o)},e.load_assets=function(){"object"==typeof e.assets&&e.forEach(e.assets.slice(0),(function(t,n){var o="";t.defer&&(o+="defer"),t.async&&(o+="async"),e.create_js(t.url,o);var i=e.assets.indexOf(t);i>-1&&e.assets.splice(i,1)})),e.assets=jnewsoption.au_scripts=window.jnewsads=[]},e.setCookie=function(e,t,n){var o="";if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),o="; expires="+i.toUTCString()}document.cookie=e+"="+(t||"")+o+"; path=/"},e.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1,i.length);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return null},e.eraseCookie=function(e){document.cookie=e+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},e.docReady((function(){e.globalBody=e.globalBody==e.doc?e.doc.getElementsByTagName("body")[0]:e.globalBody,e.globalBody=e.globalBody?e.globalBody:e.doc})),e.winLoad((function(){e.winLoad((function(){var t=!1;if(void 0!==window.jnewsadmin)if(void 0!==window.file_version_checker){var n=e.objKeys(window.file_version_checker);n.length?n.forEach((function(e){t||"10.0.4"===window.file_version_checker[e]||(t=!0)})):t=!0}else t=!0;t&&(window.jnewsHelper.getMessage(),window.jnewsHelper.getNotice())}),2500)}))},window.jnews.library=new window.jnews.library;</script>
+	<!-- This site is optimized with the Yoast SEO plugin v24.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer - Hora Campinas</title>
+	<link rel="canonical" href="https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer - Hora Campinas">
+	<meta property="og:description" content="Estudo publicado no Journal of Medicinal Chemistry descreve o desenvolvimento de uma molécula inédita capaz de inibir a proteína VRK1, envolvida na manutenção da integridade do DNA e na proliferação celular de certos cânceres, entre eles mama, próstata, ovário, intestinos e gliomas (no cérebro). O trabalho foi liderado por pesquisadores do Centro de Química Medicinal […]">
+	<meta property="og:url" content="https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/">
+	<meta property="og:site_name" content="Hora Campinas">
+	<meta property="article:publisher" content="https://www.facebook.com/horacampinas/">
+	<meta property="article:published_time" content="2024-06-02T04:00:32+00:00">
+	<meta property="article:modified_time" content="2024-06-02T11:11:02+00:00">
+	<meta property="og:image" content="https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg">
+	<meta property="og:image:width" content="1170">
+	<meta property="og:image:height" content="700">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="Redação">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@horacampinas">
+	<meta name="twitter:site" content="@horacampinas">
+	<meta name="twitter:label1" content="Escrito por">
+	<meta name="twitter:data1" content="Redação">
+	<meta name="twitter:label2" content="Est. tempo de leitura">
+	<meta name="twitter:data2" content="3 minutos">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/#article","isPartOf":{"@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/"},"author":{"name":"Redação","@id":"https://horacampinas.com.br/#/schema/person/aeff9bb2abd596174c27c751b48e5472"},"headline":"Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer","datePublished":"2024-06-02T04:00:32+00:00","dateModified":"2024-06-02T11:11:02+00:00","mainEntityOfPage":{"@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/"},"wordCount":632,"publisher":{"@id":"https://horacampinas.com.br/#organization"},"image":{"@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/#primaryimage"},"thumbnailUrl":"https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg","keywords":["biologia","Campinas","câncer","mama","molécula","pesquisa","próstata","Unicamp"],"articleSection":["Cidade e Região"],"inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/","url":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/","name":"Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer - Hora Campinas","isPartOf":{"@id":"https://horacampinas.com.br/#website"},"primaryImageOfPage":{"@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/#primaryimage"},"image":{"@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/#primaryimage"},"thumbnailUrl":"https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg","datePublished":"2024-06-02T04:00:32+00:00","dateModified":"2024-06-02T11:11:02+00:00","breadcrumb":{"@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/#primaryimage","url":"https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg","contentUrl":"https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg","width":1170,"height":700,"caption":"A descoberta pode ajudar no desenvolvimento de novos fármacos contra o câncer. Foto: Reprodução"},{"@type":"BreadcrumbList","@id":"https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://horacampinas.com.br/"},{"@type":"ListItem","position":2,"name":"Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer"}]},{"@type":"WebSite","@id":"https://horacampinas.com.br/#website","url":"https://horacampinas.com.br/","name":"Hora Campinas","description":"O SEU PORTAL DE NOTÍCIAS, ANÁLISE E SERVIÇOS","publisher":{"@id":"https://horacampinas.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://horacampinas.com.br/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://horacampinas.com.br/#organization","name":"Hora Campinas","url":"https://horacampinas.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://horacampinas.com.br/#/schema/logo/image/","url":"https://horacampinas.com.br/wp-content/uploads/2021/09/Logo-Hora-Campinas_v1-scaled.jpg","contentUrl":"https://horacampinas.com.br/wp-content/uploads/2021/09/Logo-Hora-Campinas_v1-scaled.jpg","width":2560,"height":1217,"caption":"Hora Campinas"},"image":{"@id":"https://horacampinas.com.br/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/horacampinas/","https://x.com/horacampinas","https://www.instagram.com/horacampinas/","https://www.youtube.com/channel/UCXEsW1jIdv-oiPEQUGuSAAg"]},{"@type":"Person","@id":"https://horacampinas.com.br/#/schema/person/aeff9bb2abd596174c27c751b48e5472","name":"Redação","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://horacampinas.com.br/#/schema/person/image/","url":"https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-LOGO_HORA_AVATAR-96x96.jpg","contentUrl":"https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-LOGO_HORA_AVATAR-96x96.jpg","caption":"Redação"},"description":"O Hora Campinas reforça seu compromisso com o jornalismo profissional e de qualidade. Nossa redação produz diariamente informação em que você pode confiar.","url":"https://horacampinas.com.br/author/redacao/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="alternate" type="application/rss+xml" title="Feed para Hora Campinas »" href="https://horacampinas.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Hora Campinas »" href="https://horacampinas.com.br/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/horacampinas.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://horacampinas.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://horacampinas.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-split-css" href="https://horacampinas.com.br/wp-content/plugins/jnews-split/assets/css/splitpost.css" type="text/css" media="">
+<link rel="stylesheet" id="jnews-split-toc-css" href="https://horacampinas.com.br/wp-content/plugins/jnews-split/assets/css/splitpost-toc.css" type="text/css" media="">
+<link rel="stylesheet" id="jnews-parent-style-css" href="https://horacampinas.com.br/wp-content/themes/jnews/style.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://horacampinas.com.br/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.1" type="text/css" media="all">
+<link rel="stylesheet" id="jeg_customizer_font-css" href="//fonts.googleapis.com/css?family=Oswald%3A600%2C700%7CRoboto%3A900%2C700%2Cregular%7CPlayfair+Display%3A900&amp;display=swap&amp;ver=1.3.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-frontend-css" href="https://horacampinas.com.br/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-js-composer-css" href="https://horacampinas.com.br/wp-content/themes/jnews/assets/css/js-composer-frontend.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-style-css" href="https://horacampinas.com.br/wp-content/themes/jnews-child/style.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-darkmode-css" href="https://horacampinas.com.br/wp-content/themes/jnews/assets/css/darkmode.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-scheme-css" href="https://horacampinas.com.br/wp-content/themes/jnews/data/import/newspaper/scheme.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="jnews-select-share-css" href="https://horacampinas.com.br/wp-content/plugins/jnews-social-share/assets/css/plugin.css" type="text/css" media="all">
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://horacampinas.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://horacampinas.com.br/wp-json/wp/v2/posts/173853"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://horacampinas.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="shortlink" href="https://horacampinas.com.br/?p=173853">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://horacampinas.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhoracampinas.com.br%2Festudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://horacampinas.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhoracampinas.com.br%2Festudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer%2F&amp;format=xml">
+
+<!-- This site is using AdRotate v5.13.6.1 to display their advertisements - https://ajdg.solutions/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-33 { margin:25px;  float:right; clear:right; }
+	.g-37 {  margin: 0 auto; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1510605364895177" crossorigin="anonymous"></script>
+<meta name="google-adsense-account" content="ca-pub-1510605364895177">
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["cidade-e-regiao"],"pageAttributes":["biologia","campinas","cancer","mama","molecula","pesquisa","prostata","unicamp"],"pagePostAuthor":"Redação"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TRJTHC3');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->      <meta name="onesignal" content="wordpress-plugin">
+            <script>
+
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+      OneSignalDeferred.push(function(OneSignal) {
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['serviceWorkerParam'] = { scope: '/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/push/onesignal/' };
+oneSignal_options['serviceWorkerPath'] = 'OneSignalSDKWorker.js';
+
+        OneSignal.Notifications.setDefaultUrl("https://horacampinas.com.br");
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '689251e6-fe84-4ab2-9321-cd631a928983';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Notificações Hora Campinas";
+oneSignal_options['welcomeNotification']['message'] = "Obrigado por inscrever-se!";
+oneSignal_options['path'] = "https://horacampinas.com.br/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Quer receber notificações de novidades e atualizações";
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = "Exemplo de notificação";
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = "Exemplo de notificação";
+oneSignal_options['promptOptions']['acceptButtonText'] = "CONTINUAR";
+oneSignal_options['promptOptions']['cancelButtonText'] = "NÃO, OBRIGADO";
+oneSignal_options['promptOptions']['siteName'] = "https://horacampinas.com.br";
+oneSignal_options['promptOptions']['autoAcceptTitle'] = "Clique para Habilitar";
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Inscreva-se para receber notificações';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Inscrito para notificações';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Você está bloqueado para notificações';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Obrigado por Inscrever-se!';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Você está inscrito para notificações';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Você não receberá mais notificações';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Notificação de Atualizações';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'INSCREVER-SE';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'DESINSCREVER-SE';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Desbloquear Notificações';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Instruções para habilitar notificações';
+              OneSignal.init(window._oneSignalInitOptions);
+              OneSignal.Slidedown.promptPush()      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.Notifications.requestPermission(); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","@id":"https:\/\/horacampinas.com.br\/#organization","url":"https:\/\/horacampinas.com.br\/","name":"","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/www.instagram.com\/horacampinas\/","https:\/\/www.facebook.com\/horacampinas","https:\/\/www.linkedin.com\/company\/hora-campinas\/posts\/?feedView=all","https:\/\/www.youtube.com\/@horacampinas3971"]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"https:\/\/horacampinas.com.br\/#website","url":"https:\/\/horacampinas.com.br\/","name":"","potentialAction":{"@type":"SearchAction","target":"https:\/\/horacampinas.com.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="icon" href="https://horacampinas.com.br/wp-content/uploads/2021/02/cropped-icone-hora-campinas-32x32.jpeg" sizes="32x32">
+<link rel="icon" href="https://horacampinas.com.br/wp-content/uploads/2021/02/cropped-icone-hora-campinas-192x192.jpeg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://horacampinas.com.br/wp-content/uploads/2021/02/cropped-icone-hora-campinas-180x180.jpeg">
+<meta name="msapplication-TileImage" content="https://horacampinas.com.br/wp-content/uploads/2021/02/cropped-icone-hora-campinas-270x270.jpeg">
+<script></script><style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">.jeg_container, .jeg_content, .jeg_boxed .jeg_main .jeg_container, .jeg_autoload_separator { background-color : #ffffff; } body { --j-body-color : #333333; --j-accent-color : #2e74e8; --j-alt-color : #2e74e8; --j-heading-color : #111111; } body,.jeg_newsfeed_list .tns-outer .tns-controls button,.jeg_filter_button,.owl-carousel .owl-nav div,.jeg_readmore,.jeg_hero_style_7 .jeg_post_meta a,.widget_calendar thead th,.widget_calendar tfoot a,.jeg_socialcounter a,.entry-header .jeg_meta_like a,.entry-header .jeg_meta_comment a,.entry-header .jeg_meta_donation a,.entry-header .jeg_meta_bookmark a,.entry-content tbody tr:hover,.entry-content th,.jeg_splitpost_nav li:hover a,#breadcrumbs a,.jeg_author_socials a:hover,.jeg_footer_content a,.jeg_footer_bottom a,.jeg_cartcontent,.woocommerce .woocommerce-breadcrumb a { color : #333333; } a, .jeg_menu_style_5>li>a:hover, .jeg_menu_style_5>li.sfHover>a, .jeg_menu_style_5>li.current-menu-item>a, .jeg_menu_style_5>li.current-menu-ancestor>a, .jeg_navbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_midbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_side_tabs li.active, .jeg_block_heading_5 strong, .jeg_block_heading_6 strong, .jeg_block_heading_7 strong, .jeg_block_heading_8 strong, .jeg_subcat_list li a:hover, .jeg_subcat_list li button:hover, .jeg_pl_lg_7 .jeg_thumb .jeg_post_category a, .jeg_pl_xs_2:before, .jeg_pl_xs_4 .jeg_postblock_content:before, .jeg_postblock .jeg_post_title a:hover, .jeg_hero_style_6 .jeg_post_title a:hover, .jeg_sidefeed .jeg_pl_xs_3 .jeg_post_title a:hover, .widget_jnews_popular .jeg_post_title a:hover, .jeg_meta_author a, .widget_archive li a:hover, .widget_pages li a:hover, .widget_meta li a:hover, .widget_recent_entries li a:hover, .widget_rss li a:hover, .widget_rss cite, .widget_categories li a:hover, .widget_categories li.current-cat>a, #breadcrumbs a:hover, .jeg_share_count .counts, .commentlist .bypostauthor>.comment-body>.comment-author>.fn, span.required, .jeg_review_title, .bestprice .price, .authorlink a:hover, .jeg_vertical_playlist .jeg_video_playlist_play_icon, .jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail:before, .jeg_horizontal_playlist .jeg_video_playlist_play, .woocommerce li.product .pricegroup .button, .widget_display_forums li a:hover, .widget_display_topics li:before, .widget_display_replies li:before, .widget_display_views li:before, .bbp-breadcrumb a:hover, .jeg_mobile_menu li.sfHover>a, .jeg_mobile_menu li a:hover, .split-template-6 .pagenum, .jeg_mobile_menu_style_5>li>a:hover, .jeg_mobile_menu_style_5>li.sfHover>a, .jeg_mobile_menu_style_5>li.current-menu-item>a, .jeg_mobile_menu_style_5>li.current-menu-ancestor>a, .jeg_mobile_menu.jeg_menu_dropdown li.open > div > a { color : #2e74e8; } .jeg_menu_style_1>li>a:before, .jeg_menu_style_2>li>a:before, .jeg_menu_style_3>li>a:before, .jeg_side_toggle, .jeg_slide_caption .jeg_post_category a, .jeg_slider_type_1_wrapper .tns-controls button.tns-next, .jeg_block_heading_1 .jeg_block_title span, .jeg_block_heading_2 .jeg_block_title span, .jeg_block_heading_3, .jeg_block_heading_4 .jeg_block_title span, .jeg_block_heading_6:after, .jeg_pl_lg_box .jeg_post_category a, .jeg_pl_md_box .jeg_post_category a, .jeg_readmore:hover, .jeg_thumb .jeg_post_category a, .jeg_block_loadmore a:hover, .jeg_postblock.alt .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_postblock_carousel_2 .jeg_post_category a, .jeg_heroblock .jeg_post_category a, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, input[type="submit"], .btn, .button, .widget_tag_cloud a:hover, .popularpost_item:hover .jeg_post_title a:before, .jeg_splitpost_4 .page_nav, .jeg_splitpost_5 .page_nav, .jeg_post_via a:hover, .jeg_post_source a:hover, .jeg_post_tags a:hover, .comment-reply-title small a:before, .comment-reply-title small a:after, .jeg_storelist .productlink, .authorlink li.active a:before, .jeg_footer.dark .socials_widget:not(.nobg) a:hover .fa,.jeg_footer.dark .socials_widget:not(.nobg) a:hover span.jeg-icon, div.jeg_breakingnews_title, .jeg_overlay_slider_bottom_wrapper .tns-controls button, .jeg_overlay_slider_bottom_wrapper .tns-controls button:hover, .jeg_vertical_playlist .jeg_video_playlist_current, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .jeg_popup_post .caption, .jeg_footer.dark input[type="submit"], .jeg_footer.dark .btn, .jeg_footer.dark .button, .footer_widget.widget_tag_cloud a:hover, .jeg_inner_content .content-inner .jeg_post_category a:hover, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress .generic-button a, #buddypress .generic-button button, #buddypress .comment-reply-link, #buddypress a.bp-title-button, #buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a, div#buddypress .standard-form button:hover, div#buddypress a.button:hover, div#buddypress input[type="submit"]:hover, div#buddypress input[type="button"]:hover, div#buddypress input[type="reset"]:hover, div#buddypress ul.button-nav li a:hover, div#buddypress .generic-button a:hover, div#buddypress .generic-button button:hover, div#buddypress .comment-reply-link:hover, div#buddypress a.bp-title-button:hover, div#buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a:hover, #buddypress #item-nav .item-list-tabs ul li a:before, .jeg_inner_content .jeg_meta_container .follow-wrapper a { background-color : #2e74e8; } .jeg_block_heading_7 .jeg_block_title span, .jeg_readmore:hover, .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, .jeg_pagenav_3 .page_number:hover, .jeg_prevnext_post a:hover h3, .jeg_overlay_slider .jeg_post_category, .jeg_sidefeed .jeg_post.active, .jeg_vertical_playlist.jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail img, .jeg_horizontal_playlist .jeg_video_playlist_item.active { border-color : #2e74e8; } .jeg_tabpost_nav li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .jeg_mobile_menu_style_1>li.current-menu-item a, .jeg_mobile_menu_style_1>li.current-menu-ancestor a, .jeg_mobile_menu_style_2>li.current-menu-item::after, .jeg_mobile_menu_style_2>li.current-menu-ancestor::after, .jeg_mobile_menu_style_3>li.current-menu-item::before, .jeg_mobile_menu_style_3>li.current-menu-ancestor::before { border-bottom-color : #2e74e8; } .jeg_post_share .jeg-icon svg { fill : #2e74e8; } .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon, .entry-header .jeg_post_meta .fa, .jeg_review_stars, .jeg_price_review_list { color : #2e74e8; } .jeg_share_button.share-float.share-monocrhome a { background-color : #2e74e8; } h1,h2,h3,h4,h5,h6,.jeg_post_title a,.entry-header .jeg_post_title,.jeg_hero_style_7 .jeg_post_title a,.jeg_block_title,.jeg_splitpost_bar .current_title,.jeg_video_playlist_title,.gallery-caption,.jeg_push_notification_button>a.button { color : #111111; } .split-template-9 .pagenum, .split-template-10 .pagenum, .split-template-11 .pagenum, .split-template-12 .pagenum, .split-template-13 .pagenum, .split-template-15 .pagenum, .split-template-18 .pagenum, .split-template-20 .pagenum, .split-template-19 .current_title span, .split-template-20 .current_title span { background-color : #111111; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_search_no_expand .jeg_search_input { line-height : 30px; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_nav_icon { height : 30px; } .jeg_topbar, .jeg_topbar.dark { border-top-width : 0px; } .jeg_midbar { height : 100px; } .jeg_midbar, .jeg_midbar.dark { border-bottom-width : 0px; } .jeg_header .jeg_bottombar.jeg_navbar,.jeg_bottombar .jeg_nav_icon { height : 50px; } .jeg_header .jeg_bottombar.jeg_navbar, .jeg_header .jeg_bottombar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_header .jeg_bottombar .jeg_menu_style_1 > li, .jeg_header .jeg_bottombar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 50px; } .jeg_header .jeg_bottombar, .jeg_header .jeg_bottombar.jeg_navbar_dark, .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row, .jeg_bottombar.jeg_navbar_dark.jeg_navbar_boxed .jeg_nav_row { border-top-width : 3px; border-bottom-width : 1px; } .jeg_header_wrapper .jeg_bottombar, .jeg_header_wrapper .jeg_bottombar.jeg_navbar_dark, .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row, .jeg_bottombar.jeg_navbar_dark.jeg_navbar_boxed .jeg_nav_row { border-top-color : #111111; } .jeg_stickybar, .jeg_stickybar.dark { border-bottom-width : 3px; } .jeg_stickybar, .jeg_stickybar.dark, .jeg_stickybar.jeg_navbar_boxed .jeg_nav_row { border-bottom-color : #111111; } .jeg_header .socials_widget > a > i.fa:before { color : #ffffff; } .jeg_header .socials_widget.nobg > a > i > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget.nobg > a > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget > a > span.jeg-icon svg { fill : #ffffff; } .jeg_header .socials_widget > a > i > span.jeg-icon svg { fill : #ffffff; } .jeg_aside_item.socials_widget > a > i.fa:before { color : #777777; } .jeg_aside_item.socials_widget.nobg a span.jeg-icon svg { fill : #777777; } .jeg_aside_item.socials_widget a span.jeg-icon svg { fill : #777777; } .jeg_button_1 .btn { background : #81d742; } .jeg_nav_search { width : 39%; } .jnews .jeg_header .jeg_menu.jeg_top_menu > li > a { color : #81d742; } .jeg_footer_content,.jeg_footer.dark .jeg_footer_content { color : #ffffff; } .jeg_footer .jeg_footer_heading h3,.jeg_footer.dark .jeg_footer_heading h3,.jeg_footer .widget h2,.jeg_footer .footer_dark .widget h2 { color : #2e74e8; } .jeg_footer .jeg_footer_content a:hover,.jeg_footer.dark .jeg_footer_content a:hover { color : #2e74e8; } .jeg_footer input[type="submit"],.jeg_footer .btn,.jeg_footer .button { background-color : #2e74e8; color : #ffffff; } .jeg_footer input:not([type="submit"]),.jeg_footer textarea,.jeg_footer select,.jeg_footer.dark input:not([type="submit"]),.jeg_footer.dark textarea,.jeg_footer.dark select { color : #000000; } .jeg_footer_bottom a,.jeg_footer.dark .jeg_footer_bottom a,.jeg_footer_secondary a,.jeg_footer.dark .jeg_footer_secondary a,.jeg_footer_sidecontent .jeg_footer_primary a,.jeg_footer_sidecontent.dark .jeg_footer_primary a { color : #2e74e8; } .jeg_menu_footer a,.jeg_footer.dark .jeg_menu_footer a,.jeg_footer_sidecontent .jeg_footer_primary .col-md-7 .jeg_menu_footer a { color : #000000; } .jeg_menu_footer a:hover,.jeg_footer.dark .jeg_menu_footer a:hover,.jeg_footer_sidecontent .jeg_footer_primary .col-md-7 .jeg_menu_footer a:hover { color : #000000; } .jeg_read_progress_wrapper .jeg_progress_container .progress-bar { background-color : #2e74e8; } body,input,textarea,select,.chosen-container-single .chosen-single,.btn,.button { font-family: Oswald,Helvetica,Arial,sans-serif;font-weight : 600; font-style : normal;  } .jeg_header, .jeg_mobile_wrapper { font-family: Oswald,Helvetica,Arial,sans-serif;font-weight : 600; font-style : normal; font-size: 50px;  } .jeg_main_menu > li > a { font-family: Roboto,Helvetica,Arial,sans-serif; } h3.jeg_block_title, .jeg_footer .jeg_footer_heading h3, .jeg_footer .widget h2, .jeg_tabpost_nav li { font-family: Oswald,Helvetica,Arial,sans-serif;font-weight : 700; font-style : normal;  } .jeg_post_title, .entry-header .jeg_post_title, .jeg_single_tpl_2 .entry-header .jeg_post_title, .jeg_single_tpl_3 .entry-header .jeg_post_title, .jeg_single_tpl_6 .entry-header .jeg_post_title, .jeg_content .jeg_custom_title_wrapper .jeg_post_title { font-family: "Playfair Display",Helvetica,Arial,sans-serif;font-weight : 900; font-style : normal; font-size: 50px;  } .jeg_post_excerpt p, .content-inner p { font-family: Roboto,Helvetica,Arial,sans-serif;font-weight : 400; font-style : normal; font-size: 18px;  } .jeg_thumb .jeg_post_category a,.jeg_pl_lg_box .jeg_post_category a,.jeg_pl_md_box .jeg_post_category a,.jeg_postblock_carousel_2 .jeg_post_category a,.jeg_heroblock .jeg_post_category a,.jeg_slide_caption .jeg_post_category a { background-color : #3977e0; } .jeg_overlay_slider .jeg_post_category,.jeg_thumb .jeg_post_category a,.jeg_pl_lg_box .jeg_post_category a,.jeg_pl_md_box .jeg_post_category a,.jeg_postblock_carousel_2 .jeg_post_category a,.jeg_heroblock .jeg_post_category a,.jeg_slide_caption .jeg_post_category a { border-color : #3977e0; } .jeg_heroblock .jeg_post_category a.category-manchete,.jeg_thumb .jeg_post_category a.category-manchete,.jeg_pl_lg_box .jeg_post_category a.category-manchete,.jeg_pl_md_box .jeg_post_category a.category-manchete,.jeg_postblock_carousel_2 .jeg_post_category a.category-manchete,.jeg_slide_caption .jeg_post_category a.category-manchete { background-color : #3977e0; border-color : #3977e0; color : #ffffff; } .jeg_heroblock .jeg_post_category a.category-memoria,.jeg_thumb .jeg_post_category a.category-memoria,.jeg_pl_lg_box .jeg_post_category a.category-memoria,.jeg_pl_md_box .jeg_post_category a.category-memoria,.jeg_postblock_carousel_2 .jeg_post_category a.category-memoria,.jeg_slide_caption .jeg_post_category a.category-memoria { background-color : #2e74e8; border-color : #2e74e8; } @media only screen and (min-width : 1200px) { .container, .jeg_vc_content > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_row, .jeg_vc_content > .vc_element > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row, .jeg_vc_content > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper { max-width : 1170px; } .elementor-section.elementor-section-boxed > .elementor-container { max-width : 1170px; }  } @media only screen and (min-width : 1441px) { .container, .jeg_vc_content > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_row, .jeg_vc_content > .vc_element > .vc_row, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row, .jeg_vc_content > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper, .jeg_vc_content > .wpb-content-wrapper > .vc_element > .vc_row[data-vc-full-width="true"]:not([data-vc-stretch-content="true"]) > .jeg-vc-wrapper { max-width : 1170px; } .elementor-section.elementor-section-boxed > .elementor-container { max-width : 1170px; }  } </style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="yellow-pencil">
+/*
+	The following CSS codes are created by the YellowPencil plugin.
+	https://yellowpencil.waspthemes.com/
+*/
+.jeg_top_weather .jeg_weather_temp .jeg_weather_value{color:#2e74e8;}.jeg_top_weather .jeg_weather_location span{color:#2e74e8;}.jeg_top_weather .jeg_weather_temp .jeg_weather_unit{color:#2e74e8 !important;}.jeg_weather_condition .jeg_weather_icon i{color:#dd9933;}.container .footer_right .jeg_menu_footer .menu-item a{color:#bdc3c7 !important;}.jeg_singlepage .jeg_post .category-manchete{background-color:#3977e0;color:#ecf0f1;}.jeg_singlepage .jeg_post .category-esportes{background-color:#3977e0;color:#ecf0f1;}.jeg_singlepage .jeg_post .category-cidade-e-regiao{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-colunistas{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-geral{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-veiculos{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-pet{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-turismo{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-internacional{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-cultura-e-lazer{color:#ecf0f1;background-color:#3977e0;}.jeg_singlepage .jeg_post .category-opiniao{color:#ecf0f1;background-color:#3977e0;}.popularpost_list .jeg_socialshare .socialshare_list{visibility:hidden;}.popularpost_list .popularpost_item .jeg_socialshare{visibility:hidden;}.jeg_main .jeg_postbig .jeg_post_title a{font-size:50px;}.jeg_viewport .jeg_header_wrapper .jeg_header .jeg_navbar_boxed .container .jeg_nav_row .jeg_nav_center .item_wrap .jeg_nav_item .jeg_mainmenu_wrap .jeg_main_menu .menu-item a{line-height:1.5em !important;}.jeg_midbar .jeg_nav_right .jeg_nav_item{font-size:13px;}@media (max-width:667px){.jeg_main .jeg_postbig .jeg_post_title a{display:inline-block;-webkit-transform:translatex(0px) translatey(0px) !important;-ms-transform:translatex(0px) translatey(0px) !important;transform:translatex(0px) translatey(0px) !important;font-size:35px;}.jeg_main .wpb_row .jeg-vc-wrapper .vc_column_container .jeg_wrapper .jeg_pagination_disable .jeg_block_container .jeg_posts_wrap .jeg_postbig .format-standard .jeg_postblock_content .jeg_post_title a{line-height:1em !important;}}
+</style></head>
+<body class="post-template-default single single-post postid-173853 single-format-standard wp-embed-responsive non-logged-in jeg_toggle_light jeg_single_tpl_1 jnews jsc_normal wpb-js-composer js-comp-ver-8.1 vc_responsive">
+
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class="ads-wrapper  "><div class="ads_shortcode"><div class="a-single a-250"><center><a class="gofollow" data-track="MjUwLDAsMSw2MA==" href="https://campinas.sp.gov.br/sites/arboviroses/inicio" target="_blank" rel="noopener"><img class="aligncenter wp-image-6640 size-full" src="https://horacampinas.com.br/wp-content/uploads/2025/01/testeira-sanasa.jpeg" alt="" width="970" height="300"></a></center></div></div><div class="ads-text">PUBLICIDADE</div></div>    </div>
+
+    <!-- The Main Wrapper
+    ============================================= -->
+    <div class="jeg_viewport">
+
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- HEADER -->
+<div class="jeg_header full">
+    <div class="jeg_topbar jeg_container jeg_navbar_wrapper dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left  jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_separator separator1"></div><div class="jeg_nav_item jeg_top_date">
+    14 de janeiro de 2025</div><div class="jeg_nav_item jeg_dark_mode">
+                    <label class="dark_mode_switch">
+                        <input aria-label="Dark mode toogle" type="checkbox" class="jeg_dark_mode_toggle">
+                        <span class="slider round"></span>
+                    </label>
+                 </div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_separator separator3"></div><div class="jeg_nav_item jeg_nav_html">
+    O SEU PORTAL DE NOTÍCIAS, ANÁLISE E SERVIÇOS</div><div class="jeg_separator separator2"></div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right  jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_separator separator4"></div><div class="jeg_nav_item">
+	<ul class="jeg_menu jeg_top_menu"><li id="menu-item-3265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3265"><a target="_blank" href="https://api.whatsapp.com/send?phone=5519998803040&amp;text=Olá%2C%20estou%20no%20Portal%20Hora%20Campinas%20e%20tenho%20algumas%20dúvidas...%C2%A0">WHATSAPP</a></li>
+</ul></div><!-- Button -->
+<div class="jeg_nav_item jeg_button_2">
+    		<a href="https://api.whatsapp.com/send?phone=5519998803040&amp;text=Olá%2C%20estou%20no%20Portal%20Hora%20Campinas%20e%20tenho%20algumas%20dúvidas...%C2%A0" class="btn default " target="_blank">
+			<i class="fa fa-newspaper-o"></i>
+			ANUNCIE		</a>
+		</div><div class="jeg_separator separator5"></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div><!-- /.jeg_container --><div class="jeg_midbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_nav_html">
+    <script>
+function updateIframe()
+{
+    var iframe = document.querySelector('#iframe-cepagri iframe')
+    var currentSrc = iframe.src
+    var newSrc = currentSrc + '?_=' + new Date().getTime()
+    iframe.src = newSrc
+}
+
+document.addEventListener('DOMContentLoaded', function()
+{
+    var url = 'https://www.cpa.unicamp.br/app/view/i-prev-3.php'
+
+    var xhr = new XMLHttpRequest()
+    xhr.open('GET', url, true)
+    xhr.onload = function()
+    {
+        if(xhr.status === 200)
+        {
+            var iframe = document.createElement('iframe')
+            iframe.src = url
+            iframe.width = '220px'
+            iframe.height = '95px'
+            iframe.frameBorder = '0'
+            iframe.scrolling = 'no'
+            document.getElementById('iframe-cepagri').appendChild(iframe); // Adiciona o iframe
+   setInterval(updateIframe, 10 * 60 * 1000); // Atualiza o iframe a cada 10 minutos
+
+        } else {
+            console.error('O Portal do Cepagri está indisponível no momento.')
+        }
+    }
+    xhr.send()
+})
+</script>
+<style>#iframe-cepagri:not(:empty) { display:inline-block; padding-top: 10px; }</style>
+<span id="iframe-cepagri"></span></div><!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle" aria-label="Search Button"><i class="fa fa-search"></i></a>
+    <form action="https://horacampinas.com.br/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Pesquisar..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sem Resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos os resultados    </div>
+</div></div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+			<a href="https://horacampinas.com.br/" aria-label="Visit Homepage" style="padding: 0 0 0 0;">
+				<img class="jeg_logo_img" src="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100.jpeg" alt="Informação e análise com credibilidade" data-light-src="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100.jpeg" data-light-srcset="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100.jpeg 1x,  2x" data-dark-src="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100-dark.png" data-dark-srcset="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100-dark.png 1x,  2x">			</a>
+		</div>
+	</div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignright">
+                        			<div class="jeg_nav_item socials_widget jeg_social_icon_block circle">
+				<a href="https://www.instagram.com/horacampinas/" target="_blank" rel="external noopener nofollow" aria-label="Find us on Instagram" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://www.facebook.com/horacampinas" target="_blank" rel="external noopener nofollow" aria-label="Find us on Facebook" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.linkedin.com/company/hora-campinas/posts/?feedView=all" target="_blank" rel="external noopener nofollow" aria-label="Find us on LinkedIn" class="jeg_linkedin"><i class="fa fa-linkedin"></i> </a><a href="https://www.youtube.com/@horacampinas3971" target="_blank" rel="external noopener nofollow" aria-label="Find us on Youtube" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a>			</div>
+			                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div><div class="jeg_bottombar jeg_navbar jeg_container jeg_navbar_wrapper 1 jeg_navbar_boxed jeg_navbar_fitwidth jeg_navbar_normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_5" data-animation="animateTransform"><li id="menu-item-187788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187788 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/ultimas-noticias/">ÚLTIMAS</a></li>
+<li id="menu-item-187258" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-187258 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/cidade-e-regiao/">CIDADE E REGIÃO</a></li>
+<li id="menu-item-187259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187259 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/colunistas/">COLUNISTAS</a></li>
+<li id="menu-item-187260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187260 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/cultura-e-lazer/">ARTE E LAZER</a></li>
+<li id="menu-item-187261" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187261 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/opiniao/">OPINIÃO</a></li>
+<li id="menu-item-187262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187262 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/esportes/">ESPORTES</a></li>
+<li id="menu-item-187263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187263 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/educacao/">EDUCAÇÃO E CIDADANIA</a></li>
+<li id="menu-item-187264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187264 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/saude/">SAÚDE E BEM-ESTAR</a></li>
+<li id="menu-item-187265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187265 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/brasil-e-mundo/">BRASIL E MUNDO</a></li>
+<li id="menu-item-187266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187266 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/negocios/">ECONOMIA E NEGÓCIOS</a></li>
+<li id="menu-item-187267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187267 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/turismo/">TURISMO</a></li>
+<li id="menu-item-187268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187268 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/veiculos/">VEÍCULOS</a></li>
+<li id="menu-item-187269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187269 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/pet/">PET</a></li>
+<li id="menu-item-187270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187270 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/falecimentos/">FALECIMENTOS</a></li>
+<li id="menu-item-187271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187271 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/conheca-a-equipe-do-hora-campinas/">NOSSO TIME</a></li>
+</ul></div></div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div><!-- /.jeg_header -->        </div>
+
+        <div class="jeg_header_sticky">
+            <div class="sticky_blankspace"></div>
+<div class="jeg_header normal">
+    <div class="jeg_container">
+        <div data-mode="scroll" class="jeg_stickybar jeg_navbar jeg_navbar_wrapper  jeg_navbar_fitwidth jeg_navbar_normal">
+            <div class="container">
+    <div class="jeg_nav_row">
+        
+            <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignleft">
+                                    </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                <div class="item_wrap jeg_nav_aligncenter">
+                    <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_5" data-animation="animateTransform"><li id="menu-item-187788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187788 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/ultimas-noticias/">ÚLTIMAS</a></li>
+<li id="menu-item-187258" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-187258 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/cidade-e-regiao/">CIDADE E REGIÃO</a></li>
+<li id="menu-item-187259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187259 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/colunistas/">COLUNISTAS</a></li>
+<li id="menu-item-187260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187260 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/cultura-e-lazer/">ARTE E LAZER</a></li>
+<li id="menu-item-187261" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187261 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/opiniao/">OPINIÃO</a></li>
+<li id="menu-item-187262" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187262 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/esportes/">ESPORTES</a></li>
+<li id="menu-item-187263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187263 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/educacao/">EDUCAÇÃO E CIDADANIA</a></li>
+<li id="menu-item-187264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187264 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/saude/">SAÚDE E BEM-ESTAR</a></li>
+<li id="menu-item-187265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187265 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/brasil-e-mundo/">BRASIL E MUNDO</a></li>
+<li id="menu-item-187266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187266 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/negocios/">ECONOMIA E NEGÓCIOS</a></li>
+<li id="menu-item-187267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187267 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/turismo/">TURISMO</a></li>
+<li id="menu-item-187268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187268 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/veiculos/">VEÍCULOS</a></li>
+<li id="menu-item-187269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187269 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/categoria/pet/">PET</a></li>
+<li id="menu-item-187270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187270 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/falecimentos/">FALECIMENTOS</a></li>
+<li id="menu-item-187271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187271 bgnav" data-item-row="default"><a href="https://horacampinas.com.br/conheca-a-equipe-do-hora-campinas/">NOSSO TIME</a></li>
+</ul></div></div>
+                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignright">
+                    <!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle" aria-label="Search Button"><i class="fa fa-search"></i></a>
+    <form action="https://horacampinas.com.br/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Pesquisar..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sem Resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos os resultados    </div>
+</div></div>                </div>
+            </div>
+
+                </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="scroll">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item">
+    <a href="#" aria-label="Show Menu" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+			<a href="https://horacampinas.com.br/" aria-label="Visit Homepage">
+				<img class="jeg_logo_img" src="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100.jpeg" alt="Informação e análise com credibilidade" data-light-src="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100.jpeg" data-light-srcset="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100.jpeg 1x,  2x" data-dark-src="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100-dark.png" data-dark-srcset="https://horacampinas.com.br/wp-content/uploads/2021/02/logo600x100-dark.png 1x,  2x">			</a>
+		</div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_search_wrapper jeg_search_popup_expand">
+    <a href="#" aria-label="Search Button" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	<form action="https://horacampinas.com.br/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Pesquisar..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sem Resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos os resultados    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div>
+<div class="sticky_blankspace" style="height: 60px;"></div>        </div>
+
+        <div class="jeg_ad jeg_ad_top jnews_header_bottom_ads">
+            <div class="ads-wrapper  "></div>        </div>
+
+            <div class="post-wrapper">
+
+        <div class="post-wrap post-autoload " data-url="https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/" data-title="Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer" data-id="173853" data-prev="https://horacampinas.com.br/chegada-do-frio-amplia-acao-de-acolhimento-as-pessoas-em-situacao-de-rua/">
+
+            
+            <div class="jeg_main ">
+                <div class="jeg_container">
+                    <div class="jeg_content jeg_singlepage">
+
+	<div class="container">
+
+		<div class="jeg_ad jeg_article jnews_article_top_ads">
+			<div class="ads-wrapper  "></div>		</div>
+
+		<div class="row">
+			<div class="jeg_main_content col-md-8">
+				<div class="jeg_inner_content">
+					
+												<div class="jeg_breadcrumbs jeg_breadcrumb_container">
+							<div id="breadcrumbs"><span class="">
+                <a href="https://horacampinas.com.br">Home</a>
+            </span><i class="fa fa-angle-right"></i><span class="breadcrumb_last_link">
+                <a href="https://horacampinas.com.br/categoria/cidade-e-regiao/">Cidade e Região</a>
+            </span></div>						</div>
+						
+						<div class="entry-header">
+							
+							<h1 class="jeg_post_title">Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer</h1>
+
+															<h2 class="jeg_post_subtitle">Foi descoberta nova molécula envolvida na proliferação celular de certos cânceres</h2>
+							
+							<div class="jeg_meta_container"><div class="jeg_post_meta jeg_post_meta_1">
+
+	<div class="meta_left">
+									<div class="jeg_meta_author">
+					<img alt="Redação" src="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-LOGO_HORA_AVATAR-80x80.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-LOGO_HORA_AVATAR-160x160.jpg 2x" class="avatar avatar-80 photo" height="80" width="80" decoding="async">					<span class="meta_text">Por</span>
+					<a href="https://horacampinas.com.br/author/redacao/">Redação</a>				</div>
+					
+					<div class="jeg_meta_date">
+				<a href="https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/">2 de junho de 2024</a>
+			</div>
+		
+					<div class="jeg_meta_category">
+				<span><span class="meta_text">em</span>
+					<a href="https://horacampinas.com.br/categoria/cidade-e-regiao/" rel="category tag">Cidade e Região</a>				</span>
+			</div>
+		
+		<div class="jeg_meta_reading_time">
+			            <span>
+			            	Tempo de leitura: 3 mins
+			            </span>
+			        </div>	</div>
+
+	<div class="meta_right">
+		<div class="jeg_meta_zoom" data-in-step="3" data-out-step="2">
+							<div class="zoom-dropdown">
+								<div class="zoom-icon">
+									<span class="zoom-icon-small">A</span>
+									<span class="zoom-icon-big">A</span>
+								</div>
+								<div class="zoom-item-wrapper">
+									<div class="zoom-item">
+										<button class="zoom-out"><span>A</span></button>
+										<button class="zoom-in"><span>A</span></button>
+										<div class="zoom-bar-container">
+											<div class="zoom-bar"></div>
+										</div>
+										<button class="zoom-reset"><span>Reset</span></button>
+									</div>
+								</div>
+							</div>
+						</div>			</div>
+</div>
+</div>
+						</div>
+
+						<div class="jeg_featured featured_image "><a href="https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300.jpg"><div class="thumbnail-container animate-lazy" style="padding-bottom:50%"><img width="750" height="375" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-750x375 size-jnews-750x375 lazyload wp-post-image" alt="Anvisa aprova primeira terapia gênica contra câncer no Brasil" decoding="async" fetchpriority="high" sizes="(max-width: 750px) 100vw, 750px" data-src="https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300-750x375.jpg" data-srcset="https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300-750x375.jpg 750w, https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300-360x180.jpg 360w, https://horacampinas.com.br/wp-content/uploads/2022/02/nci-vol-2336-300-1140x570.jpg 1140w" data-sizes="auto" data-expand="700"></div><p class="wp-caption-text">A descoberta pode ajudar no desenvolvimento de novos fármacos contra o câncer. Foto: Reprodução</p></a></div>
+						<div class="jeg_share_top_container"></div>
+						<div class="jeg_ad jeg_article jnews_content_top_ads "><div class="ads-wrapper  "></div></div>
+						<div class="entry-content no-share">
+							<div class="jeg_share_button share-float jeg_sticky_share clearfix share-monocrhome">
+								<div class="jeg_share_float_container"></div>							</div>
+
+							<div class="content-inner  jeg_link_underline">
+								<p>Estudo publicado no Journal of Medicinal Chemistry descreve o desenvolvimento de uma molécula inédita capaz de inibir a proteína VRK1, envolvida na manutenção da integridade do DNA e na proliferação celular de certos cânceres, entre eles mama, próstata, ovário, intestinos e gliomas (no cérebro).</p>
+<p>O trabalho foi liderado por pesquisadores do Centro de Química Medicinal (CQMED) da Universidade Estadual de Campinas (Unicamp) e do Aché Laboratórios Farmacêuticos e envolveu colaboradores do Brasil, Reino Unido, da Suécia, Alemanha e dos Estados Unidos. Trata-se do resultado de cinco anos de pesquisas focadas nessa proteína-alvo, que tem&nbsp;protagonismo na proliferação de certos tipos de câncer.</p>
+<blockquote class="pullquote align-center"><p>Essa nova molécula serve como uma ferramenta para investigar efeitos celulares e sistêmicos da inibição da VRK1 tanto em células saudáveis quanto tumorais. Além disso, o estudo consolida a VRK1 como um potencial alvo terapêutico para diversos tipos de câncer e abre o horizonte para o desenvolvimento de novos tratamentos.</p></blockquote>
+<p>Células tumorais têm mutações que fazem com que elas se multipliquem rapidamente e acabem acumulando erros no genoma. A VRK1 é uma proteína quinase (tipo de enzima que modifica outras proteínas adicionando moléculas de fosfato, em um processo conhecido como fosforilação). Ela participa da resposta celular que detecta e repara esses danos ao DNA, viabilizando, portanto, a proliferação das células mutadas.</p>
+<p>A ausência da VRK1 faz com que células acumulem erros em seus genomas, levando à morte celular. Em células tumorais, essa quinase é produzida em quantidades maiores.</p>
+<p>“Neste trabalho, mostramos que diante da inibição da VRK1 em células não ocorre a reparação dos erros e elas acabam morrendo, pois o acúmulo de danos é muito grande”, explica Rafael Couñago, pesquisador do CQMED e autor do artigo.</p>
+<p>A molécula inibidora, derivada de diidropteridinona, foi inicialmente identificada pela equipe do CQMED e, posteriormente, desenvolvida pelos cientistas do Aché. Os pesquisadores conduziram ensaios desenvolvidos especificamente para demonstrar a ação da molécula na proteína dentro do ambiente celular.</p>
+<blockquote>
+<blockquote class="pullquote align-center"><p><strong>“É a primeira vez que descrevemos uma molécula que inibe VRK1 de maneira potente, seletiva e altamente caracterizada no contexto celular”, complementa Hatylas Azevedo, diretor de P&amp;D do Aché Laboratórios Farmacêuticos e autor do estudo.</strong></p></blockquote>
+</blockquote>
+<p>&nbsp;</p>
+<p><strong>Ciência aberta</strong></p>
+<p>Ao longo dos cinco anos, o projeto seguiu as premissas da ciência aberta preconizadas pelo Structural Genomics Consortium (SGC), um consórcio internacional de centros de pesquisa que é parceiro da FAPESP no apoio ao CQMED e estuda proteínas humanas pouco exploradas.</p>
+<p>“O trabalho foi altamente colaborativo, com parcerias internacionais, universidades e a indústria farmacêutica brasileira”, pontua Couñago. Até agora, teve um caráter de pesquisa básica, mas os resultados podem ser utilizados na ciência aplicada.</p>
+<blockquote>
+<blockquote class="pullquote align-center"><p><strong>“Esse trabalho pode servir como base para que empresas, universidades e cientistas do mundo inteiro investiguem o papel da VRK1 no contexto tumoral, bem como utilizem essa molécula como ponto de partida para modificações que a tornem um fármaco”, comenta Azevedo.</strong></p></blockquote>
+</blockquote>
+<p>Embora os resultados sejam promissores, ainda são necessários vários testes antes de afirmar que se trata de um novo fármaco para o tratamento de câncer.</p>
+<p>No genoma humano existem cerca de 530 quinases descritas, das quais a ciência conhece bem apenas 80. Para o conhecimento funcional dessas enzimas é importante o desenvolvimento de inibidores que atuem seletivamente para cada uma delas. Esses inibidores podem servir como sondas para avançar no entendimento dessas enzimas, permitindo caracterizá-las funcionalmente. <strong>(Da Agência Fapesp, com informações do&nbsp;CQMED)</strong></p>
+<p>&nbsp;</p>
+								
+								
+																<div class="jeg_post_tags"><span>Tags:</span> <a href="https://horacampinas.com.br/tag/biologia/" rel="tag">biologia</a><a href="https://horacampinas.com.br/tag/campinas/" rel="tag">Campinas</a><a href="https://horacampinas.com.br/tag/cancer/" rel="tag">câncer</a><a href="https://horacampinas.com.br/tag/mama/" rel="tag">mama</a><a href="https://horacampinas.com.br/tag/molecula/" rel="tag">molécula</a><a href="https://horacampinas.com.br/tag/pesquisa/" rel="tag">pesquisa</a><a href="https://horacampinas.com.br/tag/prostata/" rel="tag">próstata</a><a href="https://horacampinas.com.br/tag/unicamp/" rel="tag">Unicamp</a></div>
+															</div>
+
+
+						</div>
+						<div class="jeg_share_bottom_container"><div class="jeg_share_button share-bottom clearfix">
+                <div class="jeg_sharelist">
+                    <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhoracampinas.com.br%2Festudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer%2F" rel="nofollow" class="jeg_btn-facebook expanded"><i class="fa fa-facebook-official"></i><span>Compartilhe</span></a><a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhoracampinas.com.br%2Festudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer%2F&amp;title=Estudo%20conduzido%20na%20Unicamp%20pode%20ajudar%20a%20entender%20a%20biologia%20do%20c%C3%A2ncer" rel="nofollow" class="jeg_btn-linkedin expanded"><i class="fa fa-linkedin"></i><span>Compartilhe</span></a><a href="//api.whatsapp.com/send?text=Estudo%20conduzido%20na%20Unicamp%20pode%20ajudar%20a%20entender%20a%20biologia%20do%20c%C3%A2ncer%0Ahttps%3A%2F%2Fhoracampinas.com.br%2Festudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer%2F" rel="nofollow" class="jeg_btn-whatsapp expanded"><i class="fa fa-whatsapp"></i><span>Enviar</span></a>
+                    
+                </div>
+            </div></div>
+						
+						<div class="jeg_ad jeg_article jnews_content_bottom_ads "><div class="ads-wrapper  "><div class="ads_shortcode"><!-- Erro, o Anúncio não está disponível neste momento devido às restrições de agendamento/geolocalização! --></div></div></div><div class="jnews_prev_next_container"></div><div class="jnews_author_box_container ">
+	<div class="jeg_authorbox">
+		<div class="jeg_author_image">
+			<img alt="Redação" src="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-LOGO_HORA_AVATAR-80x80.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-LOGO_HORA_AVATAR-160x160.jpg 2x" class="avatar avatar-80 photo" height="80" width="80" decoding="async">		</div>
+		<div class="jeg_author_content">
+			<h3 class="jeg_author_name">
+				<a href="https://horacampinas.com.br/author/redacao/">
+					Redação				</a>
+			</h3>
+			<p class="jeg_author_desc">
+				O Hora Campinas reforça seu compromisso com o jornalismo profissional e de qualidade. Nossa redação produz diariamente informação em que você pode confiar.			</p>
+
+							<div class="jeg_author_socials">
+									</div>
+			
+		</div>
+	</div>
+</div><div class="jnews_related_post_container"><div class="jeg_postblock_17 jeg_postblock jeg_module_hook jeg_pagination_loadmore jeg_col_2o3 jnews_module_173853_0_67864075751bb   " data-unique="jnews_module_173853_0_67864075751bb">
+					<div class="jeg_block_heading jeg_block_heading_5 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Notícias <strong>Relacionadas</strong></span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts_wrap">
+                    <div class="jeg_posts jeg_load_more_flag">
+                        
+                        <article class="jeg_post jeg_pl_md_1 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://horacampinas.com.br/programa-mulheres-empreendedoras-ultrapassa-faturamento-de-r-13-milhao/" aria-label="Read article: Programa Mulheres Empreendedoras ultrapassa faturamento de R$ 1,3 milhão"><div class="thumbnail-container animate-lazy  size-715 "><img width="750" height="536" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-750x536 size-jnews-750x536 lazyload wp-post-image" alt="Programa Mulheres Empreendedoras ultrapassa faturamento de R$ 1,3 milhão" decoding="async" loading="lazy" sizes="auto, (max-width: 750px) 100vw, 750px" data-src="https://horacampinas.com.br/wp-content/uploads/2025/01/Imagem-do-WhatsApp-de-2025-01-13-as-15.38.28_df44fb19-750x536.jpg" data-srcset="https://horacampinas.com.br/wp-content/uploads/2025/01/Imagem-do-WhatsApp-de-2025-01-13-as-15.38.28_df44fb19-750x536.jpg 750w, https://horacampinas.com.br/wp-content/uploads/2025/01/Imagem-do-WhatsApp-de-2025-01-13-as-15.38.28_df44fb19-350x250.jpg 350w, https://horacampinas.com.br/wp-content/uploads/2025/01/Imagem-do-WhatsApp-de-2025-01-13-as-15.38.28_df44fb19-120x86.jpg 120w" data-sizes="auto" data-expand="700"></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://horacampinas.com.br/categoria/cidade-e-regiao/" class="category-cidade-e-regiao">Cidade e Região</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://horacampinas.com.br/programa-mulheres-empreendedoras-ultrapassa-faturamento-de-r-13-milhao/">Programa Mulheres Empreendedoras ultrapassa faturamento de R$ 1,3 milhão</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">Por</span> <a href="https://horacampinas.com.br/author/redacao/">Redação</a></div><div class="jeg_meta_date"><a href="https://horacampinas.com.br/programa-mulheres-empreendedoras-ultrapassa-faturamento-de-r-13-milhao/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                        <div class="jeg_post_excerpt">
+                            <p>...</p>
+                        </div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_md_1 format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://horacampinas.com.br/passeios-do-agroturismo-e-city-tour-sao-opcoes-da-festa-do-figo-em-valinhos/" aria-label="Read article: Passeios do Agroturismo e City Tour são opções da Festa do Figo em Valinhos"><div class="thumbnail-container animate-lazy  size-715 "><img width="750" height="536" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-750x536 size-jnews-750x536 lazyload wp-post-image" alt="Passeios do Agroturismo e City Tour são opções da Festa do Figo em Valinhos" decoding="async" loading="lazy" sizes="auto, (max-width: 750px) 100vw, 750px" data-src="https://horacampinas.com.br/wp-content/uploads/2025/01/Agro_Adega_TioMario-1-scaled-750x536.jpg" data-srcset="https://horacampinas.com.br/wp-content/uploads/2025/01/Agro_Adega_TioMario-1-scaled-750x536.jpg 750w, https://horacampinas.com.br/wp-content/uploads/2025/01/Agro_Adega_TioMario-1-scaled-350x250.jpg 350w, https://horacampinas.com.br/wp-content/uploads/2025/01/Agro_Adega_TioMario-1-scaled-120x86.jpg 120w" data-sizes="auto" data-expand="700"></div></a>
+                        <div class="jeg_post_category">
+                            <span><a href="https://horacampinas.com.br/categoria/cidade-e-regiao/" class="category-cidade-e-regiao">Cidade e Região</a></span>
+                        </div>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://horacampinas.com.br/passeios-do-agroturismo-e-city-tour-sao-opcoes-da-festa-do-figo-em-valinhos/">Passeios do Agroturismo e City Tour são opções da Festa do Figo em Valinhos</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">Por</span> <a href="https://horacampinas.com.br/author/redacao/">Redação</a></div><div class="jeg_meta_date"><a href="https://horacampinas.com.br/passeios-do-agroturismo-e-city-tour-sao-opcoes-da-festa-do-figo-em-valinhos/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                        <div class="jeg_post_excerpt">
+                            <p>...</p>
+                        </div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://horacampinas.com.br/defesa-civil-de-nova-odessa-passa-a-monitorar-nivel-do-ribeirao-quilombo-24h/" aria-label="Read article: Defesa Civil de Nova Odessa passa a monitorar nível do Ribeirão Quilombo 24h"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Defesa Civil de Nova Odessa passa a monitorar nível do Ribeirão Quilombo 24h" decoding="async" loading="lazy" data-src="https://horacampinas.com.br/wp-content/uploads/2025/01/ribeirao-nova-odessa-120x86.png" data-srcset="" data-sizes="auto" data-expand="700"></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://horacampinas.com.br/defesa-civil-de-nova-odessa-passa-a-monitorar-nivel-do-ribeirao-quilombo-24h/">Defesa Civil de Nova Odessa passa a monitorar nível do Ribeirão Quilombo 24h</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://horacampinas.com.br/defesa-civil-de-nova-odessa-passa-a-monitorar-nivel-do-ribeirao-quilombo-24h/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://horacampinas.com.br/vestibular-indigena-unicamp-15-mil-estudantes-fazem-a-prova-em-cinco-cidades-do-pais/" aria-label="Read article: Vestibular indígena Unicamp: 1,5 mil estudantes fazem a prova em cinco cidades do País"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Vestibular indígena Unicamp: 1,5 mil estudantes fazem a prova em cinco cidades do País" decoding="async" loading="lazy" sizes="auto, (max-width: 120px) 100vw, 120px" data-src="https://horacampinas.com.br/wp-content/uploads/2025/01/vestibular-indigena-120x86.png" data-srcset="https://horacampinas.com.br/wp-content/uploads/2025/01/vestibular-indigena-120x86.png 120w, https://horacampinas.com.br/wp-content/uploads/2025/01/vestibular-indigena-350x250.png 350w" data-sizes="auto" data-expand="700"></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://horacampinas.com.br/vestibular-indigena-unicamp-15-mil-estudantes-fazem-a-prova-em-cinco-cidades-do-pais/">Vestibular indígena Unicamp: 1,5 mil estudantes fazem a prova em cinco cidades do País</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://horacampinas.com.br/vestibular-indigena-unicamp-15-mil-estudantes-fazem-a-prova-em-cinco-cidades-do-pais/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://horacampinas.com.br/alerta-aos-motoristas-tres-vias-do-bonfim-passarao-a-ter-sentido-unico-a-partir-desta-terca/" aria-label="Read article: Alerta aos motoristas: três vias do Bonfim passarão a ter sentido único a partir desta terça"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Alerta aos motoristas: três vias do Bonfim passarão a ter sentido único a partir desta terça" decoding="async" loading="lazy" sizes="auto, (max-width: 120px) 100vw, 120px" data-src="https://horacampinas.com.br/wp-content/uploads/2025/01/transito-campinas-120x86.png" data-srcset="https://horacampinas.com.br/wp-content/uploads/2025/01/transito-campinas-120x86.png 120w, https://horacampinas.com.br/wp-content/uploads/2025/01/transito-campinas-350x250.png 350w" data-sizes="auto" data-expand="700"></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://horacampinas.com.br/alerta-aos-motoristas-tres-vias-do-bonfim-passarao-a-ter-sentido-unico-a-partir-desta-terca/">Alerta aos motoristas: três vias do Bonfim passarão a ter sentido único a partir desta terça</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://horacampinas.com.br/alerta-aos-motoristas-tres-vias-do-bonfim-passarao-a-ter-sentido-unico-a-partir-desta-terca/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://horacampinas.com.br/casa-da-crianca-paralitica-reinaugura-unidade-i-do-bazar-do-sonho-na-proxima-sexta/" aria-label="Read article: Casa da Criança Paralítica reinaugura unidade I do Bazar do Sonho na próxima sexta"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Casa da Criança Paralítica reinaugura unidade I do Bazar do Sonho na próxima sexta" decoding="async" loading="lazy" sizes="auto, (max-width: 120px) 100vw, 120px" data-src="https://horacampinas.com.br/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-13-at-08.37.33-120x86.jpeg" data-srcset="https://horacampinas.com.br/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-13-at-08.37.33-120x86.jpeg 120w, https://horacampinas.com.br/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-13-at-08.37.33-350x250.jpeg 350w, https://horacampinas.com.br/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-13-at-08.37.33-750x536.jpeg 750w" data-sizes="auto" data-expand="700"></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://horacampinas.com.br/casa-da-crianca-paralitica-reinaugura-unidade-i-do-bazar-do-sonho-na-proxima-sexta/">Casa da Criança Paralítica reinaugura unidade I do Bazar do Sonho na próxima sexta</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://horacampinas.com.br/casa-da-crianca-paralitica-reinaugura-unidade-i-do-bazar-do-sonho-na-proxima-sexta/"><i class="fa fa-clock-o"></i> 13 de janeiro de 2025</a></div></div>
+                    </div>
+                </article>
+                    </div>
+                </div>
+                    <div class="module-overlay">
+				    <div class="preloader_type preloader_dot">
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class="navigation_overlay"><div class="module-preloader jeg_preloader"><span></span><span></span><span></span></div></div>
+                    <div class="jeg_block_loadmore ">
+                    <a href="#" class="" data-load="Carregar Mais" data-loading="Carregando..."> Carregar Mais</a>
+                </div>
+                    
+                </div>
+					
+					<script>var jnews_module_173853_0_67864075751bb = {"header_icon":"","first_title":"Not\u00edcias ","second_title":"Relacionadas","url":"","header_type":"heading_5","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","sticky_post":false,"post_type":"post","content_type":"all","sponsor":false,"number_post":6,"post_offset":0,"unique_content":"unique1","include_post":"","included_only":false,"exclude_post":"173853","include_category":"22","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"j \\d\\e F \\d\\e Y","excerpt_length":"","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"loadmore","pagination_nextprev_showtext":"","pagination_number_post":6,"pagination_scroll_limit":3,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_17"};</script>
+				</div></div><div class="jnews-autoload-splitter" data-url="https://horacampinas.com.br/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer/" data-title="Estudo conduzido na Unicamp pode ajudar a entender a biologia do câncer" data-id="173853" data-prev="https://horacampinas.com.br/chegada-do-frio-amplia-acao-de-acolhimento-as-pessoas-em-situacao-de-rua/"></div><div class="jnews_popup_post_container"></div><div class="jnews_comment_container"></div>
+									</div>
+			</div>
+			
+<div class="jeg_sidebar  jeg_sticky_sidebar col-md-4">
+    <div class="jegStickyHolder"><div class="theiaStickySidebar"><div class="widget widget_text" id="text-47">			<div class="textwidget"><p></p><div class="a-single a-252"><center><a class="gofollow" data-track="MjUyLDAsMSw2MA==" href="https://horacampinas.com.br/confira-a-vaga-disponivel/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-6640 size-full" src="https://horacampinas.com.br/wp-content/uploads/2025/01/hora-do-emprego.jpeg" alt="" width="1080" height="1080"></a></center></div><br>
+<!-- Erro, o Anúncio não está disponível neste momento devido às restrições de agendamento/geolocalização! --><br>
+<!-- Erro, o Anúncio não está disponível neste momento devido às restrições de agendamento/geolocalização! --><br>
+<!-- Erro, o Anúncio não está disponível neste momento devido às restrições de agendamento/geolocalização! --><br>
+<div class="a-single a-127"><center><a class="gofollow" data-track="MTI3LDAsMSw2MA==" href="https://www.andrepinottivascular.com.br" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-6640 size-full" src="https://horacampinas.com.br/wp-content/uploads/2022/11/BANNER_ANDRE_PINOTTI_REVISADO.jpeg" alt="" width="300" height="600"></a></center></div><br>
+<!-- Há banners, eles são deficientes ou nenhum qualificado para este local! --><br>
+<!-- Erro, o Anúncio não está disponível neste momento devido às restrições de agendamento/geolocalização! --><br>
+<div class="a-single a-224"><center><a class="gofollow" data-track="MjI0LDAsMSw2MA==" href="https://villasantamaria.com.br/loja-2024/&quot;" target="_blank" rel="noopener"><img loading="lazy" decoding="async" src="https://horacampinas.com.br/wp-content/uploads/2024/08/Brandina-1.jpeg" alt="" width="300" height="600"></a></center></div><br>
+<div class="a-single a-225"><center><a class="gofollow" data-track="MjI1LDAsMSw2MA==" href="https://villasantamaria.com.br/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" src="https://horacampinas.com.br/wp-content/uploads/2024/08/Brandina-2.jpeg" alt="" width="300" height="600"></a></center></div><br>
+<!-- Erro, o Anúncio não está disponível neste momento devido às restrições de agendamento/geolocalização! --><br>
+<div class="a-single a-223"><center><a class="gofollow" data-track="MjIzLDAsMSw2MA==" href="https://mozaiko.io/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="aligncenter wp-image-6640 size-full" src="https://horacampinas.com.br/wp-content/uploads/2024/07/Mozaiko.jpeg" alt="" width="300" height="600"></a></center></div><p></p>
+</div>
+		</div><div class="widget widget_jnews_module_element_userlist" id="jnews_module_element_userlist-2"><div class="jeg_userlist style-2 jeg_1_block jnews_module_173853_1_678640758799f " style="text-align:left"><ul><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=35"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2023/10/cropped-Dr_Carmino.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2023/10/cropped-Dr_Carmino.jpg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/carminodesouza/" class="jeg_userlist-name">Carmino de Souza</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Letra de Médico</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=56"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-CECILIA_LIMA2-scaled-1-500x500.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-CECILIA_LIMA2-scaled-1-1000x1000.jpg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/cecilia_lima/" class="jeg_userlist-name">Cecília Lima</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Comunicar para liderar</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=11"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2023/03/Daniela_NucciX-150x150.jpeg" srcset="https://horacampinas.com.br/wp-content/uploads/2023/03/Daniela_NucciX-150x150.jpeg 2x" class="avatar avatar-500 photo" height="500" width="500"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/daniela-nucci/" class="jeg_userlist-name">Daniela Nucci</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Moda, Beleza e Bem-Estar</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=50"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2023/10/cropped-GUSTAVO_GUMIERO_FOTO_DIVULGACAO-scaled-1-500x500.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2023/10/cropped-GUSTAVO_GUMIERO_FOTO_DIVULGACAO-scaled-1-1000x1000.jpg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/gustavogumiero/" class="jeg_userlist-name">Gustavo Gumiero</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Ah, sociedade!</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=53"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/02/cropped-Ivo_Neves-e1706882571144-2-500x500.jpeg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/02/cropped-Ivo_Neves-e1706882571144-2.jpeg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/ivo-neves/" class="jeg_userlist-name">Ivo Neves</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Pequena empresa que pensa grande</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=44"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/07/Jose_Pedro_Martins-e1733943234362-150x150.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/07/Jose_Pedro_Martins-e1733943234362-150x150.jpg 2x" class="avatar avatar-500 photo" height="500" width="500"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/josepedromartins/" class="jeg_userlist-name">José Pedro Martins</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Hora da Sustentabilidade</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=45"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/07/Karine_Camucci-150x150.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/07/Karine_Camucci-150x150.jpg 2x" class="avatar avatar-500 photo" height="500" width="500"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/karinecamuci/" class="jeg_userlist-name">Karine Camuci</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Você Empregado</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=15"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/07/Katia_Camargo-150x150.png" srcset="https://horacampinas.com.br/wp-content/uploads/2024/07/Katia_Camargo-150x150.png 2x" class="avatar avatar-500 photo" height="500" width="500"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/katia-camargo/" class="jeg_userlist-name">Kátia Camargo</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Caçadora de Boas Histórias</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=43"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/07/Luis_Norberto_avatar-150x150.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/07/Luis_Norberto_avatar-150x150.jpg 2x" class="avatar avatar-500 photo" height="500" width="500"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/luis-norberto-pascoal/" class="jeg_userlist-name">Luis Norberto Pascoal</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Os incomodados que mudem o mundo</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=38"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2021/11/luisfelipevalle.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2021/11/luisfelipevalle.jpg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/luisfelipevalle/" class="jeg_userlist-name">Luis Felipe Valle</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Versões e subversões</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=57"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/09/cropped-Marcia-Romao-3x4_vertical-500x500.jpeg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/09/cropped-Marcia-Romao-3x4_vertical.jpeg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/marcia_romao/" class="jeg_userlist-name">Márcia Romão</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Saúde Emocional</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=40"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2021/12/Renato-Savy-Foto-Divulgacao-500x500.jpg" srcset="https://horacampinas.com.br/wp-content/uploads/2021/12/Renato-Savy-Foto-Divulgacao.jpg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/renatosavy/" class="jeg_userlist-name">Renato Savy</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Direito Imobiliário e Condominial</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=39"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-WhatsApp-Image-2024-05-15-at-10.23.53-500x500.jpeg" srcset="https://horacampinas.com.br/wp-content/uploads/2024/05/cropped-WhatsApp-Image-2024-05-15-at-10.23.53.jpeg 2x" class="avatar avatar-500 photo" height="500" width="500" loading="lazy" decoding="async"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/retratos_da_juventude/" class="jeg_userlist-name">Retrato das Juventudes</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Sonhos e desafios de uma geração</span></div></div></li><li><div class="jeg_userlist-wrap"><div class="jeg_userlist-photo"><a href="https://horacampinas.com.br/?author=17"><img alt="Avatar photo" src="https://horacampinas.com.br/wp-content/uploads/2024/07/Thiago_Pontes-150x150.png" srcset="https://horacampinas.com.br/wp-content/uploads/2024/07/Thiago_Pontes-150x150.png 2x" class="avatar avatar-500 photo" height="500" width="500"></a></div><div class="jeg_userlist-content"><a href="https://horacampinas.com.br/author/thiago-pontes/" class="jeg_userlist-name">Thiago Pontes</a><div class="jeg_meta_subscribe no-follow"></div><span class="jeg_userlist-desc">Ponto de Vista</span></div></div></li></ul><style scoped="">.jnews_module_173853_1_678640758799f .jeg_subscribe_count, .jnews_module_173853_1_678640758799f .follow-wrapper a, .jnews_module_173853_1_678640758799f .jeg_userlist-socials a i { color: #a0a0a0 }.jnews_module_173853_1_678640758799f .jeg_userlist-socials a i svg { fill: #a0a0a0 }.jnews_module_173853_1_678640758799f.jeg_userlist.style-2 .jeg_userlist-desc { color: #a0a0a0 }.jnews_module_173853_1_678640758799f.jeg_userlist.style-2 .jeg_userlist-wrap { border-color: #eeeeee }.jnews_module_173853_1_678640758799f.jeg_userlist.style-2 .jeg_userlist-wrap { background: #f9f9f9 }.jnews_module_173853_1_678640758799f.jeg_userlist.style-2 .jeg_userlist-content .jeg_meta_subscribe .follow-wrapper a { background-color: #ffffff; color: #53585c; border-color: #e8e8e8; }.jnews_module_173853_1_678640758799f.jeg_userlist.style-2 .jeg_userlist-content .jeg_meta_subscribe .follow-wrapper a:hover { background-color: #ffffff; color: #53585c; border-color: #e8e8e8; }</style></div></div><div class="widget widget_jnews_popular" id="jnews_popular-10"><div class="jeg_block_heading jeg_block_heading_6 jnews_module_173853_0_678640758ae6c">
+                    <h3 class="jeg_block_title"><span>Mais lidas</span></h3>
+                    
+				</div><ul class="popularpost_list"><li class="popularpost_item format-standard">
+                <div class="jeg_thumb">
+                    
+                    <a href="https://horacampinas.com.br/ceprocamp-esta-com-27-opcoes-de-cursos-gratuitos/" aria-label="Read article: Ceprocamp está com 27 opções de cursos gratuitos; confira como se inscrever"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Ceprocamp está com 27 opções de cursos gratuitos; confira como se inscrever" decoding="async" loading="lazy" sizes="auto, (max-width: 350px) 100vw, 350px" data-src="https://horacampinas.com.br/wp-content/uploads/2025/01/ceprocamp44-350x250.jpg" data-srcset="https://horacampinas.com.br/wp-content/uploads/2025/01/ceprocamp44-350x250.jpg 350w, https://horacampinas.com.br/wp-content/uploads/2025/01/ceprocamp44-120x86.jpg 120w, https://horacampinas.com.br/wp-content/uploads/2025/01/ceprocamp44-750x536.jpg 750w" data-sizes="auto" data-expand="700"></div></a>
+                </div>
+                <h3 class="jeg_post_title">
+                    <a href="https://horacampinas.com.br/ceprocamp-esta-com-27-opcoes-de-cursos-gratuitos/" data-num="01">Ceprocamp está com 27 opções de cursos gratuitos; confira como se inscrever</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartilhamentos</span>
+                        <div class="socialshare_list">
+                            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhoracampinas.com.br%2Fceprocamp-esta-com-27-opcoes-de-cursos-gratuitos%2F" class="jeg_share_fb"><span class="share-text">Compartilhe</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Ceprocamp%20est%C3%A1%20com%2027%20op%C3%A7%C3%B5es%20de%20cursos%20gratuitos%3B%20confira%20como%20se%20inscrever&amp;url=https%3A%2F%2Fhoracampinas.com.br%2Fceprocamp-esta-com-27-opcoes-de-cursos-gratuitos%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://horacampinas.com.br/desfile-de-muladeiros-cavaleiros-e-charreteiros-abre-festa-do-figo-em-valinhos/" data-num="02">Desfile de Muladeiros, Cavaleiros e Charreteiros abre Festa do Figo em Valinhos</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartilhamentos</span>
+                        <div class="socialshare_list">
+                            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhoracampinas.com.br%2Fdesfile-de-muladeiros-cavaleiros-e-charreteiros-abre-festa-do-figo-em-valinhos%2F" class="jeg_share_fb"><span class="share-text">Compartilhe</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Desfile%20de%20Muladeiros%2C%20Cavaleiros%20e%20Charreteiros%20abre%20Festa%20do%20Figo%20em%20Valinhos&amp;url=https%3A%2F%2Fhoracampinas.com.br%2Fdesfile-de-muladeiros-cavaleiros-e-charreteiros-abre-festa-do-figo-em-valinhos%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://horacampinas.com.br/pontepretanos-lamentam-morte-de-segunda-filha-do-patrono-moyses-lucarelli/" data-num="03">Pontepretanos lamentam morte de segunda filha do patrono Moysés Lucarelli</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartilhamentos</span>
+                        <div class="socialshare_list">
+                            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhoracampinas.com.br%2Fpontepretanos-lamentam-morte-de-segunda-filha-do-patrono-moyses-lucarelli%2F" class="jeg_share_fb"><span class="share-text">Compartilhe</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Pontepretanos%20lamentam%20morte%20de%20segunda%20filha%20do%20patrono%20Moys%C3%A9s%20Lucarelli&amp;url=https%3A%2F%2Fhoracampinas.com.br%2Fpontepretanos-lamentam-morte-de-segunda-filha-do-patrono-moyses-lucarelli%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://horacampinas.com.br/inteligencia-artificial-ia-na-medicina-e-em-particular-na-hematologia-a-espada-de-dois-gumes-da-inovacao-por-carmino-de-souza/" data-num="04">Inteligência Artificial (IA) na Medicina e em particular na Hematologia: a espada de dois gumes da inovação- por Carmino de Souza</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartilhamentos</span>
+                        <div class="socialshare_list">
+                            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhoracampinas.com.br%2Finteligencia-artificial-ia-na-medicina-e-em-particular-na-hematologia-a-espada-de-dois-gumes-da-inovacao-por-carmino-de-souza%2F" class="jeg_share_fb"><span class="share-text">Compartilhe</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Intelig%C3%AAncia%20Artificial%20%28IA%29%20na%20Medicina%20e%20em%20particular%20na%20Hematologia%3A%20a%20espada%20de%20dois%20gumes%20da%20inova%C3%A7%C3%A3o-%20por%20Carmino%20de%20Souza&amp;url=https%3A%2F%2Fhoracampinas.com.br%2Finteligencia-artificial-ia-na-medicina-e-em-particular-na-hematologia-a-espada-de-dois-gumes-da-inovacao-por-carmino-de-souza%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li><li class="popularpost_item format-standard">
+                <h3 class="jeg_post_title">
+                    <a href="https://horacampinas.com.br/202996-2/" data-num="05">Ponte Preta encerra contratações com 18 novos nomes para 2025</a>
+                </h3>
+                <div class="popularpost_meta">
+                    <div class="jeg_socialshare">
+                        <span class="share_count"><i class="fa fa-share-alt"></i> 0 Compartilhamentos</span>
+                        <div class="socialshare_list">
+                            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhoracampinas.com.br%2F202996-2%2F" class="jeg_share_fb"><span class="share-text">Compartilhe</span> <span class="share-count">0</span></a>
+                            <a href="https://twitter.com/intent/tweet?text=Ponte%20Preta%20encerra%20contrata%C3%A7%C3%B5es%20com%2018%20novos%20nomes%20para%202025&amp;url=https%3A%2F%2Fhoracampinas.com.br%2F202996-2%2F" class="jeg_share_tw"><span class="share-text"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>Tweet</span> <span class="share-count">0</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li></ul></div></div></div></div>		</div>
+
+		<div class="jeg_ad jeg_article jnews_article_bottom_ads">
+			<div class="ads-wrapper  "></div>		</div>
+
+	</div>
+</div>
+                </div>
+            </div>
+
+            <div id="post-body-class" class="post-template-default single single-post postid-173853 single-format-standard wp-embed-responsive non-logged-in jeg_toggle_light jeg_single_tpl_1 jnews jsc_normal wpb-js-composer js-comp-ver-8.1 vc_responsive"></div>
+
+            
+        </div>
+
+        <div class="post-ajax-overlay">
+    <div class="preloader_type preloader_dot">
+        <div class="newsfeed_preloader jeg_preloader dot">
+            <span></span><span></span><span></span>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader circle">
+            <div class="jnews_preloader_circle_outer">
+                <div class="jnews_preloader_circle_inner"></div>
+            </div>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader square">
+            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+        </div>
+    </div>
+</div>
+    </div>
+		<div class="footer-holder" id="footer" data-id="footer">
+			<div class="jeg_footer jeg_footer_3 dark">
+    <div class="jeg_footer_container jeg_container">
+        <div class="jeg_footer_content">
+            <div class="container">
+                <div class="row">
+                    <div class="jeg_footer_primary clearfix">
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_jnews_about" id="jnews_about-3">        <div class="jeg_about ">
+			                <a class="footer_logo" href="https://horacampinas.com.br/">
+                    <img class="lazyload" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/img/jeg-empty.png" data-src="https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png" data-srcset="https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png 1x, https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png 2x" alt="Hora Campinas" data-light-src="https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png" data-light-srcset="https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png 1x, https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png 2x" data-dark-src="https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png" data-dark-srcset="https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png 1x, https://horacampinas.com.br/wp-content/uploads/2021/02/Logo-Hora-Campinas-Fundo-Transparente-_DARK.png 2x" data-pin-no-hover="true">
+                </a>
+									            <p>Somos uma startup de jornalismo digital pautada pela credibilidade e independência. Uma iniciativa inovadora para oferecer conteúdo plural, analítico e de qualidade.</p>
+
+			        </div>
+		</div><div class="footer_widget widget_text" id="text-8">			<div class="textwidget"><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h4>Anuncie e apoie o Hora Campinas</h4>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-inline vc_do_btn"><a class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-icon-left vc_btn3-color-inverse" href="https://horacampinas.com.br/seja-um-apoiador-do-hora-campinas/" title="Seja um apoiador do Hora Campinas"><i class="vc_btn3-icon fas fa-history"></i> VEJA COMO</a></div></div></div></div></div>
+</div>
+		</div>                        </div>
+
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_text" id="text-6">			<div class="textwidget"><p></p><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h3>Editor-chefe</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p><strong>Marcelo Pereira</strong><br>
+<a href="/cdn-cgi/l/email-protection#7d101c0f1e1811123d15120f1c1e1c100d14131c0e531e1210531f0f"><span class="__cf_email__" data-cfemail="ddb0bcafbeb8b1b29db5b2afbcbebcb0adb4b3bcaef3beb2b0f3bfaf">[email&nbsp;protected]</span></a></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h3>Editores de Conteúdo</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p><strong>Laine Turati</strong><br>
+<a href="laine@horacampinas.com.br"><span class="__cf_email__" data-cfemail="274b464e4942674f48554644464a574e4946540944484a094555">[email&nbsp;protected]</span></a></p>
+<p><strong>Maria José Basso</strong><br>
+<a href="/cdn-cgi/l/email-protection#8ce6e3eeedffffe3cce4e3feedefede1fce5e2edffa2efe3e1a2eefe"><span class="__cf_email__" data-cfemail="d1bbbeb3b0a2a2be91b9bea3b0b2b0bca1b8bfb0a2ffb2bebcffb3a3">[email&nbsp;protected]</span></a></p>
+<p><strong>Silvio Marcos Begatti</strong><br>
+<a href="/cdn-cgi/l/email-protection#5c2f35302a35331c34332e3d3f3d312c35323d2f723f3331723e2e"><span class="__cf_email__" data-cfemail="aeddc7c2d8c7c1eec6c1dccfcdcfc3dec7c0cfdd80cdc1c380ccdc">[email&nbsp;protected]</span></a></p>
+
+		</div>
+	</div>
+</div></div></div></div><p></p>
+</div>
+		</div>                        </div>
+
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_text" id="text-7">			<div class="textwidget"><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h3>Reportagem multimídia</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p><strong>Gustavo Abdel</strong><br>
+<a href="/cdn-cgi/l/email-protection#9efffcfafbf2def6f1ecfffdfff3eef7f0ffedb0fdf1f3b0fcec"><span class="__cf_email__" data-cfemail="95f4f7f1f0f9d5fdfae7f4f6f4f8e5fcfbf4e6bbf6faf8bbf7e7">[email&nbsp;protected]</span></a></p>
+<p><strong>Leandro Ferreira</strong><br>
+<a href="fotografia@horacampinas.com.br"><span class="__cf_email__" data-cfemail="43252c372c243122252a22032b2c312220222e332a2d22306d202c2e6d2131">[email&nbsp;protected]</span></a></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+</div>
+		</div><div class="footer_widget widget_text" id="text-46">			<div class="textwidget"><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h3>Marketing e Comunicação</h3>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<p><strong>Pedro Basso</strong><br>
+<a href="/cdn-cgi/l/email-protection#69190c0d1b060b081a1a062901061b080a0804190007081a470a0604470b1b"><span class="__cf_email__" data-cfemail="6e1e0b0a1c010c0f1d1d012e06011c0f0d0f031e07000f1d400d0103400c1c">[email&nbsp;protected]</span></a></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+</div>
+		</div>                        </div>
+
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_text" id="text-5">			<div class="textwidget"><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<h3>Para falar conosco</h3>
+
+		</div>
+	</div>
+<div class="jeg_iconlink jeg_col_1o3 jnews_module_173853_2_67864075b78c0   ">                
+                <a class="jeg_block_icon_link" href="https://api.whatsapp.com/send?phone=5519998803040&amp;text=Olá%2C%20estou%20no%20Portal%20Hora%20Campinas%20e%20tenho%20algumas%20dúvidas...%C2%A0" target="_blank">
+                    <i class="fab fa-whatsapp"></i>
+                </a>
+                <div class="jeg_block_icon_desc">
+                    <a class="jeg_block_icon_title" href="https://api.whatsapp.com/send?phone=5519998803040&amp;text=Olá%2C%20estou%20no%20Portal%20Hora%20Campinas%20e%20tenho%20algumas%20dúvidas...%C2%A0" target="_blank"><h3>WhatsApp</h3></a>
+                    <a class="jeg_block_icon_desc_span" href="https://api.whatsapp.com/send?phone=5519998803040&amp;text=Olá%2C%20estou%20no%20Portal%20Hora%20Campinas%20e%20tenho%20algumas%20dúvidas...%C2%A0" target="_blank"><span>(19) 9 9880-3040</span></a>
+                </div>
+            </div><div class="jeg_iconlink jeg_col_1o3 jnews_module_173853_3_67864075b78ec   ">                
+                <a class="jeg_block_icon_link" href="atendimento@horacampinas.com.br" target="_blank">
+                    <i class="fas fa-at"></i>
+                </a>
+                <div class="jeg_block_icon_desc">
+                    <a class="jeg_block_icon_title" href="atendimento@horacampinas.com.br" target="_blank"><h3>Canal Direto</h3></a>
+                    <a class="jeg_block_icon_desc_span" href="atendimento@horacampinas.com.br" target="_blank"><span><span class="__cf_email__" data-cfemail="0f6e7b6a616b66626a617b604f67607d6e6c6e627f66616e7c216c6062216d7d">[email&nbsp;protected]</span></span></a>
+                </div>
+            </div><div class="jeg_iconlink jeg_col_1o3 jnews_module_173853_4_67864075b7904   ">                
+                <a class="jeg_block_icon_link" href="redacao@horacampinas.com.br" target="_blank">
+                    <i class="fas fa-pen-alt"></i>
+                </a>
+                <div class="jeg_block_icon_desc">
+                    <a class="jeg_block_icon_title" href="redacao@horacampinas.com.br" target="_blank"><h3>Redação</h3></a>
+                    <a class="jeg_block_icon_desc_span" href="redacao@horacampinas.com.br" target="_blank"><span><span class="__cf_email__" data-cfemail="4735222326242628072f28352624262a372e2926346924282a692535">[email&nbsp;protected]</span></span></a>
+                </div>
+            </div><div class="jeg_iconlink jeg_col_1o3 jnews_module_173853_5_67864075b7917   ">                
+                <a class="jeg_block_icon_link" href="atendimento@horacampinas.com.br" target="_blank">
+                    <i class="fas fa-user-tie"></i>
+                </a>
+                <div class="jeg_block_icon_desc">
+                    <a class="jeg_block_icon_title" href="atendimento@horacampinas.com.br" target="_blank"><h3>Departamento Comercial</h3></a>
+                    <a class="jeg_block_icon_desc_span" href="atendimento@horacampinas.com.br" target="_blank"><span><span class="__cf_email__" data-cfemail="48293c2d262c21252d263c270820273a292b2925382126293b662b2725662a3a">[email&nbsp;protected]</span></span></a>
+                </div>
+            </div></div></div></div></div>
+</div>
+		</div><div class="footer_widget widget_text" id="text-9">			<div class="textwidget"><p>Noticiário nacional e internacional fornecido por Agência SP, Agência Brasil, Agência Senado, Agência Câmara, Agência Einstein, Travel for Life BR, Fotos Públicas, Agência Lusa News e Agência ONU News.</p>
+</div>
+		</div>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="jeg_footer_bottom clearfix">
+            <div class="container">
+
+                <!-- secondary footer right -->
+
+                <div class="footer_right">
+
+                    <ul class="jeg_menu_footer"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3265"><a target="_blank" href="https://api.whatsapp.com/send?phone=5519998803040&amp;text=Olá%2C%20estou%20no%20Portal%20Hora%20Campinas%20e%20tenho%20algumas%20dúvidas...%C2%A0">WHATSAPP</a></li>
+</ul>
+                    			<div class="jeg_social_icon_block socials_widget nobg">
+				<a href="https://www.instagram.com/horacampinas/" target="_blank" rel="external noopener nofollow" aria-label="Find us on Instagram" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://www.facebook.com/horacampinas" target="_blank" rel="external noopener nofollow" aria-label="Find us on Facebook" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.linkedin.com/company/hora-campinas/posts/?feedView=all" target="_blank" rel="external noopener nofollow" aria-label="Find us on LinkedIn" class="jeg_linkedin"><i class="fa fa-linkedin"></i> </a><a href="https://www.youtube.com/@horacampinas3971" target="_blank" rel="external noopener nofollow" aria-label="Find us on Youtube" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a>			</div>
+			
+                    
+                </div>
+
+                <!-- secondary footer left -->
+
+                
+                
+                                    <p class="copyright"> Hora Campinas © 2021  - Todos os Direitos Reservados - Desenvolvido por  <a href="https://farnesidigital.com.br" title="Farnesi Digital - Agencia Digital Campinas">Farnesi Digital</a>. </p>
+                
+            </div>
+        </div>
+
+            </div>
+</div><!-- /.footer -->		</div>
+					<div class="jscroll-to-top desktop mobile">
+				<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+			</div>
+			</div>
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">var jfla = ["view_counter"]</script>				<script>
+					window.ga = window.ga || function () {(ga.q = ga.q || []).push(arguments);};
+					ga.l = +new Date;
+					ga('create', 'UA-57589203-68', 'auto')
+					ga('send', 'pageview')
+				</script>
+				
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRJTHC3" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="selectShareContainer">
+                        <div class="selectShare-inner">
+                            <div class="select_share jeg_share_button">              
+                                <button class="select-share-button jeg_btn-facebook" data-url="http://www.facebook.com/sharer.php?u=[url]&amp;quote=[selected_text]" data-post-url="https%3A%2F%2Fhoracampinas.com.br%2Festudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer%2F" data-image-url="" data-title="Estudo%20conduzido%20na%20Unicamp%20pode%20ajudar%20a%20entender%20a%20biologia%20do%20c%C3%A2ncer"><i class="fa fa-facebook-official"></i></button><button class="select-share-button jeg_btn-twitter" data-url="https://twitter.com/intent/tweet?text=[selected_text]&amp;url=[url]" data-post-url="https%3A%2F%2Fhoracampinas.com.br%2Festudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer%2F" data-image-url="" data-title="Estudo%20conduzido%20na%20Unicamp%20pode%20ajudar%20a%20entender%20a%20biologia%20do%20c%C3%A2ncer"><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></i>
+                            </button></div>
+                            <div class="selectShare-arrowClip">
+                                <div class="selectShare-arrow"></div>      
+                            </div> 
+                        </div>      
+                      </div><!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand round">
+    <a href="#" aria-label="Search Button" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://horacampinas.com.br/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Pesquisar..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        Sem Resultados    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> Ver todos os resultados    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu sf-js-hover"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187788"><a href="https://horacampinas.com.br/ultimas-noticias/">ÚLTIMAS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-187258"><a href="https://horacampinas.com.br/categoria/cidade-e-regiao/">CIDADE E REGIÃO</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187259"><a href="https://horacampinas.com.br/categoria/colunistas/">COLUNISTAS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187260"><a href="https://horacampinas.com.br/categoria/cultura-e-lazer/">ARTE E LAZER</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187261"><a href="https://horacampinas.com.br/categoria/opiniao/">OPINIÃO</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187262"><a href="https://horacampinas.com.br/categoria/esportes/">ESPORTES</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187263"><a href="https://horacampinas.com.br/categoria/educacao/">EDUCAÇÃO E CIDADANIA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187264"><a href="https://horacampinas.com.br/categoria/saude/">SAÚDE E BEM-ESTAR</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187265"><a href="https://horacampinas.com.br/categoria/brasil-e-mundo/">BRASIL E MUNDO</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187266"><a href="https://horacampinas.com.br/categoria/negocios/">ECONOMIA E NEGÓCIOS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187267"><a href="https://horacampinas.com.br/categoria/turismo/">TURISMO</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187268"><a href="https://horacampinas.com.br/categoria/veiculos/">VEÍCULOS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-187269"><a href="https://horacampinas.com.br/categoria/pet/">PET</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187270"><a href="https://horacampinas.com.br/falecimentos/">FALECIMENTOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187271"><a href="https://horacampinas.com.br/conheca-a-equipe-do-hora-campinas/">NOSSO TIME</a></li>
+</ul></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item socials_widget circle">
+    <a href="https://www.instagram.com/horacampinas/" target="_blank" rel="external noopener nofollow" aria-label="Find us on Instagram" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://www.facebook.com/horacampinas" target="_blank" rel="external noopener nofollow" aria-label="Find us on Facebook" class="jeg_facebook"><i class="fa fa-facebook"></i> </a><a href="https://www.linkedin.com/company/hora-campinas/posts/?feedView=all" target="_blank" rel="external noopener nofollow" aria-label="Find us on LinkedIn" class="jeg_linkedin"><i class="fa fa-linkedin"></i> </a><a href="https://www.youtube.com/@horacampinas3971" target="_blank" rel="external noopener nofollow" aria-label="Find us on Youtube" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a></div><div class="jeg_aside_item jeg_aside_copyright">
+	<p>Hora Campinas © 2021  - Todos os Direitos Reservados - Desenvolvido por  <a href="https://farnesidigital.com.br" title="Farnesi Digital - Agencia Digital Campinas">Farnesi Digital</a>.</p>
+</div>    </div>
+</div>    </div>
+</div><div class="jeg_read_progress_wrapper"><div class="jeg_progress_container top"><span class="progress-bar"></span></div></div><script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script><link rel="stylesheet" id="vc_font_awesome_5_shims-css" href="https://horacampinas.com.br/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/css/v4-shims.min.css?ver=8.1" type="text/css" media="all">
+<link rel="stylesheet" id="vc_font_awesome_5-css" href="https://horacampinas.com.br/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/css/all.min.css?ver=8.1" type="text/css" media="all">
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/jnews-frontend-submit/assets/js/frontend.js?ver=11.0.3" id="jnews-frontend-submit-js"></script>
+<script type="text/javascript" id="adrotate-clicker-js-extra">
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/horacampinas.com.br\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/adrotate/library/jquery.clicker.js" id="adrotate-clicker-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/horacampinas.com.br\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.3" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/jnews-auto-load-post/assets/js/jquery.autoload.js" id="jnews-autoload-js"></script>
+<script type="text/javascript" id="jnews-frontend-js-extra">
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/horacampinas.com.br\/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer","popup_script":"magnific","single_gallery":"","ismobile":"","isie":"","sidefeed_ajax":"","language":"pt_BR","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"173853","isblog":"1","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Invalid Recaptcha!","empty_username":"Please enter your username!","empty_email":"Please enter your email!","empty_password":"Please enter your password!"},"recaptcha":"0","site_slug":"\/","site_domain":"horacampinas.com.br","zoom_button":"1","dm_cookie_time":"0","autoload_limit":"0","autoload_content":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=1.0.0" id="jnews-frontend-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/jnews-split/assets/js/jquery.split.js" id="jnews-split-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/comment-reply.min.js?ver=6.7.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=1.0.0" id="html5shiv-js"></script>
+<![endif]-->
+<script type="text/javascript" id="jnews-select-share-js-extra">
+/* <![CDATA[ */
+var jnews_select_share = {"is_customize_preview":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/jnews-social-share/assets/js/plugin.js" id="jnews-select-share-js"></script>
+<script type="text/javascript" src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js?ver=1.0.0" id="remote_sdk-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wpb_composer_front_js-js-extra">
+/* <![CDATA[ */
+var vcData = {"currentTheme":{"slug":"jnews"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=8.1" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://horacampinas.com.br/wp-content/plugins/jnews-essential/assets/js/analytics.js" id="jnews-analytics-js"></script>
+<script></script><script type="module">;/*! instant.page v5.1.1 - (C) 2019-2020 Alexandre Dieulot - https://instant.page/license */
+let t,e;const n=new Set,o=document.createElement("link"),i=o.relList&&o.relList.supports&&o.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype,s="instantAllowQueryString"in document.body.dataset,a="instantAllowExternalLinks"in document.body.dataset,r="instantWhitelist"in document.body.dataset,c="instantMousedownShortcut"in document.body.dataset,d=1111;let l=65,u=!1,f=!1,m=!1;if("instantIntensity"in document.body.dataset){const t=document.body.dataset.instantIntensity;if("mousedown"==t.substr(0,9))u=!0,"mousedown-only"==t&&(f=!0);else if("viewport"==t.substr(0,8))navigator.connection&&(navigator.connection.saveData||navigator.connection.effectiveType&&navigator.connection.effectiveType.includes("2g"))||("viewport"==t?document.documentElement.clientWidth*document.documentElement.clientHeight<45e4&&(m=!0):"viewport-all"==t&&(m=!0));else{const e=parseInt(t);isNaN(e)||(l=e)}}if(i){const n={capture:!0,passive:!0};if(f||document.addEventListener("touchstart",(function(t){e=performance.now();const n=t.target.closest("a");h(n)&&v(n.href)}),n),u?c||document.addEventListener("mousedown",(function(t){const e=t.target.closest("a");h(e)&&v(e.href)}),n):document.addEventListener("mouseover",(function(n){if(performance.now()-e<d)return;if(!("closest"in n.target))return;const o=n.target.closest("a");h(o)&&(o.addEventListener("mouseout",p,{passive:!0}),t=setTimeout((()=>{v(o.href),t=void 0}),l))}),n),c&&document.addEventListener("mousedown",(function(t){if(performance.now()-e<d)return;const n=t.target.closest("a");if(t.which>1||t.metaKey||t.ctrlKey)return;if(!n)return;n.addEventListener("click",(function(t){1337!=t.detail&&t.preventDefault()}),{capture:!0,passive:!1,once:!0});const o=new MouseEvent("click",{view:window,bubbles:!0,cancelable:!1,detail:1337});n.dispatchEvent(o)}),n),m){let t;(t=window.requestIdleCallback?t=>{requestIdleCallback(t,{timeout:1500})}:t=>{t()})((()=>{const t=new IntersectionObserver((e=>{e.forEach((e=>{if(e.isIntersecting){const n=e.target;t.unobserve(n),v(n.href)}}))}));document.querySelectorAll("a").forEach((e=>{h(e)&&t.observe(e)}))}))}}function p(e){e.relatedTarget&&e.target.closest("a")==e.relatedTarget.closest("a")||t&&(clearTimeout(t),t=void 0)}function h(t){if(t&&t.href&&(!r||"instant"in t.dataset)&&(a||t.origin==location.origin||"instant"in t.dataset)&&["http:","https:"].includes(t.protocol)&&("http:"!=t.protocol||"https:"!=location.protocol)&&(s||!t.search||"instant"in t.dataset)&&!(t.hash&&t.pathname+t.search==location.pathname+location.search||"noInstant"in t.dataset))return!0}function v(t){if(n.has(t))return;const e=document.createElement("link");e.rel="prefetch",e.href=t,document.head.appendChild(e),n.add(t)}</script><div class="jeg_ad jnews_mobile_sticky_ads "></div><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/horacampinas.com.br\/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer\/"},"dateCreated":"2024-06-02 01:00:32America\/Sao_Paulo","datePublished":"2024-06-02 01:00:32America\/Sao_Paulo","dateModified":"2024-06-02 11:11:02America\/Sao_Paulo","url":"https:\/\/horacampinas.com.br\/estudo-conduzido-na-unicamp-pode-ajudar-a-entender-a-biologia-do-cancer\/","headline":"Estudo conduzido na Unicamp pode ajudar a entender a biologia do c\u00e2ncer","name":"Estudo conduzido na Unicamp pode ajudar a entender a biologia do c\u00e2ncer","articleBody":"Estudo publicado no Journal of Medicinal Chemistry descreve o desenvolvimento de uma mol\u00e9cula in\u00e9dita capaz de inibir a prote\u00edna VRK1, envolvida na manuten\u00e7\u00e3o da integridade do DNA e na prolifera\u00e7\u00e3o celular de certos c\u00e2nceres, entre eles mama, pr\u00f3stata, ov\u00e1rio, intestinos e gliomas (no c\u00e9rebro).\r\n\r\nO trabalho foi liderado por pesquisadores do Centro de Qu\u00edmica Medicinal (CQMED) da Universidade Estadual de Campinas (Unicamp) e do Ach\u00e9 Laborat\u00f3rios Farmac\u00eauticos e envolveu colaboradores do Brasil, Reino Unido, da Su\u00e9cia, Alemanha e dos Estados Unidos. Trata-se do resultado de cinco anos de pesquisas focadas nessa prote\u00edna-alvo, que tem\u00a0protagonismo na prolifera\u00e7\u00e3o de certos tipos de c\u00e2ncer.\r\n<blockquote class=\"pullquote align-center\">Essa nova mol\u00e9cula serve como uma ferramenta para investigar efeitos celulares e sist\u00eamicos da inibi\u00e7\u00e3o da VRK1 tanto em c\u00e9lulas saud\u00e1veis quanto tumorais. Al\u00e9m disso, o estudo consolida a VRK1 como um potencial alvo terap\u00eautico para diversos tipos de c\u00e2ncer e abre o horizonte para o desenvolvimento de novos tratamentos.<\/blockquote>\r\nC\u00e9lulas tumorais t\u00eam muta\u00e7\u00f5es que fazem com que elas se multipliquem rapidamente e acabem acumulando erros no genoma. A VRK1 \u00e9 uma prote\u00edna quinase (tipo de enzima que modifica outras prote\u00ednas adicionando mol\u00e9culas de fosfato, em um processo conhecido como fosforila\u00e7\u00e3o). Ela participa da resposta celular que detecta e repara esses danos ao DNA, viabilizando, portanto, a prolifera\u00e7\u00e3o das c\u00e9lulas mutadas.\r\n\r\nA aus\u00eancia da VRK1 faz com que c\u00e9lulas acumulem erros em seus genomas, levando \u00e0 morte celular. Em c\u00e9lulas tumorais, essa quinase \u00e9 produzida em quantidades maiores.\r\n\r\n\u201cNeste trabalho, mostramos que diante da inibi\u00e7\u00e3o da VRK1 em c\u00e9lulas n\u00e3o ocorre a repara\u00e7\u00e3o dos erros e elas acabam morrendo, pois o ac\u00famulo de danos \u00e9 muito grande\u201d, explica Rafael Cou\u00f1ago, pesquisador do CQMED e autor do artigo.\r\n\r\nA mol\u00e9cula inibidora, derivada de diidropteridinona, foi inicialmente identificada pela equipe do CQMED e, posteriormente, desenvolvida pelos cientistas do Ach\u00e9. Os pesquisadores conduziram ensaios desenvolvidos especificamente para demonstrar a a\u00e7\u00e3o da mol\u00e9cula na prote\u00edna dentro do ambiente celular.\r\n<blockquote>\r\n<blockquote class=\"pullquote align-center\"><strong>\u201c\u00c9 a primeira vez que descrevemos uma mol\u00e9cula que inibe VRK1 de maneira potente, seletiva e altamente caracterizada no contexto celular\u201d, complementa Hatylas Azevedo, diretor de P&amp;D do Ach\u00e9 Laborat\u00f3rios Farmac\u00eauticos e autor do estudo.<\/strong><\/blockquote>\r\n<\/blockquote>\r\n&nbsp;\r\n\r\n<strong>Ci\u00eancia aberta<\/strong>\r\n\r\nAo longo dos cinco anos, o projeto seguiu as premissas da ci\u00eancia aberta preconizadas pelo Structural Genomics Consortium (SGC), um cons\u00f3rcio internacional de centros de pesquisa que \u00e9 parceiro da FAPESP no apoio ao CQMED e estuda prote\u00ednas humanas pouco exploradas.\r\n\r\n\u201cO trabalho foi altamente colaborativo, com parcerias internacionais, universidades e a ind\u00fastria farmac\u00eautica brasileira\u201d, pontua Cou\u00f1ago. At\u00e9 agora, teve um car\u00e1ter de pesquisa b\u00e1sica, mas os resultados podem ser utilizados na ci\u00eancia aplicada.\r\n<blockquote>\r\n<blockquote class=\"pullquote align-center\"><strong>\u201cEsse trabalho pode servir como base para que empresas, universidades e cientistas do mundo inteiro investiguem o papel da VRK1 no contexto tumoral, bem como utilizem essa mol\u00e9cula como ponto de partida para modifica\u00e7\u00f5es que a tornem um f\u00e1rmaco\u201d, comenta Azevedo.<\/strong><\/blockquote>\r\n<\/blockquote>\r\nEmbora os resultados sejam promissores, ainda s\u00e3o necess\u00e1rios v\u00e1rios testes antes de afirmar que se trata de um novo f\u00e1rmaco para o tratamento de c\u00e2ncer.\r\n\r\nNo genoma humano existem cerca de 530 quinases descritas, das quais a ci\u00eancia conhece bem apenas 80. Para o conhecimento funcional dessas enzimas \u00e9 importante o desenvolvimento de inibidores que atuem seletivamente para cada uma delas. Esses inibidores podem servir como sondas para avan\u00e7ar no entendimento dessas enzimas, permitindo caracteriz\u00e1-las funcionalmente. <strong>(Da Ag\u00eancia Fapesp, com informa\u00e7\u00f5es do\u00a0CQMED)<\/strong>\r\n\r\n&nbsp;","author":{"@type":"Person","name":"Reda\u00e7\u00e3o","url":"https:\/\/horacampinas.com.br\/author\/redacao\/"},"articleSection":["Cidade e Regi\u00e3o"],"image":{"@type":"ImageObject","url":"https:\/\/horacampinas.com.br\/wp-content\/uploads\/2022\/02\/nci-vol-2336-300.jpg","width":1170,"height":700},"publisher":{"@type":"Organization","name":"","url":"https:\/\/horacampinas.com.br","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/www.instagram.com\/horacampinas\/","https:\/\/www.facebook.com\/horacampinas","https:\/\/www.linkedin.com\/company\/hora-campinas\/posts\/?feedView=all","https:\/\/www.youtube.com\/@horacampinas3971"]}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"hentry","entry-title":"Estudo conduzido na Unicamp pode ajudar a entender a biologia do c\u00e2ncer","published":"2024-06-02 01:00:32","updated":"2024-06-02 11:11:02"}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/horacampinas.com.br"},{"@type":"ListItem","position":2,"name":"Cidade e Regi\u00e3o","item":"https:\/\/horacampinas.com.br\/categoria\/cidade-e-regiao\/"}]}</script>
+<script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'901d0a7c0f61e2d4',t:'MTczNjg1MTU3My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;901d0a7c0f61e2d4&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;r&quot;:1,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;e1b0a82976aa4a0abe5227179fe335e3&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+</body></html>

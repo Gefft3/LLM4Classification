@@ -1,0 +1,714 @@
+<html lang="es-es" dir="ltr"><head>
+    <meta charset="utf-8">
+	<meta name="rights" content="Area de Sistemas e Informatica 2014 - LTCB">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Sitio WEB Oficial del Ministerio de Salud y Deportes">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Ministerio de Salud y Deportes de Bolivia - MINISTERIO DE SALUD DECLARA ALERTA EPIDEMIOLÓGICA NACIONAL POR CASO POSITIVO DE SARAMPIÓN EN ORURO</title>
+	<link href="/media/system/images/joomla-favicon.svg" rel="icon" type="image/svg+xml">
+	<link href="/media/system/images/favicon.ico" rel="alternate icon" type="image/vnd.microsoft.icon">
+	<link href="/media/system/images/joomla-favicon-pinned.svg" rel="mask-icon" color="#000">
+
+    <link href="/media/system/css/joomla-fontawesome.min.css?31e381" rel="lazy-stylesheet"><noscript><link href="/media/system/css/joomla-fontawesome.min.css?31e381" rel="stylesheet"></noscript>
+	<link href="/plugins/system/screenreader/screenreader/libraries/controller/css/accessible.css?31e381" rel="stylesheet">
+	<link href="/media/modals/css/style.min.css?31e381" rel="stylesheet">
+	<link href="/media/modals/css/theme-dark.min.css?31e381" rel="stylesheet">
+	<link href="/media/templates/site/cassiopeia/css/global/fonts-local_roboto.min.css?31e381" rel="lazy-stylesheet"><noscript><link href="/media/templates/site/cassiopeia/css/global/fonts-local_roboto.min.css?31e381" rel="stylesheet"></noscript>
+	<link href="/media/templates/site/cassiopeia/css/template.min.css?31e381" rel="stylesheet">
+	<link href="/media/templates/site/cassiopeia/css/global/colors_standard.min.css?31e381" rel="stylesheet">
+	<link href="/media/templates/site/cassiopeia/css/vendor/joomla-custom-elements/joomla-alert.min.css?0.2.0" rel="stylesheet">
+	<link href="/media/templates/site/cassiopeia/css/user.css?31e381" rel="stylesheet">
+	<link href="/modules/mod_djimageslider/themes/default/css/djimageslider.css" rel="stylesheet">
+	<style>#accessibility-links #text_plugin{width:80px;}</style>
+	<style>:root {
+		--hue: 214;
+		--template-bg-light: #f0f4fb;
+		--template-text-dark: #495057;
+		--template-text-light: #ffffff;
+		--template-link-color: var(--link-color);
+		--template-special-color: #001B4C;
+		
+	}</style>
+
+    <script src="/media/vendor/metismenujs/js/metismenujs.min.js?1.4.0" defer=""></script>
+	<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?504da4"></script>
+	<script src="/plugins/system/screenreader/screenreader/languages/es-ES.js?31e381"></script>
+	<script src="/plugins/system/screenreader/screenreader/libraries/tts/soundmanager/soundmanager2.js?31e381"></script>
+	<script src="/plugins/system/screenreader/screenreader/libraries/tts/responsivevoice.js?31e381" defer=""></script>
+	<script src="/plugins/system/screenreader/screenreader/libraries/tts/tts.js?31e381" defer=""></script>
+	<script src="/plugins/system/screenreader/screenreader/libraries/controller/controller.js?31e381" defer=""></script>
+	<script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"MDL_MODALTXT_CLOSE":"Cerrar","MDL_MODALTXT_PREVIOUS":"Anterior","MDL_MODALTXT_NEXT":"Siguiente","MOD_FINDER_SEARCH_VALUE":"Buscar&hellip;","ERROR":"Error","MESSAGE":"Mensaje","NOTICE":"Aviso","WARNING":"Advertencia","JCLOSE":"Cerrar","JOK":"OK","JOPEN":"Abrir"},"rl_modals":{"theme":"dark","dimensionsIncludeTitle":0},"system.paths":{"root":"","rootFull":"https://www.minsalud.gob.bo/","base":"","baseFull":"https://www.minsalud.gob.bo/"},"csrf.token":"560b25aa5e88ca72b54e6d8e86c61982"}</script>
+	<script src="/media/system/js/core.min.js?2cb912"></script>
+	<script src="/media/modals/js/script.min.js?31e381" type="module"></script>
+	<script src="/media/templates/site/cassiopeia/js/template.min.js?31e381" type="module"></script>
+	<script src="/media/com_finder/js/finder.min.js?5729ed" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.3" type="module"></script>
+	<script src="/media/templates/site/cassiopeia/js/mod_menu/menu-metismenu.min.js?31e381" defer=""></script>
+	<script src="/media/system/js/messages.min.js?9a4811" type="module"></script>
+	<script src="/media/djextensions/jquery-easing-1.4.1/jquery.easing.min.js"></script>
+	<script src="/modules/mod_djimageslider/assets/js/slider.js?v=4.6.6"></script>
+	<script>window.soundManager.url = 'https://www.minsalud.gob.bo/plugins/system/screenreader/screenreader/libraries/tts/soundmanager/swf/';
+										  window.soundManager.debugMode = false;  
+										  window.soundManager.defaultOptions.volume = 80;
+										  var screenReaderConfigOptions = {	baseURI: 'https://www.minsalud.gob.bo/',
+																			token: '89a4e75d05cf516bcf5c34cc58c28e36',
+																			langCode: 'es',
+																			chunkLength: 300,
+																			screenReaderVolume: '80',
+																			screenReaderVoiceSpeed: 'normal',
+																			position: 'bottomright',
+																			scrolling: 'fixed',
+																			targetAppendto: 'html',
+																			targetAppendMode: 'bottom',
+																			enableDarkMode: 0,
+																			preload: 1,
+																			preloadTimeout: 3000,
+																			autoBackgroundColor: 1,
+																			readPage: 1,
+																			readChildNodes: 1,
+																			ieHighContrast: 1,
+																			ieHighContrastAdvanced: 1,
+																			selectedStorage: 'session',
+																			gtranslateIntegration: 0,
+																			readElementsHovering: 0,
+																			elementsHoveringSelector: 'p',
+																			elementsToexcludeCustom: '',
+																			selectMainpageareaText: 0,
+																			excludeScripts: 1,
+																			readImages: 0,
+																			readImagesAttribute: 'alt',
+																			readImagesOrdering: 'before',
+																			readImagesHovering: 0,
+																			mainpageSelector: '*[name*=main], *[class*=main], *[id*=main], *[id*=container], *[class*=container]',
+																			showlabel: 1,
+																			labeltext: 'Accecibilidad WEB MSyD',
+																			screenreaderIcon: 'audio',
+																			screenreader: 1,
+																			highcontrast: 1,
+																			highcontrastAlternate: 1,
+																			colorHue: 180,
+																			colorBrightness: 6,
+																			rootTarget: 1,
+																			dyslexicFont: 1,
+																			grayHues: 0,
+																			spacingSize: 1,
+																			spacingSizeMin: 0,
+																			spacingSizeMax: 10,
+																			pageZoom: 0,
+																			bigCursor: 1,
+																			readingGuides: 1,
+																			readability: 1,
+																			readabilitySelector: 'div.item-page,#content,div[itemprop=articleBody],div.item-content',
+																			hideImages: 0,
+																			hideAlsoVideosIframes: 0,
+																			customColors: 0,
+																			customColorsCssSelectors: '',
+																			fontsizeMinimizedToolbar: 0,
+																			hoverMinimizedToolbar: 0,
+																			fontsize: 1,
+																			fontsizeDefault: 80,
+																			fontsizeMin: 50,
+																			fontsizeMax: 200,
+																			fontsizeSelector: '',
+																			fontSizeHeadersIncrement: 20,
+																			toolbarBgcolor: '#eeeeee',
+																			template: 'accessible.css',
+																			templateOrientation: 'vertical',
+																			accesskey_play: 'P',
+																			accesskey_pause: 'E',
+																			accesskey_stop: 'S',
+																			accesskey_increase: 'O',
+																			accesskey_decrease: 'U',
+																			accesskey_reset: 'R',
+																			accesskey_highcontrast: 'H',
+																			accesskey_highcontrast2: 'J',
+																			accesskey_highcontrast3: 'K',
+																			accesskey_dyslexic: 'D',
+																			accesskey_grayhues: 'G',
+																			accesskey_spacingsize_increase: 'M',
+																			accesskey_spacingsize_decrease: 'N',
+																			accesskey_pagezoomsize_increase: 'X',
+																			accesskey_pagezoomsize_decrease: 'Y',
+																			accesskey_pagezoomsize_reset: 'Z',
+																			accesskey_bigcursor: 'W',
+																			accesskey_reading_guides: 'V',
+																			accesskey_readability: 'Q',
+																			accesskey_hideimages: 'F',
+																			accesskey_skiptocontents: 'C',
+																			accesskey_minimized: 'L',
+																			volume_accesskeys: 1,
+																			accesskey_increase_volume: '+',
+																			accesskey_decrease_volume: '-',
+																			accesskey_change_text_color: 'I',
+																			accesskey_change_background_color: 'B',
+																			readerEngine: 'proxy_responsive',
+																			useMobileReaderEngine: 0,
+																			mobileReaderEngine: 'proxy_responsive',
+																			proxyResponsiveApikey: 'kWyXm5dC',
+																			proxyResponsiveLanguageGender: 'auto',
+																			hideOnMobile: 0,
+																			useMinimizedToolbar: 1,
+																			statusMinimizedToolbar: 'closed',
+																			minimizedToolbarOnlyMobile: 0,
+																			showSkipToContents: 0,
+																			skipToContentsSelector: '',
+																			removeLinksTarget: 0,
+																			resetButtonBehavior: 'fontsize'
+																		};</script>
+	<script>window.soundManager.url = 'https://minsalud.gob.bo/plugins/system/screenreader/screenreader/libraries/tts/soundmanager/swf/';
+										  window.soundManager.debugMode = false;  
+										  window.soundManager.defaultOptions.volume = 80;
+										  var screenReaderConfigOptions = {	baseURI: 'https://minsalud.gob.bo/',
+																			token: '6403bdcd3d523a6a093a1c60513b2d17',
+																			langCode: 'es',
+																			chunkLength: 300,
+																			screenReaderVolume: '80',
+																			screenReaderVoiceSpeed: 'normal',
+																			position: 'bottomright',
+																			scrolling: 'fixed',
+																			targetAppendto: 'html',
+																			targetAppendMode: 'bottom',
+																			enableDarkMode: 0,
+																			preload: 1,
+																			preloadTimeout: 3000,
+																			autoBackgroundColor: 1,
+																			readPage: 1,
+																			readChildNodes: 1,
+																			ieHighContrast: 1,
+																			ieHighContrastAdvanced: 1,
+																			selectedStorage: 'session',
+																			gtranslateIntegration: 0,
+																			readElementsHovering: 0,
+																			elementsHoveringSelector: 'p',
+																			elementsToexcludeCustom: '',
+																			selectMainpageareaText: 0,
+																			excludeScripts: 1,
+																			readImages: 0,
+																			readImagesAttribute: 'alt',
+																			readImagesOrdering: 'before',
+																			readImagesHovering: 0,
+																			mainpageSelector: '*[name*=main], *[class*=main], *[id*=main], *[id*=container], *[class*=container]',
+																			showlabel: 1,
+																			labeltext: 'Accecibilidad WEB MSyD',
+																			screenreaderIcon: 'audio',
+																			screenreader: 1,
+																			highcontrast: 1,
+																			highcontrastAlternate: 1,
+																			colorHue: 180,
+																			colorBrightness: 6,
+																			rootTarget: 1,
+																			dyslexicFont: 1,
+																			grayHues: 0,
+																			spacingSize: 1,
+																			spacingSizeMin: 0,
+																			spacingSizeMax: 10,
+																			pageZoom: 0,
+																			bigCursor: 1,
+																			readingGuides: 1,
+																			readability: 1,
+																			readabilitySelector: 'div.item-page,#content,div[itemprop=articleBody],div.item-content',
+																			hideImages: 0,
+																			hideAlsoVideosIframes: 0,
+																			customColors: 0,
+																			customColorsCssSelectors: '',
+																			fontsizeMinimizedToolbar: 0,
+																			hoverMinimizedToolbar: 0,
+																			fontsize: 1,
+																			fontsizeDefault: 80,
+																			fontsizeMin: 50,
+																			fontsizeMax: 200,
+																			fontsizeSelector: '',
+																			fontSizeHeadersIncrement: 20,
+																			toolbarBgcolor: '#eeeeee',
+																			template: 'accessible.css',
+																			templateOrientation: 'vertical',
+																			accesskey_play: 'P',
+																			accesskey_pause: 'E',
+																			accesskey_stop: 'S',
+																			accesskey_increase: 'O',
+																			accesskey_decrease: 'U',
+																			accesskey_reset: 'R',
+																			accesskey_highcontrast: 'H',
+																			accesskey_highcontrast2: 'J',
+																			accesskey_highcontrast3: 'K',
+																			accesskey_dyslexic: 'D',
+																			accesskey_grayhues: 'G',
+																			accesskey_spacingsize_increase: 'M',
+																			accesskey_spacingsize_decrease: 'N',
+																			accesskey_pagezoomsize_increase: 'X',
+																			accesskey_pagezoomsize_decrease: 'Y',
+																			accesskey_pagezoomsize_reset: 'Z',
+																			accesskey_bigcursor: 'W',
+																			accesskey_reading_guides: 'V',
+																			accesskey_readability: 'Q',
+																			accesskey_hideimages: 'F',
+																			accesskey_skiptocontents: 'C',
+																			accesskey_minimized: 'L',
+																			volume_accesskeys: 1,
+																			accesskey_increase_volume: '+',
+																			accesskey_decrease_volume: '-',
+																			accesskey_change_text_color: 'I',
+																			accesskey_change_background_color: 'B',
+																			readerEngine: 'proxy_responsive',
+																			useMobileReaderEngine: 0,
+																			mobileReaderEngine: 'proxy_responsive',
+																			proxyResponsiveApikey: 'kWyXm5dC',
+																			proxyResponsiveLanguageGender: 'auto',
+																			hideOnMobile: 0,
+																			useMinimizedToolbar: 1,
+																			statusMinimizedToolbar: 'closed',
+																			minimizedToolbarOnlyMobile: 0,
+																			showSkipToContents: 0,
+																			skipToContentsSelector: '',
+																			removeLinksTarget: 0,
+																			resetButtonBehavior: 'fontsize'
+																		};</script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.minsalud.gob.bo/#/schema/Organization/base","name":"Ministerio de Salud y Deportes de Bolivia","url":"https://www.minsalud.gob.bo/"},{"@type":"WebSite","@id":"https://www.minsalud.gob.bo/#/schema/WebSite/base","url":"https://www.minsalud.gob.bo/","name":"Ministerio de Salud y Deportes de Bolivia","publisher":{"@id":"https://www.minsalud.gob.bo/#/schema/Organization/base"},"potentialAction":{"@type":"SearchAction","target":"https://www.minsalud.gob.bo/component/finder/search?q={search_term_string}&amp;Itemid=646","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.minsalud.gob.bo/#/schema/WebPage/base","url":"https://www.minsalud.gob.bo/8198-ministerio-de-salud-declara-alerta-epidemiologica-nacional-por-caso-positivo-de-sarampion-en-oruro","name":"Ministerio de Salud y Deportes de Bolivia - MINISTERIO DE SALUD DECLARA ALERTA EPIDEMIOLÓGICA NACIONAL POR CASO POSITIVO DE SARAMPIÓN EN ORURO","description":"Sitio WEB Oficial del Ministerio de Salud y Deportes","isPartOf":{"@id":"https://www.minsalud.gob.bo/#/schema/WebSite/base"},"about":{"@id":"https://www.minsalud.gob.bo/#/schema/Organization/base"},"inLanguage":"es-ES"},{"@type":"Article","@id":"https://www.minsalud.gob.bo/#/schema/com_content/article/8198","name":"MINISTERIO DE SALUD DECLARA ALERTA EPIDEMIOLÓGICA NACIONAL POR CASO POSITIVO DE SARAMPIÓN EN ORURO","headline":"MINISTERIO DE SALUD DECLARA ALERTA EPIDEMIOLÓGICA NACIONAL POR CASO POSITIVO DE SARAMPIÓN EN ORURO","inLanguage":"es-ES","thumbnailUrl":"images/noticias24/Segundo%20caso%20de%20sarampin%20360.jpg","image":"images/noticias24/Segundo%20caso%20de%20sarampin%20720.jpg","isPartOf":{"@id":"https://www.minsalud.gob.bo/#/schema/WebPage/base"}}]}</script>
+
+</head>
+
+<body class="site com_content wrapper-static view-article layout-blog no-task itemid-646 has-sidebar-right">
+    <header class="header container-header full-width">
+
+        
+        
+                    <div class="grid-child">
+                <div class="navbar-brand">
+                    <a class="brand-logo" href="/">
+                        <img loading="eager" decoding="async" src="https://www.minsalud.gob.bo/images/web/Mesa-de-trabajo-1ccd.png" alt="Ministerio de Salud y Deportes de Bolivia" width="1250" height="220">                    </a>
+                                    </div>
+            </div>
+        
+                    <div class="grid-child container-nav">
+                                    
+<nav class="navbar navbar-expand-lg" aria-label="Menu Superior">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbar20" aria-controls="navbar20" aria-expanded="false" aria-label="Alternar navegación">
+        <span class="icon-menu" aria-hidden="true"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbar20">
+        <ul class="mod-menu mod-menu_dropdown-metismenu metismenu mod-list ">
+<li class="metismenu-item item-646 level-1 default current active"><a href="/" title="Ministerio de Salud y Deportes - Bolivia" aria-current="location">Inicio</a></li><li class="metismenu-item item-465 level-1 deeper parent"><a href="/institucional">Institucional</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Institucional"></button><ul class="mm-collapse"><li class="metismenu-item item-514 level-2"><a href="/institucional/presentacion">Presentación</a></li><li class="metismenu-item item-472 level-2"><a href="/institucional/mision-y-vision">Misión y Visión</a></li><li class="metismenu-item item-473 level-2"><a href="/institucional/atribuciones">Atribuciones</a></li><li class="metismenu-item item-474 level-2"><a href="/institucional/organigrama">Estructura Organizativa</a></li><li class="metismenu-item item-475 level-2"><a href="/institucional/normativa">Leyes, Decretos y Otros</a></li><li class="metismenu-item item-616 level-2"><a href="/institucional/normas">Normas y Manuales</a></li><li class="metismenu-item item-591 level-2"><a href="https://www.minsalud.gob.bo/images/Documentacion/Manual_organizacion_funciones_2023.pdf" target="_blank" rel="noopener noreferrer">Manual de Organización y Funciones</a></li><li class="metismenu-item item-609 level-2"><a href="https://www.sicoes.gob.bo/portal/index.php" target="_blank" rel="noopener noreferrer">Convocatoria de Bienes y Servicio</a></li><li class="metismenu-item item-590 level-2"><a href="/institucional/plan-operativo-anual" target="_blank">Plan Operativo Anual</a></li><li class="metismenu-item item-720 level-2 deeper parent"><a href="/institucional/resoluciones">Resoluciones</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Resoluciones"></button><ul class="mm-collapse"><li class="metismenu-item item-637 level-3"><a href="/institucional/resoluciones/resoluciones-ministeriales">Resoluciones Ministeriales</a></li><li class="metismenu-item item-721 level-3"><a href="/institucional/resoluciones/resoluciones-adminsitrativas">Resoluciones Administrativas</a></li></ul></li><li class="metismenu-item item-1280 level-2"><a href="/institucional/nomina-de-provedores">Nomina de Provedores</a></li><li class="metismenu-item item-589 level-2"><a href="/institucional/escala-salarial">Escala Salarial Maestra del MSyD</a></li></ul></li><li class="metismenu-item item-466 level-1 deeper parent"><a href="/transparencia">Transparencia</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Transparencia"></button><ul class="mm-collapse"><li class="metismenu-item item-615 level-2 deeper parent"><a href="/transparencia/unidad-de-transparencia">Unidad de Transparencia</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Unidad de Transparencia"></button><ul class="mm-collapse"><li class="metismenu-item item-522 level-3"><a href="/transparencia/unidad-de-transparencia/funciones">Funciones</a></li><li class="metismenu-item item-567 level-3"><a href="/transparencia/unidad-de-transparencia/rendicion-de-cuentas">Rendición de Cuentas</a></li></ul></li><li class="metismenu-item item-580 level-2"><a href="/transparencia/auditoria-interna">Auditoria Ministerio de Salud</a></li><li class="metismenu-item item-612 level-2"><a href="/transparencia/fuentes-de-financiamiento-2015">Presupuesto y Financiamiento</a></li></ul></li><li class="metismenu-item item-467 level-1 deeper parent"><a href="/centro-de-prensa">Prensa</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Prensa"></button><ul class="mm-collapse"><li class="metismenu-item item-519 level-2"><a href="/centro-de-prensa/notas-de-prensa">Notas de prensa</a></li><li class="metismenu-item item-521 level-2"><a href="http://www.youtube.com/user/MinSaludBolivia/videos" target="_blank" rel="noopener noreferrer">Videos</a></li></ul></li><li class="metismenu-item item-468 level-1 deeper parent"><a href="https://snis.minsalud.gob.bo" target="_blank" rel="noopener noreferrer">SNIS</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="SNIS"></button><ul class="mm-collapse"><li class="metismenu-item item-579 level-2"><a href="http://snis.minsalud.gob.bo" onclick="window.open(this.href, 'targetWindow', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,'); return false;">Herramientas Informaticas</a></li></ul></li><li class="metismenu-item item-469 level-1 deeper parent"><a href="/viceministerios">Viceministerio</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Viceministerio"></button><ul class="mm-collapse"><li class="metismenu-item item-526 level-2"><a href="/viceministerios/vice-promocion-epidemiologia">Promocion, Vigilancia Epidemiológica y Medicina Tradicional</a></li><li class="metismenu-item item-1117 level-2"><a href="/viceministerios/gestion-del-sistema-sanitario">Gestión del Sistema Nacional de Salud</a></li><li class="metismenu-item item-1241 level-2"><a href="/viceministerios/deportes">Deportes</a></li></ul></li><li class="metismenu-item item-470 level-1 deeper parent"><a href="/programas-de-salud">Programas</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Programas"></button><ul class="mm-collapse"><li class="metismenu-item item-537 level-2"><a href="http://www.bja.gob.bo/" target="_blank" rel="noopener noreferrer">Bono Juana Azurduy</a></li><li class="metismenu-item item-698 level-2"><a href="/programas-de-salud/cnidaiic">C.N.I.D.A.I.I.C.</a></li><li class="metismenu-item item-570 level-2"><a href="/programas-de-salud/coordinacion-nacional-de-laboratorios">Coordinación Nacional de Laboratorios</a></li><li class="metismenu-item item-547 level-2"><a href="http://saludoral.minsalud.gob.bo" target="_blank" rel="noopener noreferrer">Programa Nacional de Salud Oral</a></li><li class="metismenu-item item-884 level-2"><a href="https://ts.minsalud.gob.bo" target="_blank" rel="noopener noreferrer">Programa Nacional de Telesalud</a></li><li class="metismenu-item item-566 level-2"><a href="http://seguros.minsalud.gob.bo/" target="_blank" rel="noopener noreferrer">Dirección General de Gestión Nacional del SUS</a></li><li class="metismenu-item item-594 level-2"><a href="http://siccaf.minsalud.gob.bo/" target="_blank" rel="noopener noreferrer">SICCAF - Control de Calidad de Alimentos Fortificados</a></li><li class="metismenu-item item-883 level-2"><a href="https://siccaf.minsalud.gob.bo/snis/" target="_blank" rel="noopener noreferrer">SICCAF - Reportes</a></li><li class="metismenu-item item-546 level-2"><a href="http://siprunpcd.minsalud.gob.bo" target="_blank" rel="noopener noreferrer">SIPRUNPCD</a></li><li class="metismenu-item item-787 level-2"><a href="https://sirepro.minsalud.gob.bo/" target="_blank" rel="noopener noreferrer">Sistema de Registro Profesional (matriculación)</a></li><li class="metismenu-item item-804 level-2"><a href="http://aigem.minsalud.gob.bo/aigem/seguridad" target="_blank" rel="noopener noreferrer">Registro para Profesionales y Trabajadores en Salud </a></li><li class="metismenu-item item-828 level-2"><a href="/programas-de-salud/sistema-unico-de-salud">Sistema Único de Salud </a></li><li class="metismenu-item item-846 level-2"><a href="https://ens.minsalud.gob.bo" target="_blank" rel="noopener noreferrer">Escuela Nacional de Salud</a></li><li class="metismenu-item item-1257 level-2"><a href="https://pai.minsalud.gob.bo" target="_blank" rel="noopener noreferrer">Programa Nacional Ampliado de inmunizaciones </a></li><li class="metismenu-item item-1304 level-2"><a href="https://programasafci.minsalud.gob.bo/" target="_blank" rel="noopener noreferrer">Programa de Salud Familiar Comunitaria Intercultural</a></li><li class="metismenu-item item-1381 level-2"><a href="http://sismet.minsalud.gob.bo/" target="_blank" rel="noopener noreferrer">Sistema de Información Medicina Tradicional (SISMET)</a></li><li class="metismenu-item item-1512 level-2"><a href="/programas-de-salud/unidad-de-recursos-humanos">Unidad de Recursos Humanos </a></li><li class="metismenu-item item-1548 level-2"><a href="/programas-de-salud/programa-nacional-de-sangre">Programa Nacional de Sangre</a></li><li class="metismenu-item item-1660 level-2"><a href="/programas-de-salud/categoria-medica-y-escalafon-al-merito">Categoría Medica y Escalafón al Merito</a></li><li class="metismenu-item item-2326 level-2"><a href="/programas-de-salud/ugespro">UGESPRO</a></li></ul></li><li class="metismenu-item item-471 level-1 deeper parent"><a href="/contactos">Servicios</a><button class="mm-collapsed mm-toggler mm-toggler-link" aria-haspopup="true" aria-expanded="false" aria-label="Servicios"></button><ul class="mm-collapse"><li class="metismenu-item item-549 level-2"><a href="/contactos/aqui-nos-encontramos">Aqui nos Encontramos</a></li><li class="metismenu-item item-619 level-2"><a href="/contactos/informacion-carmelo">Complemento Nutricional "Carmelo"</a></li><li class="metismenu-item item-534 level-2"><a href="/contactos/guia-telefonica">Guia Telefonica</a></li><li class="metismenu-item item-709 level-2"><a href="https://www.minsalud.gob.bo/proyecto2822">Proyecto BID 2822/BL-BO </a></li><li class="metismenu-item item-583 level-2"><a href="/contactos/registro-profesional">Requisitos Registro Profesional</a></li><li class="metismenu-item item-764 level-2"><a href="https://mail.minsalud.gob.bo/" target="_blank" rel="noopener noreferrer">Correo Electronico Institucional</a></li><li class="metismenu-item item-936 level-2"><a href="http://anbsw01.aduana.gob.bo:7601/autoriza/publicounimed.jsp" target="_blank" rel="noopener noreferrer">Ventanilla Única Virtual de Despacho Aduanero </a></li></ul></li></ul>
+    </div>
+</nav>
+
+                                            </div>
+            </header>
+
+    <div class="site-grid">
+                    <div class="container-banner full-width">
+                
+
+<div style="border: 0px !important;">
+    <div id="djslider-loader270" class="djslider-loader djslider-loader-default" data-animation="{&quot;auto&quot;:&quot;1&quot;,&quot;looponce&quot;:&quot;0&quot;,&quot;transition&quot;:&quot;easeInOutExpo&quot;,&quot;css3transition&quot;:&quot;cubic-bezier(1.000, 0.000, 0.000, 1.000)&quot;,&quot;duration&quot;:&quot;5000&quot;,&quot;delay&quot;:8000}" data-djslider="{&quot;id&quot;:270,&quot;slider_type&quot;:&quot;2&quot;,&quot;slide_size&quot;:&quot;1200&quot;,&quot;visible_slides&quot;:1,&quot;direction&quot;:&quot;left&quot;,&quot;show_buttons&quot;:&quot;1&quot;,&quot;show_arrows&quot;:&quot;1&quot;,&quot;preload&quot;:&quot;800&quot;,&quot;css3&quot;:&quot;1&quot;}" tabindex="0">
+        <div id="djslider270" class="djslider djslider-default" style="height: 600px; width: 1200px; max-width: 1200px !important;">
+            <div id="slider-container270" class="slider-container">
+                <ul id="slider270" class="djslider-in">
+                                            <li style="margin: 0 0px 0px 0 !important; height: 600px; width: 1200px;">
+                                                                                            <img class="dj-image" src="/images/slide/arte-pagina-web-deporte.jpg" alt="arte-pagina-web-deporte.jpg" style="width: 100%; height: auto;">
+                                                                                        
+                        </li>
+                                            <li style="margin: 0 0px 0px 0 !important; height: 600px; width: 1200px;">
+                                                                                            <img class="dj-image" src="/images/slide/WEB1-01.jpg" alt="WEB1-01.jpg" style="width: 100%; height: auto;">
+                                                                                        
+                        </li>
+                                            <li style="margin: 0 0px 0px 0 !important; height: 600px; width: 1200px;">
+                                                                                            <img class="dj-image" src="/images/slide/WEB2-01.jpg" alt="WEB2-01.jpg" style="width: 100%; height: auto;">
+                                                                                        
+                        </li>
+                                            <li style="margin: 0 0px 0px 0 !important; height: 600px; width: 1200px;">
+                                                                                            <img class="dj-image" src="/images/slide/WEB3-01.jpg" alt="WEB3-01.jpg" style="width: 100%; height: auto;">
+                                                                                        
+                        </li>
+                                            <li style="margin: 0 0px 0px 0 !important; height: 600px; width: 1200px;">
+                                                                                            <img class="dj-image" src="/images/slide/WEB4-01.jpg" alt="WEB4-01.jpg" style="width: 100%; height: auto;">
+                                                                                        
+                        </li>
+                                    </ul>
+            </div>
+                            <div id="navigation270" class="navigation-container" style="top: 6.6666666666667%; margin: 0 0.83333333333333%;">
+                                            <img id="prev270" class="prev-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/prev.png" alt="Previous" tabindex="0">
+                        <img id="next270" class="next-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/next.png" alt="Next" tabindex="0">
+                                                                <img id="play270" class="play-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/play.png" alt="Play" tabindex="0">
+                        <img id="pause270" class="pause-button showOnHover" src="/modules/mod_djimageslider/themes/default/images/pause.png" alt="Pause" tabindex="0">
+                                    </div>
+                                </div>
+    </div>
+</div>
+<div class="djslider-end" style="clear: both" tabindex="0"></div>
+            </div>
+        
+        
+        
+        
+        <div class="grid-child container-component">
+            
+            
+            <div id="system-message-container" aria-live="polite"></div>
+
+            <main>
+                <div class="com-content-article item-page" itemscope="" itemtype="https://schema.org/Article">
+    <meta itemprop="inLanguage" content="es-ES">
+    
+    
+        <div class="page-header">
+        <h1 itemprop="headline">
+            MINISTERIO DE SALUD DECLARA ALERTA EPIDEMIOLÓGICA NACIONAL POR CASO POSITIVO DE SARAMPIÓN EN ORURO        </h1>
+                            </div>
+        
+        
+    
+    
+        
+                            <figure class="center item-image">
+    <img src="/images/noticias24/Segundo%20caso%20de%20sarampin%20720.jpg" width="720" height="408" loading="lazy">    </figure>
+                    <div itemprop="articleBody" class="com-content-article__body">
+        <p>&nbsp; &nbsp; &nbsp;<span style="color: #107a39;">La Paz, 03 JULIO de 2024 (UC/MSyD).-</span> La ministra de Salud y Deportes, Maria Renée Castro, informó este miércoles que dicha cartera de Estado declaró alerta epidemiológica en todo el territorio nacional debido a la confirmación de un caso positivo de sarampión en el departamento de Oruro.</p>
+<p>“Tenemos un acaso positivo de sarampión en Oruro, del cual acaban de salir los resultados de laboratorio y esto nos lleva a movilizarnos de manera inmediata”, dijo la ministra.</p>
+ 
+<p>Según el informe oficial, el caso de Oruro es el segundo reportado en el país en lo que va del año, ya que el pasado 28 de febrero se reportó el primer caso en el departamento de Tarija, por lo que las autoridades recomiendan intensificar la vacunación oportuna contra el sarampión y rubeola. La vacuna es gratuita, segura, accesible y proporciona una inmunidad efectiva.</p>
+<p>El Hospital San Juan de Dios hizo la notificación sobre el caso sospechoso de un niño de dos años y tres meses de edad que presentaba neumonía y un cuadro bronquial obstructivo, siendo internado en terapia intensiva; el paciente no tenía una sola dosis de la vacuna contra el sarampión.</p>
+<p>La muestra del niño fue enviado al Instituto Nacional de Laboratorios de Salud (Inlasa) y al Centro Nacional de Enfermedades Tropicales (Cenetrop), donde ambos coincidieron en diagnosticar el caso positivo de sarampión.</p>
+<p>La ministra recordó que el 2 de enero se emitió un instructivo de notificación de arbovirosis que cumpla con la definición de caso de sarampión por las notificaciones a nivel de la región sobre casos positivos y el 31 de enero se emitió una alerta nacional por brote de sarampión en la región.</p>
+<p>Inmediatamente el Ministerio de Salud y Deportes instruyó programar una campaña de vacunación en Oruro, la administración de un refuerzo a todo el personal de salud del Complejo Hospitalario San Juan de Dios en coordinación con el Servicio Departamental de Salud de Oruro; además del seguimiento de contactos que tuvo el personal de salud, fortalecer las medidas de bioseguridad y el análisis clínico del caso.</p>
+<p>El sarampión en los niños y niñas se presenta con una fiebre alta, cerca los 38 grados centígrados, puede durar de 4 a 7 días y a los tres días aparece un exantema (erupción) en rostro y la parte superior del cuello que se extiende a manos y pies, el exantema me puede durar entre 5 a 6 días y el desenlace puede ser inclusive fatal como la muerte, ceguera, encefalitis, diarrea grave, infecciones de oído y respiratorias hasta derivar en neumonía.</p>
+<p>“El Ministerio de Salud instruye fortalecer la vigilancia epidemiológica y laboratorial de sarampión sensibilizando la sospecha clínica en los establecimientos de salud”, explicó la autoridad, dando lectura a la alerta emitida desde su despacho.</p>
+<p>La tasa de contagio del sarampión es mucho mayor a la del Covid-19 que lograba infectar de 8 a 9 persona, el sarampión lo hace de 12 a 18 por lo que la inmunización es necesaria más aun teniendo en cuenta que la enfermedad se puede prevenir con la vacunación.</p>
+<p>“Vacunar se tiene que traducir en amar, yo amo a mis hijos los llevo a vacunar porque los quiero proteger, no queremos que terminen sufriendo, ni terminen con ceguera, edema, no queremos que terminen muertos, o con una encefalitis. Hoy las vacunas están para proteger la vida de nuestros niños”, reflexionó la máxima autoridad en salud del país.</p>    </div>
+
+                                        
+        
+<nav class="pagenavigation" aria-label="Navegación de página">
+    <span class="pagination ms-0">
+                <a class="btn btn-sm btn-secondary previous" href="/8199-bolivia-se-prepara-para-recibir-la-copa-libertadores-de-futsal-femenina-2024-en-cochabamba" rel="prev">
+            <span class="visually-hidden">
+                Artículo anterior: BOLIVIA SE PREPARA PARA RECIBIR LA COPA LIBERTADORES DE FUTSAL FEMENINA 2024 EN COCHABAMBA            </span>
+            <span class="icon-chevron-left" aria-hidden="true"></span> <span aria-hidden="true">Anterior</span>            </a>
+                    <a class="btn btn-sm btn-secondary next" href="/8197-gobierno-entrega-en-pando-apoyo-para-personas-con-discapacidad" rel="next">
+            <span class="visually-hidden">
+                Artículo siguiente: GOBIERNO ENTREGA EN PANDO APOYO PARA PERSONAS CON DISCAPACIDAD            </span>
+            <span aria-hidden="true">Siguiente</span> <span class="icon-chevron-right" aria-hidden="true"></span>            </a>
+        </span>
+</nav>
+                                        </div>
+            </main>
+            
+        </div>
+
+                    <div class="grid-child container-sidebar-right">
+                <div class="sidebar-right card ">
+        <div class="card-body">
+                
+<form class="mod-finder js-finder-searchform form-search" action="/component/finder/search?f=2&amp;Itemid=646" method="get" role="search">
+    <label for="mod-finder-searchword84" class="finder">Buscar</label><div class="mod-finder__search input-group"><input type="text" name="q" id="mod-finder-searchword84" class="js-finder-search-query form-control" value="" placeholder="Buscar…"><button class="btn btn-primary" type="submit"><span class="icon-search icon-white" aria-hidden="true"></span> Buscar</button></div>
+            <input type="hidden" name="f" value="2"><input type="hidden" name="Itemid" value="646"></form>
+    </div>
+</div>
+<div class="sidebar-right card ">
+        <div class="card-body">
+                
+<div id="mod-custom181" class="mod-custom custom">
+    <p style="text-align: justify;"><br><a href="/comunicado-oficiales-ministerial-gestion-2020" title="haga clic aquí ..."><img src="/images/web/comunicadoInstruCovid19A.jpg" alt="enlaceComunicado" style="display: block; margin-left: auto; margin-right: auto;"></a></p>
+<p><!-- START: Modals --><a data-modals="" href="https://www.minsalud.gob.bo/images/Descarga/becas/100_suenos.pdf" title="Nomina de los 100 Deportistas" data-modals-height="100%" data-modals-title="Nomina de los 100 Deportistas" data-modals-width="100%"></a></p><p><a data-modals="" href="https://www.minsalud.gob.bo/images/Descarga/becas/100_suenos.pdf" title="Nomina de los 100 Deportistas" data-modals-height="100%" data-modals-title="Nomina de los 100 Deportistas" data-modals-width="100%"><img src="/images/web/Tapa100Deportistas.png" alt="Tapa100Deportistas" width="180" height="56" style="display: block; margin-left: auto; margin-right: auto;"></a></p><!-- END: Modals --><p></p>
+<p><!-- START: Modals --><a data-modals="" href="https://www.minsalud.gob.bo/images/Descarga/RevistaCocha24_opt.pdf" title="Cartilla Cochabamba 2024" data-modals-height="100%" data-modals-title="Cartilla Cochabamba 2024" data-modals-width="100%"></a></p><p style="text-align: center;"><a data-modals="" href="https://www.minsalud.gob.bo/images/Descarga/RevistaCocha24_opt.pdf" title="Cartilla Cochabamba 2024" data-modals-height="100%" data-modals-title="Cartilla Cochabamba 2024" data-modals-width="100%"><img src="/images/web/TapaCochabamba24.JPG" alt="TapaElAlto24" width="180" height="182" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p><!-- END: Modals --><p></p>
+<p style="text-align: center;"><a href="/7960-becas-de-formacion-ministerio-de-salud-y-deportes-gestion-2024" target="_blank" title="haga clic aquí ..."><img src="/images/web/BECAS.png" alt="BECAS" width="180" height="43"></a></p>
+<p style="text-align: center;"><a href="/inicio-viruela-del-mono" title="haga clic aquí ..."><img src="/images/web/VirMono/BotonVirMono4.png" alt="InVirMono" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p>
+<p style="text-align: center;"><a href="https://profesionalesensalud.minsalud.gob.bo/" target="_blank" rel="noopener" title="haga clic aquí ..."><img src="/images/web/SUS/registroProfesionalB.png" alt="registroProfesionalB" style="border: 1px solid #000000;"></a></p>
+<p style="text-align: center;"><a href="https://www.unidoscontraelcovid.gob.bo/index.php/consulta/" target="_blank" rel="noopener" title="haga clic aquí ..."><img src="/images/web/ObtenNuevoCarnetB.jpg" alt="imprimaCertificadoCovid" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p>
+<p style="text-align: center;"><a href="/images/Descarga/covid19/CONSENTIMIENTO_INFORMADO_GENERAL_VACUNACION_COVID-19.pdf" target="_blank" title="haga clic aquí ..."><img src="/images/web/ConsentimientoCovid22.jpg" alt="imprimaCertificadoCovid" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p></div>
+    </div>
+</div>
+<div class="sidebar-right card ">
+        <div class="card-body">
+                
+<div id="mod-custom191" class="mod-custom custom">
+    <p style="text-align: center;"><a href="https://www.facebook.com/SaludDeportesBo/" target="_blank" rel="noopener" title="haga clic aquí ..."><img src="/images/web/ICONO19/facebook.png" alt=""></a>&nbsp;<a href="https://twitter.com/SaludDeportesBo" target="_blank" rel="noopener" title="haga clic aqui ..."><img src="/images/web/ICONO19/twitter.png" alt=""></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCV2d2cUn4DPcsam_MAm5n6w" target="_blank" rel="noopener" title="haga clic aquí ..."><img src="/images/web/ICONO19/youtube1.png" alt=""></a></p></div>
+    </div>
+</div>
+<div class="sidebar-right card ">
+        <div class="card-body">
+                
+<div id="mod-custom182" class="mod-custom custom">
+    <p style="text-align: center;"><a href="/programas-de-salud/sistema-unico-de-salud" target="_blank" title="haga clic aquí ..."><img src="/images/web/SUSinfroma.jpg" alt="sus inf" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p>
+<p style="text-align: center;"><a href="https://sus.minsalud.gob.bo" target="_blank" rel="noopener" title="haga clic aquí ..."><img src="/images/web/SUS/SUSsoftware.jpg" alt="enlacesSUSoftware" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p></div>
+    </div>
+</div>
+<div class="sidebar-right card ">
+        <div class="card-body">
+                
+<div id="mod-custom188" class="mod-custom custom">
+    <p><a href="/programas-de-salud/cnidaiic" title="haga clic aquí ..."><img src="/images/web/ResdenciaMed.jpg" alt="enlacesCNIDAIIC" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p>
+<p><a href="/images/Descarga/Certificado-MedicoMS.pdf" target="_blank" title="haga clic aqui ..."><img src="/images/web/CertMedGrat.jpg" alt="enlaces19partes" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p>
+<p style="text-align: center;"><a href="/contactos/registro-profesional" target="_self" title="haga clic aquí ..."><img src="/images/web/ReqREgProf.jpg" alt="inscribete A" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p>
+<p style="text-align: center;"><a href="https://apostilla.rree.gob.bo" target="_blank" rel="noopener" title="haga clic aquí ..."><img src="/images/web/logo_apostilla_2C.png" alt="logo apostilla 2B" width="180" height="81" style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;"></a></p>
+<p style="text-align: center;">&nbsp;</p></div>
+    </div>
+</div>
+<div class="sidebar-right card ">
+            <h3 class="card-header ">Cajas de Salud de Corto Plazo</h3>        <div class="card-body">
+                
+<div id="mod-custom211" class="mod-custom custom">
+    <p>-&nbsp;<a href="https://www.cps.org.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">Caja Petrolera de Salud</a></p>
+<p>-&nbsp;<a href="https://www.cns.gob.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">Caja Nacional de Salud</a></p>
+<p>-&nbsp;<a href="https://portal.csbp.com.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">Caja de Salud de la Banca Privada</a></p>
+<p>-&nbsp;<a href="http://www.cajasaludcaminos.gob.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">Caja de Salud de Caminos y RA</a></p>
+<p>-&nbsp;<a href="http://www.cajacordes.org.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">Caja de Salud CORDES</a></p>
+<p>-&nbsp;<a href="https://www.cbes.org.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">Caja Bancaria Estatal de Salud</a></p>
+<p>-&nbsp;<a href="https://www.cossmil.mil.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">COSSMIL</a></p>
+<p>-&nbsp;<a href="http://sinec.org.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">Seguro Integral de Salud SINEC</a></p>
+<p>-<a href="https://aben.gob.bo/" target="_blank" rel="noopener" title="haga clic aquí ...">&nbsp;Centro de Medicina Nuclear</a></p>
+<p>-<a href="http://www.ssulapaz.org/" target="_blank" rel="noopener" title="haga clic aquí ...">&nbsp;Seguro Social Universitario</a></p></div>
+    </div>
+</div>
+<div class="sidebar-right card ">
+        <div class="card-body">
+                
+<div id="mod-custom278" class="mod-custom custom">
+    <p style="text-align: center;"><a href="/8095-bloquea-la-estafa-en-linea" title="haga clic aquí ..."><img src="/images/ATT/LogoBloqueaOK-08.png" alt="TapaElAlto24" width="180" height="301"></a></p></div>
+    </div>
+</div>
+
+            </div>
+        
+                    <div class="grid-child container-bottom-a">
+                <div class="bottom-a card ">
+            <h3 class="card-header Normas y Manuales">Normas y Manuales</h3>        <div class="card-body">
+                
+<div id="mod-custom171" class="mod-custom custom">
+    <h3>&nbsp;</h3>
+<style>			
+		.accordian {
+			width: 100%; height: auto;
+			overflow: hidden;
+
+			margin: 0; 
+			padding: 0;
+			
+			/*Time for some styling*/
+			margin: 2px auto;
+			box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+			-webkit-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+			-moz-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+		}
+
+		/*A small hack to prevent flickering on some browsers*/
+		.accordian ul {
+			width: 2000px;
+			padding-left:10px;
+			/*This will give ample space to the last item to move
+			instead of falling down/flickering during hovers.*/
+		}
+
+		.accordian li {
+			position: relative;
+			display: block;
+			width: 3%;
+			float: left;
+			
+			border-left: 1px solid #888;
+			
+			box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+			-webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+			-moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+			
+			/*Transitions to give animation effect*/
+			transition: all 0.5s;
+			-webkit-transition: all 0.5s;
+			-moz-transition: all 0.5s;
+			/*If you hover on the images now you should be able to 
+			see the basic accordian*/
+		}
+
+		/*Reduce with of un-hovered elements*/
+		.accordian ul:hover li {width: 3%;}
+		/*Lets apply hover effects now*/
+		/*The LI hover style should override the UL hover style*/
+		.accordian ul li:hover {width: 110px;}
+
+
+		.accordian li img {
+			display: block;
+                        height: 150px;
+                        width: 100px;
+                        max-width: 100px;
+		}
+
+		/*Image title styles*/
+		.image_title {
+			background: rgba(0, 0, 0, 0.5);
+			color: #fff;
+			position: absolute;
+			left: 0; bottom: 0;	
+			width: 100px;	
+
+		}
+		.image_title a {
+			display: block;
+			color: #fff;
+			text-decoration: none;
+			padding: 10px;
+			font-size: 10px;
+		}
+	</style>
+<div class="accordian">
+<ul id="ulPeriodicos"></ul>
+</div>
+<script type="text/javascript">
+var per = [
+			{'linkTo':'https://www.minsalud.gob.bo/7318-normas-y-manuales-programa-nacional-its-vih-sida',
+			 'nom':'ITS-VIH-SIDA',
+			 'img':'/images/Documentacion/tapas/s_dgss_epidemiologia_sida_5_GUIA_TARV-ADULTOS-1.png'
+			},
+			
+			{'linkTo':'https://www.minsalud.gob.bo/1575-area-chagas',
+			 'nom':'Chagas',
+			 'img':'/images/Documentacion/tapas/s_dgss_epidemiologia_pnch_Manual-Chagas-Congnito-219-1.png'
+			},
+			{'linkTo':'https://www.minsalud.gob.bo/1676-unidad-de-alimentacion-y-nutricion',
+			 'nom':'Nutrición',
+                         'img':'/images/Documentacion/tapas/e_dgss_epidemiologia_etas_GUIA_nueva-1.png'
+                        },
+			{'linkTo':'https://www.minsalud.gob.bo/4472-programa-nacional-de-tuberculosis',
+			 'nom':'Tuberculosis',			 
+                        'img':'/images/Libros/Tuberculosis/GuiaPrevencion1raEdA.jpg'
+                        },
+                        {'linkTo':'https://www.minsalud.gob.bo/7328-norma-nacional-de-vigilancia-y-control-de-zoonosis-y-rabia',
+			 'nom':'Zoonosis',			 
+                        'img':'/images/Libros/DGSS/tapas/s_dgss_epidemiologia_zoonosis_NORMA_PROFILAXIS_IMPLEMENTADO-1.png'
+                        },
+                        {'linkTo':'https://seguros.minsalud.gob.bo/Pages/frmDocumentos.html',
+			 'nom':'Seguros Salud',			 
+                        'img':'/images/Libros/SegurosSalud/SeguroSaludT.jpg'
+                        },
+                        {'linkTo':'https://www.minsalud.gob.bo/1579-area-leishmaniasis',
+			 'nom':'Leishmaniasis',			 
+                        'img':'/images/web/NormaLeishimaniasis-2015A.jpg'
+                        },
+                        {'linkTo':'/guias-para-el-manejo-del-covid-19-ministerio-de-salud',
+			 'nom':'COVID-19',			 
+                        'img':'/images/Documentacion/tapas/TapaCovid19120821.jpg'
+                        },
+                        {'linkTo':'/6400-normas-y-manuales-de-direccion-de-medicina-tradicional-msyd',
+			 'nom':'Med.Tradicional',
+			 'img':'/images/Documentacion/tapas/tapMedTradiAbCovid.jpg'
+                         //'img':'//notibol.com/notis/portadas/${yyyy}/${mm}/${dd}/el-potosi_mini.jpg'
+			},
+			{'linkTo':'https://www.minsalud.gob.bo/7305-normas-y-manuales-de-programa-nacional-de-enfermedades-no-transmisibles',
+			 'nom':'NoTransmisibles',
+			 'img':'/images/Documentacion/tapas/tapaEnfNoTransBB.jpg'
+			},
+			{'linkTo':'https://www.minsalud.gob.bo/7327-norma-nacional-de-vigilancia-y-control-del-dengue-zika-y-chikungunya',
+			 'nom':'P. Dengue',
+			 'img':'/images/Documentacion/tapas/Tapa-ANV-EGIbb.jpg'
+			},
+                        {'linkTo':'https://www.minsalud.gob.bo/7855-normas-de-la-unidad-de-gestion-de-riesgos-emergencias-y-desastres',
+			 'nom':'U. Desastres',
+			 'img':'/images/web/tapas/Publ23DEsastres.PNG'
+			},
+			{'linkTo':'https://www.minsalud.gob.bo/7900-normas-programa-nacional-de-lucha-contra-el-cancer',
+			 'nom':'P. Cancer',
+			 'img':'/images/web/tapas/TapaCancerP.png'
+			},
+			{'linkTo':'https://www.minsalud.gob.bo/7986-norma-nacional-de-enfermedades-transmitidas-por-vectores',
+			 'nom':'P. Vectores',
+			 'img':'/images/web/tapas/TapaPublicidad535bb.png'
+			},
+			{'linkTo':'https://www.minsalud.gob.bo/8082-normas-nacionales-del-programa-nacional-de-enfermedades-infectocontagiosas',
+			 'nom':'Infectocontagio',			 
+                        'img':'/images/Documentacion/tapas/Tapa_protocolo_Bioseguridad24c.png'
+                        },
+			{'linkTo':'https://minsalud.gob.bo/8269-normas-nacionales-de-la-direccion-de-epidemologia',
+			 'nom':'Epidemiologia',			 
+                        'img':'/images/Documentacion/tapas/TapaAlertaMono2.jpg'
+                        },
+			{'linkTo':'https://www.minsalud.gob.bo/3544-norma-del-programa-de-salud-oral',
+			 'nom':'Salud Oral',
+			 'img':'/images/Documentacion/tapas/Odontologica2024B.jpg'
+			},
+			{'linkTo':'https://minsalud.gob.bo/2472-normas-1-de-la-ursc',
+			 'nom':'Redes y Calidad',
+			 'img':'/images/web/tapas/Tapa_politica_nacionalBB.png'
+			},
+			{'linkTo':'3147-unidad-discapacidad-reha',
+			 'nom':'Discapacidad',			 
+                        'img':'/images/Documentacion/tapas/TAPA-GUIA-BuenTrato.jpg'
+                        }
+
+                        
+		];		
+		var ulPeriodicos = document.getElementById('ulPeriodicos');
+		ulPeriodicos.innerHTML = "";
+		ulPeriodicos.innerHTML = '<h2>Portadas</h2>';
+		var strPer = "";
+		var today = new Date;
+		var dd = today.getDate();
+		var mm = today.getMonth()+1;
+		var yyyy = today.getFullYear();
+		var d = dd;
+		if(dd<10){
+			dd='0'+dd;
+		} 
+		if(mm<10){
+			mm='0'+mm;
+		} 
+		for (var i = 0 ; i < per.length; i++ ) {
+			var imgURL = per[i].img;
+			imgURL = imgURL.replace('${yyyy}',yyyy).replace('${mm}',mm).replace('${dd}',dd);
+			strPer += '<li><div class="image_title"><div class="pie_letra"><a href="'+ per[i].linkTo +'" target="_blank">'+ per[i].nom +'</a></div></div><img height="300px" src="'+ imgURL +'"></li>	';
+		}
+		ulPeriodicos.innerHTML = strPer;	
+	</script>
+<h6 class="col-md-12 visible-lg"><em><a href="/6420-normas-y-manuales-ministerio-de-salud-y-deportes" target="_blank" title="haga clic aquí ...">Ver todas las Normas ...</a></em></h6>
+<hr></div>
+    </div>
+</div>
+
+            </div>
+        
+                    <div class="grid-child container-bottom-b">
+                <div class="bottom-b card ">
+            <h3 class="card-header ">Enlaces de Interés</h3>        <div class="card-body">
+                
+<div id="mod-custom210" class="mod-custom custom">
+    <h3><span style="color: #ffffff;">Enlaces Dependientes del Ministerio de Salud </span></h3>
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td><a href="http://www.ceass.gob.bo/" target="_blank" rel="noopener" title="Central de Abastecimiento y Suministros de Salud"><img src="/images/web/CEass.png" alt="CEassA" width="100" height="120" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp;</td>
+<td><a href="https://www.agemed.gob.bo/" target="_blank" rel="noopener" title="Agencia Estatal de Medicamentos y Tecnologías en Salud"><img src="/images/web/agemed.png" alt="agemedA" width="100" height="120" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp;&nbsp;</td>
+<td><a href="http://cenetrop.org.bo/" target="_blank" rel="noopener" title="Centro Nacional de Enfermedades Tropicales"><img src="/images/web/cenetrop.png" alt="cenetropA" width="100" height="120" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp;</td>
+<td><a href="https://www.inlasa.gob.bo/" target="_blank" rel="noopener" title=" Instituto Nacional de Laboratorios de Salud"><img src="/images/web/inlasaA.png" alt="inlasa" width="100" height="120" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp;</td>
+<td><a href="https://ens.minsalud.gob.bo/" target="_blank" rel="noopener" title="Escuela Nacional Salud"><img src="/images/web/escuela.png" alt="escuelaA" width="100" height="120" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp; &nbsp;</td>
+<td><a href="https://aisem.gob.bo/" target="_blank" rel="noopener" title=" Agencia de Infraestructura en Salud y Equipamiento Médico"><img src="/images/web/AISEM.png" alt="AISEMaa" width="125" height="70" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp;</td>
+<td>&nbsp; <a href="https://www.asuss.gob.bo/" target="_blank" rel="noopener" title="Autoridad de Supervisión de la Seguridad Social de Corto Plazo"><img src="/images/web/asussLogoA.png" alt="ASSUSa" width="120" height="114" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp;</td>
+<td><a href="http://lonabol.com/" target="_blank" rel="noopener" title="Lotería Nacional de Beneficencia y Salubridad"><img src="/images/web/lonabol.png" alt="lonabolA" width="125" height="70" style="display: block; margin-left: auto; margin-right: auto;"></a>&nbsp;</td>
+<td><a href="https://www.inso.gob.bo/" target="_blank" rel="noopener" title="Instituto Nacional de Salud Ocupacional"><img src="/images/web/insoLogoA.png" alt="insoLogoA" width="120" height="119" style="display: block; margin-left: auto; margin-right: auto;"></a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><img src="/images/web/CINTA_VIOLENCIA_CONTRA_LA_MUJER.png" alt="CINTA VIOLENCIA CONTRA LA MUJER" width="2246" height="394" style="display: block; margin-left: auto; margin-right: auto;"></p></div>
+    </div>
+</div>
+
+            </div>
+            </div>
+
+            <footer class="container-footer footer full-width">
+            <div class="grid-child">
+                
+<div id="mod-custom118" class="mod-custom custom">
+    <h5 style="text-align: center;"><span style="color: #ffffff;">Ministerio de Salud y Deportes - Plaza del Estudiante esq. Cañada Strongest s/n, La Paz - Bolivia - (51)</span><br><span style="color: #ffffff;">&nbsp;Url: <a href="http://www.minsalud.gob.bo" style="color: #ffffff;">http://www.minsalud.gob.bo</a></span><br><span style="color: #ffffff;">Telefono(s)-(591-2) 2497079 - 2495086 - 2490554 - 2495053</span></h5></div>
+
+            </div>
+        </footer>
+    
+            <a href="#top" id="back-top" class="back-to-top-link" aria-label="Volver arriba">
+            <span class="icon-arrow-up icon-fw" aria-hidden="true"></span>
+        </a>
+    
+    
+
+
+
+</body></html>

@@ -1,0 +1,2455 @@
+<html lang="pt-BR"><head>
+          
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+      
+      <title>404 | O TEMPO</title>
+      
+    
+    
+    
+    
+
+    
+
+    
+<link rel="canonical" href="https://www.otempo.com.br/errors/404">
+
+
+
+
+    
+
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+    
+
+    <!-- Open Graph Tag Manager -->
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="404">
+      <meta property="og:description">
+      
+      
+      <meta property="og:image" content="https://www.otempo.com.br/content/dam/otempo/frontend/resources/images/logos/opengraph.jpg">
+      <meta property="og:url" content="https://www.otempo.com.br/errors/404">
+    <!-- End Open Graph Tag Manager -->
+
+    <!-- Open X Tag Manager -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="404">
+    <meta name="twitter:description">
+    <meta property="twitter:url" content="https://www.otempo.com.br/errors/404">
+    <meta property="twitter:domain" content="otempo.com.br">
+    
+    
+    <meta name="twitter:image" content="https://www.otempo.com.br/content/dam/otempo/frontend/resources/images/logos/opengraph.jpg">
+    <meta name="twitter:site" content="@otempo">
+    <!-- End Open X Tag Manager -->
+
+    
+
+    
+      
+
+      
+    
+
+    
+      <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebPage","name":"404","description":null,"url":"https://www.otempo.com.br/errors/404","image":"https://www.otempo.com.br/content/dam/otempo/frontend/resources/images/header/icon/o_tempo.svg"}
+      </script>
+      
+      
+    
+    
+
+    <script>
+      // Declare Variables
+      const envs = {
+        'default': {'name': 'developer', 'domain': 'aem-dev.otempo.com.br', 'staticdomain': 'static-p111452-e1082694.adobeaemcloud.com'},
+        'aem-dev-otempo-com-br': {'name': 'developer','domain': 'aem-dev.otempo.com.br', 'staticdomain': 'static-p111452-e1082694.adobeaemcloud.com'},
+        'aem-stage-otempo-com-br': {'name': 'stage','domain': 'aem-stage.otempo.com.br', 'staticdomain': 'static-p111452-e1142373.adobeaemcloud.com'},
+        'otempo-com-br': {'name': 'production','domain': 'otempo.com.br', 'staticdomain': 'static-p111452-e1142340.adobeaemcloud.com'},
+        'www-otempo-com-br': {'name': 'production','domain': 'otempo.com.br', 'staticdomain': 'static-p111452-e1142340.adobeaemcloud.com'}
+      };
+      const envkey = (window.location.hostname).replaceAll('.','-');
+      let env = envs['default']
+      if(typeof envs[envkey] != 'undefined'){
+        env = envs[envkey];
+      }
+      const themeCss = document.createElement('link'); themeCss.rel = 'preconnect'; themeCss.href = env.staticdomain; document.head.appendChild(themeCss);  
+    </script>
+
+    <link rel="preconnect" href="https://tag.navdmp.com"> 
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://c.amazon-adsystem.com"> 
+    
+    <!-- Google Ad Mananger -->
+    <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <!-- Navegg -->
+    <script>(function(c,d,e){o="Navegg";c[o]||(a=d.createElement("script"),a.src=e,b=document.getElementsByTagName("script")[0],b.parentNode.insertBefore(a,b),c[o]=c[o]||function(f){c[o].q=c[o].q||[];c[o].q.push([this,f])})})(window,document,"https://tag.navdmp.com/universal.min.js");window.naveggReady=window.naveggReady||[];window.nvg67531=new Navegg({acc:67531});</script>
+    <!-- Amazon APS -->
+    <script>
+      //load the apstag.js library
+      !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");    
+    
+      //initialize the apstag.js library on the page to allow bidding
+      apstag.init({
+          pubID: 'ee79b9e9-a905-4adf-925b-211c64726bba', 
+          adServer: 'googletag',
+          bidTimeout: 2e3
+      });    
+    </script>
+
+    <!-- AdsSdk -->
+    
+        
+    <script src="/etc.clientlibs/otempo/clientlibs/clientlib-sdk.lc-a854153492b588193ae647ea8b275333-lc.min.js"></script>
+
+
+    
+  
+    <style>
+      @font-face {
+          font-family: Inter;
+          font-style: normal;
+          font-weight: 400;
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Regular.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Regular.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Regular.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Regular.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Regular.woff2) format("woff2")
+      }
+
+      @font-face {
+          font-family: Inter;
+          font-style: normal;
+          font-weight: 500;
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Medium.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Medium.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Medium.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Medium.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Medium.woff2) format("woff2")
+      }
+
+      @font-face {
+          font-family: Inter;
+          font-style: normal;
+          font-weight: 600;
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-SemiBold.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-SemiBold.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-SemiBold.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-SemiBold.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-SemiBold.woff2) format("woff2")
+      }
+
+      @font-face {
+          font-family: Inter;
+          font-style: normal;
+          font-weight: 700;
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Bold.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Bold.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Bold.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Bold.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/inter/static/Inter-Bold.woff2) format("woff2")
+      }
+
+
+      @font-face {
+          font-family: Lato;
+          font-style: normal;
+          font-weight: 400;
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Regular.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Regular.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Regular.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Regular.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Regular.woff2) format("woff2")
+      }
+
+      @font-face {
+          font-family: Lato;
+          font-style: normal;
+          font-weight: 500;
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Medium.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Medium.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Medium.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Medium.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Medium.woff2) format("woff2")
+      }
+
+      @font-face {
+          font-family: Lato;
+          font-style: normal;
+          font-weight: 600;
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-SemiBold.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-SemiBold.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-SemiBold.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-SemiBold.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-SemiBold.woff2) format("woff2")
+      }
+
+      @font-face {
+          font-family: Lato;
+          font-style: normal;
+          font-weight: 700;
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Bold.eot);
+          src: url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Bold.eot?#iefix) format("embedded-opentype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Bold.woff) format("woff"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Bold.ttf) format("truetype"),
+              url(/content/dam/otempo/frontend/resources/fonts/lato/static/Lato-Bold.woff2) format("woff2")
+      }
+
+      .font-inter {
+          font-family: Inter;
+          font-style: normal
+      }
+
+      .font-lato {
+          font-family: Lato;
+          font-style: normal
+      }      
+    </style>
+
+    <link rel="dns-prefetch" href="https://static.doubleclick.net">  
+    <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net"> 
+    <link rel="dns-prefetch" href="https://stats.g.doubleclick.net"> 
+    <link rel="dns-prefetch" href="https://analytics.google.com"> 
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">  
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com">  
+    <link rel="dns-prefetch" href="https://static.chartbeat.com"> 
+    <link rel="dns-prefetch" href="https://www.clarity.ms"> 
+    <link rel="dns-prefetch" href="https://s.clarity.ms"> 
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">  
+    <link rel="dns-prefetch" href="https://www.gstatic.com">  
+    <link rel="dns-prefetch" href="https://tag.navdmp.com">  
+    <link rel="dns-prefetch" href="https://gadasource.storage.googleapis.com">
+    
+      <link rel="dns-prefetch" href="https://widgets.outbrain.com"> 
+    
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">  
+    <link rel="dns-prefetch" href="https://tpc.googlesyndication.com">  
+    <link rel="dns-prefetch" href="https://fundingchoicesmessages.google.com">        
+    
+    <meta name="template" content="template-portal-interna-comum">
+
+    
+    
+
+
+
+
+
+
+<meta name="gtm-editorial_name" content="Home">
+<meta name="gtm-editorial" content="errors">
+<meta name="gtm-name" content="O TEMPO HOME">
+<meta name="gtm-id" content="redacao">
+<meta name="gtm-company" content="Redação">
+
+<script>
+const eleicaoFlagPage = "false"
+
+const authorName = "O TEMPO HOME";
+const authorCompany = "Redação";
+const authorId = "redacao";
+const editoria = "errors";
+const channel = "otempo,errors,404";
+const title = eleicaoFlagPage === "true" ? "": "404";
+const path = eleicaoFlagPage === "true" ? "": "https://www.otempo.com.br/errors/404";
+
+const dataLayerInitial = {
+  'event': 'page_view',  
+  'page_title': title,
+  'page_location': path,
+  'company': authorCompany,
+  'author': authorName.toUpperCase(),
+  'authorID': authorId,
+  'editory': editoria,
+  'channel': channel,
+  'environment': env.domain
+};
+// Criando o objeto dataLayerAds
+const dataLayerAds = {
+  'empresa': authorCompany,
+  'autor': authorName.toUpperCase(),
+  'autorID': authorId,
+  'editoria': editoria,
+  'canal': channel,
+  'ambiente': env.domain
+}; 
+  
+window.googleDataLayer = window.googleDataLayer || [];
+window.thirdPartAdsItens = window.thirdPartAdsItens || [];
+window.thirdPartAdsAmazon = false;  
+window.googletag = window.googletag || {cmd: []};  
+
+</script>
+
+<!-- Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-1VXJ83ESPC&amp;l=googleDataLayer"></script>
+<script>  
+  function gtag(){
+    googleDataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-1VXJ83ESPC',{ 'send_page_view': false });
+
+  googleDataLayer.push(dataLayerInitial);
+  gtag('event', 'page_view', dataLayerInitial);
+</script>
+<!-- End Google Analytics -->
+
+<!-- Navegg SDK -->
+<script>(function(c,d,e){o="Navegg";c[o]||(a=d.createElement("script"),a.src=e,b=document.getElementsByTagName("script")[0],b.parentNode.insertBefore(a,b),c[o]=c[o]||function(f){c[o].q=c[o].q||[];c[o].q.push([this,f])})})(window,document,"https://tag.navdmp.com/universal.min.js");window.naveggReady=window.naveggReady||[];window.nvg67531=new Navegg({acc:67531});</script>
+
+<script>      
+    console.log('Ads Google SDK Starting....');
+    window.googletag.cmd.push(function() {		     
+      console.log('Ads Google SDK ApiReady OK....');
+      /* Data Layer*/
+      var excluded = ['event'];
+      Object.keys(dataLayerAds).map(function(objectKey, index) {
+        if(!excluded.includes(objectKey)){
+          var value = dataLayerAds[objectKey];
+          if(value){
+            window.googletag.pubads().setTargeting(objectKey,value);
+          }            
+        }
+      });      
+      console.log('Ads Data Layer Load');
+      /* Navegg */
+      var nvgData = window.localStorage.getItem('nvgpersona67531');
+      if(nvgData.length > 0){
+        var person = JSON.parse(nvgData);
+        var attribute;
+        for(attribute in person){
+          var name = "nvg_" + attribute;
+          name = name.substring(0,10);
+          window.googletag.pubads().setTargeting(name, person[attribute]);	
+        }						
+      }		
+      console.log('Ads Navegg Load');
+	});
+</script>
+
+
+<link rel="shortcut icon" href="/content/dam/otempo/frontend/resources/images/icons/favicon.ico" type="image/x-icon">
+
+
+<meta name="color-scheme" content="light only">
+<style>
+    .cmp-container {
+        background-color: #fafafa;
+        color: #202020;
+    }
+</style>
+
+
+
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"WebPage","name":"404","description":null,"url":"https://www.otempo.com.br/errors/404","image":"https://www.otempo.com.br/content/dam/otempo/frontend/resources/images/header/icon/o_tempo.svg"}
+    </script>
+    
+    
+    
+  
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+    
+    
+      <meta name="meta_capa_topo_header" id="meta_capa_topo_header" data-id="capa_topo_header" data-display="displayall" data-path="/14159828/wildcard/capa_topo_header" data-sizes="[[300,50],[300,100],[320,50],[320,100],[728,90],[970,90],[970,250],[980,250],[1190,250]]" data-mapping="{&quot;0&quot;:[[300,50],[300,100],[320,50],[320,100]],&quot;960&quot;:[[300,50],[300,100],[320,50],[320,100]],&quot;1100&quot;:[[728,90],[970,90],[970,250],[1190,250],[980,250]]}" data-lazyload="false" data-refresh="true" data-position="capa_topo_header" data-manual="true">
+        <script>
+          window.newRegisterAds(document.getElementById('meta_capa_topo_header'));
+        </script>
+        
+
+
+<!-- CHARTBEAT -->
+<script>
+    (function () {
+      /** CONFIGURATION START **/
+      var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+      _sf_async_config.uid = 66040;
+      _sf_async_config.domain = 'otempo.com.br';
+      _sf_async_config.useCanonical = true;
+      _sf_async_config.useCanonicalDomain = true;
+      _sf_async_config.sections = "home"; 
+      _sf_async_config.authors = ""; 
+      _sf_async_config.articleBlockSelector = 'section.articles__container,li.carousel__list--item,li.list__item';
+      /** CONFIGURATION END **/
+      function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';
+        n.parentNode.insertBefore(e, n);
+      }
+    loadChartbeat();
+    })();
+</script>
+<script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<!-- End CHARTBEAT -->
+
+    
+    
+    
+
+    
+
+    
+    
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/carousel/v1/carousel/clientlibs/site.lc-59c0d61dcf5eacb237a83816c6996ebd-lc.min.css" type="text/css">
+
+
+    
+    
+    
+
+    
+    <link as="style" href="https://static-p111452-e1142340.adobeaemcloud.com/1b3f830d06aed69572440316c52e3696210e8ecac065f9e6b4af83b9f856b935/theme.css" rel="preload stylesheet" type="text/css">
+    <script src="https://static-p111452-e1142340.adobeaemcloud.com/1b3f830d06aed69572440316c52e3696210e8ecac065f9e6b4af83b9f856b935/theme.js" async="" type="text/javascript"></script>
+    
+
+
+    <script async="" src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.53.0"></script>
+    <script async="" src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
+    <script async="" src="https://cdn.jsdelivr.net/npm/algoliasearch@4.10.5/dist/algoliasearch-lite.umd.js"></script>
+    <script async="" src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-plugin-recent-searches"></script>
+    <script async="" src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-plugin-query-suggestions"></script>    
+    <script src="https://www.gstatic.com/firebasejs/7.8.0/firebase-app.js"></script>
+    <script async="" src="/etc.clientlibs/otempo/clientlibs/clientlib-firebase/resources/firebase-messaging.js"></script>  
+    <!-- Microsoft Clarity -->
+    <script>
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "hc3hij1thq");
+    </script>
+    <!-- End Microsoft Clarity -->
+
+  <!-- WEB Adobe Analytics -->
+  
+    <script>
+        var digitalData = digitalData || {};  
+        digitalData = {
+            page: {
+                pageName: "404",
+                siteSection: ""
+            }
+        };
+    </script>
+
+    
+    
+    <script src="https://assets.adobedtm.com/be1e741df0ea/96057f3ea139/launch-6353dea724a7.min.js" async=""></script>
+  <!-- END WEB Adobe Analytics -->
+
+    <!-- Begin comScore Tag -->
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({
+        c1: "2", c2: "39555495",
+        options: {
+          enableFirstPartyCookie: true,
+          bypassUserConsentRequirementFor1PCookie: true
+        }
+      });
+
+      (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = "https://sb.scorecardresearch.com/cs/39555495/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript>
+      </noscript></head><body class="page basicpage" id="page-497bfb5a43" data-cmp-link-accessibility-enabled="" data-cmp-link-accessibility-text="abre em uma nova guia" data-cmp-data-layer-name="adobeDataLayer"><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=39555495&amp;cv=4.4.0&amp;cj=1" alt="">
+    
+    <!-- End comScore Tag -->
+
+    <!-- IVC TAG não remover -->
+    <script>
+        ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalIvcNamespace=p.GlobalIvcNamespace||[];
+        p.GlobalIvcNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+        };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+        n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//gadasource.storage.googleapis.com/ivc.js","ivc"));
+        window.ivc('newTracker', 'cf', 'ivccf.ivcbrasil.org.br', {
+        idWeb: '33'
+        });
+        window.ivc('setUserId', '33');
+        window.ivc('trackPageView');
+   </script>
+  <!-- IVC TAG não remover -->   
+ 
+    
+        
+        
+        
+            
+
+
+
+
+            
+
+
+
+<input type="hidden" id="page__editorial__name" name="page__editorial" value="Home">
+<input type="hidden" id="page__editorial" name="page__editorial" value="errors">
+
+
+<div class="algolia__super" id="algoliaID" data-appid="PRLB4J3GI7" data-searchonlykey="f4692175fa268f98569e0b2fcb3a1ff6" data-searchindex="otempo_INDEX_prod" data-querysuggestionsindex="otempo_INDEX_prod_query_suggestions" data-popularityindex=" " data-headerredirecturl="/busca">
+</div>   
+
+<div class="root container responsivegrid">
+
+    
+    <div id="container-e9f5f640c2" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-46cdaa70d5" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    <div id="container-5fa379d63d" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="t001-header aem-GridColumn aem-GridColumn--default--12">
+  <header class="header__container font-lato home">
+    <section class="header__head">
+      <section class="header large has-desktop-width">
+        
+        <div class="header__content">
+          <div class="header__menu-lateral">
+            <input class="check__event" type="checkbox" id="header__menu">
+            <label class="header__menu--button" for="header__menu">&nbsp;</label>
+
+            <div class="header__menu-dropdown">
+              <label class="dropdown__bg" for="header__menu">&nbsp;</label>
+              <div class="header__menu--top">
+                <div class="assine__content">
+                  <a href="https://assine.otempo.com.br/" class="assine__button">ASSINE</a>
+                  <a href="#login" class="header__login--button">
+                    <span class="icon-login">&nbsp;</span>
+                  </a>
+                </div>
+
+                <form class="search" role="search">
+                  <div class="algolia__container" id="headersearch"></div>
+                </form>
+         
+                
+                <div class="xfpage page basicpage">
+
+
+    
+    <div id="container-246da5da0c" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="menu-expandido aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--default--0"><div class="sitemap__menu has-desktop-width">
+
+	
+	<div class="highlights sitemap__menu-lateral">
+
+
+<a class="sitemap__menu-lateral-item lastnews" href="https://www.otempo.com.br/ultimas" title="ÚLTIMAS NOTÍCIAS" alt="ÚLTIMAS NOTÍCIAS">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-ultimas-noticias.svg" alt="ÚLTIMAS NOTÍCIAS" loading="lazy" fetchpriority="low" width="26" height="26">
+	ÚLTIMAS NOTÍCIAS
+</a>
+
+<a class="sitemap__menu-lateral-item sports" href="/sports" title="O TEMPO SPORTS" alt="O TEMPO SPORTS">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-otempo-sports.svg" alt="O TEMPO SPORTS" loading="lazy" fetchpriority="low" width="26" height="26">
+	O TEMPO SPORTS
+</a>
+
+<a class="sitemap__menu-lateral-item canal" href="/canal-o-tempo" title="CANAL O TEMPO" alt="CANAL O TEMPO">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-canal-otempo.svg" alt="CANAL O TEMPO" loading="lazy" fetchpriority="low" width="26" height="26">
+	CANAL O TEMPO
+</a>
+
+<a class="sitemap__menu-lateral-item canal" href="/fm-otempo" title="FM O TEMPO" alt="FM O TEMPO">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-fm-otempo.svg" alt="FM O TEMPO" loading="lazy" fetchpriority="low" width="26" height="26">
+	FM O TEMPO
+</a>
+
+<a class="sitemap__menu-lateral-item supernews" href="/super-noticia" title="SUPER NOTÍCIA" alt="SUPER NOTÍCIA">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-super-noticia.svg" alt="SUPER NOTÍCIA" loading="lazy" fetchpriority="low" width="26" height="26">
+	SUPER NOTÍCIA
+</a>
+
+
+
+    
+
+</div>
+
+
+	
+	<div class="columns sitemap__menu-categorias">
+    <script defer="" src="/etc.clientlibs/otempo/components/content/otempo/menu/menu-expandido/items/columns/clientlibs.lc-2b6bf36a74fadff99556ec855a344d0d-lc.min.js"></script>
+
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-política">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/politica" title="POLÍTICA">POLÍTICA</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/eleicoes" title="Eleições">Eleições</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-o tempo sports">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/sports" title="O TEMPO SPORTS">O TEMPO SPORTS</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/atletico" title="Atlético">Atlético</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/cruzeiro" title="Cruzeiro">Cruzeiro</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/america" title="América">América</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/tabelas" title="Tabelas">Tabelas</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/volei" title="Vôlei">Vôlei</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/apostas/" title="Apostas">Apostas</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/apostas/casas-de-apostas/" title="Casas de apostas">Casas de apostas</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/apostas/melhores-apps-apostas-brasil/" title="Apps de apostas">Apps de apostas</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-opinião">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/opiniao" title="OPINIÃO">OPINIÃO</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+	<div class="columns sitemap__menu-categorias">
+    
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-cidades">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/cidades" title="CIDADES">CIDADES</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-atualidades">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/atualidades" title="ATUALIDADES">ATUALIDADES</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/economia" title="Economia">Economia</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/brasil" title="Brasil">Brasil</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/mundo" title="Mundo">Mundo</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/tecnologia-e-games" title="Tecnologia e Games">Tecnologia e Games</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/enem/2024" title="Enem 2024">Enem 2024</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/emprego-e-concursos" title="Emprego e Concursos">Emprego e Concursos</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-anuncie">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/anuncie" title="ANUNCIE">ANUNCIE</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/conteudo-de-marca" title="Conteúdo de Marca">Conteúdo de Marca</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/classificados" title="Classificados">Classificados</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+	<div class="columns sitemap__menu-categorias">
+    
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-entretenimento">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/entretenimento" title="ENTRETENIMENTO">ENTRETENIMENTO</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/gastronomia" title="Gastronomia">Gastronomia</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/entretenimento" title="BBB 25">BBB 25</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-interessa">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/interessa" title="INTERESSA">INTERESSA</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/pets" title="Pets">Pets</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/saude-e-bem-estar" title="Saúde e Bem-Estar">Saúde e Bem-Estar</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/astrologia" title="Astrologia">Astrologia</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/moda-e-beleza" title="Moda e Beleza">Moda e Beleza</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/decoracao" title="Decoração">Decoração</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/esoterico" title="Esotérico">Esotérico</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-loterias">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/loterias" title="LOTERIAS">LOTERIAS</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+	<div class="columns sitemap__menu-categorias">
+    
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-previsão do tempo">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/tempo" title="PREVISÃO DO TEMPO">PREVISÃO DO TEMPO</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/tempo/belo-horizonte-mg" title="Belo Horizonte">Belo Horizonte</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo/contagem-mg" title="Contagem">Contagem</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo/betim-mg" title="Betim">Betim</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo/nova-lima-mg" title="Nova Lima">Nova Lima</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo" title="Mais cidades">Mais cidades</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-newsletter">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/newsletter" title="NEWSLETTER">NEWSLETTER</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-turismo">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/turismo" title="TURISMO">TURISMO</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-autotempo">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/autotempo" title="AUTOTEMPO">AUTOTEMPO</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-publicidade legal">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/publicidade-legal" title="PUBLICIDADE LEGAL">PUBLICIDADE LEGAL</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+                
+
+                
+
+              </div>
+
+              
+              <div class="xfpage page basicpage">
+
+
+    
+    <div id="container-5fef3b626f" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="oferta aem-GridColumn aem-GridColumn--default--12"><div class="header__menu--bottom">
+	<div class="newsletter has-desktop-width">
+		
+		<div class="item newsletter__container">
+    <div>
+        <p class="font-inter"><span style="	font-weight: normal;
+	font-size: 28.0px;
+">ASSINE O TEMPO</span></p>
+<p>Fique por dentro de tudo que acontece em MG</p>
+
+    </div>
+    <a href="https://assine.otempo.com.br/">
+        <button class="newsletter__button" style=" 
+        ">
+            ASSINE
+        </button>
+    </a>
+
+
+
+    
+
+</div>
+
+
+		<div class="item newsletter__container">
+    <div>
+        <p class="newsletter__title font-inter">O TEMPO Newsletter</p>
+<p><span class="newsletter__sub">Inscreva-se agora, é de graça</span></p>
+
+    </div>
+    <a href="/newsletter">
+        <button class="newsletter__button" style=" 
+        ">
+            INSCREVA-SE AGORA
+        </button>
+    </a>
+
+
+
+    
+
+</div>
+
+
+	</div>
+</div></div>
+<div class="oferta aem-GridColumn aem-GridColumn--default--12"><div class="header__menu--bottom">
+	<div class="newsletter has-desktop-width">
+		
+		<div class="item newsletter__container">
+
+
+    
+
+</div>
+
+
+		<div class="item newsletter__container">
+
+
+    
+
+</div>
+
+
+	</div>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+              
+              <div class="submenu__container desktop">
+                
+                <div class="mobile-display-none">
+                  <div class="xfpage page basicpage">
+
+
+    
+    <div id="container-f640bd22e3" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="social-media aem-GridColumn aem-GridColumn--default--12"><div class="redes__sociais has-desktop-width">
+    
+	<p class="redes__sociais-title">
+		<b>Siga O TEMPO nas Redes Sociais</b>
+&nbsp;
+
+	</p>
+
+	<div class="redes__sociais-box">
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.instagram.com/otempo" title="Instagram" alt="Instagram">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-instagram.svg" name="Instagram" alt="Instagram" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://whatsapp.com/channel/0029Va4vAwkJ3jv2wk6yaI0o" title="Whatsapp" alt="Whatsapp">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-whatsapp.svg" name="Whatsapp" alt="Whatsapp" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.facebook.com/portalotempo" title="facebook" alt="facebook">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-facebook.svg" name="facebook" alt="facebook" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://twitter.com/otempo" title="twitter" alt="twitter">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-twitter.svg" name="twitter" alt="twitter" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.linkedin.com/company/sempre-editora/" title="Linkedin" alt="Linkedin">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-linkedin.svg" name="Linkedin" alt="Linkedin" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.youtube.com/otempo/" title="youtube" alt="youtube">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-youtube.svg" name="youtube" alt="youtube" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.tiktok.com/@portalotempo" title="tiktok" alt="tiktok">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-tiktok.svg" name="tiktok" alt="tiktok" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.kwai.com/@otempo" title="kwai" alt="kwai">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-kwai.svg" name="kwai" alt="kwai" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.threads.net/@otempo" title="Threads" alt="Threads">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/Threads.svg" name="Threads" alt="Threads" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://t.me/otempo" title="Telegram" alt="Telegram">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/Telegram.svg" name="Telegram" alt="Telegram" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+    </div>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+                  
+                </div>
+
+                
+                <div class="mobile-display-none">
+                  <div class="xfpage page basicpage">
+
+
+    
+    <div id="container-2bbc89f81a" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="links-institucional aem-GridColumn aem-GridColumn--default--12">
+	
+	<div class="footer__menu-inferior">
+
+		
+			<a class="footer__menu-link" href="https://assine.otempo.com.br" title="ASSINE">ASSINE</a>
+		
+			<a class="footer__menu-link" href="/expediente" title="EXPEDIENTE">EXPEDIENTE</a>
+		
+			<a class="footer__menu-link" href="/termos-de-uso" title="TERMOS DE USO">TERMOS DE USO</a>
+		
+			<a class="footer__menu-link" href="/politica-de-privacidade" title="POLÍTICA DE PRIVACIDADE">POLÍTICA DE PRIVACIDADE</a>
+		
+			<a class="footer__menu-link" href="/politica-de-cookies" title="POLÍTICA DE COOKIES">POLÍTICA DE COOKIES</a>
+		
+			<a class="footer__menu-link" href="/protecao-de-dados" title="PROTEÇÃO DE DADOS">PROTEÇÃO DE DADOS</a>
+		
+			<a class="footer__menu-link" href="/anuncie" title="ANUNCIE">ANUNCIE</a>
+		
+			<a class="footer__menu-link" href="/trabalhe-conosco" title="TRABALHE CONOSCO">TRABALHE CONOSCO</a>
+		
+
+	</div>
+
+
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+                  
+                </div>
+
+                
+                <div class="mobile-display-none">
+                  <div class="xfpage page basicpage">
+
+
+    
+    <div id="container-fd6d96cfc7" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="copyright aem-GridColumn aem-GridColumn--default--12">
+
+	<div class="footer__copyright footer-expanded bgNatural--primary">
+		<div class="footer__copyright__logo">
+			<img src="/content/dam/otempo/menu/icones/copyright/logo-otempo-branca-copyright.svg" loading="lazy" fetchpriority="low" width="154" height="22" title="O TEMPO" alt="O TEMPO">
+		</div>
+		<div class="footer__copyright-item">© 1996 - 2024 | SEMPRE EDITORA</div>
+	</div>
+
+
+
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+          <div class="header__menu-categorias1">
+            <div class="sitemap__menu-categorias-colunas channels">
+              <button class="header__radio--tempo">
+                <span class="header__radio--icon">&nbsp;</span>
+                <div class="animation">
+                  <p id="textoRolante">O TEMPO NEWS</p>
+                </div>
+                <audio src="https://9134.brasilstream.com.br/stream" id="playpause" preload="none"></audio>
+                <input class="check__event" type="checkbox" id="toggleCheckbox">
+                <label class="header__radio--play" for="toggleCheckbox">&nbsp;</label>
+              </button>
+            </div>
+          </div>
+          
+          <div class="header__menu-categorias2">
+
+            <div class="sitemap__menu-categorias-colunas">
+              
+              <a href="/" class="header__logo" alt="O TEMPO">&nbsp;</a>
+            </div>
+
+          </div>
+
+          
+          <div class="header__menu-categorias3">
+            <div class="header__login">
+              <a href="https://assine.otempo.com.br" class="assine__button">ASSINE</a>
+
+              <div class="header__temp">
+                <span class="header__temp-txt">
+                  <span class="header__temp--icon current__header--icon">&nbsp;</span>
+                  <span class="header__temp-rate" id="header-weather-now-mobile"></span>
+                </span>
+              </div>
+
+              <a href="#login" class="header__login--button">
+                <span class="icon-login">&nbsp;</span>
+                <span class="header__login-txt">ENTRAR</span>
+              </a>
+              <a href="#sair" class="header__sair--button">
+                <span class="header__sair-txt">| Sair</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      
+
+      <div class="xfpage page basicpage">
+
+
+    
+    <div id="container-50f10b41c0" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="menu-bar aem-GridColumn aem-GridColumn--default--12">
+<section class="header__submenu ">
+  <div class="header__submenu__carousel-button-wrapper">
+    <span class="slider__button slider__left">
+      <img src="/content/dam/otempo/frontend/resources/images/header/icon/chevron-down.svg" alt="button slider left" loading="lazy" fetchpriority="low">
+    </span>
+    <span class="slider__button slider__right">
+      <img src="/content/dam/otempo/frontend/resources/images/header/icon/chevron-down.svg" alt="button slider right" loading="lazy" fetchpriority="low">
+    </span>
+  </div>
+  <div class="header__submenu__content has-desktop-width">
+    
+      <div class="header__submenu__content--item">
+        <a href="/ultimas" target="_self" title="ÚLTIMAS">ÚLTIMAS</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/cidades" target="_self" title="CIDADES">CIDADES</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/sports" target="_self" title="ESPORTE">ESPORTE</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/politica" target="_self" title="POLÍTICA">POLÍTICA</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/entretenimento/realities/bbb/2025" target="_self" title="BBB 25">BBB 25</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/entretenimento" target="_self" title="ENTRETENIMENTO">ENTRETENIMENTO</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/economia" target="_self" title="ECONOMIA">ECONOMIA</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/minas-sa" target="_self" title="minas s/a">MINAS S/A</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/canal-o-tempo" target="_self" title="canal o tempo">CANAL O TEMPO</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/canal-o-tempo/podcasts" target="_self" title="podcasts">PODCASTS</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="https://promocoes.otempo.com.br" target="_self" title="promoções">PROMOÇÕES</a>
+      </div>
+    
+    
+
+    <!-- WEATHER -->
+    
+  </div>
+</section></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+    </section>
+    <section class="header__foot">
+
+      
+
+      <div class="xfpage page basicpage">
+
+
+    
+    <div id="container-50f10b41c0" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="menu-bar aem-GridColumn aem-GridColumn--default--12">
+<section class="header__submenu ">
+  <div class="header__submenu__carousel-button-wrapper">
+    <span class="slider__button slider__left">
+      <img src="/content/dam/otempo/frontend/resources/images/header/icon/chevron-down.svg" alt="button slider left" loading="lazy" fetchpriority="low">
+    </span>
+    <span class="slider__button slider__right">
+      <img src="/content/dam/otempo/frontend/resources/images/header/icon/chevron-down.svg" alt="button slider right" loading="lazy" fetchpriority="low">
+    </span>
+  </div>
+  <div class="header__submenu__content has-desktop-width">
+    
+      <div class="header__submenu__content--item">
+        <a href="/ultimas" target="_self" title="ÚLTIMAS">ÚLTIMAS</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/cidades" target="_self" title="CIDADES">CIDADES</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/sports" target="_self" title="ESPORTE">ESPORTE</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/politica" target="_self" title="POLÍTICA">POLÍTICA</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/entretenimento/realities/bbb/2025" target="_self" title="BBB 25">BBB 25</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/entretenimento" target="_self" title="ENTRETENIMENTO">ENTRETENIMENTO</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/economia" target="_self" title="ECONOMIA">ECONOMIA</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/minas-sa" target="_self" title="minas s/a">MINAS S/A</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/canal-o-tempo" target="_self" title="canal o tempo">CANAL O TEMPO</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="/canal-o-tempo/podcasts" target="_self" title="podcasts">PODCASTS</a>
+      </div>
+    
+      <div class="header__submenu__content--item">
+        <a href="https://promocoes.otempo.com.br" target="_self" title="promoções">PROMOÇÕES</a>
+      </div>
+    
+    
+
+    <!-- WEATHER -->
+    
+  </div>
+</section></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+
+    </section>
+  </header>
+
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-b6748df1bc" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="template-container aem-GridColumn aem-GridColumn--default--12">
+    <div class="has-desktop-width">
+        
+    
+
+        <div><article class="cmp-template-grid cmp-template-grid__container__column-12">
+    
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--12 ">
+    
+    <div class="cp012-ads aem-GridColumn aem-GridColumn--default--12">
+    <script src="/etc.clientlibs/otempo/components/content/otempo/cp012-ads/clientlibs/component.lc-92316c41af7c9eb8df996ab19280d47b-lc.min.js"></script>
+
+
+
+	<div class="ads__sticky--rules true capa_topo_header">
+		<section class="ads__container" id="sticky--true">
+			<div hidden=""></div>
+			<div class="ads__container--item" style="background-color: ;">
+				<div class="ads" id="capa_topo_header-93aD7" data-id="capa_topo_header-93aD7" data-display="displayall" data-path="/14159828/wildcard/capa_topo_header" data-sizes="[[300,50],[300,100],[320,50],[320,100],[728,90],[970,90],[970,250],[1190,250],[980,250]]" data-mapping="{&quot;0&quot;:[[300,50],[300,100],[320,50],[320,100]],&quot;960&quot;:[[300,50],[300,100],[320,50],[320,100]],&quot;1100&quot;:[[728,90],[970,90],[970,250],[1190,250],[980,250]]}" data-lazyload="true" data-refresh="true" data-position="capa_topo_header">
+				</div>
+		</div></section>
+	</div>
+	<script>
+		window.newRegisterAds(document.getElementById("capa_topo_header\u002D93aD7"));
+    //document.addEventListener("DOMContentLoaded", function(){
+			//ADS.registerAds(document.getElementById("capa_topo_header\u002D93aD7"));
+		//});
+		document.addEventListener('DOMContentLoaded', function () {
+			setStickyHalfPageAds();
+		});
+	</script>
+
+    
+</div>
+<div class="404-not-found aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--8 aem-GridColumn aem-GridColumn--offset--phone--2 aem-GridColumn--default--6 aem-GridColumn--offset--default--3"><section class="notfound__container font-lato">
+  <article class="notfound__wrapper">
+    <div class="notfound__info">
+      <h1 class="notfound__title font-inter">Página não encontrada</h1>
+      <p class="notfound__description">Desculpe-nos, mas o conteúdo que você tentou acessar não existe ou foi removido. Você pode realizar uma pesquisa utilizando o formulário abaixo ou acessar nossa página inicial.</p>
+    </div>
+    <div class="notfound__search search" role="search">
+      <div class="algolia__container" id="search404"></div>
+    </div>
+    <a class="notfound__link button button__primary button--lg" href="/">Voltar para a página inicial</a>
+  </article>
+</section></div>
+<div class="it05-outbrain aem-GridColumn aem-GridColumn--default--12">
+  <div id="outbrainwrapper">
+    
+      
+    <link rel="stylesheet" href="/etc.clientlibs/otempo/components/content/otempo/it05-outbrain/clientlibs.lc-83d134896c97438e2bcc5a3a7bf35647-lc.min.css" type="text/css">
+<script src="/etc.clientlibs/otempo/components/content/otempo/it05-outbrain/clientlibs.lc-2553660e305fae480765a7ab6af99e50-lc.min.js"></script>
+
+
+    
+  </div>
+
+    
+</div>
+
+    
+</div>
+
+</article></div>
+    </div>
+
+    
+    
+
+
+
+</div>
+<div class="t004-cookie aem-GridColumn aem-GridColumn--default--12">
+    <section class="cookies__container font-lato" style="position: fixed; left:20px; right:20px; bottom:9px;">
+    <div class="cookies__wrapper">
+      <div class="cookies__head">
+        <p class="cookies__title font-inter">
+          <span class="icons__flag">&nbsp;</span>
+          Configuração de Cookies
+        </p>
+        <button class="cookies__button--close icons__close" name="Fechar pop-up de cookies" aria-label="Fechar pop-up de cookies">&nbsp;</button>
+      </div>
+      <p class="cookies__description">
+        O portal O TEMPO, utiliza cookies para armazenar ou recolher informações no seu navegador. A informação normalmente não o identifica diretamente, mas pode dar-lhe uma experiência web mais personalizada. Uma vez que respeitamos o seu direito à privacidade, pode optar por não permitir alguns tipos de cookies. Para mais informações, revise nossa Política de Privacidade.
+      </p>
+      <div class="cookies__definition">
+        <p class="cookies__definition--title">Definir Cookies</p>
+        <ul class="cookies__definition--item aem-Grid aem-Grid--12">
+          <li class="cookies__definition--list aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12">
+            <input class="cookies__definition--checkbox" name="ot-required" type="checkbox" checked="" disabled="">
+            <div class="cookies__definition--info">
+              <input class="check__event" type="checkbox" id="cookies-required">
+              <label class="cookies__definition--label" for="cookies-required">Cookies obrigatórios</label>
+              <p class="cookies__definition--description">Cookies operacionais/técnicos: São usados para tornar a navegação no site possível, são essenciais e possibilitam a oferta de funcionalidades básicas.</p>
+            </div>
+          </li>
+          <li class="cookies__definition--list aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12">
+            <input class="cookies__definition--checkbox" name="ot-analytic" type="checkbox">
+            <div class="cookies__definition--info">
+              <input class="check__event" type="checkbox" id="cookies-analytic">
+              <label class="cookies__definition--label" for="cookies-analytic">Cookies analíticos</label>
+              <p class="cookies__definition--description">Eles ajudam a registrar como as pessoas usam o nosso site, para que possamos melhorá-lo no futuro. Por exemplo, eles nos dizem quais são as páginas mais populares e como as pessoas navegam pelo nosso site. Usamos cookies analíticos próprios e também do Google Analytics para coletar dados agregados sobre o uso do site.</p>
+            </div>
+          </li>
+          <li class="cookies__definition--list aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12">
+            <input class="cookies__definition--checkbox" name="ot-advertising" type="checkbox">
+            <div class="cookies__definition--info">
+              <input class="check__event" type="checkbox" id="cookies-advertising">
+              <label class="cookies__definition--label" for="cookies-advertising">Cookies de publicidade</label>
+              <p class="cookies__definition--description">Os cookies comportamentais e de marketing ajudam a entender seus interesses baseados em como você navega em nosso site. Esses cookies podem ser ativados tanto no nosso website quanto nas plataformas dos nossos parceiros de publicidade, como Facebook, Google e LinkedIn.</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="cookies__foot">
+        <button class="button__cookie--accept button button__primary button--lg">Aceitar todos os cookies</button>
+        <button class="button__cookie--settings button button__outline button--lg">Definições de cookies</button>
+      </div>
+    </div>
+</section>
+
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-2aafe64a24" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    <div id="container-f651ba09ac" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="t002-footer aem-GridColumn aem-GridColumn--default--12"><div class="footer font-lato">
+	<div class="xfpage page basicpage">
+
+
+    
+    <div id="container-0f12e32e29" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="menu-expandido aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--default--0"><div class="sitemap__menu has-desktop-width">
+
+	
+	<div class="highlights sitemap__menu-lateral">
+
+
+<a class="sitemap__menu-lateral-item lastnews" href="https://www.otempo.com.br/ultimas" title="ÚLTIMAS NOTÍCIAS" alt="ÚLTIMAS NOTÍCIAS">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-ultimas-noticias.svg" alt="ÚLTIMAS NOTÍCIAS" loading="lazy" fetchpriority="low" width="26" height="26">
+	ÚLTIMAS NOTÍCIAS
+</a>
+
+<a class="sitemap__menu-lateral-item sports" href="/sports" title="O TEMPO SPORTS" alt="O TEMPO SPORTS">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-otempo-sports.svg" alt="O TEMPO SPORTS" loading="lazy" fetchpriority="low" width="26" height="26">
+	O TEMPO SPORTS
+</a>
+
+<a class="sitemap__menu-lateral-item canal" href="/canal-o-tempo" title="CANAL O TEMPO" alt="CANAL O TEMPO">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-canal-otempo.svg" alt="CANAL O TEMPO" loading="lazy" fetchpriority="low" width="26" height="26">
+	CANAL O TEMPO
+</a>
+
+<a class="sitemap__menu-lateral-item canal" href="/fm-otempo" title="FM O TEMPO" alt="FM O TEMPO">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-fm-otempo.svg" alt="FM O TEMPO" loading="lazy" fetchpriority="low" width="26" height="26">
+	FM O TEMPO
+</a>
+
+<a class="sitemap__menu-lateral-item supernews" href="/super-noticia" title="SUPER NOTÍCIA" alt="SUPER NOTÍCIA">
+	<img class="sitemap__menu-lateral-icone" src="/content/dam/otempo/menu/icones/destaque/icon-super-noticia.svg" alt="SUPER NOTÍCIA" loading="lazy" fetchpriority="low" width="26" height="26">
+	SUPER NOTÍCIA
+</a>
+
+
+
+    
+
+</div>
+
+
+	
+	<div class="columns sitemap__menu-categorias">
+    
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-política">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/politica" title="POLÍTICA">POLÍTICA</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/eleicoes" title="Eleições">Eleições</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-o tempo sports">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/sports" title="O TEMPO SPORTS">O TEMPO SPORTS</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/atletico" title="Atlético">Atlético</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/cruzeiro" title="Cruzeiro">Cruzeiro</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/america" title="América">América</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/tabelas" title="Tabelas">Tabelas</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/sports/volei" title="Vôlei">Vôlei</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/apostas/" title="Apostas">Apostas</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/apostas/casas-de-apostas/" title="Casas de apostas">Casas de apostas</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/apostas/melhores-apps-apostas-brasil/" title="Apps de apostas">Apps de apostas</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-opinião">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/opiniao" title="OPINIÃO">OPINIÃO</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+	<div class="columns sitemap__menu-categorias">
+    
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-cidades">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/cidades" title="CIDADES">CIDADES</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-atualidades">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/atualidades" title="ATUALIDADES">ATUALIDADES</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/economia" title="Economia">Economia</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/brasil" title="Brasil">Brasil</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/mundo" title="Mundo">Mundo</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/tecnologia-e-games" title="Tecnologia e Games">Tecnologia e Games</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/enem/2024" title="Enem 2024">Enem 2024</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/emprego-e-concursos" title="Emprego e Concursos">Emprego e Concursos</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-anuncie">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/anuncie" title="ANUNCIE">ANUNCIE</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/conteudo-de-marca" title="Conteúdo de Marca">Conteúdo de Marca</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/classificados" title="Classificados">Classificados</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+	<div class="columns sitemap__menu-categorias">
+    
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-entretenimento">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/entretenimento" title="ENTRETENIMENTO">ENTRETENIMENTO</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/gastronomia" title="Gastronomia">Gastronomia</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/entretenimento" title="BBB 25">BBB 25</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-interessa">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/interessa" title="INTERESSA">INTERESSA</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/pets" title="Pets">Pets</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/saude-e-bem-estar" title="Saúde e Bem-Estar">Saúde e Bem-Estar</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/astrologia" title="Astrologia">Astrologia</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/moda-e-beleza" title="Moda e Beleza">Moda e Beleza</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/decoracao" title="Decoração">Decoração</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="/esoterico" title="Esotérico">Esotérico</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-loterias">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/loterias" title="LOTERIAS">LOTERIAS</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+	<div class="columns sitemap__menu-categorias">
+    
+
+
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-previsão do tempo">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/tempo" title="PREVISÃO DO TEMPO">PREVISÃO DO TEMPO</a>
+				<div class="dropdown-subcategory-icon">
+					<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+						<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="m1 1 4 4 4-4"></path>
+					</svg>
+				</div>
+			
+		</div>
+
+		
+
+			<ul class="header__submenu-category">
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://www.otempo.com.br/tempo/belo-horizonte-mg" title="Belo Horizonte">Belo Horizonte</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo/contagem-mg" title="Contagem">Contagem</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo/betim-mg" title="Betim">Betim</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo/nova-lima-mg" title="Nova Lima">Nova Lima</a>
+				</li>
+			
+				<li class="sitemap__menu-list">
+				<a class="sitemap__menu-link" href="https://otempo.com.br/tempo" title="Mais cidades">Mais cidades</a>
+				</li>
+			</ul>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-newsletter">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/newsletter" title="NEWSLETTER">NEWSLETTER</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-turismo">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/turismo" title="TURISMO">TURISMO</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-autotempo">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/autotempo" title="AUTOTEMPO">AUTOTEMPO</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+	<div class="sitemap__menu-categorias-colunas">
+		<input class="check__event" type="checkbox" id="menu-publicidade legal">
+		<div class="sitemap__menu-title__wrapper">
+
+			
+				<a class="sitemap__menu-title" href="/publicidade-legal" title="PUBLICIDADE LEGAL">PUBLICIDADE LEGAL</a>
+				
+			
+		</div>
+
+		
+	</div>
+
+
+
+    
+</div>
+
+
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+	
+	
+	<div class="xfpage page basicpage">
+
+
+    
+    <div id="container-8aa10de044" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="social-media aem-GridColumn aem-GridColumn--default--12"><div class="redes__sociais has-desktop-width">
+    
+	<p class="redes__sociais-title">
+		<b>Siga O TEMPO nas Redes Sociais</b>
+&nbsp;
+
+	</p>
+
+	<div class="redes__sociais-box">
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.instagram.com/otempo" title="Instagram" alt="Instagram">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-instagram.svg" name="Instagram" alt="Instagram" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://whatsapp.com/channel/0029Va4vAwkJ3jv2wk6yaI0o" title="Whatsapp" alt="Whatsapp">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-whatsapp.svg" name="Whatsapp" alt="Whatsapp" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.facebook.com/portalotempo" title="facebook" alt="facebook">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-facebook.svg" name="facebook" alt="facebook" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://twitter.com/otempo" title="twitter" alt="twitter">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-twitter.svg" name="twitter" alt="twitter" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.linkedin.com/company/sempre-editora/" title="Linkedin" alt="Linkedin">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-linkedin.svg" name="Linkedin" alt="Linkedin" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.youtube.com/otempo/" title="youtube" alt="youtube">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-youtube.svg" name="youtube" alt="youtube" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.tiktok.com/@portalotempo" title="tiktok" alt="tiktok">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-tiktok.svg" name="tiktok" alt="tiktok" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.kwai.com/@otempo" title="kwai" alt="kwai">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/icon-kwai.svg" name="kwai" alt="kwai" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://www.threads.net/@otempo" title="Threads" alt="Threads">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/Threads.svg" name="Threads" alt="Threads" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+		<a class="redes__sociais-icon" target="_blank" href="https://t.me/otempo" title="Telegram" alt="Telegram">
+				<img class="redes__sociais-img" src="/content/dam/otempo/menu/icones/social-media/Telegram.svg" name="Telegram" alt="Telegram" loading="lazy" fetchpriority="low" width="24" height="24">
+			</a>
+		
+    </div>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+	
+	
+	<div class="xfpage page basicpage">
+
+
+    
+    <div id="container-4609b5b3e5" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="links-institucional aem-GridColumn aem-GridColumn--default--12">
+	
+	<div class="footer__menu-inferior">
+
+		
+			<a class="footer__menu-link" href="https://assine.otempo.com.br" title="ASSINE">ASSINE</a>
+		
+			<a class="footer__menu-link" href="/expediente" title="EXPEDIENTE">EXPEDIENTE</a>
+		
+			<a class="footer__menu-link" href="/termos-de-uso" title="TERMOS DE USO">TERMOS DE USO</a>
+		
+			<a class="footer__menu-link" href="/politica-de-privacidade" title="POLÍTICA DE PRIVACIDADE">POLÍTICA DE PRIVACIDADE</a>
+		
+			<a class="footer__menu-link" href="/politica-de-cookies" title="POLÍTICA DE COOKIES">POLÍTICA DE COOKIES</a>
+		
+			<a class="footer__menu-link" href="/protecao-de-dados" title="PROTEÇÃO DE DADOS">PROTEÇÃO DE DADOS</a>
+		
+			<a class="footer__menu-link" href="/anuncie" title="ANUNCIE">ANUNCIE</a>
+		
+			<a class="footer__menu-link" href="/trabalhe-conosco" title="TRABALHE CONOSCO">TRABALHE CONOSCO</a>
+		
+
+	</div>
+
+
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+	
+
+	<div class="xfpage page basicpage">
+
+
+    
+    <div id="container-4a13db9854" class="cmp-container ">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="copyright aem-GridColumn aem-GridColumn--default--12">
+
+	<div class="footer__copyright footer-expanded bgNatural--primary">
+		<div class="footer__copyright__logo">
+			<img src="/content/dam/otempo/menu/icones/copyright/logo-otempo-branca-copyright.svg" loading="lazy" fetchpriority="low" width="154" height="22" title="O TEMPO" alt="O TEMPO">
+		</div>
+		<div class="footer__copyright-item">© 1996 - 2024 | SEMPRE EDITORA</div>
+	</div>
+
+
+
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+	
+	
+
+</div>
+<div class="modal-firebase"><div class="m__container">
+	<div class="modal__notification_container font-lato">
+			<div class="modal__foto">
+					<img class="modal__foto--item" id="firebase-modal-foto" src="" alt="Firebase modal photo">
+			</div>
+
+			<div class="modal__noticia_container">
+					<div id="firebase-modal-versal" class="modal__versal">&nbsp;</div>
+					<div id="firebase-modal-title" class="modal__titulo">&nbsp;</div>
+					<a class="modal__cta_button" id="firebase-modal-link" href="/" target="_blank"><button class="button button__primary button--sm btn__firebase">Leia mais</button></a>
+			</div>
+
+			<button class="modal__cta_close" id="firebase-cta-close" aria-label="Close modal button">
+					<svg x-description="Heroicon name: mini/x-mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="#6b7280" aria-hidden="true">
+							<path d="M6.28 5.22a.75.75 0 00-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 101.06 1.06L10 11.06l3.72 3.72a.75.75 0 101.06-1.06L11.06 10l3.72-3.72a.75.75 0 00-1.06-1.06L10 8.94 6.28 5.22z"></path>
+					</svg>
+			</button>
+	</div>
+</div>
+</div>
+</div>
+<div class="refresh aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+
+<script>
+  const tempoString = "180000"
+
+  const tempoEmMs = tempoString ? parseInt(tempoString, 10) : 180000;
+
+  function startAutoRefresh() {
+
+    const refreshInterval = setInterval(function () {
+      window.location.reload()
+    }, tempoEmMs);
+
+    $(document).data('refreshIntervalId', refreshInterval);
+
+  }
+
+
+  function stopAutoRefresh() {
+    const refreshIntervalId = $(document).data('refreshIntervalId');
+    clearInterval(refreshIntervalId);
+  }
+
+  function refreshScroll() {
+    stopAutoRefresh()
+    startAutoRefresh()
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const URL = window.location.hostname;
+    if (URL == 'www.otempo.com.br') {
+      startAutoRefresh()
+      document.addEventListener("scroll", refreshScroll);
+
+    };
+  });
+</script></div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+
+</div>
+
+
+            
+    
+    <script src="/etc.clientlibs/otempo/components/content/otempo/article/body/clientlibs/embeds.lc-6228e3d77f90053e5bc6e3efa30ffcec-lc.min.js"></script>
+<script src="/etc.clientlibs/core/wcm/components/carousel/v1/carousel/clientlibs/site.lc-28d5a19f5986310e2900b6454b75dc70-lc.min.js"></script>
+
+
+    
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/otempo/clientlibs/clientlib-base.lc-5b6bf6bddb27a9ef3f911fb1eb20081a-lc.min.css" type="text/css">
+
+
+    
+    <script src="/etc.clientlibs/otempo/clientlibs/clientlib-user-login.lc-edc5a881dedef79b56f46295ef3a3cd6-lc.min.js"></script>
+
+
+
+
+
+    
+    
+
+
+
+
+    <script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+    window._qevents = window._qevents || [];
+    (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+    window._qevents.push({
+    qacct:"p-G3ARhEZrGqJdA",
+    uid:"lisane@blastmkt.com"
+    });
+</script>
+<noscript>
+    <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-G3ARhEZrGqJdA.gif" border="0" height="1" width="1" alt="Quantcast">
+    </div>
+</noscript>
+<!-- End Quantcast tag -->
+    
+
+    
+
+    
+    
+    
+    
+
+        
+    
+
+</body></html>

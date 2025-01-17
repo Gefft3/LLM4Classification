@@ -1,0 +1,825 @@
+<html lang="en"><head>
+  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-133482378-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133482378-1');
+</script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://batatais24h.com.br/icones/favicon.ico">
+<link rel="apple-touch-icon" href="https://batatais24h.com.br/icones/iphone.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://batatais24h.com.br/icones/ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://batatais24h.com.br/icones/iphone-retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://batatais24h.com.br/icones/ipad-retina.png">
+<link href="https://batatais24h.com.br/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://batatais24h.com.br/css/animate.css" rel="stylesheet">
+<link href="https://batatais24h.com.br/css/layout.css" rel="stylesheet">
+<link href="https://batatais24h.com.br/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://batatais24h.com.br/css/jssocials.css" rel="stylesheet">
+<link href="https://batatais24h.com.br/css/jssocials-theme-flat.css" rel="stylesheet">
+<meta name="copyright" content="Todos os direitos reservados - Batatais 24h">
+<meta name="author" content="Byte Livre">
+<meta name="robots" content="index, follow">
+<meta name="description" content="noticias, 24h, batatais - Batatais 24h">    <link rel="stylesheet" href="https://batatais24h.com.br/css/blueimp-gallery.min.css">
+    <link rel="stylesheet" href="https://batatais24h.com.br/css/blueimp-gallery-indicator.css">
+    <link rel="stylesheet" href="https://batatais24h.com.br/css/blueimp-gallery-video.css">
+    <link rel="stylesheet" href="https://batatais24h.com.br/css/bootstrap-image-gallery.css">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:title" content="Opinião - Leptospirose é comum em periferias e exige políticas públicas de saneamento e saúde">
+    <meta property="og:description" content="Prevenir a doença não é simples, pois ela está ligada a fragilidades socioeconômicas">
+    <meta property="og:url" content="https://batatais24h.com.br/noticia/2692/opiniao">
+    <meta property="og:image" content="https://batatais24h.com.br/uploads/noticias/7e9834a6a254828a978d271d9f0f833f.jpeg">
+    <title>Opinião - Leptospirose é comum em periferias e exige políticas públicas de saneamento e saúde - Prevenir a doença não é simples, pois ela está ligada a fragilidades socioeconômicas</title>
+    
+  </head>
+
+  <body>
+
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.9&appId=430790120666489";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>    
+    <div class="container-fluid">
+
+      <div class="row letreiro">
+    <div class="col-md-12">
+      <ul id="webTicker">
+      	        	<li>
+        		<a href="https://batatais24h.com.br/noticia/3087/governo-de-sp-alerta-sobre-importancia-de-vacina-contra-a-febre-amarela">
+        			Governo de SP alerta sobre importância de vacina contra a febre amarela        		</a>
+        	</li>
+                	<li>
+        		<a href="https://batatais24h.com.br/noticia/3081/carteira-de-identificacao-para-pessoas-com-tea-chega-a-1400-na-regiao">
+        			Carteira de identificação para pessoas com TEA chega a 1.400 na região        		</a>
+        	</li>
+                	<li>
+        		<a href="https://batatais24h.com.br/noticia/3085/entenda-como-casos-de-febre-amarela-em-macacos-na-usp-ribeirao-afetam-a-populacao">
+        			Entenda como casos de febre amarela em macacos na USP Ribeirão afetam a população        		</a>
+        	</li>
+                	<li>
+        		<a href="https://batatais24h.com.br/noticia/3079/camarotes-para-o-batatais-folia-2025-ja-estao-a-venda">
+        			Camarotes para o Batatais Folia 2025 já estão à venda        		</a>
+        	</li>
+                	<li>
+        		<a href="https://batatais24h.com.br/noticia/3078/secretaria-da-saude-instala-armadilhas-para-monitorar-mosquito-da-dengue-em-batatais">
+        			Secretaria da Saúde instala armadilhas para monitorar mosquito da dengue em Batatais        		</a>
+        	</li>
+              </ul>
+    </div>
+ </div>
+      <div class="row banner-index">
+	<div class="col-md-12">
+		<div class="col-md-offset-2 col-md-8">
+			<center>
+				<a href="https://batatais24h.com.br">
+					<img class="img-responsive" src="https://batatais24h.com.br/imgs/logo-batatais-24h.png" alt="Batatais 24h">
+				</a>
+				<p><small><span style="text-transform:capitalize;">terça</span>, 14 de <span style="text-transform:capitalize;">janeiro</span> de 2025</small></p>
+			</center>
+		</div>
+		<div class="col-md-2 banner-busca">
+			<form method="POST" action="https://batatais24h.com.br/include/requisicoes/busca.php">
+  				<div class="form-group">
+  					<input type="text" class="form-control" id="busca" name="busca" placeholder="Buscar">
+  					<br>
+  					<button type="submit" class="btn btn-custom pull-right">
+  						<i class="fa fa-search" aria-hidden="true"></i> Buscar
+  					</button>
+  				</div>
+  			</form>
+		</div>
+	</div>
+</div>
+      <div class="row">
+  <nav id="nav-princ" class="navbar navbar-custom" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Batatais <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/1/batatais">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/1/a-cidade">
+                          A Cidade                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/40/esporte">
+                          Esporte                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/2/guia-da-cidade">
+                          Guia da Cidade                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/35/policia">
+                          Polícia                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/38/politica">
+                          Política                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Cultura e Comportamento <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/8/cultura-e-comportamento">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/37/comportamento">
+                          Comportamento                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/19/cultura">
+                          Cultura                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Economia <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/3/economia">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/33/agro">
+                          Agro                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/22/concursos-e-empregos">
+                          Concursos e Empregos                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/15/economia">
+                          Economia                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+           
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Gente <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/11/gente">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/20/memoria">
+                          Memória                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/23/perfis-e-entrevistas">
+                          Perfis e Entrevistas                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Informe Publicitário <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/12/informe-publicitario">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/26/publicidade">
+                          Publicidade                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Nacional <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/15/nacional">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/41/agencias">
+                          Agências                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/39/politica">
+                          Política                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Opinião <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/7/opiniao">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/8/artigos">
+                          Artigos                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/36/editoriais">
+                          Editoriais                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Região <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/5/regiao">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/21/regiao">
+                          Região                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Saúde <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/13/saude">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/27/saude">
+                          Saúde                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/34/tea">
+                          TEA                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                          <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                    Turismo e Eventos <span class="caret"></span> 
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li>
+                      <a href="https://batatais24h.com.br/categoria/4/turismo-e-eventos">
+                        Principal
+                      </a>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/12/carnaval">
+                          Carnaval                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/13/eventos">
+                          Eventos                        </a>
+                      </li>
+                                          <li>
+                        <a href="https://batatais24h.com.br/subcategoria/25/viagens">
+                          Viagens                        </a>
+                      </li>
+                                      </ul>
+                </li>
+               
+                  </ul>
+        <p class="navbar-text visible-xs-block"><img src="https://batatais24h.com.br/imgs/whatsapp.png">&nbsp;&nbsp;(16) 99154-4411</p>
+      </div>
+    </div>
+  </nav>
+</div>
+      <div class="row outdoor-premium">
+        <div class="col-md-12">
+          	<center>
+		<a href="#" target="_blank">
+			<img data-id="2" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/07abbeb54cd8ee1bb69979d757202aeb.jpg" alt="corte">
+		</a>
+	</center>
+        </div>
+      </div>
+
+      <div class="row categoria-linha">
+        <center>
+          <h4 class="noticias-categoria-destaque" style="background-color: #191970">
+            Opinião          </h4>
+        </center>
+        <ol class="breadcrumb hidden-xs hidden-sm">
+          <li><a href="https://batatais24h.com.br/">Início</a></li>
+          <li><a href="https://batatais24h.com.br/categoria/7/opiniao">Opinião</a></li>
+          <li><a href="https://batatais24h.com.br/subcategoria/8/artigos">Artigos</a></li>
+          <li class="active">Opinião - Leptospirose é comum em periferias e exige políticas públicas de saneamento e saúde</li>
+        </ol>
+      </div>
+
+      <div class="row noticias conteudo">
+        <div class="col-md-12">
+          <center>
+            <h2><strong>Opinião - Leptospirose é comum em periferias e exige políticas públicas de saneamento e saúde</strong></h2>
+            <p>Prevenir a doença não é simples, pois ela está ligada a fragilidades socioeconômicas</p>
+            <br>
+            <center>
+              <i class="fa fa-user" aria-hidden="true"></i> Alexandre Alberto Tonin*, via Agência Bori |
+              <i class="fa fa-calendar" aria-hidden="true"></i> 03/07/2024 |
+              <i class="fa fa-clock-o" aria-hidden="true"></i> 02:00            </center>
+            <br>
+            <div class="col-md-offset-2 col-md-8">
+              <img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/7e9834a6a254828a978d271d9f0f833f.jpeg">
+              <br>
+              <small>Enchentes de maio no RS acenderam alerta para a leptospirose, mas a doença é comum no país | Foto: Bruno Peres/Agência Brasil</small>
+            </div>
+          </center>
+        </div>
+      </div>
+
+      <div class="row noticia-conteudo">
+        <div class="col-md-12">
+          <div class="col-md-8">
+            <div class="share"></div>
+            <hr>
+            <p>As inundações vividas no Rio Grande do Sul em maio levaram a um aumento de casos reportados de leptospirose no estado. Ela é transmitida, em especial, pela exposição direta ou indireta à urina de animais, principalmente roedores, infectados por bactérias do gênero Leptospira.</p>
+<p>Embora enchentes facilitem a ocorrência de surtos, por propiciar a disseminação e a persistência da bactéria no ambiente, a doença ocorre com frequência no país.</p>
+<p>Eventos como as enchentes nos levam a pensar numa conexão entre situação e risco de transmissão, mas a leptospirose é muito mais comum do que se imagina. Segundo dados oficiais do Ministério da Saúde, no Brasil, entre os anos de 2000 e 2023 foi registrada uma média anual de 3650 casos da doença e 350 óbitos, o que dá uma taxa de letalidade média de 9,58%.</p>
+<p>A título de comparação, no mesmo período, a dengue registrou uma média anual de 448 óbitos, com taxa de letalidade média de 0,6%. Nos casos mais graves de leptospirose, quando os pacientes evoluem para a Síndrome da Angústia Respiratória, as chances de morte podem ser superiores a 40%.</p>
+<p>A falta de percepção do quanto a leptospirose é comum é gerada, entre outros fatores, pela dificuldade em diagnosticá-la. Por ter um curso agudo que causa, em sua fase inicial, febre, dores musculares e de cabeça como sintomas mais comuns, a doença pode ser confundida com uma síndrome gripal ou outras viroses, que exigem formas de tratamento completamente diferentes.</p>
+<p>Por esta razão, recentemente, o Ministério da Saúde emitiu uma&nbsp;<a href="https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-no-16-2024-cgzv-dedt-svsa-ms/view" target="_blank" rel="noopener noreferrer">nota técnica</a>&nbsp;reforçando estratégias para a suspeita de leptospirose, especialmente durante o período de chuvas.</p>
+<p>Outro fator importante é o caráter socioeconômico da doença. No Brasil a leptospirose tem uma incidência média de 1,9 casos por 100 mil habitantes. Porém esse índice aumenta muito em caso de vulnerabilidade social.</p>
+<p>Um&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10329394/" target="_blank" rel="noopener noreferrer">trabalho de 2023</a>&nbsp;demonstrou que a incidência média foi de 4 casos por 100 mil habitantes em áreas de vulnerabilidade social em algumas regiões do RS. Essas áreas têm acesso precário a bens e serviços básicos, como saúde e informação, e as pessoas que vivem nelas são mais expostas a doenças.</p>
+<p>Para diminuir os casos de leptospirose no país, seria preciso fomentar uma série de políticas públicas voltadas a fortalecer serviços públicos, além de medidas sanitárias e educativas.</p>
+<p>Entre elas, está a melhoria nas condições de saneamento básico (redes de esgoto, coleta e destinação de lixo doméstico) e intensificação nas campanhas de informação sobre a doença, abordando prevenção, sintomas e riscos.</p>
+<p>Existem também outros cuidados que podem ser tomados pela população em enchentes, tais como evitar ao máximo o contato com água ou lama e consumir água potável, filtrada, fervida ou clorada.</p>
+<p>Após a inundação, é preciso desinfectar locais atingidos pela água com solução de hipoclorito de sódio a 2,5%. Por fim, e bastante importante, é preciso sempre usar botas e luvas de borracha nesses processos. Caso não tenha, se pode improvisar com sacos plásticos duplos amarrados nas mãos e nos pés.</p>
+<p>Prevenir a leptospirose não é simples, pois ela está ligada à fragilidades socioeconômicas comuns a diversas regiões do país. Diante dessa ‘invisibilidade’, as autoridades de saúde pública e a população precisam se manter alerta não só em situações de enchentes.</p>
+<p>&nbsp;</p>
+<p>(*)&nbsp;<strong>Alexandre Alberto Tonin</strong>&nbsp;<em>é professor da Universidade Federal de Santa Maria (UFSM) e pesquisa temas de medicina veterinária preventiva, com foco em leptospirose</em></p>            <br>
+          
+            
+                                    
+            <div class="col-md-12 comentarios">
+              <h4 class="titulo-azul"><strong>COMENTÁRIOS</strong></h4>
+              <div class="fb-comments" data-href="http://batatais24h.com.br/noticia/2692/opiniao-leptospirose-e-comum-em-periferias-e-exige-politicas-publicas-de-saneamento-e-saude" data-numposts="5" data-mobile="1"></div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 outdoor-dinamico">
+                <div class="row carousel-outdoorsDinamicos">
+	<center>
+		<div class="container-fluid">
+			<div class="row">
+			    <div id="carousel-outdoorsDinamicos" class="carousel slide" data-ride="carousel">
+			      	<div class="carousel-inner" role="listbox">
+			        
+			        				<div class="item active">
+			        					<a href="https://batatais24h.com.br/fale-conosco/" target="_blank">
+	                          				<img data-id="10" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/de38d45e058ea801032df7d40c31e767.png">
+	                          			</a>
+	                        		</div>
+
+	                	                				<div class="item">
+	                					<a href="http://difusorabatatais.com.br/" target="_blank">
+	                          				<img data-id="8" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/dda025563c663da59f65e5c6e029dca8.jpg">
+	                          			</a>
+	                        		</div>
+	                	                				<div class="item">
+	                					<a href="https://www.difusorabatatais.com.br/" target="_blank">
+	                          				<img data-id="12" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/1083d01d50aa49cc5cd24e75f73a406e.jpg">
+	                          			</a>
+	                        		</div>
+	                	                				<div class="item">
+	                					<a href="https://www.batatais.sp.gov.br/noticias/batatais-e-premiada-no-forum-de-experiencias-exitosas-do-estado-de-sao-paulo" target="_blank">
+	                          				<img data-id="14" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/383a4d51a6e0cc5624ab069935fbf106.jpg">
+	                          			</a>
+	                        		</div>
+	                	                				<div class="item">
+	                					<a href="https://www.instagram.com/iomm_digital/" target="_blank">
+	                          				<img data-id="13" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/e0d74a43f78b2f6239dcb4dac28aacf4.jpg">
+	                          			</a>
+	                        		</div>
+	                	                				<div class="item">
+	                					<a href="https://difusoraam.com.br/" target="_blank">
+	                          				<img data-id="5" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/94dcc5a40604782f801f6210d165ad32.jpg">
+	                          			</a>
+	                        		</div>
+	                			        </div>
+			    </div>
+			</div>
+		</div>
+	</center>
+</div>              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="row">
+	<div class="col-md-12 mais-lidas">
+		<center>
+			<h3><strong>Mais Lidas no mês</strong></h3>
+			<hr>
+		</center>
+						<div class="col-md-12 conteudo">
+					<center>
+						<h4 class="mais-lidas-box-destaque" style="background-color: #0091c7">
+							Turismo e Eventos						</h4>
+						<img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/79e7f86d7aa980de282a26163683143e.jpeg">
+					</center>
+					<a href="https://batatais24h.com.br/noticia/3075/veja-a-programacao-do-batatais-folia-2025-o-principal-carnaval-da-regiao">
+						<h4 class="text-justify">Veja a programação do Batatais Folia 2025, o principal Carnaval da região</h4>
+					</a>
+					<p class="text-justify">Primeiro evento oficial será a escolha da Corte de Momo, já no mês de janeiro</p>
+					<center>
+						<div class="share"></div>
+					</center>
+				</div>
+						<div class="col-md-12 conteudo">
+					<center>
+						<h4 class="mais-lidas-box-destaque" style="background-color: #f3c108">
+							Economia						</h4>
+						<img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/b5b5c7bd97d37019a7aa2c06d9be045a.jpg">
+					</center>
+					<a href="https://batatais24h.com.br/noticia/3014/cientistas-mapeiam-microbioma-de-usinas-em-busca-de-maior-eficiencia-na-producao-de-etanol">
+						<h4 class="text-justify">Cientistas mapeiam microbioma de usinas em busca de maior eficiência na produção de etanol</h4>
+					</a>
+					<p class="text-justify">Ao identificar em nível de cepa todos os microrganismos presentes no processo de fermentação da cana, estudo abre caminho para soluções capazes de aumentar lucros e reduzir emissões de CO2</p>
+					<center>
+						<div class="share"></div>
+					</center>
+				</div>
+						<div class="col-md-12 conteudo">
+					<center>
+						<h4 class="mais-lidas-box-destaque" style="background-color: #b5b5b6">
+							Região						</h4>
+						<img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/86a169823bcee52ff0b004c6a90e414c.jpg">
+					</center>
+					<a href="https://batatais24h.com.br/noticia/3074/batida-frontal-entre-dois-carros-deixa-4-pessoas-feridas">
+						<h4 class="text-justify">Batida frontal entre dois carros deixa 4 pessoas feridas</h4>
+					</a>
+					<p class="text-justify">Acidente envolvendo dois carros de passeio aconteceu na vicinal Brodowski-Jardinópolis no último dia de 2024</p>
+					<center>
+						<div class="share"></div>
+					</center>
+				</div>
+						<div class="col-md-12 conteudo">
+					<center>
+						<h4 class="mais-lidas-box-destaque" style="background-color: #00628e">
+							Batatais						</h4>
+						<img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/b634ab1246444d6ffefe9b4d428f6627.jpg">
+					</center>
+					<a href="https://batatais24h.com.br/noticia/3016/confira-5-dicas-para-comprar-um-carro-seminovo-em-2025">
+						<h4 class="text-justify">Confira 5 dicas para comprar um carro seminovo em 2025</h4>
+					</a>
+					<p class="text-justify">Diante de preços altos para veículos zero quilômetro, especialista destaca pontos de atenção para comprar um usado com segurança</p>
+					<center>
+						<div class="share"></div>
+					</center>
+				</div>
+			</div>
+</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row categoria-linha">
+        <center>
+          <h4 class="noticias-categoria-destaque" style="background-color: #191970">
+            Mais sobre Opinião          </h4>
+        </center>
+        <div class="col-md-12 mais-categoria">
+              <div class="col-md-3 mais-categoria-box conteudo">
+      <center>
+        <h4 class="mais-categoria-box-destaque" style="background-color: #191970">
+          Opinião        </h4>
+        <img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/91859db479f109aba3b321816c621688.jpg">
+      </center>
+      <a href="https://batatais24h.com.br/noticia/3023/opiniao-inteligencia-artificial-o-fim-do-trabalho-ou-o-inicio-de-novas-oportunidades">
+        <h4 class="text-justify">Opinião - Inteligência Artificial: O fim do trabalho ou o início de novas oportunidades?</h4>
+      </a>
+      <p class="text-justify">Publicitário relata em artigo os receios da tecnologia e em quais situações elas impactam em nosso dia a dia</p>
+      <center>
+        <div class="share"></div>
+      </center>
+    </div>
+    <div class="col-md-3 mais-categoria-box conteudo">
+      <center>
+        <h4 class="mais-categoria-box-destaque" style="background-color: #191970">
+          Opinião        </h4>
+        <img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/7e6184b3f4be8e2a13fa9adbf250f4d4.jpeg">
+      </center>
+      <a href="https://batatais24h.com.br/noticia/3063/opiniao-o-tribunal-de-contas-e-a-sustacao-cautelar-de-pagamentos">
+        <h4 class="text-justify">Opinião: O Tribunal de Contas e a sustação cautelar de pagamentos</h4>
+      </a>
+      <p class="text-justify">Leia novo artigo do conselheiro do Tribunal de Contas do Estado Dimas Ramalho</p>
+      <center>
+        <div class="share"></div>
+      </center>
+    </div>
+    <div class="col-md-3 mais-categoria-box conteudo">
+      <center>
+        <h4 class="mais-categoria-box-destaque" style="background-color: #191970">
+          Opinião        </h4>
+        <img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/3ded8a0bc04ceb3d39ff8748cdbe9f3f.jpeg">
+      </center>
+      <a href="https://batatais24h.com.br/noticia/2997/opiniao-regular-ainda-mais-as-bets">
+        <h4 class="text-justify">Opinião: Regular (ainda mais) as bets</h4>
+      </a>
+      <p class="text-justify">Leia novo artigo do conselheiro do Tribunal de Contas do Estado Dimas Ramalho</p>
+      <center>
+        <div class="share"></div>
+      </center>
+    </div>
+    <div class="col-md-3 mais-categoria-box conteudo">
+      <center>
+        <h4 class="mais-categoria-box-destaque" style="background-color: #191970">
+          Opinião        </h4>
+        <img class="img-responsive img-thumbnail" src="https://batatais24h.com.br/uploads/noticias/b11367f25c32b99ce6a1d10d521b1919.jpeg">
+      </center>
+      <a href="https://batatais24h.com.br/noticia/2980/opiniao-valorizar-o-agro-e-valorizar-o-brasil">
+        <h4 class="text-justify">Opinião: Valorizar o Agro é valorizar o Brasil</h4>
+      </a>
+      <p class="text-justify">Leia artigo do empresário Maurílio Biagi Filho, presidente do Conselho de Administração da Maubisa</p>
+      <center>
+        <div class="share"></div>
+      </center>
+    </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <div class="col-md-6 col-xs-12 col-sm-12">
+            <div class="row carousel-bannersDinamicos">
+	<center>
+		<div class="container-fluid">
+			<div class="row">
+			    <div id="carousel-bannersDinamicos" class="carousel slide" data-ride="carousel">
+			      	<div class="carousel-inner" role="listbox">
+			        
+			        				<div class="item active">
+			        					<a href="https://www.difusoraam.com.br/DifusoraAoVivo/radio64.htm" target="_blank">
+	                          				<img data-id="3" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/5a08a1c562945c6625821daaf38825b9.jpg">
+	                          			</a>
+	                        		</div>
+
+	                	                				<div class="item">
+	                					<a href="https://www.estantevirtual.com.br/batataislivros" target="_blank">
+	                          				<img data-id="9" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/bbc8e74c5ed6e819eadd7b3f97e6cdb5.jpg">
+	                          			</a>
+	                        		</div>
+	                	                				<div class="item">
+	                					<a href="https://wa.me/message/AR27GM5LC5KQN1" target="_blank">
+	                          				<img data-id="11" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/66817735165cb7986a01a8c23d75b3c8.jpg">
+	                          			</a>
+	                        		</div>
+	                			        </div>
+			    </div>
+			</div>
+		</div>
+	</center>
+</div>          </div>
+          <div class="col-md-6 hidden-xs hidden-sm">
+            <div class="row carousel-bannersDinamicos">
+	<center>
+		<div class="container-fluid">
+			<div class="row">
+			    <div id="carousel-bannersDinamicos" class="carousel slide" data-ride="carousel">
+			      	<div class="carousel-inner" role="listbox">
+			        
+			        				<div class="item active">
+			        					<a href="https://www.difusoraam.com.br/DifusoraAoVivo/radio64.htm" target="_blank">
+	                          				<img data-id="3" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/5a08a1c562945c6625821daaf38825b9.jpg">
+	                          			</a>
+	                        		</div>
+
+	                	                				<div class="item">
+	                					<a href="https://www.estantevirtual.com.br/batataislivros" target="_blank">
+	                          				<img data-id="9" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/bbc8e74c5ed6e819eadd7b3f97e6cdb5.jpg">
+	                          			</a>
+	                        		</div>
+	                	                				<div class="item">
+	                					<a href="https://wa.me/message/AR27GM5LC5KQN1" target="_blank">
+	                          				<img data-id="11" class="img-responsive propaganda" src="https://batatais24h.com.br/uploads/propagandas/66817735165cb7986a01a8c23d75b3c8.jpg">
+	                          			</a>
+	                        		</div>
+	                			        </div>
+			    </div>
+			</div>
+		</div>
+	</center>
+</div>          </div>
+        </div>
+      </div>
+
+      <div id="blueimp-gallery" class="blueimp-gallery">
+  <div class="slides"></div>
+  <h3 class="title"></h3>
+  <a class="prev">‹</a>
+  <a class="next">›</a>
+  <a class="close">×</a>
+  <a class="play-pause"></a>
+  <ol class="indicator"></ol>
+    <div class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" aria-hidden="true">×</button>
+            <p class="modal-title"></p>
+          </div>
+          <div class="modal-body next"></div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default pull-left prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              Anterior
+            </button>
+            <button type="button" class="btn btn-primary next">
+              Próxima
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+      <div class="row rodape">
+	<div class="col-md-12">
+		<center>
+			<img class="img-responsive" src="https://batatais24h.com.br/imgs/logo-rodape.png">
+		</center>
+		<br>
+		<hr>
+		<br>
+		<div class="col-md-5 rodape-divisoria">
+			<p><a href="https://batatais24h.com.br/sobre/">Sobre o Batatais 24h</a></p>
+			<p><a href="https://batatais24h.com.br/direito-autoral/">Direito Autoral</a></p>
+			<p><a href="https://batatais24h.com.br/fale-conosco/">Fale Conosco</a></p>
+			<p><a href="mailto:redacao@batatais24h.com.br">Redação</a></p>
+			<p><a href="mailto:publicidade@batatais24h.com.br">Publicidade</a></p>
+			<br>
+			<p><img src="https://batatais24h.com.br/imgs/whatsapp.png">&nbsp;&nbsp;(16) 99154-4411</p>
+		</div>
+		<div class="col-md-3 rodape-divisoria">
+			<p><strong>Todas as Seções:</strong></p>
+			<br>
+									<a href="https://batatais24h.com.br/categoria/1/batatais">
+                        	<p>Batatais</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/8/cultura-e-comportamento">
+                        	<p>Cultura e Comportamento</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/3/economia">
+                        	<p>Economia</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/11/gente">
+                        	<p>Gente</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/12/informe-publicitario">
+                        	<p>Informe Publicitário</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/15/nacional">
+                        	<p>Nacional</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/7/opiniao">
+                        	<p>Opinião</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/5/regiao">
+                        	<p>Região</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/13/saude">
+                        	<p>Saúde</p>
+                     	</a>
+									<a href="https://batatais24h.com.br/categoria/4/turismo-e-eventos">
+                        	<p>Turismo e Eventos</p>
+                     	</a>
+					</div>
+		<div class="col-md-4">
+			<center>
+				<p><strong>Batatais 24h nas redes:</strong></p>
+				<br>
+				<div class="fb-page" data-href="https://www.facebook.com/batatais24h" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/batatais24h" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/batatais24h">Batatais 24h</a></blockquote></div>
+			</center>
+		</div>
+	</div>
+	<div class="col-md-12">
+		<br>
+		<hr>
+		<center>
+			<p>Copyright © 2025 - BATATAIS 24h | Todos os direitos reservados.</p>
+			<br>
+			<p>É proibida a reprodução, total ou parcial, do conteúdo em qualquer meio de comunicação sem prévia autorização.</p>
+			<hr>
+			<br>
+			<a href="https://bytelivre.net" target="_blank">
+				<img class="img-responsive" src="https://batatais24h.com.br/imgs/bytelivre/bytelivre-white.png" alt="Byte Livre">
+			</a>
+		</center>
+	</div>
+</div>    
+    </div>
+
+    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+      <div class="slides"></div>
+      <h3 class="title"></h3>
+      <p class="description"></p>
+      <a class="prev">‹</a>
+      <a class="next">›</a>
+      <a class="close">×</a>
+      <a class="play-pause"></a>
+      <ol class="indicator"></ol>
+    </div>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://batatais24h.com.br/js/bootstrap.min.js"></script>
+<script src="https://batatais24h.com.br/js/jquery.webticker.min.js"></script>
+<script src="https://batatais24h.com.br/js/jquery.matchHeight.js"></script>
+<script src="https://batatais24h.com.br/js/jssocials.min.js"></script>
+<script src="https://batatais24h.com.br/js/jssocials-config.js"></script>
+<script src="https://batatais24h.com.br/js/webticker-config.js"></script>
+<script src="https://batatais24h.com.br/js/matcheight-config.js"></script>
+<script src="https://batatais24h.com.br/js/navbar.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('.propaganda').click(function(e) {
+			var id_propaganda = $(this).attr('data-id');
+			$.post("https://batatais24h.com.br/include/ajax/click.php", { 
+				id_propaganda: id_propaganda
+			},
+			function(data){})
+		});
+	});
+</script>    <script src="https://batatais24h.com.br/js/clipboard.min.js"></script>
+    <script src="https://batatais24h.com.br/js/cp.js"></script>
+    <script src="https://batatais24h.com.br/js/blueimp-gallery.min.js"></script>
+    <script src="https://batatais24h.com.br/js/blueimp-gallery-fullscreen.js"></script>
+    <script src="https://batatais24h.com.br/js/blueimp-gallery-indicator.js"></script>
+    <script src="https://batatais24h.com.br/js/blueimp-gallery-video.js"></script>
+    <script src="https://batatais24h.com.br/js/blueimp-gallery-youtube.js"></script>
+    <script src="https://batatais24h.com.br/js/blueimp-gallery-vimeo.js"></script>
+    <script src="https://batatais24h.com.br/js/jquery.blueimp-gallery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.carousel').carousel({
+                pause: true,
+                interval: false
+            });
+        });
+    </script>
+
+  
+</body></html>

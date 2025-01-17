@@ -1,0 +1,1058 @@
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="title" content="Brasil é o país mais sedentário da América Latina">
+
+    <meta name="Description" content="Brasil é o país mais sedentário da América Latina - ">
+    <meta name="img" content="https://www.jornalevolucao.com.br/admin/img/fotos/167820127134unnamed-74-jpg_t.jpg">
+
+                <meta property="og:title" content="Brasil é o país mais sedentário da América Latina">
+            <meta property="og:description" content="Brasil é o país mais sedentário da América Latina - ">
+            <meta property="og:image" content="https://www.jornalevolucao.com.br/admin/img/fotos/167820127134unnamed-74-jpg_t.jpg">
+            <meta property="og:image:type" content="image/jpg">
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https://www.jornalevolucao.com.br/textos/63110/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+            <meta property="og:image:width" content="640">
+            <meta property="og:image:height" content="480">
+            <meta property="fb:app_id" content="1587342288153204">
+            <meta property="og:locale" content="pt_BR">
+                <meta name="language" content="pt-br">
+    <meta name="Robots" content="Index, Follow">
+    <meta name="revisit-after" content="1 Day">
+    <meta name="rating" content="General">
+    
+    <meta name="author" content="Jornal Evolução">
+    <meta name="copyright" content="">
+    <meta name="Publisher" content="Samuca Webdesign">
+
+	<title>Brasil é o país mais sedentário da América Latina</title>
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/animate.min.css">
+    <link rel="stylesheet" href="/css/jquery-ui.css">
+    <link rel="stylesheet" href="/css/jquery.Jcrop.min.css" type="text/css">
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery-ui.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.zoom.min.js"></script>
+    <script src="/js/jquery.countdown.min.js"></script>
+	<script src="/js/funcoes.js?1619729102"></script>
+
+    <link rel="stylesheet" type="text/css" href="/shadowbox_js/shadowbox.css">
+    <script type="text/javascript" src="/shadowbox_js/shadowbox.js"></script>
+    <script type="text/javascript">
+    
+    Shadowbox.init({
+        language: 'pt',
+        players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv'],
+        //handleOversize: "drag",
+        //modal: false
+    
+    });
+    
+    </script>
+
+  	<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-MSHDCL71PZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MSHDCL71PZ');
+</script>
+
+      <!-- responsivo -->
+		<script type="text/javascript">
+		$(window).load(function() {
+			// Slideshow 4
+		  $("#slider4").responsiveSlides({
+			auto: true,
+			pager: true,
+			nav: true,
+			speed: 500,
+			namespace: "callbacks",
+			before: function () {
+			  //$('.slide-legenda').append("<li>before event fired.</li>");
+			},
+			after: function () {
+			  //$('.events').append("<li>after event fired.</li>");
+			}
+		  });
+			});
+		  </script>
+        <script type="text/javascript">
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='//rec.getsmartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', '13563c7f0eb35dd42ce85ded7e8f110617cbd8f3');
+</script>
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-5479977639219455",
+          enable_page_level_ads: true
+     });
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3889444-50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3889444-50');
+</script>
+
+<script src="https://api.nobeta.com.br/nobetaads&amp;id=jornalevolucao.inter"></script>    
+    <script>
+    $(function() {
+        $( ".calendario" ).datepicker(
+        {
+            dateFormat: 'dd/mm/yy',
+            //showOn: "button",
+            //buttonImage: 'imagens/ico-calendario.png',
+            showButtonPanel:true,
+            changeMonth: true,
+            changeYear: true,
+            dayNames: ['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado','Domingo'],
+            dayNamesMin: ['Dom','Seg','Ter','Qua','Qui','Sex','Sab','Dom'],
+            dayNamesShort: ['Dom','Seg','Ter','Qua','Qui','Sex','Sab','Dom'],
+            monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
+            monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
+            currentText: "Hoje",
+            closeText: "Fechar",
+            yearRange: "-100:+0"
+            //numberOfMonths: 3
+        }
+        );
+    });
+    </script>
+  </head>
+  <body class="fundoContainer">
+  	<div id="divPublicidadeReport"></div>
+					<!-- Modal -->
+				<div class="modal" id="modalQuestion" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+				  <div class="modal-dialog" role="document">
+					<div class="modal-content">
+					  <div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+						<h4 class="modal-title" id="myModalLabel"></h4>
+					  </div>
+					  <div class="modal-body">
+						<div class="text-center">
+							<button id="butQuestion" type="button" class="btn btn-success"><span class="glyphicon glyphicon-ok"></span> Ok</button>
+					        <button id="butCancelar" type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close">Cancelar</button>
+						</div>
+					  </div>
+					</div>
+				  </div>
+				</div>
+                    
+    <div id="divFundo" class="fundo12 cor4">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6"><h5 class="fonte16 cor4">Jornal Evolução Notícias de Santa Catarina</h5></div>
+                <div class="col-sm-6 text-right " data-id="rubberBand">
+                    <h5 class="fonte16">
+                        <a href="https://www.facebook.com/jornalevolucaosbs/" target="_blank"><img src="/imagens/ico-face.png" height="20" alt="Facebook Jornal Evolução"></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                <a href="/contato"><font class="cor4"><span class="glyphicon glyphicon-earphone"></span> (47) 99660-9995</font></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a id="whatsapp" href="#"><img src="/imagens/ico-whatsapp.png" height="20" alt="Whatsapp Jornal Evolução"><font class="cor4"> (47) 99660-9995</font></a>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contato"><font class="cor4"><span class="glyphicon glyphicon-envelope cor4"></span> E-mail</font></a>
+                    </h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fundo3">
+        <div class="container">
+            <div class="row">
+                    <div class="col-sm-3">
+                        <br>
+                        <a href="/inicial"><img id="logo" class="img-responsive " data-id="fadeIn fadeInLeft" src="/imagens/logo.png" border="0"></a>
+                        <br>
+                    </div>
+                    <div class="col-sm-9 text-center z-index1">
+                        <br>
+                        <br>
+                        <nav class="navbar  navbar-fixo" data-id="fadeIn fadeInRight menuMobile">
+                            <div id="teste" class="container-fluid">
+                                <div class="navbar-header">
+                                  <button type="button" class="navbar-toggle collapsed borda1" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar borda1"></span>
+                                    <span class="icon-bar borda1"></span>
+                                    <span class="icon-bar borda1"></span>
+                                  </button>
+                                </div>
+                                <div id="navbar" class="navbar-collapse collapse ">
+                                <ul class="nav navbar-nav navbar-right">
+                                                                                        <li class="childMenu ">
+                                                        <a href="/inicial">Inicial</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu"><a href="/textos/496/parceiros/0">Parceiros</a></li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/ultimas-noticias">Notícias</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/colunistas">Colunistas</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu"><a href="/textos/495/sobre-nos/0">Sobre nós</a></li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="/contato">Contato</a>
+                                                                                                            </li>
+                                                                                                        <li class="childMenu ">
+                                                        <a href="javascript:void($('#divBusca').fadeToggle());void($('#key').focus());"><i class="glyphicon glyphicon-search"></i></a>
+                                                                                                            </li>
+                                                                                    </ul>
+                                </div>
+                            </div>
+                        </nav>
+
+                        <div id="divBusca" class="none">
+                            <br>
+                            <form class="form-group" name="form_busca" method="post" action="/busca">
+                                <div class="row">
+                                    <div class="col-sm-6"></div>
+                                    <div class="col-sm-6">
+                                        <div class="input-group">
+                                            <input class="form-control" name="key" type="text" id="key" size="40" maxlength="100" placeholder="Pesquisar" value="">
+                                            <span class="input-group-btn">
+                                                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+
+                        </div>
+                </div>
+        </div>
+    </div>
+
+    
+                <div class="fundo5 alturaMinima2"></div>
+            <div class="container">
+	<div class="row">
+				<div class="col-sm-9">
+			
+			    	                        <h1>Brasil é o país mais sedentário da América Latina</h1>
+                                                                                <h5>
+                                Terça, 07 de março de 2023                                </h5>
+                                <br>
+                                                        <div class="row">
+                            <div class="col-sm-12 text-justify">
+                            <div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table style="height: 10px; width: 100%;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 10px;">
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; height: 10px; border: initial none initial;"><span style="color: #ff0000; font-weight: bold;">
+						<div id="myCarousel63110" class="carousel slide" data-ride="carousel">
+						  <!-- Indicadores dos slides -->
+						  <ol class="carousel-indicators">
+						  
+									<li data-target="#myCarousel63110" data-slide-to="0" class="active"></li>
+									
+									<li data-target="#myCarousel63110" data-slide-to="1"></li>
+									
+						  </ol>
+						
+						  <!-- Conteúdo do slide -->
+						  <div class="carousel-inner">
+						  
+									<div class="item active">
+										
+												<a href="/admin/img/fotos/167820127023unnamed-75-jpg_t.jpg" rel="shadowbox[vocation]" title="">
+												
+									  <img id="img/fotos/167820127023unnamed-75-jpg_t.jpg" src="/admin/img/fotos/167820127023unnamed-75-jpg_t.jpg" alt="">
+									  
+												</a>
+												
+									</div>
+									
+									<div class="item ">
+										
+												<a href="/admin/img/fotos/167820127134unnamed-74-jpg_t.jpg" rel="shadowbox[vocation]" title="">
+												
+									  <img id="img/fotos/167820127134unnamed-74-jpg_t.jpg" src="/admin/img/fotos/167820127134unnamed-74-jpg_t.jpg" alt="">
+									  
+												</a>
+												
+									</div>
+									
+						  </div>
+						
+							    
+								  <!-- Controles slide -->
+								  <a class="left carousel-control" href="#myCarousel63110" data-slide="prev">
+									<span class="glyphicon glyphicon-chevron-left"></span>
+									<span class="sr-only">Anterior</span>
+								  </a>
+								  <a class="right carousel-control" href="#myCarousel63110" data-slide="next">
+									<span class="glyphicon glyphicon-chevron-right"></span>
+									<span class="sr-only">Próximo</span>
+								  </a>
+								
+							</div>
+							</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 10px 25px; word-break: break-word;" align="left">
+<div style="font-size: 16px; line-height: 30px; color: #000000;">
+<p style="margin: 0px; text-align: center;"><em>Pesquisa mostra que as horas semanais dedicadas à atividade física no Brasil estão bem abaixo da média mundial e 30% da população não faz exercício algum</em></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 10px 25px; word-break: break-word;" align="left">
+<div style="font-size: 16px; line-height: 30px; color: #000000;">
+<p style="margin: 0px; text-align: justify;">Dia 10 de março é o Dia Mundial de Combate ao Sedentarismo e o Brasil tem um longo caminho a percorrer. De acordo com a Organização Mundial da Saúde, o país tem os índices de sedentarismo mais altos da América Latina. Outra pesquisa do Instituto Ipsos completa: 30% das pessoas não fazem qualquer tipo de exercício e quem faz, faz pouco.</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;">A média de horas semanais dedicadas à atividade física no mundo é de 6,1 horas. No Brasil, não passa de 3 horas semanais. A justificativa é a falta de tempo e de dinheiro. O reflexo é visível. O número de brasileiros obesos aumentou 72% nos últimos 13 anos.</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;">No universo infantil, as projeções também preocupam. O relatório World Obesity Atlas 2022 revela que, até 2030, 7,7 milhões de crianças brasileiras serão obesas. As causas são multifatoriais, incluindo o sedentarismo.</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;">Especialista em Psicomotricidade, o fisioterapeuta Cristoph Enns diz que a atividade física é essencial desde a infância. “Antes mesmo de completar um ano a criança já deve receber estímulos para o seu desenvolvimento motor, equilíbrio e movimento. As habilidades físicas estão intimamente relacionadas a essa estimulação.”</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;">O que as crianças e adolescentes não podem, porém, é fazer treinos pesados. “Mais do que desenvolver habilidades de atleta, as crianças precisam de atividades prazerosas e lúdicas. Até a adolescência, nada de treinos intensos, repetições excessivas de movimentos, muita carga nas articulações, joelho e coluna. Isso é desaconselhável durante a fase de crescimento, mas o hábito de se movimentar, este sim deve ser estimulado desde cedo”, ensina Cristoph.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 0px; word-break: break-word;" align="center">
+<table style="border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; width: 584px;"><img class="CToWUd a6T" style="cursor: pointer; outline: none; border: none; height: auto; line-height: 13px; border-radius: 0px; display: block; width: 584px; font-size: 13px;" tabindex="0" title="" src="https://ci3.googleusercontent.com/proxy/Bq2ZoO3-MM3SprDhYNjtxG3WZFq_vz0I7DPkhlyC9cglYpEjpBgYd6fgC1dgJBceny2pDcjNaF5eihN32V7TfdOGI2T1rKOPgOBO027TxjfI4SeIxRiAzyvDhAL65dk26CnEHJu771fvdztX39dsJJa-2KfUct5ItYH6vyWMQ_1VMdurpbONg_WQnX8jQm5cM9FfL1I=s0-d-e1-ft#https://cseprs3.s3.amazonaws.com/email-editor-files/a39b0f2c-83f6-45f6-820d-08d98f0ff8e9/02455f98-50fb-41c8-80b0-6975da4b959b.jpg" alt="" width="584" height="auto" data-bit="iit"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 0px; word-break: break-word;" align="center">
+<table style="border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; width: 584px;"><img class="CToWUd a6T" style="cursor: pointer; outline: none; border: none; height: auto; line-height: 13px; border-radius: 0px; display: block; width: 584px; font-size: 13px;" tabindex="0" title="" src="https://ci5.googleusercontent.com/proxy/_jfVWYcAJ7pf8jFTHvVHyta5bohEaGrdgiEJ3XhWzIJcRs4VmYam9NVAEAzdiNYp7LS95i7G1-Zm0aYW4dOiAT8EccpewIuQNyEcoQsSGXIo-X0q6tbei0nd6BcPe1WRH07qUqJpsCD8_3A8o1nkmSp5EQb3_r9Dabv12tF8N1ua57VNd8XqWmU_2wjXXz6Czhn41h0=s0-d-e1-ft#https://cseprs3.s3.amazonaws.com/email-editor-files/a39b0f2c-83f6-45f6-820d-08d98f0ff8e9/a35f5583-e682-44b7-b1b6-d5f3dbad76a0.jpg" alt="" width="584" height="auto" data-bit="iit"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 0px; word-break: break-word;" align="center">
+<table style="border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; width: 584px;"><img class="CToWUd a6T" style="cursor: pointer; outline: none; border: none; height: auto; line-height: 13px; border-radius: 0px; display: block; width: 584px; font-size: 13px;" tabindex="0" title="" src="https://ci4.googleusercontent.com/proxy/YfTxy_MqNwZuJmBYAegC-P5DaBwRUXpM2E1ycwjBHlgPO_eT9RKDlKHF2MBXnDbap88pvGXW7WNri_16Myod8-tqmUQn_Zs_xFI3aZzfkfBh6On4VOEGxMimi48NeI4LY-HxbjtSlMFc-oNMNSv4cSXu9rCuL9mO_XzCuY3vDVTXvkC7D_yl6Kky8CY0H9I0RDIVu74=s0-d-e1-ft#https://cseprs3.s3.amazonaws.com/email-editor-files/a39b0f2c-83f6-45f6-820d-08d98f0ff8e9/4834dc61-d67a-4e9d-971e-48bb9f05f035.jpg" alt="" width="584" height="auto" data-bit="iit"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 0px; word-break: break-word;" align="center">
+<table style="border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; width: 584px;"><img class="CToWUd a6T" style="cursor: pointer; outline: none; border: none; height: auto; line-height: 13px; border-radius: 0px; display: block; width: 584px; font-size: 13px;" tabindex="0" title="" src="https://ci3.googleusercontent.com/proxy/6vBWX1tt7c1tFCsvFHIJKp_dA6v4NbKBCpYINAvc226jI5uG_OmpKVe4sma2zchzI44qufdyC-vRxRayM5f1CeTKEk9nZ9l2wRFo4zI--dekE5jjHGtSwRyCfMqy8gqQ-QCsYrYMwwbYw8TaEt4EnRDH4qf9gyQInUx3jDPQo7XUfnxdTiy2DuTE6-M9h-9tsAvFz-A=s0-d-e1-ft#https://cseprs3.s3.amazonaws.com/email-editor-files/a39b0f2c-83f6-45f6-820d-08d98f0ff8e9/23d66de9-318a-47d9-b904-08948104d0d9.jpg" alt="" width="584" height="auto" data-bit="iit"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 0px; word-break: break-word;" align="center">
+<table style="border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; width: 584px;"><img class="CToWUd a6T" style="cursor: pointer; outline: none; border: none; height: auto; line-height: 13px; border-radius: 0px; display: block; width: 584px; font-size: 13px;" tabindex="0" title="" src="https://ci3.googleusercontent.com/proxy/iCBCHoWfJRrCHHSFCLxoilYHsPOBNKyv12Lq9U9CRuUCAp8cMCpxioweO9way3hdC7-cquUokuxu92hzLxg3wemBzJJ5RdHL5j3ynjtlqFqi9H0apVUNycH99K28Fsp_FnMmdmLrBu5FJVhVCVL5zhupUYj0RFRHaqck-E-lc8Ro3dFHR4iF4hqqk1-pTKspcouQPuc=s0-d-e1-ft#https://cseprs3.s3.amazonaws.com/email-editor-files/a39b0f2c-83f6-45f6-820d-08d98f0ff8e9/109c21a2-0f32-4973-a1f1-89a476c406f4.jpg" alt="" width="584" height="auto" data-bit="iit"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div style="color: #222222; font-family: Arial, Helvetica, sans-serif; font-size: small; background: #ffffff; border: none; margin: 0px auto; border-radius: 0px; max-width: 600px;">
+<div style="line-height: 0; font-size: 0px;">
+<table style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; width: 600px; border-radius: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; direction: ltr; padding: 4px; text-align: center;">
+<div class="m_-2615229332087726054mj-column-per-100" style="max-width: 100%; width: 592px; text-align: left; direction: ltr; display: inline-block; vertical-align: top;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; background-color: transparent; border-radius: 0px; vertical-align: top; padding: 4px; border: initial none initial;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="margin: 0px; border-collapse: collapse; padding: 10px 25px; word-break: break-word;" align="left">
+<div style="font-size: 16px; line-height: 30px; color: #000000;">
+<p style="margin: 0px; text-align: justify;"><strong>Exercício sim, exagero não</strong></p>
+<p style="margin: 0px; text-align: justify;">Segundo o professor do curso de Fisioterapia do UniCuritiba – instituição que faz parte da Ânima Educação – o maior risco da prática precoce de exercícios pesados (como os realizados na musculação, por exemplo) são as lesões em músculos e articulações. “A fase de crescimento ósseo termina entre os 15 e 17 anos para as meninas e vai até uns 18 anos em meninos. O excesso de carga e de força nas atividades físicas antes disso atrapalha o crescimento.”</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;">Para evitar que crianças e adolescentes se tornem sedentários, o fisioterapeuta recomenda atividades divertidas ou práticas esportivas que desenvolvam a coordenação motora, o equilíbrio e outras habilidades como salto ou escalada. A dança é sempre uma ótima opção porque trabalha o ritmo e a lateralidade. “Se a criança tiver uma necessidade maior de gasto de energia, a dica é escolher uma modalidade de dança mais intensa, com maior queima de calorias.”</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;"><strong>Pais devem dar o exemplo</strong></p>
+<p style="margin: 0px; text-align: justify;">Pais ativos são modelos positivos para as crianças. Além de incentivar a participação dos filhos em atividades físicas, é importante que a família estimule passeios ao ar livre, idas ao parque e brincadeiras feitas em casa. Limitar os comportamentos sedentários, como o tempo gasto em frente às telas, ajuda a combater o sedentarismo.</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;">Mestre em Ciências da Educação pela Université de Sherbrooke, no Canadá, a psicóloga e psicopedagoga Daniela Jungles diz que parte da solução para que os filhos se exercitem mais é perguntar quais atividades ou esportes eles apreciam.&nbsp;<strong>“</strong>Saber o que a criança gosta ou tem vontade de fazer é um bom começo para movimentar os pequenos. A escola também tem um papel fundamental no estímulo à cultura de práticas regulares de atividade física.”</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;"><strong>Comportamento saudável</strong></p>
+<p style="margin: 0px; text-align: justify;">Na avaliação da coordenadora da Clínica Escola de Psicologia do UniCuritiba, a prática regular de atividades físicas tem uma série de benefícios. “Uma vida ativa é fator de proteção em vários aspectos. Permite limitar ou canalizar a agressividade, ajuda a superar a ansiedade e contribui para o desenvolvimento social ao oferecer oportunidades de autoexpressão e melhorar a confiança, a autoestima e a interação social”, explica Daniela.</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;</p>
+<p style="margin: 0px; text-align: justify;">O desenvolvimento cognitivo das crianças é outro aspecto impactado pela prática de atividades físicas. “Pesquisas apontam que as crianças pequenas que passam muito tempo em frente às telas correm um risco maior de apresentar dificuldades cognitivas na escola, como problemas de atenção, habilidades linguísticas limitadas e baixo desempenho acadêmico. Outro ponto importante é que jovens fisicamente ativos têm maior probabilidade de adotar comportamentos saudáveis, como evitar o uso de cigarro, álcool e drogas”, finaliza Daniela.</p>
+<p style="margin: 0px; text-align: justify;">&nbsp;&nbsp;</p>
+<p style="margin: 0px; text-align: justify;"><strong>Sobre o UniCuritiba</strong></p>
+<p style="margin: 0px; text-align: justify;"><em>Com mais de 70 anos de tradição e excelência, o UniCuritiba é uma instituição de referência para os paranaenses e reconhecido pelo MEC como uma das melhores instituições de ensino superior de Curitiba (PR). Destaca-se por ter um dos melhores cursos de Direito do país, com selo de qualidade OAB Recomenda em todas as suas edições, além de ser referência na área de Relações Internacionais.</em></p>
+<p style="margin: 0px; text-align: justify;"><em>&nbsp;</em></p>
+<p style="margin: 0px; text-align: justify;"><em>Integrante do maior e mais inovador ecossistema de qualidade do Brasil, o Ecossistema Ânima, o UniCuritiba conta com mais de 40 opções de cursos de graduação em todas as áreas do conhecimento, além de cursos de pós-graduação, mestrado e doutorado.</em></p>
+<p style="margin: 0px; text-align: justify;"><em>&nbsp;</em></p>
+<p style="margin: 0px; text-align: justify;"><em>Possui uma estrutura completa e diferenciada, com mais de 60 laboratórios e professores mestres e doutores com vivência prática e longa experiência profissional. O UniCuritiba tem seu ensino focado na conexão com o mundo do trabalho e com as práticas mais atuais das profissões, estimulando o networking e as vivências multidisciplinares.</em></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>                                <br>
+                                                             </div>
+                        </div>
+
+
+                                                <div id="divPubRodape"></div>
+                        <script type="text/javascript">
+							$('#divPubRodape').load("/home.php?action=publicidade&id_cab=7&limite=1");
+                        </script>
+
+                        								<br>
+                                <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style ">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_pinterest_pinit"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+                                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51de2d2b7e09a8f5"></script>
+                                <!-- AddThis Button END -->
+                                				<div class="row">
+	            	<div class="col-sm-12">
+	                    <div class="bs-callout">
+		                    <h4><i class="glyphicon glyphicon-comment"></i> Comente</h4>
+		                    <br>
+		                    <form method="post" name="form-cadastro" id="form-cadastro">
+		                        <a name="comentar"></a>
+		                        <input name="id_msg2" type="hidden" id="id_msg2" size="25" maxlength="100">
+		                        <input name="endereco_msg" type="hidden" id="endereco_msg" value="www.jornalevolucao.com.br/textos/63110/1/as-duvidas-e-as-coincidencias-no-misterio-dos-diamantes-de-michelle-bolsonaro">
+		                        <label>Comentário</label>
+		                        <div class="none mostrar">
+			                        											<a href="javascript:mural_insere_emotion('01');" title="Inserir emotion"><img src="/smilies/01.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('02');" title="Inserir emotion"><img src="/smilies/02.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('03');" title="Inserir emotion"><img src="/smilies/03.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('04');" title="Inserir emotion"><img src="/smilies/04.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('05');" title="Inserir emotion"><img src="/smilies/05.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('06');" title="Inserir emotion"><img src="/smilies/06.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('07');" title="Inserir emotion"><img src="/smilies/07.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('08');" title="Inserir emotion"><img src="/smilies/08.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('09');" title="Inserir emotion"><img src="/smilies/09.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('10');" title="Inserir emotion"><img src="/smilies/10.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('11');" title="Inserir emotion"><img src="/smilies/11.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('12');" title="Inserir emotion"><img src="/smilies/12.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('13');" title="Inserir emotion"><img src="/smilies/13.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('14');" title="Inserir emotion"><img src="/smilies/14.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('15');" title="Inserir emotion"><img src="/smilies/15.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('16');" title="Inserir emotion"><img src="/smilies/16.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('17');" title="Inserir emotion"><img src="/smilies/17.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('18');" title="Inserir emotion"><img src="/smilies/18.gif" border="0"></a>
+																						<a href="javascript:mural_insere_emotion('19');" title="Inserir emotion"><img src="/smilies/19.gif" border="0"></a>
+													                        </div>
+		                        <textarea class="form-control" name="mensagem_msg" cols="23" rows="5" id="mensagem_msg" onkeyup="limite_caracteres(this.id,2000,document.getElementById('limite').id);$('.mostrar').slideDown();" required="" tabindex="0"></textarea>
+		                        		                                <div class="none mostrar">
+			                                <label>Seu nome</label>
+			                                <input class="form-control" name="nome_msg" type="text" id="nome_msg" maxlength="50" required="required" tabindex="0">
+		                                </div>
+		                                		                                <div class="none mostrar">
+			                                <label>Seu e-mail</label>
+			                          		<input class="form-control" name="email_msg" type="text" id="email_msg" maxlength="100" value="" tabindex="0">
+		                                </div>
+		                                		                        <input type="hidden" name="id_not" id="id_not" value="63110">
+		                        <div id="resposta"></div>
+		                        <input name="limite" type="hidden" id="limite" value="2000" size="4" maxlength="0" readonly="">
+		                        <div class="mostrar none">
+		                        	<div id="divCaptcha">
+				                    												<img class="img-responsive " src="/imagens/captcha_m.jpg" id="imagens/captcha_m.jpg" border="0">
+																                    </div>
+				                    <label>Digite o número da imagem acima:</label>
+				                    <input class="form-control" name="codigo_captcha" type="text" id="codigo_captcha" maxlength="4" required="required">
+				                    <script type="text/javascript">
+				                    function captcha()
+				                        {
+				                            document.getElementById('divCaptcha').innerHTML = '';
+				                            document.getElementById('divCaptcha').innerHTML = '<img style="border:1px solid #CCC" src="/imagens/captcha_m.jpg?1699272448>">';
+				                        }
+				                    setTimeout("captcha();",1000);
+				                    </script>
+			                    </div>
+		                        <br><input class="btn btn-danger" name="butEnvia" type="button" id="butEnvia" value="Enviar" onclick="ajax('#form-cadastro','/home.php?action=comentario',1,'#divResult');">
+		                        <br><br>
+		                        <div id="divNumComentario"></div>
+		                        <div id="divResult">
+						            		                        </div>
+		                        
+		                        </form>
+	                    </div>
+	                </div>
+	            </div>
+						                                <br>
+		                                <h4><span class="glyphicon glyphicon-chevron-down"></span> Conteúdo relacionado</h4>
+		                                <br>
+		                                												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65825/1/pedradas-do-pedroka-maquiavelico-parabolicas"><h4><font class="bold">PEDRADAS DO PEDROKA -  Maquiavélico - Parabólicas</font> <font class="cor2 italic">23 horas atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65819/1/novembro-azul-o-que-e-verdade-e-o-que-e-mito-sobre-o-cancer-de-prostata"><h4><font class="bold">Novembro Azul: o que é verdade e o que é mito sobre o câncer de próstata?</font> <font class="cor2 italic">5 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65824/1/o-tempo-e-a-temperatura-tempo-nublado-com-pancadas-de-chuva-e-possibilidade-de-trovoadas"><h4><font class="bold">O TEMPO E A TEMPERATURA: Tempo nublado com pancadas de chuva e possibilidade de trovoadas</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65823/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875981859infraestrutura-jpg_t_m.jpg" id="admin/img/fotos/169875981859infraestrutura-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65823/1/novo-pac-prazo-para-envio-de-projetos-se-encerra-em-10-de-novembro"><h4><font class="bold">Novo PAC: prazo para envio de projetos se encerra em 10 de novembro</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65822/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875979249whatsapp-image-20231030-at-20-01-29-jpg_t_m.jpg" id="admin/img/fotos/169875979249whatsapp-image-20231030-at-20-01-29-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65822/1/sao-paulo-parana-santa-catarina-e-rio-grande-do-sul-registram-aumento-de-casos-de-covid19-na-popu"><h4><font class="bold">São Paulo, Paraná, Santa Catarina e Rio Grande do Sul registram aumento de casos de Covid-19 na popu</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65821/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875972019unnamed-20231031t104134-420-jpg_t_m.jpg" id="admin/img/fotos/169875972019unnamed-20231031t104134-420-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65821/1/em-sc-consumo-das-familias-estimula-geracao-de-empregos-em-setembro"><h4><font class="bold">Em SC, consumo das famílias estimula geração de empregos em setembro</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65820/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875966280sistema-de-drenagem-de-sao-bento-do-sul-recebe-trabalhos-de-prevencao-jpg_t_m.jpg" id="admin/img/fotos/169875966280sistema-de-drenagem-de-sao-bento-do-sul-recebe-trabalhos-de-prevencao-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65820/1/sistema-de-drenagem-de-sao-bento-do-sul-recebe-trabalhos-de-prevencao"><h4><font class="bold">Sistema de drenagem de São Bento do Sul recebe trabalhos de prevenção</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65818/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875930387img-6592-jpg.JPG_t_m.jpg" id="admin/img/fotos/169875930387img-6592-jpg.JPG_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65818/1/educacao-lanca-guia-pedagogico-para-educacao-infantil"><h4><font class="bold">Educação lança Guia Pedagógico para Educação Infantil</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65817/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875916570img-1418-jpg.JPG_t_m.jpg" id="admin/img/fotos/169875916570img-1418-jpg.JPG_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65817/1/nucleo-da-mulher-empresaria-realiza-visita-tecnica-em-sao-paulo"><h4><font class="bold">Núcleo da Mulher Empresária realiza visita técnica em São Paulo</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65816/1/inscricoes-abertas-para-programa-sao-bento-mais-saudavel"><h4><font class="bold">Inscrições abertas para Programa São Bento Mais Saudável</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65815/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875904192unnamed-20231031t103009-365-jpg_t_m.jpg" id="admin/img/fotos/169875904192unnamed-20231031t103009-365-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65815/1/santa-catarina-garante-vaga-na-franca-para-competicao-mundial-de-educacao-profissional"><h4><font class="bold">Santa Catarina garante vaga na França para competição mundial de educação profissional</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65814/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875887667unnamed-20231031t102729-683-jpg_t_m.jpg" id="admin/img/fotos/169875887667unnamed-20231031t102729-683-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65814/1/festival-de-felicidade-com-atracoes-gratuitas-volta-a-curitiba-em-novembro"><h4><font class="bold">Festival de Felicidade com atrações gratuitas volta a Curitiba em novembro</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65813/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/16987588008630102023-feirao-de-empregos-5-jpg_t_m.jpg" id="admin/img/fotos/16987588008630102023-feirao-de-empregos-5-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65813/1/feirao-de-empregos-reune-700-candidatos-em-sao-bento-do-sul"><h4><font class="bold">Feirão de Empregos reúne 700 candidatos em São Bento do Sul</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65812/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875876259samae-jpg_t_m.jpg" id="admin/img/fotos/169875876259samae-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65812/1/programa-residentes-do-samae-segue-com-inscricoes-abertas"><h4><font class="bold">Programa Residentes do Samae segue com inscrições abertas</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65811/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169875817094sorteio-da-nota-fiscal-premiada-sera-nesta-tercafeira-31-jpg_t_m.jpg" id="admin/img/fotos/169875817094sorteio-da-nota-fiscal-premiada-sera-nesta-tercafeira-31-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65811/1/sorteio-da-nota-fiscal-premiada-sera-nesta-tercafeira-31"><h4><font class="bold">Sorteio da "Nota Fiscal Premiada" será nesta terça-feira (31)</font> <font class="cor2 italic">6 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65809/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169870165010oncologia1-jpg_t_m.jpg" id="admin/img/fotos/169870165010oncologia1-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65809/1/esperanca-em-forma-de-arte-na-oncologia"><h4><font class="bold">ESPERANÇA EM FORMA DE ARTE NA ONCOLOGIA</font> <font class="cor2 italic">7 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65808/1/pedradas-do-pedroka-oncologia-cada-coisa-no-seu-lugar-parab-elicas"><h4><font class="bold">PEDRADAS DO PEDROKA - ONCOLOGIA -CADA COISA NO SEU LUGAR - PARABÓLICAS</font> <font class="cor2 italic">7 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65807/1/pedradas-do-pedroka-oncologia-cada-coisa-no-seu-lugar-parab-elicas"><h4><font class="bold">PEDRADAS DO PEDROKA - ONCOLOGIA -CADA COISA NO SEU LUGAR - PARABÓLICAS</font> <font class="cor2 italic">7 dias atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																												<div class="col-sm-2">
+																									<a href="/textos/65795/1/brasil-e-o-pais-mais-sedentario-da-america-latina">
+																					<img class="img-responsive " src="/admin/img/fotos/169841706074imagemrecortadadeempresariosentadojuntoamesadecafecomcomputadorportatileescreveralgo-jpg_t_m.jpg" id="admin/img/fotos/169841706074imagemrecortadadeempresariosentadojuntoamesadecafecomcomputadorportatileescreveralgo-jpg_t_m.jpg" border="0">
+																					</a>
+																									</div>
+																													<div class="col-sm-10">
+															<a href="/textos/65795/1/dia-nacional-do-livro-29-10"><h4><font class="bold">Dia Nacional do Livro (29/10)</font> <font class="cor2 italic">1 semana atrás</font></h4></a>
+														</div>
+												</div>
+		                                        												<div class="row margin-top5">
+																											<div class="col-sm-10">
+															<a href="/textos/65789/1/convivio-excessivo-com-o-meio-virtual-afeta-desenvolvimento-da-linguagem-em-criancas"><h4><font class="bold">Convívio excessivo com o meio virtual afeta desenvolvimento da linguagem em crianças</font> <font class="cor2 italic">1 semana atrás</font></h4></a>
+														</div>
+												</div>
+		                                        			
+
+
+		</div>
+		<div class="col-sm-3">
+			<br>
+					</div>
+	</div>	
+</div>
+
+<br>    
+    
+
+    <div class="fundo8 cor7 animated fonte17 borda-top3">
+        <div class="container">
+            <div class="row">
+                                <div class="col-sm-12">
+                    <br>
+                                                            <a class="link_personalizado" href="/inicial">Inicial</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/textos/496/parceiros/0">Parceiros</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/ultimas-noticias">Notícias</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/colunistas">Colunistas</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/textos/495/sobre-nos/0">Sobre nós</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="/contato">Contato</a>
+                                        &nbsp;|&nbsp;                                        <a class="link_personalizado" href="javascript:void($('#divBusca').fadeToggle());void($('#key').focus());"><i class="glyphicon glyphicon-search"></i></a>
+                                                            <br>
+                </div>
+                            </div>
+            <div class="row linha25 ">
+                <div class="col-sm-6">
+                    <br>
+                    <strong class="cor8">Contato</strong>
+                    <br>
+                    Fone: (47) 99660-9995<br>
+                    Celular / Whatsapp: (47) 99660-9995<br>
+                    E-mail: <a class="link_personalizado2" href="mailto:paskiba@gmail.com"><font class="cor7">paskiba<img src="/imagens/arroba2.png">gmail.com</font></a><br><br>
+                   
+                </div>
+                <div class="col-sm-6">
+                    <br>
+                                    </div>
+            </div>
+            <br>
+        </div>
+    </div>
+
+    <div class="fundo1 fonte16">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 padding10 cor7">
+                    © Copyright 2025 - Jornal Evolução Notícias de Santa Catarina                </div>
+                <div class="col-sm-4 text-right">
+                    <a id="bySamuca" href="https://www.samucawebdesign.com.br/?utm_source=bySamuca&amp;utm_medium=site&amp;utm_campaign=portfolio" target="_blank"><img src="/imagens/by_samuca.png" alt="by SAMUCA" height="35" border="0"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+     <script data-cfasync="false" type="text/javascript" id="clever-core">
+                                    (function (document, window) {
+                                        var a, c = document.createElement("script");
+
+                                        c.id = "CleverCoreLoader55397";
+                                        c.src = "//scripts.cleverwebserver.com/0a64dcdcbcd89c8d0f1540e08ec12091.js";
+
+                                        c.async = !0;
+                                        c.type = "text/javascript";
+                                        c.setAttribute("data-target", window.name);
+                                        c.setAttribute("data-callback", "put-your-callback-macro-here");
+
+                                        try {
+                                            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                                        } catch (e) {
+                                            a = !1;
+                                        }
+
+                                        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                                        a.parentNode.insertBefore(c, a);
+                                    })(document, window);
+                                </script>                             
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip(); 
+    });
+
+
+    $(document).ready(function() { 
+
+                        if($(window).width() < 768)
+                    {   
+                        $("html, body").animate({ scrollTop: $('.navPro').offset().top }, 1000);
+                    }
+                     
+
+	  var navbarToggle = '.navbar-toggle'; // name of navbar toggle, BS3 = '.navbar-toggle', BS4 = '.navbar-toggler'  
+	  $('.dropdown, .dropup').each(function() {
+	    var dropdown = $(this),
+	      dropdownToggle = $('[data-toggle="dropdown"]', dropdown),
+	      dropdownHoverAll = dropdownToggle.data('dropdown-hover-all') || false;
+	    
+	    // Mouseover
+	    dropdown.hover(function(){
+	      var notMobileMenu = $(navbarToggle).length > 0 && $(navbarToggle).css('display') === 'none';
+	      if ((dropdownHoverAll == true || (dropdownHoverAll == false && notMobileMenu))) { 
+	        dropdownToggle.trigger('click');
+	      }
+	    })
+	  });
+
+	
+
+    var whatsapp = '';
+    if($(window).width() < 768)
+    	{
+            whatsapp = 'api';
+			$('.menuCategoria').addClass('dropdown-toggle');
+			$('.menuCategoria').attr('data-toggle','dropdown');
+    	}
+    else
+        {   
+            whatsapp = 'web';
+            setInterval(function(){
+            $('#divTextoX').height($('#divTextoImg').height());
+            },100);
+
+        }
+    $('#whatsapp').attr('href','https://'+whatsapp+'.whatsapp.com/send?phone=5547996609995');
+
+
+
+        $(window).scroll(function()
+            {
+                if($(window).width() > 765)
+                    {
+                        if($(window).scrollTop() > 205)
+                            {
+                                $('#carrinhoHome').show();
+                                $("#navbar2").addClass('navbar-fixed-top');
+                                $("#navbar2").addClass('fundo2');
+                            } 
+                        else 
+                            {
+                                $('#carrinhoHome').hide();
+                                $("#navbar2").removeClass('navbar-fixed-top');
+                                $("#navbar2").removeClass('fundo2');
+                            }
+                    }
+                else
+                    {   
+                        $('#carrinhoHome').hide();
+                    }
+            });
+        $('#carrinhoHome').hide();
+
+	});
+
+    $.ajaxSetup ({
+        // Disable caching of AJAX responses
+        cache: false
+    });
+
+    </script>
+  
+</body></html>

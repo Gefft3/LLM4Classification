@@ -1,0 +1,883 @@
+<html lang="pt-BR"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <title>Ministério da Saúde instala Centro de Operação de Emergência para enfrentar as chuvas intensas na região Sul | BVS Economia da Saúde</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//platserv.bvsalud.org">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="alternate" type="application/rss+xml" title="Feed para BVS Economia da Saúde »" href="https://economia.saude.bvs.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para BVS Economia da Saúde »" href="https://economia.saude.bvs.br/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para BVS Economia da Saúde » Ministério da Saúde instala Centro de Operação de Emergência para enfrentar as chuvas intensas na região Sul" href="https://economia.saude.bvs.br/2024/05/07/ministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul/feed/">
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.1.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-T3PMC2RPR6" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async=""></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.1.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/economia.saude.bvs.br\/2024\/05\/07\/ministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul\/"};
+				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-T3PMC2RPR6',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-T3PMC2RPR6', {"forceSSL":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/economia.saude.bvs.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://economia.saude.bvs.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7" type="text/css" media="all">
+<style id="bp-login-form-style-inline-css" type="text/css">
+.widget_bp_core_login_widget .bp-login-widget-user-avatar{float:left}.widget_bp_core_login_widget .bp-login-widget-user-links{margin-left:70px}#bp-login-widget-form label{display:block;font-weight:600;margin:15px 0 5px;width:auto}#bp-login-widget-form input[type=password],#bp-login-widget-form input[type=text]{background-color:#fafafa;border:1px solid #d6d6d6;border-radius:0;font:inherit;font-size:100%;padding:.5em;width:100%}#bp-login-widget-form .bp-login-widget-register-link,#bp-login-widget-form .login-submit{display:inline;width:-moz-fit-content;width:fit-content}#bp-login-widget-form .bp-login-widget-register-link{margin-left:1em}#bp-login-widget-form .bp-login-widget-register-link a{filter:invert(1)}#bp-login-widget-form .bp-login-widget-pwd-link{font-size:80%}
+
+</style>
+<style id="bp-member-style-inline-css" type="text/css">
+[data-type="bp/member"] input.components-placeholder__input{border:1px solid #757575;border-radius:2px;flex:1 1 auto;padding:6px 8px}.bp-block-member{position:relative}.bp-block-member .member-content{display:flex}.bp-block-member .user-nicename{display:block}.bp-block-member .user-nicename a{border:none;color:currentColor;text-decoration:none}.bp-block-member .bp-profile-button{width:100%}.bp-block-member .bp-profile-button a.button{bottom:10px;display:inline-block;margin:18px 0 0;position:absolute;right:0}.bp-block-member.has-cover .item-header-avatar,.bp-block-member.has-cover .member-content,.bp-block-member.has-cover .member-description{z-index:2}.bp-block-member.has-cover .member-content,.bp-block-member.has-cover .member-description{padding-top:75px}.bp-block-member.has-cover .bp-member-cover-image{background-color:#c5c5c5;background-position:top;background-repeat:no-repeat;background-size:cover;border:0;display:block;height:150px;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;z-index:1}.bp-block-member img.avatar{height:auto;width:auto}.bp-block-member.avatar-none .item-header-avatar{display:none}.bp-block-member.avatar-none.has-cover{min-height:200px}.bp-block-member.avatar-full{min-height:150px}.bp-block-member.avatar-full .item-header-avatar{width:180px}.bp-block-member.avatar-thumb .member-content{align-items:center;min-height:50px}.bp-block-member.avatar-thumb .item-header-avatar{width:70px}.bp-block-member.avatar-full.has-cover{min-height:300px}.bp-block-member.avatar-full.has-cover .item-header-avatar{width:200px}.bp-block-member.avatar-full.has-cover img.avatar{background:#fffc;border:2px solid #fff;margin-left:20px}.bp-block-member.avatar-thumb.has-cover .item-header-avatar{padding-top:75px}.entry .entry-content .bp-block-member .user-nicename a{border:none;color:currentColor;text-decoration:none}
+
+</style>
+<style id="bp-members-style-inline-css" type="text/css">
+[data-type="bp/members"] .components-placeholder.is-appender{min-height:0}[data-type="bp/members"] .components-placeholder.is-appender .components-placeholder__label:empty{display:none}[data-type="bp/members"] .components-placeholder input.components-placeholder__input{border:1px solid #757575;border-radius:2px;flex:1 1 auto;padding:6px 8px}[data-type="bp/members"].avatar-none .member-description{width:calc(100% - 44px)}[data-type="bp/members"].avatar-full .member-description{width:calc(100% - 224px)}[data-type="bp/members"].avatar-thumb .member-description{width:calc(100% - 114px)}[data-type="bp/members"] .member-content{position:relative}[data-type="bp/members"] .member-content .is-right{position:absolute;right:2px;top:2px}[data-type="bp/members"] .columns-2 .member-content .member-description,[data-type="bp/members"] .columns-3 .member-content .member-description,[data-type="bp/members"] .columns-4 .member-content .member-description{padding-left:44px;width:calc(100% - 44px)}[data-type="bp/members"] .columns-3 .is-right{right:-10px}[data-type="bp/members"] .columns-4 .is-right{right:-50px}.bp-block-members.is-grid{display:flex;flex-wrap:wrap;padding:0}.bp-block-members.is-grid .member-content{margin:0 1.25em 1.25em 0;width:100%}@media(min-width:600px){.bp-block-members.columns-2 .member-content{width:calc(50% - .625em)}.bp-block-members.columns-2 .member-content:nth-child(2n){margin-right:0}.bp-block-members.columns-3 .member-content{width:calc(33.33333% - .83333em)}.bp-block-members.columns-3 .member-content:nth-child(3n){margin-right:0}.bp-block-members.columns-4 .member-content{width:calc(25% - .9375em)}.bp-block-members.columns-4 .member-content:nth-child(4n){margin-right:0}}.bp-block-members .member-content{display:flex;flex-direction:column;padding-bottom:1em;text-align:center}.bp-block-members .member-content .item-header-avatar,.bp-block-members .member-content .member-description{width:100%}.bp-block-members .member-content .item-header-avatar{margin:0 auto}.bp-block-members .member-content .item-header-avatar img.avatar{display:inline-block}@media(min-width:600px){.bp-block-members .member-content{flex-direction:row;text-align:left}.bp-block-members .member-content .item-header-avatar,.bp-block-members .member-content .member-description{width:auto}.bp-block-members .member-content .item-header-avatar{margin:0}}.bp-block-members .member-content .user-nicename{display:block}.bp-block-members .member-content .user-nicename a{border:none;color:currentColor;text-decoration:none}.bp-block-members .member-content time{color:#767676;display:block;font-size:80%}.bp-block-members.avatar-none .item-header-avatar{display:none}.bp-block-members.avatar-full{min-height:190px}.bp-block-members.avatar-full .item-header-avatar{width:180px}.bp-block-members.avatar-thumb .member-content{min-height:80px}.bp-block-members.avatar-thumb .item-header-avatar{width:70px}.bp-block-members.columns-2 .member-content,.bp-block-members.columns-3 .member-content,.bp-block-members.columns-4 .member-content{display:block;text-align:center}.bp-block-members.columns-2 .member-content .item-header-avatar,.bp-block-members.columns-3 .member-content .item-header-avatar,.bp-block-members.columns-4 .member-content .item-header-avatar{margin:0 auto}.bp-block-members img.avatar{height:auto;max-width:-moz-fit-content;max-width:fit-content;width:auto}.bp-block-members .member-content.has-activity{align-items:center}.bp-block-members .member-content.has-activity .item-header-avatar{padding-right:1em}.bp-block-members .member-content.has-activity .wp-block-quote{margin-bottom:0;text-align:left}.bp-block-members .member-content.has-activity .wp-block-quote cite a,.entry .entry-content .bp-block-members .user-nicename a{border:none;color:currentColor;text-decoration:none}
+
+</style>
+<style id="bp-dynamic-members-style-inline-css" type="text/css">
+.bp-dynamic-block-container .item-options{font-size:.5em;margin:0 0 1em;padding:1em 0}.bp-dynamic-block-container .item-options a.selected{font-weight:600}.bp-dynamic-block-container ul.item-list{list-style:none;margin:1em 0;padding-left:0}.bp-dynamic-block-container ul.item-list li{margin-bottom:1em}.bp-dynamic-block-container ul.item-list li:after,.bp-dynamic-block-container ul.item-list li:before{content:" ";display:table}.bp-dynamic-block-container ul.item-list li:after{clear:both}.bp-dynamic-block-container ul.item-list li .item-avatar{float:left;width:60px}.bp-dynamic-block-container ul.item-list li .item{margin-left:70px}
+
+</style>
+<style id="bp-online-members-style-inline-css" type="text/css">
+.widget_bp_core_whos_online_widget .avatar-block,[data-type="bp/online-members"] .avatar-block{display:flex;flex-flow:row wrap}.widget_bp_core_whos_online_widget .avatar-block img,[data-type="bp/online-members"] .avatar-block img{margin:.5em}
+
+</style>
+<style id="bp-active-members-style-inline-css" type="text/css">
+.widget_bp_core_recently_active_widget .avatar-block,[data-type="bp/active-members"] .avatar-block{display:flex;flex-flow:row wrap}.widget_bp_core_recently_active_widget .avatar-block img,[data-type="bp/active-members"] .avatar-block img{margin:.5em}
+
+</style>
+<style id="bp-latest-activities-style-inline-css" type="text/css">
+.bp-latest-activities .components-flex.components-select-control select[multiple]{height:auto;padding:0 8px}.bp-latest-activities .components-flex.components-select-control select[multiple]+.components-input-control__suffix svg{display:none}.bp-latest-activities-block a,.entry .entry-content .bp-latest-activities-block a{border:none;text-decoration:none}.bp-latest-activities-block .activity-list.item-list blockquote{border:none;padding:0}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini){box-shadow:1px 0 4px #00000026;padding:0 1em;position:relative}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):after,.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):before{border-color:#0000;border-style:solid;content:"";display:block;height:0;left:15px;position:absolute;width:0}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):before{border-top-color:#00000026;border-width:9px;bottom:-18px;left:14px}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item:not(.mini):after{border-top-color:#fff;border-width:8px;bottom:-16px}.bp-latest-activities-block .activity-list.item-list blockquote .activity-item.mini .avatar{display:inline-block;height:20px;margin-right:2px;vertical-align:middle;width:20px}.bp-latest-activities-block .activity-list.item-list footer{align-items:center;display:flex}.bp-latest-activities-block .activity-list.item-list footer img.avatar{border:none;display:inline-block;margin-right:.5em}.bp-latest-activities-block .activity-list.item-list footer .activity-time-since{font-size:90%}.bp-latest-activities-block .widget-error{border-left:4px solid #0b80a4;box-shadow:1px 0 4px #00000026}.bp-latest-activities-block .widget-error p{padding:0 1em}
+
+</style>
+<style id="bp-group-style-inline-css" type="text/css">
+[data-type="bp/group"] input.components-placeholder__input{border:1px solid #757575;border-radius:2px;flex:1 1 auto;padding:6px 8px}.bp-block-group{position:relative}.bp-block-group .group-content{display:flex}.bp-block-group .group-description{width:100%}.bp-block-group .group-description-content{margin-bottom:18px;width:100%}.bp-block-group .bp-profile-button{overflow:hidden;width:100%}.bp-block-group .bp-profile-button a.button{margin:18px 0 0}.bp-block-group.has-cover .group-content,.bp-block-group.has-cover .group-description,.bp-block-group.has-cover .item-header-avatar{z-index:2}.bp-block-group.has-cover .group-content,.bp-block-group.has-cover .group-description{padding-top:75px}.bp-block-group.has-cover .bp-group-cover-image{background-color:#c5c5c5;background-position:top;background-repeat:no-repeat;background-size:cover;border:0;display:block;height:150px;left:0;margin:0;padding:0;position:absolute;top:0;width:100%;z-index:1}.bp-block-group img.avatar{height:auto;width:auto}.bp-block-group.avatar-none .item-header-avatar{display:none}.bp-block-group.avatar-full{min-height:150px}.bp-block-group.avatar-full .item-header-avatar{width:180px}.bp-block-group.avatar-full .group-description{padding-left:35px}.bp-block-group.avatar-thumb .item-header-avatar{width:70px}.bp-block-group.avatar-thumb .item-header-avatar img.avatar{margin-top:15px}.bp-block-group.avatar-none.has-cover{min-height:200px}.bp-block-group.avatar-none.has-cover .item-header-avatar{padding-top:75px}.bp-block-group.avatar-full.has-cover{min-height:300px}.bp-block-group.avatar-full.has-cover .item-header-avatar{width:200px}.bp-block-group.avatar-full.has-cover img.avatar{background:#fffc;border:2px solid #fff;margin-left:20px}.bp-block-group.avatar-thumb:not(.has-description) .group-content{align-items:center;min-height:50px}.bp-block-group.avatar-thumb.has-cover .item-header-avatar{padding-top:75px}.bp-block-group.has-description .bp-profile-button a.button{display:block;float:right}
+
+</style>
+<style id="bp-groups-style-inline-css" type="text/css">
+[data-type="bp/groups"] .components-placeholder.is-appender{min-height:0}[data-type="bp/groups"] .components-placeholder.is-appender .components-placeholder__label:empty{display:none}[data-type="bp/groups"] .components-placeholder input.components-placeholder__input{border:1px solid #757575;border-radius:2px;flex:1 1 auto;padding:6px 8px}[data-type="bp/groups"].avatar-none .group-description{width:calc(100% - 44px)}[data-type="bp/groups"].avatar-full .group-description{width:calc(100% - 224px)}[data-type="bp/groups"].avatar-thumb .group-description{width:calc(100% - 114px)}[data-type="bp/groups"] .group-content{position:relative}[data-type="bp/groups"] .group-content .is-right{position:absolute;right:2px;top:2px}[data-type="bp/groups"] .columns-2 .group-content .group-description,[data-type="bp/groups"] .columns-3 .group-content .group-description,[data-type="bp/groups"] .columns-4 .group-content .group-description{padding-left:44px;width:calc(100% - 44px)}[data-type="bp/groups"] .columns-3 .is-right{right:-10px}[data-type="bp/groups"] .columns-4 .is-right{right:-50px}.bp-block-groups.is-grid{display:flex;flex-wrap:wrap;padding:0}.bp-block-groups.is-grid .group-content{margin:0 1.25em 1.25em 0;width:100%}@media(min-width:600px){.bp-block-groups.columns-2 .group-content{width:calc(50% - .625em)}.bp-block-groups.columns-2 .group-content:nth-child(2n){margin-right:0}.bp-block-groups.columns-3 .group-content{width:calc(33.33333% - .83333em)}.bp-block-groups.columns-3 .group-content:nth-child(3n){margin-right:0}.bp-block-groups.columns-4 .group-content{width:calc(25% - .9375em)}.bp-block-groups.columns-4 .group-content:nth-child(4n){margin-right:0}}.bp-block-groups .group-content{display:flex;flex-direction:column;padding-bottom:1em;text-align:center}.bp-block-groups .group-content .group-description,.bp-block-groups .group-content .item-header-avatar{width:100%}.bp-block-groups .group-content .item-header-avatar{margin:0 auto}.bp-block-groups .group-content .item-header-avatar img.avatar{display:inline-block}@media(min-width:600px){.bp-block-groups .group-content{flex-direction:row;text-align:left}.bp-block-groups .group-content .group-description,.bp-block-groups .group-content .item-header-avatar{width:auto}.bp-block-groups .group-content .item-header-avatar{margin:0}}.bp-block-groups .group-content time{color:#767676;display:block;font-size:80%}.bp-block-groups.avatar-none .item-header-avatar{display:none}.bp-block-groups.avatar-full{min-height:190px}.bp-block-groups.avatar-full .item-header-avatar{width:180px}.bp-block-groups.avatar-thumb .group-content{min-height:80px}.bp-block-groups.avatar-thumb .item-header-avatar{width:70px}.bp-block-groups.columns-2 .group-content,.bp-block-groups.columns-3 .group-content,.bp-block-groups.columns-4 .group-content{display:block;text-align:center}.bp-block-groups.columns-2 .group-content .item-header-avatar,.bp-block-groups.columns-3 .group-content .item-header-avatar,.bp-block-groups.columns-4 .group-content .item-header-avatar{margin:0 auto}.bp-block-groups img.avatar{height:auto;max-width:-moz-fit-content;max-width:fit-content;width:auto}.bp-block-groups .member-content.has-description{align-items:center}.bp-block-groups .member-content.has-description .item-header-avatar{padding-right:1em}.bp-block-groups .member-content.has-description .group-description-content{margin-bottom:0;text-align:left}
+
+</style>
+<style id="bp-dynamic-groups-style-inline-css" type="text/css">
+.bp-dynamic-block-container .item-options{font-size:.5em;margin:0 0 1em;padding:1em 0}.bp-dynamic-block-container .item-options a.selected{font-weight:600}.bp-dynamic-block-container ul.item-list{list-style:none;margin:1em 0;padding-left:0}.bp-dynamic-block-container ul.item-list li{margin-bottom:1em}.bp-dynamic-block-container ul.item-list li:after,.bp-dynamic-block-container ul.item-list li:before{content:" ";display:table}.bp-dynamic-block-container ul.item-list li:after{clear:both}.bp-dynamic-block-container ul.item-list li .item-avatar{float:left;width:60px}.bp-dynamic-block-container ul.item-list li .item{margin-left:70px}
+
+</style>
+<style id="bp-sitewide-notices-style-inline-css" type="text/css">
+.bp-sitewide-notice-block .bp-screen-reader-text,[data-type="bp/sitewide-notices"] .bp-screen-reader-text{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.bp-sitewide-notice-block [data-bp-tooltip]:after,[data-type="bp/sitewide-notices"] [data-bp-tooltip]:after{background-color:#fff;border:1px solid #737373;border-radius:1px;box-shadow:4px 4px 8px #0003;color:#333;content:attr(data-bp-tooltip);display:none;font-family:Helvetica Neue,Helvetica,Arial,san-serif;font-size:12px;font-weight:400;letter-spacing:normal;line-height:1.25;max-width:200px;opacity:0;padding:5px 8px;pointer-events:none;position:absolute;text-shadow:none;text-transform:none;transform:translateZ(0);transition:all 1.5s ease;visibility:hidden;white-space:nowrap;word-wrap:break-word;z-index:100000}.bp-sitewide-notice-block .bp-tooltip:after,[data-type="bp/sitewide-notices"] .bp-tooltip:after{left:50%;margin-top:7px;top:110%;transform:translate(-50%)}.bp-sitewide-notice-block{border-left:4px solid #ff853c;padding-left:1em;position:relative}.bp-sitewide-notice-block h2:before{background:none;border:none}.bp-sitewide-notice-block .dismiss-notice{background-color:#0000;border:1px solid #ff853c;color:#ff853c;display:block;padding:.2em .5em;position:absolute;right:.5em;top:.5em;width:-moz-fit-content;width:fit-content}.bp-sitewide-notice-block .dismiss-notice:hover{background-color:#ff853c;color:#fff}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="bbp-default-css" href="https://economia.saude.bvs.br/wp-content/plugins/bbpress/templates/default/css/bbpress.min.css?ver=2.6.11" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://economia.saude.bvs.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0" type="text/css" media="all">
+<link rel="stylesheet" id="pld-frontend-css" href="https://economia.saude.bvs.br/wp-content/plugins/posts-like-dislike/css/pld-frontend.css?ver=1.1.4" type="text/css" media="all">
+<link rel="stylesheet" id="bvs-ecos-bootstrap-css-css" href="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/libs/bootstrap-5.3.3/css/bootstrap.min.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="bvs-ecos-bootstrap-icons-css-css" href="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/libs/bootstrap-icons-1.11.3/font/bootstrap-icons.min.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="bvs-ecos-fontawesome-css-css" href="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/libs/fontawesome-6.6.0/css/all.min.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="bvs-ecos-tagify-css-css" href="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/libs/tagify-4.31.3/css/tagify.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="bvs-ecos-fonts-css" href="https://fonts.googleapis.com/css2?family=Poppins%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&amp;ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="bvs-ecos-style-css" href="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/style.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="bvs-ecos-main-css-css" href="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/css/main-styles.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-iso-css" href="https://platserv.bvsalud.org/client/vendors/bootstrap/dist/css/bootstrap-iso.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="servplat-style-css" href="https://platserv.bvsalud.org/client/css/plugin.css?ver=6.7" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.7" type="text/css" media="all">
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.1.1" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id="monsterinsights-frontend-script-js-extra">/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/economia.saude.bvs.br","hash_tracking":"false","v4_id":"G-T3PMC2RPR6"};/* ]]> */
+</script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="pld-frontend-js-extra">
+/* <![CDATA[ */
+var pld_js_object = {"admin_ajax_url":"https:\/\/economia.saude.bvs.br\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"bb90607389"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/posts-like-dislike/js/pld-frontend.js?ver=1.1.4" id="pld-frontend-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/js/html5.js?ver=3.7.0" id="html5hiv-js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/js/scripts.js?ver=6.7" id="bvs-ecos-scripts-js"></script>
+<link rel="https://api.w.org/" href="https://economia.saude.bvs.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://economia.saude.bvs.br/wp-json/wp/v2/posts/212919"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://economia.saude.bvs.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7">
+<meta name="generator" content="Seriously Simple Podcasting 3.6.1">
+<link rel="canonical" href="https://economia.saude.bvs.br/2024/05/07/ministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul/">
+<link rel="shortlink" href="https://economia.saude.bvs.br/?p=212919">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://economia.saude.bvs.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feconomia.saude.bvs.br%2F2024%2F05%2F07%2Fministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://economia.saude.bvs.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Feconomia.saude.bvs.br%2F2024%2F05%2F07%2Fministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul%2F&amp;format=xml">
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18310037-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+        <style>
+            #calendar_wrap .ui-datepicker-prev span {background: url("https://economia.saude.bvs.br/wp-content/plugins/direve/calendar/images/arrow-new.png") no-repeat scroll 0 0 transparent;}
+            #calendar_wrap .ui-datepicker-prev span:hover {background: url("https://economia.saude.bvs.br/wp-content/plugins/direve/calendar/images/arrow-prev-hover.png") no-repeat scroll 0 0 transparent;}
+            #calendar_wrap .ui-datepicker-next span {background: url("https://economia.saude.bvs.br/wp-content/plugins/direve/calendar/images/arrow-new2.png") no-repeat scroll 0 0 transparent;}
+            #calendar_wrap .ui-datepicker-next span:hover {background: url("https://economia.saude.bvs.br/wp-content/plugins/direve/calendar/images/arrow-next-hover.png") no-repeat scroll 0 0 transparent;}
+        </style>
+        
+	<script type="text/javascript">var ajaxurl = 'https://economia.saude.bvs.br/wp-admin/admin-ajax.php';</script>
+
+<style></style>
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://economia.saude.bvs.br/feed/podcast">
+
+<link rel="pingback" href="https://economia.saude.bvs.br/xmlrpc.php">    <style type="text/css">
+        #page-sub-header { background: #fff; }
+    </style>
+    <link rel="icon" href="https://economia.saude.bvs.br/wp-content/uploads/2024/10/cropped-favicon-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://economia.saude.bvs.br/wp-content/uploads/2024/10/cropped-favicon-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://economia.saude.bvs.br/wp-content/uploads/2024/10/cropped-favicon-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://economia.saude.bvs.br/wp-content/uploads/2024/10/cropped-favicon-270x270.jpg">
+</head>
+
+<body class="bp-legacy post-template-default single single-post postid-212919 single-format-standard group-blog modula-best-grid-gallery">
+
+
+<script type="text/javascript" id="bbp-swap-no-js-body-class">
+	document.body.className = document.body.className.replace( 'bbp-no-js', 'bbp-js' );
+</script>
+
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Pular para o conteúdo</a>
+
+	<header id="masthead" class="site-header navbar-static-top bg-menu navbar-light" role="banner">
+        <div class="container-fluid navbar-dark">
+            <div class="container">
+                <div class="row secondary-menu">
+                    <div class="col-md-12">                        
+                                                    <a href="https://economia.saude.bvs.br/wp-login.php?redirect_to=https%3A%2F%2Feconomia.saude.bvs.br%2F2024%2F05%2F07%2Fministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul%2F" class="btn btn-outline-primary btn-sm">LOGIN</a>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-menu">
+                <div class="navbar-brand">
+                                            <a href="https://economia.saude.bvs.br/">
+                            <img src="https://economia.saude.bvs.br/wp-content/uploads/2024/10/logo-300.png" alt="BVS Economia da Saúde">
+                        </a>
+                    
+                </div>
+
+                <!-- Botão para abrir o menu lateral no mobile -->
+                <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#main-nav-mobile" aria-controls="main-nav-mobile" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Offcanvas lateral direita para mobile -->
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="main-nav-mobile" aria-labelledby="main-nav-mobile-label">
+                    <div class="menu-background"></div>
+
+                    <div class="offcanvas-header">
+                        <h5 id="main-nav-mobile-label">Menu</h5>
+                        <button type="button" class="btn-close-menu" data-bs-dismiss="offcanvas" aria-label="Close">
+                            <i class="fa-solid fa-xmark"></i>
+                        </button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul id="menu-menu-principal" class="navbar-nav"><li id="menu-item-210305" class="menu-item menu-item-type-post_type menu-item-object-vhl_collection menu-item-has-children dropdown nav-item nav-item-210305"><a href="https://economia.saude.bvs.br/vhl/sobre-a-bvs/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Rede Ecos</a>
+<ul class="dropdown-menu  depth_0">
+	<li id="menu-item-213311" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213311"><a href="https://economia.saude.bvs.br/o-que-e/" class="dropdown-item ">O que é</a></li>
+	<li id="menu-item-213310" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213310"><a href="https://economia.saude.bvs.br/composicao/" class="dropdown-item ">Composição</a></li>
+	<li id="menu-item-213317" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213317"><a href="https://economia.saude.bvs.br/organograma/" class="dropdown-item ">Organograma</a></li>
+	<li id="menu-item-213316" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213316"><a href="https://economia.saude.bvs.br/legislacao/" class="dropdown-item ">Legislação</a></li>
+	<li id="menu-item-213318" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213318"><a href="https://economia.saude.bvs.br/nucleos-de-economia-da-saude-nes/" class="dropdown-item ">Núcleos de Economia da Saúde NES</a></li>
+</ul>
+</li>
+<li id="menu-item-213319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213319"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">BVS Ecos</a>
+<ul class="dropdown-menu  depth_0">
+	<li id="menu-item-213372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213372 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Sobre a BVS Ecos</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li id="menu-item-213373" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213373"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/a-bvs-economia-da-saude/" class="dropdown-item ">A BVS Economia da Saúde</a></li>
+		<li id="menu-item-213374" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213374"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/documentos-de-apoio/" class="dropdown-item ">Documentos de Apoio</a></li>
+		<li id="menu-item-213375" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213375"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/comite-consultivo-organizador/" class="dropdown-item ">Comitê Consultivo BVS ECOS</a></li>
+		<li id="menu-item-213376" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213376"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/reunioes-do-comite-consultivo/" class="dropdown-item ">Reuniões do Comitê Consultivo</a></li>
+	</ul>
+</li>
+	<li id="menu-item-213364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213364 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Fontes de Informação</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li id="menu-item-213365" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213365"><a href="http://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;where=&amp;filter%5Bdb%5D%5B%5D=ECOS" class="dropdown-item ">Base de dados ECOS</a></li>
+		<li id="menu-item-213366" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213366"><a href="https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/pngc" class="dropdown-item ">Programa Nacional de Gestão de Custos</a></li>
+		<li id="menu-item-213367" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213367"><a href="https://www.gov.br/saude/pt-br/acesso-a-informacao/banco-de-precos" class="dropdown-item ">Banco de Preços em Saúde – BPS</a></li>
+		<li id="menu-item-213368" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213368"><a href="http://conitec.gov.br/" class="dropdown-item ">Conitec – Consultas Públicas</a></li>
+		<li id="menu-item-213369" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213369"><a href="http://rebrats.saude.gov.br/" class="dropdown-item ">Rede Brasileira de Avaliação de Tecnologias de Saúde – REBRATS</a></li>
+		<li id="menu-item-213370" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213370"><a href="http://sites.bvsalud.org/redetsa/pt/brisa/" class="dropdown-item ">Base Regional de Informes de ATS das Américas – BRISA</a></li>
+		<li id="menu-item-213371" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213371"><a href="http://siops.datasus.gov.br/" class="dropdown-item ">Sistema de Informação sobre Orçamentos Públicos em Saúde – SIOPS</a></li>
+	</ul>
+</li>
+	<li id="menu-item-213322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213322 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Áreas Temáticas</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li id="menu-item-213323" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213323"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=aspectos_gerais" class="dropdown-item ">Aspectos gerais da economia da saúde</a></li>
+		<li id="menu-item-213324" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213324"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=avaliacao_economica" class="dropdown-item ">Avaliação de tecnologia em saúde</a></li>
+		<li id="menu-item-213359" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213359"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Feconomia.saude.bvs.br%2F&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=avaliacao_economica" class="dropdown-item ">Avaliação Econômica em Saúde</a></li>
+		<li id="menu-item-213325" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213325"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=equidade_desigualdade" class="dropdown-item ">Equidade e desigualdade em saúde</a></li>
+		<li id="menu-item-213326" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213326"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=estado_mercado_regulacao" class="dropdown-item ">Estado, mercado e regulação econômica em saúde</a></li>
+		<li id="menu-item-213327" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213327"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=financiamentos_gastos" class="dropdown-item ">Financiamento e gastos em saúde</a></li>
+		<li id="menu-item-213328" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213328"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=gestao" class="dropdown-item ">Gestão dos serviços de saúde</a></li>
+	</ul>
+</li>
+	<li id="menu-item-213333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213333 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Estudos e Publicações</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li id="menu-item-213334" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213334"><a href="https://economia.saude.bvs.br/revistas-em-economia-da-saude/" class="dropdown-item ">Revistas em Economia da Saúde</a></li>
+		<li id="menu-item-210958" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-210958"><a href="https://economia.saude.bvs.br/publicacoes-desid-sectics-ms/" class="dropdown-item ">Publicações DESID/SECTICS/MS</a></li>
+		<li id="menu-item-213335" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213335"><a href="/publicacoes-nes/" class="dropdown-item ">Legislações e Publicações dos NES</a></li>
+	</ul>
+</li>
+	<li id="menu-item-213358" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213358"><a href="/vitrinas/post_vitrines/" class="dropdown-item ">Vitrines do Conhecimento</a></li>
+	<li id="menu-item-213332" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213332"><a href="https://economia.saude.bvs.br/como-publicar-na-bvs-ecos/" class="dropdown-item ">Como Publicar na BVS Ecos</a></li>
+</ul>
+</li>
+<li id="menu-item-213302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213302"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Comunidade</a>
+<ul class="dropdown-menu  depth_0">
+	<li id="menu-item-213303" class="menu-item menu-item-type-post_type_archive menu-item-object-forum nav-item nav-item-213303"><a href="https://economia.saude.bvs.br/forums/" class="dropdown-item ">Fóruns</a></li>
+	<li id="menu-item-213337" class="menu-item menu-item-type-post_type menu-item-object-buddypress nav-item nav-item-213337"><a href="https://economia.saude.bvs.br/groups/" class="dropdown-item ">Grupos</a></li>
+</ul>
+</li>
+<li id="menu-item-213338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213338"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Ecos Comunica</a>
+<ul class="dropdown-menu  depth_0">
+	<li id="menu-item-213339" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213339"><a href="https://economia.saude.bvs.br/noticias/" class="dropdown-item ">Notícias</a></li>
+	<li id="menu-item-213340" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213340"><a href="#" class="dropdown-item ">Informes da Rede</a></li>
+	<li id="menu-item-213341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213341 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Videos e Fotos</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li id="menu-item-213521" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213521"><a href="https://economia.saude.bvs.br/galeria-de-imagens/" class="dropdown-item ">Galeria de Imagens</a></li>
+	</ul>
+</li>
+	<li id="menu-item-213342" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213342"><a href="/podcast/" class="dropdown-item ">Podcasts e Webcasts</a></li>
+</ul>
+</li>
+<li id="menu-item-213348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213348"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Links de Interesse</a>
+<ul class="dropdown-menu  depth_0">
+	<li id="menu-item-213349" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213349"><a href="https://www.gov.br/saude/pt-br/composicao/sectics/desid" class="dropdown-item ">Departamento de Economia e Desenvolvimento em Saúde – DESID</a></li>
+	<li id="menu-item-213350" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213350"><a href="https://sus20anos.produtoravirtual.com/" class="dropdown-item ">Tour Virtual – 20 anos da Economia da Saúde no SUS</a></li>
+	<li id="menu-item-213488" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213488"><a href="https://economia.saude.bvs.br/vhl/links-de-interesse/associacoes-e-instituicoes-em-economia-da-saude/" class="dropdown-item ">Associações e Instituições em Economia da Saúde</a></li>
+</ul>
+</li>
+<li id="menu-item-213353" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213353"><a href="https://economia.saude.bvs.br/direve" class="nav-link ">Eventos</a></li>
+<li id="menu-item-210389" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-210389"><a href="https://economia.saude.bvs.br/contato/" class="nav-link ">Contato</a></li>
+</ul>                    </div>
+                </div>
+
+                <div id="main-nav" class="collapse navbar-collapse"><ul id="menu-menu-principal-1" class="navbar-nav ms-auto"><li class="menu-item menu-item-type-post_type menu-item-object-vhl_collection menu-item-has-children dropdown nav-item nav-item-210305"><a href="https://economia.saude.bvs.br/vhl/sobre-a-bvs/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Rede Ecos</a>
+<ul class="dropdown-menu  depth_0">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213311"><a href="https://economia.saude.bvs.br/o-que-e/" class="dropdown-item ">O que é</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213310"><a href="https://economia.saude.bvs.br/composicao/" class="dropdown-item ">Composição</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213317"><a href="https://economia.saude.bvs.br/organograma/" class="dropdown-item ">Organograma</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213316"><a href="https://economia.saude.bvs.br/legislacao/" class="dropdown-item ">Legislação</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213318"><a href="https://economia.saude.bvs.br/nucleos-de-economia-da-saude-nes/" class="dropdown-item ">Núcleos de Economia da Saúde NES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213319"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">BVS Ecos</a>
+<ul class="dropdown-menu  depth_0">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213372 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Sobre a BVS Ecos</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213373"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/a-bvs-economia-da-saude/" class="dropdown-item ">A BVS Economia da Saúde</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213374"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/documentos-de-apoio/" class="dropdown-item ">Documentos de Apoio</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213375"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/comite-consultivo-organizador/" class="dropdown-item ">Comitê Consultivo BVS ECOS</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213376"><a href="https://economia.saude.bvs.br/sobre-a-bvs-ecos/reunioes-do-comite-consultivo/" class="dropdown-item ">Reuniões do Comitê Consultivo</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213364 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Fontes de Informação</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213365"><a href="http://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;where=&amp;filter%5Bdb%5D%5B%5D=ECOS" class="dropdown-item ">Base de dados ECOS</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213366"><a href="https://www.gov.br/saude/pt-br/acesso-a-informacao/acoes-e-programas/pngc" class="dropdown-item ">Programa Nacional de Gestão de Custos</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213367"><a href="https://www.gov.br/saude/pt-br/acesso-a-informacao/banco-de-precos" class="dropdown-item ">Banco de Preços em Saúde – BPS</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213368"><a href="http://conitec.gov.br/" class="dropdown-item ">Conitec – Consultas Públicas</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213369"><a href="http://rebrats.saude.gov.br/" class="dropdown-item ">Rede Brasileira de Avaliação de Tecnologias de Saúde – REBRATS</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213370"><a href="http://sites.bvsalud.org/redetsa/pt/brisa/" class="dropdown-item ">Base Regional de Informes de ATS das Américas – BRISA</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213371"><a href="http://siops.datasus.gov.br/" class="dropdown-item ">Sistema de Informação sobre Orçamentos Públicos em Saúde – SIOPS</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213322 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Áreas Temáticas</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213323"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=aspectos_gerais" class="dropdown-item ">Aspectos gerais da economia da saúde</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213324"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=avaliacao_economica" class="dropdown-item ">Avaliação de tecnologia em saúde</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213359"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Feconomia.saude.bvs.br%2F&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=avaliacao_economica" class="dropdown-item ">Avaliação Econômica em Saúde</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213325"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=equidade_desigualdade" class="dropdown-item ">Equidade e desigualdade em saúde</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213326"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=estado_mercado_regulacao" class="dropdown-item ">Estado, mercado e regulação econômica em saúde</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213327"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=financiamentos_gastos" class="dropdown-item ">Financiamento e gastos em saúde</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213328"><a href="https://pesquisa.bvsalud.org/economia/?u_filter%5B%5D=fulltext&amp;u_filter%5B%5D=db&amp;u_filter%5B%5D=mj_cluster&amp;u_filter%5B%5D=type_of_study&amp;u_filter%5B%5D=clinical_aspect&amp;u_filter%5B%5D=limit&amp;u_filter%5B%5D=pais_assunto&amp;u_filter%5B%5D=la&amp;u_filter%5B%5D=year_cluster&amp;u_filter%5B%5D=type&amp;u_filter%5B%5D=ta_cluster&amp;u_filter%5B%5D=jd&amp;u_filter%5B%5D=pais_afiliacao&amp;u_filter%5B%5D=economia_tag&amp;fb=&amp;lang=pt&amp;home_url=http://economia.saude.bvs.br/&amp;home_text=BVS+Economia+e+Sa%C3%BAde&amp;inputval=Pesquisar&amp;q=&amp;where=&amp;filter%5Beconomia_tag%5D%5B%5D=gestao" class="dropdown-item ">Gestão dos serviços de saúde</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213333 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Estudos e Publicações</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213334"><a href="https://economia.saude.bvs.br/revistas-em-economia-da-saude/" class="dropdown-item ">Revistas em Economia da Saúde</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-210958"><a href="https://economia.saude.bvs.br/publicacoes-desid-sectics-ms/" class="dropdown-item ">Publicações DESID/SECTICS/MS</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213335"><a href="/publicacoes-nes/" class="dropdown-item ">Legislações e Publicações dos NES</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213358"><a href="/vitrinas/post_vitrines/" class="dropdown-item ">Vitrines do Conhecimento</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213332"><a href="https://economia.saude.bvs.br/como-publicar-na-bvs-ecos/" class="dropdown-item ">Como Publicar na BVS Ecos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213302"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Comunidade</a>
+<ul class="dropdown-menu  depth_0">
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-forum nav-item nav-item-213303"><a href="https://economia.saude.bvs.br/forums/" class="dropdown-item ">Fóruns</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-buddypress nav-item nav-item-213337"><a href="https://economia.saude.bvs.br/groups/" class="dropdown-item ">Grupos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213338"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Ecos Comunica</a>
+<ul class="dropdown-menu  depth_0">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213339"><a href="https://economia.saude.bvs.br/noticias/" class="dropdown-item ">Notícias</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213340"><a href="#" class="dropdown-item ">Informes da Rede</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213341 dropdown-menu-child-item dropdown-menu-end at_depth_1"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Videos e Fotos</a>
+	<ul class="dropdown-menu dropdown-submenu  depth_1">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-213521"><a href="https://economia.saude.bvs.br/galeria-de-imagens/" class="dropdown-item ">Galeria de Imagens</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213342"><a href="/podcast/" class="dropdown-item ">Podcasts e Webcasts</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-213348"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" data-bs-auto-close="outside" aria-expanded="false">Links de Interesse</a>
+<ul class="dropdown-menu  depth_0">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213349"><a href="https://www.gov.br/saude/pt-br/composicao/sectics/desid" class="dropdown-item ">Departamento de Economia e Desenvolvimento em Saúde – DESID</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213350"><a href="https://sus20anos.produtoravirtual.com/" class="dropdown-item ">Tour Virtual – 20 anos da Economia da Saúde no SUS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213488"><a href="https://economia.saude.bvs.br/vhl/links-de-interesse/associacoes-e-instituicoes-em-economia-da-saude/" class="dropdown-item ">Associações e Instituições em Economia da Saúde</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-213353"><a href="https://economia.saude.bvs.br/direve" class="nav-link ">Eventos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-210389"><a href="https://economia.saude.bvs.br/contato/" class="nav-link ">Contato</a></li>
+</ul></div>
+            </nav>
+        </div>
+	</header><!-- #masthead -->
+    
+    
+    
+	<div id="content" class="site-content">
+		<div class="container">
+			<div class="row">
+
+    
+<section id="primary" class="content-area col-sm-12 col-lg-12">
+	<div id="main" class="site-main" role="main">
+
+		
+			<nav aria-label="breadcrumb">
+				<ol class="breadcrumb">
+					<li class="breadcrumb-item"><a href="https://economia.saude.bvs.br/">Home</a></li>
+					
+										<li class="breadcrumb-item"><a href="https://economia.saude.bvs.br/noticias/">Notícias</a></li>
+					
+					<li class="breadcrumb-item active" aria-current="page">Ministério da Saúde instala Centro de Operação de Emergência para enfrentar as chuvas intensas na região Sul</li>
+				</ol>
+			</nav>
+
+		
+<article id="post-212919" class="post-212919 post type-post status-publish format-standard hentry category-uncategorized">
+
+	<div class="row grid-taxonomy-date">	
+					<div class="col-sm-6 col-md-6 taxonomy-grid">
+				<label class="categories-post d-block">
+					<a class="taxonomy uncategorized" href="https://economia.saude.bvs.br/category/uncategorized/">Uncategorized</a>				</label>
+			</div>
+			<div class="col-sm-6 col-md-6 date-grid">			
+				<label class="date-post d-block">07/maio/2024</label>			
+			</div>
+				
+	</div>
+
+			<header class="entry-header">
+			<h1 class="title">Ministério da Saúde instala Centro de Operação de Emergência para enfrentar as chuvas intensas na região Sul</h1>		</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		
+		<div class="documentDescription">O objetivo do centro de operações emergenciais é a organização, coordenação e controle das medidas a serem empregadas na região</div>
+<div></div>
+<div id="viewlet-above-content-body">
+<div id="media"><img fetchpriority="high" decoding="async" src="https://www.gov.br/saude/pt-br/assuntos/noticias/2024/maio/saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul/reuniao-coe.png/@@images/b8002263-91b9-4f74-946b-fc07694c4bb1.png" alt="reuniao coe.png" width="768" height="354"><p></p>
+<p class="discreet">Foto: Walterson Rosa/Ministério da Saúde</p>
+</div>
+</div>
+<div id="content-core">
+<div id="parent-fieldname-text" class="">
+<div>
+<p>Em resposta à tragédia climática enfrentada pelos estados do Rio Grande do Sul e Santa Catarina, o Ministério da Saúde instalou, neste sábado (4), o&nbsp;<a class="external-link" title="" href="https://www.gov.br/saude/pt-br/composicao/svsa/coes" target="_blank" rel="noopener noreferrer" data-tippreview-enabled="false" data-tippreview-image="" data-tippreview-title="">Centro de Operações de Emergência (COE)</a>&nbsp;para chuvas intensas e inundações na região. Durante a primeira reunião do COE, coordenada pela ministra da Saúde Nísia Trindade, foi analisado o cenário dos municípios após serem afetados por intensas chuvas, e foram discutidas as ações de saúde pública para o atendimento das emergências.</p>
+<p>“O momento atual é de salvar vidas, o COE é um importante movimento para as tomadas de decisão que serão executadas na região para a recuperação do Sistema de Saúde e atendimento à população,” ressaltou a ministra da Saúde Nísia Trindade.</p>
+<p>Com o início das operações emergenciais, o objetivo é a organização, coordenação e controle das medidas a serem empregadas durante as ações e planos de assistência. O COE também se articula com os gestores estaduais e municipais do&nbsp;<a class="internal-link" title="" href="https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sus" target="_blank" rel="noopener noreferrer" data-tippreview-image="" data-tippreview-title="" data-tippreview-enabled="false">Sistema Único de Saúde (SUS)</a>&nbsp;e com outros órgãos e entidades do Poder Público para tomar medidas necessárias e rápidas para o enfrentamento da emergência, como envio de equipes e insumos, preparação de relatórios técnicos sobre as situações epidemiológicas, de assistência, além do andamento de ações administrativas necessárias.</p>
+<p>Na última quinta-feira (2), o Ministério da Saúde confirmou a mobilização de 60 profissionais do Hospital de Clínicas de Porto Alegre (HCPA) e do Grupo Hospitalar Conceição (GhC), que promoverão assistência à população gaúcha. As equipes da Força Nacional do SUS também chegaram ao estado para reforçar o atendimento em saúde. Para auxiliar no socorro às vítimas, será instalado um hospital de campanha do Ministério da Saúde em Canoas (RS), que irá iniciar o atendimento neste domingo (5).</p>
+<p>Além disso, foram enviados 20 kits de emergência, compostos por 32 tipos de medicamentos e 16 tipos de insumos cada — como luvas, seringas, ataduras e outros —, suficientes para atender, no total, 30 mil pessoas durante um mês. No entanto, devido ao fechamento do aeroporto de Porto Alegre, somente 10 kits chegaram à capital gaúcha, outros 10 kits estão sendo enviados por via terrestre.</p>
+<p>A Pasta também autorizou, nesta sexta-feira (3), o pagamento de quase R$ 540 milhões em emendas parlamentares ao estado gaúcho. O repasse é fruto dos esforços do ministério, em parceria com a Secretaria de Relações Institucionais (SRI), para apoiar e prestar assistência aos municípios afetados pela tragédia climática.</p>
+<p><strong>Mais ações realizadas pelo Ministério da Saúde</strong></p>
+<ul>
+<li>Envio de 10 profissionais assistenciais especialistas em transporte aeromédico;</li>
+<li>Articulação do Serviço Aeromédico da PRF com o SAMU;</li>
+<li>Apoio dos Hospitais de Excelência (Moinhos de Vento, Einstein, Sírio-Libanês, HCor, Beneficência Portuguesa, Hospital Alemão Oswaldo Cruz), com insumos, medicamentos e profissionais especialistas;</li>
+<li>Liberação de recursos emergenciais da Atenção Primária, Especializada e Vigilância em Saúde, para o estado e todos os municípios;</li>
+<li>Priorização de portarias com outras demandas do estado que estavam em análise (Teto MAC e habilitações de serviços);</li>
+<li>Articulação com Secretaria Estadual de Saúde, Secretarias Municipais de Saúde e Hospitais, visando evitar o desabastecimento e fortalecer a retaguarda para os hospitais afetados;</li>
+</ul>
+<p><em>Fonte: Ministério da Saúde</em></p>
+</div>
+</div>
+</div>
+	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<div class="btn-group">
+    <button class="btn btn-share btn-outline-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+        Share <i class="bi bi-share"></i>
+    </button>
+    <ul class="dropdown-menu">
+        <li>
+            <a target="_blank" class="dropdown-item" href="https://www.facebook.com/share.php?u=https://economia.saude.bvs.br/2024/05/07/ministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul/">
+                <i class="fa-brands fa-facebook fa-lg m-r-5"></i> Facebook
+            </a>
+        </li>
+        <li>
+            <a target="_blank" class="dropdown-item" href="http://twitter.com/share?text=Minist%C3%A9rio+da+Sa%C3%BAde+instala+Centro+de+Opera%C3%A7%C3%A3o+de+Emerg%C3%AAncia+para+enfrentar+as+chuvas+intensas+na+regi%C3%A3o+Sul&amp;url=https://economia.saude.bvs.br/2024/05/07/ministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul/">
+                <i class="fa-brands fa-x-twitter fa-lg m-r-5"></i> Twitter
+            </a>
+        </li>
+        <li>
+            <a target="_blank" class="dropdown-item" href="https://api.whatsapp.com/send?text=Ministério da Saúde instala Centro de Operação de Emergência para enfrentar as chuvas intensas na região Sul - https%3A%2F%2Feconomia.saude.bvs.br%2F2024%2F05%2F07%2Fministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul%2F">
+                <i class="fa-brands fa-whatsapp fa-lg m-r-5"></i> WhatsApp
+            </a>
+        </li>
+        <li>
+            <a class="dropdown-item" href="mailto:?body=https%3A%2F%2Feconomia.saude.bvs.br%2F2024%2F05%2F07%2Fministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul%2F&amp;subject=Ministério da Saúde instala Centro de Operação de Emergência para enfrentar as chuvas intensas na região Sul">
+                <i class="fa-solid fa-envelope fa-lg m-r-5"></i> Email
+            </a>
+        </li>
+        <li>
+            <a target="_blank" class="dropdown-item" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Feconomia.saude.bvs.br%2F2024%2F05%2F07%2Fministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul%2F">
+                <i class="fa-brands fa-linkedin fa-lg m-r-5"></i> Linkedin</a>
+        </li>
+        <li>
+            <a target="_blank" class="dropdown-item" href="tg://msg_url?url=https%3A%2F%2Feconomia.saude.bvs.br%2F2024%2F05%2F07%2Fministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul%2F">
+                <i class="fa-brands fa-telegram fa-lg m-r-5"></i> Telegram
+            </a>
+        </li>
+    </ul>
+</div>
+					<div class="reactions-group">
+				<div class="pld-like-dislike-wrap pld-template-1">
+    <div class="pld-like-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-like-trigger pld-like-dislike-trigger  " title="" data-post-id="212919" data-trigger-type="like" data-restriction="cookie" data-already-liked="0">
+                        <i class="fas fa-thumbs-up"></i>
+                </a>
+    <span class="pld-like-count-wrap pld-count-wrap">0    </span>
+</div><div class="pld-dislike-wrap  pld-common-wrap">
+    <a href="javascript:void(0)" class="pld-dislike-trigger pld-like-dislike-trigger  " title="" data-post-id="212919" data-trigger-type="dislike" data-restriction="cookie" data-already-liked="0">
+                        <i class="fas fa-thumbs-down"></i>
+                </a>
+    <span class="pld-dislike-count-wrap pld-count-wrap">0</span>
+</div></div>			</div>
+		
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<div id="comments" class="comments-area">
+
+    
+    	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deixe uma resposta <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2024/05/07/ministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul/#respond" style="display:none;">Cancelar resposta</a></small></h3><form action="https://economia.saude.bvs.br/wp-comments-post.php" method="post" id="commentform" class="comment-form row" novalidate=""><p class="comment-notes"><span id="email-notes">O seu endereço de e-mail não será publicado.</span> <span class="required-field-message">Campos obrigatórios são marcados com <span class="required">*</span></span></p><div class="comment-form-comment col-md-12">
+            <label for="comment">Mensagem*</label>
+            <textarea placeholder="Mensagem" id="comment" class="form-control" name="comment" cols="45" rows="8" aria-required="true"></textarea>
+        </div><div class="comment-form-author col-md-6">
+                <label for="author">Nome*</label>
+                <input placeholder="Nome" id="author" name="author" type="text" class="form-control" value="" aria-required="true">
+            </div>
+<div class="comment-form-email col-md-6">
+                <label for="email">Email*</label>
+                <input placeholder="Email" id="email" name="email" type="email" class="form-control" value="" aria-required="true">
+            </div>
+<div class="comment-form-cookies-consent col-md-12">
+                 <input id="wp-comment-cookies-consent" class="form-check-input" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent" class="form-check-label">Salvar meus dados neste navegador para a próxima vez que eu comentar.</label>
+            </div>
+<div class="form-submit col-md-12"><div class="itsec-recaptcha-opt-in"><p>For security, use of Google's reCAPTCHA service is required which is subject to the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Use</a>.</p><p><a href="https://economia.saude.bvs.br/2024/05/07/ministerio-da-saude-instala-centro-de-operacao-de-emergencia-para-enfrentar-as-chuvas-intensas-na-regiao-sul/?recaptcha-opt-in=true" class="itsec-recaptcha-opt-in__agree">I agree to these terms</a>.</p><script type="text-template" class="itsec-recaptcha-opt-in__template"><div class="g-recaptcha" id="g-recaptcha-1" data-sitekey="6LekEjgUAAAAAENTpFu911YGaoz6vvigY-7VnSQy" data-theme="light" style="margin:0px 0px 0px 0px"></div></script></div><input name="submit" type="submit" id="commentsubmit" class="submit" value="Postar Comentário"> <input type="hidden" name="comment_post_ID" value="212919" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</div><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="e0c3a49e1a"></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>Δ<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="248"><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+	</div><!-- #main -->
+
+		
+</section><!-- #primary -->
+
+		</div><!-- .row -->
+	</div><!-- .container -->
+</div><!-- #content -->
+
+
+<footer id="colophon" class="footer site-footer navbar-light" role="contentinfo">
+	<div class="container">
+		<div class="row">
+			<!-- Left Column -->
+			<div class="col-md-6 site-info">
+								<h5>Rede Ecos</h5>
+				<h6>Rede de Economia e Desenvolvimento em Saúde</h6>
+
+				<h5>BVS Ecos</h5>
+				<h6>Biblioteca Virtual em Economia da Saúde</h6>
+
+				<div class="social-icons">
+    
+    
+    
+    
+    </div>
+				<p><a href="https://www.gov.br/saude/pt-br/composicao/sectics/desid" target="_blank" rel="noopener">Departamento de Economia e Desenvolvimento em Saúde</a><br>
+Secretaria de Ciência, Tecnologia e Inovação e do Complexo Econômico-Industrial da Saúde - Ministério da Saúde - Brasil<br>
+Esplanada dos Ministérios - Bloco "G" - Sobreloja - CEP: 70.058-900<br>
+Fones: (61) 3315-3327<br>
+Uma iniciativa do&nbsp;<a href="https://www.gov.br/saude/pt-br" target="_blank" rel="noopener">Ministério da Saúde</a>&nbsp;e&nbsp;<a href="https://www.paho.org/bireme" target="_blank" rel="noopener">BIREME/OPAS/OMS</a></p>
+<p><a href="https://politicas.bireme.org/terminos/pt/index.html" target="_blank" rel="noopener">Termos e Condições de uso</a>&nbsp;|&nbsp;<a href="https://politicas.bireme.org/privacidad/pt/index.html" target="_blank" rel="noopener">Políticas de Privacidade</a></p>
+			</div>
+			<div class="col-md-6 site-map">
+				<div class="group-site-map"><h5><a href="https://economia.saude.bvs.br/vhl/sobre-a-bvs/">Rede Ecos</a></h5><ul class="list-unstyled"><li><a href="https://economia.saude.bvs.br/o-que-e/">O que é</a></li><li><a href="https://economia.saude.bvs.br/composicao/">Composição</a></li><li><a href="https://economia.saude.bvs.br/organograma/">Organograma</a></li><li><a href="https://economia.saude.bvs.br/legislacao/">Legislação</a></li><li><a href="https://economia.saude.bvs.br/nucleos-de-economia-da-saude-nes/">Núcleos de Economia da Saúde NES</a></li></ul></div><div class="group-site-map"><h5><a href="#">BVS Ecos</a></h5><ul class="list-unstyled"><li><a href="/sobre-a-bvs-ecos/">Sobre a BVS Ecos</a></li><li><a href="/fontes-de-informacao/">Fontes de Informação</a></li><li><a href="/areas-tematicas/">Áreas Temáticas</a></li><li><a href="/estudos-e-publicacoes/">Estudos e Publicações</a></li><li><a href="/vitrinas/post_vitrines/">Vitrines do Conhecimento</a></li><li><a href="https://economia.saude.bvs.br/como-publicar-na-bvs-ecos/">Como Publicar na BVS Ecos</a></li></ul></div><div class="group-site-map"><h5><a href="#">Comunidade</a></h5><ul class="list-unstyled"><li><a href="https://economia.saude.bvs.br/forums/">Fóruns</a></li><li><a href="https://economia.saude.bvs.br/groups/">Grupos</a></li></ul></div><div class="group-site-map"><h5><a href="#">Ecos Comunica</a></h5><ul class="list-unstyled"><li><a href="https://economia.saude.bvs.br/noticias/">Notícias</a></li><li><a href="#">Informes da Rede</a></li><li><a href="#">Videos e Fotos</a></li><li><a href="/podcast/">Podcasts e Webcasts</a></li></ul></div><div class="group-site-map"><h5><a href="#">Links de Interesse</a></h5><ul class="list-unstyled"><li><a href="https://www.gov.br/saude/pt-br/composicao/sectics/desid">Departamento de Economia e Desenvolvimento em Saúde - DESID</a></li><li><a href="https://sus20anos.produtoravirtual.com/">Tour Virtual - 20 anos da Economia da Saúde no SUS</a></li></ul></div><div class="group-site-map"><h5><a href="https://economia.saude.bvs.br/direve">Eventos</a></h5></div><div class="group-site-map"><h5><a href="https://economia.saude.bvs.br/contato/">Contato</a></h5></div>			</div>
+		</div>
+	</div>
+</footer>
+
+</div><!-- #page -->
+
+<link rel="stylesheet" id="itsec-recaptcha-opt-in-css" href="https://economia.saude.bvs.br/wp-content/plugins/ithemes-security-pro/pro/recaptcha/css/itsec-recaptcha.css?ver=4124" type="text/css" media="all">
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/economia.saude.bvs.br\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/libs/bootstrap-5.3.3/js/popper.min.js?ver=2.11.8" id="bvs-ecos-popper-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/libs/bootstrap-5.3.3/js/bootstrap.min.js?ver=5.3.3" id="bvs-ecos-bootstrapjs-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/js/theme-script.min.js?ver=6.7" id="bvs-ecos-themejs-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/js/skip-link-focus-fix.min.js?ver=20151215" id="bvs-ecos-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/themes/bvs-ecos/inc/assets/libs/tagify-4.31.3/js/tagify.js?ver=4.31.3" id="bvs-ecos-tagify-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-includes/js/comment-reply.min.js?ver=6.7" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.7" id="page-links-to-js"></script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/ithemes-security-pro/pro/recaptcha/js/recaptcha-v2.js?ver=4124" id="itsec-recaptcha-script-js"></script>
+<script type="text/javascript" id="itsec-recaptcha-opt-in-js-extra">
+/* <![CDATA[ */
+var ITSECRecaptchaOptIn = {"googlejs":"https:\/\/www.google.com\/recaptcha\/api.js?render=explicit&onload=itsecRecaptchav2Load","onload":"itsecRecaptchav2Load"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/ithemes-security-pro/pro/recaptcha/js/optin.js?ver=4124" id="itsec-recaptcha-opt-in-js"></script>
+<script defer="" type="text/javascript" src="https://economia.saude.bvs.br/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1727807868" id="akismet-frontend-js"></script>
+
+<script type="text/javascript">/* <![CDATA[ */
+$ = jQuery;
+$(document).ready(function() { 
+            inputval = $( ".vhl-search-submit" ).val();
+            $( "#vhl-search-input", this).focus(function() {
+                if (inputval == $(this).val())
+                {
+                    $(this).attr('value', '');
+                }
+            });
+            $( "#vhl-search-input", this ).blur(function() {
+                if (!$(this).val())
+                {
+                    $(this).attr('value', inputval);
+                }
+            });
+            $( "#searchForm", this ).submit(function() {
+                if ($(this).children('#vhl-search-input').val() == inputval)
+                {
+                    $(this).children('#vhl-search-input').attr('value', '');
+                }
+            });
+    
+});
+/* ]]> */</script>
+<noscript>Your browser does not support JavaScript!</noscript>
+
+ 
+        <script type="text/javascript">/* <![CDATA[ */
+            function vhl_clusters_open_cluster(cluster, field, url, lang) {
+                var f = document.createElement("form");
+                f.setAttribute('method',"get");
+                f.setAttribute('action', url);
+
+                var i = document.createElement("input");
+                i.setAttribute('type',"hidden");
+                i.setAttribute('name', "filter["+cluster+"][]");
+                i.setAttribute('value', field);
+                f.appendChild(i);
+
+                var l = document.createElement("input");
+                l.setAttribute('type',"hidden");
+                l.setAttribute('name', "lang");
+                l.setAttribute('value', lang);
+                f.appendChild(l);
+
+                document.body.appendChild(f);
+
+                f.submit();
+            }
+        /* ]]> */</script>
+        <noscript>Your browser does not support JavaScript!</noscript>
+
+        <style>
+            .vhl_clusters_2_columns {
+                width: 50%;
+                float: left;
+            }
+            .vhl_clusters_3_columns {
+                width: 33%;
+                float: left;
+            }
+        </style>
+
+    
+
+</body></html>

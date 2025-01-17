@@ -1,0 +1,2472 @@
+<html lang="pt-br"><head>
+    <meta charset="utf-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <link rel="preconnect" href="//cdn.taboola.com">
+<link rel="preconnect" href="//ajax.googleapis.com">
+<link rel="preconnect" href="//tags.cmp.tail.digital">
+<link rel="preconnect" href="//securepubads.g.doubleclick.net">
+
+<!-- Cole o código dentro da tag head -->
+<link rel="preconnect" href="https://tagmanager.alright.network">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+<script async="" src="https://tagmanager.alright.network/manager/js/container_X2WNYyk5.js"></script>
+<!-- Alright Tag Manager --> 
+
+<script type="text/javascript" src="/polopoly_fs/3.139.1701183404!/jquery-1.12.4.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;900&amp;display=swap" rel="stylesheet">
+
+<script>
+var adsok = false;
+var cbq = 'anon';
+function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+if ( getCookie("CTEARCJR") != "") {
+        adsok = true;
+        cbq = 'paid';
+}
+</script>
+
+
+
+<script>
+$((function() {
+document.querySelector("div.login.item3").innerHTML = "";
+document.querySelector("#menuHeader>.container.menufixo.topo>.flipside.login").innerHTML = "";
+document.querySelector("#mySidenav>.login").innerHTML = "";
+
+const edicaodigitaltopo = document.createElement("div");
+	edicaodigitaltopo.title = "Edição Digital";
+    edicaodigitaltopo.className = "edicaodigital";
+    edicaodigitaltopo.innerHTML = '<span><img src="https://www.correiodopovo.com.br/image/contentid/policy:1.1491710/EdicaoDigital.png?f=default&$p$f=b1661e4&w=30" style="width: 25px;"></span><a href="https://digital2.correiodopovo.com.br" target="_Blank">Edição digital</a>';
+
+const assinetopo = document.createElement("div");
+        assinetopo.className = "assinar";
+	assinetopo.innerHTML = '<a href="https://assine.correiodopovo.com.br/" target="_Blank">Assine</a>';
+
+const assineheader = document.createElement("div");
+      assineheader.className = "assinar";
+      assineheader.innerHTML = '<a href="https://assine.correiodopovo.com.br/" target="_Blank">Assine</a>';
+
+const assineside = document.createElement("div");
+        assineside.className = "assinar";
+	assineside.innerHTML = '<a href="https://assine.correiodopovo.com.br/" target="_Blank">Assine</a>';
+
+var nomecte = getCookie("CTEARCJR");
+
+if("" != nomecte){
+
+	const logofftopo = document.createElement("div");
+		logofftopo.title = "Clique para Sair";
+		logofftopo.className = "logoff";
+		logofftopo.innerHTML = '<span class="glyphicon glyphicon-user"></span>Olá, ' + decodeURIComponent(nomecte);
+		logofftopo.addEventListener("click", (e => {
+			sair();
+		}));
+
+	const logoffheader = document.createElement("div");
+		logoffheader.title = "Clique para Sair";
+		logoffheader.className = "logoff";
+		logoffheader.innerHTML = '<span class="glyphicon glyphicon-user"></span>Olá, ' + decodeURIComponent(nomecte);
+		logoffheader.addEventListener("click", (e => {
+			sair();
+		}));
+
+	const logoffside = document.createElement("div");
+		logoffside.title = "Clique para Sair";
+		logoffside.className = "logoff";
+		logoffside.innerHTML = '<span class="glyphicon glyphicon-user"></span>Olá, ' + decodeURIComponent(nomecte);
+		logoffside.addEventListener("click", (e => {
+			sair();
+		}));
+		
+	document.querySelector("div.login.item3").appendChild(edicaodigitaltopo);
+        document.querySelector("div.login.item3").appendChild(logofftopo);
+	document.querySelector("#menuHeader>.container.menufixo.topo>.flipside.login").appendChild(assineheader);
+	document.querySelector("#menuHeader>.container.menufixo.topo>.flipside.login").appendChild(logoffheader);
+	document.querySelector("#mySidenav>.login").appendChild(assineside);
+	document.querySelector("#mySidenav>.login").appendChild(logoffside);
+}
+else{
+	
+	const logintopo = document.createElement("div");
+		logintopo.title = "Clique para Entrar";
+		logintopo.className = "entrar";
+		logintopo.innerHTML = '<span class="glyphicon glyphicon-user"></span><a target="_Blank">Entrar</a>';
+		logintopo.addEventListener("click", event => {
+			logincp("https://login.correiodopovo.com.br/Login.aspx");
+		});
+		
+	const loginheader = document.createElement("div");
+		loginheader.title = "Clique para Entrar";
+		loginheader.className = "entrar";
+		loginheader.innerHTML = '<span class="glyphicon glyphicon-user"></span><a target="_Blank">Entrar</a>';
+		loginheader.addEventListener("click", event => {
+			logincp("https://login.correiodopovo.com.br/Login.aspx");
+		});
+		
+	const loginside = document.createElement("div");
+		loginside.title = "Clique para Entrar";
+		loginside.className = "entrar";
+		loginside.innerHTML = '<span class="glyphicon glyphicon-user"></span><a target="_Blank">Entrar</a>';
+		loginside.addEventListener("click", event => {
+			logincp("https://login.correiodopovo.com.br/Login.aspx");
+		});
+
+const edicaodigitalside = document.createElement("div");
+	edicaodigitalside .title = "Edição Digital";
+    edicaodigitalside .className = "edicaodigital";
+    edicaodigitalside .innerHTML = '<span><img src="https://www.correiodopovo.com.br/image/contentid/policy:1.1491710/EdicaoDigital.png?f=default&$p$f=b1661e4&w=30" style="width: 25px;"></span><a href="https://digital2.correiodopovo.com.br" target="_Blank">Edição digital</a>';
+		
+	document.querySelector("div.login.item3").appendChild(edicaodigitaltopo);
+	document.querySelector("div.login.item3").appendChild(logintopo);
+	document.querySelector("#menuHeader>.container.menufixo.topo>.flipside.login").appendChild(assineheader);
+	document.querySelector("#menuHeader>.container.menufixo.topo>.flipside.login").appendChild(loginheader);
+	document.querySelector("#mySidenav>.login").appendChild(assineside);
+	document.querySelector("#mySidenav>.login").appendChild(loginside);
+	
+}
+document.querySelector("div.login.item3").setAttribute("style","animation: Keylogin 2s ease 0s 1 normal forwards");
+}));
+function sair(){
+	
+	var o = new Date;
+    o.setTime(o.getTime() + -864e5);
+    var n = "expires=" + o.toGMTString();
+    document.cookie = "CTEARCJR= ;" + n + ";domain=.correiodopovo.com.br;path=/", document.cookie = "nekot= ;" + n + ";domain=.correiodopovo.com.br;path=/", window.location.reload()
+		
+}
+
+function isToday(e) {
+    var o = new Date;
+    return e.getDate() === o.getDate() && e.getMonth() === o.getMonth() && e.getFullYear() === o.getFullYear()
+}
+
+function logincp(e) {
+    var o = ' <div style="background-color: #000000;width: 100%;height: 100%;opacity: 0.9;background-size: cover;position: fixed;top: 0px;left: 0px;z-index: 9999999999;"></div> <iframe src=\'' + e + "' target='_self' style='border: 0px;position: relative;top: 0px;left: 0px;width: 100%;height: 100%;min-width: 325px;min-height: 580px;z-index: 9999999999;'> </iframe>",
+        n = document.createElement("div");
+    n.setAttribute("id", "logintela"), n.setAttribute("style", "position: fixed; z-index: 99999999999"), n.onclick = function() {
+        fecharlogin()
+    }, n.innerHTML = o, document.body.appendChild(n), document.body.style.overflow = "hidden"
+}
+
+function okpwl(p) {
+    adsok = !0, $("#logintela").remove(), window.location.reload()
+}
+
+function fecharlogin() {
+    $("#logintela").remove(), document.body.style.overflow = ""
+}
+
+
+var obpw = new MutationObserver((function(e) {
+    e.forEach((function(e) {
+        window.location.reload()
+    }))
+}));
+
+const observerpw = new MutationObserver((function(e) {
+    e.forEach((function(e) {
+        e.removedNodes.forEach((function(e) {
+            "pwm1623" == e.id && window.location.reload()
+        })), e.addedNodes.forEach((function(e) {
+            if ("pwm1623" == e.id) {
+                var o = $("#cp-underbanner"),
+                    n = $("#r7-header"),
+                    t = $(".trv-player-container"),
+                    a = $("#menuHeader");
+                o.css("display", "none"), t.remove(), n.remove(), a.css("opacity", "0"), a.css("top", "-82px");
+
+		var d = new Date;
+		d.setTime(d.getTime() + -864e5);
+		var x = "expires=" + d.toGMTString();
+		document.cookie = "nekot= ;" + x + ";domain=.correiodopovo.com.br;path=/";
+
+                var i = document.getElementById("pwm1623");
+                obpw.observe(i, {
+                    attributes: !0,
+                    attributeFilter: ["style"]
+                })
+            }
+        }))
+    }))
+}));
+
+observerpw.observe(document, {
+    subtree: !0,
+    childList: !0
+});
+</script>
+
+<script defer="" type="application/javascript" src="https://tags.cmp.tail.digital/3394c06d-2aae-41be-b792-9bcbfc13a839.js" data-config="tailcmpConfig" data-style-prefix="tailcmp"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFKL3B');</script>
+<!-- End Google Tag Manager -->
+
+<script data-cfasync="false" type="text/javascript">
+if ((window.location.href.indexOf("1.593115") > -1) || (window.location.href.indexOf("cpmaissaude") > -1) || (window.location.href.indexOf("especial") > -1)  || (window.location.href.indexOf("correiomaisconteudo") > -1)){
+dnkp = 0;
+} else
+{
+   
+}
+
+</script>
+
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+
+<style> #sm-bounce { position: relative; right: 50%; } </style> 
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '204496277643064');
+  fbq('track', 'PageView');
+</script>
+<noscript></noscript></head><body class="geral"><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=204496277643064&amp;ev=PageView&amp;noscript=1">
+<!-- End Facebook Pixel Code -->
+<meta property="fb:app_id" content="1541293449424905">
+<meta property="fb:pages" content="580405362002636">
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+
+
+                  <link rel="alternate" type="application/rss+xml" title="Capa" href="/cmlink/capa-1.1100281">
+                  <link rel="alternate" type="application/rss+xml" title="Ultimas" href="/cmlink/ultimas-1.1100282">
+        
+              <meta property="article:section" content="">
+
+                                                        
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "datePublished":"2024-02-06T09:11:36-3:00",
+    
+    "headline": "",
+    "description": "",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/taquara-confirma-o-primeiro-caso-de-dengue-em-2024-1.1464348"
+    },
+
+    "image": {
+      "@type": "ImageObject",
+      "url": ["https://www.correiodopovo.com.br/image/contentid/policy:1.1464347:1707222081/Paul%20Silva%20Pref%20Taquara%20(4).jpeg.jpeg?a=2%3A1&$p$a=77cda12", "https://www.correiodopovo.com.br/image/contentid/policy:1.1464347:1707222081/Paul%20Silva%20Pref%20Taquara%20(4).jpeg.jpeg?a=3%3A2&$p$a=5c913f8", "https://www.correiodopovo.com.br/image/contentid/policy:1.1464347:1707222081/Paul%20Silva%20Pref%20Taquara%20(4).jpeg.jpeg?a=1%3A1&$p$a=0199320"]
+    }
+                
+    ,"author": {
+      "@type": "Organization",
+      "name": "Correio do Povo"
+    }
+          
+  }
+</script>
+                                                                  
+            
+                                                        
+                          
+                          
+                                                        
+                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                          
+                                  <script type="text/javascript">
+          var tagsmart = "tag=Dengue;tag=Saúde;tag=Cidades;tag=Casos;tag=Infectado";
+        </script>
+        <meta name="keywords" content="Dengue, Saúde, Cidades, Casos, Infectado">
+        <meta name="author" content="Correio do Povo">
+        
+      
+
+    <link rel="shortcut icon" href="/polopoly_fs/3.274!/faviconCPPB16.png" sizes="16x16">
+    <link rel="icon" href="/polopoly_fs/3.274!/faviconCPPB32.png" sizes="32x32">
+
+    
+
+            
+    
+            <script type="text/javascript">
+if ((window.location.href.indexOf("oficinadejornalismo") > -1))
+{
+}
+else {
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/correiodopovo/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+}
+</script>
+<!-- NEWSROOM SCRIPT -->
+<script>
+    window._newsroom = window._newsroom || [];
+ 
+    !function (e, f, u) {
+        e.async = 1;
+        e.src = u;
+        f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+            document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/correiodopovo/newsroom.js');
+</script>
+<!-- END NEWSROOM SCRIPT -->
+
+    
+              <link rel="amphtml" href="https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/taquara-confirma-o-primeiro-caso-de-dengue-em-2024-1.1464348?amp=1">
+        <link rel="canonical" href="https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/taquara-confirma-o-primeiro-caso-de-dengue-em-2024-1.1464348">
+        
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,700,300" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+      
+                          <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.168.1701183429!/css/bootstrap.min.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.490.1726120533!/belamais.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.297.1701183536!/comments.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.294.1701183534!/video-js.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.294.1701183534!/video.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.283.1726120517!/style.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.259.1726120511!/MainElement.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.256.1726120510!/MainElement.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.253.1726120508!/MainElement.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.253.1726120508!/css/tags.carousel.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.253.1726120508!/css/tags.theme.default.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.253.1726120508!/css/owl.carousel.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.253.1726120508!/css/owl.theme.default.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.231.1726120500!/social-auth.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.231.1726120500!/bootstrap-social.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.222.1726120498!/css/fotorama.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.222.1726120498!/css/fotorama-custom.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.219.1726120497!/SearchElement.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.216.1726120495!/style.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.206.1726120493!/style.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.200.1726120491!/MainElement.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.197.1726120490!/MainElement.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.185.1726120486!/fontawesome/css/font-awesome.min.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.185.1726120486!/fontscorreio/css/fontscorreio.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.185.1726120486!/fontsbelamais/css/fontsbelamais.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.185.1726120486!/stylenovo.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.175.1726120484!/style.css">
+              <link rel="stylesheet" type="text/css" href="/polopoly_fs/3.172.1726120483!/MainElement.css">
+                                    <script type="text/javascript" src="/polopoly_fs/3.142.1701183404!/js.cookie.2.2.0.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.139.1701183404!/jquery-1.12.4.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.146.1726120477!/autotrack.min.js"></script>
+                                                <meta name="google-site-verification" content="j26SXA5lCstrbqGhWCPEJf82xVEp3xkn-zL7da2Rll8">
+                        <link type="text/css" href="/polopoly_fs/3.154!/cookie-alert.css" rel="stylesheet">
+                                  <meta name="google-signin-clientid" content="172526348210-or5nfffa5l6rbsvruouad2070j7ngoec.apps.googleusercontent.com">
+<meta name="google-signin-cookiepolicy" content="single_host_origin">
+<meta name="google-signin-callback" content="googleSignInCallback">
+<meta name="google-signin-scope" content="profile email">
+<meta name="google-signin-redirecturi" content="postmessage">
+<meta name="google-signin-accesstype" content="offline">
+                            <script>
+  $(function() {
+    window.currentUser.isLogged().always(function(data) {
+      if (data) {
+        $.ajax({ url: "/personalization?articleId=policy:1.1464348", method: "POST" });
+      }
+    });
+  });
+</script>
+          
+
+
+
+<title>Taquara confirma o primeiro caso de dengue em 2024</title>
+<meta name="title" content="Taquara confirma o primeiro caso de dengue em 2024">
+<meta name="description" content="Paciente de 24 anos está estável, sem febre e sendo monitorado pela UBS do bairro Empresa">
+<meta property="og:title" content="Taquara confirma o primeiro caso de dengue em 2024">
+<meta property="og:site_name" content="Correio do Povo">
+
+  <meta property="og:url" content="https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/taquara-confirma-o-primeiro-caso-de-dengue-em-2024-1.1464348">
+  
+<meta property="og:description" content="Paciente de 24 anos está estável, sem febre e sendo monitorado pela UBS do bairro Empresa">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://www.correiodopovo.com.br/image/contentid/policy:1.1464347:1707222081/image.jpg?a=191%3A100&amp;q=0.6&amp;w=900&amp;$p$a$q$w=61e089e">
+<meta property="og:image:width" content="900">
+<meta property="og:image:height" content="450">
+          <script src="https://platform.instagram.com/en_US/embeds.js"></script>    
+          <link rel="stylesheet" type="text/css" href="/cmlink/background-10-7.1809">
+          <link rel="stylesheet" type="text/css" href="/cmlink/revolucao-02-7.1808">
+          <link rel="stylesheet" type="text/css" href="/cmlink/videos-float-a11-7.1670">
+          <link rel="stylesheet" type="text/css" href="/cmlink/trecolunas-e-7.116">
+          <link rel="stylesheet" type="text/css" href="/cmlink/styles-h2-7.115">
+          <link rel="stylesheet" type="text/css" href="/cmlink/ilimpiadas-7.114">
+          <link rel="stylesheet" type="text/css" href="/cmlink/removetemperatura-7.113">
+          <link rel="stylesheet" type="text/css" href="/cmlink/vacinometro-7.112">
+          <link rel="stylesheet" type="text/css" href="/cmlink/patrocinio-topo-f2-7.111">
+          <link rel="stylesheet" type="text/css" href="/cmlink/eleicao3-p-01-7.110">
+          <link rel="stylesheet" type="text/css" href="/cmlink/grid-s41-7.109">
+          <link rel="stylesheet" type="text/css" href="/cmlink/cssbellamais-7.108">
+          <link rel="stylesheet" type="text/css" href="/cmlink/eleicao-2022-a17-7.107">
+          <link rel="stylesheet" type="text/css" href="/cmlink/print-v-92-7.1669">
+    
+    <script type="text/javascript" src="/js/com.atex.gong.paywall.membership.js"></script>
+
+    <!-- Infinite scroll logic start -->
+            <script>
+            $(document).ready(function() {
+                var scrollableArticles = [];
+                var articlesAndPos = [];
+                var lastArticle = $( ".article" );
+                var shareButtons = $( ".share-buttons-top" );
+                                                initInfiniteScroll(scrollableArticles, articlesAndPos, lastArticle, shareButtons);
+            });
+        </script>
+        <!-- Infinite scroll logic end -->
+
+    
+                <script type="text/javascript">
+	var ad_editoria = "home";
+</script>
+            <script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://www.correiodopovo.com.br/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"name": "Jornal Correio do Povo",
+		"alternateName": "Correio do Povo",
+		"target": "https://www.correiodopovo.com.br/busca?q={search_term_string}",
+		"query-input": "required name=search_term_string"
+	}
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context": "http://www.schema.org",
+	"@type": "NewsMediaOrganization",
+	"name": "Correio do Povo",
+	"address": {
+		"@type": "PostalAddress",
+		"postalCode": "90019 900",
+		"streetAddress": "Rua Caldas Junior, 219",
+		"addressLocality": "Porto Alegre",
+		"addressRegion": "RS",
+		"addressCountry": "BRA"
+	},
+	"contactPoint": [{
+		"@type": "ContactPoint",
+		"telephone": "+555132161600",
+		"contactType": "customer service"
+	}],
+	"founder": ["Caldas Júnior"],
+	"url": "https://www.correiodopovo.com.br/",
+	"foundingDate": "1895-10-01",
+	"sameAs": ["https://twitter.com/correio_dopovo", "https://www.facebook.com/CorreioDoPovo/", "https://www.instagram.com/CorreioDoPovo/", "https://www.youtube.com/channel/UCphn4Z4L2dGNoh7jz_99EOA"],
+	"logo": {
+		"@type": "ImageObject",
+		"url": ["https://portal.correiodopovo.com.br/imagens/CorreiodoPovo_1x1.png", "https://portal.correiodopovo.com.br/imagens/CorreiodoPovo_4x3.png", "https://portal.correiodopovo.com.br/imagens/CorreiodoPovo_16x9.png"]
+	}
+}
+</script>
+            <script src="https://widget.pingback.com"></script>
+            <!-- -->
+            <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({home:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/correiodopovo/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- NEWSROOM SCRIPT -->
+<script>
+    window._newsroom = window._newsroom || [];
+    window._newsroom.push({pageTemplate: 'home'});
+    window._newsroom.push({pageDashboard: 'home'});
+    window._newsroom.push('auditClicks');
+    window._newsroom.push('trackPage');
+ 
+    !function (e, f, u) {
+        e.async = 1;
+        e.src = u;
+        f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+            document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/correiodopovo/newsroom.js');
+</script>
+<!-- END NEWSROOM SCRIPT -->
+            <script>
+        function obterAutorUrl(){
+            let scriptsldjson = document.querySelectorAll('script[type="application/ld+json"]');
+            let autor = "";
+            for (let i = 0; i < scriptsldjson.length; i++) {
+				try {
+				
+					let jsonLd = JSON.parse(scriptsldjson[i].textContent);
+					if (jsonLd.author) {
+						autor = jsonLd.author.name;
+						break;
+					}
+					
+				} catch (erro) {
+				  
+				}
+
+            }
+            return autor;
+        }
+        function obterSegmentosUrl(url) {
+            let segmentos = url.split('/');
+            let segmentosFiltrados = [];
+            for (let i = 0; i < segmentos.length; i++) {
+                let partes = segmentos[i].split('?'); 
+                if (partes[0] !== "" && !partes[0].includes(".") && !partes[0].includes("-1.") && !partes[0].includes(":") && partes[0] !== "www.correiodopovo.com.br" ) {
+                    let segmento = partes[0];
+                    segmento = decodeURIComponent(segmento);
+                    segmentosFiltrados.push(segmento);
+                }
+            }
+            if(segmentosFiltrados.length === 0)
+            {
+                segmentosFiltrados.push("Capa");
+            }
+            return segmentosFiltrados.join(",");
+        }
+        let segmentos = obterSegmentosUrl(document.location.href);
+        let authorname = obterAutorUrl();
+
+    </script>
+
+<script type="text/javascript">
+  (function() {
+    /** CONFIGURATION START **/
+    var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+    _sf_async_config.uid = 67110;
+    _sf_async_config.domain = 'correiodopovo.com.br'; //CHANGE THIS TO THE ROOT DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.useCanonicalDomain = true;
+    _sf_async_config.sections = segmentos; // CHANGE THIS TO YOUR SECTION NAME(s)
+    _sf_async_config.authors = authorname; // CHANGE THIS TO YOUR AUTHOR NAME(s)
+	var _cbq = window._cbq = (window._cbq || []);
+        _cbq.push(['_acct', cbq]);
+    /** CONFIGURATION END **/
+    function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';
+        n.parentNode.insertBefore(e, n);
+    }
+    loadChartbeat();
+  })();
+</script>
+<script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+    
+  
+  
+      <div data-premium="" data-adunit="CORREIO_DO_POVO_BACKGROUND" data-sizes-desktop="[[1680,1000]]" class="container-max adbackground"></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFKL3B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+var leitorsuperbannermeio = 0;
+var tagm = "";
+if (typeof tagsmart=== "undefined") {
+    sas_target ="";
+    var tagsmart = "";
+} else {
+    sas_target = tagsmart;
+    tagm = tagsmart.replaceAll("tag=","").replaceAll(";",",");
+}
+
+</script>
+
+<cda-partners-bar tag-manager="true" record-origin-only="false" no-follow="false"></cda-partners-bar>
+    <nav id="menuHeader">
+
+      <div class="container menufixo topo">
+        
+            <div>
+                <ul class="nav navbar-nav navbar-left">
+                  <li>
+                    <a style="cursor:pointer;font-size: 22px;padding-right: 0px;" onclick="openNav()">☰</a>
+                  </li>
+                  <li>
+                    <a style="cursor:pointer" onclick="openNav()">menu</a>
+                  </li>
+                </ul>
+            </div>
+            <div class="logobranco">
+              <a href="/"><img src="https://portal.correiodopovo.com.br/imagens/Correio_do_Povo_branco.png" alt="Correio do Povo" title="Correio do Povo"></a>
+            </div>
+
+            <div class="flipside login">
+              <div class="assinar">
+                <a href="http://leitor.correiodopovo.com.br/?tag=assinetopo" target="_Blank">Assine</a>
+              </div>
+              <div class="entrar">
+                <a href="http://digital.correiodopovo.com.br" target="_Blank">Entrar</a> 
+                <span class="glyphicon glyphicon-user"></span>
+              </div>
+            </div>
+        
+      </div>
+        <div class="RS"></div>
+    </nav>
+
+    <div id="overlay" onclick="closeNav()">
+    </div>
+    <div id="mySidenav" class="sidenav style-4">    
+        <div class="login">
+    <div class="entrar">
+      <a href="http://digital.correiodopovo.com.br" target="_Blank">Entrar</a>
+      <span class="glyphicon glyphicon-user"></span>
+    </div>
+    <div class="assinar">
+      <a href="http://leitor.correiodopovo.com.br/?tag=assinetopo" target="_Blank">Assine</a>
+    </div>
+  </div>
+  <div class="buscageral menuside">
+        
+
+    <form class="form-search form-inline" action="/busca" method="get">
+        <input type="text" name="q" value="" class="form-control search-query" placeholder="Search...">
+    </form>
+  </div>
+      <ul class="menuside">
+    
+      
+     
+        
+    <li class="Últimas" data-toggle="collapse" data-target="#Últimas" style="cursor:pointer;"><a href="/%C3%BAltimas">Últimas</a>
+            
+      
+    </li>
+     
+        
+    <li class="Newsletter" data-toggle="collapse" data-target="#Newsletter" style="cursor:pointer;"><a href="/newsletter">Newsletter</a>
+                                            
+      
+    </li>
+  
+
+                              <li>
+            <a href="https://www.correiodopovo.com.br/verao">VERÃO</a>
+          </li>
+                                          <li>
+            <a href="https://www.correiodopovo.com.br/esportes/gr%C3%AAmio">GRÊMIO</a>
+          </li>
+                                          <li>
+            <a href="https://www.correiodopovo.com.br/esportes/inter">INTER</a>
+          </li>
+                                              </ul>
+  
+  <ul class="menuside">
+    
+     
+        
+    <li class="Opinião" data-toggle="collapse" data-target="#Opinião" style="cursor:pointer;"><a href="/opiniao">Opinião</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Opinião" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/opiniao/charge">Charge</a></li>
+                                                <li><a href="/opiniao/doleitor">Do Leitor</a></li>
+                                                <li><a href="/blogs/2.221">Artigos</a></li>
+                                                <li><a href="/opiniao/editorial">Editorial</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Colunistas" data-toggle="collapse" data-target="#Colunistas" style="cursor:pointer;"><a href="/colunistas">Colunistas</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Colunistas" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/colunistas/alexandre-garcia">Alexandre Garcia</a></li>
+                                                                      <li><a href="/colunistas/guaracy-andrade">Guaracy Andrade</a></li>
+                                                                      <li><a href="/colunistas/jurandir-soares">Jurandir Soares</a></li>
+                                                <li><a href="/colunistas/luiz-coronel">Luiz Coronel</a></li>
+                                                <li><a href="/colunistas/luiz-gonzaga-lopes">Luiz Gonzaga Lopes</a></li>
+                                                <li><a href="/colunistas/marcossantuario">Marcos Santuario</a></li>
+                                                                      <li><a href="/colunistas/rogeriomendelski">Rogério Mendelski</a></li>
+                                                <li><a href="/colunistas/taline-oppitz">Taline Oppitz</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Blogs" data-toggle="collapse" data-target="#Blogs" style="cursor:pointer;"><a href="/blogs">Blogs</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Blogs" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/blogs/bichoamigo">Bicho Amigo</a></li>
+                                                <li><a href="/blogs/campereada">Campereada</a></li>
+                                                <li><a href="/blogs/carrosemotos">Carros &amp; Motos</a></li>
+                                                <li><a href="/blogs/cenarock">Cena Rock</a></li>
+                                                <li><a href="/blogs/cinecp">Cine CP</a></li>
+                                                                                            <li><a href="/blogs/di%C3%A1logos">Diálogos</a></li>
+                                                <li><a href="/blogs/economiasimples">Economia&nbsp;Simples</a></li>
+                                                <li><a href="/blogs/fotocorreio">Foto Correio</a></li>
+                                                <li><a href="/blogs/h%C3%A1-um-s%C3%A9culo-no-cp">Há um Século no CP</a></li>
+                                                <li><a href="/blogs/hiltormombach">Hiltor Mombach</a></li>
+                                                                                                                  <li><a href="/blogs/maisportoalegre">Mais Porto Alegre</a></li>
+                                                                      <li><a href="/blogs/oficinadejornalismo">Oficina de Jornalismo</a></li>
+                                                <li><a href="/blogs/omelhordanossagente">O Melhor da Nossa Gente</a></li>
+                                                <li><a href="/blogs/oscarbessi">Oscar Bessi</a></li>
+                                                <li><a href="/blogs/pitlane">Pitlane</a></li>
+                                                <li><a href="/blogs/planodecarreira">Plano de Carreira</a></li>
+                                                    </ul>
+      
+    </li>
+     
+        
+    <li class="Podcasts" data-toggle="collapse" data-target="#Podcasts" style="cursor:pointer;"><a href="/podcasts">Podcasts</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Podcasts" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/podcasts/direto-ao-ponto">Direto ao Ponto</a></li>
+                                                <li><a href="/podcasts/matriz">Matriz</a></li>
+                                                <li><a href="/podcasts/cpexplica">CP Explica</a></li>
+                                                <li><a href="/podcasts/cpop">CPop</a></li>
+                                                <li><a href="/podcasts/cp-rural">CP Rural</a></li>
+                                                                      <li><a href="/podcasts/papo-com-jurandir">Papo com Jurandir</a></li>
+                                                                                                                  <li><a href="/podcasts/cp-futebol-clube">CP Futebol Clube</a></li>
+                                                                                                                                                                  </ul>
+      
+    </li>
+     
+        
+    <li class="Vídeos" data-toggle="collapse" data-target="#Vídeos" style="cursor:pointer;"><a href="/videos">Vídeos</a>
+            
+      
+    </li>
+  
+  </ul>
+
+  <ul class="menuside">
+    
+     
+        
+    <li class="Notícias" data-toggle="collapse" data-target="#Notícias" style="cursor:pointer;"><a href="/not%C3%ADcias">Notícias</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Notícias" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/blogs/carrosemotos">Carros &amp; Motos</a></li>
+                                                <li><a href="/not%C3%ADcias/sa%C3%BAde">Saúde</a></li>
+                                                <li><a href="/not%C3%ADcias/perspectiva">Perspectiva</a></li>
+                                                <li><a href="/not%C3%ADcias/cidades">Cidades</a></li>
+                                                <li><a href="/not%C3%ADcias/economia">Economia</a></li>
+                                                <li><a href="/not%C3%ADcias/ensino">Ensino</a></li>
+                                                                      <li><a href="/not%C3%ADcias/mundo">Mundo</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica">Política</a></li>
+                                                <li><a href="/not%C3%ADcias/rural">Rural</a></li>
+                                                <li><a href="/not%C3%ADcias/chuvasnors">Chuvas no RS</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Política" data-toggle="collapse" data-target="#Política" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADtica">Política</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Política" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es">Eleições</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/constituicao">Constituição</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/60-anos-do-golpe">60 Anos do Golpe</a></li>
+                                                <li><a href="/especial/2.940">70 anos da morte de Getúlio Vargas</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/missaoasia">Missão Ásia</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/missaoitaliaalemanha">Missão Itália-Alemanha</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Economia" data-toggle="collapse" data-target="#Economia" style="cursor:pointer;"><a href="/not%C3%ADcias/economia">Economia</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Economia" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/economia/f%C3%B3rum-de-energias-renov%C3%A1veis">Fórum de Energias Renováveis</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/loterias">Loterias</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/concursos">Concursos</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/empreender">Empreender</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/vagasdetrabalho">Vagas de Trabalho</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/fatos-relevantes">Fatos Relevantes</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Cidades" data-toggle="collapse" data-target="#Cidades" style="cursor:pointer;"><a href="/not%C3%ADcias/cidades">Cidades</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Cidades" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/cidades/redescobrir-a-cidade">Redescobrir a Cidade</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Polícia" data-toggle="collapse" data-target="#Polícia" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a>
+            
+      
+    </li>
+     
+        
+    <li class="Mundo" data-toggle="collapse" data-target="#Mundo" style="cursor:pointer;"><a href="/not%C3%ADcias/mundo">Mundo</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Mundo" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/mundo/eleicoes-nos-eua">Eleições nos EUA</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Rural" data-toggle="collapse" data-target="#Rural" style="cursor:pointer;"><a href="/not%C3%ADcias/rural">Rural</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Rural" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/rural/expoagroafubra">Expoagro Afubra</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/show-rural-coopavel">Show Rural Coopavel</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/expointer">Expointer</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/expodireto">Expodireto</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Ensino" data-toggle="collapse" data-target="#Ensino" style="cursor:pointer;"><a href="/not%C3%ADcias/ensino">Ensino</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Ensino" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/ensino/ead">EAD</a></li>
+                                                <li><a href="/not%C3%ADcias/ensino/p%C3%B3s-gradua%C3%A7%C3%A3o">Pós-graduação</a></li>
+                                                <li><a href="/not%C3%ADcias/ensino/vestibular">Vestibular</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Saúde" data-toggle="collapse" data-target="#Saúde" style="cursor:pointer;"><a href="/not%C3%ADcias/sa%C3%BAde">Saúde</a>
+            
+      
+    </li>
+     
+        
+    <li class="Verão" data-toggle="collapse" data-target="#Verão" style="cursor:pointer;"><a href="/verao">Verão</a>
+            
+      
+    </li>
+     
+        
+    <li class="Esportes" data-toggle="collapse" data-target="#Esportes" style="cursor:pointer;"><a href="/esportes">Esportes</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Esportes" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/esportes/gr%C3%AAmio">Grêmio</a></li>
+                                                <li><a href="/esportes/inter">Inter</a></li>
+                                                <li><a href="/esportes/selecaobrasileira">Seleção Brasileira</a></li>
+                                                <li><a href="/esportes/copadomundo">Copa do Mundo</a></li>
+                                                <li><a href="/esportes/olimp%C3%ADada">Olimpíada</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Grêmio" data-toggle="collapse" data-target="#Grêmio" style="cursor:pointer;"><a href="/esportes/gr%C3%AAmio">Grêmio</a>
+            
+      
+    </li>
+     
+        
+    <li class="Inter" data-toggle="collapse" data-target="#Inter" style="cursor:pointer;"><a href="/esportes/inter">Inter</a>
+            
+      
+    </li>
+     
+        
+    <li class="ArteAgenda" data-toggle="collapse" data-target="#ArteAgenda" style="cursor:pointer;"><a href="/arteagenda">Arte &amp; Agenda</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="ArteAgenda" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/arteagenda/cinemas">Programação dos Cinemas</a></li>
+                                                <li><a href="/arteagenda/programa%C3%A7%C3%A3o-da-tv">Programação da TV</a></li>
+                                                                      <li><a href="/arteagenda/carnaval">Carnaval</a></li>
+                                                <li><a href="/arteagenda/feiradolivro">Feira do Livro</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="BellaMais" data-toggle="collapse" data-target="#BellaMais" style="cursor:pointer;"><a href="/bellamais">Bella Mais</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="BellaMais" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/bellamais/agenda">Agenda</a></li>
+                                                <li><a href="/bellamais/carreira">Carreira</a></li>
+                                                <li><a href="/bellamais/comportamento">Comportamento</a></li>
+                                                <li><a href="/bellamais/modaebeleza">Moda e Beleza</a></li>
+                                                <li><a href="/bellamais/mulheres-50">Mulheres 50+</a></li>
+                                                <li><a href="/bellamais/saudefeminina">Saúde Feminina</a></li>
+                                                <li><a href="/bellamais/colunistas">Colunistas</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="Gastronomia" data-toggle="collapse" data-target="#Gastronomia" style="cursor:pointer;"><a href="/gastronomia">Gastronomia</a>
+                                            
+      
+    </li>
+     
+        
+    <li class="CadernodeSábado" data-toggle="collapse" data-target="#CadernodeSábado" style="cursor:pointer;"><a href="/cadernodesabado">Caderno de Sábado</a>
+            
+      
+    </li>
+     
+        
+    <li class="Especial" data-toggle="collapse" data-target="#Especial" style="cursor:pointer;"><a href="/especial">Especial</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Especial" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/especial/130anosjornalismo">130 Anos de Jornalismo</a></li>
+                                                <li><a href="/especial/bicentenario">Bicentenário</a></li>
+                              </ul>
+      
+    </li>
+  
+  </ul> 
+
+  <ul class="menuside">
+    
+     
+        
+    <li class="Correio+Conteúdo" data-toggle="collapse" data-target="#Correio+Conteúdo" style="cursor:pointer;"><a href="/correiomaisconteudo">Correio + Conteúdo</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Correio+Conteúdo" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/correiomaisconteudo/cooperativismo">Cooperativismo</a></li>
+                                                <li><a href="/correiomaisconteudo/universidades-comunit%C3%A1rias">Universidades Comunitárias</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="JornalcomTecnologia" data-toggle="collapse" data-target="#JornalcomTecnologia" style="cursor:pointer;"><a href="/jornal-com-tecnologia">Jornal com Tecnologia</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="JornalcomTecnologia" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/jornal-com-tecnologia/lgpd">LGPD</a></li>
+                              </ul>
+      
+    </li>
+     
+        
+    <li class="VivaBem" data-toggle="collapse" data-target="#VivaBem" style="cursor:pointer;"><a href="/vivabem">Viva Bem</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="VivaBem" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/vivabem/qualidadedevida">Qualidade de vida</a></li>
+                                                <li><a href="/vivabem/alimentacao">Alimentação</a></li>
+                                                <li><a href="/vivabem/exerciciosfisicos">Exercícios físicos</a></li>
+                                                <li><a href="/vivabem/maternidade">Maternidade</a></li>
+                                                <li><a href="/vivabem/saude">Saúde</a></li>
+                              </ul>
+      
+    </li>
+  
+  </ul> 
+
+  
+                              
+
+
+
+	
+				
+						
+					<ul class="menuside">
+			<li class="menuhead">Correio do Povo</li>
+
+								
+						
+					<li><a href="https://www.correiodopovo.com.br/quemequem">Quem é quem</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/?FC=CONOSCO">Trabalhe conosco</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/politicadeprivacidade">Política de Privacidade</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Fale conosco</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=ATENDIMENTO">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=GERAL">Fale com a Redação</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Anuncie</li>
+
+								
+						
+					<li><a href="https://www.correiodopovo.com.br/publicp">PubliCP</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/">Soluções para seu negócio</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/CP_MIDIAKIT_2023.pdf">Mídia Kit</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/TABELA_DE_PRECOS_2024.pdf">Tabela Comercial</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/Tabela_PubliCP.pdf">Tabela Comercial PubliCP</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Central do Assinante</li>
+
+								
+						
+					<li><a href="https://digital.correiodopovo.com.br">Jornal Digital</a></li>
+					
+						
+					<li><a href="http://leitor.correiodopovo.com.br">Loja Correio do Povo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="/cpmaissaude">CP + Saúde</a></li>
+					
+						
+					<li><a href="http://ejcj.cpovo.net/">Portal Administrativo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Provedor</a></li>
+					
+						
+					<li><a href="https://outlook.office.com/">Webmail</a></li>
+					
+						
+					<li><a href="http://minhaconta.correiodopovo.com.br/">Minha Conta</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Suporte Técnico</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/arquivos/Relatorio-de-Transparencia-Salarial.pdf">Relatório de Transparência Salarial</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Grupo Record RS</li>
+
+								
+						
+					<li><a href="/">Correio do Povo</a></li>
+					
+						
+					<li><a href="https://guaiba.com.br/">Rádio Guaíba</a></li>
+					
+						
+					<li><a href="https://www.recordtvrs.com.br/">Tv Record RS</a></li>
+					
+						
+					<li><a href="https://www.R7.com">R7.com</a></li>
+				</ul>
+
+
+        
+      
+    </div>
+
+    <div class="navbar-top container-max topo">
+      <div class="menu item1">
+        <ul class="nav navbar-nav navbar-left">
+          <li>
+            <a style="cursor:pointer;font-size: 23px;padding-right: 0px;" onclick="openNav()">☰</a>
+          </li>
+          <li>
+            <a style="cursor:pointer" onclick="openNav()">menu</a>
+          </li>
+        </ul>
+        <div class="busca">
+                    <div class="nav-search">
+            
+
+    <form class="form-search form-inline" action="/busca" method="get">
+        <input type="text" name="q" value="" class="form-control search-query" placeholder="Search...">
+    </form>
+          </div>
+        </div>
+      </div>
+      <div class="logo  item2">
+        <a href="/"><img src="https://portal.correiodopovo.com.br/imagens/Correio_do_Povo.png" alt="capa" title="Capa"></a>
+      </div>
+      <div class="login  item3">
+        <div class="assinar">
+          <a href="http://leitor.correiodopovo.com.br/?tag=assinetopo" target="_Blank">Assine</a>
+        </div>
+        <div class="entrar">
+          <a href="http://digital.correiodopovo.com.br" target="_Blank">Entrar</a>
+          <span class="glyphicon glyphicon-user"></span>
+        </div>
+      </div>
+    </div>
+    <div class="RS"></div> 
+    <div class="container-max menutags">
+      <div class="menutagsconteiner">
+        <div class="social">
+          <div class="listasocial">
+            <ul>
+              <li>
+                <a href="https://www.linkedin.com/company/correio-do-povo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/linkedin.png" alt="Linkedin" title="Linkedin"></a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/correiodopovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/instagram.png" alt="Instagram" title="Instagram"></a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/CorreioDoPovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/facebook.png" alt="Facebook" title="Facebook"></a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCphn4Z4L2dGNoh7jz_99EOA" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/youtube.png" alt="Youtube" title="Youtube"></a>
+              </li>
+              <li>
+                <a href="https://twitter.com/correio_dopovo" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/twitter.png" alt="Twitter" title="Twitter"></a>
+              </li>
+            </ul>
+          </div>        
+        </div>
+        <div id="temperaturatopo"></div>
+        <div class="tags">
+
+                    <div id="owltags" class="tags-carousel tags-theme">
+            
+                              
+
+
+
+				<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/verao">VERÃO</a>
+		</div>
+			<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/esportes/gr%C3%AAmio">GRÊMIO</a>
+		</div>
+			<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/esportes/inter">INTER</a>
+		</div>
+			<div class="item" style="width: fit-content;">
+			<a href="https://www.correiodopovo.com.br/topicos/Tag/Especial%20Gauch%C3%A3o%202025">ESPECIAL GAUCHÃO 2025</a>
+		</div>
+	
+
+        
+                </div>
+                      <div class="tags-theme">
+                <div class="tags-controls">
+                    <div class="custom-nav tags-nav"></div>
+                </div>
+            </div>
+<script>
+$(document).ready(function() {
+    $("#owltags").tagsCarousel({
+    margin:40,
+    loop:false,
+    autoWidth:true,
+    items:6,
+    nav:true,
+    dots:false,
+    navText: [
+        '<i class="fa fa-angle-left" aria-hidden="true"></i>',
+        '<i class="fa fa-angle-right" aria-hidden="true"></i>'
+    ],
+    navContainer: '.custom-nav'
+    });
+  });
+</script>
+        </div>
+      </div>
+    </div>
+
+                              
+              
+                      
+                              	<div class="container-max adsconteiner" style="min-height: 250px;display: flex;justify-content: center;">
+<div data-premium="" data-adunit="CORREIO_DO_POVO_SUPERBANNER" data-sizes-desktop="[[970,90],[728,90],[970,250],[728,180]]" data-sizes-mobile="[[300,250],[320,100],[320,50],[300,75],[300,50]]" class="container-max"></div>
+</div>
+
+	        
+                                
+                            
+                      <div class="container">
+          <div class="row linha">
+              <div class="col-md-8">
+                <div class="default-layout">
+                  <section class="article">
+                    
+
+        <article>
+    <div class="article-content">
+          
+     
+      <h1 class="article__headline container">Taquara confirma o primeiro caso de dengue em 2024</h1>
+            <p class="intro article__lead container">Paciente de 24 anos está estável, sem febre e sendo monitorado pela UBS do bairro Empresa</p>
+            
+      <div class="autoredatasocial fullwidth clearfix">
+        <div class="autoredata">
+          <time class="datapublicacao" datetime="2024-02-06">
+          06/02/2024 | 9:11
+                  </time>
+                      <div class="autor"> 
+              
+              <address class="author">Correio do Povo</address>                  
+              
+            </div>
+                  </div>
+        <div class="menusocial">
+          <nav>
+            <ul> 
+              <li class="cWhatsapp" id="whats"><a href="javascript:;" onclick="Share('W');"><img src="/imagens/social/whatsapp.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('F');"><img src="/imagens/social/facebook.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('T');"><img src="/imagens/social/Twitter.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('E');"><img src="/imagens/social/email.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('P');"><img src="/imagens/social/imprimir.png"></a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    
+
+              <div class="image">
+          <div class="fullwidth">
+                        
+  
+  
+<div class="img-container" style="padding-bottom: 50.0%">
+<div class="delayed-image-load" data-src="/image/contentid/policy:1.1464347:1707222081/Paul-Silva-Pref-Taquara-4.jpeg?f=2x1&amp;$p$f=c6383fc&amp;{width}" data-alt="">
+  <noscript>
+    <img alt="" src="/image/contentid/policy:1.1464347:1707222081/Paul-Silva-Pref-Taquara-4.jpeg?f=2x1&amp;w=200&amp;$p$f$w=21865b8">
+  </noscript>
+</div>
+</div>
+
+  
+          </div>
+                    <div class="container">
+            <p class="meta">
+                                              Vigilância Ambiental de Taquara vem aplicando inseticida para eliminar o mosquito e as larvas do Aedes aegypti
+                                                          <span class="image-byline"> | Foto: Paul Silva / Prefeitura de Taquara / CP</span>
+                          </p>
+          </div>
+        </div>
+      
+
+        <!---->
+            <div class="container">
+        
+                
+        <div class="article__body">
+                             
+         
+            <div id="publi-inicio-post">
+              <div class="adsplaceholder"> 
+                                  <adsplaceholder>
+                    <div id="sas_43193" style="max-height: 280px;"><p style="color: #dddddd; font-size: .6em; margin-bottom: 0px; text-transform: uppercase;">publicidade</p></div>
+                      <script type="application/javascript">
+                        sas.cmd.push(function() {
+                          sas.call("std", {
+                            siteId: 71754, // 
+                            pageId: 0, 
+                            formatId: 43193, 
+                            target: sas_target // Targeting
+                            });
+                        });
+                      </script>
+                  </adsplaceholder>
+                              </div>
+            </div>
+          <p>A Secretaria de Saúde de Taquara confirmou o primeiro caso de dengue no município em 2024. O paciente é um homem de 24 anos, morador do Bairro Empresa. O estado de saúde dele é estável, sem febre, e continua sendo monitorado pela Unidade Básica de Saúde (UBS) do bairro.</p><!--paragrafo1--> 
+<p> </p><!--paragrafo2--> 
+<p>“Desde a semana passada, entramos em alerta após serem identificados focos do mosquito Aedes aegypti, transmissor da doença, em diversos bairros de Taquara. É muito importante que toda a comunidade fique atenta para não deixar água parada nos seus pátios, pois são nestes locais onde poderão ter larvas”, comenta a prefeita Sirlei Silveira.</p><!--paragrafo3--> 
+<p> </p><!--paragrafo4--> 
+<p>Em todos os bairros da zona urbana de Taquara, a Secretaria de Saúde está atuando para evitar a proliferação do mosquito. A Vigilância Epidemiológica realiza o monitoramento dos locais onde podem ter focos do Aedes aegypti. Já a Vigilância Ambiental realiza a pesquisa vetorial especial, além da aplicação de veneno para eliminar mosquitos e larvas.</p><!--paragrafo5--> 
+<p> </p> 
+<p>“Além disso, todas as nossas UBSs estão de prontidão para atender pacientes com sintomas de dengue. Se a comunidade estiver com febre alta, dores no corpo e articulações, dores atrás dos olhos e mal-estar, procure o posto mais próximo de sua residência, ou o Posto 24 Horas, no Bairro Centro, para fazermos o devido monitoramento”, salienta o secretário de Saúde, Dodô Mello.</p><!--paragrafo7-->
+          
+        </div>
+        
+                
+                
+      
+
+              
+                          <div class="imagesrodapeblogs" style="max-width: 650px; margin-left: auto; margin-right: auto;">
+                      </div>
+        
+      <div class="autoredatasocial rodape fullwidth clearfix">
+        <div class="menusocial">
+          <nav>
+            <ul> 
+              <li class="cWhatsapp" id="whats"><a href="javascript:;" onclick="Share('W');"><img src="/imagens/social/whatsapp.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('F');"><img src="/imagens/social/facebook.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('T');"><img src="/imagens/social/Twitter.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('E');"><img src="/imagens/social/email.png"></a></li>
+              <li><a href="javascript:;" onclick="Share('P');"><img src="/imagens/social/imprimir.png"></a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+
+      </div>
+      
+      
+
+      
+    </div>
+    <br>
+    
+              
+    
+    
+                        
+          
+          
+                        
+          
+                        <section class="related-topics">
+            <ul>
+                              <li>
+                                  <a href="/topicos/Tag/Dengue">
+                                  <span>Dengue</span>
+                                  </a>
+                                </li>
+                              <li>
+                                  <a href="/topicos/Tag/Sa%C3%BAde">
+                                  <span>Saúde</span>
+                                  </a>
+                                </li>
+                              <li>
+                                  <a href="/topicos/Tag/Cidades">
+                                  <span>Cidades</span>
+                                  </a>
+                                </li>
+                              <li>
+                                  <a href="/topicos/Tag/Casos">
+                                  <span>Casos</span>
+                                  </a>
+                                </li>
+                              <li>
+                                  <a href="/topicos/Tag/Infectado">
+                                  <span>Infectado</span>
+                                  </a>
+                                </li>
+                          </ul>
+          </section>
+                  
+          
+              
+  
+       
+              </article>
+
+  
+
+
+
+
+
+                  </section>
+                 
+                </div>
+              </div>
+              <div class="col-md-4">
+                <section class="main-slot">
+                                      
+                                <div id="capajornal">
+  <iframe src="https://portal.correiodopovo.com.br/includes/input/capajornal.aspx"></iframe>
+</div>
+                        <div class="element-list ultimas">    
+	<h2>Mais Lidas</h2>
+    <ul id="maislidas">
+        <li class="clearfix">
+        	<a href=""><div class="numero"></div><div class="texto"></div></a>
+        </li>
+    </ul> 
+</div>
+
+
+<script>
+  
+  $(document).ready(function() {
+   $("#maislidas").empty();
+   carregar(); 
+  });
+  
+  function carregar() {
+    var host = "https://portal.correiodopovo.com.br/maislidas/maislidas.json?";
+	var d = new Date();
+	var hr = d.getHours();
+	var min = d.getMinutes();
+	var day = d.getDay();
+	var month = d.getMonth();
+	var year = d.getFullYear();
+  	var timestamp = year + "" + month + "" + day + "" + hr + "" + min;
+    
+     $.getJSON(host+timestamp , function(mls) {
+		var num=1;
+      	for (i in mls)
+		{
+          var registro = document.createElement("li");
+          registro.innerHTML = "";
+          registro.className = "clearfix";
+          
+          var link = document.createElement("a");
+          link.setAttribute('href', 'https://www.correiodopovo.com.br' + mls[i].url);
+          
+          var numero = document.createElement("div");
+          numero.innerHTML = num;
+          numero.className = "numero";
+                      
+          var texto = document.createElement("div");
+          texto.innerHTML = mls[i].title;
+          texto.className = "texto";
+          
+          link.append(numero,texto);
+          
+          registro.append(link);
+          
+          $("#maislidas").append(registro);
+          num++;
+          if (num === 6) {
+    		break
+  		  }
+        }
+	});
+  }
+</script>
+                      	<div class="adsplaceholder" style="color: #dddddd; font-size: .6em; margin-bottom: 0px; text-transform: uppercase;height: 660px;">
+<adsplaceholder style="align-items: center; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; height: 660px; background-color: #f7f6f5;">
+<div data-premium="" data-adunit="CORREIO_DO_POVO_SKYBANNER" data-sizes-desktop="[[300, 600]]" data-sizes-mobile="[[300, 600]]"></div>
+</adsplaceholder>
+</div>
+
+	        
+                                        </section>
+              </div>
+            </div>
+          </div>
+        <div class="container">
+          <div class="row linha">
+              <div class="col-md-8">
+                <div class="default-layout taboola">
+                   <script type="text/javascript">
+if ((window.location.href.indexOf("oficinadejornalismo") > -1) ||(window.location.href.indexOf("1.593115") > -1) || (window.location.href.indexOf("correiomaisconteudo") > -1) )
+{
+}
+else {
+
+// Criando a div
+  var div = document.createElement("div");
+  // Definindo o ID da div
+  div.setAttribute("id", "taboola-below-article-thumbnails");
+
+  // Selecionando o artigo pelo ID
+  var artigo = document.querySelector(".article");
+
+  // Inserindo a div depois do artigo
+  artigo.parentNode.insertBefore(div, artigo.nextSibling);
+
+window._taboola = window._taboola || [];
+_taboola.push({
+mode: 'thumbnails-b',
+container: 'taboola-below-article-thumbnails',
+placement: 'Below Article Thumbnails',
+target_type: 'mix'
+});
+}
+</script>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <section class="main-slot">
+
+                </section>
+              </div>
+            </div>
+          </div>
+                                   
+
+            <div class="container rodape">
+      <div class="row linha">
+        <div class="col-md-12">
+          <div class="rodapecontent">
+            <div class="item1"><img src="https://portal.correiodopovo.com.br/imagens/Correiodopovo_horizontal.png" alt="Correio do Povo" title="Correio do Povo"></div><div class="RS"></div>     <div class="item2 texto">DESDE 1º DE OUTUBRO 1895</div>
+          </div>        
+        </div>
+      </div>
+    </div>
+    <footer>      
+                   
+                              	<div id="Interstitial_premium" style="display: none;">
+	<div style="background-color: #000000;width: 100%;height: 100%;opacity: 0.5;background-size: cover;position: fixed;top: 0px;left: 0px;z-index: 5;display: flex;align-items: center;justify-content: center;">
+	</div>
+  	<div id="content_ad">
+    	<div id="cp-close-btn-Interstitial_premium" class="close-btn-Interstitial_premium" style="left: 0; position: relative; cursor: pointer; width: 20px; height: 20px; bottom: 100%; border-radius: 0px 3px 0px 0px;; background-color: #ffffff; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 1px 0px; border: none; background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMTUgMTUiIHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTt0b3A6MDtyaWdodDowO2hlaWdodDoxNnB4O3dpZHRoOjE2cHg7c3Ryb2tlOiMwMDViYWE7c3Ryb2tlLXdpZHRoOjEuMjU7Ij48cGF0aCBkPSJNMy4yNSwzLjI1bDguNSw4LjVNMTEuNzUsMy4yNWwtOC41LDguNSI+PC9wYXRoPjwvc3ZnPg==');"></div>
+		<div id="Interstitial_ad_premium" style="display: none;"></div>
+	</div>
+</div>
+
+<style>
+	div#Interstitial_premium {
+		z-index: 2147483647;
+		width: 100%;
+		height: 100%;
+		top: 0;
+         	position: absolute;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	div#content_ad {
+		z-index: 5;
+	}
+</style>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+	if(window.innerWidth >= 949){
+		googletag.defineSlot('/75894840,1840275/CORREIO_DO_POVO_INTERSTITIAL', [[949,600],[400,250],[300,250]], 'Interstitial_ad_premium').setTargeting('editoria', [ad_editoria]).setTargeting('tags', tagsmart.replaceAll("tag=","").split(";")).setTargeting("pp_excl", ["pd", "ob", "adx"]).addService(googletag.pubads());
+}
+	else{	
+		googletag.defineSlot('/75894840,1840275/CORREIO_DO_POVO_INTERSTITIAL', [[300,250]], 'Interstitial_ad_premium').setTargeting('editoria', [ad_editoria]).setTargeting('tags', tagsmart.replaceAll("tag=","").split(";")).setTargeting("pp_excl", ["pd", "ob", "adx"]).addService(googletag.pubads());
+	}
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+});
+</script>
+
+
+
+<script type="text/javascript">
+$( document ).ready(function() {
+
+	$( "#cp-close-btn-Interstitial_premium" ).click(function() {
+  		var Interstitialbanner = $("#Interstitial_premium");
+  		Interstitialbanner.css('display', 'none');
+	});
+
+});
+
+googletag.cmd.push(function() { googletag.display('Interstitial_ad_premium'); });
+  
+var observer = new MutationObserver(function(mutations) {
+	mutations.forEach(function(mutationRecord) {
+		$("#Interstitial_premium").css('display', document.getElementById('Interstitial_ad_premium').style.display);
+
+                const loop = setInterval(
+                () => {
+                       var Interstitialbanner = $("#Interstitial_premium");
+  		       Interstitialbanner.css('display', 'none');
+                       clearInterval(loop);
+                     }
+                ,10000);
+   	});    
+});
+
+var target = document.getElementById('Interstitial_ad_premium');
+observer.observe(target, { attributes : true, attributeFilter : ['style'] });
+
+</script>
+
+	                      	<script>
+document.domain = "correiodopovo.com.br"; 
+
+if (window.addEventListener) {
+			window.addEventListener("message", handleMessage);
+		} else {
+			window.attachEvent("onmessage", handleMessage);
+		}
+function handleMessage(event) {
+			
+			if (event.origin == "https://login.correiodopovo.com.br") {
+				okpwl("");
+				return;
+			}
+}
+ 
+        var IS_VISITOR = true; IS_FREEMIUM = true; var IS_CUSTOMER = true;
+
+        // Execucao Script
+        javascript:(function () {
+            var el = document.createElement("script");
+
+
+            var url = 'https://paywall.correiodopovo.com.br/wid/script/1?tags=' + tagm + '&loc=' + location.href + '&is_visitor=' + IS_VISITOR + "&is_freemium=" + IS_FREEMIUM +  "&is_customer=" + IS_CUSTOMER;
+
+             //console.log(url);
+
+            el.src = url;
+             // Body appender
+             document.body.appendChild(el); 
+})(); 
+</script>
+
+	        
+                        <div class="container">
+            <div class="row linha">
+              <div class="col-md-12">
+                <div class="linkrodape">
+                  
+  <ul class="menuside">
+    
+     
+            
+    <li class="Opiniãof" data-toggle="collapse" data-target="#Opiniãof" style="cursor:pointer;"><a href="/opiniao">Opinião</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Opiniãof" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/opiniao/charge">Charge</a></li>
+                                                <li><a href="/opiniao/doleitor">Do Leitor</a></li>
+                                                <li><a href="/blogs/2.221">Artigos</a></li>
+                                                <li><a href="/opiniao/editorial">Editorial</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Colunistasf" data-toggle="collapse" data-target="#Colunistasf" style="cursor:pointer;"><a href="/colunistas">Colunistas</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Colunistasf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/colunistas/alexandre-garcia">Alexandre Garcia</a></li>
+                                                                      <li><a href="/colunistas/guaracy-andrade">Guaracy Andrade</a></li>
+                                                                      <li><a href="/colunistas/jurandir-soares">Jurandir Soares</a></li>
+                                                <li><a href="/colunistas/luiz-coronel">Luiz Coronel</a></li>
+                                                <li><a href="/colunistas/luiz-gonzaga-lopes">Luiz Gonzaga Lopes</a></li>
+                                                <li><a href="/colunistas/marcossantuario">Marcos Santuario</a></li>
+                                                                      <li><a href="/colunistas/rogeriomendelski">Rogério Mendelski</a></li>
+                                                <li><a href="/colunistas/taline-oppitz">Taline Oppitz</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Blogsf" data-toggle="collapse" data-target="#Blogsf" style="cursor:pointer;"><a href="/blogs">Blogs</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Blogsf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/blogs/bichoamigo">Bicho Amigo</a></li>
+                                                <li><a href="/blogs/campereada">Campereada</a></li>
+                                                <li><a href="/blogs/carrosemotos">Carros &amp; Motos</a></li>
+                                                <li><a href="/blogs/cenarock">Cena Rock</a></li>
+                                                <li><a href="/blogs/cinecp">Cine CP</a></li>
+                                                                                            <li><a href="/blogs/di%C3%A1logos">Diálogos</a></li>
+                                                <li><a href="/blogs/economiasimples">Economia&nbsp;Simples</a></li>
+                                                <li><a href="/blogs/fotocorreio">Foto Correio</a></li>
+                                                <li><a href="/blogs/h%C3%A1-um-s%C3%A9culo-no-cp">Há um Século no CP</a></li>
+                                                <li><a href="/blogs/hiltormombach">Hiltor Mombach</a></li>
+                                                                                                                  <li><a href="/blogs/maisportoalegre">Mais Porto Alegre</a></li>
+                                                                      <li><a href="/blogs/oficinadejornalismo">Oficina de Jornalismo</a></li>
+                                                <li><a href="/blogs/omelhordanossagente">O Melhor da Nossa Gente</a></li>
+                                                <li><a href="/blogs/oscarbessi">Oscar Bessi</a></li>
+                                                <li><a href="/blogs/pitlane">Pitlane</a></li>
+                                                <li><a href="/blogs/planodecarreira">Plano de Carreira</a></li>
+                                                    </ul>
+      
+    </li>
+     
+            
+    <li class="Podcastsf" data-toggle="collapse" data-target="#Podcastsf" style="cursor:pointer;"><a href="/podcasts">Podcasts</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Podcastsf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/podcasts/direto-ao-ponto">Direto ao Ponto</a></li>
+                                                <li><a href="/podcasts/matriz">Matriz</a></li>
+                                                <li><a href="/podcasts/cpexplica">CP Explica</a></li>
+                                                <li><a href="/podcasts/cpop">CPop</a></li>
+                                                <li><a href="/podcasts/cp-rural">CP Rural</a></li>
+                                                                      <li><a href="/podcasts/papo-com-jurandir">Papo com Jurandir</a></li>
+                                                                                                                  <li><a href="/podcasts/cp-futebol-clube">CP Futebol Clube</a></li>
+                                                                                                                                                                  </ul>
+      
+    </li>
+     
+            
+    <li class="Vídeosf" data-toggle="collapse" data-target="#Vídeosf" style="cursor:pointer;"><a href="/videos">Vídeos</a>
+            
+      
+    </li>
+  
+  </ul>
+
+  <ul class="menuside">
+    
+     
+            
+    <li class="Notíciasf" data-toggle="collapse" data-target="#Notíciasf" style="cursor:pointer;"><a href="/not%C3%ADcias">Notícias</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Notíciasf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/blogs/carrosemotos">Carros &amp; Motos</a></li>
+                                                <li><a href="/not%C3%ADcias/sa%C3%BAde">Saúde</a></li>
+                                                <li><a href="/not%C3%ADcias/perspectiva">Perspectiva</a></li>
+                                                <li><a href="/not%C3%ADcias/cidades">Cidades</a></li>
+                                                <li><a href="/not%C3%ADcias/economia">Economia</a></li>
+                                                <li><a href="/not%C3%ADcias/ensino">Ensino</a></li>
+                                                                      <li><a href="/not%C3%ADcias/mundo">Mundo</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica">Política</a></li>
+                                                <li><a href="/not%C3%ADcias/rural">Rural</a></li>
+                                                <li><a href="/not%C3%ADcias/chuvasnors">Chuvas no RS</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Políticaf" data-toggle="collapse" data-target="#Políticaf" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADtica">Política</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Políticaf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es">Eleições</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/constituicao">Constituição</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/60-anos-do-golpe">60 Anos do Golpe</a></li>
+                                                <li><a href="/especial/2.940">70 anos da morte de Getúlio Vargas</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/missaoasia">Missão Ásia</a></li>
+                                                <li><a href="/not%C3%ADcias/pol%C3%ADtica/missaoitaliaalemanha">Missão Itália-Alemanha</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Economiaf" data-toggle="collapse" data-target="#Economiaf" style="cursor:pointer;"><a href="/not%C3%ADcias/economia">Economia</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Economiaf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/economia/f%C3%B3rum-de-energias-renov%C3%A1veis">Fórum de Energias Renováveis</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/loterias">Loterias</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/concursos">Concursos</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/empreender">Empreender</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/vagasdetrabalho">Vagas de Trabalho</a></li>
+                                                <li><a href="/not%C3%ADcias/economia/fatos-relevantes">Fatos Relevantes</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Cidadesf" data-toggle="collapse" data-target="#Cidadesf" style="cursor:pointer;"><a href="/not%C3%ADcias/cidades">Cidades</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Cidadesf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/cidades/redescobrir-a-cidade">Redescobrir a Cidade</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Políciaf" data-toggle="collapse" data-target="#Políciaf" style="cursor:pointer;"><a href="/not%C3%ADcias/pol%C3%ADcia">Polícia</a>
+            
+      
+    </li>
+     
+            
+    <li class="Mundof" data-toggle="collapse" data-target="#Mundof" style="cursor:pointer;"><a href="/not%C3%ADcias/mundo">Mundo</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Mundof" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/mundo/eleicoes-nos-eua">Eleições nos EUA</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Ruralf" data-toggle="collapse" data-target="#Ruralf" style="cursor:pointer;"><a href="/not%C3%ADcias/rural">Rural</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Ruralf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/rural/expoagroafubra">Expoagro Afubra</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/show-rural-coopavel">Show Rural Coopavel</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/expointer">Expointer</a></li>
+                                                <li><a href="/not%C3%ADcias/rural/expodireto">Expodireto</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Ensinof" data-toggle="collapse" data-target="#Ensinof" style="cursor:pointer;"><a href="/not%C3%ADcias/ensino">Ensino</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Ensinof" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/not%C3%ADcias/ensino/ead">EAD</a></li>
+                                                <li><a href="/not%C3%ADcias/ensino/p%C3%B3s-gradua%C3%A7%C3%A3o">Pós-graduação</a></li>
+                                                <li><a href="/not%C3%ADcias/ensino/vestibular">Vestibular</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Saúdef" data-toggle="collapse" data-target="#Saúdef" style="cursor:pointer;"><a href="/not%C3%ADcias/sa%C3%BAde">Saúde</a>
+            
+      
+    </li>
+     
+            
+    <li class="Verãof" data-toggle="collapse" data-target="#Verãof" style="cursor:pointer;"><a href="/verao">Verão</a>
+            
+      
+    </li>
+     
+            
+    <li class="Esportesf" data-toggle="collapse" data-target="#Esportesf" style="cursor:pointer;"><a href="/esportes">Esportes</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Esportesf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/esportes/gr%C3%AAmio">Grêmio</a></li>
+                                                <li><a href="/esportes/inter">Inter</a></li>
+                                                <li><a href="/esportes/selecaobrasileira">Seleção Brasileira</a></li>
+                                                <li><a href="/esportes/copadomundo">Copa do Mundo</a></li>
+                                                <li><a href="/esportes/olimp%C3%ADada">Olimpíada</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Grêmiof" data-toggle="collapse" data-target="#Grêmiof" style="cursor:pointer;"><a href="/esportes/gr%C3%AAmio">Grêmio</a>
+            
+      
+    </li>
+     
+            
+    <li class="Interf" data-toggle="collapse" data-target="#Interf" style="cursor:pointer;"><a href="/esportes/inter">Inter</a>
+            
+      
+    </li>
+     
+            
+    <li class="ArteAgendaf" data-toggle="collapse" data-target="#ArteAgendaf" style="cursor:pointer;"><a href="/arteagenda">Arte &amp; Agenda</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="ArteAgendaf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/arteagenda/cinemas">Programação dos Cinemas</a></li>
+                                                <li><a href="/arteagenda/programa%C3%A7%C3%A3o-da-tv">Programação da TV</a></li>
+                                                                      <li><a href="/arteagenda/carnaval">Carnaval</a></li>
+                                                <li><a href="/arteagenda/feiradolivro">Feira do Livro</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="BellaMaisf" data-toggle="collapse" data-target="#BellaMaisf" style="cursor:pointer;"><a href="/bellamais">Bella Mais</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="BellaMaisf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/bellamais/agenda">Agenda</a></li>
+                                                <li><a href="/bellamais/carreira">Carreira</a></li>
+                                                <li><a href="/bellamais/comportamento">Comportamento</a></li>
+                                                <li><a href="/bellamais/modaebeleza">Moda e Beleza</a></li>
+                                                <li><a href="/bellamais/mulheres-50">Mulheres 50+</a></li>
+                                                <li><a href="/bellamais/saudefeminina">Saúde Feminina</a></li>
+                                                <li><a href="/bellamais/colunistas">Colunistas</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="Gastronomiaf" data-toggle="collapse" data-target="#Gastronomiaf" style="cursor:pointer;"><a href="/gastronomia">Gastronomia</a>
+                                            
+      
+    </li>
+     
+            
+    <li class="CadernodeSábadof" data-toggle="collapse" data-target="#CadernodeSábadof" style="cursor:pointer;"><a href="/cadernodesabado">Caderno de Sábado</a>
+            
+      
+    </li>
+     
+            
+    <li class="Especialf" data-toggle="collapse" data-target="#Especialf" style="cursor:pointer;"><a href="/especial">Especial</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Especialf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/especial/130anosjornalismo">130 Anos de Jornalismo</a></li>
+                                                <li><a href="/especial/bicentenario">Bicentenário</a></li>
+                              </ul>
+      
+    </li>
+  
+  </ul> 
+
+  <ul class="menuside">
+    
+     
+            
+    <li class="Correio+Conteúdof" data-toggle="collapse" data-target="#Correio+Conteúdof" style="cursor:pointer;"><a href="/correiomaisconteudo">Correio + Conteúdo</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="Correio+Conteúdof" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/correiomaisconteudo/cooperativismo">Cooperativismo</a></li>
+                                                <li><a href="/correiomaisconteudo/universidades-comunit%C3%A1rias">Universidades Comunitárias</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="JornalcomTecnologiaf" data-toggle="collapse" data-target="#JornalcomTecnologiaf" style="cursor:pointer;"><a href="/jornal-com-tecnologia">Jornal com Tecnologia</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="JornalcomTecnologiaf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/jornal-com-tecnologia/lgpd">LGPD</a></li>
+                              </ul>
+      
+    </li>
+     
+            
+    <li class="VivaBemf" data-toggle="collapse" data-target="#VivaBemf" style="cursor:pointer;"><a href="/vivabem">Viva Bem</a>
+                                                
+              <span class="glyphicon glyphicon-chevron-right"></span>
+        <ul id="VivaBemf" class="dropdown-menuprincipal collapse">
+                                    <li><a href="/vivabem/qualidadedevida">Qualidade de vida</a></li>
+                                                <li><a href="/vivabem/alimentacao">Alimentação</a></li>
+                                                <li><a href="/vivabem/exerciciosfisicos">Exercícios físicos</a></li>
+                                                <li><a href="/vivabem/maternidade">Maternidade</a></li>
+                                                <li><a href="/vivabem/saude">Saúde</a></li>
+                              </ul>
+      
+    </li>
+  
+  </ul> 
+
+  
+                              
+
+
+
+	
+				
+						
+					<ul class="menuside">
+			<li class="menuhead">Correio do Povo</li>
+
+								
+						
+					<li><a href="https://www.correiodopovo.com.br/quemequem">Quem é quem</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/?FC=CONOSCO">Trabalhe conosco</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/politicadeprivacidade">Política de Privacidade</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Fale conosco</li>
+
+								
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=ATENDIMENTO">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/faleconosco/?FC=GERAL">Fale com a Redação</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Anuncie</li>
+
+								
+						
+					<li><a href="https://www.correiodopovo.com.br/publicp">PubliCP</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/">Soluções para seu negócio</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/CP_MIDIAKIT_2023.pdf">Mídia Kit</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/TABELA_DE_PRECOS_2024.pdf">Tabela Comercial</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Publicidade/pdf/Tabela_PubliCP.pdf">Tabela Comercial PubliCP</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Central do Assinante</li>
+
+								
+						
+					<li><a href="https://digital.correiodopovo.com.br">Jornal Digital</a></li>
+					
+						
+					<li><a href="http://leitor.correiodopovo.com.br">Loja Correio do Povo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/Faleconosco/">Atendimento ao assinante</a></li>
+					
+						
+					<li><a href="/cpmaissaude">CP + Saúde</a></li>
+					
+						
+					<li><a href="http://ejcj.cpovo.net/">Portal Administrativo</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Provedor</a></li>
+					
+						
+					<li><a href="https://outlook.office.com/">Webmail</a></li>
+					
+						
+					<li><a href="http://minhaconta.correiodopovo.com.br/">Minha Conta</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/CPovo/SuporteTecnico/">Suporte Técnico</a></li>
+					
+						
+					<li><a href="https://portal.correiodopovo.com.br/arquivos/Relatorio-de-Transparencia-Salarial.pdf">Relatório de Transparência Salarial</a></li>
+					
+						
+					</ul><ul class="menuside">
+			<li class="menuhead">Grupo Record RS</li>
+
+								
+						
+					<li><a href="/">Correio do Povo</a></li>
+					
+						
+					<li><a href="https://guaiba.com.br/">Rádio Guaíba</a></li>
+					
+						
+					<li><a href="https://www.recordtvrs.com.br/">Tv Record RS</a></li>
+					
+						
+					<li><a href="https://www.R7.com">R7.com</a></li>
+				</ul>
+
+
+        
+      
+                </div>
+                <div class="newsletter">
+
+                  <div class="social">
+                    <div class="listasocial">
+                      <span>Siga o Correio do Povo:</span>
+                      <ul>
+                        <li>
+                          <a href="https://www.linkedin.com/company/correio-do-povo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/linkedin.png" alt="Linkedin" title="Linkedin"></a>
+                        </li>
+                        <li>
+                          <a href="https://www.instagram.com/correiodopovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/instagram.png" alt="Instagram" title="Instagram"></a>
+                        </li>
+                        <li>
+                          <a href="https://www.facebook.com/CorreioDoPovo/" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/facebook.png" alt="Facebook" title="Facebook"></a>
+                        </li>
+                        <li>
+                          <a href="https://www.youtube.com/channel/UCphn4Z4L2dGNoh7jz_99EOA" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/youtube.png" alt="Youtube" title="Youtube"></a>
+                        </li>
+                        <li>
+                          <a href="https://twitter.com/correio_dopovo" target="_blank"><img src="https://portal.correiodopovo.com.br/imagens/social/twitter.png" alt="Twitter" title="Twitter"></a>
+                        </li>
+                      </ul>
+                    </div>        
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+      </footer>
+    
+                          <script type="text/javascript" src="/polopoly_fs/3.154.1726120481!/cookie-alert.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.168.1701183429!/js/bootstrap.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.181.1726120485!/Imager.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.297.1701183536!/autosize.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.294.1701183534!/video.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.283.1726120517!/poll.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.253.1726120508!/js/tags.carousel.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.253.1726120508!/js/tags.navigation.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.253.1726120508!/js/owl.carousel.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.213.1726120494!/users.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.231.1726120500!/social-auth.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.222.1726120498!/js/fotorama.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.219.1726120497!/namespace.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.219.1726120497!/SearchElement.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.216.1726120495!/personalization.min.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.185.1726120486!/js/infiniteScroll.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.185.1726120486!/js/funcoes.js"></script>
+              <script type="text/javascript" src="/polopoly_fs/3.175.1726120484!/plugin.min.js"></script>
+                        <!-- banners callbacks -->
+          
+                              <script type="text/javascript">
+    function googleSignInCallback(authResult) {
+        if (authResult['status']['signed_in']) {
+            socialauth.login('google', authResult['access_token']);
+        } else {
+            socialauth.logout('google');
+        }
+    }
+
+    socialauth.providers['google'] = {
+        logout: function() {
+            var deferred = $.Deferred();
+            var token = gapi.auth.getToken();
+            if (token) {
+                $.ajax({
+                    type: 'GET',
+                    url: 'https://accounts.google.com/o/oauth2/revoke?token=' + token['access_token'],
+                    async: false,
+                    contentType: "application/json",
+                    dataType: 'jsonp',
+                    success: function(nullResponse) {
+                        deferred.resolve();
+                    },
+                    error: function(e) {
+                        console.log('error revoking ',e);
+                        deferred.reject(e);
+                    }
+                });
+            } else {
+                deferred.resolve();
+            }
+            return deferred.promise();
+        }
+    };
+
+    $('.btn-login-google').click(function () {
+        gapi.auth.signIn();
+    });
+
+    (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/client:platform.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>                <script type="text/javascript">
+    function FBstatusChangeCallback(response) {
+        // The response object is returned with a status field that lets the
+        // app know the current login status of the person.
+        // Full docs on the response object can be found in the documentation
+        // for FB.getLoginStatus().
+        if (response.status === 'connected') {
+            // Logged into your app and Facebook.
+            socialauth.login('facebook', response['authResponse']['accessToken']);
+
+        } else if (response.status === 'not_authorized') {
+            socialauth.logout('facebook');
+            // The person is logged into Facebook, but not your app.
+        } else {
+            // The person is not logged into Facebook, so we're not sure if
+            // they are logged into this app or not.
+        }
+    }
+    function FBcheckLoginState() {
+        FB.getLoginStatus(function(response) {
+            FBstatusChangeCallback(response);
+        });
+    }
+    socialauth.providers['facebook'] = {
+       logout : function() {
+           var deferred = $.Deferred();
+           FB.logout(deferred.resolve);
+           return deferred.promise();
+       }
+    };
+    $('.btn-login-facebook').click(function () {
+        FB.login(FBstatusChangeCallback, {scope : 'public_profile,email'});    });
+</script>              <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId : '898700906848364',
+      xfbml : true,
+      cookie : true,
+      status : true,
+      version : 'v2.1'
+    });
+
+    $(document).trigger('atexFbInit'); // trigger event
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+          <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+          <script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>          <script type="text/javascript">
+(function () {
+$(document).bind('atexFbInit', function() {
+  if (console.log) {
+    console.log('atexFbInit complete; FB Object is Available');
+  }
+
+    FB.Event.subscribe('edge.create', function(href, widget) {
+
+    if (console.log) {
+      console.log('processing fb edge.create event for ' + href);
+    }
+
+    jQuery.ajax({
+      url : 'https://www.correiodopovo.com.br/logger/p.gif',
+      data : {
+        a : '1.1464348',
+        d : '/2.218/2.204/2.865',
+        type : 'fblikeanalyzer'
+      }
+    });
+  });
+  });
+} ());
+</script>      <script>
+    //$(function() {
+    //  var navbar = $('.navbar-top');
+    //  var size = $('.navbar').outerHeight(true);
+    //  var placeholder = $('<div class="navbar-placeholder"></div>');
+    //  $(placeholder).height(size);
+    //  $(window).scroll(function() {
+    //    if ($(window).scrollTop() > 0) {
+    //      $(placeholder).height(size);
+    //      $(navbar).before($(placeholder));
+    //      $(navbar).addClass('sticky');
+    //    } else {
+    //      $(navbar).removeClass('sticky');
+    //      $('.navbar-placeholder').remove();
+    //    }
+    //  });
+    //  if ($(window).scrollTop() > 0) {
+    //    $(placeholder).height(size);
+    //    $(navbar).before($(placeholder));
+    //    $(navbar).addClass('sticky');
+    //  }
+    //});
+  </script> 
+  <script>
+            window.imager = new Imager({
+        lazyload:true,
+        availableWidths: function(image) {
+          var params = {
+                                                360 : 'w=360&$w=1071b2b' ,                                    1200 : 'w=1200&$w=9c05b01' ,                                                                720 : 'w=720&$w=3b33d2d' ,                                    2400 : 'w=2400&$w=d2ad2f2'                                       };
+
+          var containerWidth = image.clientWidth;
+          var ratio = Imager.getClosestValue(Imager.getPixelRatio(), [1, 2]);
+          var width = Imager.getClosestValue(containerWidth, [360, 1200]);
+
+          var imageWidth = Math.round(width * ratio);
+          return params[imageWidth];
+        }
+      });
+  </script>
+      <script type="text/javascript">  (function(){    var logUrl = '/logger/p.gif?a=1.1464348&amp;d=/2.218';    var referrer = document.referrer;    if (referrer && referrer.length > 0) {      logUrl += '&referrer=' + referrer;    }    document.write('<img src="' + logUrl + '" />');  })();</script>      <script>
+if ((window.location.href.indexOf("1.") > -1)){
+    tocandovideo = 1;
+}
+</script>
+<style>
+  .divpublicpconteiner:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+</style>
+<script>
+  const menutagsconteiner = document.querySelector('.menutagsconteiner');
+  var divpublicpconteiner = document.createElement("div");
+  
+  divpublicpconteiner.addEventListener("click", clickpublicp);
+
+  divpublicpconteiner.style.textAlign = 'center';
+  divpublicpconteiner.style.color = 'white';
+  divpublicpconteiner.style.fontSize = '0.6rem';
+  divpublicpconteiner.style.padding = '0 25px 0 25px';
+  divpublicpconteiner.style.backgroundColor = '#035000';
+  divpublicpconteiner.style.borderRadius = '30px';
+  divpublicpconteiner.classList.add('divpublicpconteiner');
+    
+  var divpublicp = document.createElement("div");
+  divpublicp.innerText = 'Publi CP';
+  divpublicp.style.fontSize = '0.9rem';
+  divpublicp.style.fontWeight = '700';
+  divpublicp.style.letterSpacing = '0.1rem';
+  divpublicp.style.fontStyle= 'italic';
+  divpublicp.style.borderBottomStyle = 'solid';
+  divpublicp.style.borderBottomWidth = '1px';
+  divpublicp.style.fontFamily = 'Segoe UI';
+
+  var divpublicpcontent = document.createElement("div");
+  divpublicpcontent.innerText = 'Acesse a publicidade legal';
+  divpublicpcontent.style.fontSize = '0.5rem';
+  divpublicpcontent.style.letterSpacing = '1px';
+  
+  divpublicpconteiner.append(divpublicp,divpublicpcontent);
+  
+  menutagsconteiner.append(divpublicpconteiner);
+  
+  function clickpublicp() {
+    
+    window.open("https://www.correiodopovo.com.br/publicp","_self")
+    
+  }
+  
+</script>
+
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<!-- TailTarget Tag Manager TT-9964-3/CT-23 -->
+<script>
+    (function(i) {
+    var ts = document.createElement('script');
+    ts.type = 'text/javascript';
+    ts.async = true;
+    ts.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'tags.t.tailtarget.com/t3m.js?i=' + i;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ts, s);
+    })('TT-9964-3/CT-23');
+</script>
+<!-- End TailTarget Tag Manager -->
+
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "14194541" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="https://b.scorecardresearch.com/p?c1=2&amp;c2=14194541&amp;cv=2.0&amp;cj=1">
+</noscript>
+<!-- End comScore Tag -->
+<script>
+
+
+
+function checkCookie() {
+    if (document.cookie.indexOf('nekot') > -1) {
+        clearInterval(tim);
+        var name = accessCookie('nekot');
+        if (typeof okpw === 'function') {
+            okpw('{"token":"'+name+'"}');
+        }
+
+        if (typeof okpwl === 'function') {
+            okpwl();
+        } else {
+            console.log("A função 'okpwl' não está definida.");
+        }
+    }
+}
+
+function accessCookie(cookieName)
+{
+    var name = cookieName + "=";
+    var allCookieArray = document.cookie.split(';');
+    for(var i=0; i<allCookieArray.length; i++)
+    {
+        var temp = allCookieArray[i].trim();
+        if (temp.indexOf(name)==0)
+            return temp.substring(name.length,temp.length);
+    }
+    return "";
+}
+
+function cookieExists(name) {
+    return document.cookie.indexOf(name) > -1;
+}
+if (!cookieExists('nekot')) {
+    var tim = setInterval(checkCookie, 1000);
+} else {
+    console.log("Cookie 'nekot' já existe.");
+}
+</script>
+<script>
+const publiiniciopost = document.getElementById("publi-inicio-post");
+	if(publiiniciopost != null){
+		if (ad_editoria == "correiomaisconteudo") {
+			publiiniciopost.replaceChildren();
+			publiiniciopost.setAttribute('data-premium', '');
+			publiiniciopost.setAttribute('data-adunit', 'CORREIO_DO_POVO_LEITOR_CORREIOMAISCONTEUDO');
+			publiiniciopost.setAttribute('data-sizes-desktop', '[[728, 90]]');
+			publiiniciopost.setAttribute('data-sizes-mobile', '[[300, 50],[300, 250],[336, 280],[321, 51]]');
+		}else{
+			publiiniciopost.replaceChildren();
+			publiiniciopost.setAttribute('data-premium', '');
+			publiiniciopost.setAttribute('data-adunit', 'CORREIO_DO_POVO_LEITOR');
+			publiiniciopost.setAttribute('data-sizes-desktop', '[[728, 90]]');
+			publiiniciopost.setAttribute('data-sizes-mobile', '[[300, 50],[300, 250],[336, 280],[321, 51]]');
+		}		
+	}
+</script>
+<script data-cfasync="false" async="" src="https://tags.premiumads.com.br/dfp/51bfc46f-52ca-4595-0cf6-08dbb887d008"></script>
+
+  
+
+</body></html>

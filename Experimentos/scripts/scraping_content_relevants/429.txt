@@ -1,0 +1,1593 @@
+<html class="no-js" lang="en-US" data-env="health-information"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+<title> Zika Virus Protein Can Be a Target for Drugs That Combat Virus</title>
+<meta property="og:site_name" content="Medindia">
+<meta property="og:title" content=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus">
+<meta itemprop="name" content=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus">
+<meta name="description" content="Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.">
+<meta property="og:description" content="Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.">
+<meta itemprop="description" content="Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.">
+<meta name="keywords" content="virology,zika,dengue,microcephaly,neurology.">
+<meta name="news_keywords" content="virology,zika,dengue,microcephaly,neurology.">
+<meta property="og:type" content="article">
+<link rel="canonical" href="https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm">
+<meta property="og:url" content="https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm">
+<link rel="amphtml" href="https://www.medindia.net/amp/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm">
+<link rel="prev" href="https://www.medindia.net/news/sibling-bullying-linked-to-poor-mental-health-203620-1.htm">
+<link rel="next" href="https://www.medindia.net/news/depressed-adolescents-brain-avoids-distressing-information-203624-1.htm">
+<link rel="image_src" href="https://images.medindia.net/health-images/1200_1000/infection-mechanism-of-zika-virus.jpg">
+<meta itemprop="image" content="https://images.medindia.net/health-images/1200_1000/infection-mechanism-of-zika-virus.jpg">
+<meta property="og:image" content="https://images.medindia.net/health-images/1200_1000/infection-mechanism-of-zika-virus.jpg">
+<meta property="og:image:alt" content=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1000">
+
+            <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@Medindia">
+        <meta name="twitter:creator" content="@Medindia">
+            <meta name="twitter:title" content=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus">
+            <meta name="twitter:description" content="Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.">
+            <meta name="twitter:url" content="https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm">
+            <meta name="twitter:image" content="https://images.medindia.net/health-images/1200_1000/infection-mechanism-of-zika-virus.jpg">
+
+        <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+
+<script>
+    class RocketLazyLoadScripts { constructor(e) { this.triggerEvents = e, this.eventOptions = { passive: !0 }, this.userEventListener = this.triggerListener.bind(this), this.delayedScripts = { normal: [], async: [], defer: [] }, this.allJQueries = [] } _addUserInteractionListener(e) { this.triggerEvents.forEach((t => window.addEventListener(t, e.userEventListener, e.eventOptions))) } _removeUserInteractionListener(e) { this.triggerEvents.forEach((t => window.removeEventListener(t, e.userEventListener, e.eventOptions))) } triggerListener() { this._removeUserInteractionListener(this), "loading" === document.readyState ? document.addEventListener("DOMContentLoaded", this._loadEverythingNow.bind(this)) : this._loadEverythingNow() } async _loadEverythingNow() { this._delayEventListeners(), this._delayJQueryReady(this), this._handleDocumentWrite(), this._registerAllDelayedScripts(), this._preloadAllScripts(), await this._loadScriptsFromList(this.delayedScripts.normal), await this._loadScriptsFromList(this.delayedScripts.defer), await this._loadScriptsFromList(this.delayedScripts.async), await this._triggerDOMContentLoaded(), await this._triggerWindowLoad(), window.dispatchEvent(new Event("rocket-allScriptsLoaded")) } _registerAllDelayedScripts() { document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e => { e.hasAttribute("src") ? e.hasAttribute("async") && !1 !== e.async ? this.delayedScripts.async.push(e) : e.hasAttribute("defer") && !1 !== e.defer || "module" === e.getAttribute("data-rocket-type") ? this.delayedScripts.defer.push(e) : this.delayedScripts.normal.push(e) : this.delayedScripts.normal.push(e) })) } async _transformScript(e) { return await this._requestAnimFrame(), new Promise((t => { const n = document.createElement("script"); let i;[...e.attributes].forEach((e => { let t = e.nodeName; "type" !== t && ("data-rocket-type" === t && (t = "type", i = e.nodeValue), n.setAttribute(t, e.nodeValue)) })), e.hasAttribute("src") && this._isValidScriptType(i) ? (n.addEventListener("load", t), n.addEventListener("error", t)) : (n.text = e.text, t()), e.parentNode.replaceChild(n, e) })) } _isValidScriptType(e) { return !e || "" === e || "string" == typeof e && ["text/javascript", "text/x-javascript", "text/ecmascript", "text/jscript", "application/javascript", "application/x-javascript", "application/ecmascript", "application/jscript", "module"].includes(e.toLowerCase()) } async _loadScriptsFromList(e) { const t = e.shift(); return t ? (await this._transformScript(t), this._loadScriptsFromList(e)) : Promise.resolve() } _preloadAllScripts() { var e = document.createDocumentFragment();[...this.delayedScripts.normal, ...this.delayedScripts.defer, ...this.delayedScripts.async].forEach((t => { const n = t.getAttribute("src"); if (n) { const t = document.createElement("link"); t.href = n, t.rel = "preload", t.as = "script", e.appendChild(t) } })), document.head.appendChild(e) } _delayEventListeners() { let e = {}; function t(t, n) { !function (t) { function n(n) { return e[t].eventsToRewrite.indexOf(n) >= 0 ? "rocket-" + n : n } e[t] || (e[t] = { originalFunctions: { add: t.addEventListener, remove: t.removeEventListener }, eventsToRewrite: [] }, t.addEventListener = function () { arguments[0] = n(arguments[0]), e[t].originalFunctions.add.apply(t, arguments) }, t.removeEventListener = function () { arguments[0] = n(arguments[0]), e[t].originalFunctions.remove.apply(t, arguments) }) }(t), e[t].eventsToRewrite.push(n) } function n(e, t) { let n = e[t]; Object.defineProperty(e, t, { get: () => n || function () { }, set(i) { e["rocket" + t] = n = i } }) } t(document, "DOMContentLoaded"), t(window, "DOMContentLoaded"), t(window, "load"), t(window, "pageshow"), t(document, "readystatechange"), n(document, "onreadystatechange"), n(window, "onload"), n(window, "onpageshow") } _delayJQueryReady(e) { let t = window.jQuery; Object.defineProperty(window, "jQuery", { get: () => t, set(n) { if (n && n.fn && !e.allJQueries.includes(n)) { n.fn.ready = n.fn.init.prototype.ready = function (t) { e.domReadyFired ? t.bind(document)(n) : document.addEventListener("rocket-DOMContentLoaded", (() => t.bind(document)(n))) }; const t = n.fn.on; n.fn.on = n.fn.init.prototype.on = function () { if (this[0] === window) { function e(e) { return e.split(" ").map((e => "load" === e || 0 === e.indexOf("load.") ? "rocket-jquery-load" : e)).join(" ") } "string" == typeof arguments[0] || arguments[0] instanceof String ? arguments[0] = e(arguments[0]) : "object" == typeof arguments[0] && Object.keys(arguments[0]).forEach((t => { delete Object.assign(arguments[0], { [e(t)]: arguments[0][t] })[t] })) } return t.apply(this, arguments), this }, e.allJQueries.push(n) } t = n } }) } async _triggerDOMContentLoaded() { this.domReadyFired = !0, await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-DOMContentLoaded")), await this._requestAnimFrame(), document.dispatchEvent(new Event("rocket-readystatechange")), await this._requestAnimFrame(), document.rocketonreadystatechange && document.rocketonreadystatechange() } async _triggerWindowLoad() { await this._requestAnimFrame(), window.dispatchEvent(new Event("rocket-load")), await this._requestAnimFrame(), window.rocketonload && window.rocketonload(), await this._requestAnimFrame(), this.allJQueries.forEach((e => e(window).trigger("rocket-jquery-load"))), window.dispatchEvent(new Event("rocket-pageshow")), await this._requestAnimFrame(), window.rocketonpageshow && window.rocketonpageshow() } _handleDocumentWrite() { const e = new Map; document.write = document.writeln = function (t) { const n = document.currentScript; n || console.error("WPRocket unable to document.write this: " + t); const i = document.createRange(), r = n.parentElement; let a = e.get(n); void 0 === a && (a = n.nextSibling, e.set(n, a)); const o = document.createDocumentFragment(); i.setStart(o, 0), o.appendChild(i.createContextualFragment(t)), r.insertBefore(o, a) } } async _requestAnimFrame() { return new Promise((e => requestAnimationFrame(e))) } static run() { const e = new RocketLazyLoadScripts(["keydown", "mousemove", "touchmove", "touchstart", "touchend", "wheel"]); e._addUserInteractionListener(e) } } RocketLazyLoadScripts.run();
+</script>
+<meta property="fb:page_id" content="176734315126">
+<meta property="fb:app_id" content="425933274250697">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="preconnect" href="https://www.medindia.net">
+<link rel="preconnect" href="https://images.medindia.net">
+<link rel="preconnect" href="https://static.medindia.net">
+<link rel="preconnect" href="https://audio.medindia.net">
+<link rel="preconnect" href="https://www.gstatic.com" crossorigin="">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="">
+<link rel="preconnect" href="https://apis.google.com" crossorigin="">
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin="">
+<link rel="preconnect" href="https://googleads.g.doubleclick.net" crossorigin="">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin="">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin="">
+<link rel="preconnect" href="https://cse.google.com" crossorigin="">
+<link rel="preconnect" href="https://fundingchoicesmessages.google.com" crossorigin="">
+<link rel="preconnect" href="https://www.google.com" crossorigin="">
+<link rel="apple-touch-icon" href="https://www.medindia.net/images/apple-touch-icon-114x114-precomposed-med.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://images.medindia.net/icons/common/icon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://images.medindia.net/icons/common/icon-16x16.png">
+
+<meta name="theme-color" content="#187681">
+
+<link rel="preload" href="//fonts.googleapis.com/css?family=Roboto" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" type="text/css" media="all" crossorigin="">
+
+
+    
+    <link rel="manifest" href="https://www.medindia.net/corenet/json/manifest.json">
+    <style>
+        :root{--dcolor:#187681;--lcolor:#ebf3f4;--tophead_bgcolor:#034154;--sechead_bgcolor:#187681}.webnav{display:none}.webnavlinks{display:none}@media only screen and (min-width:769px){body{font-family:Roboto;font-size:18px}.container,.pghead{max-width:1200px;width:calc(100vw - 90px)!important}.webnav,.webnavlinks{display:block}.mobnav,.mobnavlinks{display:none}}.container{margin-right:auto;margin-left:auto;width:95%;line-height:1.7;clear:both}.content-inner{line-height:1.625em}.pghead{margin-right:auto;margin-left:auto;width:95%}.pghead .pgtitle{font-size:36px!important}a{color:#000;text-decoration:none}a:hover{color:#4169e1;text-decoration:none}@media only screen and (max-width:768px){body{font-family:Arial;font-size:18px}.pghead .pgtitle{font-size:30px!important}.logoBar .fa-bars{font-size:27px;padding:5px 6px}.logoBar .fa-search,.logoBar .fa-user{font-size:24px;padding:5px 4px 0 13px}.logoBar{border-bottom:2px solid var(--dcolor);padding-top:6px;padding-bottom:6px;position:sticky;width:100%;left:0;top:0;z-index:1024;background:#fff}.clsbtn{font-size:33px;float:right;padding-right:12px}.cookies{position:sticky}#mySearch #canvase ul{padding-left:14px;padding-right:17px}#mySearch #canvase ul li div{margin-top:0}.pghead .pgtitle{font-size:30px!important}a{color:#164CB1}}.lhead{font-size:30px;font-weight:700;padding:10px;color:var(--dcolor)}.highlightbox{background-color:#f7f7f7;border:1px solid var(--dcolor);margin:0 0 25px;overflow:hidden;padding:20px}.lcolorbox{background-color:var(--lcolor);margin:5px;overflow:hidden;padding:20px}.lgreenbox{background-color:#d4ffd5;border:1px solid #000;margin:0 0 25px;overflow:hidden;padding:20px;margin:5px}.dbox{background-color:var(--dcolor);border:1px solid #000;margin:0 0 25px;overflow:hidden;padding:20px;color:#fff}.footer{background-color:var(--dcolor);padding:5px;color:#fff}.footer li{display:block}.footer a{display:inline-block;padding:8px;color:#fff}.bbtn{background:#1779ba;border-radius:95px;padding:9px 15px;font-style:normal;font-size:14px;line-height:100%;color:#fff;text-decoration:none;cursor:pointer}.rbtn{background:#e60023;box-sizing:border-box;box-shadow:1px 2px 0 #000;border-radius:95px;padding:9px 13px;font-style:normal;font-weight:600;font-size:14px;line-height:100%;letter-spacing:.1em;text-transform:uppercase;color:#fff;text-decoration:none;width:auto;margin:0 auto;cursor:pointer}.dc{color:var(--dcolor);font-weight:700}.lgreenbox a{display:block;padding:10px;color:#000}.yellowbox{margin:5px;padding:10px;border:1px solid rgb(255 199 44 / .4);background-color:rgb(255 247 225 / .4);position:relative;border-radius:8px;background-clip:padding-box}.lbox{margin:5px;color:#000;padding:10px;justify-content:space-between;background-color:var(--lcolor);border-radius:8px;background-clip:padding-box}.doctorpremium{margin:5px;color:#000;padding:8px;justify-content:space-between;background-color:var(--lcolor);border-radius:8px;width:46%;float:left;background-clip:padding-box}.ybox{padding:10px;justify-content:space-between;background-color:#fff8e2;border-radius:8px;background-clip:padding-box}.yellowbox a{display:inline-block;padding:8px;color:#000;font-size:18px}.graybox{background-color:#f7f7f7;border:1px solid #ddd;margin:0 0 25px;padding:20px}.whatsnew{margin:5px;padding:10px;border:1px solid #000;background-color:#d4ffd5;position:relative}.whatsnew a{display:block;padding:8px;color:#000;font-size:18px;text-decoration:none}.pinkbox{margin:5px;padding:10px;border:1px solid #000;background-color:#f9dbdb;position:relative}.pinkbox a{display:block;padding:8px;color:#000;font-size:18px;text-decoration:none}.sbox{padding:10px;background-color:var(--lcolor);position:relative;margin:5px}.yellowbox a{display:inline-block;padding:8px;color:#000;font-size:18px;text-decoration:none}.relatedlinks{background-color:#edd5d5;margin:5px;overflow:hidden;padding:20px}.relatedlinks a{display:block;padding:10px 10px 10px 0;color:#000;text-decoration:none}.azinks{background-color:#f7f7f7;border:1px solid var(--dcolor);margin:0 0 25px;overflow:hidden;padding:20px}.azinks a{color:#fff;padding:6px;display:inline-block;margin:5px}h1{font-size:32px!important}h2{font-size:1.503em}h3{font-size:1.35em}.cookiebox{position:fixed;bottom:0;background-color:var(--dcolor);margin-right:auto;margin-left:auto;z-index:10000;font-size:12px}.author_det{font-size:14px;font-weight:400;line-height:1.625em}p{font-family:Roboto}q{margin-bottom:1em}.author_det a{color:#4169e1}.author_det a:hover{text-decoration:underline}.report-content{line-height:35px;color:#404040}.report-content a{color:#4169e1}.report-content a:hover{text-decoration:underline}q{margin:0 0 1.25em}.clear{clear:both}.whitebtn{background-color:#fff;padding:10px 15px;color:#303030;border-radius:100px;box-shadow:0 4px 8px 0 rgb(48 48 48 / 10%);margin:auto;text-align:center;display:inline-block}.alphalist{display:flex;flex-direction:row;flex-wrap:wrap}.alphalist a{width:27px;height:27px;border-radius:50%;font-size:18px;color:#000;text-transform:uppercase;box-shadow:0 0 2px 1px rgb(0 0 0 / 10%);text-decoration:none;text-align:center;margin-right:5px;margin-bottom:5px}.alphalist a:hover{color:#4169e1}.graybg{background:#ddd}.adslabel{font-size:9px;color:#000}.dbg{width:19px;background:var(--dcolor);line-height:20px;border-radius:50%;font-size:16px;color:#fff;text-transform:uppercase;box-shadow:0 0 2px 1px rgb(0 0 0 / 10%);text-decoration:none;text-align:center;margin-right:5px;margin-bottom:5px}.mbtn a{background-color:var(--dcolor);padding:4px 10px;color:#fff;border-radius:50px;box-shadow:0 4px 8px 0 rgb(48 48 48 / 10%);margin:8px;text-align:center;text-decoration:none;display:inline-block;font-size:16px}.bars-icon,.fb-icon,.in-icon,.pin-icon,.search-icon,.twitter-icon,.user-icon,.logout-icon,.whatsapp-icon{background-image:url(https://images.medindia.net/icons/general/sprites.png);background-repeat:no-repeat}.bars-icon{width:32px;height:39px;background-position:0 0}.search-icon{width:29px;height:39px;background-position:-38px 0;padding-left:12px}.user-icon{width:38px;height:39px;background-position:-80px 0}.whatsapp-icon{width:38px;height:39px;background-position:-118px 0}.fb-icon{width:38px;height:39px;background-position:-159px 0}.twitter-icon{width:38px;height:39px;background-position:-197px 0}.pin-icon{width:38px;height:39px;background-position:-242px 0}.in-icon{width:38px;height:39px;background-position:-283px 0}.btn{background-color:var(--dcolor);border:0;border-radius:3px;box-shadow:0 0 2px 0 rgb(0 0 0 / 10%),0 2px 2px 0 rgb(0 0 0 / 20%;display:inline-block);color:#fff;font-size:.875rem;line-height:1;padding:.75rem 1.5rem;text-decoration:none!important}.btn:hover{color:#fff}select.newscat{height:32px;padding-left:5px}.btn-white{background-color:#fff;border:0;border-radius:3px;box-shadow:0 0 2px 0 rgb(0 0 0 / 10%),0 2px 2px 0 rgb(0 0 0 / 20%);color:#var(--dcolor);font-size:.875rem;line-height:1;padding:.75rem 1.5rem;text-decoration:none!important}::selection{background:#fde69a;color:#212121;text-shadow:none}.mlinks{color:#000;margin:5px}.mlinks{color:#000}.mlinks a{color:#000;text-decoration:none;font-size:14px}.mlinks div{font-size:18px;color:#000;width:93%;clear:left;border-bottom:1px solid #eee;margin-bottom:20px;font-weight:700;padding-bottom:7px}@media only screen and (min-width:769px){.rwd-img{max-width:100%;height:auto}}#breadcrumbs{font-size:16px;font-weight:400}#breadcrumbs a{color:#4169e1}#breadcrumbs a:hover{text-decoration:underline}.head{font-size:1.35em;display:block;font-weight:700}.comment-header{background-color:#f7f7f7;color:#000;padding:5px;text-align:left}.caltable-form table{background:var(--lcolor);border:1px solid #eee;border-bottom:2px solid var(--dcolor);box-shadow:0 0 20px rgb(0 0 0 / .1),0 10px 20px rgb(0 0 0 / .05),0 20px 20px rgb(0 0 0 / .05),0 30px 20px rgb(0 0 0 / .05)}.caltable-form td{border:solid 1px #fff;padding:10px}.caltable-form tfoot{background-color:#ccf2ff;color:#fff;padding:10px}.caltable-form tbody{color:#000;padding:10px}.caltable-form tr.table-head{background-color:var(--dcolor);color:#fff;padding:10px;text-align:left}.caltable-form input[type=text]:focus,select:focus,textarea:focus{min-height:32px;background:#fff;border:1px solid #ccc;outline:0;padding-right:5px;padding-left:5px}.caltable-form input[type=text],textarea{min-height:32px;background:#fff;border:1px solid #ccc;outline:0;padding-right:5px;padding-left:5px}.caltable-form .btn{background-color:var(--dcolor);border:0;border-radius:3px;box-shadow:0 0 2px 0 rgb(0 0 0 / 10%),0 2px 2px 0 rgb(0 0 0 / 20%;display:inline-block);color:#fff;font-size:1.105rem;line-height:1;padding:.75rem 1.5rem;text-decoration:none!important}.caltable-form select{min-height:32px;background:#fff;border:1px solid #ccc;outline:0}.caltable-form input[type=text]:focus,select:focus,textarea:focus{min-height:32px;background:#fff;border:1px solid #ccc;outline:0;padding-right:5px;padding-left:5px}input[type=text]:focus,select:focus,textarea:focus{min-height:32px}.overlay-menu{height:100%;position:fixed;z-index:1;top:0;left:0;background-color:#f9f9f9;border:1px solid #f9f9f9;overflow-x:hidden;transition:all .17s cubic-bezier(.37,.15,.32,.94);-webkit-transition:all .17s cubic-bezier(.37,.15,.32,.94);z-index:1000000}li.menu__link{width:100%}#mobmenu ul{list-style-type:none;padding-left:5px}#canvase ul li ul li a::before{content:'\2022';color:#111;float:left;padding-right:7px;font-size:35px}#canvase ul li div{text-transform:uppercase;font-weight:800;color:#111;padding:3px 0 0 0;margin-top:3%;margin-bottom:2%}#canvase ul li .fa{display:none}#canvase ul li a{text-decoration:none;color:#111}#mobmenu ul li ul{list-style-type:disc}#mobmenu ul li ul li{display:inline-block;float:left;width:50%;height:45px}#canvase ul li{display:inline-block;padding-bottom:2%;width:100%}.btntype a{background-color:var(--dcolor);padding:8px 12px;margin:5px;color:#fff;border-radius:50px;box-shadow:0 4px 8px 0 rgb(48 48 48 / 10%);margin:10px;text-align:center;text-decoration:none;display:block;font-size:16px}.btntype li{list-style-type:none}.mlng{padding:10px}.mlng div{font-size:20px;color:#000}.mlng a{font-size:20px;margin:10px;display:inline-block}.auto-result{width:86%;left:9px;top:94px;border:1px solid var(--dcolor);border-radius:0}.auto-result li{padding:13px}.auto-result li a{text-decoration:none}.red{color:#c00}.hide{display:none}.boxlinks a{display:block;text-decoration:none}.gsc-search-button-v2{border-color:#666;background-color:var(--dcolor)!important}@media only screen and (max-width:768px){.yellowbox a,.pinkbox a,.whatsnew a{font-size:20px}.relatedlinks{background-color:#ffe9b0;border:1px solid #000}.author_det{font-size:12px}p{font-family:Arial}.rwd-img{width:100%;height:auto}.alphalist a{width:34px;height:34px;font-size:26px;color:#333}.logout-icon{width:38px;height:39px;background-position:-322px 0}.mlinks div{font-size:20px}#breadcrumbs{font-size:12px}}.top-navv a{font-size: 1em;color:#fff; padding: 10px 30px 10px 10px;}@media only screen and (max-width:800px){.mid-sidebar{width:100% !Important}.relatedcontent{width:100% !Important}}.pad10{padding:10px}@media only screen and (min-width:769px){#secondaryNavLeft span,#secondaryNavRight span{font-size:24px;padding:2px 10px;background:#f3f3f3;border:1px solid #ccc}.secondaryNav_Wrapper{position:relative;padding:0 11px;box-sizing:border-box;background:#f3f3f3;max-width:1200px;width:calc(100vw - 90px)!important;margin:0 auto}.secondaryNav{overflow-x:hidden;overflow-y:hidden;-webkit-overflow-scrolling:touch;white-space:nowrap;position:relative;font-size:0}.js .secondaryNav{-ms-overflow-style:-ms-autohiding-scrollbar}.js .secondaryNav::-webkit-scrollbar{display:none}.secondaryNav_Contents{float:left;-webkit-transition:-webkit-transform .2s ease-in-out;transition:-webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out;transition:transform .2s ease-in-out,-webkit-transform .2s ease-in-out;position:relative}.secondaryNav_Contents-no-transition{-webkit-transition:none;transition:none}.snavlink{text-decoration:none;color:#111;font-size:14px;font-family:-apple-system,sans-serif;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;min-height:31px;border:1px solid #fff0;padding:0 11px}.snavlink+.snavlink{border-left-color:#eee}.snavlink[aria-selected="true"]{color:#111;background:#fff;font-weight:600}.secondaryNavBtn{-webkit-appearance:none;-moz-appearance:none;appearance:none;background:#fff0;padding:0;border:0;position:absolute;top:0;bottom:0;opacity:0;-webkit-transition:opacity .3s;transition:opacity .3s}.secondaryNavBtn:focus{outline:0}.secondaryNavBtn:hover{cursor:pointer}.secondaryNavBtn_Left{left:0}[data-overflowing="both"]~.secondaryNavBtn_Left,[data-overflowing="left"]~.secondaryNavBtn_Left{opacity:1}.secondaryNavBtn_Right{right:0}[data-overflowing="both"]~.secondaryNavBtn_Right,[data-overflowing="right"]~.secondaryNavBtn_Right{opacity:1}.secondaryNavBtn_Icon{width:20px;height:44px;fill:#bbb}.secondaryNav_Indicator{position:absolute;bottom:0;left:0;height:0;width:100px;background-color:#fff0;-webkit-transform-origin:0 0;transform-origin:0 0;-webkit-transition:background-color .2s ease-in-out,-webkit-transform .2s ease-in-out;transition:background-color .2s ease-in-out,-webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out,background-color .2s ease-in-out;transition:transform .2s ease-in-out,background-color .2s ease-in-out,-webkit-transform .2s ease-in-out}.tab-search .gsc-search-button{margin-left:0;height:31px}.tab-search table.gsc-search-box td.gsc-input{padding-right:0}.tab-search .gsib_a{padding:0}.second12{margin:0;padding:1px;position:absolute;background:#f7f7f7;top:31px;display:none}.second13{margin:0;padding:1px;width:122px;position:absolute;right:50%;background:#f7f7f7;top:30px;display:none}#color12{padding-left:23px;margin:0}#color13{margin:0}#color12 li{list-style:none;padding:1px 32px;margin-left:-23px}#color13 li{list-style:none;padding:4px 32px;margin-left:-40px}#color12 li:hover,#color13 li:hover{background:#ddd}#color13 li a,#color12 li a{font-size:12px}.top-abt{padding:6px 22px}.top-abt a{padding:8px 7px}.top-navv a.span{transform:rotateZ(-90deg)}.nav-end{border-right:0!important}.top-navv a:hover{color:#187681;background:#fff}.top-navv{padding-top:4px}.sticky{position:fixed;top:0;width:100%;z-index:10}#navbar1 .nav1{background:#f7f7f7}#navbar1 .nav1 li a.headd{color:var(--dcolor);font-size:15px;font-weight:600}#navbar1 .nav1 li a{color:var(--dcolor);font-size:13px}#navbar1 .nav1 li{padding:6px 26px}#navbar1 .nav1{height:36px}.dropbtn-abt{background-color:#04AA6D;color:#fff;padding:16px;font-size:16px;border:none}.dropdown-abt{position:relative;display:inline-block}.dropdown-content-abt{display:none;position:absolute;background-color:#f1f1f1;min-width:119px;top:28px;left:0;box-shadow:0 8px 16px 0 rgb(0 0 0 / .2);z-index:1}.dropdown-content-abt a{color:#000;padding:8px 16px;text-decoration:none;display:block}.second12,.second13{z-index:9}.dropdown-content-abt a:hover{background-color:#ddd}.dropdown-abt:hover .dropdown-content-abt{display:block}.dropdown-abt:hover .dropbtn-abt{background-color:#3e8e41}.navbar__mega{display:flex;padding-bottom:16px}.navbar__mega .grid-sm-3{width:25%}.second1 .nav2 li a,.second2 .nav2 li a,.second3 .nav2 li a,.second4 .nav2 li a,.second5 .nav2 li a,.second6 .nav2 li a,.second7 .nav2 li a,.second8 .nav2 li a,.second9 .nav2 li a,.second10 .nav2 li a,.second11 ul li a{color:#111;text-decoration:none;font-size:15px}.second1 .nav2 li a:hover,.second2 .nav2 li a:hover,.second3 .nav2 li a:hover,.second4 .nav2 li a:hover,.second5 .nav2 li a:hover,.second6 .nav2 li a:hover,.second7 .nav2 li a:hover,.second8 .nav2 li a:hover,.second9 .nav2 li a:hover,.second10 .nav2 li a:hover,.second11 ul li a:hover{color:#2a7cb5}.second1 .nav2 li.more__link a,.second2 .nav2 li.more__link a,.second3 .nav2 li.more__link a,.second4 .nav2 li.more__link a,.second5 .nav2 li.more__link a,.second6 .nav2 li.more__link a,.second7 .nav2 li.more__link a,.second8 .nav2 li.more__link a,.second9 .nav2 li.more__link a,.second10 .nav2 li.more__link a{font-size:13px;color:#2a7cb5;float:right;padding-right:15px}.second1.menu1,.second2.menu2,.second3.menu3,.second4.menu4,.second5.menu5,.second6.menu6,.second7.menu7,.second8.menu8,.second9.menu9,.second10.menu10{display:none;z-index:9;width:100%;position:absolute;left:0;top:142px;border-top:3px solid #fff;box-shadow:rgb(0 0 0 / .1) 0 10px 15px -3px,rgb(0 0 0 / .05) 0 4px 6px -2px}.second1 .nav2 li a span,.second2 .nav2 li a span,.second3 .nav2 li a span,.second4 .nav2 li a span,.second5 .nav2 li a span,.second6 .nav2 li a span,.second7 .nav2 li a span,.second8 .nav2 li a span,.second9 .nav2 li a span,.second10 .nav2 li a span{font-weight:600;font-size:16px}.show1{display:block!important;width:100%!important;overflow:hidden}.nav2{background:#fff;color:#111;padding:0;margin:0 0 0 0}.nav1{background:var(--dcolor);height:40px;margin:0;color:#fff}.nav1 li a{color:#fff;text-decoration:none;font-size:16px}.nav1 li{float:left;padding:10px 26px;margin-right:1px;overflow:hidden;text-align:center;list-style:none;cursor:pointer}.nav1 li:hover{background:#fff}.nav1 li:active{background:#fff}.nav1 li:hover a{color:#066;font-size:16px}.nav2 li{z-index:9999;background:#fff;padding:3px 10px 2px 0;list-style:none}.nav2 li span{font-weight:600;font-size:14px}.dropdown-header{margin-top:9px}}@media screen and (max-width:900px) and (min-width:710px){.nav1 li{padding:10px 8px}.nav1{padding-left:5px}.search-bx{width:320px!important;padding:20px 12px!important;float:right}.navbar__mega{padding-left:0}.second1.menu1,.second2.menu2,.second3.menu3,.second4.menu4,.second5.menu5,.second6.menu6,.second7.menu7,.second8.menu8,.second9.menu9,.second10.menu10{top:141px}ul ul li ul{padding-left:22px}}@media only screen and (min-width:769px){.t1left{float:left}.search-bx{width:400px;padding:20px 208px;float:right}.abt-pos{float:left;padding:7px 1px 7px 26px;margin-top:-6px}body{margin:0}.logins{margin:15px 10px}.logins .log-btn{background:#ba2526;color:#fff;padding:8px 17px;margin:7px 10px;text-transform:uppercase}.logins p{text-align:center;font-size:16px;margin-top:-4px;margin-bottom:15px}.h1title{font-size:42px!important;line-height:54px}.hightlightcontent{background-color:#fff8e2;line-height:26px;margin:30px 0;padding:26px 30px;border-left-style:solid;border-left-width:4px;border-color:var(--dcolor)}.lang-sel select{background-color:#f0f0f0;color:#111;padding:8px;width:190px;border:none;font-size:12px;box-shadow:0 5px 25px rgb(0 0 0 / .2);-webkit-appearance:button;appearance:button;outline:none}.lang-sel select option{padding:30px}.top-menu{background:#f0f0f0;height:30px}.fleft{float:left}.fright{float:right}.topnav{font-size:12px!important}.topnav a{color:#000;text-decoration:none}.t1left>li{display:inline;padding:3px 9px}.desk-menu{overflow:hidden;background-color:#066;font-family:Arial,Helvetica,sans-serif}.desk-menu a{float:left;font-size:14px;color:#fff;text-align:center;padding:13px 16px;text-decoration:none}.menu-dropdown{float:left;overflow:hidden}.menu-dropdown .dropbtn{font-size:16px;border:none;outline:none;color:#fff;padding:13px 16px;background-color:inherit;font:inherit;margin:0}.menu-dropdown .dropbtn span{font-size:14px}.desk-menu a:hover,.menu-dropdown:hover .dropbtn{background-color:#00a8a8;cursor:pointer}#dropdown-content{display:none;position:absolute;background-color:#f9f9f9;width:100%;left:0;box-shadow:0 8px 16px 0 rgb(0 0 0 / .2);z-index:1}#dropdown-content .header{background:red;padding:16px;color:#fff}.menu-dropdown:hover #dropdown-content{display:block}.content-column{float:left;width:25%;background-color:#f0f0f0;height:250px}.content-column a{float:none;color:#000;padding:16px;text-decoration:none;display:block;text-align:left}.content-column a:hover{background-color:#ddd}.content-row:after{content:"";display:table;clear:both}.dropdown-abt{padding:5px 10px 5px 19px;background:#fff;box-shadow:rgb(0 0 0 / 10%) 0 4px 12px;top:0;width:95px;position:absolute;right:50%}.log-btn{background:#ba2526;color:#fff;padding:8px 17px;margin:7px 10px;font-size:12px}}@media screen and (max-width:600px){.content-column{width:100%;height:auto}}@media only screen and (min-device-width: 1181px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2){.top-navv a{font-size:14px;color:#fff;padding:10px}.log-btn{padding:10px 17px;margin:11px 7px;font-size:11px}}@media only screen and (min-device-width: 769px) and (max-device-width: 1180px) and (-webkit-min-device-pixel-ratio: 2){.top-navv a{font-size:13px;color:#fff;padding:8px}.dropdown-abt{right:40%}.log-btn{padding:8px 5px;margin:7px 5px;font-size:11px}}@media (min-width:602px) and (max-width:900px){.top-navv a{padding:11px 5px;font-size:13px}.dropdown-abt{right:24%}.log-btn{padding:8px 5px;margin:7px 5px;font-size:11px}}@media (min-width:901px){.mid-cont{width:calc(100% - 380px);float:left}}.log-btn hover{color:#fff!important}.mid-sidebar{width:340px;padding-left:10px;float:right}.border-dot{border-bottom:1px dotted #000}.article-author__avatar{float:left}.article-author__info span{color:#000;font-weight:600}@media only screen and (min-width:769px){.article-authors{display:flex}}.article-authors>div{width:49%}.article-authors .caption{font-size:14px}.article-author{display:flex;flex-direction:row;align-items:center}.article-author__avatar{float:left}.article-author__avatar figure{overflow:hidden;border-radius:100%}.article-author__info span{color:#666}#fig-author figure{border-radius:0;margin:0;padding:0;border:1px solid #ccc}.article-author__avatar figure{margin:8px 19px 10px 10px;height:59px;border:1px solid #ccc}.share-popup{padding:0}.share-popup li{display:inline-block;overflow-x:hidden;text-indent:9999px;float:inherit;width:38px;height:38px;border-radius:200%;-moz-border-radius:200%;-webkit-border-radius:200%}.share-popup li+li{margin-left:7px}.share-popup li a{position:relative;display:block;width:100%;height:100%}.share-popup .whatsapp{width:38px;height:38px;background:url(https://images.medindia.net/icons/general/shareicons.png) no-repeat}.share-popup .facebook{background:#537bbd}.share-popup .stumbleupon{background:#eb4923}.share-popup .twitter{background:#000}.share-popup .google{background:#4b4b4b}.share-popup .pinterest{background:#eb5755}.share-popup .linkedin{background:#2085c7}.share-popup .googlenews{background:#e0e0e0}.share-popup .whatsapp{background:#40a644}.share-popup li a:after{content:" ";position:absolute;top:50%;left:50%;background:url(https://images.medindia.net/icons/general/shareicons.png) no-repeat}.share-popup .whatsapp a:after{width:35px;height:32px;background-position:-110px -143px;margin-top:-16px;margin-left:-15px}.share-popup .facebook a:after{width:10px;height:20px;background-position:-120px -332px;margin-top:-10px;margin-left:-5px}.share-popup .stumbleupon a:after{width:25px;height:22px;background-position:-75px -331px;margin-top:-11px;margin-left:-12px}.share-popup .twitter a:after{width:23px;height:19px;background-position:-75px -256px;margin-top:-10px;margin-left:-12px}.share-popup .google a:after{width:20px;height:21px;background-position:-78px -297px;margin-top:-11px;margin-left:-10px}.share-popup .pinterest a:after{width:21px;height:21px;background-position:-111px -254px;margin-top:-11px;margin-left:-11px}.share-popup .linkedin a:after{width:23px;height:21px;background-position:-113px -293px;margin-top:-11px;margin-left:-12px}.share-popup .googlenews a:after{width:35px;height:32px;background-position:-110px -179px;margin-top:-16px;margin-left:-15px}@media screen and (max-width:320px){.share-popup li+li{margin-left:3px;!important}}table div.comments{width:36px;height:36px;background:url(https://images.medindia.net/icons/general/topiconsprites.png) -157px 0;position:relative}table div.rss{width:36px;height:36px;background:url(https://images.medindia.net/icons/general/topiconsprites.png) -274px 0}table div.email{width:36px;height:36px;background:url(https://images.medindia.net/icons/general/topiconsprites.png) -239px 0}table div.print{width:36px;height:36px;background:url(https://images.medindia.net/icons/general/topiconsprites.png) -197px 0}.rbtns{background:#e60023;box-sizing:border-box;box-shadow:1px 2px 0 #000;border-radius:95px;padding:5px 7px;font-style:normal;font-weight:600;font-size:12px;line-height:100%;letter-spacing:.1em;text-transform:uppercase;color:#fff;text-decoration:none;width:auto;margin:0 auto;cursor:pointer}.font-size span{margin:0 1px;color:#06c;cursor:pointer}.font-size .open{font-weight:700}.font-size span{color:#000;font-family:opensans;font-size:16px;font-weight:700;margin-right:15px}.font-size .big-font{font-size:24px}@media screen and (max-width:47.938em){.font-size span{margin-right:5px}}.border-dot{border-bottom:1px dotted #000}.bordered-title{border-bottom:3px solid #004d4d;margin-bottom:10px;display:block;padding-bottom:10px!important;font-size:20px;font-weight:700}.listcontent h2 a{color:#000;text-decoration:none}.listcontent h2 a:hover{color:#000}.listcontent h2{font-size:26px;margin:0;padding:0;font-weight:700}.listcontent a:hover{color:#000}.listcontent .imgcontainter{width:200px;border-radius:0;float:left}.listcontent .contentcontainter{width:calc(100% - 260px);padding-left:14px;float:right}.listcontent .fullcontentcontainter{width:100%;padding-left:14px}.highlights{background-color:#f6eacb!important;color:#000!important;padding:20px;font=size:16px;border-radius:10px}.fleft{float:left}.fright{float:right}.tagbtn{background-color:#fff;padding:3px 10px;color:#303030;border-radius:100px;box-shadow:0 4px 8px 0 rgb(48 48 48 / 10%);margin:5px;font-size:14px;text-align:center;display:inline-block}.whitebtn{cursor:pointer}.mt10{margin-top:10px}.stay-fb{background:#55a6c1 url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-109px -324px;position:absolute;border-radius:28px}.stay-tw{background:#55a6c1 url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-70px -247px;position:absolute;margin-left:45px;border-radius:28px}.stay-lin{background:#55a6c1 url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-109px -287px;position:absolute;margin-left:88px;border-radius:28px}.stay-pin{background:#55a6c1 url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-105px -246px;position:absolute;margin-left:131px;border-radius:28px}.stay-insta{background:#55a6c1 url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-109px -358px;position:absolute;margin-left:173px;border-radius:28px}.stay-gnews{background:#55a6c1 url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-111px -213px;position:absolute;margin-left:216px;border-radius:28px}.stay-rss{background:#55a6c1 url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-74px -358px;position:absolute;margin-left:257px;border-radius:28px}.stay-div{background:#f6f6f6;padding:1px 10px 56px 11px}.follow-tw a{background:#187681;color:#fff}.stay-tw1{background:url(https://images.medindia.net/icons/general/shareicons.png) no-repeat;width:34px;height:37px;background-position:-73px -251px;margin-right:20px;position:absolute}.follow-tw{margin-left:35px;font-size:14px}.p-twit{text-align:center}.ftwit{color:#fff;background:#075A92;padding:6px 15px;border-radius:12px}.ftwit:hover{color:#fff}.stay-head{text-align:center;font-weight:600;padding:10px;font-size:22px;border-bottom:1px solid #ccc}.report-content h3{font-size:1.05em!important}.report-content h2 a{color:#000!important}.article-content article .scroll-vertical{overflow-x:auto;max-width:100%}.table-bordered{border-collapse:collapse}.table{width:100%}.table-bordered td,.table-bordered th{border:1px solid #ddd;padding:5px}.table tbody td,.table thead th{padding-top:8px;padding-bottom:8px}.article-content article table{margin-top:15px;margin-bottom:24px}.src-tooltip{position:relative;display:inline-block;cursor:pointer}.src-tooltip .src-tooltip-text{visibility:hidden;border-radius:6px;padding:5px 0;padding:1px;text-align:left;background-color:#fff;border:1px solid #ccc;border:1px solid rgb(0 0 0 / .2);border-radius:6px;-webkit-box-shadow:0 5px 10px rgb(0 0 0 / 20%);box-shadow:0 5px 10px rgb(0 0 0 / 20%);white-space:normal;color:#111;position:absolute;z-index:1;top:100%;margin-left:-10px;left:50%;width:276px}.src-tooltip:hover .src-tooltip-text{visibility:visible;border:1px solid #187681!important;padding:10px}.ref-tick sup{background:#187681;color:#FFF;margin:2px 3px;padding:2px 3px;font-size:10px;top:-1em;border-radius:50%}.src-tooltip{text-decoration:none;color:#187681}.src-tooltip p{color:#187681;font-weight:600}.src-tooltip-text .assign{background:#187681;border-radius:50%;padding:3px 7px;margin-right:6px;color:#fff}.refblack{font-weight:600}@media only screen and (min-width:769px){.img-responsive{max-width:100%}.image-container{padding-top:10px}.image-container img{display:block;margin-left:auto;margin-right:auto;padding:4px;margin-bottom:20px;line-height:1.42857143;background-color:#fff;border:1px solid #ddd;border-radius:4px;-webkit-transition:all 0.2s ease-in-out;-o-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out}.comment-container{margin-bottom:25px}.comment-header{background:#ddd;padding:8px 15px}.form-comment{border:none}.comment-body{border:1px solid #ddd}.form-comment{padding-top:10px;padding-bottom:10px;min-height:100px;resize:none}.comment-footer .btn{margin-top:15px;display:inline-block;background-color:#fff;color:#000}.comment-text{margin:10px}.comment{margin-bottom:20px}.comment.reply{margin-left:50px}.comment .btn{margin-top:5px;padding:0;line-height:100%;min-height:auto}.re-comment{border:1px solid #ddd;text-align:left;padding:10px}.re-comment .close{float:right}}@media only screen and (max-width:768px){.article-authors>div{width:100%}.article-authors .caption{font-size:14px;line-height:28px}.article-author__avatar figure{margin:12px}.listcontent h2{font-size:18px;margin-left:15px;margin-top:0;padding:0;margin-bottom:0}.listcontent .imgcontainter{width:100px;border-radius:0;float:left}.listcontent .imgcontainter img{width:120px;height:100px}.listcontent .contentcontainter{width:calc(100% - 115px);padding-left:14px}.contentcontainter span{display:none}.src-tooltip .src-tooltip-text{left:-400%;width:200px}}.hlink,.preview-image,.article-list a{color:#105cd5}.article-list .btn{color:#fff}.modal{display:none;position:fixed;z-index:1042;padding-top:100px;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:#000;background-color:rgb(0 0 0 / .4)}.modal .close{float:right;margin-right:15px}.modal-content{position:fixed;bottom:50%;background-color:#fefefe;width:100%;left:50%;transform:translate(-50%,50%);-webkit-animation-name:slideIn;-webkit-animation-duration:.4s;animation-name:slideIn;animation-duration:.4s}.modal-md{max-width:800px}.table>thead>tr>td.info,.table>tbody>tr>td.info,.table>tfoot>tr>td.info,.table>thead>tr>th.info,.table>tbody>tr>th.info,.table>tfoot>tr>th.info,.table>thead>tr.info>td,.table>tbody>tr.info>td,.table>tfoot>tr.info>td,.table>thead>tr.info>th,.table>tbody>tr.info>th,.table>tfoot>tr.info>th{background-color:#187681;color:#fff}.highlights{background-color:#fff8e2;padding:20px;font=size:16px;border-radius:10px}.punch-points ul li::before{content:"\2022";color:red;font-weight:700;display:inline-block;width:1em;margin-left:-1em}[class^="vertical-scroll"]{overflow-x:auto;position:relative}[class^="vertical-scroll"] .table{min-width:680px}@media (max-width:1024px){[class^="vertical-scroll"]:after{content:" ";width:117px;height:20px;background:url(https://images.medindia.net/icons/general/socialicons.png) no-repeat;position:absolute;background-position:-14px -370px;bottom:10px;left:50%;margin-left:-59px}}.clearfix:after,.clearfix:before{content:" ";display:table}.requestappointment{display:inline-block;border-radius:2px}.requestappointment a{background:#004d4d;color:#fff;line-height:1.4em;display:block;padding:5px 5px 5px 5px;position:relative;margin-bottom:20px}.requestappointment{float:right;width:40.6666%;display:inline-block;border-radius:2px}.requestappointment a span{width:38px;height:38px;display:block;position:absolute;top:50%;margin-top:-19px;left:5%}@media (max-width:767px){.article-content .ref-link{position:inherit}.requestappointment{width:98%;float:none}}.section__name{font-size:22px;font-family:pnr,sans-serif;font-weight:600;position:relative;padding-bottom:20px;margin-top:0}.popover{position:absolute;z-index:1010;border:1px solid #4e8e97;background:#eef5f6;box-shadow:0 0 5px 6px rgb(0 0 0 / .05);padding:20px;border-radius:8px;left:50%;transform:translateX(-50%);min-width:300px;margin-top:-5px}.graybg{background:#ddd;color:#000}@media only screen and (max-width:360px){#third-src-tooltip-text{left:0!important}.src-tooltip .src-tooltip-text{left:0!important}}.report-content .group-list li{margin-bottom:10px}.embed-responsive{position:relative;display:block;height:0;padding:0;overflow:hidden}.embed-responsive .embed-responsive-item,.embed-responsive iframe,.embed-responsive embed,.embed-responsive object{position:absolute;top:0;left:0;bottom:0;height:100%;width:100%;border:0}.embed-responsive.embed-responsive-16by9{padding-bottom:56.25%}.embed-responsive.embed-responsive-4by3{padding-bottom:75%}.reference_content{margin:0 0 25px 0}.ref-section{display:block;padding:0 10px;transition:width 2s;font-size:16px;border:1px solid #187681;margin-top:-22px;width:94%}.reference_content h2{padding:0}.reference_content h2 a{color:#fff!important;width:95%;font-size:18px;margin-top:0;text-transform:none;text-decoration:none;font-family:inherit;clear:left;display:block;padding:8px}.reference_content h2 a:link{color:#fff!important;text-decoration:none}.reference_content h2 a:link,.reference_content h2 a:visited,.reference_content h2 a:hover,.reference_content h2 a:active{border:none;background-color:#187681}#breadcrumbs a{color:#105cd5;text-decoration:none}.border-dot{border-bottom:1px dotted #000}.bordered-title{border-bottom:3px solid #004d4d;margin-bottom:10px;display:block;padding-bottom:10px!important;font-size:20px;font-weight:700}.index-widget .index-title h2 a{color:#0D71AF;text-decoration:none}.index-widget .index-title h2{font-size:20px;margin-left:0;margin-bottom:10px;padding:0;margin-bottom:0}.index-widget a:hover{color:#000}.index-widget .index-simg{width:120px;border-radius:0;float:left}.index-widget .index-content{width:calc(100% - 140px);padding-left:14px;float:right;margin-top:-20px}.index-widget .index-desc{line-height:1.8}.highlights{background-color:#f6eacb!important;color:#000!important;padding:20px;font=size:16px;border-radius:10px}.fleft{float:left}.fright{float:right}.black-text{color:#000;font-weight:600!important}.alpha-browse-container .alpha-divider{border-bottom:1px solid #d0d0d0;line-height:0;margin:20px 0;text-align:left;width:100%}.alpha-browse-container .alpha-divider span{background:#fff;color:#4a4a4a;font-family:"Source Sans Pro",Verdana,sans-serif;font-size:1.25rem;margin-left:14px;padding:0 10px}.alpha-browse-box{background-color:#c5e6e8;border:2px solid #e7e7e7;border-radius:3px;clear:both;overflow:hidden;padding-bottom:3%;padding-left:1%;padding-right:1%;width:100%}.alpha-browse-box header h3{color:#4a4a4a;float:left;margin-bottom:15px;margin-top:15px}.alpha-browse-box .swipe-for-more{display:none}.alpha-browse-box ul{clear:both;list-style:none;padding:0;margin:0}.alpha-browse-box ul li{background:#fff;border:1px solid #e1e1e1;border-radius:3px;float:left;margin-right:3px;margin-top:4px}.alpha-browse-box ul li a.active-letter,.alpha-browse-box ul li a:hover{background:#4a4a4a;border-radius:3px;color:#fff}.alpha-browse-box ul li a{color:#000;display:block;font-size:1.25rem;line-height:42px;text-decoration:none;text-align:center;width:26px;vertical-align:middle}.alpha-browse-box ul li a.alpha-bigwidth{width:36px}@media screen and (max-width:47.938em){.alpha-browse-box{padding-bottom:1%}.alpha-browse-box header h3{font-size:1.125rem}.alpha-browse-box ul{white-space:nowrap;overflow-x:scroll;-webkit-overflow-scrolling:touch}.alpha-browse-box ul li{float:none;display:inline-block}.alpha-browse-box ul li a{height:45px;line-height:45px;width:43px}.alpha-browse-box .swipe-for-more{display:block;font-family:"Roboto Condensed",Verdana,sans-serif;font-size:.875rem;margin-top:10px;text-align:right;text-transform:uppercase}.index-widget .index-desc{display:none}}.red{color:red}.alpha-section-bg{padding-left:10px!important;border-bottom:3px solid #004d4d}.section-title{position:relative;top:15px;text-align:center;background:#fff0 url(https://images.medindia.net/icons/general/section-title-line.png) repeat-x;padding-bottom:40px;font-size:15px;margin:0;line-height:22px;font-weight:400;background-size:4px 23px!important}.section-title span{background-color:#034054;z-index:1;color:#fff;border-radius:50%;font-weight:700;padding:0 15px;font-size:37px}.btn:hover{color:#fff;cursor:pointer}.mt10{margin-top:10px}.mt-xxs-30{margin-top:30px}.mt-xxs-50{margin-top:50px}.wid-wrap{background-color:#ebf3f4;margin-bottom:15px}.wid-wrap .head{font-size:21px;display:block;font-weight:400;background:#187681;color:#fff;padding:10px}.wid-wrap .wid-left{display:none;width:0;height:0;border-top:8px solid #fff0;border-bottom:8px solid #fff0;border-right:8px solid #94dcce;position:absolute;margin-left:-8px;margin-top:17px}.wid-div{padding:10px 27px}.wid-div:hover{background:#94dcce}.wid-arrow:hover .wid-left{display:inline}.wid-wrap a{color:#000;text-decoration:none}.wid-wrap a:hover{color:#000}.wid-wrap .btn{padding:9px 18px;font-size:15px}.wid-wrap .btn:hover{color:#fff}.footerlinks__container{background:#fff8e2;color:#000;font-size:16px}.footerlinks__container .footer__links a,.footerlinks__container .footer__socialLinks{color:#034054}.footerbottom__container{padding-top:20px;padding-bottom:20px;background:var(--dcolor);color:#fff;font-size:14px}row{margin-left:-15px;margin-right:-15px;width:100%}.social-links a{display:block;float:left;width:34px;height:34px;margin:0 2px;border:1px solid #fff0;background:url(https://images.medindia.net/icons/common/socialicons.png) no-repeat;text-indent:40000px;overflow:hidden;font-size:0}.social-links a.footerTelegram{background-position:-600px 0}.social-links a.footerWhatsapp{background-position:-555px 0}.social-links a.footerFacebook{background-position:0 0}.social-links a.footerTwitter{background-position:-42px 0}.social-links a.footerLinkedin{background-position:-127px 0}.social-links a.footerPinterest{background-position:-212px 0}.social-links a.footerRss{background-position:-297px 0}.social-links a.footerYoutube{background-position:-340px 0}.social-links a.footerTumblr{background-position:-382px 0}.social-links a.footerInstagram{background-position:-468px 0}.social-links a.footerGooglenews{background-position:-510px 0}@media (min-width:992px){.footerbottom__container{height:185px}.footerbottom__container .grid-md-5{width:48.66667%;float:left}}section{display:block}#tcfrm_body textarea,#tcfrm_body input{column-count:auto;padding:0}.form-control{min-height:34px;background:#fff;width:100%;border:1px solid #ccc;outline:none;padding-right:10px;padding-left:10px}.grid-md-8,.grid-md-4{position:relative;width:100%;min-height:1px}@media (min-width:992px){.grid-md-8,.grid-md-4,.grid-md-3,.grid-md-2{float:left}.grid-md-8{width:66.66667%}.grid-md-4{width:33.33333%}.grid-md-3{width:25%}.grid-md-2{width:16.66667%}}@media (max-width:500px){.social-links a{width:30px!important}}#tcfrm_body .form-control{min-height:32px}#tcmcode{width:95%;padding-left:2px!important;padding-right:0;min-height:34px!important}::placeholder{font-family:Roboto}.section__body{margin-bottom:15px}.section__body p{margin-bottom:0}.form-mob{width:79.2%}.form-mcode{border-image:none;-webkit-box-shadow:inset 0 0 0 #fff0;border-radius:0;border:1px solid #ccc;background:#fff;padding:10px}.form-box .form-cntrl,.form-box .form-control{border-image:none;-webkit-box-shadow:inset 0 0 0 #fff0;border-radius:0;border:1px solid #ccc;background:#fff;width:92%;padding:10px;margin-bottom:1%;font-family:roboto;color:#111;margin-right:10px;margin-left:10px}footer .rapidSSL{float:left;max-width:70px;margin-right:10px}footer .icon_hon{float:left;max-width:40px;display:block;margin-right:10px}@media (min-width:992px){footer .rapidSSL{margin-top:12px}}.fright{float:right}.fleft{float:left}.pad10{padding:10px}.form-box .sm-field-6,.sm-field-6{width:120px}.form-box .sm-field-4,.sm-field-4{width:80px}.form-box{margin:0 auto;border-top:6px solid #187681;padding:7px 5px;box-shadow:rgb(0 0 0 / 12%) 0 1px 3px,rgb(0 0 0 / 24%) 0 1px 2px}#toTop{width:50px;height:50px;background-color:#000;background-color:rgb(0 0 0 / .6);text-align:center;line-height:20px;position:fixed;bottom:143px;right:15px;border:none;outline:none;cursor:pointer;display:none;color:#fff;font-size:30px;-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;border-radius:50px;z-index:10001}.src-tooltip .src-tooltip-text{cursor:default}.refblack{word-break:break-word}.refblack-small{word-break:break-word;font-size:14px}.vcontentshlink{color:#4169e1}.src-tooltip a,a.src-tooltip{color:#4169e1}.audio-sec{padding-bottom:20px}.article-listen{display:block;line-height:16px;font-weight:700;margin-bottom:5px}.audio-tts{display:flex;align-items:center;position:relative}.audio-tts .audio-duration{position:absolute;top:-10px;right:0;font-size:14px;line-height:16px;font-weight:700;background:#B30000;color:#fff;padding:5px;border-radius:100px}.audio-tts #play-pause{cursor:pointer;min-width:61px;height:61px;border:none;padding:0;margin:0 0 0 -9px}.audio-tts .play-icon{background:url(https://images.medindia.net/icons/general/playicon.svg) no-repeat}.audio-tts .pause-icon{background:url(https://images.medindia.net/icons/general/pauseicon.svg) no-repeat}.audio-tts input[type="range"]{-webkit-appearance:none;width:200px;height:7px;background:#e2e2e2;border-radius:5px;background-image:linear-gradient(#B30000,#B30000);background-size:0% 0%;background-repeat:no-repeat;width:100%}.audio-tts input[type="range"]::-webkit-slider-thumb{-webkit-appearance:none;height:15px;width:25px;background:url(https://images.medindia.net/icons/general/progress-bar.svg) no-repeat;cursor:ew-resize}.audio-tts input[type="range"]::-moz-range-thumb{-webkit-appearance:none;height:15px;width:25px;background:url(https://images.medindia.net/icons/general/progress-bar.svg) no-repeat;cursor:ew-resize;border:none}.audio-tts input[type="range"]::-ms-thumb{-webkit-appearance:none;height:15px;width:25px;background:url(https://images.medindia.net/icons/general/progress-bar.svg) no-repeat;cursor:ew-resize}.audio-tts input[type=range]::-webkit-slider-runnable-track{-webkit-appearance:none;box-shadow:none;border:none;background:#fff0}.audio-tts input[type=range]::-moz-range-track{-webkit-appearance:none;box-shadow:none;border:none;background:#fff0}.audio-tts input[type="range"]::-ms-track{-webkit-appearance:none;box-shadow:none;border:none;background:#fff0}.citations-wrapper{margin:0 0 25px 0}.citations-section{display:block;padding:0 10px;transition:width 2s;font-size:16px;width:94%}.citations-wrapper h2{padding:0}.citations-wrapper h2 a{color:#fff!important;width:95%;font-size:18px;margin-top:0;text-transform:none;text-decoration:none;font-family:inherit;clear:left;display:block;padding:8px}.citations-wrapper h2 a:link{color:#fff!important;text-decoration:none}.citations-wrapper h2 a:link,.citations-wrapper h2 a:visited,.citations-wrapper h2 a:hover,.citations-wrapper h2 a:active{border:none;background-color:#187681}ul.citation-list{margin:0;padding:0;line-height:30px}li.citation-item{list-style-type:none}p.citation-format{font-weight:700;margin-bottom:5px}.icon-circle-up{display:inline-block;float:right}p.citation-content{white-space:normal!important;word-wrap:break-word!important}.ref-section ul{list-style-type:none;padding:0 10px 0 15px}.ref-section ul li{padding-bottom:10px}.breaktext{word-wrap:break-word;word-break:break-all}.refwrapper{display:flex;flex-direction:column}.reftab{cursor:pointer;padding:10px 20px;margin:0 2px;background:#187681;display:inline-block;color:#fff;border:1px solid #187681;border-radius:3px 3px 0 0;box-shadow:0 .5rem .8rem #dae4e5}.reftab.active{background:#fff;color:#000;border-top:3px solid #187681;border-left:3px solid #187681;border-right:3px solid #187681;border-bottom:0;z-index:1;margin-top:-10px;-webkit-border-radius:8px 8px 0 0;-moz-border-radius:8px 8px 0 0;border-radius:8px 8px 0 0}.reftab:before{content:'';display:block;position:absolute;top:0;width:50%;left:25%}.refpanels{background:#fffffff6;width:100%;border-radius:3px;overflow:hidden;padding:10px 5px 20px 0}.refpanel{display:none;animation:fadein .8s;border:3px solid #187681}@keyframes fadein{from{opacity:0}to{opacity:1}}.bbtn{background:#1779ba;border-radius:95px;padding:9px 15px;font-style:normal;font-size:14px;line-height:100%;color:#fff;text-decoration:none;cursor:pointer}.bbtn a{text-decoration:none}.linkprev a,.linknext a{color:#fff!important}.relwid{padding:0 5px 25px 5px;background:#fff;margin:10px}.relhead{font-size:1.35em;display:block;font-weight:700;padding:10px}.relwid div{overflow:hidden}.relimg{text-align:center}.relimg{padding-bottom:4px;padding-left:5px;padding-right:46px;padding-top:15px;float:left;width:120px;max-width:50%}.relwid .relimg-link{display:inline-block}.relwid a,.relwid img{border:none;outline:0}.reltitle{padding-bottom:0;padding-left:0;padding-right:10px;padding-top:10px;text-align:left}.reltitle-link{color:#000;font-size:20px;text-decoration:none;font-weight:700}.relbody{padding-bottom:0;padding-left:0;padding-right:10px;padding-top:12px;text-align:left}.relbody-link{color:#000;font-size:16px;text-decoration:none;font-weight:400}.relwid .relimg-link img{display:block}.relwid .relimg img{width:100%;max-width:100%}@media only screen and (max-width:768px){#toTop{bottom:15px}.citations-section{padding:20px 10px 0 10px}.relwid{margin:10px 0}.relimg{padding-right:20px}.reltitle{min-height:100px}.reltitle-link{font-size:18px}.relbody{display:none}}.caption{font-size:14px}a.ancScroll{scroll-margin-top:4rem}.bltremve ul{list-style-type:none}.bltremve ul li{padding-top:5px;padding-bottom:5px;margin-left:-30px!important}.list-unstyled{padding-left:0;list-style:none}.halfsize{width:50%}.subheadnav{margin-bottom:20px;margin-top:20px;font-weight:600;background:#f0f8ff70}.subheadnav ul{display:flex;flex-wrap:wrap;list-style:none;margin:0;margin-left:-12px;padding:0}.subheadnav ul li{white-space:pre-wrap;font-size:16px;line-height:20px;margin:0;padding:0;position:relative;color:blue}.subheadnav ul li a{cursor:pointer;text-decoration:none;border-color:currentColor;color:#164CB1;font-size:16px;line-height:38px;padding:0 12px}.subheadnav ul li:after{content:"";background:#bcbfc5;position:absolute;top:2px;right:-1px;bottom:0;height:16px;width:1px;margin:auto}.subheadnav ul li a:hover,.subheadnav ul li.active a{color:#A51868}.subheadnav ul li a:before{content:'';height:1px;left:0;bottom:0;position:absolute;width:100%;overflow:hidden;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0);-webkit-transform-origin:right center;-ms-transform-origin:right center;transform-origin:right center;-webkit-transition:-webkit-transform .4s cubic-bezier(.645,.045,.355,1);transition:transform .4s cubic-bezier(.645,.045,.355,1);background:-moz-linear-gradient(left,#9b1561 0,#fff0 100%);background:-webkit-linear-gradient(left,#9b1561 0,#fff0 100%);background:linear-gradient(to right,#9b1561 0,#fff0 100%)}.subheadnav ul li a:hover:before{-webkit-transform:none;-ms-transform:none;transform:none;-webkit-transform-origin:left center;-ms-transform-origin:left center;transform-origin:left center;width:100%}.subheadnav ul li:last-child:after{background:none}@media (max-width:769px){.subheadnav ul li{padding:8px 0}}@media (min-width:769px){.subheadnav ul{margin-left:-15px}.subheadnav ul li{font-size:28px;line-height:40px}.subheadnav ul li a{font-size:18px;line-height:40px;padding:0 15px}.subheadnav ul li:after{top:4px;height:22px}}.sectionBanner{position:relative;display:flex}.sectionBanner::before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background:#feb34d}.sectionBanner-content{position:relative;color:#fff;width:65%;top:20%;bottom:50%;left:5%;margin-top:25px}.sectionBanner-img{width:35%;background-repeat:no-repeat;background-size:cover;background-position:center center;z-index:1}.sectionBanner-img img{float:right;margin-right:10px}.sectionBanner-title{font-size:50px;line-height:46px;letter-spacing:.65px;color:#2F2E52;font-weight:700;animation-name:bannertitle;animation-duration:.8s;animation-delay:.5s;animation-fill-mode:forwards;opacity:0;animation-timing-function:ease-out;margin-top:1rem}.sectionBanner-subtitle{font-size:22px;line-height:34px;letter-spacing:.24px;color:#353131;margin:0;animation-name:subtitle;animation-duration:.8s;animation-delay:.5s;animation-fill-mode:forwards;opacity:0;animation-timing-function:ease-out;margin-top:1rem}@media (max-width:767px){.sectionBanner{flex-direction:column-reverse}.sectionBanner-content{width:90%;left:4%;margin-right:5%;margin-bottom:20px;margin-top:20px}.sectionBanner-subtitle{font-size:16px;line-height:26px;letter-spacing:.17px}.sectionBanner-title{font-size:26px;line-height:34px;letter-spacing:.33px;margin:0 0 12px 0}.sectionBanner-img{width:100%;float:none}}@keyframes bannertitle{0{transform:translateX(-40px);opacity:0}100%{transform:translateX(0);opacity:1}}@keyframes subtitle{0{transform:translateY(40px);opacity:0}100%{transform:translateY(0);opacity:1}}@media only screen and (max-width:351px){.subheadnav ul li{font-size:15px!important}}.modal-content{position:static;display:block;max-width:700px;margin:auto;bottom:0%;background-color:#fefefe;width:100%;left:0%;transform:translate(0%,0%);-webkit-animation-name:slideIn;-webkit-animation-duration:.4s;animation-name:slideIn;animation-duration:.4s}.article-videos{display:block;margin:25px 0 0;overflow:hidden}.video-screen{width:100%;position:relative;padding-bottom:56.25%;padding-top:25px;height:0;z-index:1}.video-screen iframe{position:absolute;top:0;left:0;width:100%;z-index:0;height:100%}.article-videos .videos-list{margin:5px 0 0;background:#3d3d3d;border:1px solid #ccc;display:block;box-shadow:inset 0 0 5px #000}.article-videos ul li{display:block;float:left;margin:5px 2%;width:27%;padding:.5%;border:1px solid #fff;background:#e3e3e3}.article-videos li span{display:block;padding:5px 10px;word-wrap:break-word;text-align:left;font-size:12px;line-height:100%}.article-videos li img{width:100%}.social_share{margin:2% 0;display:inline-block}.faqqa h2{margin:0;font-size:1.05em!important}.faqqa a{color:#4169e1}.faqqa p{margin-top:5px}.faqqa h3{margin:0;font-size:1.05em!important}.article-list{padding:10px 20px;border:3px solid #55a6c1;margin-top:25px;margin-bottom:15px}@media (min-width:1200px){.article-list{padding:15px 30px}}.article-list .title{margin-top:-30px;background:#fff;display:block;padding:8px 20px;margin-bottom:0}@media (min-width:1200px){.article-list .title{margin-top:-40px}}.article-list ul li{margin-bottom:10px}@media (min-width:769px){.rightwid h2,.h2{font-size:38px;line-height:42px;margin-top:45px}.rightwid li{font-size:18px}}.rightwid{border-bottom:2px solid #187681;margin-bottom:50px}.rightwid-head{position:relative;border:none;text-align:center;padding:10px;font-size:1.35em;display:block;font-weight:700;margin:15px 0 15px 0}.rightwid-head::before,.rightwid-head::after{position:absolute;width:70px;height:50px;content:""}.rightwid-head::before{left:0;top:0;border-left:4px solid #187681;border-top:4px solid #187681}.rightwid-head::after{right:0;bottom:0;border-right:4px solid #187681;border-bottom:4px solid #187681}.rightwid h2,.h2{font-weight:700;position:relative;clear:both;font-weight:700;font-size:28px;line-height:30px;margin-bottom:15px;margin-top:30px}.rightwid-ul{padding:0;margin:0;list-style:none}.rightwid-li{margin-bottom:0;border-top:1px solid #dcdbdb;display:flex;min-height:102px;padding-bottom:20px;padding-top:20px;width:100%;margin-bottom:0;min-height:unset;align-items:center}.rightwid li{font-size:17px;line-height:26px;margin-bottom:8px}.rightwid-imghl{cursor:pointer;text-decoration:none;border-color:currentColor;color:#02838d;color:inherit;display:block;margin-right:15px;line-height:0}.rightwid-title{display:flex;justify-content:center;flex-direction:column;width:100%}.rightwid-titlehl{cursor:pointer;text-decoration:none;border-color:currentColor;color:#02838d;color:inherit;font-weight:600;font-size:18px;line-height:30px;text-decoration:none;margin-bottom:0;display:block}.rightwid-imgcir{cursor:pointer;text-decoration:none;border-color:currentColor;color:#02838d;color:inherit;display:block;margin-right:15px;line-height:0;background:#e4e6e7;border-radius:20px}.az-container{background-color:#c5e6e8;clear:both;overflow:hidden;padding-bottom:1%;width:100%}.az-container header h2{color:#4a4a4a;margin-bottom:15px;margin-top:15px}.az-container .swipe-for-more{display:none}.az-container ul{clear:both;list-style:none;padding:0;margin:0}@media only screen and (min-width:769px){.az-container ul{display:inline-block}}.az-container ul li{background:#fff;border:1px solid #e1e1e1;border-radius:3px;float:left;margin-right:3px;margin-top:4px}.az-container ul li a.active,.az-container ul li a:hover{background:#034154;border-radius:3px;color:#fff}.az-container ul li a{color:#000;display:block;font-size:1.25rem;line-height:42px;text-decoration:none;text-align:center;width:30px;vertical-align:middle}.az-container ul li a.alpha-bigwidth{width:36px}.az-list{width:75%;text-align:center}@media screen and (max-width:47.938em){.az-container{padding-bottom:1%}.az-container header h2{font-size:1.125rem}.az-container ul{white-space:nowrap;overflow-x:scroll;-webkit-overflow-scrolling:touch}.az-container ul li{float:none;display:inline-block}.az-container ul li a{height:45px;line-height:45px;width:43px}.az-container .swipe-for-more{display:block;font-family:"Roboto Condensed",Verdana,sans-serif;font-size:.875rem;margin-top:10px;text-align:right;text-transform:uppercase}.index-widget .index-desc{display:none}.az-list{width:100%;margin:0 auto;text-align:center}}.mrelatedlinks{background-color:#fff;display:inline-block;border-top:6px solid #f1f1f1;border-bottom:6px solid #f1f1f1;padding:14px}.mrelatedlinks .mrelleft{width:175px;border-radius:0;float:left}.mrelatedlinks .mrelright{width:calc(100% - 200px);padding-left:14px;float:right}.mrelhead{font-size:26px;;font-weight:700;text-decoration:none}.mrelatedcontent{margin:1%;border:1px solid #fff;float:left;position:relative;width:95%;border-radius:0;background-color:#eff9fb!important}.mrelhead a{color:#105cd5!important}.mrelhead a:hover{color:#000!important}@media only screen and (min-width:769px){.az-container ul{display:inline-block}.az-list{width:78%;text-align:center}}.punchline{background-color:var(--lcolor);padding:20px;border-radius:10px;line-height:35px}.punchline a{color:#4169e1}.tweetbtn{position:relative;height:20px;box-sizing:border-box;padding:10px 12px 10px 35px;background-color:#075A92;color:#fff!important;border-radius:9999px;font-weight:500;cursor:pointer;margin-top:5px}.tweetbtn:hover{color:#fff}.tweetbtn a{color:#fff!important}.punchline span a:after{content:" ";position:absolute;top:50%;left:20px;background:url(https://images.medindia.net/icons/general/shareicons.png) no-repeat}.punchline .twitter a:after{width:23px;height:19px;background-position:-75px -256px;margin-top:-10px;margin-left:-12px}.rcard-container{display:grid;background-color:#fffaf4;padding:20px;column-gap:20px;row-gap:1em}.card-item{background-color:hwb(0deg 100% 0%);border:1px solid #e0e0e0;padding:20px 10px}.card-item .img-col{width:122px;border-radius:0;float:left}.card-item .cont-col{width:calc(100% - 143px);padding-left:14px;float:right}.card-title h3{color:#105cd5!important;font-size:1.35em;display:contents}.card-desc{color:#646464;font-size:18px;margin-top:8px;line-height:26px}.singlecol{max-width:1200px;margin-right:auto;margin-left:auto;width:95%;line-height:1.7;clear:both}@media only screen and (min-width:769px){.singlecol{width:calc(100vw - 460px)!important}}@media only screen and (max-width:768px){.singlecol{width:97%}.mrelatedlinks{padding:0}.mrelatedlinks .mrelleft{width:100%;float:none}.mrelleft{text-align:center}.mrelatedlinks .mrelright{width:100%;float:none}.mrelhead{font-size:22px}.twitter a{color:#fff!important}.rcard-container{padding:0}.card-item .cont-col{width:calc(100% - 138px)}.card-title h3{font-size:20px!important;line-height:22px}}.hightlightcontent{background:linear-gradient(0deg,#f4e4be,#fbf6e7);padding:15px;color:#000;border:1px solid #f4e4be;line-height:38px!important;margin:30px 0}.report-content h3,.report-content h4{font-size:20px!important;display:inline!important}.center{text-align:center}.pagination{display:inline-block;background:#fff;margin-top:10px;padding:10px}.pagination a,.pagination span{color:#000;float:left;padding:8px 10px;text-decoration:none;transition:background-color .3s;border:1px solid #ddd;margin:0 4px}.pagination a.active,.pagination span.active{background-color:#497bab;color:#fff;border:1px solid #497bab}.pagination a:hover:not(.active){background-color:#ddd}.medlink_btn a{border:2px solid #1779ba;background:#1779ba;color:#fff;cursor:pointer;padding:5px 0;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;-webkit-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;transition:all .3s ease-in-out;-webkit-border-radius:30px;-moz-border-radius:30px;-ms-border-radius:30px;border-radius:30px;display:inline-block;margin-bottom:10px;width:100%;text-align:center;font-weight:700;font-size:20px}.medlink_btn>a:hover{background:#fff;color:#1779ba}.index-list{-webkit-column-count:2;-moz-column-count:2;column-count:2;column-gap:40px}.index-list li{list-style:none;padding:20px 0;border-bottom:1px solid #ccc;column-break-inside:avoid;-webkit-column-break-inside:avoid}.index-list li a{vertical-align:top;color:#1957c9}.index-list li a:hover{color:#1957c9}@media only screen and (max-width:767px){.index-list{-webkit-column-count:1;-moz-column-count:1;column-count:1;column-gap:20px}}@media (min-width:769px){.asidewid h2,.h2{font-size:38px;line-height:42px;margin-top:45px}.asidewid li{font-size:18px}}.asidewid{border-bottom:2px solid #187681;margin-bottom:50px}.asidewid-head{position:relative;border:none;text-align:center;padding:10px;font-size:1.35em;display:block;font-weight:700;margin:15px 0 15px 0}.asidewid-head::before,.asidewid-head::after{position:absolute;width:70px;height:50px;content:""}.asidewid-head::before{left:0;top:0;border-left:4px solid #187681;border-top:4px solid #187681}.asidewid-head::after{right:0;bottom:0;border-right:4px solid #187681;border-bottom:4px solid #187681}.asidewid h2,.h2{font-weight:700;position:relative;clear:both;font-weight:700;font-size:28px;line-height:30px;margin-bottom:15px;margin-top:30px}.asidewid-ul{padding:0;margin:0;list-style:none}.asidewid-li{margin-bottom:0;border-top:1px solid #dcdbdb;display:flex;min-height:102px;padding-bottom:20px;padding-top:20px;width:100%;margin-bottom:0;min-height:unset;align-items:center}.asidewid li{font-size:17px;line-height:26px;margin-bottom:8px}.asidewid-imghl{cursor:pointer;text-decoration:none;border-color:currentColor;color:#02838d;color:inherit;display:block;margin-right:15px;line-height:0}.asidewid-title{display:flex;justify-content:center;flex-direction:column;width:100%}.asidewid-titlehl{cursor:pointer;text-decoration:none;border-color:currentColor;color:#02838d;color:inherit;font-weight:600;font-size:18px;line-height:30px;text-decoration:none;margin-bottom:0;display:block}@media (min-width:481px) and (max-width:767px){.singlecol{width:97%!important}}@media (min-width:769px) and (max-width:1024px){.singlecol{width:96%!important}}fieldset{border:none;outline:none;margin-bottom:15px}fieldset .radiogroup label{display:inline-block}fieldset .radiogroup label input{margin-right:8px;display:inline-block}fieldset .radiogroup label+label{margin-left:15px}.section-poll{background:#60c5a7 url(https://images.medindia.net/assets/poll-bg.jpg) no-repeat 0}@media (min-width:500px){.section-poll{background-size:cover}}.section-poll h3{margin-top:0}.section-poll .poll-question{font-size:20px}.section-poll .radiogroup label+label{margin-left:0}.section-poll .radiogroup label{margin-right:15px}.section-poll button{min-width:180px}.section-poll .poll-container{padding:20px}.radiogroup{margin-bottom:10px}.custom-radio{position:relative}.custom-radio-icon{display:inline-block;width:20px;height:20px;border-radius:50%;background:#fff;border:1px solid #ddd;float:left;margin-right:8px}.custom-radio input{display:none!important}.custom-radio input:checked+.custom-radio-icon{position:relative}.custom-radio input:checked+.custom-radio-icon:after{content:"";display:inline-block;width:12px;height:12px;position:absolute;left:3px;top:3px;background:#666;border-radius:50%}.orange-bg{-webkit-border-radius:5px 5px 5px 5px;padding:15px;text-align:center;border:1px solid #d7f0fd;background-color:#d7f0fd;background-image:-webkit-gradient(linear,left top,left bottom,from(#ffaf4b),to(#ff920a));background-image:-webkit-linear-gradient(top,#ffaf4b,#ff920a);background-image:-moz-linear-gradient(top,#ffaf4b,#ff920a);background-image:-ms-linear-gradient(top,#ffaf4b,#ff920a);background-image:-o-linear-gradient(top,#ffaf4b,#ff920a);background-image:linear-gradient(to bottom,#ffaf4b,#ff920a) filter:progid:dximagetransform.Microsoft.gradient(gradienttype=0,startcolorstr=#ffaf4b,endcolorstr=#ff920a);color:#fff}.red-bg{text-align:center;background-color:red;color:#fff;border:5px solid red;margin-right:30px}.pdfCopy a{background:#575757;color:#fff;border:none;padding:10px 35px;font-size:16px;border-radius:2px}@media only screen and (min-width:769px){.verified-btn1{cursor:pointer;line-height:16px;font-weight:600;position:relative;overflow:hidden;padding:6px 12px;text-shadow:0 0 0 rgb(255 255 255 / .5);transition:padding .5s cubic-bezier(.165,.84,.44,1);-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:1px solid #c00;color:#c00;background:#fff;height:30px;min-width:140px;border-radius:15px/50%;font-size:16px;float:right}.rbtn{padding:6px 10px}}.index-list-grid{--auto-grid-min-size:16rem;display:grid;grid-template-columns:repeat(auto-fill,minmax(var(--auto-grid-min-size),1fr));grid-gap:1rem}.index-list-grid li{list-style:none;padding:20px 0;border-bottom:1px solid #ccc;column-break-inside:avoid}.index-list-grid li a{vertical-align:top;color:#1752bc}.index-list-grid li a:hover{color:#1752bc}.index-wrapper{margin:0 auto}.faqqa h2:first-child{font-size:25px!important;padding-bottom:15px;display:inline-block}.faqqa h2:first-child:after{content:"";border-radius:2px;border:2px solid #29b6c2;position:relative;width:100%;display:block;margin-top:5px}.faqqa p{margin-top:5px;padding-bottom:15px;border-bottom:1px solid #000}.month-container{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));align-items:center;grid-gap:10px;border-bottom:1px solid #000;padding-bottom:20px}.month-button{display:flex;justify-content:center;align-items:center;background:skyblue;height:50px;border:none;outline-color:#00A8EF;cursor:pointer;border-radius:50px;color:#000!important}@media screen and (min-width:37.5em){.month-container{height:auto}}.mrelatedlinks.fullcard{position:relative;width:100%}.full-card-link::after{position:absolute;top:0;right:0;bottom:0;left:0;z-index:1;content:""}ins.adsbygoogle[data-ad-status="unfilled"]{display:none!important}@media only screen and (max-width:768px){.webtopnav{display:none}.fleft.bbtn.linkprev,.fright.bbtn.linknext{width:35%!important}.footer__links li a{margin:10px 0}.teleconsult1 .form-cntrl{margin-bottom:15px}}.hlink{color:#4169e1;border-bottom:1px solid #4169e1}.hlink:hover{text-decoration:none!important;color:#0e38b5}.green-btn{background-color:#187681;border:0;padding:8px;border-radius:3px;border-radius:100px;box-shadow:0 4px 8px 0 rgb(48 48 48 / 10%);color:#fff!important;font-size:.875rem;line-height:1;text-decoration:none!important}.didyouknowbox{background:#BBEFEA;padding:10px 25px;margin:10px 5px 30px;border-radius:20px;height:auto!important;text-align:justify}.disclaimerbox{background-color:#f7f7f7;padding:20px;font-size:14px}.disclaimerhead{color:#cc2900}.hamburger-lines{display:block;position:relative;height:20px;width:25px;top:6px;z-index:2;display:flex;flex-direction:column;justify-content:space-between}.hamburger-lines .line{display:block;height:4px;width:100%;border-radius:10px;background:#0e2431}.modal-content{position:static;display:block;max-width:700px;margin:auto;bottom:0%;background-color:#fefefe;width:100%;left:0%;transform:translate(0%,0%);-webkit-animation-name:slideIn;-webkit-animation-duration:.4s;animation-name:slideIn;animation-duration:.4s}.wrappervideo{max-width:680px;margin:60px auto;padding:0 20px}.youtubevideo{background-color:#000;margin-bottom:30px;position:relative;padding-top:56.25%;overflow:hidden;cursor:pointer}.youtubevideo img{width:100%;top:-16.82%;left:0;opacity:.7}.youtubevideo .play-button{width:90px;height:60px;background-color:#333;box-shadow:0 0 30px rgb(0 0 0 / .6);z-index:1;opacity:.8;border-radius:6px}.youtubevideo .play-button:before{content:"";border-style:solid;border-width:15px 0 15px 26px;border-color:#fff0 #fff0 #fff0 #fff}.youtubevideo img,.youtubevideo .play-button{cursor:pointer}.youtubevideo img,.youtubevideo iframe,.youtubevideo .play-button,.youtubevideo .play-button:before{position:absolute}.youtubevideo .play-button,.youtubevideo .play-button:before{top:50%;left:50%;transform:translate3d(-50%,-50%,0)}.youtubevideo iframe{height:100%;width:100%;top:0;left:0}.directory_map_list{display:flex;flex-wrap:wrap;justify-content:space-between;list-style-type:none;margin:10px 10px 10px 10px;padding:10px 10px 10px 10px}.directory_map_list_item{flex:0 0 calc(38% - -18px);margin-bottom:7px;border-bottom:1px solid #96c9ca;border-radius:5px;padding:11px 10px 10px 1px;margin:9px 12px 10px 9px;font-size:16px}@media only screen and (max-width:768px){.directory_map_list_item{flex:0 0 calc(50% - 10px)}}@media only screen and (max-width:480px){.directory_map_list_item{flex:0 0 100%}}.directory_map_wrap{box-shadow:0 5px 10px #187681;border-radius:21px}.directory_map_title{text-align:center;border-radius:14px;text-transform:uppercase}.directory_map_icon{text-align:center;position:relative;top:11px}.pad5{padding:5px}.directory_map_list_item a{color:#164CB1}.disclaimerbox{background-color:#f7f7f7;padding:20px;font-size:14px}.disclaimerhead{color:#cc2900}
+    </style>
+    
+    <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4864473589052117" crossorigin="anonymous" type="rocketlazyloadscript" data-rocket-type="text/javascript" defer=""></script>
+<!-- Global site tag (gtag.js) - Google Analytics 4-->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7KFNKWVMSM" type="rocketlazyloadscript" data-rocket-type="text/javascript" defer=""></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-7KFNKWVMSM');
+</script>
+    <script async="" type="rocketlazyloadscript" data-rocket-type="text/javascript" defer="">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "lrrk0n9vnu");
+    </script>
+
+<!--General Schema-->
+<script type="application/ld+json">
+    { "@context" : "https://schema.org",
+      "@type" : "Organization",
+      "name" : "Medindia",
+      "url" : "https://www.medindia.net",
+      "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.medindia.net/amp-images/banner/medindia-logo.jpg",
+          "width": 600,
+          "height": 60
+        },
+    "address":{
+    "@type":"PostalAddress",
+    "streetAddress":"A-113, 3rd Avenue, Anna Nagar",
+    "addressLocality":"Chennai",
+    "addressRegion":"India",
+    "postalCode":"600 102"
+    },
+    "contactPoint":{
+    "@type":"ContactPoint",
+    "telephone":"+91 – 9791173039",
+    "email":"info@medindia.net",
+    "contactType":"Customer Service",
+    "areaServed":"IN",
+    "availableLanguage":"English",
+    "hoursAvailable":{
+    "opens":"10:00",
+    "closes":"18:00"
+    }
+    },
+      "sameAs" : [ "https://www.facebook.com/Medindia","https://twitter.com/medindia","https://www.linkedin.com/in/medindia","https://pinterest.com/medindia/","https://www.youtube.com/medindiavideos","https://www.instagram.com/medindia/","https://news.google.com/publications/CAAqBwgKMKDlpAsw4--8Aw?hl=en-IN&gl=IN&ceid=IN%3Aen"]
+    }
+</script>
+<!--General Schema-->
+
+<!--SiteNavigation Schema-->
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"SiteNavigationElement",
+"name":["Health Centers","Home Page","Multimedia","News","Press Releases","Calculators","Drugs","Directories","Education","Articles","Health Special Reports"],
+    "url":["https://www.medindia.net/health-centers/index.asp","https://www.medindia.net/homepages.asp","https://www.medindia.net/multimedia/index.asp","https://www.medindia.net/news/index.htm","https://www.medindia.net/health-press-release/displaynews.asp","https://www.medindia.net/patients/calculators/index.asp","https://www.medindia.net/drugs/information/index.htm","https://www.medindia.net/directories/index.htm","https://www.medindia.net/education/index.asp","https://www.medindia.net/health/articles/index.htm","https://www.medindia.net/medicalnews/health_special_reports.asp"]
+}
+</script>
+<!--SiteNavigation Schema-->
+
+    <!--BreadCrumb Schema-->
+    <script type="application/ld+json">
+            {
+             "@context": "https://schema.org",
+             "@type": "BreadcrumbList",
+             "itemListElement":
+             [
+
+                    {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                    "@id": "https://www.medindia.net",
+                    "name": "Medindia"
+                    }
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                    "@id": "https://www.medindia.net/news/index.htm",
+                    "name": "News"
+                    }
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                    "@id": "https://www.medindia.net/healthnews/research-news.asp",
+                    "name": "Research News"
+                    }
+                    },
+                    {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                    "name": " Zika Virus Protein Can Be a Target for Drugs That Combat Virus"
+                    }
+                    }
+
+         ]
+        }
+    </script>
+    <!--BreadCrumb Schema-->
+
+<!--News Schema-->
+<script type="application/ld+json">
+    {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+            "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm"
+            },
+            "isPartOf": {
+            "@type": "CreativeWork",
+            "name": "Medindia",
+            "url": "https://www.medindia.net"
+            },
+          "inLanguage":"en",
+          "headline": " Zika Virus Protein Can Be a Target for Drugs That Combat Virus",
+          "description": "Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.",
+          "keywords": "virology,zika,dengue,microcephaly,neurology.",
+          "articleSection": "Research News",
+          "url":"https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm",
+            "image": {
+            "@type": "ImageObject",
+            "url": "https://images.medindia.net/health-images/1200_1000/infection-mechanism-of-zika-virus.jpg",
+            "width": 1200,
+            "height": 1000
+            },
+          "datePublished": "Oct 04, 2021",
+          "dateModified": "Oct 04, 2021",
+          "articleBody":"The mechanism behind how the zika virus causes neurological complications in adult patients and microcephaly in fetuses is demonstrated by Brazilian researchers in the journal Brain, Behavior, and Immunity.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Zika became a public health  problem in 2015, starting in South America and spreading to more than 94 countries. It was first detected in 1947 in Uganda (East Africa) but was not considered a human health hazard until the 2015-16 outbreaks.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;According to the Ministry of Health in Brazil, more than 2,006 probable cases were notified in January-May 2021.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;The rise in zika cases was accompanied by an increase in cases of microcephaly, a rare neurological disorder in which the fetal or newborn&#x27;s brain fails to develop completely.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;More than 2,400 cases of microcephaly were notified in Brazil in 2015, compared with 781 in the previous five years.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Although zika is usually asymptomatic, recent data shows a link between the disease and the development of neurological complications such as Guillain-Barr&#xE9; syndrome, encephalitis and meningitis in adults, and congenital malformations such as microcephaly in infants.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;It has been shown that zika virus can cross the blood-brain barrier and also enter the placenta, where it infects the fetus.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;There was plenty of evidence in the literature about dengue virus interaction with Gas6 protein. Using this interaction mechanism, the virus penetrates cells that destroy bacteria and replicate. This has now been demonstrated for zika as well.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;To find out how Gas6 levels correlated with the neurological complications associated with zika, the researchers used the ELISA enzyme-linked immunoassay to analyze blood samples from patients included in a cross-sectional study conducted between February 2016 and June 2017 in hospitals in Campinas, state of S&#xE3;o Paulo. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Ninety patients and 13 healthy controls were enrolled in the study: 57 patients had mild self-limited zika and were labeled &quot;non-neuro&quot;, while 19 had neurological complications after being infected by zika (&quot;neuro&quot;), and 14 had neurological complications without having zika (&quot;neuro non-zika&quot;).&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;The &quot;neuro&quot; group had higher levels of Gas6 and SOCS-1.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Meanwhile, another group of researchers was working with adult mice bred at the university with an immune system capable of combating the virus.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&quot;We inoculated the virus with and without Gas6 into pregnant and non-pregnant mice. Viral load on the first day after infection was much higher in the adult mice that received the virus with Gas6, showing that the protein favors infection. A high proportion of their offspring had congenital malformations, with smaller heads and lower overall size,&quot; said Lilian Gomes de Oliveira, joint first author of the article with Jo&#xE3;o Luiz da Silva Filho.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;To invade monocytes by binding to cell receptors, Gas6 must undergo a chemical reaction that enables it to interact with other molecules.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Based on this fact, researchers tested in vitro use of a drug that inhibits carboxylation (warfarin), which did indeed block or reduce viral replication.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;By explaining the mechanism behind neurological complications in zika virus, researchers have opened up the possibility of further research that could serve as a basis for intervention with drugs.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;These findings also contribute to a better understanding of the pathogenesis of severe zika and its outcomes and point in the direction of studies in pursuit of ways to use Gas6 as a therapeutic tool.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;",
+          "author": {
+              "@type": "Person",
+              "name": "Dr. Jayashree Gopinath",
+              "url":"https://www.medindia.net/medical-review-team/dr-jayashree-g.asp"
+          },
+            "associatedMedia": {
+            "@type": "imageObject",
+            "url": "https://images.medindia.net/health-images/1200_1000/infection-mechanism-of-zika-virus.jpg",
+            "caption": " Zika Virus Protein Can Be a Target for Drugs That Combat Virus",
+            "description": "Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.",
+            "width": 1200,
+            "height": 1000
+                },
+          "publisher": {
+          "@type": "NewsMediaOrganization",
+          "name": "Medindia",
+          "url": "https://www.medindia.net",
+          "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.medindia.net/amp-images/banner/medindia-logo.jpg",
+          "width": 600,
+          "height": 60
+          }
+      }
+
+    }
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": " Zika Virus Protein Can Be a Target for Drugs That Combat Virus",
+    "description": "Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.",
+    "keywords": "virology,zika,dengue,microcephaly,neurology.",
+    "speakable": {
+    "@type": "SpeakableSpecification",
+    "xPath": [
+    "/html/head/title",
+    "/html/head/meta[@name='description']/@content"
+    ]
+    },
+    "url": "https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm"
+    }
+</script>
+<!--News Schema-->
+
+
+</head>
+<body id="menu-top">
+<div class="webnav">
+    <div style="background: #f0f0f0; font-size:12px;">
+        <div class="container top-abt">
+            <a class="sub12 color12" onmouseover="z.show('about')" onmouseout="z.hide('about')" href="https://www.medindia.net/aboutus.asp">About <span>▼</span></a>
+
+            <a href="https://www.medindia.net/workformedindia.asp">Careers</a>
+            <a href="https://www.medindia.net/internship-medindia.asp">Internship</a>
+            <a href="https://blogs.medindia.net/index.asp">MedBlog</a>
+            <a href="https://www.medindia.net/contact.asp">Contact us</a>
+            <div class="dropdown-abt sub13 color13" onmouseover="y.show('lang')" onmouseout="y.hide('lang')">
+                <a href="#"> English (US) <span>▼</span></a>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div class="container logobar">
+        <table width="100%">
+            <tbody><tr>
+                <td width="20%">
+                    <a href="https://www.medindia.net/index.htm"><img src="https://images.medindia.net/logos/logo.png" alt="Medindia" width="72" height="59"></a>
+                </td>
+                <td width="60%">
+                        <div style="width: 400px;" class="tab-search"><script type="rocketlazyloadscript" data-rocket-type="text/javascript" defer=""> (function() {var cx = '006251122200401839306:xqepsetvscg';var gcse = document.createElement('script');gcse.type = 'text/javascript';gcse.async = true;gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +'//cse.google.com/cse.js?cx=' + cx;var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gcse, s); })();</script><gcse:searchbox-only resultsurl="/search-result.asp" queryparametername="q"> </gcse:searchbox-only></div>
+                </td>
+                <td width="20%">
+                    <a href="https://wellness.medindia.net/medindia/regis/signin.asp" target="_blank" class="log-btn" style="color:#fff!important;">LOGIN</a> <a href="https://www.medindia.net/regis/registration-benefits.asp" class="log-btn" style="color:#fff!important;">REGISTER</a>
+
+                </td>
+            </tr>
+        </tbody></table>
+    </div><div class="clear"></div>
+    <div class="desk-view" style="background: #187681; margin: 0px; height: 35px;  color: #fff;    border-bottom: 0px solid #fff;font-size:16px;" id="navbar">
+        <div class="container top-navv">
+            <a href="https://www.medindia.net/index.htm" class="nav-start disabled-link" onmouseover="showsecondarymenu('explore')" onmouseout="hidesecondarymenu('explore')"><span>☰</span> &nbsp;Explore </a>
+            <a class="sub2 color2 disabled-link" href="https://www.medindia.net/health-centers/index.asp" onmouseover="showsecondarymenu('healthy-living')" onmouseout="hidesecondarymenu('healthy-living')">Healthy Living</a>
+            <a class="sub3 color3 disabled-link" href="https://www.medindia.net/news/index.htm" onmouseover="showsecondarymenu('news')" onmouseout="hidesecondarymenu('news')">News</a>
+            <a class="sub4 color4" href="https://www.medindia.net/patients/patientinfo/health-encyclopedia.asp?alpha=A" onmouseover="showsecondarymenu('healthaz')" onmouseout="hidesecondarymenu('healthaz')">Health A-Z</a>
+            <a href="https://www.medindia.net/patients/calculators/index.asp" class="sub5 color5" onmouseover="showsecondarymenu('calculators')" onmouseout="hidesecondarymenu('calculators')">Calculators</a>
+            <a class="sub6 color6" href="https://www.medindia.net/health/articles/index.htm" onmouseover="showsecondarymenu('articles')" onmouseout="hidesecondarymenu('articles')">Articles</a>
+            <a href="https://www.medindia.net/drugs/index.htm" class="sub7 color7" onmouseover="showsecondarymenu('drugs')" onmouseout="hidesecondarymenu('drugs')">Drugs</a>
+            <a href="https://www.medindia.net/directories/index.htm" class="sub8 color8" onmouseover="showsecondarymenu('directories')" onmouseout="hidesecondarymenu('directories')">Directories</a>
+            <a href="https://www.medindia.net/education/index.asp" class="sub9 color9" onmouseover="showsecondarymenu('education')" onmouseout="hidesecondarymenu('education')">Education</a>
+            <a href="#" class="sub10 color10" onmouseover="showsecondarymenu('more')" onmouseout="hidesecondarymenu('more')">More</a>
+        </div>
+        <div id="secondarymenu" onmouseover="showsmenu()" onmouseout="hidesecondarymenu()" style="display:none;"></div>
+    </div>
+
+
+    <div class="clear"></div>
+    <script>
+        newsnav = {
+            show: function (elem) {
+                showsecondarymenu('news')
+                newsnav.show('newsnav')
+                document.getElementById(elem).style.display = 'block';
+            },
+            hide: function (elem) {
+                document.getElementById(elem).style.display = 'none';
+            }
+        }
+        function showsmenu() {
+            document.getElementById("secondarymenu").style.display = "block";
+            document.getElementById("secondarymenu").style.width = "100%";
+            document.getElementById("secondarymenu").classList.add("navbox");
+
+        }
+        function hidesecondarymenu() {
+            document.getElementById("navshow").value = "0";
+            document.getElementById("secondarymenu").style.display = "none";
+            document.getElementById("secondarymenu").classList.remove("navbox");
+            //document.getElementById("secondarymenu").innerHTML="";
+        }
+        function showsecondarymenu(smenu) {
+
+            xmlhttp = GetXmlHttpObject();
+            if (xmlhttp == null) {
+                alert("Your browser does not support AJAX!");
+                return;
+            }
+            document.getElementById("navshow").value = "1";
+            url = "https://www.medindia.net/mob-light/nav/" + smenu + ".asp";
+            xmlhttp.onreadystatechange = stateChangednav;
+            xmlhttp.open("GET", url, true);
+            xmlhttp.send(null);
+        }
+
+
+        function stateChangednav() {
+            //alert(xmlhttp.readyState);
+            //alert(document.getElementById("navshow").value)
+            if (xmlhttp.readyState == 4) {
+                // document.getElementById("secondarymenu").innerHTML="sssssssssssssss";
+                //alert(xmlhttp.responseText);
+                if (document.getElementById("navshow").value == "1") {
+                    document.getElementById("secondarymenu").innerHTML = xmlhttp.responseText;
+                    document.getElementById("secondarymenu").style.display = "block";
+                    document.getElementById("secondarymenu").classList.add("navbox");
+                }
+            }
+        }
+
+        function GetXmlHttpObject() {
+            if (window.XMLHttpRequest) {
+                // code for IE7+, Firefox, Chrome, Opera, Safari
+                return new XMLHttpRequest();
+            }
+            if (window.ActiveXObject) {
+                // code for IE6, IE5
+                return new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            return null;
+        }
+    </script>
+    <script type="text/javascript">
+        z = {
+            show: function (elem) {
+                document.getElementById(elem).style.display = 'block';
+            },
+            hide: function (elem) {
+                document.getElementById(elem).style.display = 'none';
+            }
+        }
+        y = {
+            show: function (elem) {
+                document.getElementById(elem).style.display = 'block';
+            },
+            hide: function (elem) {
+                document.getElementById(elem).style.display = 'none';
+            }
+        }
+    </script>
+
+   <script>
+        window.onscroll = function () { myFunction() };
+
+        var navbar = document.getElementById("navbar");
+        var sticky = navbar.offsetTop;
+		let toTop = document.getElementById("toTop");
+        function myFunction() {
+            if (window.pageYOffset >= sticky) {
+                navbar.classList.add("sticky");
+				if (toTop) {toTop.style.display = "block";}
+           } else {
+                document.getElementById("menu-top").style.padding = "0px";
+                navbar.classList.remove("sticky");
+               if (toTop) {toTop.style.display = "none";}
+            }
+        }
+
+    </script>
+</div>
+<div class="logoBar mobnav">
+    <span onclick="openmobmenu()" style="float:left" class="hamburger-lines">
+	 <span class="line"></span>
+     <span class="line"></span>
+     <span class="line"></span>
+	</span>
+    <span class="lhead "><a href="https://www.medindia.net/index.htm"><img src="https://images.medindia.net/logos/medindia-mobile-logo.jpg" width="150" height="22" alt="Medindia"></a></span>
+    <span onclick="openlogin()" style="float:right;" class="user-icon"> </span>
+    <span onclick="openmobSearch()" style="float:right;" class="search-icon"></span>
+</div>
+<style>
+.hamburger-lines {
+display: block;
+position: relative;
+height: 20px;
+width: 25px;
+top: 6px;
+z-index: 2;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.hamburger-lines .line {
+display: block;
+height: 4px;
+width: 100%;
+border-radius: 10px;
+background: #0e2431;
+}
+</style>
+    <div b-oxif5sfxb5="" style="padding:3px"></div>
+    <div b-oxif5sfxb5="" class="clear"></div>
+    
+
+    
+        <div class="container">
+            <p id="breadcrumbs">
+                        <a href="https://www.medindia.net">Medindia</a> <span>»</span>
+                        <a href="https://www.medindia.net/news/index.htm">News</a> <span>»</span>
+                        <a href="https://www.medindia.net/healthnews/research-news.asp">Research News</a> <span>»</span>
+ Zika Virus Protein Can Be a Target for Drugs That Combat Virus            </p>
+        </div>
+
+    <!--Main Container Starts-->
+    <div b-oxif5sfxb5="" class="container">
+        
+
+<style>
+/*H2 Tag br*/
+.mrelatedlinks.scrolllinks {border-top: 0px;} 
+.nextStory {
+    margin: 16px 0;
+    text-align: center;
+    position: relative;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 12px;
+}
+.nextStory span {
+    background: #fff;
+    padding: 0 8px;
+    position: relative;
+    z-index: 1;
+}
+
+.nextStory span img {
+    display: block;
+    width: 12px;
+    height: 12px;
+    margin: 5px auto 0;
+}
+
+.nextStory::after {
+    content: "";
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    top: 7px;
+    left: 0;
+    background: #000;
+}
+
+.top-content-picture {text-align: center;float:none!important;}
+@media only screen and (min-width: 768px) 
+{
+    .top-content-picture img {width:800px;height:auto;}
+}
+
+/* Punchline  */
+.punchline .facebook a:after {
+            width: 10px;
+            height: 20px;
+            background-position: -120px -332px;
+            margin-top: -12px;
+            margin-left: -5px;
+        }
+
+        .tweetbtn{
+            margin:10px;
+        }
+
+        @media only screen and (max-width: 600px) {
+
+          /*   .punchline a {
+                display: inline-table;
+                width: 94%;
+                margin: 10px;
+            } */
+
+            /* .punchline span a:after {
+                position: absolute;
+                left: 30%;
+            } */
+
+            .punchline span a:after {
+                position: absolute;
+                left: 28%;
+            }
+            .punchline .linkedin a:after{
+                position: absolute;
+                left: 28%;
+            }
+        }
+
+        .punchline .pinterest a:after {
+            width: 21px;
+            height: 21px;
+            background-position: -111px -254px;
+            margin-top: -10px;
+            margin-left: -11px;
+        }
+
+
+        .punchline .linkedin a:after {
+            width: 23px;
+            height: 21px;
+            background-position: -113px -293px;
+            margin-top: -15px;
+            margin-left: -12px;
+        }
+
+       /*  @media only screen and (width:768px)  {
+            .punchline a{
+                display: contents;
+                }
+        } */
+
+        @media (min-width: 768px) and (max-width: 1023px) {
+                .tweetbtn {
+                    font-size: 17px;
+                }
+            }
+            @media (min-width: 1024px) and (max-width: 1366px) {
+                .tweetbtn {
+                    font-size: 18px;
+                }
+            }
+.social_media_link a {
+padding: 2px;
+}
+
+.social_media_link a:hover {
+text-decoration: none;
+}
+.hightlight-desc {border-left: 10px solid #187681;max-width: 100%;padding-left: 15px;margin-bottom: 10px;padding-top:20px;}
+h2.shortDesc {margin-bottom: 30px;font-size: 20px;line-height: 32px;color: #424242;font-weight: 400;padding:0px;}
+</style> 
+
+
+<!--Main Content Starts-->
+<div class="main singlecol">
+            <div id="203623" class="scroll-to newstart" title=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus" divurl="https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm">
+            <div class="printBlock">
+            <div class="pgheadline"><h1> Zika Virus Protein Can Be a Target for Drugs That Combat Virus</h1></div>
+<div class="author_det"> by <a href="https://www.medindia.net/medical-review-team/dr-jayashree-g.asp">Dr. Jayashree Gopinath</a> on Oct  4 2021  9:18 PM</div>
+            <!-- IMAGE WITH CONTENT STARTS -->
+            <article>
+            <div class="report-content">
+            <div class="hightlight-desc"><h2 class="shortDesc">Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.</h2></div>
+            <p>
+                </p><div class="img-responsive page-image top-content-picture" style="float:left; padding-left:10px;padding-right:20px;"><img data-src="https://images.medindia.net/health-images/1200_1000/infection-mechanism-of-zika-virus.jpg" width="1200" height="1000" border="0" alt=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus" title=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus" itemprop="contentUrl representativeOfPage" class="rwd-img" data-pin-description=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus" data-lazy=""></div>The mechanism behind how the zika virus causes neurological complications in adult patients and microcephaly in fetuses is demonstrated by Brazilian researchers in the journal <i>Brain, Behavior, and Immunity</i>.<div class="pad10"></div>
+Zika became a public health problem in 2015, starting in South America and spreading to more than 94 countries. It was first detected in 1947 in Uganda (East Africa) but was not considered a human health hazard until the 2015-16 outbreaks.<br><br><div class="clear pad10"></div><div class="mrelatedlinks fullcard"><div class="mrelleft">                                                          
+<img alt="Zika Fever - Causes, Symptoms, Diagnosis, Treatment and Prevention" title="Zika Fever - Causes, Symptoms, Diagnosis, Treatment and Prevention" data-src="https://images.medindia.net/patientinfo/120_100/mosquito-borne-zika-virus-disease.jpg" class="responsive" data-lazy="" width="175" height="146" style="margin: 5px;"></div>                                                              
+<div class="mrelright"><span class="mrelhead"><a href="https://www.medindia.net/health/conditions/zika-fever.htm" title="Zika Fever - Causes, Symptoms, Diagnosis, Treatment and Prevention">Zika Fever - Causes, Symptoms, Diagnosis, Treatment and Prevention</a></span><br><span class="report-content">Zika virus is transmitted to humans by infected mosquitoes which causes mild fever with maculopapular rash. No treatment or vaccine is currently available.</span></div>                                                                      
+</div><div class="clear pad10"></div><div class="clear pad10"></div><div class="punchline" role="alert">‘A correlation between the neurological complications caused by the zika virus and high levels of Gas6, a protein that helps the virus invade human cells is discovered.’<br><div class="pad10"></div><center class="social_media_link"><a href="https://twitter.com/intent/tweet?text=A+correlation+between+the+neurological+complications+caused+by+the+zika+virus+and+high+levels+of+Gas6%2c+a+protein+that+helps+the+virus+invade+human+cells+is+discovered.%7c%7c&amp;url=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;original_referer=www.medindia.net" target="_blank" rel="noreferrer"><img src="https://images.medindia.net/icons/news/social/twitter.png" weight="43" height="43" alt="twitter"></a>&nbsp;&nbsp;<a href="https://m.facebook.com/sharer.php?t=A+correlation+between+the+neurological+complications+caused+by+the+zika+virus+and+high+levels+of+Gas6%2c+a+protein+that+helps+the+virus+invade+human+cells+is+discovered.%7c%7c&amp;u=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;original_referer=www.medindia.net" target="_blank" rel="noreferrer"><img src="https://images.medindia.net/icons/news/social/facebook.png" weight="43" height="43" alt="facebook"></a>&nbsp;&nbsp;<a href="https://api.whatsapp.com/send?text=A+correlation+between+the+neurological+complications+caused+by+the+zika+virus+and+high+levels+of+Gas6%2c+a+protein+that+helps+the+virus+invade+human+cells+is+discovered.%7c%7c%20%20%0ahttps://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm" target="_blank" rel="noreferrer"><img src="https://images.medindia.net/icons/news/social/whatsapp.png" weight="43" height="43" alt="whatsapp"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/shareArticle?mini=true&amp;summary=A+correlation+between+the+neurological+complications+caused+by+the+zika+virus+and+high+levels+of+Gas6%2c+a+protein+that+helps+the+virus+invade+human+cells+is+discovered.%7c%7c&amp;url=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;source=Medindia" target="_blank" rel="noreferrer"><img src="https://images.medindia.net/icons/news/social/linkedin.png" weight="43" height="43" alt="linkedin"></a>&nbsp;&nbsp;<a href="https://pinterest.com/pin/create/bookmarklet/?description=A+correlation+between+the+neurological+complications+caused+by+the+zika+virus+and+high+levels+of+Gas6%2c+a+protein+that+helps+the+virus+invade+human+cells+is+discovered.%7c%7c&amp;url=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;original_referer=www.medindia.net&amp;media=" target="_blank" rel="noreferrer"><img src="https://images.medindia.net/icons/news/social/pinterest.png" weight="43" height="43" alt="pinterest"></a></center><div class="clear"></div></div><div class="clear pad10"></div>
+According to the Ministry of Health in Brazil, more than 2,006 probable cases were notified in January-May 2021.<br><br>
+The rise in zika cases was accompanied by an increase in cases of <b>microcephaly, a rare neurological disorder in which the fetal or newborn’s brain fails to develop completely</b>.<br><br>
+More than 2,400 cases of microcephaly were notified in Brazil in 2015, compared with 781 in the previous five years.<br><br><div class="clear pad10"></div><div class="mrelatedlinks"><div class="mrelleft">                                                                    
+<img alt="About  Mosquito Diseases" title="About  Mosquito Diseases" data-src="https://images.medindia.net/patientinfo/120_100/Mosquito-Diseases.jpg" class="responsive" data-lazy="" width="175" height="146" style="margin: 5px;"></div>                                                                                      
+<div class="mrelright"><span class="mrelhead"><a href="https://www.medindia.net/health/conditions/mosquito.htm" title="About  Mosquito Diseases">About  Mosquito Diseases</a></span><br><span class="report-content">Mosquito-borne diseases, like malaria, filaria, dengue, etc  are common in places conducive of mosquito breeding. Swamps, ponds and stagnated drainage provide optimal breeding ground for mosquitoes.</span></div></div><div class="clear pad10"></div>
+Although zika is usually asymptomatic, recent data shows a link between the disease and the development of neurological complications such as Guillain-Barré syndrome, encephalitis and meningitis in adults, and congenital malformations such as microcephaly in infants.<br><br>
+It has been shown that <b>zika virus can cross the blood-brain barrier and also enter the placenta, where it infects the fetus</b>.<br><br><center><div class="adslabel">Advertisement  <!-- rwd-common-middle -->  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4864473589052117" data-ad-slot="7880736955" data-ad-format="auto" data-full-width-responsive="true"></ins>  <script type="rocketlazyloadscript" data-rocket-type="text/javascript" defer="">       (adsbygoogle = window.adsbygoogle || []).push({});  </script>  </div></center><div class="clear pad10"></div><div class="clear pad10"></div><div class="mrelatedlinks"><div class="mrelleft">                                                                    
+<img alt="New Method Helps Detect Unreported Zika Outbreaks" title="New Method Helps Detect Unreported Zika Outbreaks" data-src="https://www.medindia.net/health-images/novel-method-detects-unreported-zika-outbreaks.jpg" class="responsive" data-lazy="" width="175" height="146" style="margin: 5px;"></div>                                                                                      
+<div class="mrelright"><span class="mrelhead"><a href="https://www.medindia.net/news/healthinfocus/new-method-helps-detect-unreported-zika-outbreaks-189818-1.htm" title="New Method Helps Detect Unreported Zika Outbreaks">New Method Helps Detect Unreported Zika Outbreaks</a></span><br><span class="report-content">Using travel data and infections diagnosed in travelers plus viral gene analysis, scientists have been able to uncover a hidden Zika outbreak in Cuba in 2017, that went undetected due to inadequate local surveillance systems</span></div></div><div class="clear"></div>
+There was plenty of evidence in the literature about dengue virus interaction with Gas6 protein. Using this interaction mechanism, the virus penetrates cells that destroy bacteria and replicate. This has now been demonstrated for zika as well.<br><br>
+To find out how Gas6 levels correlated with the neurological complications associated with zika, the researchers used the ELISA enzyme-linked immunoassay to analyze blood samples from patients included in a cross-sectional study conducted between February 2016 and June 2017 in hospitals in Campinas, state of São Paulo. <br><br><center><div class="adslabel">Advertisement  <!-- rwd-common-bottom -->  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4864473589052117" data-ad-slot="9357470156" data-ad-format="auto" data-full-width-responsive="true"></ins>  <script type="rocketlazyloadscript" data-rocket-type="text/javascript" defer="">       (adsbygoogle = window.adsbygoogle || []).push({});  </script>  </div></center><div class="clear pad10"></div><div class="clear pad10"></div><div class="mrelatedlinks"><div class="mrelleft">                                                        
+<img alt="Zika Virus Causes Microcephaly Through Gilgal Cells in Brain" title="Zika Virus Causes Microcephaly Through Gilgal Cells in Brain" data-src="https://www.medindia.net/health-images/dna-vaccine-for-zika.jpg" class="responsive" data-lazy="" width="175" height="146" style="margin: 5px;"></div>                                                                                      
+<div class="mrelright"><span class="mrelhead"><a href="https://www.medindia.net/news/healthwatch/zika-virus-causes-microcephaly-through-gilgal-cells-in-brain-167952-1.htm" title="Zika Virus Causes Microcephaly Through Gilgal Cells in Brain">Zika Virus Causes Microcephaly Through Gilgal Cells in Brain</a></span><br><span class="report-content">Zika infection was mainly found in glial cells, which provide support and insulation for the brain.</span></div></div><div class="clear"></div>
+Ninety patients and 13 healthy controls were enrolled in the study: 57 patients had mild self-limited zika and were labeled “non-neuro”, while 19 had neurological complications after being infected by zika (“neuro”), and 14 had neurological complications without having zika (“neuro non-zika”).<br><br>
+<b>The “neuro” group had higher levels of Gas6 and SOCS-1</b>.<br><br>
+Meanwhile, another group of researchers was working with adult mice bred at the university with an immune system capable of combating the virus.<br><br>
+“We inoculated the virus with and without Gas6 into pregnant and non-pregnant mice. Viral load on the first day after infection was much higher in the adult mice that received the virus with Gas6, showing that the protein favors infection. A high proportion of their offspring had congenital malformations, with smaller heads and lower overall size,” said Lilian Gomes de Oliveira, joint first author of the article with João Luiz da Silva Filho.<br><br>
+To invade monocytes by binding to cell receptors, Gas6 must undergo a chemical reaction that enables it to interact with other molecules.<br><br>
+Based on this fact, <b>researchers tested in vitro use of a drug that inhibits carboxylation (warfarin), which did indeed block or reduce viral replication</b>.<br><br>
+By explaining the mechanism behind neurological complications in zika virus, researchers have opened up the possibility of further research that could serve as a basis for intervention with drugs.<br><br>
+These findings also contribute to a better understanding of the pathogenesis of severe zika and its outcomes and point in the direction of studies in pursuit of ways to use Gas6 as a therapeutic tool.<br><br>
+<br><br>Source-Medindia
+            <p></p>
+            <div class="clear pad10"></div>
+            </div>
+            </article>
+            </div>
+             <div class="clear pad10"></div>
+	<!--Share widget-->
+	<div class="sharewid skipPrint">
+		<div style="width:240px; float:left; padding-left: 10px; ">
+			<ul class="share-popup clear">
+				<li class="whatsapp"><a href="https://api.whatsapp.com/send?text=* Zika Virus Protein Can Be a Target for Drugs That Combat Virus* %0a %0a https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm" target="_blank" rel="noreferrer" title="Whatsapp">Whatsapp</a></li>
+				<li class="facebook"><a href="https://m.facebook.com/sharer.php?u=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;t= Zika Virus Protein Can Be a Target for Drugs That Combat Virus" target="_blank" rel="noreferrer" title="Facebook">Facebook</a></li>
+				<li class="twitter"><a href="https://twitter.com/intent/tweet?url=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;text= Zika Virus Protein Can Be a Target for Drugs That Combat Virus&amp;original_referer=www.medindia.net" target="_blank" rel="noreferrer" title="Twitter">Twitter</a></li>
+				<li class="pinterest"><a href="https://pinterest.com/pin/create/bookmarklet/?media=&amp;url=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;description= Zika Virus Protein Can Be a Target for Drugs That Combat Virus " target="_blank" rel="noreferrer" title="Pinterest">Pinterest</a></li>
+				<li class="linkedin"><a href="https://www.linkedin.com/shareArticle?summary=&amp;url=https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm&amp;ro=false&amp;source=&amp;title= Zika Virus Protein Can Be a Target for Drugs That Combat Virus&amp;mini=true" target="_blank" rel="noreferrer" title="Linkedin">Linkedin</a></li>
+			</ul>
+		</div>
+		<div style="float:right;">
+			<table style="padding-top: 17px;" class="wid-iconright">
+				<tbody><tr>
+					<style>
+                        @media print {
+                            .skipPrint {
+                                display: none;
+                            }
+							.adsbygoogle {
+                                display: none;
+                            }
+							.adslabel{
+                                display: none;
+                            }
+                        }
+                    </style>
+						<td>
+							<a name="print"></a>
+							<a onclick="window.print()" href="#print" title="Print This Page"><div class="print"></div></a>
+						</td>
+
+					<td><a href="javascript:sndmail('u')" title="Email This"><div class="email"></div></a></td>
+					<!--<td><a href="#comments" title="Comments"><div class="comments"></div></a></td>-->
+					<!--<td>
+						<a href="javascript:printpg('acidity_print.htm')" title="Print This Page"><div class="print"></div></a>
+					</td>-->
+
+					<td></td>
+
+					<td><div id="google_translate_element" style="display:inline-block;padding-left:3px;"></div></td>
+				</tr>
+			</tbody></table>
+
+			<form name="frmsharerwd" method="post">
+				<input type="hidden" name="url1" value="https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm"><input type="hidden" name="url" value="https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm"><input type="hidden" name="printurl" value="#"><input type="hidden" name="subject" value=" Zika Virus Protein Can Be a Target for Drugs That Combat Virus"><input type="hidden" name="description" value="Brazilian researchers evidenced a correlation between post-zika neurological complications and high levels of Gas6, a protein that facilitates viral replication. This discovery paves way for future research to develop drugs that combat the virus.">
+			<input name="__RequestVerificationToken" type="hidden" value="CfDJ8IJsWvveFjlKsfTp_E2Ci48OBxhMOcA6bsmLTIqQ9x2TWTagdfDXwjZNec_Lz5K84BD2M_ew4eUfvujtn7L9V6D-36xMh1PEkuh1_beFmOuGRgKCCuVB53CkhlPrIPyUWR-uaNeJs8HrEoIFUSLn5D0"></form><br>
+			<script language="javascript">
+				function sndmail(e) { document.frmsharerwd.action = "https://www.medindia.net/patients/calculators/calc_mail.asp", document.frmsharerwd.submit() } function printpg(e) { document.frmsharerwd.action = e, document.frmsharerwd.submit() }</script>
+		</div>
+	</div>
+	<!--Share widget-->
+	<div class="clear pad10"></div>
+
+                <div class="fleft bbtn linkprev skipPrint" style="float:left;width:45%;line-height: 22px">
+                    <a href="https://www.medindia.net/news/sibling-bullying-linked-to-poor-mental-health-203620-1.htm" style="color:#fff;font-size:18px;">
+                        &lt;&lt; Previous
+                    </a>
+                </div>
+                <div class="fright bbtn linknext skipPrint" style="float:right;width:45%;line-height: 22px">
+                    <a href="https://www.medindia.net/news/depressed-adolescents-brain-avoids-distressing-information-203624-1.htm" style="color:#fff;float:right;font-size:18px;">
+                        Next &gt;&gt;
+                    </a>
+                </div>
+            <div class="clear pad10"></div>
+            <!--IMAGE WITH CONTENT ENDS-->
+            <div class="clear pad10"></div>
+
+
+            <div class="clear pad10"></div>
+	<div style="background-color:#fff0f0;padding:10px;" class="skipPrint"> <span class="relhead">Recommended Readings </span>
+			<div class="relwid" id="rel1">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/health/diet-and-nutrition/magical-millets-for-your-health.htm"><img data-lazy="" data-src="https://www.medindia.net/images/common/patientinfo/120_100/Magical-Millets.jpg" title="Magical Millets for Your Health                                                                                                                                                                         " alt="Magical Millets for Your Health                                                                                                                                                                         " width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/health/diet-and-nutrition/magical-millets-for-your-health.htm">Magical Millets for Your Health                                                                                                                                                                         </a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/health/diet-and-nutrition/magical-millets-for-your-health.htm">Millets are far more nutrient dense than wheat and rice. They are inexpensive and tasty too. Nutritionists now advise switching to millets from wheat and rice.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid" id="rel2">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/health/conditions/chicken-pox.htm"><img data-lazy="" data-src="https://www.medindia.net/images/common/patientinfo/120_100/chickenpox.jpg" title="Chicken Pox                                                                                                                                                                                             " alt="Chicken Pox                                                                                                                                                                                             " width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/health/conditions/chicken-pox.htm">Chicken Pox                                                                                                                                                                                             </a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/health/conditions/chicken-pox.htm">Chicken pox is an acute and highly contagious viral infection caused by the varicella zoster virus.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid" id="rel3">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/health/conditions/acute-coronary-syndrome.htm"><img data-lazy="" data-src="https://www.medindia.net/images/common/patientinfo/120_100/acute-coronary-syndrome.jpg" title="Acute Coronary Syndrome                                                                                                                                                                                 " alt="Acute Coronary Syndrome                                                                                                                                                                                 " width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/health/conditions/acute-coronary-syndrome.htm">Acute Coronary Syndrome                                                                                                                                                                                 </a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/health/conditions/acute-coronary-syndrome.htm">Acute coronary syndrome (ACS) is a sudden, acute life-threatening condition caused by a dramatic reduction in blood flow to the heart.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid" id="rel4">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/health/conditions/amyotrophic-lateral-sclerosis.htm"><img data-lazy="" data-src="https://www.medindia.net/images/common/patientinfo/120_100/ALS.jpg" title="Amyotrophic Lateral Sclerosis (ALS)                                                                                                                                                                     " alt="Amyotrophic Lateral Sclerosis (ALS)                                                                                                                                                                     " width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/health/conditions/amyotrophic-lateral-sclerosis.htm">Amyotrophic Lateral Sclerosis (ALS)                                                                                                                                                                     </a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/health/conditions/amyotrophic-lateral-sclerosis.htm">Find out more about  the degenerative disease- Amyotrophic lateral sclerosis.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid" id="rel5">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/health/conditions/shigellosis.htm"><img data-lazy="" data-src="https://www.medindia.net/images/common/patientinfo/120_100/shigellosis.jpg" title="Shigellosis                                                                                                                                                                                             " alt="Shigellosis                                                                                                                                                                                             " width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/health/conditions/shigellosis.htm">Shigellosis                                                                                                                                                                                             </a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/health/conditions/shigellosis.htm">Shigellosis or Bacillary Dysentery is a common cause of gastro-enteritis worldwide and can cause bloody diarrhea (called dysentery).</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid" id="rel6">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/health/drugs/drug-toxicity.htm"><img data-lazy="" data-src="https://www.medindia.net/images/common/patientinfo/120_100/drugs-toxicity.jpg" title="Drug Toxicity                                                                                                                                                                                           " alt="Drug Toxicity                                                                                                                                                                                           " width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/health/drugs/drug-toxicity.htm">Drug Toxicity                                                                                                                                                                                           </a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/health/drugs/drug-toxicity.htm">Drug toxicity is an adverse reaction of the body towards a drug that results as a side effect of a drug, reaction to a drug or drug abuse.</a> </div>
+			</div>
+			<div class="clear"></div>
+		<div class="clear"></div>
+	</div>
+
+            <div class="clear pad10"></div>
+	<div style="background-color:#fff0f0;padding:10px;" class="skipPrint"> <span class="relhead skipPrint">Latest Research News</span>
+			<div class="relwid skipPrint" id="rel1">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/news/link-found-between-red-light-and-reduced-blood-clot-risk-218591-1.htm"><img data-lazy="" data-src="https://www.medindia.net/health-images/acute-ischemic-stroke.jpg" title="Link Found Between Red Light and Reduced Blood Clot Risk" alt="Link Found Between Red Light and Reduced Blood Clot Risk" width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/news/link-found-between-red-light-and-reduced-blood-clot-risk-218591-1.htm">Link Found Between Red Light and Reduced Blood Clot Risk</a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/news/link-found-between-red-light-and-reduced-blood-clot-risk-218591-1.htm">Studies reveal a connection between red light exposure and a reduced risk of blood clots, offering potential new insights for health and prevention strategies.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid skipPrint" id="rel2">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/news/beijing-denies-rumors-of-unknown-virus-218585-1.htm"><img data-lazy="" data-src="https://www.medindia.net/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg" title="Beijing Denies Rumors of &quot;Unknown Virus&quot;" alt="Beijing Denies Rumors of &quot;Unknown Virus&quot;" width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/news/beijing-denies-rumors-of-unknown-virus-218585-1.htm">Beijing Denies Rumors of "Unknown Virus"</a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/news/beijing-denies-rumors-of-unknown-virus-218585-1.htm">Beijing dismisses rumors of an "unknown virus," assuring the public that respiratory disease cases remain lower than last year, with safety measures in place.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid skipPrint" id="rel3">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/news/pet-dogs-as-unrecognized-carriers-of-drug-resistant-salmonella-218580-1.htm"><img data-lazy="" data-src="https://www.medindia.net/health-images/ways-to-identify-epilepsy-in-dogs.jpg" title="Pet Dogs as Unrecognized Carriers of Drug-Resistant Salmonella" alt="Pet Dogs as Unrecognized Carriers of Drug-Resistant Salmonella" width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/news/pet-dogs-as-unrecognized-carriers-of-drug-resistant-salmonella-218580-1.htm">Pet Dogs as Unrecognized Carriers of Drug-Resistant Salmonella</a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/news/pet-dogs-as-unrecognized-carriers-of-drug-resistant-salmonella-218580-1.htm">Pet dogs may unknowingly carry drug-resistant Salmonella, posing a potential risk for human health and highlighting the need for better pet hygiene and monitoring.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid skipPrint" id="rel4">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/news/traumatic-brain-injury-risks-for-older-adults-and-men-in-2021-218575-1.htm"><img data-lazy="" data-src="https://www.medindia.net/health-images/world-head-injury-awareness-day-2017.jpg" title="Traumatic Brain Injury: Risks for Older Adults and Men" alt="Traumatic Brain Injury: Risks for Older Adults and Men" width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/news/traumatic-brain-injury-risks-for-older-adults-and-men-in-2021-218575-1.htm">Traumatic Brain Injury: Risks for Older Adults and Men</a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/news/traumatic-brain-injury-risks-for-older-adults-and-men-in-2021-218575-1.htm">Explore 2021 TBI-related death statistics, revealing higher risks for men, older adults, and specific ethnic groups.</a> </div>
+			</div>
+			<div class="clear"></div>
+			<div class="relwid skipPrint" id="rel5">
+				<div class="relimg"><a class="relimg-link" href="https://www.medindia.net/news/ai-revolution-predicting-autoimmune-disease-progression-with-artificial-intelligence-218547-1.htm"><img data-lazy="" data-src="https://www.medindia.net/health-images/an-artificial-intelligence-accurately-predict.jpg" title="AI Revolution: Predicting Autoimmune Disease Progression with Artificial Intelligence" alt="AI Revolution: Predicting Autoimmune Disease Progression with Artificial Intelligence" width="120" height="100"></a></div>
+				<div class="reltitle"><a class="reltitle-link" href="https://www.medindia.net/news/ai-revolution-predicting-autoimmune-disease-progression-with-artificial-intelligence-218547-1.htm">AI Revolution: Predicting Autoimmune Disease Progression with Artificial Intelligence</a></div>
+				<div class="relbody"> <a class="relbody-link" href="https://www.medindia.net/news/ai-revolution-predicting-autoimmune-disease-progression-with-artificial-intelligence-218547-1.htm">New artificial intelligence (AI), the Genetic Progression Score (GPS), accurately predicts autoimmune disease progression, allowing for earlier diagnosis and tailored treatment.</a> </div>
+			</div>
+			<div class="clear"></div>
+		<div class="clear"></div>
+	<center><a href="https://www.medindia.net/healthnews/research-news.asp" class="btn" style="color:#fff!important;margin-top:5px;">View All</a></center>	
+	<div class="clear"></div>
+	</div>
+
+        <center><div class="adslabel">Advertisement
+                <!-- rwd-common-bottom -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4864473589052117" data-ad-slot="9357470156" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script type="rocketlazyloadscript" data-rocket-type="text/javascript" defer="">
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div></center>
+            </div>
+        
+        	<div hx-get="/News/GetData/?newsID=203624" hx-trigger="revealed" hx-swap="afterend" hx-push-url="https://www.medindia.net/news/depressed-adolescents-brain-avoids-distressing-information-203624-1.htm" title="203623">
+		<div></div>
+	</div>
+
+<input type="hidden" id="hidCurURL" value="https://www.medindia.net/news/zika-virus-protein-can-be-a-target-for-drugs-that-combat-virus-203623-1.htm">
+<input type="hidden" id="hidCurScrollPos" value="">
+</div>
+<!--Main Content Ends-->
+
+
+
+    </div>
+    <!--Main Container Ends-->
+<div b-oxif5sfxb5="" class="clear pad10"></div>
+    
+    <!--Mobile Starts-->
+<div id="mySearch" class="overlay-menu" style="display:none;"> 
+<div class="overlay-content">
+<span onclick="closemobSearch()" style="color:#000;float:right;" class="closebtn-menu clsbtn">×</span> 
+<div class="canvase1 " id="canvase"> <script type="rocketlazyloadscript" data-rocket-type="text/javascript" defer=""> (function() {var cx = '006251122200401839306:xqepsetvscg';var gcse = document.createElement('script');gcse.type = 'text/javascript';gcse.async = true;gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +'//cse.google.com/cse.js?cx=' + cx;var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gcse, s); })();</script><gcse:searchbox-only resultsurl="/search-result.asp" queryparametername="q"> </gcse:searchbox-only> 
+</div> 
+<div class="mlng"><div>Other Languages</div> <b><a href="https://hi.medindia.net/index.asp" target="_blank" rel="noopener"> हिन्दी</a><a href="https://fr.medindia.net/patients/calculators/index.asp" target="_blank" rel="noopener">français</a><a href="https://es.medindia.net/patients/calculators/index.asp" target="_blank" rel="noopener"> Español</a><a href="https://cn.medindia.net/patients/calculators/index.asp" target="_blank" rel="noopener"> 中文</a></b> 
+</div></div></div>
+<div id="mobmenu" class="overlay-menu " style="display:none;"> <div id="canvase"> <div class="clear"></div>  <span class="closebtn-menu clsbtn" onclick="closemobmenu()" style="background:none;color:#000;float:right;margin-left:10px;">×</span> </div> <div class="clear"></div><div class="mlinks"> <ul><li> <div> <a href="https://www.medindia.net/index.asp">Explore MedIndia</a> </div> <ul>
+<li> <a href="https://www.medindia.net/medicalconsult/index.asp">Consult Online Doctor</a> </li><li> <a href="https://telemed4u.com/"> Take Telemedicine course</a> </li> 
+<li> <a href="https://www.medindia.net/health-centers/index.asp">Health Centers</a> </li>
+<li> <a href="https://www.medindia.net/patients/calculators/index.asp">Health Tools</a> </li>
+<li> <a href="https://www.medindia.net/health-centers/specialty.asp">Health info by Speciality</a> </li>
+<li> <a href="https://www.medindia.net/multimedia/index.asp">Multimedia</a> </li><li> <a href="https://www.medindia.net/homepages.asp"> Homepages</a> </li>
+<li> <a href="https://www.medindia.net/know_ur_body/index.asp">Know Your Body</a> </li> 
+<li> <a href="https://www.medindia.net/health-infographics/infographics-health-wellness.asp">Health and Wellness</a> </li>
+<li> <a href="https://www.medindia.net/web-stories/latest/index.htm">Web Stories</a> </li>
+<li><a href="https://www.medindia.net/e-newsletter/empowering-better-health/index.htm">Newsletters</a></li>
+                </ul>
+            </li>
+            <li> <div>  <a href="https://www.medindia.net/health/lifestyle/index.htm">Healthy Living</a>  </div> <ul> <li> <a href="https://www.medindia.net/health-tips/index.asp">Health Tips</a> </li><li> <a href="https://www.medindia.net/nutrition-data/index.asp"> Nutrition Facts</a> </li><li> <a href="https://www.medindia.net/lifestyle/lifestyle-wellness.asp"> Lifestyle &amp; Wellness</a> </li><li> <a href="https://www.medindia.net/health/beauty/index.htm"> Beauty Tips</a> </li><li> <a href="https://www.medindia.net/health/diet-and-nutrition/index.htm">Diet &amp; Nutrition</a> </li><li> <a href="https://www.medindia.net/health/homeremedies/index.htm">Home Remedies</a> </li><li> <a href="https://www.medindia.net/health-centers/consumer-health/obesity.asp"> Obesity &amp; Weight Loss</a> </li><li> <a href="https://www.medindia.net/health/alternative-medicine/complementary-medicine.htm"> Complementary Medicine</a> </li> </ul> </li>
+            <li> <div> <a href="https://www.medindia.net/medicalnews/latesthealthnews_index.asp">Health News</a> </div> <ul> <li> <a href="https://www.medindia.net/medicalnews/latesthealthnews_index.asp">News</a> </li><li> <a href="https://www.medindia.net/medicalnews/health_special_reports.asp" alt="Special Reports" title="Special Reports">Special Reports</a> </li><li> <a href="https://www.medindia.net/health-press-release/displaynews.asp" alt="Press Releases" title="Press Releases">Press Releases</a> </li> </ul> </li>
+            <li> <div><a href="https://www.medindia.net/patients/calculators/index.htm">Calculators</a> </div> <ul><li> <a href="https://www.medindia.net/patients/calculators/diabetes-tools.asp" alt="Diabetes Tools" title="Diabetes Tools)">Diabetes Tools</a> </li><li> <a href="https://www.medindia.net/patients/calculators/pediatric-calculators.asp" alt="Pediatric Calculators" title="Pediatric Calculators">Pediatric Calculators</a> </li><li> <a href="https://www.medindia.net/patients/calculators/mens-health.asp" alt="Men's Health" title="Men's Health">Men's Health</a> </li><li> <a href="https://www.medindia.net/patients/calculators/womens-health.asp" alt="Women's Health" title="Women's Health">Women's Health</a> </li><li> <a href="https://www.medindia.net/patients/calculators/height-weight-tools.asp" alt="Height Weight Tools" title="Height Weight Tools">Height Weight Tools </a> </li><li> <a href="https://www.medindia.net/patients/calculators/cardiac-tools.asp" alt="Cardiac Tools" title="Cardiac Tools">Cardiac Tools</a> </li><li> <a href="https://www.medindia.net/patients/calculators/pharma-tools.asp" alt="Pharma Tools" title="Pharma Tools">Pharma Tools</a> </li><li> <a href="https://www.medindia.net/patients/calculators/wellness-interactive-tools.asp" alt="Wellness Interactive Tools" title="Wellness Interactive Tools">Wellness Interactive Tools</a> </li> </ul> </li>
+            <li> <div><a href="https://www.medindia.net/drugs/index.htm">Drugs</a> </div> <ul><li> <a href="https://www.medindia.net/drugs/information/index.htm" alt="Drug Information" title="Drug Information">Drug Information</a> </li><li> <a href="https://www.medindia.net/drugs/medical-condition/index.htm" alt="Drugs by Condition" title="Drugs by Condition">Drugs by Condition</a> </li><li> <a href="https://www.medindia.net/drug-price/brand/index.htm" alt="List - Brand Names" title="List - Brand Names">Drug Price List - Brand Names</a> </li><li> <a href="https://www.medindia.net/drugs/drug-food-interactions/index.htm" alt="Drug Interaction with Food" title="Drug Interaction with Food">Drug Interaction with Food</a> </li><li> <a href="https://www.medindia.net/drug-price/index.htm" alt="Generic Names" title="Generic Names">Drug Price List - Generic Names</a> </li><li> <a href="https://www.medindia.net/drugs/medication-side-effects/index.htm" alt="Drugs - Side Effects" title="Drugs - Side Effects">Drugs - Side Effects</a> </li><li> <a href="https://www.medindia.net/healthvideo/medication-videos.asp" alt="Drug Videos" title="Drug Videos">Drug Videos </a> </li><li> <a href="https://www.medindia.net/drugs/information/index.htm" alt="Drug Database" title="Drug Database">Drug Database</a> </li> </ul> </li>
+            <li> <div><a href="https://www.medindia.net/directories/index.htm">Directories</a> </div> <ul><li><a href="https://www.medindia.net/directories/doctors/index.htm" alt="Allopathy Doctors" title="Allopathy Doctors">Allopathy Doctors</a></li><li><a href="https://www.medindia.net/directories/dentists/index.htm" alt="Dentists" title="Dentists">Dentists</a></li><li><a href="https://www.medindia.net/directories/alternative-medicine-doctors/index.htm" alt="Alternative Medicine Doctors" title="Alternative Medicine Doctors">Alternative Medicine Doctors</a></li><li><a href="https://www.medindia.net/directories/dietitians-nutritionists/index.htm" alt="Dietitians" title="Dietitians">Dietitians</a></li><li><a href="https://www.medindia.net/directories/physiotherapist/index.htm" alt="Physiotherapist" title="Physiotherapist">Physiotherapist</a></li><li><a href="https://www.medindia.net/directories/counsellor/index.htm" alt="Counsellor" title="Counsellor">Counsellor</a></li><li><a href="https://www.medindia.net/directories/speech-therapist/index.htm" alt="Speech Therapist" title="Speech Therapist">Speech Therapist</a></li><li><a href="https://www.medindia.net/directories/sexologist/index.htm" alt="Sexologists" title="Sexologists">Sexologists</a></li><li> <a href="https://www.medindia.net/directories/hospitals/index.htm" alt="Hospital Directory" title="Hospital Directory">Hospital Directory</a> </li><li> <a href="https://www.medindia.net/directories/labs/index.htm" alt="Diagnostic Lab Directory" title="Diagnostic Lab Directory">Diagnostic Lab Directory</a> </li><li> <a href="https://www.medindia.net/directories/pharmacy/index.htm" alt="Pharmacy or Chemist" title="Pharmacy or Chemist">Pharmacy or Chemist</a> </li><li> <a href="https://www.medindia.net/directories/medical-equipment/index.htm" alt="Medical Equipment Suppliers" title="Medical Equipment Suppliers">Medical Equipment Suppliers</a> </li><li> <a href="https://www.medindia.net/directories/pharma/index.htm" alt="Pharma Directory" title="Pharma Directory">Pharma Directory</a> </li><li> <a href="https://www.medindia.net/directories/emergency-medical-services/index.htm" alt="Emergency Services" title="Emergency Services">Emergency Services</a> </li> </ul> </li>
+            <li> <div><a href="https://www.medindia.net/education/index.asp">Education</a> </div> <ul><li> <a href="https://www.medindia.net/education/college.asp" alt="Colleges" title="Colleges">Colleges</a> </li><li> <a href="https://www.medindia.net/education/pg_education/index_pg.asp" alt="PG Education" title="PG Education">PG Education</a> </li><li> <a href="https://www.medindia.net/education/familymedicine/index.asp" alt="Family Medicine" title="Family Medicine">Family Medicine</a> </li><li> <a href="https://www.medindia.net/education/index.asp" alt="Other Resources" title="Other Resources">Other Resources</a> </li> </ul> </li>
+            <li> <div>More Links </div> <ul><li> <a href="https://www.medindia.net/aphorism/index.asp" alt="Medical Aphorism" title="Medical Aphorism"> Medical Aphorism</a> </li><li> <a href="https://www.medindia.net/indian_health_act/acts.asp" alt="Health Acts in India" title="Health Acts in India">Health Acts in India</a> </li><li> <a href="https://www.medindia.net/medical_quotations/archivedis.asp" alt="Health Quotations" title="Health Quotations">Health Quotations</a> </li><li> <a href="https://www.medindia.net/medical-conference/schedule_new.asp" title="Medical Conference">Medical Conference</a> </li><li> <a href="https://www.medindia.net/drugs/icd-codes.asp" alt="ICD codes" title="ICD codes">ICD codes</a> </li><li> <a href="https://www.medindia.net/facts/index.asp" alt="Amazing Body Facts" title="Amazing Body Facts">Amazing Body Facts</a> </li><li> <a href="https://www.medindia.net/poll/index.asp" title="Health poll">Health poll</a> </li> </ul> </li>
+        </ul>
+  </div> </div>
+  <script>function openmobSearch() { document.getElementById("mySearch").style.width = "100%"; document.getElementById("mySearch").style.display = "block";}function closemobSearch() { document.getElementById("mySearch").style.width = "0%"; document.getElementById("mySearch").style.display = "none";}function openmobmenu() { document.getElementById("mobmenu").style.width = "100%"; document.getElementById("mobmenu").style.display = "block";}function closemobmenu() { document.getElementById("mobmenu").style.width = "0%"; document.getElementById("mobmenu").style.display = "none";}function openlogin(){window.location="https://www.medindia.net/regis/login1.asp";}</script><br>
+<!--Mobile Ends-->
+
+    <div class="skipPrint">
+        <div id="tcbot-popup" class="tcbottom-popup tc-page hide">
+            <div id="tcbot-popcircle" class="circle arrow-down">
+                <img data-src="https://www.medindia.net/includes-opt/assets/images/design/up-arrow-white.png" class="down" data-lazy="" alt="open" width="16px" height="16px" src="https://www.medindia.net/includes-opt/assets/images/design/up-arrow-white.png">
+                <img data-src="https://www.medindia.net/includes-opt/assets/images/design/down-arrow-white.png" class="up" data-lazy="" alt="close" width="16px" height="16px">
+            </div>
+            <div class="tcbot-cover">
+                <div class="tcbot-head">ASK A DOCTOR ONLINE</div>
+                <div>
+                    <a href="javascript:hidetcpopup('tcbottom-popup')" class="tcbot-close">X</a>
+                </div>
+            </div>
+            <div class="tcbottom-cover">
+                <section>
+                    <div style="background-color:#cc2900; padding:5px;">
+                        <div style="background: #fff; padding: 6px; border: 1px solid #ddd;">
+                            <form name="tcfrm" method="post" class="simple-form">
+                                <div class="section__body" id="tcfrm_body">
+                                    <div class="form-group">
+                                        <textarea name="tcquery" id="tcquery" class="form-control" maxlength="500" rows="4" placeholder="Problem or Question for the doctor" aria-label="Problem or Question for the doctor"></textarea>
+                                    </div>
+                                    <div class="form-group">
+                                        <input class="form-control" type="text" name="tcemail" id="tcemail" maxlength="50" placeholder="Email Id" aria-label="Email Id">
+                                    </div>
+                                    <div class="pt-xxs-20">
+                                        <center>
+                                            <button type="button" name="cmdSubmit" class="btn btn-red btn-lg btn-circle btn-inline-block" onclick="return tcValidation();">Submit</button>
+                                        </center>
+                                    </div>
+                                </div>
+                                <input type="hidden" name="tcheading" value="ASK A DOCTOR ONLINE - Popup Form">
+                                <input type="hidden" name="cat" value="200">
+                            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8IJsWvveFjlKsfTp_E2Ci48OBxhMOcA6bsmLTIqQ9x2TWTagdfDXwjZNec_Lz5K84BD2M_ew4eUfvujtn7L9V6D-36xMh1PEkuh1_beFmOuGRgKCCuVB53CkhlPrIPyUWR-uaNeJs8HrEoIFUSLn5D0"></form>
+                        </div>
+                </div></section>
+                <div class="clearfix mt-xxs-10"></div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var tcbot_popup = document.getElementById("tcbot-popup");
+            var tcpop_arrow = document.getElementById("tcbot-popcircle");
+
+            function tcpopShow() {
+                tcbot_popup.classList.add("open");
+                tcbot_popup.classList.remove("hide");
+                tcpop_arrow.classList.remove("arrow-up");
+                tcpop_arrow.classList.add("arrow-down");
+            }
+            setTimeout(tcpopShow, 20000);
+
+
+            tcpop_arrow.onclick = function () {
+                if (tcbot_popup.classList.contains("open")) {
+                    tcbot_popup.classList.remove("open");
+                    tcpop_arrow.classList.remove("arrow-down");
+                    tcpop_arrow.classList.add("arrow-up");
+                }
+                else {
+                    tcbot_popup.classList.add("open");
+                    tcpop_arrow.classList.remove("arrow-up");
+                    tcpop_arrow.classList.add("arrow-down");
+                }
+            }
+
+            function tcValidation() {
+                if (document.tcfrm.tcquery.value.trim() == "") {
+                    alert("Please enter your problem or question for the doctor");
+                    document.tcfrm.tcquery.focus();
+                    return false;
+                }
+
+                if (document.tcfrm.tcemail.value.trim() == "") {
+                    alert("Please enter your email id");
+                    document.tcfrm.tcemail.focus();
+                    return false;
+                }
+                if (isvalidEmail(document.tcfrm.tcemail.value) == false) {
+                    alert("Please enter a valid email id");
+                    document.tcfrm.tcemail.focus();
+                    return false;
+                }
+                tcfrm.action = "https://www.medindia.net/medicalconsult/request-video-consultation.asp"
+                tcfrm.submit();
+
+            }
+            function hidetcpopup(id) {
+                $('.tcbottom-popup').hide();
+            }
+            function isvalidEmail(e) {
+                var t = /^([a-zA-Z0-9_\.\-])+@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                return !("" == e || !e.match(t))
+            }
+
+        </script>
+        <style>
+            .tcbottom-popup.tc-page {
+                bottom: 0;
+            }
+
+            .tcbottom-popup {
+                width: 100%;
+                right: 0;
+                position: fixed;
+                bottom: 0;
+                z-index: 10000;
+            }
+
+            @media screen and (min-width: 768px) {
+                .tcbottom-popup {
+                    width: 25%;
+                }
+            }
+
+            .tcbottom-cover {
+                background: #fff;
+                height: 0;
+                overflow: hidden;
+            }
+
+            .tcbot-cover {
+                width: 100%;
+                background: #cc2900;
+                display: flex;
+                padding: 5px 0;
+                align-items: center;
+            }
+
+            .tcbot-head {
+                color: #fff;
+                width: 100%;
+                text-align: center;
+                font-size: 16px;
+                font-weight: 600;
+                padding: 0 4px;
+                line-height: 1.5;
+            }
+
+                .tcbot-head a {
+                    color: #fff;
+                    text-decoration: none;
+                }
+
+            .tcbot-close {
+                color: #fff;
+                position: relative;
+                top: 1px;
+                font-weight: 600;
+                text-decoration: none;
+                right: 10px;
+            }
+
+            .tcbottom-popup.hide {
+                display: none
+            }
+
+            .tcbottom-popup.open .tcbottom-cover {
+                height: 100%;
+                padding-bottom: 1px;
+                margin-bottom: 5px;
+            }
+
+            .btn-red {
+                background: #cc2900;
+                border: 1px solid #cc2900;
+                color: #fff;
+            }
+
+                .btn-red:hover {
+                    color: #fff;
+                }
+
+            .circle {
+                position: relative;
+                width: 30px;
+                height: 30px;
+                border-radius: 20px 20px 0 0;
+                background: #cc2900;
+                margin: 0 auto;
+                top: 8px;
+                text-align: center;
+            }
+
+                .circle img {
+                    max-width: 16px;
+                    margin-top: 5px;
+                }
+
+                .circle.arrow-down .down {
+                    display: inline-block;
+                }
+
+                .circle.arrow-up .up {
+                    display: inline-block;
+                }
+
+                .circle.arrow-down .up {
+                    display: none;
+                }
+
+                .circle.arrow-up .down {
+                    display: none;
+                }
+
+            .btn-orange {
+                background: #ffdf00;
+                border: 1px solid #ffdf00;
+                color: #000;
+            }
+
+            .btn-red:hover {
+                color: #fff;
+            }
+
+            .btn-violet, a.btn-violet:hover {
+                background: #581b9c;
+                color: #fff;
+            }
+
+            #tcfrm_body .form-control {
+                font-size: 16px !important;
+                margin-bottom: 10px;
+            }
+
+            #tcfrm_body small {
+                font-size: 15px !important;
+            }
+
+            .tcbottom-popup .btn-lg {
+                padding: 7px 10px;
+                margin-top: 10px;
+                .tcpopquestion
+
+            {
+                font-size: 16px;
+            }
+        </style>
+
+</div>
+
+<div class="webtopnav skipPrint">
+<div class="container ">
+<div class="second12 menu12" id="about" name="z" onmouseover="z.show('about')" onmouseout="z.hide('about')">
+  <ul class="" id="color12">
+    <li><a href="https://www.medindia.net/aboutus.asp">About Us</a></li>
+    <li><a href="https://www.medindia.net/medical-review-team.asp">Editorial Team </a></li>
+    <li><a href="https://www.medindia.net/interviews/index.asp">Exclusive Interviews</a></li>
+    <li><a href="https://www.medindia.net/press_reports/index.asp">In the News  </a></li>
+    <li><a href="https://www.medindia.net/e-newsletter/empowering-better-health/index.htm">Newsletters</a></li>
+    <li><a href="https://www.medindia.net/our-partners-and-affiliates.asp">Partners &amp; Affiliates</a></li>
+    <li><a href="https://www.medindia.net/advertisement.asp">Advertise With Us</a></li>
+    <li><a href="https://www.medindia.net/sitemap.asp">Sitemap</a></li>
+  </ul>
+</div>
+</div>
+<div class="second13 menu13" id="lang" name="y" onmouseover="y.show('lang')" onmouseout="y.hide('lang')">
+  <ul class="" id="color13">
+   <li><a href="https://hi.medindia.net/index.asp" rel="noreferrer">हिन्दी</a></li>
+   <li><a href="https://fr.medindia.net/patients/calculators/index.asp" rel="noreferrer">français</a></li>
+   <li><a href="https://es.medindia.net/patients/calculators/index.asp" rel="noreferrer">Español</a></li>
+   <li><a href="https://cn.medindia.net/patients/calculators/index.asp" rel="noreferrer">中文  </a></li>
+  </ul>
+</div>
+</div>
+<!-- Footer Widget-->
+<footer>
+    <div class="footerlinks__container">
+            
+
+            <div class="container skipPrint">
+                <div class="row clearfix">
+                        <div class="grid-sm-6 grid-md-4">
+                            <div class="subscribewid">
+                                <form name="subform" style="padding:5px;">
+                                    <span class="head" style="color:#000;padding-bottom:0px;font-size:18px;">
+                                        Subscribe to
+                                        our Free Newsletters!
+                                    </span>
+                                    <span id="detenter">
+                                        <div class="form-group">
+                                            <input class="subscribe-control" type="text" name="subemail" id="subemail" placeholder="Enter Email ..." style="visibility: visible; width: 95%;">
+                                            <input type="button" class="subscribebtn" onclick="sub_showresult()" value="Subscribe Now!">
+                                        </div>
+                                        <div class="clear mt10"></div>
+                                        <a href="https://www.medindia.net/terms-of-use.asp" title="Terms &amp;amp; Conditions" style="font-size:14px!important;color:#000;font-size:14px">
+                                            Terms &amp;
+                                            Conditions
+                                        </a><span style="color:#000;font-size:14px">and</span> <a href="https://www.medindia.net/medindiaprivacy.asp" title="Privacy Policy" style="font-size:14px!important;color:#000;font-size:14px">Privacy Policy.</a>
+                                        <br><a style="font-weight:bold" href="https://www.medindia.net/e-newsletter/empowering-better-health/index.htm">
+                                            See All MedIndia Newsletters
+                                        </a>
+                                    </span> <span id="detresult" style="color:#000"></span>
+                                </form>
+                            </div>
+
+                        </div>
+
+                    <div class="grid-sm-6 grid-md-3">
+                        <ul class="footer__links">
+                            <li><a href="https://www.medindia.net/aboutus.asp">About us</a></li>
+                            <li><a href="https://www.medindia.net/workformedindia.asp">Careers</a></li>
+                            <li><a href="https://www.medindia.net/regis/registration-benefits.asp">Benefits of Registration</a></li>
+                            <li><a href="https://www.medindia.net/advertise/advertising-policy.asp">Advertising Policy</a></li>
+                        </ul>
+                    </div>
+                    <div class="grid-sm-6 grid-md-2">
+                        <ul class="footer__links">
+                            <li><a href="https://www.medindia.net/contact.asp">Contact Us</a></li>
+                            <li><a href="https://www.medindia.net/Press_reports/index.asp">Press</a></li>
+                            <li><a href="https://www.medindia.net/sitemap.asp">Sitemap</a></li>
+                            <li><a href="https://www.medindia.net/feedback.asp">Feedback</a></li>
+                        </ul>
+                    </div>
+                    <div class="grid-sm-6 grid-md-3">
+                        <ul class="footer__links">
+                            <li><a href="https://www.medindia.net/Contactmail.asp?cat=Partnership Inquiries">Partnership Inquiries</a></li>
+                            <li><a href="https://www.medindia.net/request-for-using-medindia-material.asp?cat=Request to Use Medindia Content">Request to Use Medindia Content</a></li>
+                            <li><a href="https://www.medindia.net/refund-cancellation-policy.asp">Refund &amp; Cancellation Policy</a></li>
+                            <li><a href="https://www.medindia.net/unsubscribe.asp">Unsubscribe</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="container skipPrint">
+                <div class="row clearfix">
+                   
+                    <div class="footer__socialLinks social-links">
+                        <span class="head">Follow Us On :</span>
+                        <a href="https://whatsapp.com/channel/0029VaksZPVGufInV7V4eq44" class="footerWhatsapp" title="Whatsapp" target="_blank" rel="noreferrer">Whatsapp</a>
+                        <a href="https://www.facebook.com/Medindia" class="footerFacebook" title="Facebook" target="_blank" rel="noreferrer">facebook</a>
+                        <a href="https://twitter.com/medindia" class="footerTwitter" title="twitter" target="_blank" rel="noreferrer">Twitter</a>
+                        <a href="https://www.linkedin.com/in/medindia" class="footerLinkedin" title="LinkedIn" target="_blank" rel="noreferrer">Linked in</a>
+                        <a href="https://pinterest.com/medindia/" class="footerPinterest" title="Pinterest" target="_blank" rel="noreferrer">Pinterest</a>
+                        <a href="https://www.medindia.net/rss2.0/latest-on-medindia.xml" class="footerRss" title="RSS" target="_blank" rel="noreferrer">RSS</a>
+                        <a href="https://www.youtube.com/channel/UCrjzUwilbT1xuW-0FKYjT2A?sub_confirmation=1" class="footerYoutube" title="Youtube" target="_blank" rel="noreferrer">Youtube</a>
+                        <a href="https://www.instagram.com/medindia/" class="footerInstagram" title="Instagram" target="_blank" rel="noreferrer">Instagram</a>
+                        <a class="footerGooglenews" href="https://news.google.com/publications/CAAqBwgKMKDlpAsw4--8Aw?hl=en-IN&amp;gl=IN&amp;ceid=IN%3Aen" title="Google News" target="_blank" rel="noreferrer">GoogleNews</a>
+                    </div>
+                    
+                </div>
+                <div class="clear"></div>
+            </div>
+    </div>
+    <div class="footerbottom__container">
+        <div class="container">
+            <div class="row clearfix">
+                <div class="grid-xxs-12">
+                    <p class="mb-xxs-20 mb-lg-20">Disclaimer - All information and content on this site are for information and educational purposes only. The information should not be used for either diagnosis or treatment or both for any health related problem or disease. Always seek the advice of a qualified physician for medical diagnosis and treatment. <a href="https://www.medindia.net/disclaimer.asp" target="_blank" style="color:#fff;text-decoration:underline">Full Disclaimer</a></p>
+                </div>
+                <div class="grid-md-5">
+                    <div class="secondory__links"><p><a href="https://www.medindia.net/advertisement.asp" style="color:#fff;text-decoration:underline">Advertise with us</a> | <a href="https://www.medindia.net/copyright.asp" style="color:#fff;text-decoration:underline">Medindia Copyright</a> | <a href="https://www.medindia.net/includes/medindiaprivacy.asp" style="color:#fff;text-decoration:underline">Privacy Policy</a> | <a href="https://www.medindia.net/terms-of-use.asp" style="color:#fff;text-decoration:underline">Terms of Use</a></p></div>
+                        <p class="mb-xxs-15">© All Rights Reserved 1997 - 2025</p>
+                </div>
+
+            </div>
+        </div>
+            
+    </div>
+    <!--*****************-->
+    <!-- footer end-->
+    <!--*****************-->
+        
+</footer>
+
+
+    
+        <style>
+            .hc_mobile_bottom_nav {
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                background-color: white;
+                color: black;
+                position: sticky;
+                bottom: 0;
+                width: 100%;
+                max-width: 500px;
+                box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.3);
+                z-index: 1000;
+                overflow-x: auto;
+                white-space: nowrap;
+                margin: 0 auto;
+                right: 0;
+                padding: 8px 0;
+            }
+
+                .hc_mobile_bottom_nav a {
+                    text-align: center;
+                    color: black;
+                    text-decoration: none;
+                    flex: 0 0 auto;
+                    padding: 8px;
+                    margin: 8px;
+                }
+
+                .hc_mobile_bottom_nav img {
+                    width: 38px;
+                    height: 38px;
+                }
+
+                .hc_mobile_bottom_nav p {
+                    font-size: 14px;
+                    margin: 0;
+                }
+
+            /* Hide bottom nav on devices wider than 450px */
+/*             @media (min-width: 450px) {
+                .hc_mobile_bottom_nav {
+                    display: none;
+                }
+            } */
+
+            @media screen and (min-width: 750px) {
+                .hc_mobile_bottom_nav {
+                    display: none;
+                }
+            }
+        </style>
+
+        <div class="hc_mobile_bottom_nav">
+            <a href="https://www.medindia.net/index.htm">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/home.png" src="https://images.medindia.net/icons/mobile-bottom/home.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>Home</p>
+            </a>
+            <a href="https://www.medindia.net/medicalconsult/index.asp">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/consult.png" src="https://images.medindia.net/icons/mobile-bottom/consult.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>Consult</p>
+            </a>
+
+            <a href="https://www.medindia.net/e-books/index.asp">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/e-book.png" src="https://images.medindia.net/icons/mobile-bottom/e-book.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>e-Book</p>
+            </a>
+
+            <a href="https://www.medindia.net/health/articles/index.htm">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/articles.png" src="https://images.medindia.net/icons/mobile-bottom/articles.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>Articles</p>
+            </a>
+            <a href="https://www.medindia.net/news/index.htm">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/news.png" src="https://images.medindia.net/icons/mobile-bottom/news.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>News</p>
+            </a>
+            <a href="https://www.medindia.net/patients/calculators/index.htm">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/calculators.png" src="https://images.medindia.net/icons/mobile-bottom/calculators.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>Calculators</p>
+            </a>
+            <a href="https://www.medindia.net/drugs/index.htm">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/drugs.png" src="https://images.medindia.net/icons/mobile-bottom/drugs.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>Drugs</p>
+            </a>
+            <a href="https://www.medindia.net/directories/index.htm">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/directories.png" src="https://images.medindia.net/icons/mobile-bottom/directories.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>Directories</p>
+            </a>
+
+            <a href="https://www.medindia.net/education/index.asp">
+                <img data-src="https://images.medindia.net/icons/mobile-bottom/education.png" src="https://images.medindia.net/icons/mobile-bottom/education.png" alt="" width="38" height="38" data-lazy="" data-processed="true">
+                <p>Education</p>
+            </a>
+
+        </div>
+    
+
+            <script data-cfasync="false" type="text/javascript" id="clever-core">
+                /* <![CDATA[ */
+                (function (document, window) {
+                    var a, c = document.createElement("script"), f = window.frameElement;
+
+                    c.id = "CleverCoreLoader87561";
+                    c.src = "https://scripts.cleverwebserver.com/f29e474b40177c5d4c6ad0c1d01a5148.js";
+
+                    c.async = !0;
+                    c.type = "text/javascript";
+                    c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+                    c.setAttribute("data-callback", "put-your-callback-function-here");
+                    c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+                    c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+
+
+                    try {
+                        a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+                    } catch (e) {
+                        a = !1;
+                    }
+
+                    a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+                    a.parentNode.insertBefore(c, a);
+                })(document, window);
+                /* ]]> */
+            </script>
+            <div class="clever-core-ads"></div>
+
+<input type="hidden" name="device" value="Desktop">
+<input type="hidden" name="country" value="Brazil">
+<input type="hidden" name="currentcountry" value="Brazil">
+<input type="hidden" name="currentIP" value="2804:ebc:909e:6200:43b4:8406:9557:927">
+<input type="hidden" name="Alls" value="X-Forwarded-For:2804:ebc:909e:6200:43b4:8406:9557:927, 172.69.11.144 HTTP_X_FORWARDED_FOR: X-CLIENT-IP:">
+<input type="hidden" name="header">
+<input type="hidden" name="navshow" id="navshow" value="0">
+<input type="hidden" name="CFcountrycode" value=" BR">
+    <button onclick="topFunction()" id="toTop" title="Go to top">↑</button>
+<input type="hidden" name="rwdcountry" id="rwdcountry" value="Brazil">
+<input type="hidden" name="identify" id="identify" value="1">
+
+<script>
+	// Lazy Load Images using Intersection Observer
+	(function () {
+		isMobile = Math.min(window.screen.width, window.screen.height) < 768 || navigator.userAgent.indexOf("Mobi") > -1;
+		//alert(isMobile)
+		var observer = new IntersectionObserver(onIntersect);
+
+		document.querySelectorAll("[data-lazy]").forEach((img) => {
+			observer.observe(img);
+		});
+
+		function onIntersect(entries) {
+			entries.forEach((entry) => {
+				if (entry.target.getAttribute("data-processed") || !entry.isIntersecting)
+					return true;
+				entry.target.setAttribute("src", entry.target.getAttribute("data-src"));
+				if (isMobile == false) {
+					//alert(entry.target.getAttribute("data-width"))
+					if (entry.target.getAttribute("data-width") != null) {
+						entry.target.setAttribute("width", entry.target.getAttribute("data-width"));
+					}
+					if (entry.target.getAttribute("data-height") != null) {
+						entry.target.setAttribute("height", entry.target.getAttribute("data-height"));
+					}
+				}
+				entry.target.setAttribute("data-processed", true);
+			});
+		}
+	})();
+</script>
+
+
+<script type="text/javascript">
+	function hidebotpopup() {
+		$('.bottom-popup').hide();
+	}
+	function googleTranslateElementInit() {
+		new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-1044053-1' }, 'google_translate_element');
+	}
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" defer=""></script>
+
+	
+	<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://static.medindia.net/corenet/js/jquery.min.js" id="jquery-core-js" defer=""></script>
+	
+		<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://static.medindia.net/corenet/js/jquery-3.3.1.min.js" id="jquery331-core-js"></script>
+		<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://static.medindia.net/corenet/js/htmx.min.js" id="html-core-js" defer=""></script>
+		<script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="https://static.medindia.net/corenet/js/_hyperscript.min.js" id="hyperscript-core-js" defer=""></script>
+
+<script>
+	var rootElement = document.documentElement;
+
+	function topFunction() {
+		document.body.scrollTop = 0;
+		rootElement.scrollTo({
+			top: 0,
+			behavior: "smooth"
+		});
+	}
+</script>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="exampleModalLabel">&nbsp;</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">×</span>
+				</button>
+			</div>
+			<div class="modal-body"> </div>
+		</div>
+	</div>
+</div>
+
+            
+
+<script>
+	function show_popupimg(type, id) {
+		
+		$.post('https://www.medindia.net/includes-rwd/widgets/popup-images.asp?id=' + id + '&t=m', function (data, status) {
+			if (data != "") {
+				$('#myModal').show();
+				$('.modal-body').html("<center><img src='" + data + "' class='rwd-img'></center>");
+			}
+		});
+
+		$('.close').click(function () {
+			$(this).closest('.modal').hide();
+		})
+	}
+</script>
+<script language="javascript">
+function showvideo(videoid)
+{
+document.getElementById("show_video").innerHTML = '<iframe src="//www.youtube.com/embed/'+videoid+'?wmode=transparent" frameborder="0" allowfullscreen></iframe>';
+}
+	function showmore(id, id1) {
+		$("#" + id).show();
+		$("#" + id1).hide();
+	}
+	function hidemore(id, id1) {
+		$("#" + id).hide();
+		$("#" + id1).show();
+	}
+</script>
+
+
+
+
+<script>
+function scrollSpy() {
+	var changes="false";
+			
+		$('.newstart').css("padding-top", 10 + "px");
+
+	//we get the divs offsets looping the menu links and getting the targets (this is dynamic: when we change div #suzy's height, code won't break!)
+	var divs = [];
+	var eleid = [];
+	$(".main .scroll-to").each(function (i) {
+		//console.log(i);
+		var appo = $(this).attr("id");
+				
+		//here we get the distance from top of each div
+		eleid[i] = appo;
+		divs[i] = $("#" + appo).offset().top;
+		//console.log($("#" + appo).offset().top + " " +divs[i]);
+	});
+
+	//	gets actual scroll and adds window height/2 to change the active menu voice when the lower div reaches half of screen (it can be changed)
+	var pos = $(window).scrollTop();
+	var off = (($(window).height()) / 2);
+
+	pos = pos + off;
+	//console.log('pos ' + pos);
+
+	//we parse our "div distances from top" object (divs) until we find a div which is further from top than the actual scroll position(+ of course window height/2). When we find it, we assign "active" class to the Nth menu voice which is corresponding to the last div closer to the top than the actual scroll -> trick is looping from index=0 while Nth css numeration starts from 1, so when the index=3 (fourth div) breaks our cycly, we give active to the third element in menu.
+	var index = 0;
+
+	for (index = 0; index < divs.length; index++) {
+
+		if (pos <= divs[index]) {
+			//console.log("element name " + index + " " + eleid[index]);
+			console.log("only index " + index);
+			changes="true";
+			break;
+		}
+	}
+	index--;
+		//console.log("element name " + index + " " + eleid[index]);
+		var changeTitle = $("#" + eleid[index]).attr("title");
+		var changeURL = $("#" + eleid[index]).attr("divURL");
+		if ($("#hidCurURL").val() != changeURL && changeURL!=undefined) {
+			changeurl(changeURL, changeTitle, "up");
+			$("#hidCurURL").val(changeURL);
+		}
+		//console.log(changeTitle + " " + changeURL);
+}
+
+window.addEventListener('scroll', () => scrollSpy());
+
+function changeurl(curURL,curTitle,curScroll) {
+	//alert('chageurl '+curTitle);
+	var stateObject = { 'Website' : 'www.medindia.net' };
+ 	document.title = curTitle;
+		if(curScroll=='up')
+		{
+			window.history.replaceState(stateObject, curTitle,curURL); 
+		}
+		if(curScroll=='down')
+		{
+			window.history.pushState(stateObject,curTitle, curURL); 
+		}
+
+}
+
+</script>
+
+
+<script>
+	function sub_showresult() {
+		if (document.subform.subemail.value.trim() == "") {
+			alert("Please enter your email");
+			document.subform.subemail.focus();
+			return false;
+		}
+		if (isvalidEmail(document.subform.subemail.value) == false) {
+			alert("Enter a Valid Email");
+			document.subform.subemail.focus();
+			return false;
+		}
+		sendval = document.subform.subemail.value
+		$.post("https://www.medindia.net/includes-opt/components/newsletter-save.asp",
+			{
+				sendval: sendval
+			},
+			function (data, status) {
+				//alert(data)
+				document.subform.subemail.value = ""
+				$("#detenter").hide();
+				//var tt="<a href='javascript:showdet()'>[Send Again]</a>"
+				if (data == "") {
+					//alert("Invalid Details.")
+					document.getElementById("detresult").innerHTML = "Invalid Details.";
+				} else {
+					//alert(data)
+					document.getElementById("detresult").innerHTML = data;
+				}
+
+			});
+	}
+	function showdet() {
+		$("#detenter").show();
+		document.getElementById("detresult").innerHTML = "";
+	}
+</script>
+<style>
+.subscribewid {
+background-color: #fff8e2;
+padding: 0 10px;
+border-radius: 9px;
+margin-bottom: 10px;
+}
+
+.subscribewid .form-group {
+	display: flex;
+}
+
+.subscribewid .subscribe-control {
+	height: 36px;
+	padding: 0 1rem;
+	position: relative;
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: center;
+	border: 1px solid #767474;
+	border-right: 0 none;
+	background-color: white;
+	border-radius: 0;
+}
+
+.subscribebtn {
+background-color: #187681;
+color: #fff;
+border: 1px solid #187681;
+}
+
+.subscribewid a {
+text-decoration: underline
+}
+
+@media only screen and (min-width: 768px) {
+.footer__socialLinks{display:flex;justify-content: center;}
+}
+</style>
+
+
+
+
+
+
+</body></html>

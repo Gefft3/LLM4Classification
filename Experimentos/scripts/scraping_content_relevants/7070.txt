@@ -1,0 +1,618 @@
+<html lang="pt-BR"><head><meta charset="UTF-8"><style id="litespeed-ccss">ul{box-sizing:border-box}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}body{--wp--preset--color--black:#000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#fff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,#9b51e0 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,#7adcb4 0%,#00d082 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,#cf2e2e 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,#eee 0%,#a9b8c3 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,#4aeadc 0%,#9778d1 20%,#cf2aba 40%,#ee2c82 60%,#fb6962 80%,#fef84c 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,#ffceec 0%,#9896f0 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,#fecda5 0%,#fe2d2d 50%,#6b003e 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,#ffcb70 0%,#c751c0 50%,#4158d0 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,#fff5cb 0%,#b6e3d4 50%,#33a7b5 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,#caf880 0%,#71ce7e 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,#020381 0%,#2874fc 100%);--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:.44rem;--wp--preset--spacing--30:.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0,0,0,.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0,0,0,.4);--wp--preset--shadow--sharp:6px 6px 0px rgba(0,0,0,.2);--wp--preset--shadow--outlined:6px 6px 0px -3px rgba(255,255,255,1),6px 6px rgba(0,0,0,1);--wp--preset--shadow--crisp:6px 6px 0px rgba(0,0,0,1)}:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg,rgba(255,255,255,.15),rgba(255,255,255,0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,*:before,*:after{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h1{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}small{font-size:.875em}a{color:#0d6efd;text-decoration:underline}img,svg{vertical-align:middle}button{border-radius:0}input,button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}button,[type=button]{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-text,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}[type=search]{outline-offset:-2px;-webkit-appearance:textfield}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}.container,.container-fluid{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:920px}}@media (min-width:1200px){.container{max-width:1140px}}@media (min-width:1400px){.container{max-width:1320px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1*var(--bs-gutter-y));margin-right:calc(-.5*var(--bs-gutter-x));margin-left:calc(-.5*var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x)*.5);padding-left:calc(var(--bs-gutter-x)*.5);margin-top:var(--bs-gutter-y)}.col-2{flex:0 0 auto;width:16.66666667%}.col-6{flex:0 0 auto;width:50%}.col-8{flex:0 0 auto;width:66.66666667%}.col-12{flex:0 0 auto;width:100%}@media (min-width:768px){.col-md-12{flex:0 0 auto;width:100%}}@media (min-width:992px){.col-lg-4{flex:0 0 auto;width:33.33333333%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-12{flex:0 0 auto;width:100%}}.collapse:not(.show){display:none}.dropend,.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle:after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent}.dropdown-menu{position:absolute;z-index:1000;display:none;min-width:10rem;padding:.5rem 0;margin:0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem}.dropdown-menu-end{--bs-position:end}.dropend .dropdown-toggle:after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid transparent;border-right:0;border-bottom:.3em solid transparent;border-left:.3em solid}.dropend .dropdown-toggle:after{vertical-align:0}.dropdown-item{display:block;width:100%;padding:.25rem 1rem;clear:both;font-weight:400;color:#212529;text-align:inherit;text-decoration:none;white-space:nowrap;background-color:transparent;border:0}.nav-link{display:block;padding:.5rem 1rem;color:#0d6efd;text-decoration:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding-top:.5rem;padding-bottom:.5rem}.navbar>.container{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}@media (min-width:992px){.navbar-expand-lg{flex-wrap:nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .dropdown-menu{position:absolute}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}}.visually-hidden-focusable:not(:focus):not(:focus-within){position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}.d-flex{display:flex!important}.d-none{display:none!important}.align-items-center{align-items:center!important}.mb-2{margin-bottom:.5rem!important}.py-4{padding-top:1.5rem!important;padding-bottom:1.5rem!important}.pt-4{padding-top:1.5rem!important}.pb-4{padding-bottom:1.5rem!important}.text-center{text-align:center!important}@media (min-width:768px){.mb-md-0{margin-bottom:0!important}}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-none{display:none!important}.pt-lg-0{padding-top:0!important}}img{max-width:100%;height:auto}a.skip-link{position:fixed;z-index:1000;top:0;right:0}html{overflow-x:hidden;width:100%}body{font-family:'Open Sans',sans-serif;overflow-x:hidden;width:100%;color:#3f3f3f}.text-right{text-align:right}h1{font-family:'Cabin',serif;letter-spacing:-.035em}.icon{width:30px;height:30px;background-size:contain;background-position:center center;background-repeat:no-repeat;display:inline-block;vertical-align:middle;margin-right:10px}.icon.vila{background-image:url("https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/vilanova.svg")}.icon.goias{background-image:url("https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/goias.svg")}.icon.atletico{background-image:url("https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/atletico.svg")}#logo-tagline-wrap{padding:15px 0}#wrapper-navbar{background:#e8e8e8;position:relative}#top-description{display:none}#navbarNavDropdown{padding:0}#top-menu-bg{background:#312b7e}#toggle_menu_top{width:25px;height:15px;display:inline-block;position:relative;padding:5px;box-sizing:content-box}#toggle_menu_top span{width:25px;height:3px;background:#8d8d8e;position:absolute;top:11px;left:5px}#toggle_menu_top span:before,#toggle_menu_top span:after{display:block;content:'';width:25px;height:3px;background:#8d8d8e;position:absolute;top:-6px;left:0}#toggle_menu_top span:after{top:6px}#toggle_search_top{border:0;padding:1px 6px;background:0 0}#toggle_search_top svg{fill:#8d8d8e}.form-search-toggler{border:0;background:0 0;padding:0;line-height:37px}.form-search-toggler span{line-height:1}.form-search-toggler span svg{fill:#fff}.simple-form>div{height:auto;align-items:center;justify-content:space-between;display:flex;flex-wrap:wrap;font-size:0}.simple-form input{flex:0 0 70%;padding:0 20px;border:0;line-height:52px;font-weight:300;font-size:18px}.simple-form button{flex:0 0 30%;border:0;background:#29ddf7;line-height:52px;padding:0;color:#fff;text-transform:uppercase;font-weight:700;font-size:18px}#form-search{position:absolute;top:100%;width:100%}#form-search>div{background:#312b7e;padding:15px}.navbar-nav .nav-link{text-transform:uppercase;color:#fff;font-weight:700;font-size:16px}.vector-bar{position:relative}.vector-bar:after{display:block;width:100%;height:8px;top:100%;left:0;content:'';background:url('https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/vector-bg.png') repeat bottom center;background-size:auto 39px}.category-and-date{letter-spacing:-.035em;line-height:1.1;font-size:16px;margin:0 0 5px}.category-and-date .category{display:inline-block;color:#6254be;font-weight:700;text-transform:uppercase;margin-right:10px;vertical-align:middle;line-height:17px}.category-and-date .date{font-weight:300;font-style:italic;color:#3f3f3f;vertical-align:middle;display:inline-block;font-size:90%}.noticia-titulo{font-size:28px;font-weight:700;letter-spacing:-.035em;line-height:1.1;margin:0 0 10px}.linha-fina{display:block;font-size:18px;font-weight:400;letter-spacing:-.035em;line-height:1.2;color:#3f3f3f}.prop-container{background:#e8e8e8;text-align:center;padding:30px 0;box-shadow:-3px 2px 1px 0px rgba(0,0,0,.1) inset}.post-meta img{width:35px;border-radius:100%;display:inline-block;vertical-align:middle;height:35px}.post-meta img+span{display:inline-block;vertical-align:middle;font-style:italic;color:#3f3f3f;padding-left:5px;line-height:1}.post-meta img+span a{color:#3f3f3f;font-weight:700;text-transform:uppercase;text-decoration:none;font-style:normal}.single-featured-image{padding-bottom:75%;height:auto;background-size:cover;background-repeat:no-repeat;background-position:center center}.sharing-buttons{font-size:0}.p-relative{position:relative}.featured-legend{color:#3f3f3f;font-style:italic;display:block;padding:5px}@media (min-width:992px){.sidebar-wrapper{max-width:300px;margin-left:auto}.sidebar-wrapper>.widget{margin-bottom:30px}#wrapper-navbar{background:#fff}#logo-tagline-wrap{padding:30px 0}#form-search{z-index:999;max-width:400px;right:0;left:initial;margin-top:-6px}#form-search>div{height:auto;padding:10px}.navbar-expand-lg .navbar-nav{width:100%;justify-content:center}.navbar-expand-lg .navbar-nav .nav-link{font-size:12px}#top-description{font-size:15px;letter-spacing:.035em;font-family:'Lora',serif;color:#3f3f3f;font-style:italic;line-height:1;display:block;margin-top:5px}#navbarNavDropdown{padding-top:.5rem;padding-bottom:.5rem}.noticia-titulo{font-size:52px}.linha-fina{font-size:24px}.post-meta img{width:40px;height:40px}#scrolling-social{position:absolute;left:-30px;top:0;z-index:9999}#scrolling-social .sharing-buttons{width:40px;text-align:center;padding-top:35vh}}@media (min-width:1200px){.navbar-expand-lg .navbar-nav .nav-link{font-size:16px}}.container_block{margin-bottom:1.5rem}.marketing.topo-home{min-height:300px}@media (min-width:768px){.marketing.topo-home{min-height:115px}}#form-search{z-index:99999}.ad_wrapper{text-align:center}h1,.noticia-titulo{letter-spacing:0}.ad_wrapper:before{content:'Publicidade';text-transform:uppercase;font-size:12px;padding-bottom:5px;display:block}:root{--bs-blue: #0d6efd;--bs-indigo: #6610f2;--bs-purple: #6f42c1;--bs-pink: #d63384;--bs-red: #dc3545;--bs-orange: #fd7e14;--bs-yellow: #ffc107;--bs-green: #198754;--bs-teal: #20c997;--bs-cyan: #0dcaf0;--bs-white: #fff;--bs-gray: #6c757d;--bs-gray-dark: #343a40;--bs-gray-100: #f8f9fa;--bs-gray-200: #e9ecef;--bs-gray-300: #dee2e6;--bs-gray-400: #ced4da;--bs-gray-500: #adb5bd;--bs-gray-600: #6c757d;--bs-gray-700: #495057;--bs-gray-800: #343a40;--bs-gray-900: #212529;--bs-primary: #0d6efd;--bs-secondary: #6c757d;--bs-success: #198754;--bs-info: #0dcaf0;--bs-warning: #ffc107;--bs-danger: #dc3545;--bs-light: #f8f9fa;--bs-dark: #212529;--bs-primary-rgb: 13, 110, 253;--bs-secondary-rgb: 108, 117, 125;--bs-success-rgb: 25, 135, 84;--bs-info-rgb: 13, 202, 240;--bs-warning-rgb: 255, 193, 7;--bs-danger-rgb: 220, 53, 69;--bs-light-rgb: 248, 249, 250;--bs-dark-rgb: 33, 37, 41;--bs-white-rgb: 255, 255, 255;--bs-black-rgb: 0, 0, 0;--bs-body-color-rgb: 33, 37, 41;--bs-body-bg-rgb: 255, 255, 255;--bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";--bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;--bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family: var(--bs-font-sans-serif);--bs-body-font-size: 1rem;--bs-body-font-weight: 400;--bs-body-line-height: 1.5;--bs-body-color: #212529;--bs-body-bg: #fff}*,*::before,*::after{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h2{margin-top:0;margin-bottom:0.5rem;font-weight:500;line-height:1.2}h2{font-size:calc(1.325rem + 0.9vw)}@media (min-width:1200px){h2{font-size:2rem}}p{margin-top:0;margin-bottom:1rem}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}small{font-size:0.875em}a{color:#0d6efd;text-decoration:underline}img,svg{vertical-align:middle}button{border-radius:0}input,button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}button,[type="button"]{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-text,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}[type="search"]{outline-offset:-2px;-webkit-appearance:textfield}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}iframe{border:0}.container{width:100%;padding-right:var(--bs-gutter-x, 0.75rem);padding-left:var(--bs-gutter-x, 0.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:920px}}@media (min-width:1200px){.container{max-width:1140px}}@media (min-width:1400px){.container{max-width:1320px}}.row{--bs-gutter-x: 1.5rem;--bs-gutter-y: 0;display:flex;flex-wrap:wrap;margin-top:calc(-1 * var(--bs-gutter-y));margin-right:calc(-.5 * var(--bs-gutter-x));margin-left:calc(-.5 * var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-top:var(--bs-gutter-y)}.col-2{flex:0 0 auto;width:16.66666667%}.col-8{flex:0 0 auto;width:66.66666667%}.col-12{flex:0 0 auto;width:100%}@media (min-width:992px){.col-lg-4{flex:0 0 auto;width:33.33333333%}.col-lg-6{flex:0 0 auto;width:50%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-12{flex:0 0 auto;width:100%}}.collapse:not(.show){display:none}.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle::after{display:inline-block;margin-left:0.255em;vertical-align:0.255em;content:"";border-top:0.3em solid;border-right:0.3em solid transparent;border-bottom:0;border-left:0.3em solid transparent}.dropdown-menu{position:absolute;z-index:1000;display:none;min-width:10rem;padding:0.5rem 0;margin:0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,0.15);border-radius:0.25rem}.dropdown-item{display:block;width:100%;padding:0.25rem 1rem;clear:both;font-weight:400;color:#212529;text-align:inherit;text-decoration:none;white-space:nowrap;background-color:transparent;border:0}.nav-link{display:block;padding:0.5rem 1rem;color:#0d6efd;text-decoration:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding-top:0.5rem;padding-bottom:0.5rem}.navbar>.container{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:0.25rem 0.75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:0.25rem}@media (min-width:992px){.navbar-expand-lg{flex-wrap:nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .dropdown-menu{position:absolute}.navbar-expand-lg .navbar-nav .nav-link{padding-right:0.5rem;padding-left:0.5rem}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}}.visually-hidden-focusable:not(:focus):not(:focus-within){position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}.align-items-center{align-items:center!important}.order-1{order:1!important}.order-2{order:2!important}.order-3{order:3!important}.mb-2{margin-bottom:0.5rem!important}.p-4{padding:1.5rem!important}.pt-5{padding-top:3rem!important}.text-center{text-align:center!important}@media (min-width:768px){.mb-md-0{margin-bottom:0!important}}@media (min-width:992px){.d-lg-none{display:none!important}.order-lg-1{order:1!important}.order-lg-2{order:2!important}}img.wp-post-image,img{max-width:100%;height:auto}a.skip-link{position:fixed;z-index:1000;top:0px;right:0px}html{overflow-x:hidden;width:100%}body{font-family:'Open Sans',sans-serif;overflow-x:hidden;width:100%;color:#3f3f3f}p{font-size:18px}.text-right{text-align:right}h2{font-family:'Cabin',serif;letter-spacing:-0.035em}.icon{width:30px;height:30px;background-size:contain;background-position:center center;background-repeat:no-repeat;display:inline-block;vertical-align:middle;margin-right:10px}#logo-tagline-wrap{padding:15px 0}#wrapper-navbar{background:#e8e8e8;position:relative}#top-description{display:none}#navbarNavDropdown{padding:0}#top-menu-bg{background:#312b7e}#toggle_menu_top{width:25px;height:15px;display:inline-block;position:relative;padding:5px;box-sizing:content-box}#toggle_menu_top span{width:25px;height:3px;background:#8d8d8e;position:absolute;top:11px;left:5px}#toggle_menu_top span:before,#toggle_menu_top span:after{display:block;content:'';width:25px;height:3px;background:#8d8d8e;position:absolute;top:-6px;left:0}#toggle_menu_top span:after{top:6px}#toggle_search_top{border:0;padding:1px 6px;background:transparent}#toggle_search_top svg{fill:#8d8d8e}.form-search-toggler{border:0;background:transparent;padding:0;line-height:37px}.form-search-toggler span{line-height:1}.form-search-toggler span svg{fill:#fff}.simple-form>div{height:auto;align-items:center;justify-content:space-between;display:flex;flex-wrap:wrap;font-size:0}.simple-form input{flex:0 0 70%;padding:0 20px;border:0;line-height:52px;font-weight:300;font-size:18px}.simple-form button{flex:0 0 30%;border:0;background:#29ddf7;line-height:52px;padding:0;color:#fff;text-transform:uppercase;font-weight:700;font-size:18px}#form-search{position:absolute;top:100%;width:100%}#form-search>div{background:#312b7e;padding:15px}.navbar-nav .nav-link{text-transform:uppercase;color:#fff;font-weight:700;font-size:16px}.vector-bar{position:relative}.vector-bar:after{display:block;width:100%;height:8px;top:100%;left:0;content:'';background-size:auto 39px}.footer-navbar li{display:inline-block;color:#fff;vertical-align:middle}.footer-navbar li a{font-size:16px;line-height:22px;letter-spacing:-0.035em;color:#fff;display:inline-block;margin:0;padding:0;vertical-align:middle}.footer-navbar li:after{content:'●';display:inline-block;margin:0 10px;vertical-align:middle;font-size:5px}.footer-navbar li:last-of-type:after{display:none}.bloco-noticia{padding-bottom:20px}.bloco-noticia a{text-decoration:none;display:flex;flex-grow:1;flex-direction:column}.bloco-noticia a img{width:auto;margin:0 -15px;order:2;max-width:initial}.bloco-noticia a h2{font-size:20px;font-weight:700;color:#3f3f3f;margin:0 0 10px;line-height:1;order:1}.bloco-noticia.padrao a h2{font-size:20px}.bloco-noticia.imagem a{flex-wrap:nowrap;flex-direction:row;align-items:flex-start}.bloco-noticia.imagem a img{flex:0 0 20%;order:1;width:20%;height:auto;margin:0}.bloco-noticia.imagem a h2{order:2;font-weight:700;font-size:20px;flex:0 0 80%;padding-left:10px}.bloco-noticia.horizontal a img{margin-bottom:20px}.category-and-date{letter-spacing:-0.035em;line-height:1.1;font-size:16px;margin:0 0 5px}.category-and-date .category{display:inline-block;color:#6254be;font-weight:700;text-transform:uppercase;margin-right:10px;vertical-align:middle;line-height:17px}.category-and-date .date{font-weight:300;font-style:italic;color:#8d8d8e;vertical-align:middle;display:inline-block;font-size:90%}.prop-container{background:#e8e8e8;text-align:center;padding:30px 0;box-shadow:-3px 2px 1px 0px rgba(0,0,0,0.1) inset}.noticia-destaque{border-radius:20px;overflow:hidden;box-shadow:0 10px 20px 0 rgba(0,0,0,0.15);margin-bottom:50px}.noticia-destaque a{text-decoration:none}.noticia-destaque .category-and-date .category{margin:0}.noticia-destaque .category-and-date .date{display:none}.noticia-destaque h2{color:#3f3f3f;font-weight:700;font-size:30px}.noticia-destaque p{color:#8d8d8e;font-size:18px;display:block;margin:0 auto 20px;max-width:80%}.noticia-destaque .author-date{display:block;font-size:16px;color:#c6c2c2}.separator{position:relative;margin-bottom:20px}.separator:after{content:'';display:block;position:absolute;bottom:0;width:auto;right:15px;left:15px;height:1px;background:#c6c2c2}#diario_de_goias_desktop_home_topo, #diario_de_goias_desktop_interna_topo{min-height:250px}@media (min-width:992px){p{font-size:20px}#diario_de_goias_desktop_home_topo, #diario_de_goias_desktop_interna_topo{min-height:90px}.sidebar-wrapper{max-width:300px;margin-left:auto}.sidebar-wrapper>.widget{margin-bottom:30px}#wrapper-navbar{background:#fff}#logo-tagline-wrap{padding:30px 0}#form-search{z-index:999;max-width:400px;right:0;left:initial;margin-top:-6px}#form-search>div{height:auto;padding:10px}.navbar-expand-lg .navbar-nav{width:100%;justify-content:center}.navbar-expand-lg .navbar-nav .nav-link{font-size:12px}#top-description{font-size:15px;letter-spacing:0.035em;font-family:'Lora',serif;color:#c6c2c2;font-style:italic;line-height:1;display:block;margin-top:5px}#navbarNavDropdown{padding-top:0.5rem;padding-bottom:0.5rem}.footer-navbar li{display:block}.footer-navbar li a{font-size:17px;line-height:25px}.footer-navbar li:after{display:none}.bloco-noticia a{text-decoration:none;display:flex;flex-grow:1;flex-direction:column}.bloco-noticia a img{width:100%;margin:0 0 10px;order:1}.bloco-noticia a h2{order:2}.bloco-noticia.imagem a{display:block}.bloco-noticia.imagem a img{width:100%;margin:0 0 15px}.bloco-noticia.imagem a h2{font-size:20px;flex:0 0 70%;padding:0}.lg-no-separator:after{display:none}}@media (min-width:1200px){.navbar-expand-lg .navbar-nav .nav-link{font-size:16px}}.marketing.topo-home {min-height: 300px}@media (min-width: 768px) {.marketing.topo-home {min-height:115px}}@media (min-width: 992px) {#top-menu-bg {min-height:45px}#logo-tagline-wrap{min-height: 132px;}#top-description{height: 15px;margin-top: 5px}}.dropdown-menu.show{display:block;}#wrapper-navbar .nav-link{white-space: nowrap;}@media (max-width: 767.98px) {.container_block .mobile-version {display:block !important}}@media (min-width: 768px) {.container_block .desktop-version {display:block !important}}.single-featured-image {
+    padding-bottom: 75%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}</style><script type="8c2665bc39fd7a30ce4fa3cf-text/javascript">!function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);</script> <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preconnect" href="https://securepubads.g.doubleclick.net"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49"></script><link data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&amp;family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap" rel="preload"><noscript><link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&amp;family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap" rel="stylesheet"></noscript><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style><meta name="title" value="Dezembro vermelho: tratamento do HIV proporciona vida normal"><title>Dezembro vermelho: tratamento do HIV proporciona vida normal</title><meta name="description" content="Conhecer a sorologia positiva de forma precoce aumenta muito a expectativa e a qualidade de vida de uma pessoa que vive com o vírus HIV"><link rel="canonical" href="https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/"><meta property="og:locale" content="pt_BR"><meta property="og:type" content="article"><meta property="og:title" content="Dezembro vermelho termina com mensagem de que tratamento do HIV proporciona vida normal"><meta property="og:description" content="Conhecer a sorologia positiva de forma precoce aumenta muito a expectativa e a qualidade de vida de uma pessoa que vive com o vírus HIV"><meta property="og:url" content="https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/"><meta property="og:site_name" content="Diário de Goiás"><meta property="article:publisher" content="https://www.facebook.com/DiariodeGoias/"><meta property="article:published_time" content="2023-12-30T20:44:11+00:00"><meta property="article:modified_time" content="2023-12-30T20:44:13+00:00"><meta property="og:image" content="https://diariodegoias.com.br/wp-content/uploads/2023/12/dezembro-vermelho-hiv-aids-scaled.jpg"><meta property="og:image:width" content="2560"><meta property="og:image:height" content="1707"><meta property="og:image:type" content="image/jpeg"><meta name="author" content="Carlos Nathan Sampaio"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:creator" content="@diariodegoias"><meta name="twitter:site" content="@diariodegoias"><meta name="twitter:label1" content="Escrito por"><meta name="twitter:data1" content="Carlos Nathan Sampaio"><meta name="twitter:label2" content="Est. tempo de leitura"><meta name="twitter:data2" content="4 minutos"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/#article","isPartOf":{"@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/"},"author":{"name":"Carlos Nathan Sampaio","@id":"https://diariodegoias.com.br/#/schema/person/eeb095825dd39f158d47832412a35633"},"headline":"Dezembro vermelho termina com mensagem de que tratamento do HIV proporciona vida normal","datePublished":"2023-12-30T17:44:11-03:00","dateModified":"2023-12-30T17:44:13-03:00","mainEntityOfPage":{"@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/"},"wordCount":691,"publisher":{"@id":"https://diariodegoias.com.br/#organization"},"image":{"@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/#primaryimage"},"thumbnailUrl":"https://diariodegoias.com.br/wp-content/uploads/2023/12/dezembro-vermelho-hiv-aids-scaled.jpg","articleSection":["Saúde"],"inLanguage":"pt-BR","copyrightYear":"2023","copyrightHolder":{"@id":"https://diariodegoias.com.br/#organization"}},{"@type":"WebPage","@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/","url":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/","name":"Dezembro vermelho: tratamento do HIV proporciona vida normal","isPartOf":{"@id":"https://diariodegoias.com.br/#website"},"primaryImageOfPage":{"@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/#primaryimage"},"image":{"@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/#primaryimage"},"thumbnailUrl":"https://diariodegoias.com.br/wp-content/uploads/2023/12/dezembro-vermelho-hiv-aids-scaled.jpg","datePublished":"2023-12-30T17:44:11-03:00","dateModified":"2023-12-30T17:44:13-03:00","description":"Conhecer a sorologia positiva de forma precoce aumenta muito a expectativa e a qualidade de vida de uma pessoa que vive com o vírus HIV","breadcrumb":{"@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/#primaryimage","url":"https://diariodegoias.com.br/wp-content/uploads/2023/12/dezembro-vermelho-hiv-aids-scaled.jpg","contentUrl":"https://diariodegoias.com.br/wp-content/uploads/2023/12/dezembro-vermelho-hiv-aids-scaled.jpg","width":2560,"height":1707,"caption":"dezembro vermelho aids hiv"},{"@type":"BreadcrumbList","@id":"https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://diariodegoias.com.br/"},{"@type":"ListItem","position":2,"name":"Dezembro vermelho termina com mensagem de que tratamento do HIV proporciona vida normal"}]},{"@type":"WebSite","@id":"https://diariodegoias.com.br/#website","url":"https://diariodegoias.com.br/","name":"Diário de Goiás","description":"Últimas notícias e análises de Goiás e do Brasil","publisher":{"@id":"https://diariodegoias.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://diariodegoias.com.br/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"},{"@type":"NewsMediaOrganization","@id":"https://diariodegoias.com.br/#organization","name":"Diário de Goiás Comunicação Ltda","url":"https://diariodegoias.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://diariodegoias.com.br/#/schema/logo/image/","url":"https://diariodegoias.com.br/wp-content/uploads/2021/04/Logo-dg-2021-50-e1619558729699.png","contentUrl":"https://diariodegoias.com.br/wp-content/uploads/2021/04/Logo-dg-2021-50-e1619558729699.png","width":402,"height":50,"caption":"Diário de Goiás Comunicação Ltda"},"image":{"@id":"https://diariodegoias.com.br/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/DiariodeGoias/","https://x.com/diariodegoias","https://www.instagram.com/diariodegoias/","https://www.youtube.com/user/diariodegoias/videos"]},{"@type":"Person","@id":"https://diariodegoias.com.br/#/schema/person/eeb095825dd39f158d47832412a35633","name":"Carlos Nathan Sampaio","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://diariodegoias.com.br/#/schema/person/image/","url":"https://diariodegoias.com.br/wp-content/litespeed/avatar/1a0f13c0bbcd230ab848460bdd2702bc.jpg?ver=1720067772","contentUrl":"https://diariodegoias.com.br/wp-content/litespeed/avatar/1a0f13c0bbcd230ab848460bdd2702bc.jpg?ver=1720067772","caption":"Carlos Nathan Sampaio"},"description":"Jornalista formado pela Universidade Federal e Mato Grosso (UFMT) em 2013, especialista Estratégias de Mídias Digitais pelo Instituto de Pós-Graduação e Graduação de Goiânia - IPOG, pós-graduado em Comunicação Empresarial pelo Senac e especialista em SEO.","jobTitle":"Jornalista","url":"https://diariodegoias.com.br/author/nathan/"}]}</script> <link rel="amphtml" href="https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/amp/"><meta name="generator" content="AMP for WP 1.1.2"><link rel="alternate" type="application/rss+xml" title="Feed para Diário de Goiás »" href="https://diariodegoias.com.br/feed/"><link rel="alternate" type="application/rss+xml" title="Feed de comentários para Diário de Goiás »" href="https://diariodegoias.com.br/comments/feed/"><link rel="alternate" type="application/rss+xml" title="Feed de Diário de Goiás » Story" href="https://diariodegoias.com.br/web-stories/feed/"><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49"></script><link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" id="wp-block-library-css" href="https://diariodegoias.com.br/wp-content/litespeed/css/775f5a2bbe265af2e81344a75f69314c.css?ver=931c7" media="all"><noscript><link data-optimized="1" rel="stylesheet" href="https://diariodegoias.com.br/wp-content/litespeed/css/775f5a2bbe265af2e81344a75f69314c.css?ver=931c7" media="all"></noscript><style id="classic-theme-styles-inline-css">/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}</style><style id="global-styles-inline-css">:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}</style><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49"></script><link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" id="gutenbee-animations-css" href="https://diariodegoias.com.br/wp-content/litespeed/css/90107438328e7536db7643d3eff52d98.css?ver=7f7d9" media="all"><noscript><link data-optimized="1" rel="stylesheet" href="https://diariodegoias.com.br/wp-content/litespeed/css/90107438328e7536db7643d3eff52d98.css?ver=7f7d9" media="all"></noscript><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49"></script><link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" id="wp-polls-css" href="https://diariodegoias.com.br/wp-content/litespeed/css/d9957603802ea199442e2850e8119244.css?ver=e7718" media="all"><noscript><link data-optimized="1" rel="stylesheet" href="https://diariodegoias.com.br/wp-content/litespeed/css/d9957603802ea199442e2850e8119244.css?ver=e7718" media="all"></noscript><style id="wp-polls-inline-css">.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('https://diariodegoias.com.br/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #330066;
+}</style><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49"></script><link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" id="wpsa_style_base-css" href="https://diariodegoias.com.br/wp-content/litespeed/css/3f282eea84ab35853483bd0b5c1477bf.css?ver=a2687" media="all"><noscript><link data-optimized="1" rel="stylesheet" href="https://diariodegoias.com.br/wp-content/litespeed/css/3f282eea84ab35853483bd0b5c1477bf.css?ver=a2687" media="all"></noscript><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49"></script><link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" id="picostrap-styles-css" href="https://diariodegoias.com.br/wp-content/litespeed/css/6914886af7546089d7f82e209be71c4f.css?ver=e38a5" media="all"><noscript><link data-optimized="1" rel="stylesheet" href="https://diariodegoias.com.br/wp-content/litespeed/css/6914886af7546089d7f82e209be71c4f.css?ver=e38a5" media="all"></noscript><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49"></script><link data-optimized="1" data-asynced="1" as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" id="dflip-style-css" href="https://diariodegoias.com.br/wp-content/litespeed/css/7315e552286b73abb8474001dc94dbd8.css?ver=bc928" media="all"><noscript><link data-optimized="1" rel="stylesheet" href="https://diariodegoias.com.br/wp-content/litespeed/css/7315e552286b73abb8474001dc94dbd8.css?ver=bc928" media="all"></noscript> <script src="https://diariodegoias.com.br/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script src="https://diariodegoias.com.br/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script type="8c2665bc39fd7a30ce4fa3cf-text/javascript">window.googletag = window.googletag || {cmd: []};</script><meta name="generator" content="Elementor 3.26.4; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"><style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}</style><link rel="icon" href="https://diariodegoias.com.br/wp-content/uploads/2021/04/logo-icone-dg-2021-quadrada-75x75.png" sizes="32x32"><link rel="icon" href="https://diariodegoias.com.br/wp-content/uploads/2021/04/logo-icone-dg-2021-quadrada-300x300.png" sizes="192x192"><link rel="apple-touch-icon" href="https://diariodegoias.com.br/wp-content/uploads/2021/04/logo-icone-dg-2021-quadrada-300x300.png"><meta name="msapplication-TileImage" content="https://diariodegoias.com.br/wp-content/uploads/2021/04/logo-icone-dg-2021-quadrada-300x300.png"><style id="wp-custom-css">#form-search {
+	z-index: 99999;
+}
+.ad_wrapper {
+	text-align: center;
+}
+
+.wp-block-embed.is-provider-youtube {
+	    padding-bottom: 56.25%;
+    position: relative;
+}
+
+.wp-block-embed.is-provider-youtube .ratio-16x9 {
+	--bs-aspect-ratio: initial;
+	position: initial;
+}
+
+.wp-block-embed.is-provider-youtube .ratio-16x9 > * {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.wp-block-embed.is-type-rich .ratio-16x9 > * {
+	position: absolute;
+}
+
+.wp-block-embed.is-type-rich.is-provider-twitter .ratio-16x9 > * {
+	position: relative;
+}
+
+@media (max-width: 767px) {
+	.wp-block-embed.is-provider-youtube {
+    width: 100vw;
+    max-width: 100vw;
+    transform: translateX(-50%);
+    left: 50%;
+}
+	.wp-block-columns {
+		flex-wrap: wrap !important;
+		gap: 0 !important;
+		margin-bottom: 2em;
+	}
+	
+	.wp-block-columns > * {
+		flex-basis: 100% !important;
+	}
+}
+
+#wrapper-navbar.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 999999999;
+    box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.3);
+    top: -300px
+}
+
+#wrapper-navbar.fixed #top-description {
+    display: none
+}
+
+#wrapper-navbar.fixed #logo-tagline-wrap {
+    padding: 10px 0
+}
+
+#wrapper-navbar.fixed #logo-tagline-wrap img {
+    width: 277px
+}
+
+#wrapper-navbar.fixed #navbarNavDropdown {
+    padding: 0
+}
+
+#wrapper-navbar.fixed .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 14px
+}
+
+#email_optin:before {
+	content: 'Receba o boletim com as notícias mais importantes no email';
+	display: block;
+	flex: 0 0 100%;
+	margin: 0 0 10px;
+}
+
+#email_optin {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 0.5rem;
+	margin: 0 0 30px;
+	background: #312b7e;
+	color: #fff;
+	text-align: center;
+	position: relative;
+}
+
+#email_optin:after {
+	display: block;
+    width: 100%;
+    height: 8px;
+    top: 100%;
+    left: 0;
+    content: '';
+    background: url(https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/vector-bg.png) repeat bottom center;
+    background-size: auto 39px;
+	
+			position: absolute;
+}
+#email_optin input {
+	line-height: 32px;
+	padding: 0 10px;
+	border: 1px solid #fff;
+	border-radius: 10000px 0 0 10000px;
+	margin: 0 0 10px;
+}
+
+#email_optin button {
+		padding: 0;
+	flex: 0 0 auto;
+	width: auto;
+	background: #fff;
+	height: 34px;
+	border-radius: 0 1000px 1000px 0;
+	padding: 0 20px;
+	height: 34px;
+	background-color: #ff0000;
+    color: #ffffff;
+	border: 0;
+	margin: 0 0 10px;
+}
+
+
+@media (max-width: 540px) {
+	
+	#email_optin input {
+	width: 170px;
+}
+}
+
+blockquote:before {
+	content: "";
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%236254be' viewBox='0 0 512 512'%3E%3C!-- Font Awesome Pro 5.15.4 by %40fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --%3E%3Cpath d='M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z'/%3E%3C/svg%3E");
+	background-size: 100%;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 10px;
+	left: 0;
+}
+
+blockquote:after {
+	content: '';
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%236254be' viewBox='0 0 512 512'%3E%3C!-- Font Awesome Pro 5.15.4 by %40fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --%3E%3Cpath d='M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z'/%3E%3C/svg%3E");
+	background-size: 100%;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: 60px;
+	right: 0;
+}
+
+blockquote {
+	position: relative;
+	display: block;
+	padding: 20px;
+	margin: 0 0 30px;
+	text-align: center;
+}
+
+blockquote > div {
+	display: none !important;
+}
+
+blockquote p {
+	font-weight: 600;
+	font-style: italic;
+	font-size: 21px;
+}
+
+@media (min-width: 992px) {
+	blockquote p {
+		font-size: 24px;
+	}
+}
+
+blockquote cite {
+	font-style: normal;
+	opacity: 0.6;
+	font-weight: 400;
+	font-size: 16px;
+	letter-spacing: 0;
+}
+
+h1, h2, h3, h4, h5, h6, .noticia-titulo {
+letter-spacing: 0;
+}
+
+.adsbygoogle {
+    margin: 0 auto;
+}
+
+.ad_wrapper:before {
+	content: 'Publicidade';
+	text-transform: uppercase;
+	font-size: 12px;
+	padding-bottom: 5px;
+	display: block;
+}
+
+#single-featured-vide iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: block;
+    height: auto;
+}
+
+.wp-polls {
+	clear: both;
+	max-width: 400px;	
+	display: block;
+	margin: 0 auto 20px;
+	background: rgb(98 84 190 / 10%);
+    padding: 10px;
+    border: 1px solid #6254be;
+}
+
+.wp-polls .pollbar {
+	background: #6254be;
+	border: 0;
+	height: 15px;
+}
+
+.wp-polls-ans p {
+	font-size: 14px;
+}
+
+.widget .bloco-noticia.padrao>span {
+	margin-bottom: 30px;
+}
+
+.ad_wrapper iframe {
+	max-width: 100%;
+}
+
+.desktop-author-custom .d-flex > img {
+	display: none;
+}
+	.desktop-author-custom .d-flex > div {
+		flex-grow: 1;
+	}
+
+@media (min-width: 992px) {
+	.desktop-author-custom .d-flex > div {
+		color: #fff;
+		text-align: left;
+	}
+.desktop-author-custom .d-flex > img {
+	display: block;
+}
+}
+
+@media (min-width: 768px) {
+    .marketing.topo-home {
+        min-height: 120px;
+    }
+}
+
+#eleicoes-apuracao .finalizado.segundoturno .apuracao-destaque:before {
+    content: '2° TURNO';
+    background: #248ac5;
+    padding: 0 5px;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 700;
+    position: absolute;
+    margin: -15px;
+}</style><meta name="google-site-verification" content="c70jikAHWDgh5XnUDh48fWQUARj4AbnT--dyaUyHtGw"><meta name="lomadee-verification" content="22893008"><meta property="fb:pages" content="265683816858248"></head><body class="post-template-default single single-post postid-396396 single-format-standard wp-embed-responsive elementor-default elementor-kit-271089"><div id="wrapper-navbar" class="" itemscope="" itemtype="http://schema.org/WebSite"><a class="skip-link visually-hidden-focusable" href="#theme-main">Ir Para o Conteúdo</a><form method="GET" action="https://diariodegoias.com.br" class="simple-form  collapse" id="form-search"><div>
+<input type="search" name="s" value="" placeholder="buscar por...">
+<button>Buscar</button></div></form><div class="container"><div class="row align-items-center"><div class="col-2 d-lg-none"><button id="toggle_menu_top" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler1" aria-controls="navbarToggler1" aria-expanded="false" aria-label="Abrir o Menu">
+<span></span>
+</button></div><div class="col-8 col-lg-12 text-center"><div id="logo-tagline-wrap"><a rel="home" href="https://diariodegoias.com.br/" title="Diário de Goiás" itemprop="url"><img src="https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/logo.png" srcset="https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/logo.png 1x, https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/logo@2x.png 2x" width="416" height="52" alt="Logotipo do Site" loading="eager" data-no-lazy="1"></a>
+<br>
+<small id="top-description">14 de janeiro de 2025</small></div></div><div class="col-2 d-lg-none text-right"><button id="toggle_search_top" type="button" data-bs-toggle="collapse" data-bs-target="#form-search" aria-controls="form-search" aria-expanded="false" aria-label="Abrir o Menu">
+<svg width="25" height="25" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.319 14.4326C20.7628 11.2941 20.542 6.75347 17.6569 3.86829C14.5327 0.744098 9.46734 0.744098 6.34315 3.86829C3.21895 6.99249 3.21895 12.0578 6.34315 15.182C9.22833 18.0672 13.769 18.2879 16.9075 15.8442C16.921 15.8595 16.9351 15.8745 16.9497 15.8891L21.1924 20.1317C21.5829 20.5223 22.2161 20.5223 22.6066 20.1317C22.9971 19.7412 22.9971 19.1081 22.6066 18.7175L18.364 14.4749C18.3493 14.4603 18.3343 14.4462 18.319 14.4326ZM16.2426 5.28251C18.5858 7.62565 18.5858 11.4246 16.2426 13.7678C13.8995 16.1109 10.1005 16.1109 7.75736 13.7678C5.41421 11.4246 5.41421 7.62565 7.75736 5.28251C10.1005 2.93936 13.8995 2.93936 16.2426 5.28251Z"></path>
+</svg>
+</button></div></div></div><div id="top-menu-bg" class="vector-bar"><nav id="navbarNavDropdown" class="navbar navbar-expand-lg" aria-label="Menu Principal"><div class="container"><div class="collapse navbar-collapse" id="navbarToggler1"><ul id="menu-principal" class="navbar-nav mb-2 mb-md-0 "><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home nav-item nav-item-212434"><a href="https://diariodegoias.com.br/" class="nav-link ">Início</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212435"><a href="https://diariodegoias.com.br/politica/" class="nav-link ">Política</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-231978"><a href="https://diariodegoias.com.br/eleicoes-2022/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Eleições</a><ul class="dropdown-menu  depth_0"><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-417816"><a href="https://diariodegoias.com.br/politica/eleicoes-2024/" class="dropdown-item ">Eleições 2024</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-461556"><a href="https://diariodegoias.com.br/eleicoes/2024/apuracao/2-turno/" class="dropdown-item ">2024 – Apuração 2º turno</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-458776"><a href="https://diariodegoias.com.br/eleicoes/2024/apuracao/1-turno/" class="dropdown-item ">2024 – Apuração 1º turno</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-258512"><a href="https://diariodegoias.com.br/eleicoes/2022/apuracao/2-turno/" class="dropdown-item ">2022 – Apuração 2º Turno</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-253362"><a href="https://diariodegoias.com.br/eleicoes/2022/apuracao/1-turno/" class="dropdown-item ">2022 – Apuração 1 Turno</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-253364"><a href="https://diariodegoias.com.br/eleicoes/2022/candidatos/" class="dropdown-item ">2022 – Lista de candidatos</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-253365"><a href="https://diariodegoias.com.br/resultado-primeiro-turno-eleicoes-2020/" class="dropdown-item ">2020 – Votação por cidade</a></li></ul></li><li class="menu-item menu-item-type-post_type_archive menu-item-object-coluna menu-item-has-children dropdown nav-item nav-item-212447"><a href="https://diariodegoias.com.br/colunas/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Colunas e Blogs</a><ul class="dropdown-menu  depth_0"><li class="menu-item menu-item-type-taxonomy menu-item-object-blog nav-item nav-item-212448"><a href="https://diariodegoias.com.br/blog/altair-tavares/" class="dropdown-item ">Altair Tavares</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-blog nav-item nav-item-330070"><a href="https://diariodegoias.com.br/blog/charlie-pereira/" class="dropdown-item ">Charlie Pereira</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-blog nav-item nav-item-323019"><a href="https://diariodegoias.com.br/blog/cronicas-do-diario/" class="dropdown-item ">Crônicas do Diário</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-blog nav-item nav-item-288869"><a href="https://diariodegoias.com.br/blog/elson-oliveira/" class="dropdown-item ">Elson Oliveira</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-blog nav-item nav-item-231977"><a href="https://diariodegoias.com.br/blog/cultura-e-diversao/" class="dropdown-item ">Cultura e Diversão</a></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212441"><a href="https://diariodegoias.com.br/concursos/" class="nav-link ">Concursos</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown nav-item nav-item-212436"><a href="https://diariodegoias.com.br/esportes/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Esportes</a><ul class="dropdown-menu  depth_0"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown nav-item nav-item-438011 dropend dropdown-menu-end"><a href="#" class="dropdown-item  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Campeonato Brasileiro</a><ul class="dropdown-menu sub-menu  depth_1"><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-438010"><a href="https://diariodegoias.com.br/tabela-e-classificacao-do-brasileirao-2024-serie-a/" class="dropdown-item ">Série A</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-438008"><a href="https://diariodegoias.com.br/tabela-e-classificacao-do-brasileirao-2024-serie-b/" class="dropdown-item ">Série B</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-438009"><a href="https://diariodegoias.com.br/tabela-e-classificacao-do-brasileirao-2024-serie-c/" class="dropdown-item ">Série C</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-438007"><a href="https://diariodegoias.com.br/tabela-e-classificacao-do-brasileirao-2024-serie-d/" class="dropdown-item ">Série D</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-471103"><a href="https://diariodegoias.com.br/tabela-e-classificacao-do-goianao-2025/" class="dropdown-item ">Goianão 2025 – Tabela e Classificação</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212440"><a href="https://diariodegoias.com.br/esportes/vila-nova-futebol-clube/" class="dropdown-item "><span class="icon vila"></span> Vila Nova Futebol Clube</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212439"><a href="https://diariodegoias.com.br/esportes/goias-esporte-clube/" class="dropdown-item "><span class="icon goias"></span> Goiás Esporte Clube</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212437"><a href="https://diariodegoias.com.br/esportes/atletico-goianiense/" class="dropdown-item "><span class="icon atletico"></span> Atlético Goianiense</a></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown nav-item nav-item-212443"><a href="https://diariodegoias.com.br/cidades/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Cidades</a><ul class="dropdown-menu  depth_0"><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212445"><a href="https://diariodegoias.com.br/cidades/goiania-noticias/" class="dropdown-item ">Goiânia</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212446"><a href="https://diariodegoias.com.br/noticias-de-aparecida-de-goiania/" class="dropdown-item ">Aparecida de Goiânia</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-221102"><a href="https://diariodegoias.com.br/cidades/anapolis/" class="dropdown-item ">Anápolis</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-432949"><a href="https://diariodegoias.com.br/cidades/bela-vista-de-goias/" class="dropdown-item ">Bela Vista de Goiás</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-432950"><a href="https://diariodegoias.com.br/cidades/catalao/" class="dropdown-item ">Catalão</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212452"><a href="https://diariodegoias.com.br/cidades/senador-canedo/" class="dropdown-item ">Senador Canedo</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-221101"><a href="https://diariodegoias.com.br/cidades/trindade/" class="dropdown-item ">Trindade</a></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown nav-item nav-item-456267"><a href="https://diariodegoias.com.br/bem-estar/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Bem Estar</a><ul class="dropdown-menu  depth_0"><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-456268"><a href="https://diariodegoias.com.br/astrologia/" class="dropdown-item ">Astrologia</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-456269"><a href="https://diariodegoias.com.br/beleza/" class="dropdown-item ">Beleza</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-456270"><a href="https://diariodegoias.com.br/culinaria/" class="dropdown-item ">Culinária</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-456271"><a href="https://diariodegoias.com.br/decoracao/" class="dropdown-item ">Decoração</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-456272"><a href="https://diariodegoias.com.br/empreendedorismo/" class="dropdown-item ">Empreendedorismo</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-456273"><a href="https://diariodegoias.com.br/pets/" class="dropdown-item ">Pets</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent nav-item nav-item-212451"><a href="https://diariodegoias.com.br/ultimas-noticias/" class="nav-link active">Últimas Notícias</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-371028"><a href="https://diariodegoias.com.br/enquetes/" class="nav-link ">Enquetes</a></li><li><button id="form-search-toggler" class="form-search-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#form-search" aria-expanded="false" aria-label="Abrir a Busca"><span class="search-toggler-icon"><svg width="25" height="25" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.319 14.4326C20.7628 11.2941 20.542 6.75347 17.6569 3.86829C14.5327 0.744098 9.46734 0.744098 6.34315 3.86829C3.21895 6.99249 3.21895 12.0578 6.34315 15.182C9.22833 18.0672 13.769 18.2879 16.9075 15.8442C16.921 15.8595 16.9351 15.8745 16.9497 15.8891L21.1924 20.1317C21.5829 20.5223 22.2161 20.5223 22.6066 20.1317C22.9971 19.7412 22.9971 19.1081 22.6066 18.7175L18.364 14.4749C18.3493 14.4603 18.3343 14.4462 18.319 14.4326ZM16.2426 5.28251C18.5858 7.62565 18.5858 11.4246 16.2426 13.7678C13.8995 16.1109 10.1005 16.1109 7.75736 13.7678C5.41421 11.4246 5.41421 7.62565 7.75736 5.28251C10.1005 2.93936 13.8995 2.93936 16.2426 5.28251Z"></path>
+</svg></span></button></li></ul></div></div></nav></div></div><main id="theme-main"><div class="prop-container"><div class="container"><div class="marketing topo-home"><iframe class="ad_wrapper topo-home" frameborder="0" src="" data-viewability="0" data-loc="topo-home"></iframe></div></div></div><div class="container py-4"><div class="row"><div class="col-md-12"><div class="category-and-date"><span class="category">Saúde</span>
+<span class="date">
+<time itemprop="datePublished" datetime="2023-12-30T17:44:11-03:00">30/12/2023 às 17:44</time>
+</span></div><h1 class="noticia-titulo">Dezembro vermelho termina com mensagem de que tratamento do HIV proporciona vida normal</h1><span class="linha-fina">Medicação, gratuita pelo SUS, evita que o vírus evolua para a Aids</span></div></div></div><div class="container pb-4 p-relative"><div class="row"><div class="col-md-12"><div class="post-meta"><div class="row align-items-center"><div class="col-6 d-flex align-items-center">
+<img width="150" height="150" src="https://diariodegoias.com.br/wp-content/uploads/2023/01/carlos-nathan-sampaio-jornalista-150x150.jpg.webp" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2023/01/carlos-nathan-sampaio-jornalista-150x150.jpg.webp 150w, https://diariodegoias.com.br/wp-content/uploads/2023/01/carlos-nathan-sampaio-jornalista-300x300.jpg.webp 300w, https://diariodegoias.com.br/wp-content/uploads/2023/01/carlos-nathan-sampaio-jornalista-768x768.jpg.webp 768w, https://diariodegoias.com.br/wp-content/uploads/2023/01/carlos-nathan-sampaio-jornalista-96x96.jpg.webp 96w, https://diariodegoias.com.br/wp-content/uploads/2023/01/carlos-nathan-sampaio-jornalista.jpg.webp 1080w" sizes="(max-width: 150px) 100vw, 150px">                                <span>por <a href="https://diariodegoias.com.br/author/nathan/" title="Posts de Carlos Nathan Sampaio" rel="author">Carlos Nathan Sampaio</a></span></div><div class="col-6 text-right"><div id="scrolling-social"><div class="sharing-buttons">
+<a class="btn-whatsapp" href="https://api.whatsapp.com/send?text=https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/" target="_blank" rel="nofollow">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="2em" height="2em" lc-helper="svg-icon" fill="currentColor">
+<path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path>
+</svg>
+<span class="d-none d-md-inline"> Whatsapp</span>
+</a>
+<a class="btn-telegram" href="https://telegram.me/share/url?url=https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/&amp;text=" target="_blank" rel="nofollow">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="2em" height="2em" lc-helper="svg-icon" fill="currentColor">
+<path d="M446.7 98.6l-67.6 318.8c-5.1 22.5-18.4 28.1-37.3 17.5l-103-75.9-49.7 47.8c-5.5 5.5-10.1 10.1-20.7 10.1l7.4-104.9 190.9-172.5c8.3-7.4-1.8-11.5-12.9-4.1L117.8 284 16.2 252.2c-22.1-6.9-22.5-22.1 4.6-32.7L418.2 66.4c18.4-6.9 34.5 4.1 28.5 32.2z"></path>
+</svg>
+<span class="d-none d-md-inline"> Telegram</span>
+</a>
+<a class="btn-facebook" href="https://www.facebook.com/sharer.php?u=https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/" target="_blank" rel="nofollow">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" width="2em" height="2em" lc-helper="svg-icon" fill="currentColor">
+<path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path>
+</svg>
+<span class="d-none d-md-inline"> Facebook</span>
+</a>
+<a class="btn-twitter" href="https://twitter.com/share?url=https://diariodegoias.com.br/dezembro-vermelho-tratamento-do-hiv-proporciona-vida-normal/396396/" target="_blank" rel="nofollow">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="2em" height="2em" lc-helper="svg-icon" fill="currentColor">
+<path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+</svg>
+<span class="d-none d-md-inline"> Twitter</span>
+</a></div></div></div></div></div></div></div></div><div class="d-lg-none"><div class="d-flex container-fluid single-featured-image d-lg-none" style="background-image:url(https://diariodegoias.com.br/wp-content/uploads/2023/12/dezembro-vermelho-hiv-aids-800x600.jpg);"></div>
+<span class="featured-legend">
+Especialista fala sobre o tema neste Dezembro Vermelho, que chega ao fim com sua mensagem permanente. (Foto: reprodução)            </span></div><div class="pt-4 pt-lg-0" id="main-content-wrapper"><div class="container"><div class="row"><div class="col-12 col-lg-8 pb-4"><div class="pb-4 d-none d-lg-block"><div class="d-flex container-fluid single-featured-image " style="background-image:url(https://diariodegoias.com.br/wp-content/uploads/2023/12/dezembro-vermelho-hiv-aids-800x600.jpg);"></div>
+<span class="featured-legend">
+Especialista fala sobre o tema neste Dezembro Vermelho, que chega ao fim com sua mensagem permanente. (Foto: reprodução)                            </span></div><div class="inner-ad"><div class="marketing intext"><iframe class="ad_wrapper intext" frameborder="0" src="" data-viewability="1" data-loc="intext"></iframe></div></div><iframe class="ad_wrapper Inicio" frameborder="0" src="" data-viewability="1" data-loc="Inicio" style="display: none;"></iframe><p>Conhecer a sorologia positiva de forma precoce aumenta muito a expectativa e a qualidade de vida de uma pessoa que vive com o vírus HIV. O tratamento antirretroviral da síndrome da imunodeficiência adquirida (Aids) é garantido para todos pelo Sistema Único de Saúde (SUS).&nbsp;Mesmo assim, de acordo com o Boletim Epidemiológico de HIV/Aids, divulgado pelo Ministério da Saúde em fevereiro, entre 2011 e 2021, o número de diagnósticos saltou 198%, passando de 13,7 mil para 40,9 mil.&nbsp;</p><p>Por outro lado, graças ao tratamento, os casos de Aids caíram 18,5% no mesmo período, passando de 43,2 mil novas notificações, em 2011, para 35,2 mil, em 2021. Isso acontece porque os medicamentos atuais conseguem controlar a infecção do HIV, impedindo a evolução para a sua forma grave, que é a aids. Por isso, nem todos que vivem com o HIV têm aids. Para seguir alertando a população sobre o tema, 1º de dezembro é o Dia Mundial de Combate à Aids, e o tema dá a cor vermelha ao mês.</p><aside class="related-inline-post"><strong style="text-indent: 15px;font-weight: 700; font-size: 1.4em;">Leia Também</strong><ol class="related-articles"><li><a href="https://diariodegoias.com.br/4-dicas-para-transportar-e-consumir-ovos-no-verao/471134/" class="entry-share-inside">4 dicas para transportar e consumir ovos no verão</a></li><li><a href="https://diariodegoias.com.br/5-formas-de-usar-a-folha-de-louro-para-melhorar-a-saude/471110/" class="entry-share-inside">5 formas de usar a folha de louro para melhorar a saúde</a></li><li><a href="https://diariodegoias.com.br/10-dicas-para-consumir-proteinas-corretamente-e-sem-exageros/471104/" class="entry-share-inside">10 dicas para consumir proteínas corretamente e sem exageros</a></li></ol></aside><p></p><p>A infectologista Juliana Barreto, que atende no centro clínico do Órion Complex, em Goiânia, detalha como é o tratamento para a doença. “Já que o&nbsp;HIV é um retrovírus, então o tratamento consiste em antirretrovirais, com medicações específicas. A pessoa que tem o diagnóstico de HIV, ela já inicia o tratamento com antirretroviral para tentar evitar que ela evolua com o caso de Aids. Então, o paciente hoje consegue, sim, levar uma vida normal se ele tiver adesão à terapia antirretroviral, que é conhecida como TARV”, explica.</p><p>A especialista ressalta ainda a diferença entre HIV e Aids. “A pessoa que vive com o HIV é portador do vírus. A Aids é a síndrome da imunodeficiência adquirida, que é o portador de HIV que já evoluiu com a doença oportunista, levando a uma taxa de defesa do corpo, que são os linfócitos CD4, a ficarem baixos, e a principal doença oportunista é a tuberculose. Então, é diferente ser um portador de HIV e a pessoa que tem a Aids”, salienta a médica. “Assim, se o paciente for portador do vírus HIV ele tem que aderir totalmente ao tratamento para não evoluir para Aids e ficar mais suscetível a contrair doenças, porque ela leva à baixa do sistema imune”, completa.</p><iframe class="ad_wrapper intext-b" frameborder="0" src="" data-viewability="1" data-loc="intext-b"></iframe><p></p><p>Hoje em dia, o portador de HIV pode se relacionar com outra pessoa tranquilamente. “Ele precisa falar com o parceiro que é portador de HIV para tomar todas as medidas. Ele tem que ter uma adesão total à terapia anti retroviral, para que dessa forma esteja com a carga viral zerada, isso é importantíssimo para que ele possa não transmitir e usar os métodos preventivos de barreira, como a camisinha. Isso é importantíssimo para que ele tenha um relacionamento normal com outra pessoa”, destaca Juliana Barreto.</p><p>Mulheres portadores do vírus também podem ter filhos sem transmitir para a criança. “Ela vai ter que sempre falar para o obstetra, é importantíssimo ter o acompanhamento pré-natal para poder já estar com a carga viral zerada para baixar muito o risco de transmissão para o feto. Além disso, no parto deve-se ter toda a questão clínica, de cuidados, um parto especial, por isso o obstetra tem que ter conhecimento”, orienta a infectologista.</p><p>Contudo, Juliana Barreto salienta que mesmo com toda a evolução do tratamento, é necessário seguir cuidados para evitar a evolução do HIV para a Aids. “É preciso acompanhamento médico especializado frequentemente, para que possa numa consulta, avaliar a carga viral, a taxa de defesa, o risco cardiológico. A gente já sabe hoje que o portador de HIV tem uma doença crônica, o vírus HIV aumenta o risco de doenças cardiovasculares, portanto, é necessário sim um acompanhamento especializado, para evitar a evolução da doença e para que você tenha uma vida normal”.&nbsp;</p><iframe class="ad_wrapper intext-c" frameborder="0" src="" data-viewability="1" data-loc="intext-c"></iframe><p></p><p><strong><a href="https://diariodegoias.com.br/dia-mundial-de-combate-a-aids-seis-mil-pessoas-vivem-com-hiv-em-goiania/387931/">Leia também: Cerca de seis mil pessoas vivem com HIV em Goiânia</a></strong></p><hr><p><span style="font-size: 1.2em;"><strong>Leia mais sobre:</strong>  <a href="https://diariodegoias.com.br/saude/" rel="category tag">Saúde</a></span></p></div><div class="col-lg-4 d-none d-lg-block"><div class="sidebar-wrapper"><aside class="widget text-center"><div class="marketing lateral-home-1"><iframe class="ad_wrapper lateral-home-1" frameborder="0" src="" data-viewability="1" data-loc="lateral-home-1"></iframe></div></aside><aside class="widget"><div class="cantuaria-top-articles"><h4 style="font-weight: 900;text-align:center;">Mais Lidas</h4><ul class="related-articles mais-lidos"><div class="bloco-noticia padrao"><span>1</span><div class="category-and-date"><span class="category">SALÁRIOS NA COMURG</span>
+<span class="date">
+<time>09/01/2025</time>
+</span></div>
+<a href="https://diariodegoias.com.br/salarios-altos-da-comurg-tem-legalidade-em-acordo-coletivo-assinado-pela-prefeitura/470692/"><h2>Salários altos da Comurg têm legalidade em Acordo Coletivo assinado pela prefeitura</h2></a></div><div class="bloco-noticia padrao"><span>2</span><div class="category-and-date"><span class="category">Tragédia </span>
+<span class="date">
+<time>09/01/2025</time>
+</span></div>
+<a href="https://diariodegoias.com.br/saiba-quem-era-a-familia-goiana-vitima-da-queda-de-aviao-em-ubatuba/470682/"><h2>Saiba quem era a família goiana vítima da queda de avião&nbsp;em&nbsp;Ubatuba</h2></a></div><div class="bloco-noticia padrao"><span>3</span><div class="category-and-date"><span class="category">Astrologia</span>
+<span class="date">
+<time>07/01/2025</time>
+</span></div>
+<a href="https://diariodegoias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-07-01-2025/470315/"><h2>Horóscopo do dia: previsão para os 12 signos em 07/01/2025</h2></a></div><div class="bloco-noticia padrao"><span>4</span><div class="category-and-date"><span class="category">Atlético Goianiense</span>
+<span class="date">
+<time>06/01/2025</time>
+</span></div>
+<a href="https://diariodegoias.com.br/ex-atacante-do-vila-nova-e-o-primeiro-reforco-do-atletico-go-para-2025/470311/"><h2>Ex-atacante do Vila Nova é o primeiro reforço do Atlético-GO para 2025</h2></a></div></ul></div></aside><aside class="widget text-center"><div class="marketing lateral-home-2"><iframe class="ad_wrapper lateral-home-2" frameborder="0" src="" data-viewability="1" data-loc="lateral-home-2"></iframe></div></aside><aside class="widget"><h4>Últimas Notícias</h4><div class="bloco-noticia padrao"><div class="category-and-date"><span class="category">Astrologia</span>
+<span class="date">
+<time>14/01/2025</time>
+</span></div>
+<a href="https://diariodegoias.com.br/horoscopo-do-dia-previsao-para-os-12-signos-em-14-01-2025/471178/"><h2>Horóscopo do dia: previsão para os 12 signos em 14/01/2025</h2></a></div><div class="bloco-noticia padrao"><div class="category-and-date"><span class="category">Esportes</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div>
+<a href="https://diariodegoias.com.br/escala-de-arbitragem-da-1a-rodada-do-goianao-2025-wilton-pereira-apita-o-jogo-do-vila-nova/471139/"><h2>Escala de arbitragem da 1ª Rodada do Goianão 2025; Wilton Pereira apita o jogo do Vila Nova</h2></a></div><div class="bloco-noticia padrao"><div class="category-and-date"><span class="category">Campanha inédita</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div>
+<a href="https://diariodegoias.com.br/ses-go-se-prepara-para-a-maior-campanha-de-rastreamento-de-cancer-de-intestino-do-mundo/471133/"><h2>SES-GO se prepara para a maior campanha de rastreamento de câncer de intestino do mundo</h2></a></div></aside></div></div></div></div></div><div class="prop-container"><div class="container"><div class="marketing meio-home"><iframe class="ad_wrapper meio-home" frameborder="0" src="" data-viewability="1" data-loc="meio-home"></iframe></div></div></div><div class="pt-4 vector-bar"><div class="container"><div class="row"><div class="col-12 col-lg-8"><div class="noticias-relacionadas"><h4>Recomendado Para Você</h4><div class="row"><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/4-dicas-para-transportar-e-consumir-ovos-no-verao/471134/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/4-dicas-para-transportar-e-consumir-ovos-no-verao-500x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/4-dicas-para-transportar-e-consumir-ovos-no-verao-500x500.jpg 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/4-dicas-para-transportar-e-consumir-ovos-no-verao-150x150.jpg 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/4-dicas-para-transportar-e-consumir-ovos-no-verao-96x96.jpg 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/4-dicas-para-transportar-e-consumir-ovos-no-verao/471134/"><div class="category-and-date"><span class="category">alimentação</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div><h2>4 dicas para transportar e consumir ovos no verão</h2></a></div></div></div></div><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/5-formas-de-usar-a-folha-de-louro-para-melhorar-a-saude/471110/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/5-formas-de-usar-a-folha-de-louro-para-melhorar-a-saude-500x500.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/5-formas-de-usar-a-folha-de-louro-para-melhorar-a-saude-500x500.png 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/5-formas-de-usar-a-folha-de-louro-para-melhorar-a-saude-150x150.png 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/5-formas-de-usar-a-folha-de-louro-para-melhorar-a-saude-96x96.png 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/5-formas-de-usar-a-folha-de-louro-para-melhorar-a-saude/471110/"><div class="category-and-date"><span class="category">alimentação</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div><h2>5 formas de usar a folha de louro para melhorar a saúde</h2></a></div></div></div></div><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/10-dicas-para-consumir-proteinas-corretamente-e-sem-exageros/471104/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-consumir-proteinas-corretamente-e-sem-exageros-500x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-consumir-proteinas-corretamente-e-sem-exageros-500x500.jpg 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-consumir-proteinas-corretamente-e-sem-exageros-150x150.jpg 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-consumir-proteinas-corretamente-e-sem-exageros-96x96.jpg 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/10-dicas-para-consumir-proteinas-corretamente-e-sem-exageros/471104/"><div class="category-and-date"><span class="category">alimentação</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div><h2>10 dicas para consumir proteínas corretamente e sem exageros</h2></a></div></div></div></div><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/7-cuidados-com-o-consumo-da-creatina/471078/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/7-cuidados-com-o-consumo-da-creatina-500x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/7-cuidados-com-o-consumo-da-creatina-500x500.jpg 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/7-cuidados-com-o-consumo-da-creatina-150x150.jpg 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/7-cuidados-com-o-consumo-da-creatina-96x96.jpg 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/7-cuidados-com-o-consumo-da-creatina/471078/"><div class="category-and-date"><span class="category">alimentação</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div><h2>7 cuidados com o consumo da creatina</h2></a></div></div></div></div><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/4-causas-do-cansaco-excessivo-apos-o-treino/471074/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/4-causas-do-cansaco-excessivo-apos-o-treino-500x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/4-causas-do-cansaco-excessivo-apos-o-treino-500x500.jpg 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/4-causas-do-cansaco-excessivo-apos-o-treino-150x150.jpg 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/4-causas-do-cansaco-excessivo-apos-o-treino-96x96.jpg 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/4-causas-do-cansaco-excessivo-apos-o-treino/471074/"><div class="category-and-date"><span class="category">atividade física</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div><h2>4 causas do cansaço excessivo após o treino</h2></a></div></div></div></div><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/10-dicas-para-superar-a-dependencia-das-redes-sociais/471039/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-superar-a-dependencia-das-redes-sociais-500x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-superar-a-dependencia-das-redes-sociais-500x500.jpg 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-superar-a-dependencia-das-redes-sociais-150x150.jpg 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/10-dicas-para-superar-a-dependencia-das-redes-sociais-96x96.jpg 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/10-dicas-para-superar-a-dependencia-das-redes-sociais/471039/"><div class="category-and-date"><span class="category">bem-estar</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div><h2>10 dicas para superar a dependência das redes sociais</h2></a></div></div></div></div><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/12-beneficios-dos-chas-para-a-saude/471014/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/12-beneficios-dos-chas-para-a-saude-500x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/12-beneficios-dos-chas-para-a-saude-500x500.jpg 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/12-beneficios-dos-chas-para-a-saude-150x150.jpg 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/12-beneficios-dos-chas-para-a-saude-96x96.jpg 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/12-beneficios-dos-chas-para-a-saude/471014/"><div class="category-and-date"><span class="category">alimentação</span>
+<span class="date">
+<time>13/01/2025</time>
+</span></div><h2>12 benefícios dos chás para a saúde</h2></a></div></div></div></div><div class="col-12 col-lg-6"><div class="bloco-noticia horizontal"><div class="row"><div class="col-12 col-lg-4 col-xl-3"><a href="https://diariodegoias.com.br/veja-como-amenizar-os-impactos-do-jet-lag-na-saude/470950/" class="fix-thumb-image"><img width="500" height="500" src="https://diariodegoias.com.br/wp-content/uploads/2025/01/Veja-como-amenizar-os-impactos-do-jet-lag-na-saude-500x500.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://diariodegoias.com.br/wp-content/uploads/2025/01/Veja-como-amenizar-os-impactos-do-jet-lag-na-saude-500x500.jpg 500w, https://diariodegoias.com.br/wp-content/uploads/2025/01/Veja-como-amenizar-os-impactos-do-jet-lag-na-saude-150x150.jpg 150w, https://diariodegoias.com.br/wp-content/uploads/2025/01/Veja-como-amenizar-os-impactos-do-jet-lag-na-saude-96x96.jpg 96w" sizes="(max-width: 500px) 100vw, 500px">
+</a></div><div class="col-12 col-lg-8 col-xl-9"><a href="https://diariodegoias.com.br/veja-como-amenizar-os-impactos-do-jet-lag-na-saude/470950/"><div class="category-and-date"><span class="category">bem-estar</span>
+<span class="date">
+<time>12/01/2025</time>
+</span></div><h2>Veja como amenizar os impactos do jet lag na saúde</h2></a></div></div></div></div></div></div></div><div class="col-lg-4 pb-4"><div class="marketing lateral-rodape"><iframe class="ad_wrapper lateral-rodape" frameborder="0" src="" data-viewability="1" data-loc="lateral-rodape"></iframe></div></div></div></div></div></main><div class="prop-container"><div class="container"><div class="marketing fim-home"><iframe class="ad_wrapper fim-home" frameborder="0" src="" data-viewability="1" data-loc="fim-home"></iframe></div></div></div><div class="wrapper vector-bar vector-bar-3x" id="wrapper-footer-colophon"><footer class="container"><div class="row py-5"><div class="col-12 col-lg-6"><a rel="home" class="footer-logo" href="https://diariodegoias.com.br/" title="Diário de Goiás" itemprop="url"><img src="https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/logo-white.png" srcset="https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/logo-white.png 1x, https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/img/logo-white@2x.png 2x" width="350" alt="Logotipo do Site"></a><div class="row"><div class="col-12 col-md-6 d-none d-md-block"><ul id="menu-principal-1" class="footer-navbar "><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home nav-item nav-item-212434"><a href="https://diariodegoias.com.br/" class="nav-link ">Início</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212435"><a href="https://diariodegoias.com.br/politica/" class="nav-link ">Política</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown nav-item nav-item-231978"><a href="https://diariodegoias.com.br/eleicoes-2022/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Eleições</a></li><li class="menu-item menu-item-type-post_type_archive menu-item-object-coluna menu-item-has-children dropdown nav-item nav-item-212447"><a href="https://diariodegoias.com.br/colunas/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Colunas e Blogs</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-212441"><a href="https://diariodegoias.com.br/concursos/" class="nav-link ">Concursos</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown nav-item nav-item-212436"><a href="https://diariodegoias.com.br/esportes/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Esportes</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown nav-item nav-item-212443"><a href="https://diariodegoias.com.br/cidades/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Cidades</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children dropdown nav-item nav-item-456267"><a href="https://diariodegoias.com.br/bem-estar/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">Bem Estar</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent nav-item nav-item-212451"><a href="https://diariodegoias.com.br/ultimas-noticias/" class="nav-link active">Últimas Notícias</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item nav-item-371028"><a href="https://diariodegoias.com.br/enquetes/" class="nav-link ">Enquetes</a></li></ul></div><div class="col-12 col-md-6"><ul id="menu-rodape-auxiliar" class="footer-navbar "><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-212456"><a href="https://diariodegoias.com.br/contato/" class="nav-link ">Contato / Expediente</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-212454"><a href="https://diariodegoias.com.br/publicidade/" class="nav-link ">Publicidade</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-212453"><a href="https://diariodegoias.com.br/termos/" class="nav-link ">Termos</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy nav-item nav-item-212455"><a href="https://diariodegoias.com.br/privacidade/" class="nav-link ">Política de privacidade</a></li></ul></div></div></div><div class="col-12 col-lg-6"><div class="social-icons"><a href="https://www.facebook.com/DiariodeGoias" rel="me noopener">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.54 27.37"><g><g><path d="M13.77,0a13.77,13.77,0,0,0-2.15,27.37V17.75H8.12v-4h3.5v-3c0-3.46,2.05-5.36,5.2-5.36a21.16,21.16,0,0,1,3.08.27V9H18.16a2,2,0,0,0-2.24,2.15v2.58h3.82l-.61,4H15.92v9.62A13.77,13.77,0,0,0,13.77,0Z"></path></g></g></svg>
+</a><a href="https://www.instagram.com/diariodegoias/" rel="me noopener">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.54 27.54"><g><g><path d="M13.84,11.2a2.55,2.55,0,1,0,2.54,2.55A2.55,2.55,0,0,0,13.84,11.2Z"></path><path d="M17,7.2H10.55a3.33,3.33,0,0,0-3.33,3.33V17a3.33,3.33,0,0,0,3.33,3.33H17A3.33,3.33,0,0,0,20.32,17V10.53A3.33,3.33,0,0,0,17,7.2ZM13.84,17.73a4,4,0,1,1,4-4A4,4,0,0,1,13.84,17.73ZM18,10.45A.95.95,0,1,1,19,9.51.94.94,0,0,1,18,10.45Z"></path><path d="M13.77,0A13.77,13.77,0,1,0,27.54,13.77,13.76,13.76,0,0,0,13.77,0Zm8.07,17A4.85,4.85,0,0,1,17,21.82H10.55A4.85,4.85,0,0,1,5.7,17V10.53a4.85,4.85,0,0,1,4.85-4.85H17a4.85,4.85,0,0,1,4.85,4.85Z"></path></g></g></svg>
+</a><a href="https://wa.me/62995505613" rel="me noopener">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.54 27.54"><g><g><path d="M13.77,0A13.77,13.77,0,1,0,27.54,13.77,13.76,13.76,0,0,0,13.77,0Zm.62,21.37a8,8,0,0,1-3.75-1L6.33,21.56l1.15-4.28a7.9,7.9,0,1,1,6.91,4.09Z"></path><path d="M14.39,7a6.4,6.4,0,0,0-5.47,9.74l.16.28-.64,2.39,2.41-.65.27.16a6.35,6.35,0,0,0,3.27.91A6.42,6.42,0,1,0,14.39,7Zm3.77,8.84a1.9,1.9,0,0,1-1.43,1.06,3,3,0,0,1-1.58-.24,7.07,7.07,0,0,1-1.36-.65,7.74,7.74,0,0,1-2.17-2c-.19-.25-.35-.5-.51-.76a4.55,4.55,0,0,1-.48-1.11,2.14,2.14,0,0,1-.06-.5,2,2,0,0,1,.69-1.58.91.91,0,0,1,1-.15,2,2,0,0,1,.66,1,1.65,1.65,0,0,1,.21.89,1.72,1.72,0,0,1-.46.75.3.3,0,0,0,0,.43,5.1,5.1,0,0,0,2.56,2.2.28.28,0,0,0,.36-.08c.19-.24.38-.7.67-.82a1.32,1.32,0,0,1,1.14.26c.3.18.81.4.89.78A.92.92,0,0,1,18.16,15.88Z"></path></g></g></svg>
+</a><a href="https://twitter.com/diariodegoias" rel="me noopener">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.54 27.54"><g><g><path d="M13.77,0A13.77,13.77,0,1,0,27.54,13.77,13.76,13.76,0,0,0,13.77,0Zm7.67,9.06a.36.36,0,0,1-.08.24,5.7,5.7,0,0,1-1.2,1.25c-.07,0-.18.11-.18.2a9.28,9.28,0,0,1-2.45,6.76,9.11,9.11,0,0,1-8.82,2.06A9.28,9.28,0,0,1,7,18.89a5.74,5.74,0,0,1-.53-.32c-.05,0-.08-.07,0-.09s.06,0,.2,0a6,6,0,0,0,2.55-.33,3.79,3.79,0,0,0,1.68-.89s0,0,0,0l-.33,0A3.29,3.29,0,0,1,8.1,15.14c0-.09,0-.13.08-.11a3.66,3.66,0,0,0,1.17,0A1.76,1.76,0,0,1,9,14.87a3.17,3.17,0,0,1-2-2.53c0-.13,0-.23,0-.35s0-.11.12-.07a3.18,3.18,0,0,0,1.19.34c-.13-.11-.26-.22-.38-.34a3.12,3.12,0,0,1-.53-3.7c0-.09.09-.09.17,0a9.59,9.59,0,0,0,6.18,3.15c.07,0,.08,0,.07-.07a3.11,3.11,0,0,1,0-1.29,3.16,3.16,0,0,1,.61-1.23,3.45,3.45,0,0,1,1-.84,3.18,3.18,0,0,1,1.27-.35,3,3,0,0,1,2.21.75.81.81,0,0,1,.16.16.12.12,0,0,0,.12,0A7.53,7.53,0,0,0,21,7.83a.13.13,0,0,1,.09,0s0,.06,0,.08a2.68,2.68,0,0,1-.51.92c-.14.18-.5.62-.74.66a5.85,5.85,0,0,0,1.52-.43c.06,0,.06,0,.06,0Z"></path></g></g></svg>
+</a><a href="https://www.youtube.com/@diariodegoias" rel="me noopener">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.16 27.16"><g><g><path d="M15.79,13.49l-3.58-2c-.14-.08-.65,0-.65.19v3.8c0,.17.5.27.65.19L16,13.87C16.1,13.79,15.94,13.57,15.79,13.49Z"></path><path d="M13.58,0A13.58,13.58,0,1,0,27.16,13.58,13.58,13.58,0,0,0,13.58,0Zm7.27,15.52a3.26,3.26,0,0,1-3.26,3.26H9.25A3.26,3.26,0,0,1,6,15.52V11.64A3.26,3.26,0,0,1,9.25,8.38h8.34a3.26,3.26,0,0,1,3.26,3.26Z"></path></g></g></svg>
+</a></div></div><div class="col-12 text-center pt-5"><p class="copy">Publicado por Diário de Goiás Comunicação LTDA (CNPJ 12.327.275/0001-13)<br>Fundado em 2012.<br>Diário de Goiás é marca registrada no INPI.</p></div></div></footer></div><div class="ligthbox_prop" style="display: none;"><div class="close"></div><div class="body"><span class="close">x</span><iframe class="ad_wrapper Popup" frameborder="0" src="" data-viewability="0" data-loc="Popup"></iframe></div></div>
+<input type="hidden" id="wpsa-global-vars" data-interval="3600000" data-timeout="5000" data-htmlloc="https://diariodegoias.com.br/wp-content/uploads/ad_" data-analyticsscript=""> <script src="https://diariodegoias.com.br/wp-content/plugins/wp-simple-ads-main/assets/wpsa.js?v=1.2.8" data-no-optimize="1" data-cfasync="false"></script> <script type="8c2665bc39fd7a30ce4fa3cf-text/javascript">const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );</script> <script type="8c2665bc39fd7a30ce4fa3cf-text/javascript">var scrollContent = document.getElementById("main-content-wrapper"),
+        scrollItem = document.getElementById("scrolling-social"),
+        itemPos = scrollItem.getBoundingClientRect(),
+        contentPos = scrollContent.getBoundingClientRect(),
+        docPos = document.body.getBoundingClientRect(),
+        limit = contentPos.height - (itemPos.height + 50);
+
+        window.addEventListener("resize", event => {
+            scrollContent = document.getElementById("main-content-wrapper");
+            scrollItem = document.getElementById("scrolling-social");
+            itemPos = scrollItem.getBoundingClientRect();
+            contentPos = scrollContent.getBoundingClientRect();
+            docPos = document.body.getBoundingClientRect();
+            limit = contentPos.height - (itemPos.height + 50);
+        });
+
+        document.addEventListener("scroll", event => {
+            let startPos = contentPos.top - docPos.top,
+                newPos = window.scrollY - startPos;
+
+            if (newPos < 0)
+                newPos = 0;
+
+            newPos += 5;
+
+            if (newPos > limit)
+                newPos = limit;
+
+            scrollItem.style.top = newPos + 'px';
+            
+        }, { passive: true });</script> <style id="core-block-supports-inline-css">/**
+ * Core styles: block-supports
+ */</style> <script src="https://diariodegoias.com.br/wp-content/plugins/gutenbee/build/gutenbee.animations.js?ver=2.18.0" id="gutenbee-animations-js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script id="wp-polls-js-extra" type="8c2665bc39fd7a30ce4fa3cf-text/javascript">var pollsL10n = {"ajax_url":"https:\/\/diariodegoias.com.br\/wp-admin\/admin-ajax.php","text_wait":"Seu \u00faltimo pedido ainda est\u00e1 sendo processada. Por favor espere um pouco...","text_valid":"Por favor, escolha uma resposta v\u00e1lida.","text_multiple":"N\u00famero m\u00e1ximo de op\u00e7\u00f5es permitidas:","show_loading":"1","show_fading":"1"};</script> <script src="https://diariodegoias.com.br/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.2" id="wp-polls-js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script src="https://diariodegoias.com.br/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?ver=2.3.53" id="dflip-script-js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js#asyncload" id="bootstrap5-js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script src="https://diariodegoias.com.br/wp-content/themes/diariodegoias/assets/js/theme.js?ver=1.3" id="themescript-js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script data-cfasync="false">var dFlipLocation = "https://diariodegoias.com.br/wp-content/plugins/3d-flipbook-dflip-lite/assets/"; var dFlipWPGlobal = {"text":{"toggleSound":"Ativar\/desativar som","toggleThumbnails":"Ativar miniaturas","toggleOutline":"Ativar estrutura\/marcadores","previousPage":"P\u00e1gina anterior","nextPage":"Pr\u00f3xima p\u00e1gina","toggleFullscreen":"Ativar tela cheia","zoomIn":"Aumentar zoom","zoomOut":"Diminuir zoom","toggleHelp":"Ativar ajuda","singlePageMode":"Modo de p\u00e1gina individual","doublePageMode":"Modo de p\u00e1gina dupla","downloadPDFFile":"Baixar arquivo PDF","gotoFirstPage":"Ir para a primeira p\u00e1gina","gotoLastPage":"Ir para a \u00faltima p\u00e1gina","share":"Compartilhar","mailSubject":"Eu gostaria que voc\u00ea visse este FlipBook","mailBody":"Consulte este site {{url}}","loading":"DearFlip: carregando "},"viewerType":"flipbook","moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","scrollWheel":"false","backgroundColor":"#777","backgroundImage":"","height":"auto","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","duration":800,"soundEnable":"true","enableDownload":"true","showSearchControl":"false","showPrintControl":"false","enableAnnotation":false,"enableAnalytics":"false","webgl":"true","hard":"none","maxTextureSize":"1600","rangeChunkSize":"524288","zoomRatio":1.5,"stiffness":3,"pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":5000,"autoPlayStart":"false","linkTarget":"2","sharePrefix":"flipbook-"};</script> <script data-no-defer="1" data-no-optimize="1" data-cfasync="false" async="" src="https://tags.premiumads.com.br/dfp/933035b9-ba4e-4480-9f97-2edc0c78e122"></script> <script async="" defer="" src="https://cloud.umami.is/script.js" data-website-id="6b18e4b4-3950-49a5-b9db-53edfd9d84bc" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script>  <script async="" defer="" src="https://www.googletagmanager.com/gtag/js?id=G-8W2WBLTZXW" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script type="8c2665bc39fd7a30ce4fa3cf-text/javascript">window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8W2WBLTZXW');</script> <script async="" data-no-defer="1" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script type="8c2665bc39fd7a30ce4fa3cf-text/javascript">window.googletag = window.googletag || {cmd: []};
+    // GPT ad slots
+    var anchorSlot;
+    googletag.cmd.push(function() {
+        anchorSlot = googletag.defineOutOfPageSlot('/221558719/DIARIO_DE_GOIAS_HEADERSTICKY', googletag.enums.OutOfPageFormat.TOP_ANCHOR);
+        if (anchorSlot) {
+            anchorSlot.addService(googletag.pubads());
+        }
+        googletag.enableServices();
+    });</script> <script defer="" type="8c2665bc39fd7a30ce4fa3cf-text/javascript">window.addEventListener('scroll', function () {
+
+            let minimumScroll = document.getElementById('wrapper-navbar').offsetHeight;
+            if (window.scrollY > minimumScroll) {
+                document.getElementById('theme-main').style['margin-top'] = document.getElementById('wrapper-navbar').offsetHeight + 'px';
+                document.getElementById('wrapper-navbar').classList.add('fixed');
+                setTimeout(function(){
+                    document.getElementById('wrapper-navbar').style.top = '0';
+                }, 250);
+            } else {
+                document.getElementById('theme-main').style['margin-top'] = '0';
+                document.getElementById('wrapper-navbar').classList.remove('fixed');
+                document.getElementById('wrapper-navbar').removeAttribute("style");
+            }
+
+        });</script> <script defer="" type="8c2665bc39fd7a30ce4fa3cf-text/javascript">function elementInViewport(myElement) {
+
+            var bounding = myElement.getBoundingClientRect();
+
+            if (bounding.top >= 0 && bounding.left >= 0 && bounding.right <= (window.innerWidth || document.documentElement.clientWidth) && bounding.top <= (window.innerHeight || document.documentElement.clientHeight))
+                return true;
+
+            return false;
+        }
+        window.addEventListener('load', function () {
+
+            var submenus = document.querySelectorAll("li.menu-item-has-children a");
+            for (let index = 0; index < submenus.length; index++) {
+
+                const element = submenus[index];
+
+                element.onclick = function(e){
+                    
+                    var open = document.querySelectorAll("li.menu-item-has-children .dropdown.show");
+                    for (let innerIndex = 0; innerIndex < open.length; innerIndex++) {
+                        const innerElement = open[innerIndex];
+                        innerElement.classList.remove('show');
+                    }
+                    
+                    if (!this.nextElementSibling.classList.contains('show')) {
+                        e.preventDefault();
+                        this.nextElementSibling.classList.add('show');
+                    }
+
+                }
+            }
+
+            document.getElementById('form-search-toggler').onclick = function(e){
+                e.preventDefault();
+                var el = document.getElementById('form-search');
+                if (el.style.display !== 'block')
+                    el.style.display = 'block';
+                else
+                    el.style.display = 'none';
+            }
+
+            document.getElementById('toggle_search_top').onclick = function(e){
+                e.preventDefault();
+                var el = document.getElementById('form-search');
+                if (el.style.display !== 'block')
+                    el.style.display = 'block';
+                else
+                    el.style.display = 'none';
+            }
+
+            document.getElementById('toggle_menu_top').onclick = function(e){
+                e.preventDefault();
+                var el = document.getElementById('navbarToggler1');
+                if (el.style.display !== 'block')
+                    el.style.display = 'block';
+                else
+                    el.style.display = 'none';
+            }
+
+
+            var userScrolled = false;
+            window.addEventListener('scroll', function () {
+                if (userScrolled) return;
+                userScrolled = true;
+            });
+
+        });</script> <script defer="" type="8c2665bc39fd7a30ce4fa3cf-text/javascript">(function(n,v,g){o='Navegg';if(!n[o]){
+    a=v.createElement('script');a.src=g;b=document.getElementsByTagName('script')[0];
+    b.parentNode.insertBefore(a,b);n[o]=n[o]||function(parms){
+    n[o].q=n[o].q||[];n[o].q.push([this, parms])};} })
+    (window, document, 'https://tag.navdmp.com/universal.min.js');
+    window.naveggReady = window.naveggReady||[];
+    window.nvg34273 = new Navegg({
+    acc: 34273
+    });</script> <script data-no-optimize="1" defer="" async="" id="ebx" src="//applets.ebxcdn.com/ebx.js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script defer="" async="" src="https://cdn.pn.vg/sites/49f429a4-06bf-4610-9a76-c83e3726f4a9.js" type="8c2665bc39fd7a30ce4fa3cf-text/javascript"></script> <script type="8c2665bc39fd7a30ce4fa3cf-text/javascript">(function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "ovhmch7vfk");</script> <foreignobject><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8c2665bc39fd7a30ce4fa3cf-|49" defer=""></script></foreignobject><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;901c9a1198921aa3&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;9daca98ac39348e38748b99a6d39a2ef&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+
+
+</body></html>

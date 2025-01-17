@@ -1,0 +1,557 @@
+<html lang="pt-BR"><head>
+        <!-- <title>Pantanal registra mais de 9 mil focos de incêndio em um ano</title> -->
+        <title>Pantanal registra mais de 9 mil focos de incêndio em um ano</title>
+
+        <link id="url-images" rel="url-images" href="https://imagens.ne10.uol.com.br/template-unificado" data-url="https://imagens.ne10.uol.com.br/template-unificado">
+        <link id="url-style-scripts" rel="url-style-scripts" href="https://sjcc.ne10.uol.com.br/template-unificado" data-url="https://imagens.ne10.uol.com.br/template-unificado">
+        <link id="portal-url" rel="portal-url" title="Interior" href="https://interior.ne10.uol.com.br">
+        <link id="logo-site" rel="logo" title="Interior" type="image/png" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/logo/logo.webp">
+        <link id="general-json" href="https://sjcc.ne10.uol.com.br/servicos/json/unificado/ne10-interior.json" data-portal="ne10-interior" data-slug="noticias" data-podcasts="Noticias">
+        <link id="see-more" href="https://interior.ne10.uol.com.br/related/incêndio no Pantanal pantanal queimadas/?matia=15725275">
+        
+        <!-- favicon -->
+        <link rel="shortcut icon" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/favicon.ico" type="image/x-icon">
+        <link rel="apple-touch-icon" sizes="57x57" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/favicon-16x16.png">
+        <link rel="stylesheet" href="https://sjcc.ne10.uol.com.br/template-unificado/css/portal-ne10-interior.css">
+
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=optional" rel="stylesheet">
+
+        <link rel="canonical" href="https://interior.ne10.uol.com.br/noticias/2024/06/24/pantanal-registra-mais-de-9-mil-focos-de-incendio-em-um-ano.html" data-matiaid="15725275">
+                <!-- privacytools -->
+        <link rel="stylesheet preconnect" href="https://cdn.privacytools.com.br/public_api/banner/style/mvvp615141.css?t=1">
+
+                <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <meta name="msapplication-TileImage" content="https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/ms-icon-144x144.png">
+
+        <!-- TWITTER -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="https://interior.ne10.uol.com.br/noticias">
+
+        <!-- FACEBOOK -->
+                <meta property="og:site_name" content="Interior">
+        <meta rel="title-matia" property="og:title" content="Pantanal registra mais de 9 mil focos de incêndio em um ano">
+        <meta property="og:description" content="Dados foram revelados no Programa Queimadas do Instituto Nacional de Pesquisas Espaciais (Inpe), divulgados na última quinta-feira (20)">
+        <meta property="og:url" content="https://interior.ne10.uol.com.br/noticias/2024/06/24/pantanal-registra-mais-de-9-mil-focos-de-incendio-em-um-ano.html">
+
+        <!-- image social embed -->
+        <meta property="og:image" content="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/06/21/615x300/1_queimadas_pantanal-27325603.jpg">
+        <meta property="og:image:width" content="615">
+        <meta property="og:image:height" content="300">
+        <meta property="og:locale" content="pt_BR">
+        <meta property="og:type" content="article">
+        <meta property="fb:app_id" content="649835981702614">
+        <meta property="fb:pages" content="197325903788355">
+        <meta property="fb:admins" content="jornaldocommercioPE">
+        <meta property="article:author" content="Rodrigo Fernandes">
+        <meta property="article:publisher" content="https://www.facebook.com/jornaldocommercioPE/">
+        <meta property="article:published_time" content="2024-06-24 08:15:00">
+
+        <!--FACEBOOK NEWS -->
+        <meta property="article:opinion" content="">
+        <meta property="article:content_tier" content="metered">
+        <meta property="article:location" content="city:recife,pernambuco">
+        <meta property="article:location" content="county:pernambuco">
+        <meta property="article:location" content="region:brl">
+
+        <!--NEWS ESPORTS-->
+        
+        <!-- META TAGS -->
+        <meta name="HandheldFriendly" content="True">
+
+        <!-- ARTICLE -->
+                    <meta property="article:tag" content="incendio-no-pantanal">
+                    <meta property="article:tag" content="pantanal">
+                    <meta property="article:tag" content="queimadas">
+        
+        <meta property="banner" content="incêndio no Pantanal, pantanal, queimadas">
+
+        <meta name="application-name" content="Interior">
+        <meta name="msapplication-TileColor" content="#fff">
+        <meta name="theme-color" content="#da291c">
+
+        <!-- GENERALL -->
+        <meta name="title" content="Pantanal registra mais de 9 mil focos de inc&amp;ecirc;ndio em um ano">
+        <meta name="description" content="Dados foram revelados no Programa Queimadas do Instituto Nacional de Pesquisas Espaciais (Inpe), divulgados na &amp;uacute;ltima quinta-feira (20)">
+        <meta name="author" content="Rodrigo Fernandes">
+        <meta name="robots" content="max-image-preview:large">
+        <meta name="referrer" content="always">
+
+                <!-- Correção embed do Flourish -->
+                    <meta name="language" content="pt-br">
+                
+                    <!-- UOL ADS LIBRARY -->
+            <script type="text/javascript">
+                (function () {
+                    window.universal_variable = window.universal_variable || {};
+                    window.universal_variable.dfp = window.universal_variable.dfp || {};
+                    window.uolads = window.uolads || [];
+                })();
+            </script>
+                            <script type="lazyscript">
+                    ;(function() {
+                        var scr = document.createElement("script");
+                        scr.async = true;
+                        scr.src =  "//tm.jsuol.com.br/uoltm.js?id=sjeunk";
+                        var el = document.getElementsByTagName("script")[0];
+                            el.parentNode.insertBefore(scr, el);
+                    })();
+                </script>
+            
+                
+
+        
+        <!-- Google Tag Manager -->
+        <script>
+            (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-MFCNCR5');
+        </script>
+        <!-- End Google Tag Manager -->
+
+        <script>
+            (function(i, s, o, g, r, a, m) {
+              i['GoogleAnalyticsObject'] = r;
+              i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+              }, i[r].l = 1 * new Date();
+              a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+              a.async = 1;
+              a.src = g;
+              m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-111653872-1', 'auto');
+        </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ReportageNewsArticle",
+        "articleSection": "Noticias",
+        "mainEntityOfPage": "https://interior.ne10.uol.com.br/noticias/2024/06/24/pantanal-registra-mais-de-9-mil-focos-de-incendio-em-um-ano.html",
+        "headline": "Pantanal registra mais de 9 mil focos de inc&amp;ecirc;ndio em um ano",
+        "description": "Dados foram revelados no Programa Queimadas do Instituto Nacional de Pesquisas Espaciais (Inpe), divulg...", 
+        "keywords": ["incêndio no Pantanal", "pantanal", "queimadas"],
+        "datePublished": "2024-06-24T08:15:00Z",
+                "publishingPrinciples": "https://interior.ne10.uol.com.br/noticias/2024/06/24/pantanal-registra-mais-de-9-mil-focos-de-incendio-em-um-ano.html",
+        "locationCreated": "",
+        "backstory":"",
+        "url": "https://interior.ne10.uol.com.br/noticias/2024/06/24/pantanal-registra-mais-de-9-mil-focos-de-incendio-em-um-ano.html",      
+        "image": {
+        "@type": "ImageObject",
+        "url": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/06/21/queimadas_pantanal-27325603.jpg",
+        "width": "1920",
+        "height": "1148"
+        },
+        "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name": "Jornal do Commercio",
+        "url": "https://interior.ne10.uol.com.br",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://imagens.ne10.uol.com.br/template-unificado/images/ne10-interior/favicon/android-icon-192x192.png",
+                "width": "192",
+                "height": "192"
+            }
+        },
+
+        "correction" :{
+            "@type": "CorrectionComment",
+            "text":"",
+            "datePublished":""
+        },
+
+        "author": {
+            "@type": "Person",
+            "name": "Rodrigo Fernandes",
+            "sameAS":"https://interior.ne10.uol.com.br/autor/rodrigo-fernandes"
+        }
+             
+    }
+</script><script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Interior",
+        "item": "https://interior.ne10.uol.com.br"
+        },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Noticias",
+        "item": "https://interior.ne10.uol.com.br/noticias"
+        },{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Pantanal registra mais de 9 mil focos de inc&amp;ecirc;ndio em um ano",
+        "item": "https://interior.ne10.uol.com.br/noticias/2024/06/24/pantanal-registra-mais-de-9-mil-focos-de-incendio-em-um-ano.html"
+        }]
+    }
+</script><script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Caruaru",
+            "addressRegion": "PE",
+            "postalCode": "55026-675",
+            "streetAddress": "Avenida José Marques Fontes, 1265 - Indianópolis"
+        },
+        "email": "mailto:jornalismo@tvjc.com.br",
+        "image": "https://interior.ne10.uol.com.br/dist/assets/images/logo/logo-ne10-interior.png",
+        "jobTitle": "Jornalismo",
+        "name": "Rodrigo Fernandes",
+        "telephone": "(81) 3722-8619",
+        "url": "https://interior.ne10.uol.com.br"
+    }
+</script></head>
+
+    
+
+<!-- BreadcrumbList -->
+
+
+<!-- Person -->
+        
+    
+    
+    <body id="ne10-interior" data-url="https://sjcc.ne10.uol.com.br/template-unificado">
+                <div id="progress-bar"></div>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFCNCR5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+                                    <header id="header" data-site="null"></header>
+                            <!-- Header de blogs e colunas -->
+                <!-- Main -->
+        <main>
+             <!-- Content-->
+                 <section id="content">
+    <!-- article-news-->
+    <article>
+                    <!-- article-header -->
+            <div class="article-header">
+    <!-- news-info -->
+    <div class="hat">
+        <span> fogo</span>
+            </div>
+    <h1 class="article-title">Pantanal registra mais de 9 mil focos de incêndio em um ano</h1>
+    <p>Dados foram revelados no Programa Queimadas do Instituto Nacional de Pesquisas Espaciais (Inpe), divulgados na última quinta-feira (20)</p>
+
+    <!-- author-article -->
+    <div class="author-signature">
+        <!-- author-info -->
+        <div class="author-info">
+           <div class="content-info">
+                                    <img width="50" height="50" class="author-image" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/20/168x168/1_rodrigofernandesresized-24355234.jpg" alt="Imagem do autor">
+                                <div class="author-text">
+                    <div class="author-social">
+                        <div>
+                            <span class="title-author">Cadastrado por</span>
+                            <p>
+                                                                    <a href="/autor/rodrigo-fernandes/" class="author">Rodrigo Fernandes</a>
+                                                            </p>
+                        </div>
+                                            </div>
+                </div>
+           </div>
+            <small class="publishinfo">
+                Publicado em 24/06/2024 às 8:15
+                
+            </small>
+        </div>
+        <div class="article-utilities">
+            <!-- share -->
+            <!-- react componente -->
+<div class="share-news"></div>                            <!-- save-button -->
+                <a href="#box-credibilidade" data-tipo="Notícia" class="btn-modal btn btn-outline-black" title="Notícia" aria-label="Notícia">
+                    <i class="type-icon small-icon icon-paper"></i>
+                    Notícia
+                </a>
+                        <div class="box-modal" id="box-credibilidade" aria-hidden="true">
+    <a href="#box-credibilidade" class="btn-fechar btn-modal-fechar"><span class="icon-close">X</span></a>
+    <div class="box-modal-content">
+        <div class="modal-glossario-content-cat">
+            <div class="categoria-noticia cat-noticia">
+                <h3>Notícia</h3>
+                <p>É o fato ou acontecimento de interesse jornalístico. Pode ser uma informação nova ou recente. Também
+                    diz respeito a uma novidade de uma situação já conhecida.</p>
+            </div>
+            <div class="categoria-noticia cat-artigo">
+                <h3>Artigo</h3>
+                <p>Texto predominantemente opinativo. Expressa a visão do autor, mas não necessariamente a opinião do
+                    jornal. Pode ser escrito por jornalistas ou especialistas de áreas diversas.</p>
+            </div>
+            <div class="categoria-noticia cat-investigativa">
+                <h3>Investigativa</h3>
+                <p>Reportagem que traz à tona fatos ou episódios desconhecidos, com forte teor de denúncia. Exige
+                    técnicas e recursos específicos.</p>
+            </div>
+            <div class="categoria-noticia cat-content-commerce">
+                <h3>Content Commerce</h3>
+                <p>Conteúdo editorial que oferece ao leitor ambiente de compras.</p>
+            </div>
+            <div class="categoria-noticia cat-analise">
+                <h3>Análise</h3>
+                <p>É a interpretação da notícia, levando em consideração informações que vão além dos fatos narrados.
+                    Faz uso de dados, traz desdobramentos e projeções de cenário, assim como contextos passados.</p>
+            </div>
+            <div class="categoria-noticia cat-editorial">
+                <h3>Editorial</h3>
+                <p>Texto analítico que traduz a posição oficial do veículo em relação aos fatos abordados.</p>
+            </div>
+            <div class="categoria-noticia cat-patrocinada">
+                <h3>Patrocinada</h3>
+                <p>É a matéria institucional, que aborda assunto de interesse da empresa que patrocina a reportagem.</p>
+            </div>
+            <div class="categoria-noticia cat-checagem-de-fatos">
+                <h3>Checagem de fatos</h3>
+                <p>Conteúdo que faz a verificação da veracidade e da autencidade de uma informação ou fato divulgado.
+                </p>
+            </div>
+            <div class="categoria-noticia cat-contexto">
+                <h3>Contexto</h3>
+                <p>É a matéria que traz subsídios, dados históricos e informações relevantes para ajudar a entender um
+                    fato ou notícia.</p>
+            </div>
+            <div class="categoria-noticia cat-especial">
+                <h3>Especial</h3>
+                <p> Reportagem de fôlego, que aborda, de forma aprofundada, vários aspectos e desdobramentos de um
+                    determinado assunto. Traz dados, estatísticas, contexto histórico, além de histórias de personagens
+                    que são afetados ou têm relação direta com o tema abordado.</p>
+            </div>
+            <div class="categoria-noticia cat-entrevista">
+                <h3>Entrevista</h3>
+                <p> Abordagem sobre determinado assunto, em que o tema é apresentado em formato de perguntas e
+                    respostas. Outra forma de publicar a entrevista é por meio de tópicos, com a resposta do
+                    entrevistado reproduzida entre aspas.</p>
+            </div>
+            <div class="categoria-noticia cat-critica">
+                <h3>Crítica</h3>
+                <p> Texto com análise detalhada e de caráter opinativo a respeito de produtos, serviços e produções
+                    artísticas, nas mais diversas áreas, como literatura, música, cinema e artes visuais.</p>
+            </div>
+        </div><!-- content-cat -->
+    </div>
+</div>
+
+            
+        </div>
+    </div>
+</div>
+ 
+            <!-- featured image -->
+            <!-- Imagem destaque -->
+            <figure class="featured-image skeleton-box">
+            <picture>
+                <source media="(min-width: 769px)" srcset="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/06/21/806x444/1_queimadas_pantanal-27325603.jpg">
+                <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/06/21/597x330/1_queimadas_pantanal-27325603.jpg" width="1920" height="1148" alt="Foto de queimada no Pantanal" sizes="100vw">
+            </picture>
+            <figcaption>Foto de queimada no Pantanal - <strong>Joedson Alves/Agência Brasil</strong></figcaption>
+        </figure>
+    
+    <!-- Youtube -->
+        <!-- Uol + -->
+    
+    <div>
+                    <div class="wrap-ads">
+        <div id="banner-970x250-1-desktop" class="skeleton-box"></div>
+    </div>
+    <script>
+        if (window.matchMedia("(min-width:992px)").matches) {
+            document.querySelector('#banner-970x250-1-desktop').innerHTML = '<div id="banner-970x250-1" class="ads ads-billboard text-center"></div>';
+            window.uolads.push({ id: "banner-970x250-1" });
+        }
+    </script>
+            <div id="banner-300x250-1-mobile" class="skeleton-box"></div>
+    <script>
+        if (window.matchMedia("(max-width:991px)").matches) {
+            document.querySelector('#banner-300x250-1-mobile').innerHTML = '<div id="banner-300x250-1" class="ads ads-retangular text-center"></div>';
+            window.uolads.push({ id: "banner-300x250-1" });
+        }
+    </script>
+            </div>
+ 
+                        <!-- content news -->
+        <div class="content-news">
+                    <p class="texto">O Programa Queimadas do Instituto Nacional de Pesquisas Espaciais (Inpe) registrou <strong>238 focos de queimadas no Pantanal</strong>. O número voltou a crescer após uma leve queda que seguiu o último pico de 421 focos no fim da semana passada, nos dias 14 e 15 de junho.</p>
+                                                                                    
+<p class="texto">No acumulado do último ano, segundo o relatório, divulgado na última quinta-feira (20), o bioma soma 9.014 ocorrências de focos de fogo. O número é quase sete vezes maior que os 1.298 registrados pelo sistema no mesmo período do ano passado.</p>
+                                                                                    
+<p class="texto">O <strong><a href="https://jc.ne10.uol.com.br/brasil/2024/06/20/pantanal-acumula-em-12-meses-mais-de-9-mil-focos-de-incendio.html" target="_blank" rel="noopener noreferrer">Pantanal</a></strong> é a maior área úmida contínua do planeta, e os efeitos de agravamento do fenômeno El Niño na mudança do clima já vem sendo percebidos no volume dos rios que atravessam o bioma. Em maio, a Agência Nacional de Águas (ANA) declarou situação crítica de escassez de recursos hídricos na Bacia do Paraguai.</p>
+                                                                                                <div id="banner-300x250-4-mobile" class="skeleton-box"></div>
+    <script>
+        if (window.matchMedia("(max-width:991px)").matches) {
+            document.querySelector('#banner-300x250-4-mobile').innerHTML = '<div id="banner-300x250-4" class="ads ads-retangular text-center"></div>';
+            window.uolads.push({ id: "banner-300x250-4" });
+        }
+    </script>
+                                        <div id="banner-300x250-4-desktop" class="skeleton-box"></div> 
+    <script>
+        if (window.matchMedia("(min-width:992px)").matches) {
+            document.querySelector('#banner-300x250-4-desktop').innerHTML = '<div id="banner-300x250-4" class="ads ads-retangular text-center"></div>';
+            window.uolads.push({ id: "banner-300x250-4" });
+        }
+    </script>
+                                                                    
+<p class="texto">Na última sexta-feira (14), o vice-presidente Geraldo Alckmin anunciou a criação de uma sala de situação para ações preventivas e de controle de incêndios e secas. Na ocasião, o presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), Rodrigo Agostinho informou que a situação mais critica afetava a região do município de Corumbá, em Mato Grosso do Sul.</p>
+                                                                                    
+<p class="texto">"Pela primeira vez estamos com o Pantanal completamente seco no primeiro semestre. O Ibama já contratou mais de 2 mil brigadistas para atuar em todo o país, com foco inicial no Pantanal e na Amazônia”, declarou Rodrigo Agostinho.</p>
+                                                                                    
+<h2>Bioma mais afetado<br></h2>
+<p class="texto">Uma pesquisa divulgada pela rede de pesquisa MapBiomas apontou que o Pantanal é, proporcionalmente, o bioma mais afetado por queimadas ao longo dos últimos 39 anos.</p>
+                                                                                    
+<p class="texto">No período, foram 9 milhões de hectares devastados pelo fogo, o que representa 59,2% do território que abrange os estados do Mato Grosso e Mato Grosso do Sul..</p>
+                                                                                    
+<p class="texto">Entre 1985 e 2023, o município de Corumbá foi o que mais registrou queimadas em todo o país, e o Pantanal, a região que ficou com mais "cicatrizes de fogo" na vegetação nativa, com 25% do território afetado pelas marcas.</p>
+                                                                                    
+<p class="texto">Um pacto firmado entre o Ministério do Meio Ambiente e Mudança do Clima (MMA) e os governadores dos estados que compõem o Pantanal e a Amazônia, no Dia Mundial do Meio Ambiente, também prevê ações de prevenção e combate às queimadas. Entre elas a suspensão das autorizações de queima até o fim do período seco.</p>
+                                                                                                <div class="ads">
+    <div id="uolpd-video-inarticle">
+    </div>
+</div>
+                                        <div class="whatsapp-wrapper">
+        <a class="noticias-whatsapp" href="https://whatsapp.com/channel/0029Va35CbXAO7RLKrDgJK1u" target="_blank">Chama no Zap 👋🏻 Receba notícias na palma da sua mão. <br> <span>Clique aqui e entre agora mesmo no nosso canal exclusivo do WhatsApp</span> </a>
+    </div>
+                                                                     
+<p class="texto"></p><div class="alsoread">
+      <span class="leia-mais-title">Leia Também</span>
+      <ul class="list-alsoread">
+	    				<li>
+                                              		         <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/06/21/120x80/1_reu_relogio_8_janeiro-27323081.jpg" width="120" height="80" alt="atos antidemocráticos">
+                                                                                            <a class="link" href="https://interior.ne10.uol.com.br/noticias/2024/06/21/moraes-vota-pela-condenacao-de-reu-que-quebrou-relogio-historico-no-8-de-janeiro.html">Moraes vota pela condenação de réu que quebrou relógio histórico no 8 de janeiro</a>
+                                      </li>
+	    				<li>
+                                                                                                                 <a class="link" href="https://interior.ne10.uol.com.br/noticias/2024/06/20/dia-24-de-junho-e-feriado-em-pernambuco-veja-o-que-abre-e-o-que-fecha.html">Dia 24 de junho é feriado em Pernambuco? Veja o que abre e o que fecha</a>
+                                      </li>
+	    				<li>
+                                              		         <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/06/20/120x80/1_whatsapp_image_2024_06_19_at_15_50_17__2_-27322320.jpeg" width="120" height="80" alt="São João 2024">
+                                                                                            <a class="link" href="https://interior.ne10.uol.com.br/trofeu-danado-de-bom/agenda/2024/06/20/sao-joao-2024-confira-os-horarios-de-funcionamento-dos-shoppings-comercio-e-servicos-publicos-no-feriado.html">São João 2024: Confira os horários de funcionamento dos shoppings, comércio e serviços públicos no feriado</a>
+                                      </li>
+	          </ul>
+</div><p></p>
+                                                                        <div id="banner-300x250-5-desktop" class="skeleton-box"></div> 
+    <script>
+        if (window.matchMedia("(min-width:992px)").matches) {
+            document.querySelector('#banner-300x250-5-desktop').innerHTML = '<div id="banner-300x250-5" class="ads ads-retangular text-center"></div>';
+            window.uolads.push({ id: "banner-300x250-5" });
+        }
+    </script>
+                    <div id="banner-300x250-5-mobile" class="skeleton-box"></div>
+    <script>
+        if (window.matchMedia("(max-width:991px)").matches) {
+            document.querySelector('#banner-300x250-5-mobile').innerHTML = '<div id="banner-300x250-5" class="ads ads-retangular text-center"></div>';
+            window.uolads.push({ id: "banner-300x250-5" });
+        }
+    </script>
+                                                                    <p></p>
+                                                                            </div> 
+        <!-- citations -->
+         
+        <!-- correction -->
+                <!-- backstage --> 
+         
+        <!-- carousel-gallery -->
+         
+        <!-- booms -->
+         
+        <!-- news information health  -->
+             
+                            
+                                        
+                                        
+                            <!-- share -->
+        <!-- react componente -->
+<div class="share-news"></div> 
+    </article>
+</section>
+ <!-- Main content -->
+    <section id="section-tags">
+    <h2 class="title-section"><span>Tags</span></h2>
+    <ul>
+                    <li><a href="/tags/incendio-no-pantanal/">incêndio no Pantanal</a></li>
+                    <li><a href="/tags/pantanal/">pantanal</a></li>
+                    <li><a href="/tags/queimadas/">queimadas</a></li>
+            </ul>
+</section>
+ <!-- Tags -->
+            <section id="section-author">
+    <h2 class="title-section"><span>Autor</span></h2>
+    <ul>
+                    <li>
+                <!-- author image -->
+                <figure>
+                    <a href="/autor/rodrigo-fernandes/">
+                        <img height="130" width="130" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/20/168x168/1_rodrigofernandesresized-24355234.jpg" alt="Imagem do autor">
+                    </a>
+                </figure>
+                <!-- author info -->
+                <div class="author-info">
+                    <small class="published-by">Publicado por</small>
+                    <h2 class="author-name"><a href="/autor/rodrigo-fernandes/">Rodrigo Fernandes</a></h2>
+                                            <a href="mailto:rsilva@jc.com.br" class="author-email">rsilva@jc.com.br</a>
+                                                                <!-- more info -->
+                        <input type="checkbox" id="toggle-more-info" class="toggle-checkbox-author">
+                        <label for="toggle-more-info" class="more-author-info-toggle">Mais informações</label>
+                        <div class="more-author-info-container">
+                                                            <strong>Sobre</strong>
+                                <p>Repórter do Sistema Jornal do Commercio de Comunicação desde 2022, especialista em comunicação digital e mestrando em Comunicação na UFPE. Twitter: @rodrigolow.</p>
+                                                                                                                                                                        <!-- social network -->
+                                                    </div>
+                                    </div>
+            </li>
+            </ul> 
+    <div id="bloco-native-rodape" class="mb-5 ads d-inline-block" style="width: 100%; text-align:center;"></div>
+</section>
+
+ <!-- Author -->
+                <section id="see-too" class="skeleton-box"></section> <!-- See Too -->
+ <!-- See Too -->
+                <section id="webstories" class="skeleton-box"></section>
+
+ <!-- Webstory -->
+            </main>
+        <!-- Header - React Component -->
+                    <footer id="footer"></footer>
+                <!-- ORGANIZATION -->
+<script src="https://sjcc.ne10.uol.com.br/template-unificado/js/portal-ne10-interior.js?1234" defer=""></script>
+<script src="https://sjcc.ne10.uol.com.br/template-unificado/js/lazyscript.js"></script>
+
+    <!-- privacytools -->
+    <script type="lazyscript" async="" src="https://cdn.privacytools.com.br/public_api/banner/script/bottom/mvvp615141.js?t=1"></script>
+    
+
+
+</body></html>

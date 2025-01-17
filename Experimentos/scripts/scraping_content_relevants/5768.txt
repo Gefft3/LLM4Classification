@@ -1,0 +1,595 @@
+<html lang="pt-BR"><head>
+	<meta charset="UTF-8">
+	<meta name="author" content="BIREME / OPAS / OMS - Márcio Alves">
+	<meta name="generator" content="BIREME / OPAS / OMS - Márcio Alves">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=1"> 
+	<link rel="stylesheet" href="css/style.css">
+	<title>Técnica usa anticorpos do sangue para detectar bactéria causadora da hanseníase | Biblioteca Virtual em Saúde MS</title>
+<link rel="dns-prefetch" href="//platserv.bvsalud.org">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.18 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-PXFXFWSHDH" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async=""></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.18';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-PXFXFWSHDH',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-PXFXFWSHDH', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bvsms.saude.gov.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.14"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://bvsms.saude.gov.br/wp-includes/css/dist/block-library/style.min.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/css/bootstrap.min.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/css/style.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css" href="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/css/slick.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="theme-slick-css" href="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/css/slick-theme.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="acessibilidade-css" href="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/css/accessibility.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/css/fontawesome/css/all.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-iso-css" href="https://platserv.bvsalud.org/client/vendors/bootstrap/dist/css/bootstrap-iso.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="servplat-style-css" href="https://platserv.bvsalud.org/client/css/plugin.css?ver=5.6.14" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.6.14" type="text/css" media="all">
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.18" id="monsterinsights-frontend-script-js"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id="monsterinsights-frontend-script-js-extra">/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/bvsms.saude.gov.br","hash_tracking":"false","v4_id":"G-PXFXFWSHDH"};/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://bvsms.saude.gov.br/wp-json/"><link rel="alternate" type="application/json" href="https://bvsms.saude.gov.br/wp-json/wp/v2/posts/8941"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bvsms.saude.gov.br/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bvsms.saude.gov.br/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.6.14">
+<link rel="canonical" href="https://bvsms.saude.gov.br/tecnica-usa-anticorpos-do-sangue-para-detectar-bacteria-causadora-da-hanseniase/">
+<link rel="shortlink" href="https://bvsms.saude.gov.br/?p=8941">
+<link rel="alternate" type="application/json+oembed" href="https://bvsms.saude.gov.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbvsms.saude.gov.br%2Ftecnica-usa-anticorpos-do-sangue-para-detectar-bacteria-causadora-da-hanseniase%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://bvsms.saude.gov.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbvsms.saude.gov.br%2Ftecnica-usa-anticorpos-do-sangue-para-detectar-bacteria-causadora-da-hanseniase%2F&amp;format=xml">
+        <style>
+            #calendar_wrap .ui-datepicker-prev span {background: url("https://bvsms.saude.gov.br/wp-content/plugins/direve-wp-plugin-master/calendar/images/arrow-new.png") no-repeat scroll 0 0 transparent;}
+            #calendar_wrap .ui-datepicker-prev span:hover {background: url("https://bvsms.saude.gov.br/wp-content/plugins/direve-wp-plugin-master/calendar/images/arrow-prev-hover.png") no-repeat scroll 0 0 transparent;}
+            #calendar_wrap .ui-datepicker-next span {background: url("https://bvsms.saude.gov.br/wp-content/plugins/direve-wp-plugin-master/calendar/images/arrow-new2.png") no-repeat scroll 0 0 transparent;}
+            #calendar_wrap .ui-datepicker-next span:hover {background: url("https://bvsms.saude.gov.br/wp-content/plugins/direve-wp-plugin-master/calendar/images/arrow-next-hover.png") no-repeat scroll 0 0 transparent;}
+        </style>
+        </head>
+<body>
+
+	<section id="barAccessibility">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6" id="accessibilityTutorial">
+				<a href="#main_container" tabindex="1" role="button">Conteúdo Principal <span class="hiddenMobile">1</span></a>
+				<a href="#nav" tabindex="2" role="button">Menu <span class="hiddenMobile">2</span></a>
+				<a href="#fieldSearch" tabindex="3" id="accessibilitySearch" role="button">Busca <span class="hiddenMobile">3</span></a>
+				<a href="#footer" tabindex="4" role="button">Rodapé <span class="hiddenMobile">4</span></a>
+			</div>
+			<div class="col-md-6" id="accessibilityFontes">
+				<a href="#!" id="fontPlus" tabindex="5" aria-hidden="true">+A</a>
+				<a href="#!" id="fontNormal" tabindex="6" aria-hidden="true">A</a>
+				<a href="#!" id="fontLess" tabindex="7" aria-hidden="true">-A</a>
+				<a href="#!" id="contraste" tabindex="8" aria-hidden="true"><i class="fas fa-adjust"></i> Alto Contraste</a>
+				<a href="https://politicas.bireme.org/accesibilidad/pt" role="button" id="accebilidade" tabindex="9" target="_blank" title="Acessibilidade"><i class="fas fa-wheelchair"></i></a>
+			</div>
+		</div>
+	</div>
+</section>	<header id="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9" id="logo">
+					<div id="logoBVS">
+						<a href="https://bvsalud.org/" target="_blank">
+							<img src="http://logos.bireme.org/img/pt/bvs_color.svg" alt="" class="img-fluid">
+						</a>
+					</div>
+					<h1>
+						<a href="https://bvsms.saude.gov.br">
+							<b>Biblioteca Virtual em Saúde</b> <br>
+							<small>MINISTÉRIO DA SAÚDE</small>
+						</a>
+					</h1>
+				</div>
+				<div class="col-md-3" id="headerSocial">
+					<ul class="list-unstyled"></ul>
+				</div>
+			</div>
+		</div>
+	</header><nav id="nav" class="navbar navbar-expand-lg navbar-dark">
+	<div class="container">
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div id="navbarSupportedContent" class="collapse navbar-collapse"><ul id="menu-menu-topo" class="navbar-nav mr-auto"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3702 nav-item"><a title="INÍCIO" href="https://bvsms.saude.gov.br/" class="nav-link">INÍCIO</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3703 nav-item"><a title="SOBRE A BVS" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-3703">SOBRE A BVS</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-3703" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3706 nav-item"><a title="O que é a BVS" href="https://bvsms.saude.gov.br/o-que-e-a-bvs-ms/" class="dropdown-item">O que é a BVS</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3705 nav-item"><a title="Comitê Consultivo" href="https://bvsms.saude.gov.br/comite-consultivo/" class="dropdown-item">Comitê Consultivo</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3704 nav-item"><a title="Outras BVS" href="https://bvsms.saude.gov.br/outras-bvs/" class="dropdown-item">Outras BVS</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3708 nav-item"><a title="Contato" href="https://bvsms.saude.gov.br/contato/" class="dropdown-item">Contato</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3709 nav-item"><a title="CONHEÇA A BIBLIOTECA MS" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-3709">CONHEÇA A BIBLIOTECA MS</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-3709" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4604 nav-item"><a title="Biblioteca MS" href="https://bvsms.saude.gov.br/biblioteca-ms/" class="dropdown-item">Biblioteca MS</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4603 nav-item"><a title="Acervo" href="https://bvsms.saude.gov.br/acervo/" class="dropdown-item">Acervo</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4602 nav-item"><a title="Espaço Físico" href="https://bvsms.saude.gov.br/espaco-fisico/" class="dropdown-item">Espaço Físico</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3713 nav-item"><a title="PRODUTOS DA BVS" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-3713">PRODUTOS DA BVS</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-3713" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-11345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11345 nav-item"><a title="Boletim Informação para a Saúde" href="https://bvsms.saude.gov.br/category/informacao-para-a-saude/edicoes-2024/is-n-4-out-dez-2024/" class="dropdown-item">Boletim Informação para a Saúde</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3715 nav-item"><a title="Datas da Saúde" href="https://bvsms.saude.gov.br/datas-da-saude/" class="dropdown-item">Datas da Saúde</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3733" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3733 nav-item"><a title="Dicas em Saúde" href="https://bvsms.saude.gov.br/category/dicas-em-saude-anteriores/" class="dropdown-item">Dicas em Saúde</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3717 nav-item"><a title="Galeria dos Ministros" href="https://bvsms.saude.gov.br/galeria-dos-ministros/" class="dropdown-item">Galeria dos Ministros</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-9744" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9744 nav-item"><a title="Profissões da Saúde" href="https://bvsms.saude.gov.br/category/profissoes-da-saude/" class="dropdown-item">Profissões da Saúde</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3719 nav-item"><a title="Telefones úteis" href="https://bvsms.saude.gov.br/disque-saude/" class="dropdown-item">Telefones úteis</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3720 nav-item"><a title="Terminologia" href="https://bvsms.saude.gov.br/terminologia/" class="dropdown-item">Terminologia</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10039 nav-item"><a title="Notícias" href="https://bvsms.saude.gov.br/noticias/" class="dropdown-item">Notícias</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-4595 nav-item"><a title="PRODUTOS DA BIBLIOTECA MS" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-4595">PRODUTOS DA BIBLIOTECA MS</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-4595" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6307 nav-item"><a title="Boletins Temáticos" href="https://bvsms.saude.gov.br/boletins-tematicos/" class="dropdown-item">Boletins Temáticos</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3711 nav-item"><a title="Comutação Bibliográfica" href="https://bvsms.saude.gov.br/comutacao-bibliografica/" class="dropdown-item">Comutação Bibliográfica</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4609 nav-item"><a title="Pesquisa Bibliográfica e Pesquisa Legislativa" href="https://bvsms.saude.gov.br/pesquisa-bibliografica-e-pesquisa-legislativa/" class="dropdown-item">Pesquisa Bibliográfica e Pesquisa Legislativa</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-4610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4610 nav-item"><a title="Empréstimo / Devolução / Renovação" href="https://bvsms.saude.gov.br/emprestimo-devolucao-renovacao/" class="dropdown-item">Empréstimo / Devolução / Renovação</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3712 nav-item"><a title="REDE BIBLIOSUS" target="_blank" href="http://bibliosus.saude.gov.br/" class="nav-link">REDE BIBLIOSUS</a></li>
+</ul></div></div>
+</nav>
+<section class="margin4">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1 class="title1">Técnica usa anticorpos do sangue para detectar bactéria causadora da hanseníase</h1> <br>
+									<img width="300" height="169" src="https://bvsms.saude.gov.br/wp-content/uploads/2023/08/Noticia-310823-Novo-teste-sangue-para-hanseniase-300x169.jpg" class="img-fluid imgPost wp-post-image" alt="" loading="lazy" srcset="https://bvsms.saude.gov.br/wp-content/uploads/2023/08/Noticia-310823-Novo-teste-sangue-para-hanseniase-300x169.jpg 300w, https://bvsms.saude.gov.br/wp-content/uploads/2023/08/Noticia-310823-Novo-teste-sangue-para-hanseniase-1024x578.jpg 1024w, https://bvsms.saude.gov.br/wp-content/uploads/2023/08/Noticia-310823-Novo-teste-sangue-para-hanseniase-768x434.jpg 768w, https://bvsms.saude.gov.br/wp-content/uploads/2023/08/Noticia-310823-Novo-teste-sangue-para-hanseniase.jpg 1372w" sizes="(max-width: 300px) 100vw, 300px">					<p>&nbsp;</p>
+<p>Uma nova estratégia para diagnosticar a hanseníase, doença que o Brasil é o País com maior número de novos casos por habitante, é proposta em pesquisa da Faculdade de Medicina de Ribeirão Preto (FMRP) da USP. Testada em ensaios de laboratório, a técnica usa anticorpos presentes no sangue para identificar uma proteína da bactéria causadora da doença. O método fornece um diagnóstico mais preciso do que o baseado nas técnicas laboratoriais existentes, como, por exemplo, a realização de biópsias. O próximo passo da pesquisa é desenvolver tecnologias que permitam a realização do teste no local de atendimento dos pacientes.</p>
+<p>Os resultados são apresentados em <strong><a href="https://doi.org/10.3389/fmed.2023.1048759">artigo</a></strong> da revista científica Frontiers In Medicine. A hanseníase é uma doença infecciosa, de evolução crônica e tratável que tem como agentes as bactérias <em>Mycobacterium leprae </em>e<em> Mycobacterium lepromatosis.</em> “A sua transmissão ocorre por meio do contato com o paciente infectado através das mucosas do nariz e da boca nasal”, relata ao Jornal da USP o autor do estudo, o biomédico Filipe Rocha. “A bactéria compromete principalmente a pele e os nervos periféricos, podendo deixar graves sequelas quando não há tratamento precoce. Essa ausência leva ao surgimento de incapacidades físicas que podem evoluir para deformidades devido aos graves danos nos nervos causados pela bactéria. Assim, as principais sequelas serão perda parcial, ou total e irreversível da sensibilidade em mãos e pés ao calor, frio, dor e toque, atrofia muscular, dedos em garra, alterações nos movimentos e mutilações das extremidades do corpo. ”</p>
+<p>“O Brasil é classificado como País de alta endemicidade, sendo o primeiro do mundo em registros de novos casos por habitante e o segundo em novos infectados por ano, representando 93% do total de contágios dos países das Américas”, destaca Rocha. De acordo com o biomédico, em 2019, foram reportados à Organização Mundial da Saúde (OMS) 202.185 casos novos da doença no mundo. Desses, 29.936 (93%) ocorreram na região das Américas e 27.864 foram notificados no Brasil. Em 2022, mais de 17 mil casos de hanseníase foram notificados, sendo que com a pandemia da covid-19 houve uma redução de mais de 30% na notificação de casos novos, devido ao impacto na busca ativa de casos e nos programas de controle da doença. “A doença é um importante problema de saúde pública no País, que faz parte dos países prioritários na estratégia global de hanseníase. ”</p>
+<p>Segundo Rocha, as próximas etapas da pesquisa envolvem a aplicação dos resultados encontrados para a testagem em plataformas tecnológicas capazes de serem comercialmente disponibilizadas e desenvolvimento de ensaios de testes no ponto de atendimento (point of care). “Certamente, esses são os objetivos futuros após a consolidação de todas as etapas necessárias para confecção de um kit diagnóstico”, avalia. “O diagnóstico da hanseníase é um desafio técnico e prático, principalmente nos casos maculares iniciais e os predominantemente neurais. ”</p>
+<p>“O desenvolvimento tecnológico e o investimento científico na área das doenças negligenciadas, como a hanseníase, é fundamental para o controle da doença como problema de saúde pública nacional e sendo a prospecção de novos exames laboratoriais de maior sensibilidade uma proposta para eliminação das principais limitações no diagnóstico da doença”, salienta o pesquisador. “Assim, novos biomarcadores para alcance das metas da OMS na identificação dos casos iniciais e infectados e para a interrupção da transmissão bacilar satisfaz os pilares de execução das pesquisas com impacto social e retorno ao Sistema Único de Saúde (SUS). ”</p>
+<p>De acordo com o biomédico, o tratamento farmacológico da hanseníase é feito com poliquimioterapia única (PQT-U), que associa três antibióticos, rifampicina, dapsona e clofazimina. “O esquema terapêutico é usado por seis meses para casos iniciais e 12 meses para os pacientes com formas clínicas avançadas. O tratamento é disponibilizado de forma gratuita e a hanseníase tem cura”, observa. “Conforme definido pelo Ministério da Saúde, é necessário concluir adequadamente o tratamento para que ocorra a cura e para evitar o retorno da doença, novas contaminações e resistência aos medicamentos”.</p>
+<p>&nbsp;</p>
+<p><strong>Fonte</strong>:</p>
+<p><a href="https://jornal.usp.br/ciencias/tecnica-usa-anticorpos-do-sangue-para-detectar-bacteria-causadora-da-hanseniase/">Júlio Bernardes: Jornal da USP</a></p>
+			</div>
+		</div>
+	</div>
+</section>
+<div class="color1">
+<section class="padding1">
+	<div class="container">
+		<h2 class="title2">Notícias</h2>
+		<div class="slideNews">
+							<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/04-01-dia-da-abreugrafia-2/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>04/01 – Dia da Abreugrafia</h4>
+						<div class="slideNewsDate">1 semana atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/com-aumento-de-casos-ministerio-da-saude-atualiza-orientacoes-para-vigilancia-do-oropouche/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Com aumento de casos, Ministério da Saúde atualiza orientações para vigilância do Oropouche</h4>
+						<div class="slideNewsDate">2 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/02-de-janeiro-e-dia-do-sanitarista/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>02 de janeiro é “Dia do Sanitarista”</h4>
+						<div class="slideNewsDate">2 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/curso-de-aperfeicoamento-em-comunicacao-e-saude-icict-fiocruz-esta-com-inscricoes-abertas/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Curso de aperfeiçoamento em Comunicação e Saúde: ICICT/Fiocruz está com inscrições abertas</h4>
+						<div class="slideNewsDate">2 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/ultima-dica-em-saude-de-2024-publicada-na-bvsms-e-sobre-vista-cansada-presbiopia/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Última Dica em Saúde de 2024 publicada na BVSMS é sobre “Vista Cansada” (Presbiopia)</h4>
+						<div class="slideNewsDate">3 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/rolando-os-dados-fiocruz-lanca-podcast-sobre-direitos-das-pessoas-com-deficiencia/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>“Rolando os Dados” : Fiocruz lança podcast sobre Direitos das Pessoas com Deficiência</h4>
+						<div class="slideNewsDate">3 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/brasil-elimina-transmissao-da-filariose-linfatica-como-problema-de-saude-publica/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Brasil elimina transmissão da filariose linfática como problema de saúde pública</h4>
+						<div class="slideNewsDate">3 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/dicas-para-manter-a-saude-durante-as-celebracoes-de-natal-e-fim-de-ano/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Dicas para manter a saúde durante as celebrações de Natal e fim de ano</h4>
+						<div class="slideNewsDate">3 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/novo-relatorio-da-oms-revela-que-governos-estao-despriorizando-gastos-com-saude/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Novo relatório da OMS revela que governos estão despriorizando gastos com saúde</h4>
+						<div class="slideNewsDate">3 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/vacina-e-para-toda-vida-quarta-fase-da-campanha-tem-como-foco-o-tetano/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>“Vacina é para toda vida”: quarta fase da campanha tem como foco o tétano</h4>
+						<div class="slideNewsDate">4 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/programa-nacional-de-imunizacoes-atualiza-indicacoes-da-vacina-contra-rotavirus-humano-no-brasil/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Programa Nacional de Imunizações atualiza indicações da vacina contra Rotavírus humano no Brasil</h4>
+						<div class="slideNewsDate">4 semanas atrás</div>
+					</a>
+				</article>
+								<article class="slideNewsBox">
+					<a href="https://bvsms.saude.gov.br/tecnologia-assistiva-aplicativo-pode-ajudar-deficientes-auditivos-a-consumir-musica/">
+						<!-- <img src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/img/news1.jpg" alt="" class="img-fluid"> -->
+						<h4>Tecnologia assistiva: aplicativo pode ajudar deficientes auditivos a consumir música</h4>
+						<div class="slideNewsDate">4 semanas atrás</div>
+					</a>
+				</article>
+						</div>
+		<p class="text-center">
+			<a href="https://bvsms.saude.gov.br/noticias" class="btn btn-success">Ver todas</a>
+		</p>
+	</div>
+</section></div>
+
+<footer id="footer" class="padding1">
+	<div class="container">
+		<div class="row">
+
+			<nav class="col-md-6 col-lg-3 navFooter">
+				<ul class="list-unstyled"><li id="nav_menu-6" class="widget widget_nav_menu"><h5>Sobre a BVS</h5><div class="menu-sobre-a-bvs-footer-container"><ul id="menu-sobre-a-bvs-footer" class="menu"><li id="menu-item-3684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3684"><a href="https://bvsms.saude.gov.br/o-que-e-a-bvs-ms/">O que é a BVS</a></li>
+<li id="menu-item-3682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3682"><a href="https://bvsms.saude.gov.br/comite-consultivo/">Comitê Consultivo</a></li>
+<li id="menu-item-3681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3681"><a href="https://bvsms.saude.gov.br/outras-bvs/">Outras BVS</a></li>
+</ul></div></li>
+<li id="nav_menu-10" class="widget widget_nav_menu"><h5>Biblioteca MS</h5><div class="menu-servicos-da-biblioteca-footer-container"><ul id="menu-servicos-da-biblioteca-footer" class="menu"><li id="menu-item-3686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3686"><a href="https://bvsms.saude.gov.br/comutacao-bibliografica/">Comutação Bibliográfica</a></li>
+<li id="menu-item-4889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4889"><a href="https://bvsms.saude.gov.br/conheca-a-biblioteca/">Conheça a Biblioteca</a></li>
+</ul></div></li>
+</ul>
+			</nav>
+			<nav class="col-md-6 col-lg-3 navFooter">
+				<ul class="list-unstyled"><li id="nav_menu-7" class="widget widget_nav_menu"><h5>Produtos da BVS</h5><div class="menu-produtos-da-bvs-footer-container"><ul id="menu-produtos-da-bvs-footer" class="menu"><li id="menu-item-11343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11343"><a href="https://bvsms.saude.gov.br/category/informacao-para-a-saude/edicoes-2024/is-n-4-out-dez-2024/">Boletim Informação para a Saúde</a></li>
+<li id="menu-item-3693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3693"><a href="https://bvsms.saude.gov.br/datas-da-saude/">Datas da Saúde</a></li>
+<li id="menu-item-3696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3696"><a href="https://bvsms.saude.gov.br/galeria-dos-ministros/">Galeria dos Ministros</a></li>
+<li id="menu-item-6964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6964"><a href="https://bvsms.saude.gov.br/category/profissoes-da-saude/">Profissões da Saúde</a></li>
+<li id="menu-item-3699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3699"><a href="https://bvsms.saude.gov.br/disque-saude/">Telefones úteis</a></li>
+<li id="menu-item-3701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3701"><a href="https://bvsms.saude.gov.br/terminologia/">Terminologia</a></li>
+<li id="menu-item-10042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10042"><a href="https://bvsms.saude.gov.br/noticias/">Notícias</a></li>
+</ul></div></li>
+<li id="nav_menu-9" class="widget widget_nav_menu"><h5>Sites de Interesses</h5><div class="menu-sites-de-interesse-footer-container"><ul id="menu-sites-de-interesse-footer" class="menu"><li id="menu-item-3674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3674"><a target="_blank" rel="noopener" href="http://bibliosus.saude.gov.br/">Rede BiblioSUS</a></li>
+<li id="menu-item-3675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3675"><a target="_blank" rel="noopener" href="http://www.ccs.saude.gov.br/">Centro Cultural Ministério da Saúde</a></li>
+<li id="menu-item-3676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3676"><a target="_blank" rel="noopener" href="https://bvsalud.org/">Biblioteca Regional em Saúde</a></li>
+</ul></div></li>
+</ul>
+			</nav>
+			<nav class="col-md-6 col-lg-3 navFooter">
+				<ul class="list-unstyled"><li id="nav_menu-8" class="widget widget_nav_menu"><h5>Temas</h5><div class="menu-temas-footer-container"><ul id="menu-temas-footer" class="menu"><li id="menu-item-3661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3661"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATAC">Alta Complexidade</a></li>
+<li id="menu-item-3662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3662"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATAES">Arquitetura e Engenharia em Saúde</a></li>
+<li id="menu-item-3673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3673"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATCT">Ciência e Tecnologia em Saúde</a></li>
+<li id="menu-item-3672" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3672"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATDA">DST e Aids</a></li>
+<li id="menu-item-3671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3671"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATH">Humanização</a></li>
+<li id="menu-item-3670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3670"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATPCS">Participação e Controle Social</a></li>
+<li id="menu-item-3668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3668"><a target="_blank" rel="noopener" href="http://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bmh_cluster%5D%5B%5D=Promo%C3%A7%C3%A3o+da+Sa%C3%BAde">Promoção da Saúde</a></li>
+<li id="menu-item-3667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3667"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATSM">Saúde Mental</a></li>
+<li id="menu-item-3669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3669"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATSPN">Saúde da População Negra</a></li>
+<li id="menu-item-3666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3666"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATST">Saúde do Trabalhador</a></li>
+<li id="menu-item-3665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3665"><a target="_blank" rel="noopener" href="https://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bcollection_bvsms%5D%5B%5D=ATSS">Saúde Suplementar</a></li>
+<li id="menu-item-3664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3664"><a target="_blank" rel="noopener" href="http://pesquisa.bvsalud.org/bvsms/?fb=&amp;lang=pt&amp;home_url=http%3A%2F%2Fbvsms.saude.gov.br&amp;home_text=Biblioteca+Virtual+do+Minist%C3%A9rio+da+Sa%C3%BAde+-+BVS+MS&amp;q=&amp;where=&amp;filter%5Bmh_cluster%5D%5B%5D=Sistema+%C3%9Anico+de+Sa%C3%BAde">Sistema Único de Saúde</a></li>
+</ul></div></li>
+</ul>
+			</nav>
+			<div class="col-md-6 col-lg-3" id="footerSocial">
+				<ul class="list-unstyled"></ul>
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- seta up -->
+<div id="to-top" class="to-top d-print-none">
+	<span class="float-left">
+		<i class="fas fa-arrow-up"></i>
+	</span>
+</div>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-includes/js/wp-embed.min.js?ver=5.6.14" id="wp-embed-js"></script>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/js/bootstrap.min.js?ver=5.6.14" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/js/cookie.js?ver=5.6.14" id="cookie-js"></script>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/js/slick.min.js?ver=5.6.14" id="slick-js"></script>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/js/accessibility.js?ver=5.6.14" id="accessibility-js"></script>
+<script type="text/javascript" src="https://bvsms.saude.gov.br/wp-content/themes/bvs-ms-new/js/main.js?ver=5.6.14" id="main-js"></script>
+
+<script type="text/javascript">/* <![CDATA[ */
+$ = jQuery;
+$(document).ready(function() { 
+            inputval = $( ".vhl-search-submit" ).val();
+            $( "#vhl-search-input", this).focus(function() {
+                if (inputval == $(this).val())
+                {
+                    $(this).attr('value', '');
+                }
+            });
+            $( "#vhl-search-input", this ).blur(function() {
+                if (!$(this).val())
+                {
+                    $(this).attr('value', inputval);
+                }
+            });
+            $( "#searchForm", this ).submit(function() {
+                if ($(this).children('#vhl-search-input').val() == inputval)
+                {
+                    $(this).children('#vhl-search-input').attr('value', '');
+                }
+            });
+    
+});
+/* ]]> */</script>
+<noscript>Your browser does not support JavaScript!</noscript>
+
+ 
+        <script type="text/javascript">/* <![CDATA[ */
+            function vhl_clusters_open_cluster(cluster, field, url, lang) {
+                var f = document.createElement("form");
+                f.setAttribute('method',"get");
+                f.setAttribute('action', url);
+
+                var i = document.createElement("input");
+                i.setAttribute('type',"hidden");
+                i.setAttribute('name', "filter["+cluster+"][]");
+                i.setAttribute('value', field);
+                f.appendChild(i);
+
+                var l = document.createElement("input");
+                l.setAttribute('type',"hidden");
+                l.setAttribute('name', "lang");
+                l.setAttribute('value', lang);
+                f.appendChild(l);
+
+                document.body.appendChild(f);
+
+                f.submit();
+            }
+        /* ]]> */</script>
+        <noscript>Your browser does not support JavaScript!</noscript>
+
+        <style>
+            .vhl_clusters_2_columns {
+                width: 50%;
+                float: left;
+            }
+            .vhl_clusters_3_columns {
+                width: 33%;
+                float: left;
+            }
+        </style>
+
+    
+</body></html>

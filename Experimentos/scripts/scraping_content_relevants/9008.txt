@@ -1,0 +1,996 @@
+<html amp="" lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!--
+          All additionally used AMP components must be imported in the header.
+        -->
+    
+    
+    
+    
+    
+    <script async="" custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+
+    
+    <script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+
+    <link rel="canonical" href="https://report.az/en/other-countries/2-killed-47-fall-sick-as-cholera-outbreak-hits-southern-tanzania/">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <meta property="fb:app_id" content="556232207843315">
+    <title>2 killed, 47 fall sick as cholera outbreak hits southern Tanzania | Report.az</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic">
+    <link href="/public/images/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+    <script async="" src="https://cdn.ampproject.org/v0.js"></script>
+
+    <style amp-boilerplate="">
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }</style>
+    <noscript>
+        <style amp-boilerplate="">body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }</style>
+    </noscript>
+
+    <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "NewsArticle",
+                "mainEntityOfPage": "https://report.az/en/other-countries/2-killed-47-fall-sick-as-cholera-outbreak-hits-southern-tanzania/",
+                "headline": "2 killed, 47 fall sick as cholera outbreak hits southern Tanzania",
+                "datePublished": "2024-06-21T09:09:34+04:00",
+                "dateModified": "2024-12-22T05:04:06+04:00",
+                "description": "Two people have died from cholera and 47 others were admitted to isolated health centers in the past week in Masasi district, located in the Mtwara region of southern Tanzania",
+                "author": {
+                    "@type": "Person",
+                    "name": "Farman Abiyev "
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Report Information Agency",
+                    "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://report.az/public/images/logo-big.png",
+                    "width": 600,
+                    "height": 60
+                }
+                },
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "https://static.report.az/photo/f93ff6e7-de42-3b9f-ade7-f669a6d59167_850.jpg",
+                    "height": 477,
+                    "width": 675
+                }
+            }
+
+
+    </script>
+    <style amp-custom="">
+        /* Generic WP styling */
+        .alignright {
+            float: right;
+        }
+
+        .alignleft {
+            float: left;
+        }
+
+        .aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .amp-wp-enforced-sizes {
+            /** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+            max-width: 100%;
+            margin: 0 auto;
+        }
+
+        .amp-wp-unknown-size img {
+            /** Worst case scenario when we can't figure out dimensions for an image. **/
+            /** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+            object-fit: contain;
+        }
+
+        .header-logo amp-img {
+            background-color: #fff;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            position: absolute;
+            right: 18px;
+            top: 10px;
+        }
+
+        .author-photo amp-img {
+            border: 1px solid #194280;
+            border-radius: 50%;
+            position: relative;
+            margin-right: 6px;
+        }
+
+        amp-iframe {
+
+        }
+
+        /* Template Styles */
+
+        .amp-wp-content,
+        .amp-wp-title-bar div {
+            margin: 0 auto;
+            max-width: 600px;
+        }
+
+        body {
+            background: #fff;
+            color: #353535;
+            font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+            font-weight: 300;
+            line-height: 1.75em;
+        }
+
+        p,
+        ol,
+        ul,
+        figure {
+            margin: 0 0 1em;
+            padding: 0;
+        }
+
+        a,
+        a:visited {
+            color: #194280;
+        }
+
+        a:hover,
+        a:active,
+        a:focus {
+            color: #353535;
+        }
+
+        /* Quotes */
+
+        blockquote {
+            color: #353535;
+            background: rgba(127, 127, 127, .125);
+            border-left: 2px solid #194280;
+            margin: 8px 0 24px 0;
+            padding: 16px;
+        }
+
+        blockquote p:last-child {
+            margin-bottom: 0;
+        }
+
+        /* UI Fonts */
+
+        .amp-wp-meta,
+        .amp-wp-header div,
+        .amp-wp-title,
+        .wp-caption-text,
+        .amp-wp-tax-category,
+        .amp-wp-tax-tag,
+        .amp-wp-comments-link,
+        .amp-wp-footer p,
+        .back-to-top {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+        }
+
+        /* Header */
+
+        .amp-wp-header {
+            background-color: #162e52;
+        }
+
+        .amp-wp-header div {
+            color: #fff;
+            font-size: 1em;
+            font-weight: 400;
+            margin: 0 auto;
+            max-width: calc(840px - 32px);
+            padding: .875em 16px;
+            position: relative;
+        }
+
+        .amp-wp-header a {
+            color: #c2c3c7f0;
+            text-decoration: none;
+            font-size: 17px;
+            font-weight: 600;
+        }
+
+        /* Site Icon */
+
+        .amp-wp-header .amp-wp-site-icon {
+            /** site icon is 32px **/
+            background-color: #fff;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            position: absolute;
+            right: 18px;
+            top: 10px;
+        }
+
+        /* Article */
+
+        .amp-wp-article {
+            color: #353535;
+            font-weight: 400;
+            margin: 1.5em auto;
+            max-width: 840px;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+        }
+
+        /* Article Header */
+
+        .amp-wp-article-header {
+            align-items: center;
+            align-content: stretch;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin: 1.5em 16px 1.5em;
+        }
+
+        .amp-wp-title {
+            color: #353535;
+            display: block;
+            flex: 1 0 100%;
+            font-weight: 900;
+            margin: 0 0 .625em;
+            width: 100%;
+        }
+
+        /* Article Meta */
+
+        .amp-wp-meta {
+            color: #696969;
+            /* display: inline-block; */
+            /* flex: 2 1 50%; */
+            width: 100%;
+            font-size: .875em;
+            line-height: 1.5em;
+            margin: 0;
+            padding: 0;
+        }
+
+        .amp-wp-article-header .amp-wp-meta:first-of-type {
+            margin-bottom: 10px;
+        }
+
+        .amp-wp-byline amp-img,
+        .amp-wp-byline .amp-wp-author {
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        .amp-wp-byline amp-img {
+            border: 1px solid #194280;
+            border-radius: 50%;
+            position: relative;
+            margin-right: 6px;
+        }
+
+        /* Featured image */
+
+        .amp-wp-article-featured-image {
+            margin: 0 0 1em;
+        }
+
+        .amp-wp-article-featured-image amp-img {
+            margin: 0 auto;
+        }
+
+        .amp-wp-article-featured-image.wp-caption .wp-caption-text {
+            margin: 0 18px;
+        }
+
+        /* Article Content */
+
+        .amp-wp-article-content {
+            margin: 0 16px 15px 16px;
+        }
+
+        .amp-wp-article-content ul,
+        .amp-wp-article-content ol {
+            margin-left: 1em;
+        }
+
+        .amp-wp-article-content amp-img {
+            margin: 0 auto;
+        }
+
+        .amp-wp-article-content amp-img.alignright {
+            margin: 0 0 1em 16px;
+        }
+
+        .amp-wp-article-content amp-img.alignleft {
+            margin: 0 16px 1em 0;
+        }
+
+        /* Captions */
+
+        .wp-caption {
+            padding: 0;
+        }
+
+        .wp-caption.alignleft {
+            margin-right: 16px;
+        }
+
+        .wp-caption.alignright {
+            margin-left: 16px;
+        }
+
+        .wp-caption .wp-caption-text {
+            border-bottom: 1px solid #c2c2c2;
+            color: #696969;
+            font-size: .875em;
+            line-height: 1.5em;
+            margin: 0;
+            padding: .66em 10px .75em;
+        }
+
+        /* AMP Media */
+
+        amp-carousel {
+            /*        background: #c2c2c2;*/
+            margin: 0 -16px 1.5em;
+        }
+
+        amp-iframe,
+        amp-youtube,
+        amp-instagram,
+        amp-vine {
+            background: #c2c2c2;
+            margin: 0 -16px 1.5em;
+        }
+
+        .amp-wp-article-content amp-carousel amp-img {
+            border: none;
+        }
+
+        amp-carousel > amp-img > img {
+            object-fit: contain;
+        }
+
+        .amp-wp-iframe-placeholder {
+            background: #c2c2c2 url(/public/images/placeholder-icon.png) no-repeat center 40%;
+            background-size: 48px 48px;
+            min-height: 48px;
+        }
+
+        /* Article Footer Meta */
+
+        .amp-wp-article-footer .amp-wp-meta {
+            display: block;
+        }
+
+        .amp-wp-tax-category,
+        .amp-wp-tax-tag {
+            color: #696969;
+            font-size: .875em;
+            line-height: 1.5em;
+            margin: 1.5em 16px;
+        }
+
+        .amp-wp-comments-link {
+            color: #696969;
+            font-size: .875em;
+            line-height: 1.5em;
+            text-align: center;
+            margin: 2.25em 0 1.5em;
+        }
+
+        .amp-wp-comments-link a {
+            border-style: solid;
+            border-color: #c2c2c2;
+            border-width: 1px 1px 2px;
+            border-radius: 4px;
+            background-color: transparent;
+            color: #0a89c0;
+            cursor: pointer;
+            display: block;
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 18px;
+            margin: 0 auto;
+            max-width: 200px;
+            padding: 11px 16px;
+            text-decoration: none;
+            width: 50%;
+            -webkit-transition: background-color 0.2s ease;
+            transition: background-color 0.2s ease;
+        }
+
+        /* AMP Footer */
+
+        .amp-wp-footer {
+            border-top: 1px solid #c2c2c2;
+            margin: calc(1.5em - 1px) 0 0;
+        }
+
+        .amp-wp-footer div {
+            margin: 0 auto;
+            max-width: calc(840px - 32px);
+            padding: 0.4em 16px 0.4em;
+            position: relative;
+        }
+
+        .amp-wp-footer h2 {
+            font-size: 1em;
+            line-height: 1.375em;
+        }
+
+        .amp-wp-footer p {
+            color: #696969;
+            font-size: .8em;
+            line-height: 1.5em;
+            margin: 0 85px 0 0;
+        }
+
+        .amp-wp-footer a {
+            text-decoration: none;
+        }
+
+        .ssbp-list {
+            padding: 0 14px;
+            overflow: hidden;
+        }
+
+        .ssbp-list li {
+            list-style: none;
+            display: inline-block;
+            float: left;
+            width: 33.3%;
+            text-align: center;
+        }
+
+        .ssbp-list .ssbp-li--facebook a {
+            background: #3b5998;
+        }
+
+        .ssbp-list .ssbp-li--whatsapp a {
+            background: #34AF23;
+        }
+
+        .ssbp-list .ssbp-li--twitter a {
+            background: #00a9f1;
+        }
+
+        .ssbp-list li a {
+            padding: 3px;
+            border-radius: 4px;
+            margin: 0 3px;
+            display: block;
+            font-size: 12px;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        /* Inline styles */
+        .amp-wp-inline-157a53d27a33df354c1eba18855a0da5 {
+            max-width: 1600px;
+        }
+
+        .amp-wp-inline-51042a11e77fd5709c76b51534747d68 {
+            background-color: #ffffff;
+            border-color: #ffffff;
+            color: #000000;
+        }
+
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+            to {
+                visibility: visible
+            }
+        }
+
+        .amp-wp-article-content table {
+            width: 100%;
+            font-size: 13px;
+        }
+
+        .amp-wp-article-content table th,
+        .amp-wp-article-content table td {
+            padding: 0px 5px;
+            border: 1px #d8d7d773 solid;
+        }
+
+        .other-news {
+            margin-top: 30px;
+        }
+
+        .news-block {
+            display: flex;
+            margin: 0 0 15px 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+        }
+
+        .news-block a {
+            display: block;
+            text-decoration: none;
+        }
+
+        .news-block .image {
+            width: 160px;
+        }
+
+        .news-block amp-img {
+            max-width: 100%;
+        }
+
+        .news-block .info {
+            width: calc(100% - 160px);
+            padding: 0 0 0 15px;
+        }
+
+        .news-block .date {
+            color: #696969;
+            font-size: .875em;
+            line-height: 1.5em;
+        }
+
+        @media (max-width: 480px) {
+            .news-block a {
+                line-height: 1.4em;
+                font-size: 15px;
+            }
+
+            .news-block .image {
+                width: 120px;
+            }
+
+            .news-block .info {
+                width: calc(100% - 120px);
+                padding: 0 0 0 10px;
+            }
+        }
+
+        .post-image-box-big,
+        .post-image-box-small {
+            margin: 0 0 1em;
+        }
+
+        .post-image-box-small {
+            width: 292px;
+        }
+
+        .post-image-box-small.small-left {
+            float: left;
+            margin: 10px 10px 10px 0;
+        }
+
+        .post-image-box-small.small-right {
+            float: right;
+            margin: 10px 0 10px 10px;
+        }
+
+        .post-image-box-big .image-description {
+            width: 100%;
+            display: inline-block;
+            font-size: 13px;
+            font-family: arial;
+            color: gray;
+            line-height: 1.2;
+            text-align: center;
+        }
+
+        .post-image-box-small .image-description {
+            display: block;
+            font-size: 13px;
+            font-family: arial;
+            color: gray;
+            line-height: 1.2;
+            text-align: center;
+        }
+
+        .person.flex .thumb {
+            float: left;
+            width: 50px;
+            height: 50px;
+            margin: 5px;
+        }
+
+        .person.flex .he-is {
+            font-size: 14px;
+            line-height: 1.3;
+        }
+
+        .amp-wp-frame {
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+
+        amp-iframe[id*="rss_iframe_"] {
+            background: transparent;
+        }
+    </style>
+</head>
+
+<body class="amp-mode-mouse">
+
+<header id="#top" class="amp-wp-header">
+    <div class="header-logo">
+        <a href="/en/">
+            <amp-img src="/public/images/globus.gif" width="32" height="32"></amp-img>
+            Report News Agency        </a>
+    </div>
+</header>
+
+<article class="amp-wp-article">
+
+    <header class="amp-wp-article-header">
+        <h1 class="amp-wp-title">2 killed, 47 fall sick as cholera outbreak hits southern Tanzania</h1>
+        <div class="amp-wp-meta amp-wp-byline author-photo">
+            <amp-img src="https://static.report.az/photo/be9deb03-0887-3541-a38b-7bca6b8689c9_85.png" alt="Farman Abiyev " width="36" height="36" layout="fixed">
+            </amp-img>
+            <span class="amp-wp-author author vcard">
+                <strong>Farman Abiyev </strong>
+                <br>
+                Post's author            </span>
+        </div>
+
+        <div class="amp-wp-meta amp-wp-posted-on">
+            <time datetime="09:09">
+                21 June, 2024 / 09:09            </time>
+        </div>
+    </header>
+            <figure>
+            <amp-img src="https://static.report.az/photo/f93ff6e7-de42-3b9f-ade7-f669a6d59167_850.jpg" width="850" height="530" layout="responsive"></amp-img>
+        </figure>
+    
+    <div class="amp-wp-article-content">
+        <p>Two people have died from cholera and 47 others were admitted to isolated health centers in the past week in Masasi district, located in the Mtwara region of southern Tanzania, an official said, <a href="https://report.az/en/other-countries/2-killed-47-fall-sick-as-cholera-outbreak-hits-southern-tanzania/" target="_blank">Report</a> informs referring to Xinhua.</p>
+
+<p>Masasi District Commissioner Loutery Kanoni said that the outbreak occurred in Mbangala village, where two fatalities and 47 diagnoses were confirmed. Kanoni suggested that the acute water shortage affecting parts of the Masasi district might have contributed to the outbreak.</p>
+
+<p>According to the Ministry of Health, there have been 134 documented cholera outbreaks in 13 regions since January 5, 2024, resulting in 1,521 reported cases and 34 deaths.</p>
+
+            </div>
+
+    
+    <!-- counter image here -->
+
+    <ul class="ssbp-list">
+        <li class="ssbp-li--facebook">
+            <a href="http://www.facebook.com/sharer.php?u=https://report.az/en/other-countries/2-killed-47-fall-sick-as-cholera-outbreak-hits-southern-tanzania/" target="_blank" class="ssbp-btn ssbp-facebook">
+                <span class="ssbp-text">Facebook</span>
+            </a>
+        </li>
+        <li class="ssbp-li--whatsapp">
+            <a href="whatsapp://send?text=https://report.az/en/other-countries/2-killed-47-fall-sick-as-cholera-outbreak-hits-southern-tanzania/" target="_blank" class="ssbp-btn ssbp-whatsapp">
+                <span class="ssbp-text">WhatsApp</span>
+            </a>
+        </li>
+        <li class="ssbp-li--twitter">
+            <a href="https://twitter.com/share?url=https://report.az/en/other-countries/2-killed-47-fall-sick-as-cholera-outbreak-hits-southern-tanzania/&amp;text=2 killed, 47 fall sick as cholera outbreak hits southern Tanzania" target="_blank" class="ssbp-btn ssbp-twitter">
+                <span class="ssbp-text">Twitter</span>
+            </a>
+        </li>
+    </ul>
+
+    <!--  news feed  -->
+
+    <div class="amp-wp-article-content other-news">
+        <h3>Latest news</h3>
+
+        
+
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/foreign-politics/russian-foreign-minister-calls-relations-between-russia-and-azerbaijan-trustworthy/">
+                <amp-img src="https://static.report.az/photo/221a9bac-e6b6-369d-98df-789de93758f7_180.jpeg" alt="Russian Foreign Minister calls relations between Russia and Azerbaijan trustworthy" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/foreign-politics/russian-foreign-minister-calls-relations-between-russia-and-azerbaijan-trustworthy/" class="title">Russian Foreign Minister calls relations between Russia and Azerbaijan trustworthy</a>
+            <span class="date">14 January, 2025 / 14:50</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/lavrov-turkiye-offers-to-mediate-in-ukraine-talks/">
+                <amp-img src="https://static.report.az/photo/3ead9141-d21d-33eb-981c-399772499405_180.jpeg" alt="Lavrov: Türkiye offers to mediate in Ukraine talks" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/lavrov-turkiye-offers-to-mediate-in-ukraine-talks/" class="title">Lavrov: Türkiye offers to mediate in Ukraine talks</a>
+            <span class="date">14 January, 2025 / 14:41</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/lavrov-decision-to-begin-eu-accession-process-is-armenia-s-sovereign-choice/">
+                <amp-img src="https://static.report.az/photo/a33d0246-810d-32fe-8d35-a7afc9580277_180.jpeg" alt="Lavrov: Decision to begin EU accession process is Armenia's sovereign choice" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/lavrov-decision-to-begin-eu-accession-process-is-armenia-s-sovereign-choice/" class="title">Lavrov: Decision to begin EU accession process is Armenia's sovereign choice</a>
+            <span class="date">14 January, 2025 / 14:35</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/lavrov-visit-of-armenian-fm-may-take-place-soon/">
+                <amp-img src="https://static.report.az/photo/f4d3398d-3d77-33a9-a925-0fa54642c8ae_180.jpeg" alt="Lavrov: Visit of Armenian FM may take place soon" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/lavrov-visit-of-armenian-fm-may-take-place-soon/" class="title">Lavrov: Visit of Armenian FM may take place soon</a>
+            <span class="date">14 January, 2025 / 14:33</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/other-countries/lavrov-global-decolonization-not-complete/">
+                <amp-img src="https://static.report.az/photo/ea2f2afe-ea53-3a7f-8311-7b5ca4e7f5b1_180.jpeg" alt="Lavrov: Global decolonization not complete" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/other-countries/lavrov-global-decolonization-not-complete/" class="title">Lavrov: Global decolonization not complete</a>
+            <span class="date">14 January, 2025 / 14:29</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/finance/azerbaijan-posts-nearly-14-surge-in-tax-revenues-from-non-oil-gas-sector/">
+                <amp-img src="https://static.report.az/photo/6ded11b7-a8ba-3ff0-a3b1-de5af214c5e3_180.jpg" alt="Azerbaijan posts nearly 14% surge in tax revenues from non-oil, gas sector" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/finance/azerbaijan-posts-nearly-14-surge-in-tax-revenues-from-non-oil-gas-sector/" class="title">Azerbaijan posts nearly 14% surge in tax revenues from non-oil, gas sector</a>
+            <span class="date">14 January, 2025 / 14:27</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/internship-doctor-saves-life-of-passenger-on-board-qazaq-air-plane/">
+                <amp-img src="https://static.report.az/photo/a022596d-e621-3068-9250-0e14275b112c_180.jpg" alt="Internship doctor saves life of passenger on board Qazaq Air plane" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/internship-doctor-saves-life-of-passenger-on-board-qazaq-air-plane/" class="title">Internship doctor saves life of passenger on board Qazaq Air plane</a>
+            <span class="date">14 January, 2025 / 14:26</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/lavrov-calls-russia-armenia-relations-complicated/">
+                <amp-img src="https://static.report.az/photo/f6a226d2-1b07-3816-b888-d059626ba1e2_180.jpeg" alt="Lavrov calls Russia-Armenia relations complicated" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/lavrov-calls-russia-armenia-relations-complicated/" class="title">Lavrov calls Russia-Armenia relations complicated</a>
+            <span class="date">14 January, 2025 / 14:20</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/foreign-politics/khalid-taymur-akram-entry-into-d8-reveals-azerbaijan-s-rising-global-status/">
+                <amp-img src="https://static.report.az/photo/f17c78f5-51dc-378b-b5a8-ae2e59d3521a_180.jpg" alt="Khalid Taymur Akram: Entry into D8 reveals Azerbaijan's rising global status" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/foreign-politics/khalid-taymur-akram-entry-into-d8-reveals-azerbaijan-s-rising-global-status/" class="title">Khalid Taymur Akram: Entry into D8 reveals Azerbaijan's rising global status</a>
+            <span class="date">14 January, 2025 / 14:19</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/russian-iranian-presidents-to-hold-talks-in-moscow-on-friday/">
+                <amp-img src="https://static.report.az/photo/bf6800ff-042e-39b1-a58c-7e38ec0639de_180.jpg" alt="Russian, Iranian presidents to hold talks in Moscow on Friday" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/russian-iranian-presidents-to-hold-talks-in-moscow-on-friday/" class="title">Russian, Iranian presidents to hold talks in Moscow on Friday</a>
+            <span class="date">14 January, 2025 / 14:13</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/foreign-politics/lukashenko-appoints-new-belarusian-ambassador-to-azerbaijan/">
+                <amp-img src="https://static.report.az/photo/3c11beb6-693f-3a1f-a60a-ee230ff909ee_180.jpg" alt="Lukashenko appoints new Belarusian ambassador to Azerbaijan" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/foreign-politics/lukashenko-appoints-new-belarusian-ambassador-to-azerbaijan/" class="title">Lukashenko appoints new Belarusian ambassador to Azerbaijan</a>
+            <span class="date">14 January, 2025 / 14:07</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/nazir-text-of-armenia-s-new-constitution-should-be-ready-by-2026-elections/">
+                <amp-img src="https://static.report.az/photo/116504c9-1fc3-3051-bdee-a925bacfbea2_180.jpg" alt="Text of Armenia's new constitution expected to be ready by 2026 elections" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/nazir-text-of-armenia-s-new-constitution-should-be-ready-by-2026-elections/" class="title">Text of Armenia's new constitution expected to be ready by 2026 elections</a>
+            <span class="date">14 January, 2025 / 13:56</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/region/one-killed-several-injured-in-tbilisi-residential-building-explosion/">
+                <amp-img src="https://static.report.az/photo/a4b97712-5e6c-3bd4-8cb7-a2ee223d5a4c_180.jpg" alt="One killed, several injured in Tbilisi residential building explosion " width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/region/one-killed-several-injured-in-tbilisi-residential-building-explosion/" class="title">One killed, several injured in Tbilisi residential building explosion </a>
+            <span class="date">14 January, 2025 / 13:45</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/ecology/azerbaijan-weather-forecast-for-january-152025/">
+                <amp-img src="https://static.report.az/photo/f73992e0-1469-3098-9b0f-7fbdad11c626_180.jpg" alt="Azerbaijan weather forecast for January 15" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/ecology/azerbaijan-weather-forecast-for-january-152025/" class="title">Azerbaijan weather forecast for January 15</a>
+            <span class="date">14 January, 2025 / 13:39</span>
+        </div>
+    </div>
+    <div class="news-block">
+        <div class="image">
+            <a href="/en/amp/other-countries/11-year-old-boy-killed-in-stadium-shooting/">
+                <amp-img src="https://static.report.az/photo/42785848-5eca-3d38-86fd-73adb87429df_180.jpg" alt="11-year-old boy killed in stadium shooting" width="180" height="106" layout="responsive"></amp-img>
+            </a>
+        </div>
+        <div class="info">
+            <a href="/en/amp/other-countries/11-year-old-boy-killed-in-stadium-shooting/" class="title">11-year-old boy killed in stadium shooting</a>
+            <span class="date">14 January, 2025 / 13:28</span>
+        </div>
+    </div>
+
+    </div>
+
+    <amp-img src="https://report.az/images/views.png?id=2430905&amp;lang=en&amp;x=1736852097.1522" width="1" height="1"></amp-img></article>
+
+<footer class="amp-wp-footer">
+    <div>
+        <h2>Report News Agency</h2>
+    </div>
+</footer>
+
+<amp-analytics type="googleanalytics" config="https://amp.analytics-debugger.com/ga4.json" data-credentials="include">
+    <script type="application/json">
+        {
+            "vars": {
+                "GA4_MEASUREMENT_ID": "G-6Q9VSYGZRF",
+                "GA4_ENDPOINT_HOSTNAME": "www.google-analytics.com",
+                "DEFAULT_PAGEVIEW_ENABLED": true,
+                "GOOGLE_CONSENT_ENABLED": false,
+                "WEBVITALS_TRACKING": false,
+                "PERFORMANCE_TIMING_TRACKING": false
+            }
+        }
+    </script>
+</amp-analytics>
+
+<amp-analytics type="metrika">
+    <script type="application/json">
+        {
+            "vars": {
+                "counterId": "51449475"
+            }
+        }
+    </script>
+</amp-analytics>
+
+<amp-analytics id="analytics_liveinternet">
+    <script type="application/json">{
+            "requests": {
+                "pageview": "https://counter.yadro.ru/hit?u${ampdocUrl};r${documentReferrer};s${screenWidth}*${screenHeight}*32;h${title};${random}"
+            },
+            "triggers": {
+                "track pageview": {
+                    "on": "visible",
+                    "request": "pageview"
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+
+
+</body></html>

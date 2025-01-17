@@ -1,0 +1,1393 @@
+<html lang="pt-br"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+    <link rel="cannonical" href="https://www.cbnrecife.com/artigo/brasil-se-aproxima-de-4-mil-mortes-por-dengue">
+    <meta charset="utf-8">
+    <meta name="theme-color" content="#e11b22">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <link rel="icon" href="https://www.gncnews.com.br/assets/uploads/4ffcd75cedbe73df48a62f892b804392.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://www.gncnews.com.br/assets/uploads/4ffcd75cedbe73df48a62f892b804392.png" type="image/x-icon">
+
+        <meta name="author" content="Grupo Adapta / Agência de Marketing Digital, Criação de Sites, Loja Vitual em Caruaru, Recife, Brasil">
+    
+            
+<title>Brasil se aproxima de 4 mil mortes por dengue</title>
+<meta content="Brasil se aproxima de 4 mil mortes por dengue" name="title">
+<meta content="Pessoas com entre 20 e 29 anos são as mais afetadas" name="description">
+<meta content="" name="keywords">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Brasil se aproxima de 4 mil mortes por dengue">
+<meta property="og:image" content="https://www.gncnews.com.br/assets/uploads/7efaa25ef0d3aba78bd17c90f9928e02.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="450">
+<meta property="og:url" content="https://www.cbnrecife.com/artigo/brasil-se-aproxima-de-4-mil-mortes-por-dengue">
+<meta property="og:description" content="Pessoas com entre 20 e 29 anos são as mais afetadas">
+<meta property="article:published_time" content="2025-01-14T07:51:14-03:00">
+<meta property="article:modified_time" content="2025-01-14T07:51:14-03:00">
+<meta property="article:section" content="Pernambuco">
+        <link href="/webfiles/css/tema.min.css?v=15.7.5" rel="stylesheet">
+        <style>
+        .noticia-texto{
+            overflow : hidden;
+        }
+        .noticia-texto p img{
+            max-width : 100%;
+        }
+        .noticia-texto img{
+            max-width : 100%;
+        }
+        .noticia-texto figure{
+            float: left;
+            padding: 12px;
+            text-align: center;
+            background: #f2f2f2;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+        .noticia-texto figure figcaption{
+            margin-top : 7px;
+        }
+        hr{
+            margin-bottom : 10px;
+        }
+    </style>
+
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-4356077490976332",
+        enable_page_level_ads: true
+    });
+    </script>
+
+</head>
+
+<body>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+        var lazyloadImages;    
+
+        if ("IntersectionObserver" in window) {
+            lazyloadImages = document.querySelectorAll(".lazy");
+            var imageObserver = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(function(entry) {
+                if (entry.isIntersecting) {
+                var image = entry.target;
+                image.src = image.dataset.src;
+                image.classList.remove("lazy");
+                imageObserver.unobserve(image);
+                }
+            });
+            });
+
+            lazyloadImages.forEach(function(image) {
+            imageObserver.observe(image);
+            });
+        } else {  
+            var lazyloadThrottleTimeout;
+            lazyloadImages = document.querySelectorAll(".lazy");
+            
+            function lazyload () {
+            if(lazyloadThrottleTimeout) {
+                clearTimeout(lazyloadThrottleTimeout);
+            }    
+
+            lazyloadThrottleTimeout = setTimeout(function() {
+                var scrollTop = window.pageYOffset;
+                lazyloadImages.forEach(function(img) {
+                    if(img.offsetTop < (window.innerHeight + scrollTop)) {
+                    img.src = img.dataset.src;
+                    img.classList.remove('lazy');
+                    }
+                });
+                if(lazyloadImages.length == 0) { 
+                document.removeEventListener("scroll", lazyload);
+                window.removeEventListener("resize", lazyload);
+                window.removeEventListener("orientationChange", lazyload);
+                }
+            }, 20);
+            }
+
+            document.addEventListener("scroll", lazyload);
+            window.addEventListener("resize", lazyload);
+            window.addEventListener("orientationChange", lazyload);
+        }
+        });
+    </script>
+
+        <!-- Carrega (Analytics) -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                }
+                )(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-9332990-24', 'auto');
+                ga('send', 'pageview');
+    </script>
+    <!-- FIM ANALYTICS !-->
+    
+    <div id="fb-root"></div>
+        <script>
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id))
+                    return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.5&appId=";
+                fjs.parentNode.insertBefore(js, fjs);
+            } (document, 'script', 'facebook-jssdk'));
+        </script>
+    
+    <span class="back-menu"></span>
+    
+    <div id="app" style="position : relative">
+        <div class="player-radio">
+    <div class="loading">Carregando</div>
+    <div class="container">
+        <div class="actions">
+            <button type="button" class="btn btn-minimize">
+                <i class="ti-angle-down"></i>
+            </button>
+            <button type="button" class="btn btn-close">
+                <i class="ti-close"></i>
+            </button>
+        </div>
+        <div class="row">
+            <div class="col-md-3 col-pub col-xs-12">
+                            </div>
+            <div class="col-md-7 col-xs-12">
+                <div class="category-item bg-red">
+                    Recife Ao Vivo
+                </div>
+                <h4>CBN Recife</h4>
+                <div class="control-player">
+                    <button title="Parar" class="btn btn-start">
+                        <i class="ti-control-stop"></i>
+                    </button>
+                    <button title="-10S" class="btn btn-back">
+                        <i class="ti-control-backward"></i>
+                    </button>
+                    <button title="+10S" class="btn btn-next">
+                        <i class="ti-control-forward"></i>
+                    </button>
+                </div>
+                <div class="timer-player">
+                    <span class="start">00:00</span>
+                    <div>
+                        <div id="progressbar" class="progress"></div>
+                    </div>
+                    <span class="end">00:00</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="opacity : 0">
+        <div id="iframe-other"></div>
+        <iframe allow="autoplay" class="hidden" id="soundcloudframe" width="100%" height="450" frameborder="0"></iframe>
+    </div>
+</div>
+            <header id="menu-novo">
+        <div class="header-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 col-xs-12">
+                        <ul class="list-menu">
+                                                                                                <li>
+                                        <a class="blue" href="https://redeglobo.globo.com/pe/tvasabranca/" target="_blank">TV Asa Branca</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a class="red" href="https://g1.globo.com/pe/caruaru-regiao/" target="_blank">G1 Caruaru e Região</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a class="green" href="https://globoesporte.globo.com/pe" target="_blank">Globoesporte</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a class="red" href="https://www.cbncaruaru.com" target="_blank">Rádio CBN Caruaru</a>
+                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+                    </div>
+                    <div class="col-md-3 col-xs-12 text-xs-right coluna-flex">
+                                                    <a href="/conta/login" class="login">
+                                <img src="/webfiles/images/user-icon.png" alt="Usuário">
+                                <span>Minha Conta</span>
+                            </a>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="header-main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 menu-categorias coluna-d">
+                        <button type="button" class="btn-menu">
+                            <div class="icon">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                            <strong>Menu</strong>
+                        </button>
+                        <div class="categorias-box">
+                            <ul class="list-categories">
+                                <li data-key="2" class="with-sub">
+                                    <a class="link-princ" href="javascript:void(0)">
+                                        Notícias
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                    <ul class="sub">
+                                                                                    <li>
+                                                <a class="" href="/categoria/acontece">Acontece</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/artigos">Artigos</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/brasil">Brasil</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/cidade">Cidade</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/cinema">Cinema</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/covid-19">COVID-19</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/cultura">Cultura</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/dicas-e-orientacoes">Dicas e Orientações</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/economia">Economia</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/educacao">Educação</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/eleicoes">Eleições</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/emprego">Emprego</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/entretenimento">Entretenimento</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/esporte">Esportes</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/game">Game</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/luto">Luto</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/meio-ambiente">Meio Ambiente</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/mobilidade">Mobilidade</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/negocios">Negócios</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/noticias">Notícias</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/outubro-rosa">Outubro Rosa</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/pernambuco">Pernambuco</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/policial">Policial</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/politica">Política</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/projetos-e-eventos">Projetos e Eventos</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/recife">Recife</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/regiao-metropolitana">Região Metropolitana</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/saude">Saúde</a>
+                                            </li>
+                                                                                    <li>
+                                                <a class="" href="/categoria/tecnologia">Tecnologia</a>
+                                            </li>
+                                                                            </ul>
+                                </li>
+                                <li>
+                                    <a class="link-princ" href="/podcasts">Podcasts</a>
+                                </li>
+                                <li data-key="5" class="with-sub">
+                                    <a class="link-princ" href="javascript:void(0)">
+                                        Blogs
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                    <ul class="sub">
+                                            <li>
+        <a href="https://www.cbnrecife.com/aldovilela" target="_blank">Aldo Vilela</a>
+    </li>
+    <li>
+        <a href="https://www.cbnrecife.com/blogdoelielson/" target="_blank">Blog do Elielson</a>
+    </li>
+    <li>
+        <a href="https://leomedrado.com.br/" target="_blank">Léo Medrado</a>
+    </li>
+    <li>
+        <a href="https://www.cbnrecife.com/madeinbrasil" target="_blank">Made in Brasil</a>
+    </li>
+    <li>
+        <a href="https://www.cbnrecife.com/saudesuplementar" target="_blank">Saúde Suplementar</a>
+    </li>
+                                    </ul>
+                                </li>
+                                <li data-key="6" class="with-sub">
+                                    <a class="link-princ" href="javascript:void(0)">
+                                        Parceiros
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                    <ul class="sub">
+                                            <li>
+        <a href="https://jamildo.com/" target="_blank">Jamildo.com</a>
+    </li>
+    <li>
+        <a href="http://www.blogdoneylima.com.br/" target="_blank">Ney Lima</a>
+    </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a class="link-princ" href="/equipe">Equipe</a>
+                                </li>
+                                <li>
+                                    <a class="link-princ" href="/programacao">Programação</a>
+                                </li>
+                                <li>
+                                    <a class="link-princ" href="/comercial">Anuncie Conosco</a>
+                                </li>
+                                <li>
+                                    <a class="link-princ" href="/contato">Contato</a>
+                                </li>
+
+                            </ul>
+                            <ul class="list-categories bottom">
+                                <li>
+                                    <a class="link-princ" href="/quem-somos">Quem Somos</a>
+                                </li>
+                                <li>
+                                    <a class="link-princ" href="/politica-de-privacidade">Política de Privacidade</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="dropdown">
+                            <a class="btn-aovivo dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <div class="icone">
+                                    <i class="ti-control-play"></i>
+                                </div>
+                                <span>Ao Vivo</span>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a href="javascript:void(0)" data-item="{&quot;id&quot;:&quot;12&quot;,&quot;id_portal&quot;:&quot;2&quot;,&quot;title&quot;:&quot;CBN Recife&quot;,&quot;ref&quot;:&quot;radio-1&quot;,&quot;description&quot;:&quot;https:\/\/video09.logicahost.com.br\/cbnrecife\/cbnrecife\/playlist.m3u8&quot;,&quot;subtitle&quot;:&quot;105,7FM&quot;,&quot;icon&quot;:&quot;contato@cbnrecife.com&quot;,&quot;texto&quot;:&quot;<p>Participe via Whatsapp<\/p>\r\n&quot;,&quot;link&quot;:&quot;https:\/\/player.logicahost.com.br\/player.php?player=1434&quot;,&quot;keywords&quot;:&quot;81997491414&quot;}" data-type="live" data-link="https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8" class="dropdown-item btn-start-player">
+                                    <i class="ti-headphone"></i>
+                                    Ouvir
+                                </a>
+                                                                    <a href="/aovivo" class="dropdown-item">
+                                        <i class="ti-video-camera"></i>
+                                        Assistir
+                                    </a>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 coluna-flex">
+                        <a href="/" alt="PORTAL CBN RECIFE" class="logo">
+                            <img src="https://www.gncnews.com.br/assets/uploads/396b7fabb2c01f30e926b0b9c959676d.png" alt="PORTAL CBN RECIFE" title="PORTAL CBN RECIFE">
+                        </a>
+                    </div>
+                    <div class="col-md-4 coluna-teste">
+                        <form method="get" class="form-fixed" action="/portal/busca">
+                            <div class="form-content">
+                                <input type="text" placeholder="Buscar notícias..." name="query" required="" class="form-control">
+                                <button type="submit" class="btn">
+                                    <i class="ti-search"></i>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+        <div class="main">
+            <div class="clever-core-ads"></div>
+
+<article class="noticia-aberta m-t-3 m-b-3">
+    <div class="container">
+        <div class="row row-fixed">
+            <div class="col-xs-12 m-b-2 text-xs-center">
+
+                
+                                                                </div>
+            <div class="col-lg-8 col-md-12 col-sm-12 col-xs-12">
+                <div class="noticia-container-title">
+                    <div class="category-content">
+                        <a href="/categoria/pernambuco" class="category-item bg-red ">
+                            Pernambuco                        </a>
+                        <h1>Brasil se aproxima de 4 mil mortes por dengue</h1>
+                                            </div>
+                    <hr>
+                    <span class="author">
+                        <a href="/autor/redacao">
+                            <i class="ti-user"></i>
+                            Por: REDAÇÃO Portal                        </a>
+                    </span>
+                    <p>Pessoas com entre 20 e 29 anos são as mais afetadas</p>
+					<div class="box">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-12 col-xs-12">
+                                    <div class="infos">
+                                        <span class="data">
+                                            <strong>
+                                                <i class="ti-calendar"></i>
+                                                18/06/2024                                            </strong>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-xs-12 m-redes">
+                                    <ul class="redes-share">
+                                        <strong>Compartilhe: </strong>
+                                        <li><a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.cbnrecife.com/artigo/brasil-se-aproxima-de-4-mil-mortes-por-dengue', 'facebook-share-dialog', 'width=626,height=436'); return false;"><i class="fab fa-facebook"></i></a></li>
+                                        <li><a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=Brasil se aproxima de 4 mil mortes por dengue,   https://www.cbnrecife.com/artigo/brasil-se-aproxima-de-4-mil-mortes-por-dengue', 'twitter-share-dialog', 'width=626,height=436'); return false;"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="#" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.cbnrecife.com/artigo/brasil-se-aproxima-de-4-mil-mortes-por-dengue&amp;title=Brasil se aproxima de 4 mil mortes por dengue', 'Linkedin-share-dialog', 'width=626,height=436'); return false;"><i class="fab fa-linkedin"></i></a></li>
+                                        <li class=""><a target="_blank" href="https://api.whatsapp.com/send?text=https://www.cbnrecife.com/artigo/brasil-se-aproxima-de-4-mil-mortes-por-dengue" data-action="share/whatsapp/share"><i class="fab fa-whatsapp" aria-hidden="true"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						<hr>
+                    <div class="noticia-container m-b-2">
+                    
+                        
+                            <div class="noticia-imagem" style="position : relative">
+                                <img alt="Pessoas com entre 20 e 29 anos são as mais afetadas" title="Brasil se aproxima de 4 mil mortes por dengue" src="https://gncnews.com.br/img/crop?img=7efaa25ef0d3aba78bd17c90f9928e02.jpg&amp;w=800&amp;h=400&amp;fit=crop&amp;fm=jpq&amp;q=90">
+                            </div>
+
+                        
+                                                            <div class="linha-fotografo" style="margin-top : 5px">
+                        <p style="font-size : 15px">Foto: <strong>Agência Brasil</strong></p>
+                    </div>
+                                            
+                        <div class="noticia-texto">
+                            <p>O Ministério da Saúde contabiliza 5.968.224 casos prováveis de dengue (confirmados + em investigação)&nbsp;e 3.910 mortes confirmadas pela doença ao longo de 2024. O coeficiente de incidência da dengue no Brasil, neste momento, é de 2.939 casos para cada 100 mil habitantes.</p>
+
+<p>E os jovens, com idade entre 20 e 29 anos, seguem respondendo pela maior parte dos casos de dengue. Já as faixas etárias que respondem pelos menores percentuais de casos da doença são menores de um ano; 80 anos ou mais; e de um a quatro anos.</p>
+
+<p>O painel contabiliza, ainda, 220.828 casos prováveis de chikungunya. Em 2024, a doença responde por 121 mortes confirmadas. Já em relação à zika, os dados do painel contabilizam 8.466 casos prováveis em 2024, sem mortes confirmadas.</p>
+
+<p><em><strong>Com apuração da repórter Taynã Olimpia e informações da Agência Brasil.</strong></em></p>
+                        </div>
+                    </div>
+                </div>
+                <h4 class="title-black m-default">Notícias Relacionadas</h4>
+                <div class="owl-two-articles m-default owl-carousel owl-theme">
+                                            
+
+<div class="noticia-item">
+    <a href="/categoria/pernambuco" class="category-item m-b-1 bg-red ">
+        Pernambuco    </a>
+    <div class="imagem">
+        <a href="/artigo/apac-renova-aviso-de-chuva-para-regioes-de-pernambuco">
+            <picture>
+                <source srcset="https://gncnews.com.br/img/crop?img=bd723a26f587a80de6081ab83b5000b8.png&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=webp&amp;q=90" type="image/webp">
+                <source srcset="https://gncnews.com.br/img/crop?img=bd723a26f587a80de6081ab83b5000b8.png&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" type="image/jpeg"> 
+                <img src="https://gncnews.com.br/img/crop?img=bd723a26f587a80de6081ab83b5000b8.png&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" alt="Apac renova aviso de chuva para regiões de Pernambuco">
+            </picture>
+        </a>
+    </div>
+    <div class="info">
+        <ul>
+            <li>
+                <a href="/autor/redacao">
+                    <span>Por</span>
+                    REDAÇÃO                </a>
+            </li>
+            <li>
+                <span>
+                    <i class="ti-calendar" aria-hidden="true"></i>
+                </span>
+                13/01/2025            </li>
+        </ul>
+        <h4><a href="/artigo/apac-renova-aviso-de-chuva-para-regioes-de-pernambuco">Apac renova aviso de chuva para regiões de Pernambuco</a></h4>
+        <p></p>
+        <div class="data">
+            <div class="left">
+                            </div>
+            <div class="right">
+                <a href="javascript:void(0);" class="abreRedes"><i class="ti-share"></i></a>
+                <div class="redes-noticias" style="display: none">
+                    <a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.cbnrecife.com/artigo/apac-renova-aviso-de-chuva-para-regioes-de-pernambuco', 'facebook-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="javascript:void(0)" onclick="window.open('https://twitter.com/intent/tweet?text=Apac renova aviso de chuva para regiões de Pernambuco,https://www.cbnrecife.com/artigo/apac-renova-aviso-de-chuva-para-regioes-de-pernambuco', 'twitter-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?text=https://www.cbnrecife.com/artigo/apac-renova-aviso-de-chuva-para-regioes-de-pernambuco" data-action="share/whatsapp/share">
+                        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    </a>
+                    <a href="javascript:void(0);" class="fechaRedes"><i class="ti-close"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                            
+
+<div class="noticia-item">
+    <a href="/categoria/pernambuco" class="category-item m-b-1 bg-red ">
+        Pernambuco    </a>
+    <div class="imagem">
+        <a href="/artigo/rmr-e-zona-da-mata-entram-em-estado-de-atencao-devido-as-chuvas">
+            <picture>
+                <source srcset="https://gncnews.com.br/img/crop?img=c192b2974d278a46e541403805a0e9e5.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=webp&amp;q=90" type="image/webp">
+                <source srcset="https://gncnews.com.br/img/crop?img=c192b2974d278a46e541403805a0e9e5.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" type="image/jpeg"> 
+                <img src="https://gncnews.com.br/img/crop?img=c192b2974d278a46e541403805a0e9e5.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" alt="RMR e Zona da Mata entram em estado de atenção devido às chuvas">
+            </picture>
+        </a>
+    </div>
+    <div class="info">
+        <ul>
+            <li>
+                <a href="/autor/redacao">
+                    <span>Por</span>
+                    REDAÇÃO                </a>
+            </li>
+            <li>
+                <span>
+                    <i class="ti-calendar" aria-hidden="true"></i>
+                </span>
+                13/01/2025            </li>
+        </ul>
+        <h4><a href="/artigo/rmr-e-zona-da-mata-entram-em-estado-de-atencao-devido-as-chuvas">RMR e Zona da Mata entram em estado de atenção devido às chuvas</a></h4>
+        <p> Nas últimas 12h, no Recife, choveu 118,3mm, de acordo com a Apac</p>
+        <div class="data">
+            <div class="left">
+                            </div>
+            <div class="right">
+                <a href="javascript:void(0);" class="abreRedes"><i class="ti-share"></i></a>
+                <div class="redes-noticias" style="display: none">
+                    <a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.cbnrecife.com/artigo/rmr-e-zona-da-mata-entram-em-estado-de-atencao-devido-as-chuvas', 'facebook-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="javascript:void(0)" onclick="window.open('https://twitter.com/intent/tweet?text=RMR e Zona da Mata entram em estado de atenção devido às chuvas,https://www.cbnrecife.com/artigo/rmr-e-zona-da-mata-entram-em-estado-de-atencao-devido-as-chuvas', 'twitter-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?text=https://www.cbnrecife.com/artigo/rmr-e-zona-da-mata-entram-em-estado-de-atencao-devido-as-chuvas" data-action="share/whatsapp/share">
+                        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    </a>
+                    <a href="javascript:void(0);" class="fechaRedes"><i class="ti-close"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                            
+
+<div class="noticia-item">
+    <a href="/categoria/pernambuco" class="category-item m-b-1 bg-red ">
+        Pernambuco    </a>
+    <div class="imagem">
+        <a href="/artigo/cro-pe-inaugura-nova-sede-no-bairro-do-rosarinho-no-recife">
+            <picture>
+                <source srcset="https://gncnews.com.br/img/crop?img=0b46a85d2c72d36baa28f7bd62e16f41.jpeg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=webp&amp;q=90" type="image/webp">
+                <source srcset="https://gncnews.com.br/img/crop?img=0b46a85d2c72d36baa28f7bd62e16f41.jpeg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" type="image/jpeg"> 
+                <img src="https://gncnews.com.br/img/crop?img=0b46a85d2c72d36baa28f7bd62e16f41.jpeg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" alt="CRO-PE inaugura nova sede no bairro do Rosarinho, no Recife">
+            </picture>
+        </a>
+    </div>
+    <div class="info">
+        <ul>
+            <li>
+                <a href="/autor/redacao">
+                    <span>Por</span>
+                    REDAÇÃO                </a>
+            </li>
+            <li>
+                <span>
+                    <i class="ti-calendar" aria-hidden="true"></i>
+                </span>
+                10/01/2025            </li>
+        </ul>
+        <h4><a href="/artigo/cro-pe-inaugura-nova-sede-no-bairro-do-rosarinho-no-recife">CRO-PE inaugura nova sede no bairro do Rosarinho, no Recife</a></h4>
+        <p> O espaço, que ocupa o mesmo endereço desde 1996, foi completamente...</p>
+        <div class="data">
+            <div class="left">
+                            </div>
+            <div class="right">
+                <a href="javascript:void(0);" class="abreRedes"><i class="ti-share"></i></a>
+                <div class="redes-noticias" style="display: none">
+                    <a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.cbnrecife.com/artigo/cro-pe-inaugura-nova-sede-no-bairro-do-rosarinho-no-recife', 'facebook-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="javascript:void(0)" onclick="window.open('https://twitter.com/intent/tweet?text=CRO-PE inaugura nova sede no bairro do Rosarinho, no Recife,https://www.cbnrecife.com/artigo/cro-pe-inaugura-nova-sede-no-bairro-do-rosarinho-no-recife', 'twitter-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?text=https://www.cbnrecife.com/artigo/cro-pe-inaugura-nova-sede-no-bairro-do-rosarinho-no-recife" data-action="share/whatsapp/share">
+                        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    </a>
+                    <a href="javascript:void(0);" class="fechaRedes"><i class="ti-close"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                            
+
+<div class="noticia-item">
+    <a href="/categoria/pernambuco" class="category-item m-b-1 bg-red ">
+        Pernambuco    </a>
+    <div class="imagem">
+        <a href="/artigo/programa-chapeu-de-palha-comeca-cadastramento-de-beneficiarios-no-sertao-de-pernambuco">
+            <picture>
+                <source srcset="https://gncnews.com.br/img/crop?img=42e93fa22999f71546c797db7af9fbb5.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=webp&amp;q=90" type="image/webp">
+                <source srcset="https://gncnews.com.br/img/crop?img=42e93fa22999f71546c797db7af9fbb5.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" type="image/jpeg"> 
+                <img src="https://gncnews.com.br/img/crop?img=42e93fa22999f71546c797db7af9fbb5.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" alt="Programa Chapéu de Palha começa cadastramento de beneficiários no Sertão de Pernambuco">
+            </picture>
+        </a>
+    </div>
+    <div class="info">
+        <ul>
+            <li>
+                <a href="/autor/redacao">
+                    <span>Por</span>
+                    REDAÇÃO                </a>
+            </li>
+            <li>
+                <span>
+                    <i class="ti-calendar" aria-hidden="true"></i>
+                </span>
+                10/01/2025            </li>
+        </ul>
+        <h4><a href="/artigo/programa-chapeu-de-palha-comeca-cadastramento-de-beneficiarios-no-sertao-de-pernambuco">Programa Chapéu de Palha começa cadastramento de beneficiários no Sertão de Pernambuco</a></h4>
+        <p>Processo segue aberto até a sexta-feira (17)</p>
+        <div class="data">
+            <div class="left">
+                            </div>
+            <div class="right">
+                <a href="javascript:void(0);" class="abreRedes"><i class="ti-share"></i></a>
+                <div class="redes-noticias" style="display: none">
+                    <a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.cbnrecife.com/artigo/programa-chapeu-de-palha-comeca-cadastramento-de-beneficiarios-no-sertao-de-pernambuco', 'facebook-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="javascript:void(0)" onclick="window.open('https://twitter.com/intent/tweet?text=Programa Chapéu de Palha começa cadastramento de beneficiários no Sertão de Pernambuco,https://www.cbnrecife.com/artigo/programa-chapeu-de-palha-comeca-cadastramento-de-beneficiarios-no-sertao-de-pernambuco', 'twitter-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?text=https://www.cbnrecife.com/artigo/programa-chapeu-de-palha-comeca-cadastramento-de-beneficiarios-no-sertao-de-pernambuco" data-action="share/whatsapp/share">
+                        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    </a>
+                    <a href="javascript:void(0);" class="fechaRedes"><i class="ti-close"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                            
+
+<div class="noticia-item">
+    <a href="/categoria/pernambuco" class="category-item m-b-1 bg-red ">
+        Pernambuco    </a>
+    <div class="imagem">
+        <a href="/artigo/secretario-de-educacao-do-estado-renuncia-cargo-para-focar-na-familia-em-sao-paulo">
+            <picture>
+                <source srcset="https://gncnews.com.br/img/crop?img=90988398e7077de1eafd98ee504f28e2.png&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=webp&amp;q=90" type="image/webp">
+                <source srcset="https://gncnews.com.br/img/crop?img=90988398e7077de1eafd98ee504f28e2.png&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" type="image/jpeg"> 
+                <img src="https://gncnews.com.br/img/crop?img=90988398e7077de1eafd98ee504f28e2.png&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" alt="Secretário de Educação do Estado renuncia cargo para focar na família, em São Paulo">
+            </picture>
+        </a>
+    </div>
+    <div class="info">
+        <ul>
+            <li>
+                <a href="/autor/redacao">
+                    <span>Por</span>
+                    REDAÇÃO                </a>
+            </li>
+            <li>
+                <span>
+                    <i class="ti-calendar" aria-hidden="true"></i>
+                </span>
+                09/01/2025            </li>
+        </ul>
+        <h4><a href="/artigo/secretario-de-educacao-do-estado-renuncia-cargo-para-focar-na-familia-em-sao-paulo">Secretário de Educação do Estado renuncia cargo para focar na família, em São Paulo</a></h4>
+        <p>Decisão foi anunciada nesta quinta-feira (09) pelo Governo de Pernambuco</p>
+        <div class="data">
+            <div class="left">
+                            </div>
+            <div class="right">
+                <a href="javascript:void(0);" class="abreRedes"><i class="ti-share"></i></a>
+                <div class="redes-noticias" style="display: none">
+                    <a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.cbnrecife.com/artigo/secretario-de-educacao-do-estado-renuncia-cargo-para-focar-na-familia-em-sao-paulo', 'facebook-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="javascript:void(0)" onclick="window.open('https://twitter.com/intent/tweet?text=Secretário de Educação do Estado renuncia cargo para focar na família, em São Paulo,https://www.cbnrecife.com/artigo/secretario-de-educacao-do-estado-renuncia-cargo-para-focar-na-familia-em-sao-paulo', 'twitter-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?text=https://www.cbnrecife.com/artigo/secretario-de-educacao-do-estado-renuncia-cargo-para-focar-na-familia-em-sao-paulo" data-action="share/whatsapp/share">
+                        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    </a>
+                    <a href="javascript:void(0);" class="fechaRedes"><i class="ti-close"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                            
+
+<div class="noticia-item">
+    <a href="/categoria/pernambuco" class="category-item m-b-1 bg-red ">
+        Pernambuco    </a>
+    <div class="imagem">
+        <a href="/artigo/governo-de-pernambuco-abre-dois-editais-de-fomento-e-incentivo-ao-esporte-para-2025">
+            <picture>
+                <source srcset="https://gncnews.com.br/img/crop?img=0bdaeb29a4a57b8f6806022cda846e76.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=webp&amp;q=90" type="image/webp">
+                <source srcset="https://gncnews.com.br/img/crop?img=0bdaeb29a4a57b8f6806022cda846e76.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" type="image/jpeg"> 
+                <img src="https://gncnews.com.br/img/crop?img=0bdaeb29a4a57b8f6806022cda846e76.jpg&amp;w=360&amp;h=360&amp;fit=crop&amp;fm=jpg&amp;q=90" alt="Governo de Pernambuco abre dois editais de fomento e incentivo ao esporte para 2025">
+            </picture>
+        </a>
+    </div>
+    <div class="info">
+        <ul>
+            <li>
+                <a href="/autor/redacao">
+                    <span>Por</span>
+                    REDAÇÃO                </a>
+            </li>
+            <li>
+                <span>
+                    <i class="ti-calendar" aria-hidden="true"></i>
+                </span>
+                09/01/2025            </li>
+        </ul>
+        <h4><a href="/artigo/governo-de-pernambuco-abre-dois-editais-de-fomento-e-incentivo-ao-esporte-para-2025">Governo de Pernambuco abre dois editais de fomento e incentivo ao esporte para 2025</a></h4>
+        <p>Investimentos superam R$ 25 milhões em edital e programas de bolsas</p>
+        <div class="data">
+            <div class="left">
+                            </div>
+            <div class="right">
+                <a href="javascript:void(0);" class="abreRedes"><i class="ti-share"></i></a>
+                <div class="redes-noticias" style="display: none">
+                    <a href="javascript:void(0)" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.cbnrecife.com/artigo/governo-de-pernambuco-abre-dois-editais-de-fomento-e-incentivo-ao-esporte-para-2025', 'facebook-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="javascript:void(0)" onclick="window.open('https://twitter.com/intent/tweet?text=Governo de Pernambuco abre dois editais de fomento e incentivo ao esporte para 2025,https://www.cbnrecife.com/artigo/governo-de-pernambuco-abre-dois-editais-de-fomento-e-incentivo-ao-esporte-para-2025', 'twitter-share-dialog', 'width=626,height=436'); return false;">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a target="_blank" href="https://api.whatsapp.com/send?text=https://www.cbnrecife.com/artigo/governo-de-pernambuco-abre-dois-editais-de-fomento-e-incentivo-ao-esporte-para-2025" data-action="share/whatsapp/share">
+                        <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                    </a>
+                    <a href="javascript:void(0);" class="fechaRedes"><i class="ti-close"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+                                    </div>
+                <h4 class="title-black">Comente com o Facebook</h4>
+                <div class="comentarios m-default">
+                    <div class="headding-border vermelho" style="margin-bottom : 20px !important"></div>
+                    <div class="fb-comments" data-href="https://www.cbnrecife.com/artigo/brasil-se-aproxima-de-4-mil-mortes-por-dengue" data-width="100%" data-numposts="10"></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 m-t-ipad m-t-mobile">
+                <div id="sidebar" class="sidebar">
+					<iframe id="wppas_zone" frameborder="0" src="https://ads.jointdigital.com.br/?wppaszoneid=21" width="350" height="200" scrolling="no"></iframe>
+					                                                                                                
+                     <h4 class="title-black mt-default m-b-2" style="padding-top: 20px;">Fale com a CBN Recife</h4>
+                        <div class="card-block box-phones m-b-2" style="background : #fff;border-radius : 6px">
+    <p><strong>REDAÇÃO</strong>&nbsp;(81) 3035-9719</p>
+
+<p><strong>REDAÇÃO</strong>&nbsp;(81) 3035-9720</p>
+
+<p><strong>REDAÇÃO</strong>&nbsp;(81) 3035-9727</p>
+
+<p style="text-align:center">Você pode&nbsp;interagir com a CBN RECIFE enviando informações via texto, foto e gravações de áudio em tempo real.<br>
+<a href="https://api.whatsapp.com/send?phone=5581997491414" target="_blank"><strong>ENVIE&nbsp;UM WHATSAPP</strong></a></p>
+</div>                        <div class="side-aovivo m-default">
+    <!-- Tab panes -->
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane fade in active show" id="radio-1">
+            <div class="radio-item">
+                <div class="title">
+                    CBN Recife | 105,7FM                </div>
+                <div class="content">
+                    <span>Ao vivo</span>
+                    <h2>CBN Recife</h2>
+                    <div class="links">
+                                                <a href="javascript:void(0)" class="btn-start-player" data-type="live" data-item="{&quot;id&quot;:&quot;12&quot;,&quot;id_portal&quot;:&quot;2&quot;,&quot;title&quot;:&quot;CBN Recife&quot;,&quot;ref&quot;:&quot;radio-1&quot;,&quot;description&quot;:&quot;https:\/\/video09.logicahost.com.br\/cbnrecife\/cbnrecife\/playlist.m3u8&quot;,&quot;subtitle&quot;:&quot;105,7FM&quot;,&quot;icon&quot;:&quot;contato@cbnrecife.com&quot;,&quot;texto&quot;:&quot;<p>Participe via Whatsapp<\/p>\r\n&quot;,&quot;link&quot;:&quot;https:\/\/player.logicahost.com.br\/player.php?player=1434&quot;,&quot;keywords&quot;:&quot;81997491414&quot;}" data-link="https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8">
+                            <i class="ti-headphone"></i>
+                            Ouvir
+                        </a>
+                                                                            <a class="" href="/aovivo">
+                                <i class="ti-video-camera"></i>
+                                Assistir
+                            </a>
+                                            </div>
+                    <div class="fale">
+                        <p><i class="ti-email"></i> Fale Com:</p>
+                        <a href="/cdn-cgi/l/email-protection#680b07061c091c07280b0a061a0d0b010e0d460b0705"><span class="__cf_email__" data-cfemail="482b27263c293c27082b2a263a2d2b212e2d662b2725">[email&nbsp;protected]</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" href="#radio-1" role="tab" data-toggle="tab">CBN Recife |
+                105,7FM            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="https://www.cbncaruaru.com">CBN Caruaru |
+                89,9FM            </a>
+        </li>
+    </ul>
+</div>                    
+                        <h4 class="title-black m-default m-b-2">Redes Sociais</h4>
+<ul class="list-redes">
+    <li>
+        <a href="https://api.whatsapp.com/send?phone=5581997491414" target="_blank">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </li>
+            <li>
+            <a href="https://www.instagram.com/cbnrecife/" target="_blank">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </li>
+            <li>
+            <a href="https://twitter.com/cbnrecife" target="_blank">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.facebook.com/profile.php?id=100086625845107" target="_blank">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+            <li>
+            <a href="https://www.youtube.com/c/CBNRecifePE" target="_blank">
+                <i class="fab fa-youtube"></i>
+            </a>
+        </li>
+    </ul>                    
+                    <iframe id="wppas_zone" frameborder="0" src="https://ads.jointdigital.com.br/?wppaszoneid=738" width="350" height="200" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" type="text/javascript" id="clever-core">
+/* <![CDATA[ */
+    (function (document, window) {
+        var a, c = document.createElement("script"), f = window.frameElement;
+
+        c.id = "CleverCoreLoader65434";
+        c.src = "https://scripts.cleverwebserver.com/fd542c44cb1bb4a626d03b2e39736b45.js";
+
+        c.async = !0;
+        c.type = "text/javascript";
+        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+        c.setAttribute("data-callback", "put-your-callback-function-here");
+        c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+        c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+        
+
+        try {
+            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+        } catch (e) {
+            a = !1;
+        }
+
+        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+        a.parentNode.insertBefore(c, a);
+    })(document, window);
+/* ]]> */
+</script>
+        </div>    
+        <footer>
+    <div class="footer-main">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 m-t-mobile col-sm-6 col-xs-12">
+                    <h4>Facebook</h4>
+                                        <div class="fb-page" data-href="https://www.facebook.com/profile.php?id=100086625845107" data-height="220" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                        <blockquote cite="https://www.facebook.com/profile.php?id=100086625845107" class="fb-xfbml-parse-ignore">
+                            <a href="https://www.facebook.com/profile.php?id=100086625845107">Facebook</a>
+                        </blockquote>
+                    </div>
+                    <ul class="list-redes">
+                        <li>
+                            <a href="https://api.whatsapp.com/send?phone=5581997491414" target="_blank">
+                                <i class="fab fa-whatsapp"></i>
+                            </a>
+                        </li>
+                                                    <li>
+                                <a href="https://www.instagram.com/cbnrecife/" target="_blank">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a href="https://twitter.com/cbnrecife" target="_blank">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.facebook.com/profile.php?id=100086625845107" target="_blank">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.youtube.com/c/CBNRecifePE" target="_blank">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+                <div class="col-md-4 m-t-mobile col-sm-6 col-xs-12">
+                    <h4>Menus</h4>
+                    <ul class="list-links">
+                                                                                                                                                                                                                                                                                                                                                                                                            <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/quem-somos">Quem Somos</a>
+                                </li>
+                                                                                                                <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/equipe">Equipe</a>
+                                </li>
+                                                                                                                <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/programacao">Programação</a>
+                                </li>
+                                                                                                                <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/comercial">Anuncie Conosco</a>
+                                </li>
+                                                                                                                <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/contato">Contato</a>
+                                </li>
+                                                                                                                <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/whatsapp">Serviços - Whatsapp</a>
+                                </li>
+                                                                                                                <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/politica-de-privacidade">Política de Privacidade</a>
+                                </li>
+                                                                                                                <li>
+                                    <a target="_self" href="https://www.cbnrecife.com/principios-editoriais">Princípios Editoriais</a>
+                                </li>
+                                                                        </ul>
+                </div>
+                <div class="col-md-4 m-t-mobile col-sm-6 col-xs-12">
+                    <h4>Blogs</h4>
+                    <ul class="list-links">
+                            <li>
+        <a href="https://www.cbnrecife.com/aldovilela" target="_blank">Aldo Vilela</a>
+    </li>
+    <li>
+        <a href="https://www.cbnrecife.com/blogdoelielson/" target="_blank">Blog do Elielson</a>
+    </li>
+    <li>
+        <a href="https://leomedrado.com.br/" target="_blank">Léo Medrado</a>
+    </li>
+    <li>
+        <a href="https://www.cbnrecife.com/madeinbrasil" target="_blank">Made in Brasil</a>
+    </li>
+    <li>
+        <a href="https://www.cbnrecife.com/saudesuplementar" target="_blank">Saúde Suplementar</a>
+    </li>
+                    </ul>
+                </div>
+            </div>
+        </div>    
+    </div>
+    <div class="footer-copy">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <p> © 2020
+                        PORTAL CBN RECIFE. Todos os Direitos reservados.
+                        Desenvolvido Por
+                        <a href="" target="_blank" title="Grupo Adapta" alt="Grupo Adapta">
+                            <img src="/webfiles//images/copyright.png" alt="Grupo Adapta" style="height: 22px;margin-left:
+                            10px;">
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>    </div>
+
+    
+    
+    <!-- Loader Start -->
+    <div class="loader-container" style="display : none">
+        <div class="loader" style="display : none">
+            <div id="mask"></div>
+        </div>
+    </div>
+    <!-- Loader End -->
+    
+    <!-- CSS PLUGINS !-->
+    <link rel="stylesheet" href="/webfiles/css/vendor.min.css">
+    <link rel="stylesheet" href="/webfiles/css/lity.min.css">
+        <style>
+        .noticia-texto{
+            overflow : hidden;
+        }
+        .noticia-texto p img{
+            max-width : 100%;
+        }
+        .noticia-texto img{
+            max-width : 100%;
+        }
+        .noticia-texto figure{
+            float: left;
+            padding: 12px;
+            text-align: center;
+            background: #f2f2f2;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+        .noticia-texto figure figcaption{
+            margin-top : 7px;
+        }
+        hr{
+            margin-bottom : 10px;
+        }
+    </style>
+    <!-- FIM CSS PLUGINS !-->
+        
+    <!-- FONTS !-->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="/webfiles/css/themify-icons.min.css">
+    <!-- FIM FONTS !-->
+        
+    <!-- SCRIPTS !-->
+    <script src="https://w.soundcloud.com/player/api.js"></script>
+    <script src="/webfiles/js/jquery.min.js"></script>
+    <script>
+        window.BASE_URL = 'https://www.cbnrecife.com/';
+    </script>
+    <script src="/webfiles/js/vendor.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+    <script type="text/javascript" src="/webfiles/js/lity.min.js"></script>
+    <script src="/webfiles/js/custom2.js?v=7.7.3"></script>
+    <script src="/webfiles/js/player.min.js?v=1.9.0"></script>
+    
+
+<script data-cfasync="false" type="text/javascript" id="clever-core">
+/* <![CDATA[ */
+    (function (document, window) {
+        var a, c = document.createElement("script"), f = window.frameElement;
+
+        c.id = "CleverCoreLoader65434";
+        c.src = "https://scripts.cleverwebserver.com/fd542c44cb1bb4a626d03b2e39736b45.js";
+
+        c.async = !0;
+        c.type = "text/javascript";
+        c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+        c.setAttribute("data-callback", "put-your-callback-function-here");
+        c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+        c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+        
+
+        try {
+            a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+        } catch (e) {
+            a = !1;
+        }
+
+        a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+        a.parentNode.insertBefore(c, a);
+    })(document, window);
+/* ]]> */
+</script>
+<script src="/webfiles/js/jquery.sticky-kit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script> 
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script> 
+<script>
+
+var vm; 
+ vm = new Vue({ 
+    el: '#app', 
+      mounted(){ 
+            
+         this.listar_banners();  
+         this.cod_placer=14;//código placer   
+            
+        }, 
+        delimiters: ['[[', ']]'], 
+        data: { 
+            banners: [], 
+            banner_codigo: [], 
+            url_img:'https://res.cloudinary.com/dqbhcmmmf/', 
+            
+            imgs:[], 
+            imgs2:[], 
+            imgs3:[], 
+            imgs4:[], 
+            
+            cod_anunucio1:0, 
+            cod_anunucio2:0, 
+            cod_anunucio3:0, 
+            cod_anunucio4:0, 
+             
+            cod_campanha1:0, 
+            cod_campanha2:0, 
+            cod_campanha3:0, 
+            cod_campanha4:0, 
+            qtd_areas:0, 
+             
+            cod_placer:0, 
+        }, 
+                       
+        methods:{ 
+ 
+            listar_banners() { 
+                try { 
+                    var url = 'https://adspartner.com.br/api/anuncio';  
+                    axios.get(url).then(function (r) { 
+                    console.log('..');  
+                    array_place =[]; 
+                    result= r.data; 
+                     
+                    const anuncios = result.filter(anuncio => { 
+                                      return anuncio.id_placer.some(placer => placer.id === vm.cod_placer) 
+                         }) 
+                      
+ 
+                   var nova_area1= anuncios.filter(function(el){ 
+                         return(el.media !==null); 
+ 
+                     }); 
+ 
+                   var nova_area2= anuncios.filter(function(el){ 
+                         return(el.area2 !==null); 
+                     }); 
+ 
+                   var nova_area3= anuncios.filter(function(el){ 
+                         return(el.area3 !==null); 
+                     }); 
+ 
+                   var nova_area4= anuncios.filter(function(el){ 
+                         return(el.area4 !==null); 
+                    }); 
+ 
+                   if(nova_area1.length>0 ){ 
+ 
+                         vm.qtd_areas= vm.qtd_areas +1; 
+                         idx1=Math.floor(Math.random() * nova_area1.length); 
+                         vm.imgs= nova_area1[idx1]; 
+                         vm.cod_anunucio1 = vm.imgs['id']; 
+                         vm.cod_campanha1 = vm.imgs['id_campanha']; 
+                         console.log('area1'); 
+                         console.log(vm.cod_anunucio1, vm.cod_campanha1); 
+                                          
+                    } 
+ 
+                   if(nova_area2.length>0){ 
+                        vm.qtd_areas= vm.qtd_areas +1; 
+                         idx2=Math.floor(Math.random() * nova_area2.length); 
+                         vm.imgs2= nova_area2[idx2];vm.salvar(vm.cod_anunucio2, vm.cod_campanha2, 
+vm.cod_placer, 1, 'Visita');  
+                         console.log('area2'); 
+                         console.log(vm.cod_anunucio2, vm.cod_campanha2); 
+                    } 
+ 
+                   if(nova_area3.length>0){ 
+                        vm.qtd_areas= vm.qtd_areas +1; 
+                         idx3=Math.floor(Math.random() * nova_area3.length); 
+                         vm.imgs3= nova_area3[idx3]; 
+                         vm.cod_anunucio3 = vm.imgs3['id']; 
+                         vm.cod_campanha3 = vm.imgs3['id_campanha']; 
+                         console.log(vm.cod_anunucio3, vm.cod_campanha3); 
+                    } 
+ 
+                   if(nova_area4.length>0){ 
+                         vm.qtd_areas= vm.qtd_areas +1; 
+                         idx4=Math.floor(Math.random() * nova_area4.length); 
+                         vm.imgs4= nova_area4[idx4]; 
+                         vm.cod_anunucio4 = vm.imgs4['id']; 
+                         vm.cod_campanha4 = vm.imgs4['id_campanha']; 
+                         console.log('area4'); 
+                         console.log(vm.cod_anunucio4, vm.cod_campanha4); 
+                    } 
+                  
+                   if (vm.qtd_areas>0) 
+                   {   console.log('...');  
+                       vm.salvar_visita(vm.cod_anunucio1, vm.cod_campanha1, vm.cod_placer, 
+vm.cod_anunucio2, vm.cod_campanha2,  
+                                    vm.cod_anunucio3, vm.cod_campanha3, vm.cod_anunucio4, 
+vm.cod_campanha4, 1); 
+                        console.log('...');             
+                   } 
+             
+                }); 
+            } 
+            catch (e) { 
+                console.log(e); 
+            } 
+            }, 
+             
+            salvar(Vid_anuncio, Vid_campanha, Vid_plarce, valor){ 
+                if(Vid_anuncio>0){ 
+                   var vData; 
+                   var url_destino =''; 
+                   vData  = {id_anuncio:Vid_anuncio, id_campanha:Vid_campanha, 
+id_placer:Vid_plarce, qtd_clique:valor}; 
+                   url_destino = "https://adspartner.com.br/api/click/"; 
+                   console.log('Chama salvar CLIKS'); 
+                                         
+                  axios({ 
+                      method: 'post',  
+                      url: url_destino,  
+                      data: vData 
+                      }).then(response => { 
+                      console.log(response) 
+                      }).catch(error => { 
+                          console.log(error + vData) 
+                      }) 
+            } 
+            }, 
+ 
+             salvar_visita(Vid_anuncio1, Vid_campanha1, Vid_plarce, Vid_anuncio2, 
+Vid_campanha2, Vid_anuncio3, Vid_campanha3, Vid_anuncio4, Vid_campanha4, valor){ 
+                if(Vid_anuncio1>0){ 
+                   var vData; 
+                   var url_destino =''; 
+                    vData = {id_anuncio1:Vid_anuncio1, id_campanha1:Vid_campanha1, 
+id_placer:Vid_plarce, id_anuncio2 :Vid_anuncio2, id_campanha2 :Vid_campanha2, 
+                              id_anuncio3:Vid_anuncio3, id_campanha3 :Vid_campanha3, 
+id_anuncio4:Vid_anuncio4, id_campanha4:Vid_campanha4, qtd_visita:valor}; 
+                   url_destino = "https://adspartner.com.br/api/visita_nova/"; 
+ 
+                    console.log('Chama salvar visita'); 
+                                         
+                  axios({ 
+                      method: 'post',  
+ 
+                      url: url_destino,  
+                      data: vData 
+                      }).then(response => { 
+                      console.log(response) 
+                      }).catch(error => { 
+                          console.log(error + vData) 
+                      }) 
+            } 
+            }, 
+           
+                         
+             
+        } 
+         
+    });  
+ 
+   function chama_site(url) {  
+          window.open(url); 
+          return false;  
+    }       
+           
+   function ContarClick1(url) { 
+         vm.salvar(vm.cod_anunucio1, vm.cod_campanha1, vm.cod_placer, 1); 
+         chama_site(url); 
+    } 
+ 
+   function ContarClick2(url) { 
+         vm.salvar(vm.cod_anunucio2, vm.cod_campanha2, vm.cod_placer, 1); 
+         chama_site(url); 
+    } 
+ 
+   function ContarClick3(url) { 
+         vm.salvar(vm.cod_anunucio3, vm.cod_campanha3, vm.cod_placer, 1); 
+         chama_site(url); 
+    } 
+ 
+   function ContarClick4(url) { 
+         vm.salvar(vm.cod_anunucio4, vm.cod_campanha4, vm.cod_placer, 1); 
+         chama_site(url); 
+    } 
+
+
+    $(document).ready(function () {
+
+        
+        if ($(window).width() > 770){
+            $("#sidebar").stick_in_parent({offset_top : 130});
+        }
+        $('.owl-two-articles').owlCarousel({
+            margin : 20,
+            autoplay: 5000,
+            loop:false,
+            dots : false,
+            responsiveClass:true,
+            nav : true,
+            navText: ["<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"],
+            items : 2,
+            responsive:{
+                0:{
+                    items:1,
+                },
+                600:{
+                    items:2,
+                },
+                700:{
+                    items : 2
+                },
+                1000:{
+                    items:2
+                }
+            }
+        });
+
+        $(".owl-imagens-noticia").owlCarousel({
+            nav: true,
+            singleItem: true,
+            autoplay: 4000,
+            loop : true,
+            items: 1,
+            navText: ["<i class='ti-angle-left'></i>", "<i class='ti-angle-right'></i>"]
+        });
+
+        $(".venobox").venobox({
+            spinner: "wave",
+            numeratio: true,
+            titlePosition: 'top',
+            numerationBackground : "#3b5997",
+            numerationColor : "#fff",
+            closeBackground : '#3b5997',
+            closeColor : '#fff'
+        });
+    });
+</script>
+
+</body></html>

@@ -1,0 +1,1194 @@
+<html lang="pt-BR"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paraná Portal - O seu portal sobre política, economia e negócios no Paraná.</title>
+    <link rel="stylesheet" id="boot-style-css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css?ver=6.4.3" media="all">
+    <link rel="stylesheet" id="boot-font-css" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css?ver=6.4.3" media="all">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" id="boot-font-css" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css?ver=6.4.3" media="all">
+    <link rel="stylesheet" id="elementor-frontend-css" href="https://www.paranaportal.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.19.0" media="all">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v22.0 (Yoast SEO v22.1) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Paraná Portal - O seu portal sobre política, economia e negócios no Paraná.</title>
+	<link rel="canonical" href="https://www.paranaportal.com.br/ultimas-noticias/">
+	<link rel="next" href="https://www.paranaportal.com.br/ultimas-noticias/page/2/">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.paranaportal.com.br/ultimas-noticias/">
+	<meta property="og:site_name" content="Paraná Portal">
+	<meta property="og:image" content="https://www.paranaportal.com.br/wp-content/uploads/2023/06/cropped-Captura-de-Tela-2023-06-08-as-14.17.40-1.png">
+	<meta property="og:image:width" content="1120">
+	<meta property="og:image:height" content="1122">
+	<meta property="og:image:type" content="image/png">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@paranaportal">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["WebPage","CollectionPage"],"@id":"https://www.paranaportal.com.br/ultimas-noticias/","url":"https://www.paranaportal.com.br/ultimas-noticias/","name":"Paraná Portal - O seu portal sobre política, economia e negócios no Paraná.","isPartOf":{"@id":"https://www.paranaportal.com.br/#website"},"datePublished":"2023-06-24T13:55:05+00:00","dateModified":"2024-01-02T19:22:55+00:00","breadcrumb":{"@id":"https://www.paranaportal.com.br/ultimas-noticias/#breadcrumb"},"inLanguage":"pt-BR"},{"@type":"BreadcrumbList","@id":"https://www.paranaportal.com.br/ultimas-noticias/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início"}]},{"@type":"WebSite","@id":"https://www.paranaportal.com.br/#website","url":"https://www.paranaportal.com.br/","name":"Paraná Portal","description":"O seu portal sobre política, economia e negócios no Paraná.","alternateName":"Paraná Portal Notícias","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.paranaportal.com.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"}]}</script>
+	<meta name="google-site-verification" content="google273f18f49c2a08b1">
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.paranaportal.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="cmplz-general-css" href="https://www.paranaportal.com.br/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=6.5.6" type="text/css" media="all">
+<link rel="stylesheet" id="meu-estilo-css" href="https://www.paranaportal.com.br/wp-content/themes/paranaportal/assets/css/style.css?ver=6.7.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.paranaportal.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.paranaportal.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.paranaportal.com.br/wp-json/"><style>.cmplz-hidden{display:none!important;}</style><link rel="icon" href="https://www.paranaportal.com.br/wp-content/uploads/2023/06/cropped-Captura-de-Tela-2023-06-08-as-14.17.40-150x150.png" sizes="32x32">
+<link rel="icon" href="https://www.paranaportal.com.br/wp-content/uploads/2023/06/cropped-Captura-de-Tela-2023-06-08-as-14.17.40-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.paranaportal.com.br/wp-content/uploads/2023/06/cropped-Captura-de-Tela-2023-06-08-as-14.17.40-300x300.png">
+<meta name="msapplication-TileImage" content="https://www.paranaportal.com.br/wp-content/uploads/2023/06/cropped-Captura-de-Tela-2023-06-08-as-14.17.40-300x300.png">
+	<script type="text/plain" data-service="general" data-category="marketing" async="" data-cmplz-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9439826933228593" crossorigin="anonymous"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MG6TD95B');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<!-- Content -->
+<body data-cmplz="1" class="blog">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MG6TD95B" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+	<div class="container mb-5 pb-5">
+	<div class="row">
+		<div class="col text-center mb-5 pb-5">
+			<a href="https://www.paranaportal.com/?utm_source=paranaportal.com.br&amp;utm_medium=banner-home&amp;utm_campaign=novo-site" target="_blank">
+									<img class="img-fluid" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/parana_portal.jpg?v=1" alt="Paraná Portal Desktop">
+							</a>
+		</div>
+	</div>
+</div>
+
+    <header id="masthead" class="site-header sticky-top-old">
+        <div class="container site-header-logo-search">
+            <div class="row justify-content-between">
+                <div class="col-md-7 col-sm-9 col-10 site-header-identity">
+                    <div class="site-header-name ">
+                        <a href="https://www.paranaportal.com.br/" rel="home" title="Portal Paraná">
+                            <img class="d-none" src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/portal_parana_escrita_logo.svg" alt="Portal Paraná" title="Portal Paraná">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-5 col-sm-3 col-3 site-header-right d-none d-lg-block">
+                    <div class="row">
+                        <div class="site-header-social col-md-6 col-sm-0">
+                            <div class="pine-social-icons">
+                                <a href="https://www.facebook.com/paranaportal/"><img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/fb.svg" alt="Facebook" class="social-icon"></a>
+                                    <a href="https://www.instagram.com/paranaportal/"><img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/insta.svg" alt="Instagram" class="social-icon"></a>
+                                        <a href="/cdn-cgi/l/email-protection#88faedece9ebe9e7c8f8e9fae9e6e9f8e7fafce9e4a6ebe7e5a6eafa"><img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/mail.svg" alt="Mail" class="social-icon"></a>
+                                            <a href="https://x.com/paranaportal"><img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/twitter.svg" alt="Twitter" class="social-icon"></a>
+                                                <a href="https://www.youtube.com/channel/UCEgZB0qLlmIr9SfzFX2OyQQ"><img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/youtube.svg" alt="Youtube" class="social-icon"></a>
+                                                </div>
+                                            </div>
+                                            <div class="site-header-search col-md-6 col-sm-12">
+                                                <form role="search" method="get" id="searchform" action="https://www.paranaportal.com.br/">
+                                                    <div class="input-group">
+                                                        <input name="s" type="text" class="form-control" placeholder="Buscar">
+                                                        <span class="input-group-btn">
+                                                            <button type="submit" value="Buscar" class="btn"><i class="bi bi-search" aria-hidden="true"></i>&nbsp;</button>
+                                                        </span>
+                                                    </div>
+                                                </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="site-branding row">
+                                        <p class="site-title">
+                                            <a href="https://www.paranaportal.com.br/" rel="home">
+                                                Paraná Portal
+                                            </a>
+                                        </p>
+                                        <p class="site-description">
+                                            O seu portal sobre política, economia e negócios no Paraná.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="container container-header-menu">
+                                    <div class="header-menu">
+                                       <nav id="site-navigation" class="main-navigation navbar">
+    <ul id="menu-menu-principal" class="primary-menu"><li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-58"><a href="https://www.paranaportal.com.br/negocios/">Negócios</a>
+<ul class="sub-menu">
+	<li id="menu-item-4216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4216"><a href="https://www.paranaportal.com.br/negocios/agronegocio/">Agronegócio</a></li>
+	<li id="menu-item-4217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4217"><a href="https://www.paranaportal.com.br/negocios/comercio/">Comércio</a></li>
+	<li id="menu-item-4218" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4218"><a href="https://www.paranaportal.com.br/negocios/negocios-construcao-civil/">Construção Civil</a></li>
+	<li id="menu-item-4219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4219"><a href="https://www.paranaportal.com.br/negocios/industria/">Indústria</a></li>
+</ul>
+</li>
+<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-59"><a href="https://www.paranaportal.com.br/politica/">Política</a>
+<ul class="sub-menu">
+	<li id="menu-item-4221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4221"><a href="https://www.paranaportal.com.br/politica/federal-politica/">Federal</a></li>
+	<li id="menu-item-4220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4220"><a href="https://www.paranaportal.com.br/politica/estadual-politica/">Estadual</a></li>
+	<li id="menu-item-4223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4223"><a href="https://www.paranaportal.com.br/politica/municipal-politica/">Municipal</a></li>
+	<li id="menu-item-4222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4222"><a href="https://www.paranaportal.com.br/politica/politica-geral/">Geral</a></li>
+</ul>
+</li>
+<li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-55"><a href="https://www.paranaportal.com.br/economia/">Economia</a>
+<ul class="sub-menu">
+	<li id="menu-item-879" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-879"><a href="https://www.paranaportal.com.br/economia/cooperativismo-economia/">Cooperativismo</a></li>
+	<li id="menu-item-880" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-880"><a href="https://www.paranaportal.com.br/economia/financas-economia/">Finanças</a></li>
+	<li id="menu-item-881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-881"><a href="https://www.paranaportal.com.br/economia/setor-automotivo-economia/">Setor Automotivo</a></li>
+	<li id="menu-item-882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-882"><a href="https://www.paranaportal.com.br/economia/turismo-economia/">Turismo</a></li>
+</ul>
+</li>
+<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-56"><a href="https://www.paranaportal.com.br/esportes/">Esportes</a>
+<ul class="sub-menu">
+	<li id="menu-item-4224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4224"><a href="https://www.paranaportal.com.br/esportes/futebol-esportes/">Futebol</a></li>
+	<li id="menu-item-4225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4225"><a href="https://www.paranaportal.com.br/esportes/outros-esportes/">Outros</a></li>
+</ul>
+</li>
+<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57"><a href="https://www.paranaportal.com.br/geral/">Geral</a>
+<ul class="sub-menu">
+	<li id="menu-item-4198" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4198"><a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/">Agenda Cultural</a></li>
+	<li id="menu-item-4202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4202"><a href="https://www.paranaportal.com.br/geral/empresas-geral/">Empresas</a></li>
+	<li id="menu-item-4205" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4205"><a href="https://www.paranaportal.com.br/geral/ensino-geral/">Ensino</a></li>
+	<li id="menu-item-4209" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4209"><a href="https://www.paranaportal.com.br/geral/saude-geral/">Saúde</a></li>
+	<li id="menu-item-4207" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4207"><a href="https://www.paranaportal.com.br/geral/justica/">Justiça</a></li>
+	<li id="menu-item-143237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143237"><a href="https://www.paranaportal.com.br/geral/saude-geral/cuidar-de-voce/">Cuidar de Você</a></li>
+	<li id="menu-item-4214" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4214"><a href="https://www.paranaportal.com.br/geral/servicos-geral/">Serviços</a></li>
+</ul>
+</li>
+<li id="menu-item-878" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-878"><a href="https://www.paranaportal.com.br/ultimas-noticias/">Últimas</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-54"><a href="https://www.paranaportal.com.br/colunas/">Colunas</a>
+<ul class="sub-menu">
+	<li id="menu-item-932" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-932"><a href="https://www.paranaportal.com.br/colunas/colunas-sintonia-fina/">Pedro Ribeiro</a></li>
+	<li id="menu-item-169170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169170"><a href="https://www.paranaportal.com.br/colunas/business-desvendando-os-segredos-do-sucesso-empresarial/">Alexander Baer</a></li>
+	<li id="menu-item-169171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-169171"><a href="https://www.paranaportal.com.br/colunas/inovagov-tendencias-tecnologia-e-inovacao-em-governos/">André Telles</a></li>
+	<li id="menu-item-4407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4407"><a href="https://www.paranaportal.com.br/colunas/coluna-transicaosustentavel/">Carlos L. Strapazzon</a></li>
+	<li id="menu-item-933" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-933"><a href="https://www.paranaportal.com.br/colunas/coluna-sobre-todas-e-cada-uma-de-nos/">Daiana Allessi</a></li>
+	<li id="menu-item-4406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4406"><a href="https://www.paranaportal.com.br/colunas/coluna-temconversa/">Iara Maggioni</a></li>
+	<li id="menu-item-4405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4405"><a href="https://www.paranaportal.com.br/colunas/coluna-novastendenciasdodireito/">Janaína Chiaradia</a></li>
+	<li id="menu-item-4404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4404"><a href="https://www.paranaportal.com.br/colunas/coluna-economiaevida/">José Pio Martins</a></li>
+	<li id="menu-item-4403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4403"><a href="https://www.paranaportal.com.br/colunas/coluna-diretodelondres/">Lorena Nogaroli</a></li>
+	<li id="menu-item-4436" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4436"><a href="https://www.paranaportal.com.br/colunas/coluna-economiaemdestaque/">Lucas Dezordi</a></li>
+</ul>
+</li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://www.paranaportal.com.br/sobre-parana-portal/">Institucional</a></li>
+</ul>    <button class="menu-toggle navbar-toggler" aria-controls="primary-menu" aria-expanded="false" data-bs-toggle="collapse" data-bs-target="#primary-menu">
+        Notícias <span class="navbar-toggler-icon"></span>
+    </button>
+</nav>
+
+<div class="header-date d-none d-md-block">
+    terça-feira, 14 de janeiro de 2025</div>
+</div>
+</div>
+</header>
+<main class="mb-5">
+	
+<section class="container mt-1">
+  <div class="row justify-content-center">
+             <article class="col-lg-9 text-center new-top">
+            <img width="768" height="450" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/linha-Tatuquara_Centro-Curitiba-768x450.jpg" class="new-img" alt="Linha Tatuquara/Centro começa a operar em Curitiba" decoding="async" fetchpriority="high">            <h1 class="title">Linha Tatuquara/Centro começa a operar em Curitiba</h1>
+            <div class="descriptionhome"><p>Demanda antiga da população, a linha vai ligar o Terminal Tatuquara com a Praça Rui Barbosa, atendendo mais de 14 mil pessoas por dia.</p>
+</div>
+            <a href="https://www.paranaportal.com.br/geral/linha-tatuquara-centro-comeca-a-operar-em-curitiba/" class="stretched-link" title="Linha Tatuquara/Centro começa a operar em Curitiba"></a>
+          </article>
+</div>
+<div class="row justify-content-center mt-4 banner-anuncios">
+    <div id="div-banner-home" style="background: #FFF;width: 970px; height: 300px;">
+        <div id="ad-billboard01"></div>
+    </div>
+</div>
+</section>
+
+
+<!-- destaques home -->
+
+<section class="container mt-5">
+  <div class="row">
+                  <div class="col-lg-6">
+                <article class="article-container">
+                  <img width="474" height="315" src="https://www.paranaportal.com.br/wp-content/uploads/2024/09/ney-e-pimentel.jpeg" class="new-img" alt="Martins, tiro no pé; Marçal picareta; e o entrevero entre Ney e Pimentel" decoding="async" srcset="https://www.paranaportal.com.br/wp-content/uploads/2024/09/ney-e-pimentel.jpeg 474w, https://www.paranaportal.com.br/wp-content/uploads/2024/09/ney-e-pimentel-300x199.jpeg 300w" sizes="(max-width: 474px) 100vw, 474px">                  <h2 class="title">Martins, tiro no pé; Marçal picareta; e o entrevero entre Ney e Pimentel</h2>
+                  <a href="https://www.paranaportal.com.br/colunas/colunas-sintonia-fina/martins-tiro-no-pe-marcal-picareta-e-o-entrevero-entre-ney-e-pimentel/" class="stretched-link" title="Martins, tiro no pé; Marçal picareta; e o entrevero entre Ney e Pimentel"></a>
+                </article>
+              </div>
+                  <div class="col-lg-6">
+                <article class="article-container">
+                  <img width="576" height="324" src="https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio-576x324.jpg" class="new-img" alt="Fogos de artifício podem ser proibidos em Curitiba" decoding="async" srcset="https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio-576x324.jpg 576w, https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio-300x169.jpg 300w, https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio-1024x576.jpg 1024w, https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio-768x432.jpg 768w, https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio-800x450.jpg 800w, https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio-260x146.jpg 260w, https://www.paranaportal.com.br/wp-content/uploads/2024/01/natal-natal-de-curitiba-turismo-espectadores-economia-prefeitura-de-curitiba-parque-tangua-arvore-de-natal-fogos-de-artificio.jpg 1200w" sizes="(max-width: 576px) 100vw, 576px">                  <h2 class="title">Fogos de artifício podem ser proibidos em Curitiba</h2>
+                  <a href="https://www.paranaportal.com.br/politica/fogos-de-artificio-podem-ser-proibidos-em-curitiba/" class="stretched-link" title="Fogos de artifício podem ser proibidos em Curitiba"></a>
+                </article>
+              </div>
+                  <div class="col-md-6 col-lg-3 mt-4">
+                <h3 class="title-category text-uppercase"><a href="https://www.paranaportal.com.br/geral/">Geral</a></h3>
+                <article class="article-container small">
+                <img width="276" height="207" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/bombeiros-Parana-incendios-Pantanal-276x207.jpg" class="new-img" alt="Bombeiros encerram força-tarefa de combate aos incêndios no Pantanal" decoding="async" srcset="https://www.paranaportal.com.br/wp-content/uploads/2024/08/bombeiros-Parana-incendios-Pantanal-276x207.jpg 276w, https://www.paranaportal.com.br/wp-content/uploads/2024/08/bombeiros-Parana-incendios-Pantanal-425x319.jpg 425w" sizes="(max-width: 276px) 100vw, 276px">                  <h2 class="title">Bombeiros encerram força-tarefa de combate aos incêndios no Pantanal</h2>
+                  <a href="https://www.paranaportal.com.br/geral/bombeiros-parana-encerram-forca-tarefa-incendios-no-pantanal/" class="stretched-link" title="Bombeiros encerram força-tarefa de combate aos incêndios no Pantanal"></a>
+                </article>
+              </div>
+                  <div class="col-md-6 col-lg-3 mt-4">
+                <h3 class="title-category text-uppercase"><a href="https://www.paranaportal.com.br/geral/">Geral</a></h3>
+                <article class="article-container small">
+                <img width="276" height="207" src="https://www.paranaportal.com.br/wp-content/uploads/2022/10/1664977937-enem-2022-276x207.jpg" class="new-img" alt="Concurso Unificado: cadernos de prova já estão disponíveis; confira" decoding="async" srcset="https://www.paranaportal.com.br/wp-content/uploads/2022/10/1664977937-enem-2022-276x207.jpg 276w, https://www.paranaportal.com.br/wp-content/uploads/2022/10/1664977937-enem-2022-425x319.jpg 425w" sizes="(max-width: 276px) 100vw, 276px">                  <h2 class="title">Concurso Unificado: cadernos de prova já estão disponíveis; confira</h2>
+                  <a href="https://www.paranaportal.com.br/geral/concurso-unificado-cadernos-de-prova-gabarito/" class="stretched-link" title="Concurso Unificado: cadernos de prova já estão disponíveis; confira"></a>
+                </article>
+              </div>
+                  <div class="col-md-6 col-lg-3 mt-4">
+                <h3 class="title-category text-uppercase"><a href="https://www.paranaportal.com.br/ultimas-noticias/">Últimas Notícias</a></h3>
+                <article class="article-container small">
+                <img width="276" height="207" src="https://www.paranaportal.com.br/wp-content/uploads/2024/05/previsao-do-tempo-calor-sol-verao-276x207.jpg" class="new-img" alt="Veranico: Paraná tem mais um dia de “maçarico ligado”" decoding="async" srcset="https://www.paranaportal.com.br/wp-content/uploads/2024/05/previsao-do-tempo-calor-sol-verao-276x207.jpg 276w, https://www.paranaportal.com.br/wp-content/uploads/2024/05/previsao-do-tempo-calor-sol-verao-425x319.jpg 425w" sizes="(max-width: 276px) 100vw, 276px">                  <h2 class="title">Veranico: Paraná tem mais um dia de “maçarico ligado”</h2>
+                  <a href="https://www.paranaportal.com.br/ultimas-noticias/veranico-parana-tem-mais-um-dia-de-macarico-ligado/" class="stretched-link" title="Veranico: Paraná tem mais um dia de “maçarico ligado”"></a>
+                </article>
+              </div>
+                  <div class="col-md-6 col-lg-3 mt-4">
+                <h3 class="title-category text-uppercase"><a href="https://www.paranaportal.com.br/ultimas-noticias/">Últimas Notícias</a></h3>
+                <article class="article-container small">
+                <img width="276" height="207" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Ambulancia-com-paciente-capota-na-BR-277-em-Guarapuava-276x207.jpeg" class="new-img" alt="Ambulância com paciente capota na BR-277, em Guarapuava" decoding="async" srcset="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Ambulancia-com-paciente-capota-na-BR-277-em-Guarapuava-276x207.jpeg 276w, https://www.paranaportal.com.br/wp-content/uploads/2024/08/Ambulancia-com-paciente-capota-na-BR-277-em-Guarapuava-300x225.jpeg 300w, https://www.paranaportal.com.br/wp-content/uploads/2024/08/Ambulancia-com-paciente-capota-na-BR-277-em-Guarapuava-1024x768.jpeg 1024w, https://www.paranaportal.com.br/wp-content/uploads/2024/08/Ambulancia-com-paciente-capota-na-BR-277-em-Guarapuava-768x576.jpeg 768w, https://www.paranaportal.com.br/wp-content/uploads/2024/08/Ambulancia-com-paciente-capota-na-BR-277-em-Guarapuava-425x319.jpeg 425w, https://www.paranaportal.com.br/wp-content/uploads/2024/08/Ambulancia-com-paciente-capota-na-BR-277-em-Guarapuava.jpeg 1280w" sizes="(max-width: 276px) 100vw, 276px">                  <h2 class="title">Ambulância com paciente capota na BR-277, em Guarapuava</h2>
+                  <a href="https://www.paranaportal.com.br/ultimas-noticias/ambulancia-com-paciente-capota-na-br-277-em-guarapuava/" class="stretched-link" title="Ambulância com paciente capota na BR-277, em Guarapuava"></a>
+                </article>
+              </div>
+      </div>
+</section>
+
+
+<!-- destaques home -->
+
+ 
+
+<section class="container mt-5">
+    <div class="row justify-content-center my-4 banner-anuncios">
+        <div id="div-ultimas-noticias" style="background: #FFF;width: 1200px; height: 270px;">
+            <div id="ad-billboard02"></div>
+        </div>
+    </div>
+  <div class="row">    
+    <div class="col-lg-9">
+      <div class="latest-news">
+        <h2> Últimas notícias </h2>
+        <div>
+                            <!-- Estrutura HTML para exibir os posts da categoria -->
+                <div class="row pine-news-cat-group">
+                    <div class="col-md-3 col-cat-title">
+                        <a class="font-white" href="/ultimas-noticias/rodovias-ultimas-noticias" title="Rodovias">Rodovias</a>
+                    </div>
+                    <div class="col-md-9 col-news-list">
+                        <ul>
+                                                            <li>
+                                    <div class="row pine-news-unique">
+                                        <div class="pine-news-title">
+                                            <div class="col-md-10">
+                                                <a href="https://www.paranaportal.com.br/ultimas-noticias/homem-morre-e-crianca-fica-gravemente-ferida-em-acidente-imbituva/" title="Homem morre e criança fica gravemente ferida em acidente Imbituva">Homem morre e criança fica gravemente ferida em acidente Imbituva</a>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <div class="pine-read-more-all">
+                                                    <div class="pine-read-more-before"></div>
+                                                    <a href="https://www.paranaportal.com.br/ultimas-noticias/homem-morre-e-crianca-fica-gravemente-ferida-em-acidente-imbituva/" title="Homem morre e criança fica gravemente ferida em acidente Imbituva"></a>
+                                                    <div class="pine-read-more-after"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <!-- Estrutura HTML para exibir os posts da categoria -->
+                <div class="row pine-news-cat-group">
+                    <div class="col-md-3 col-cat-title">
+                        <a class="font-white" href="/ultimas-noticias/aeroportos-ultimas-noticias" title="Aeroportos">Aeroportos</a>
+                    </div>
+                    <div class="col-md-9 col-news-list">
+                        <ul>
+                                                            <li>
+                                    <div class="row pine-news-unique">
+                                        <div class="pine-news-title">
+                                            <div class="col-md-10">
+                                                <a href="https://www.paranaportal.com.br/ultimas-noticias/procon-pr-apura-se-empresas-aereas-sao-claras-sobre-operacoes-compartilhadas/" title="Procon-PR apura se empresas aéreas são claras sobre operações compartilhadas">Procon-PR apura se empresas aéreas são claras sobre operações compartilhadas</a>
+                                            </div>
+                                            <div class="col-md-2">
+                                                <div class="pine-read-more-all">
+                                                    <div class="pine-read-more-before"></div>
+                                                    <a href="https://www.paranaportal.com.br/ultimas-noticias/procon-pr-apura-se-empresas-aereas-sao-claras-sobre-operacoes-compartilhadas/" title="Procon-PR apura se empresas aéreas são claras sobre operações compartilhadas"></a>
+                                                    <div class="pine-read-more-after"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                    </div>
+      </div>
+
+        <!-- Bar Space -->
+        <div class="bar-space position-relative mt-5">
+            <div class="main-page-blue-bar">
+            </div>
+            <div class="container position-relative">
+                <div class="row">
+                    <div class="col-12 g-0">
+                        <h3 class="text-white mb-0 text-uppercase">Negócios</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bar Space -->
+        <!-- Noticias -->
+        <div class="row mt-5">
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2022/11/1666973924-carros-licenciamento-pagamento-impostos-425x319.jpg" alt="Financiamento de veículos cresce 25,8% no Paraná">
+                            </div>
+                                                <h2 class="title my-3">Financiamento de veículos cresce 25,8% no Paraná</h2>
+                        <p class="description">Quase 50 mil veículos foram financiados no mês de julho no Estado, entre novos e usados</p>
+                        <a href="https://www.paranaportal.com.br/negocios/financiamento-de-veiculos-cresce-no-parana/" class="stretched-link" title="Financiamento de veículos cresce 25,8% no Paraná"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/empreendimento-comercial-de-luxo-Curitiba-Batel-425x319.jpg" alt="Curitiba ganha novo empreendimento de luxo no Batel">
+                            </div>
+                                                <h2 class="title my-3">Curitiba ganha novo empreendimento de luxo no Batel</h2>
+                        <p class="description">As obras já começaram e a previsão de entrega é para fevereiro de 2026</p>
+                        <a href="https://www.paranaportal.com.br/negocios/curitiba-novo-empreendimento-comercial-luxo-no-batel/" class="stretched-link" title="Curitiba ganha novo empreendimento de luxo no Batel"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2023/08/1645630992-rsz-fachada-parana-banco-425x319.jpg" alt="Paraná Banco recebe AA-(bra) em Rating Nacional de Longo Prazo pela Fitch Ratings">
+                            </div>
+                                                <h2 class="title my-3">Paraná Banco recebe AA-(bra) em Rating Nacional de Longo Prazo pela Fitch Ratings</h2>
+                        <p class="description">De acordo com a Fitch Ratings, a perspectiva do Rating Nacional de Longo Prazo é estável</p>
+                        <a href="https://www.paranaportal.com.br/negocios/parana-banco-recebe-aa-bra-em-rating-nacional-de-longo-prazo-pela-fitch-ratings/" class="stretched-link" title="Paraná Banco recebe AA-(bra) em Rating Nacional de Longo Prazo pela Fitch Ratings"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2023/08/1660754140-campus-da-industria-sistema-fiep-425x319.jpg" alt="Fiep comemora 80 anos com mesa redonda e homenagens, em Curitiba">
+                            </div>
+                                                <h2 class="title my-3">Fiep comemora 80 anos com mesa redonda e homenagens, em Curitiba</h2>
+                        <p class="description">A programação especial acontece no Campus da Indústria, com a presença de líderes do setor e autoridades.</p>
+                        <a href="https://www.paranaportal.com.br/negocios/fiep-80-anos-mesa-redonda-e-homenagens-em-curitiba/" class="stretched-link" title="Fiep comemora 80 anos com mesa redonda e homenagens, em Curitiba"></a>
+                    </article>
+                </div>
+                    </div>
+        <!-- /Noticias -->
+        <!-- Bar Space -->
+        <div class="bar-space position-relative mt-5">
+            <div class="main-page-blue-bar">
+            </div>
+            <div class="container position-relative">
+                <div class="row">
+                    <div class="col-12 g-0">
+                        <h3 class="text-white mb-0 text-uppercase">Política</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bar Space -->
+        <!-- Noticias -->
+        <div class="row mt-5">
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Lula-diz-que-Silvio-Santos-o-procurou-com-medo-de-ser-preso-por-fraudes-no-banco-Panamericano-425x319.jpg" alt="Lula diz que Silvio Santos o procurou com ‘medo de ser preso’ por fraudes no banco Panamericano">
+                            </div>
+                                                <h2 class="title my-3">Lula diz que Silvio Santos o procurou com ‘medo de ser preso’ por fraudes no banco Panamericano</h2>
+                        <p class="description">O presidente Luiz Inácio Lula da Silva, do PT, afirmou neste domingo (18) que o apresentador e dono do SBT, Silvio Santos, morto neste sábado aos 93 anos, uma vez o procurou para manifestar medo de ser preso por causa das fraudes no banco Panamericano. Lula também lembrou que fez um pedido para que Silvio […]</p>
+                        <a href="https://www.paranaportal.com.br/ultimas-noticias/lula-diz-que-silvio-santos-o-procurou-com-medo-de-ser-preso-por-fraudes-no-banco-panamericano/" class="stretched-link" title="Lula diz que Silvio Santos o procurou com ‘medo de ser preso’ por fraudes no banco Panamericano"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Governador-Ratinho-Junior-decreta-luto-de-tres-dias-pela-morte-de-Silvio-Santos-425x319.jpg" alt="Ratinho Junior decreta luto de três dias pela morte de Silvio Santos">
+                            </div>
+                                                <h2 class="title my-3">Ratinho Junior decreta luto de três dias pela morte de Silvio Santos</h2>
+                        <p class="description">A família do governador é proprietária da afiliada do SBT no Paraná, a Rede Massa</p>
+                        <a href="https://www.paranaportal.com.br/politica/governador-ratinho-junior-decreta-luto-de-tres-dias-pela-morte-de-silvio-santos/" class="stretched-link" title="Ratinho Junior decreta luto de três dias pela morte de Silvio Santos"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Lula-Silvio-Santos-425x319.jpeg" alt="Morte de Silvio Santos “deixa vazio na televisão dos brasileiros”, lamenta Lula">
+                            </div>
+                                                <h2 class="title my-3">Morte de Silvio Santos “deixa vazio na televisão dos brasileiros”, lamenta Lula</h2>
+                        <p class="description">Lula decretou luto oficial de três dias pela morte de Silvio Santos, descrito por ele como a maior personalidade da história da televisão brasileira.</p>
+                        <a href="https://www.paranaportal.com.br/politica/lula-lamenta-morte-apresentador-silvio-santos/" class="stretched-link" title="Morte de Silvio Santos “deixa vazio na televisão dos brasileiros”, lamenta Lula"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/11042023-pzzb9223-stf-emendas-pix-suspensao-dino-425x319.webp" alt="Por unanimidade, STF mantém decisão de Dino que suspendeu emendas">
+                            </div>
+                                                <h2 class="title my-3">Por unanimidade, STF mantém decisão de Dino que suspendeu emendas</h2>
+                        <p class="description">Foi validada também a suspensão das chamadas "emendas Pix"</p>
+                        <a href="https://www.paranaportal.com.br/politica/federal-politica/emendas-pix-stf-mantem-decisao-de-dino-de-suspensao/" class="stretched-link" title="Por unanimidade, STF mantém decisão de Dino que suspendeu emendas"></a>
+                    </article>
+                </div>
+                    </div>
+        <!-- /Noticias -->
+        <!-- Bar Space -->
+        <div class="bar-space position-relative mt-5">
+            <div class="main-page-blue-bar">
+            </div>
+            <div class="container position-relative">
+                <div class="row">
+                    <div class="col-12 g-0">
+                        <h3 class="text-white mb-0 text-uppercase">Economia</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bar Space -->
+        <!-- Noticias -->
+        <div class="row mt-5">
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2023/08/1675204104-curitiba-empregos-carteira-425x319.jpg" alt="Geração de empregos: Paraná registra menor índice de desemprego em 10 anos">
+                            </div>
+                                                <h2 class="title my-3">Geração de empregos: Paraná registra menor índice de desemprego em 10 anos</h2>
+                        <p class="description">Com o mercado aquecido, o Estado também atingiu o recorde de trabalhadores com carteira assinada no setor privado.</p>
+                        <a href="https://www.paranaportal.com.br/economia/parana-registra-menor-indice-de-desemprego-em-10-anos/" class="stretched-link" title="Geração de empregos: Paraná registra menor índice de desemprego em 10 anos"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/53925846559_9535697334_o-visita-presidente-lula-parana-renault-425x319.webp" alt="No Paraná, Lula defende fim de imposto sobre PLR de trabalhadores">
+                            </div>
+                                                <h2 class="title my-3">No Paraná, Lula defende fim de imposto sobre PLR de trabalhadores</h2>
+                        <p class="description">Presidente disse esperar momento certo para aprovar medida</p>
+                        <a href="https://www.paranaportal.com.br/economia/no-parana-lula-defende-fim-de-imposto-sobre-plr-de-trabalhadores/" class="stretched-link" title="No Paraná, Lula defende fim de imposto sobre PLR de trabalhadores"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/11022020operarios110220_5-renda-trabalhadores-parana-maior-do-brasil-425x319.jpg" alt="Entre as melhores do País, renda média dos trabalhadores do Paraná cresce 6,7% em um ano">
+                            </div>
+                                                <h2 class="title my-3">Entre as melhores do País, renda média dos trabalhadores do Paraná cresce 6,7% em um ano</h2>
+                        <p class="description">O ganho mensal médio das pessoas empregadas no Estado passou de R$ 3.239 no 2º trimestre de 2023 para R$ 3.457 no 2º trimestre de 2024</p>
+                        <a href="https://www.paranaportal.com.br/economia/renda-media-dos-trabalhadores-do-parana-cresce-7-em-um-ano/" class="stretched-link" title="Entre as melhores do País, renda média dos trabalhadores do Paraná cresce 6,7% em um ano"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/comercio-Parana-425x319.jpg" alt="Comércio do Paraná cresce acima da média nacional, diz IBGE">
+                            </div>
+                                                <h2 class="title my-3">Comércio do Paraná cresce acima da média nacional, diz IBGE</h2>
+                        <p class="description">No acumulado do ano, o volume de vendas do comércio paranaense cresceu 4,3%.</p>
+                        <a href="https://www.paranaportal.com.br/economia/comercio-do-parana-cresce-acima-da-media-nacional-diz-ibge/" class="stretched-link" title="Comércio do Paraná cresce acima da média nacional, diz IBGE"></a>
+                    </article>
+                </div>
+                    </div>
+        <!-- /Noticias -->
+        <div class="row justify-content-center my-4 banner-anuncios">
+            <div id="div-entre-noticias" style="background: #FFF;width: 855px; height: 115px;"></div>
+        </div>
+                <!-- Bar Space -->
+        <div class="bar-space position-relative mt-5">
+            <div class="main-page-blue-bar">
+            </div>
+            <div class="container position-relative">
+                <div class="row">
+                    <div class="col-12 g-0">
+                        <h3 class="text-white mb-0 text-uppercase">Esportes</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bar Space -->
+        <!-- Noticias -->
+        <div class="row mt-5">
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Athletico-perde-de-2-a-1-para-o-Juventude-na-Ligga-Arena-em-Curitiba-425x319.jpg" alt="Athletico perde para o Juventude por 2 a 1 na Ligga Arena">
+                            </div>
+                                                <h2 class="title my-3">Athletico perde para o Juventude por 2 a 1 na Ligga Arena</h2>
+                        <p class="description">Com o resultado, o Furacão fica na 9ª posição do Campeonato Brasileiro, com oito vitórias, cinco empates e oito derrotas</p>
+                        <a href="https://www.paranaportal.com.br/esportes/athletico-perde-para-o-juventude-por-2-a-1-na-ligga-arena/" class="stretched-link" title="Athletico perde para o Juventude por 2 a 1 na Ligga Arena"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Coritiba-vence-Brusque-por-1-a-0-na-casa-do-adversario-425x319.jpg" alt="Série B: Coritiba vence Brusque por 1 a 0 na casa do adversário">
+                            </div>
+                                                <h2 class="title my-3">Série B: Coritiba vence Brusque por 1 a 0 na casa do adversário</h2>
+                        <p class="description">Com a vitória, o Coxa sobe para a 13ª colocação, com 27 pontos
+</p>
+                        <a href="https://www.paranaportal.com.br/esportes/serie-b-coritiba-vence-brusque-por-1-a-0-na-casa-do-adversario/" class="stretched-link" title="Série B: Coritiba vence Brusque por 1 a 0 na casa do adversário"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/filipe-rio-branco-corinthians-parana-clube-425x319.jpg" alt="Goleiro do Rio Branco retoma alegria com o futebol após acesso no Paranaense">
+                            </div>
+                                                <h2 class="title my-3">Goleiro do Rio Branco retoma alegria com o futebol após acesso no Paranaense</h2>
+                        <p class="description">Filipe se destacou durante a campanha do Leão da Estradinha na segundona</p>
+                        <a href="https://www.paranaportal.com.br/esportes/filipe-ex-corinthians-retoma-alegria-no-rio-branco-pr/" class="stretched-link" title="Goleiro do Rio Branco retoma alegria com o futebol após acesso no Paranaense"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/debora-menezes-parataekwondo-paris-425x319.jpg" alt="Paratleta de Taekwondo intensifica treinos em Curitiba antes de embarcar a Paris">
+                            </div>
+                                                <h2 class="title my-3">Paratleta de Taekwondo intensifica treinos em Curitiba antes de embarcar a Paris</h2>
+                        <p class="description">Débora Menezes, prata em Tóquio, focou em treinos de força, mobilidade articular e função cardiorrespiratória </p>
+                        <a href="https://www.paranaportal.com.br/esportes/paratleta-de-taekwondo-intensifica-treinos-em-curitiba-antes-de-embarcar-a-paris/" class="stretched-link" title="Paratleta de Taekwondo intensifica treinos em Curitiba antes de embarcar a Paris"></a>
+                    </article>
+                </div>
+                    </div>
+        <!-- /Noticias -->
+        <!-- Bar Space -->
+        <div class="bar-space position-relative mt-5">
+            <div class="main-page-blue-bar">
+            </div>
+            <div class="container position-relative">
+                <div class="row">
+                    <div class="col-12 g-0">
+                        <h3 class="text-white mb-0 text-uppercase">Geral</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bar Space -->
+        <!-- Noticias -->
+        <div class="row mt-5">
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/iStock-969233490-425x319.jpg" alt="Esclerose múltipla: como melhorar a qualidade de vida com diagnóstico da doença crônica e autoimune?">
+                            </div>
+                                                <h2 class="title my-3">Esclerose múltipla: como melhorar a qualidade de vida com diagnóstico da doença crônica e autoimune?</h2>
+                        <p class="description">Neurologista da Unimed Curitiba fala sobre prevenção, sintomas e como ter uma vida confortável e produtiva</p>
+                        <a href="https://www.paranaportal.com.br/geral/esclerose-multipla-como-melhorar-a-qualidade-de-vida-com-diagnostico-da-doenca-cronica-e-autoimune/" class="stretched-link" title="Esclerose múltipla: como melhorar a qualidade de vida com diagnóstico da doença crônica e autoimune?"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/SILVIO-SANTOS-ENTERRADO-425x319.jpeg" alt="Silvio Santos é enterrado em cerimônia restrita a amigos próximos e familiares">
+                            </div>
+                                                <h2 class="title my-3">Silvio Santos é enterrado em cerimônia restrita a amigos próximos e familiares</h2>
+                        <p class="description">"Ele pediu para que não explorássemos a sua passagem. Ele gostava de ser celebrado em vida", disse a família Abravanel em comunicado</p>
+                        <a href="https://www.paranaportal.com.br/geral/silvio-santos-e-enterrado-em-cerimonia-restrita-a-amigos-proximos-e-familiares/" class="stretched-link" title="Silvio Santos é enterrado em cerimônia restrita a amigos próximos e familiares"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/04/concurso-publico-unificado-425x319.jpeg" alt="Concurso Unificado: mais de 2 milhões de candidatos realizam prova neste domingo">
+                            </div>
+                                                <h2 class="title my-3">Concurso Unificado: mais de 2 milhões de candidatos realizam prova neste domingo</h2>
+                        <p class="description">Chamado de Enem dos Concursos, o maior concurso público já realizado no país oferta 6.640 vagas em 21 órgãos da administração federal.</p>
+                        <a href="https://www.paranaportal.com.br/geral/concurso-unificado-mais-de-dois-milhoes-de-candidatos-realizam-prova-neste-domingo/" class="stretched-link" title="Concurso Unificado: mais de 2 milhões de candidatos realizam prova neste domingo"></a>
+                    </article>
+                </div>
+                            <div class="col-md-6 mt-4 mt-lg-0">
+                    <article class="article-container news">
+                                                    <div class="thumb_materia_home">
+                                <img class="new-img" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/uso-da-internet-idosos-425x319.png" alt="Uso de internet no país cresce mais entre idosos, mostra IBGE">
+                            </div>
+                                                <h2 class="title my-3">Uso de internet no país cresce mais entre idosos, mostra IBGE</h2>
+                        <p class="description">A pesquisa mostra que 86,5% dos idosos informaram usar a internet todos os dias. No conjunto da população, a marca chega a 94,3%.</p>
+                        <a href="https://www.paranaportal.com.br/geral/uso-de-internet-cresce-mais-entre-idosos-mostra-ibge/" class="stretched-link" title="Uso de internet no país cresce mais entre idosos, mostra IBGE"></a>
+                    </article>
+                </div>
+                    </div>
+        <!-- /Noticias -->
+
+    </div>
+    <div class="col-lg-3 columnists-section-right mt-5 mt-lg-0">
+      <h2 class="ms-lg-5"> Colunistas </h2>
+      <div class="mt-2"> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/09/PEDRO-RIBEIRO-150x150.jpeg" width="96" height="96" alt="Pedro Ribeiro" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Pedro Ribeiro </h3>
+                    <p class="desc mb-1"> Força, Margarita. Curitiba precisa de você </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/forca-margarita-curitiba-precisa-de-voce/" class="stretched-link" title="Força, Margarita. Curitiba precisa de você"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2024/06/ALEXANDER-e1717286681892-150x150.jpg" width="96" height="96" alt="Alexander Baer" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Alexander Baer </h3>
+                    <p class="desc mb-1"> Do palco para o escritório: como as práticas musicais podem melhorar a... </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/do-palco-para-o-escritorio-como-as-praticas-musicais-podem-melhorar-a-gestao-empresarial/" class="stretched-link" title="Do palco para o escritório: como as práticas musicais podem melhorar a gestão empresarial"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2024/06/ANDRE-TELLES-e1717286706789-150x150.jpg" width="96" height="96" alt="André Telles" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> André Telles </h3>
+                    <p class="desc mb-1"> O papel da Inteligência Artificial na eficiência governamental&nbsp; </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/o-papel-da-inteligencia-artificial-na-eficiencia-governamental/" class="stretched-link" title="O papel da Inteligência Artificial na eficiência governamental&nbsp;"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/08/FOTO-CARLOS-STRAPASSON-150x150.jpeg" width="96" height="96" alt="Carlos Strapazzon" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Carlos Strapazzon </h3>
+                    <p class="desc mb-1"> Transição Energética: o momento e as tendências </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/transicao-energetica-o-momento-e-as-tendencias/" class="stretched-link" title="Transição Energética: o momento e as tendências"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/09/DAIANA-ALLESSI-150x150.jpeg" width="96" height="96" alt="Daiana Allessi" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Daiana Allessi </h3>
+                    <p class="desc mb-1"> Direitos das Mulheres: o óbvio não é óbvio </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/coluna-sobre-todas-e-cada-uma-de-nos/direitos-das-mulheres-o-obvio-nao-e-obvio/" class="stretched-link" title="Direitos das Mulheres: o óbvio não é óbvio"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/10/FOTO-IARA-MAGGIONI-150x150.jpeg" width="96" height="96" alt="Iara Maggioni" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Iara Maggioni </h3>
+                    <p class="desc mb-1"> Tem Conversa com Ariane Santos </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/coluna-temconversa/tem-conversa-com-ariane-santos/" class="stretched-link" title="Tem Conversa com Ariane Santos"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/10/Janaina-Chiaradia-150x150.jpg" width="96" height="96" alt="Janaina Chiaradia" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Janaina Chiaradia </h3>
+                    <p class="desc mb-1"> Curitiba: cidade amiga dos idosos e os estudos da saúde para cuidados... </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/coluna-novastendenciasdodireito/rascunho-automaticocuritiba-cidade-amiga-dos-idosos-e-os-estudos-da-saude-para-cuidados-e-boas-praticas/" class="stretched-link" title="Curitiba: cidade amiga dos idosos e os estudos da saúde para cuidados e boas práticas"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/10/FOTO-PIO-MARTINS-150x150.jpg" width="96" height="96" alt="José Pio Martins" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> José Pio Martins </h3>
+                    <p class="desc mb-1"> O planeta maltratado </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/o-planeta-maltratado/" class="stretched-link" title="O planeta maltratado"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/10/FOTO-LORENA-NOGAROLLI-150x150.jpeg" width="96" height="96" alt="Lorena Nogaroli" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Lorena Nogaroli </h3>
+                    <p class="desc mb-1"> Onda de violência na Inglaterra: saiba o que está por trás dos... </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/onda-de-violencia-na-inglaterra-saiba-o-que-esta-por-tras-dos-ataques-e-manifestos/" class="stretched-link" title="Onda de violência na Inglaterra: saiba o que está por trás dos ataques e manifestos"></a>
+            </div> 
+             
+            <div class="columnists-box d-flex mb-2 position-relative">
+                <img src="https://www.paranaportal.com.br/wp-content/uploads/2023/10/FOTO-LUCAS-DEZORDI-150x150.jpeg" width="96" height="96" alt="Lucas Dezordi" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo"> 
+                <div class="columnists-fields">
+                    <h3 class="title"> Lucas Dezordi </h3>
+                    <p class="desc mb-1"> Medo de recessão mundial </p> <!-- Limita o título a 12 palavras -->
+                </div>
+                <a href="https://www.paranaportal.com.br/colunas/medo-de-recessao-mundial/" class="stretched-link" title="Medo de recessão mundial"></a>
+            </div> 
+            
+
+       </div>
+        <div class="row justify-content-center my-4 banner-anuncios">
+            <div id="div-colunistas" style="background: #FFF;width: 261px; height: 270px;">
+                <div id="ad-side01"></div>
+            </div>
+        </div>
+      <h2 class="ms-lg-5 mt-5">Agenda Cultural</h2>
+      <!-- Item -->
+ 
+
+
+            <!-- Bloco de notícias -->
+            <div class="mt-4">
+                <div class="newsweek-box d-flex flex-column">
+                    <h3 class="newsweek-title">
+                        <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/gastronomia-agenda-cultural/">Gastronomia</a>
+                    </h3>
+                    <div class="newsweek-fields position-relative">
+                                                    <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/gastronomia-agenda-cultural/fondue-em-curitiba-restaurante-maria-eugenia-cria-sequencia/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/07/comer-fondue-curitiba-restaurante-maria-eugenia-Fondue-Carne-Foto-Rodrigo-Pierrot-1-260x146.jpg" alt="Encantador, Restaurante Maria Eugênia dedica noites para o fondue em Curitiba" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Encantador, Restaurante Maria Eugênia dedica noites para o fondue em Curitiba</p>
+                                                                            <hr class="p-0 m-0">
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                                <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/oktober-curitiba-2024-confira-datas-e-programacao-do-evento/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/07/Oktober_Curitiba-datas-2024-260x146.jpeg" alt="Oktober Curitiba 2024: tradição germânica retorna à capital paranaense" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Oktober Curitiba 2024: tradição germânica retorna à capital paranaense</p>
+                                                                            <hr class="p-0 m-0">
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                                <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/gastronomia-agenda-cultural/le-mir-curitiba-ganha-noite-com-musica-drinks-e-gastronomia/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/06/Drinks-e-Snacks-do-Le-mir-foto-Munir-Bucair-Filho-260x146.jpg" alt="Restaurante árabe em Curitiba ganha noite com música, drinks e gastronomia" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Restaurante árabe em Curitiba ganha noite com música, drinks e gastronomia</p>
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                        </div>
+                </div>
+            </div>
+            <!-- Fim do Bloco de notícias -->
+                    <!-- Bloco de notícias -->
+            <div class="mt-4">
+                <div class="newsweek-box d-flex flex-column">
+                    <h3 class="newsweek-title">
+                        <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/musica-agenda-cultural/">Música</a>
+                    </h3>
+                    <div class="newsweek-fields position-relative">
+                                                    <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/musica-agenda-cultural/reggae-day-festival-curitiba-ingressos/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/reggae-day-260x146.jpg" alt="Reggae Day Festival: veja como comprar ingressos" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Reggae Day Festival: veja como comprar ingressos</p>
+                                                                            <hr class="p-0 m-0">
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                                <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/i-wanna-be-tour-2025-curitiba-onde-comprar-ingresso/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/07/i-wanna-be-tour-curitiba-2025-260x146.jpg" alt="I Wanna Be Tour anuncia 2ª edição em Curitiba para 2025; onde comprar ingresso" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">I Wanna Be Tour anuncia 2ª edição em Curitiba para 2025; onde comprar ingresso</p>
+                                                                            <hr class="p-0 m-0">
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                                <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/musica-agenda-cultural/ferrugem-celebra-10-anos-de-carreira-com-show-inedito-em-curitiba/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/06/ferrugem-show-vila-capanema-curitiba-260x146.jpg" alt="Ferrugem celebra 10 anos de carreira com show inédito em Curitiba" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Ferrugem celebra 10 anos de carreira com show inédito em Curitiba</p>
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                        </div>
+                </div>
+            </div>
+            <!-- Fim do Bloco de notícias -->
+                    <!-- Bloco de notícias -->
+            <div class="mt-4">
+                <div class="newsweek-box d-flex flex-column">
+                    <h3 class="newsweek-title">
+                        <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/teatro-agenda-cultural/">Teatro</a>
+                    </h3>
+                    <div class="newsweek-fields position-relative">
+                                                    <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/drica-moraes-fabio-assuncao-em-curitiba/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/08/Foto-Leo-Aversa-0688-260x146.jpg" alt="Drica Moraes e Fábio Assunção estrelam a peça “Férias” em Curitiba" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Drica Moraes e Fábio Assunção estrelam a peça “Férias” em Curitiba</p>
+                                                                            <hr class="p-0 m-0">
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                                <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/agenda-cultural-servicos/teatro-agenda-cultural/dabliu-meus-sentidos-da-vida-onde-comprar-ingressos/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/07/Dabliu-Casarao-168-ESPETACULO-TEATRO-PAIOL-COMPRAR-INGRESSOS-260x146.jpg" alt="Curitiba recebe espetáculo de Dabliu, artista independente multifacetado" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Curitiba recebe espetáculo de Dabliu, artista independente multifacetado</p>
+                                                                            <hr class="p-0 m-0">
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                                <!-- Verifica se o post_location é 'editoria-home' -->
+                                                            <!-- Item de notícia -->
+                                <div class="mt-4">
+                                    <!-- Imagem com link para o post -->
+                                                                            <a href="https://www.paranaportal.com.br/geral/exposicao-tecnologica-de-tutankamon-em-curitiba-celebra-egito-antigo/">
+                                            <img loading="lazy" decoding="async" src="https://www.paranaportal.com.br/wp-content/uploads/2024/05/exposicao-tutankamon-egito-antigo-curitiba-260x146.jpeg" alt="Primeira vez no Sul, Curitiba recebe exposição premiada de Tutankamon" class="attachment-post-thumbnail size-post-thumbnail wp-post-image">
+                                        </a>
+                                                                        <!-- Descrição -->
+                                    <p class="desc">Primeira vez no Sul, Curitiba recebe exposição premiada de Tutankamon</p>
+                                                                    </div>
+                                <!-- Fim do Item de notícia -->
+                                                                        </div>
+                </div>
+            </div>
+            <!-- Fim do Bloco de notícias -->
+        
+
+
+
+
+
+
+
+
+      <!-- Item -->
+
+
+      <div class="row justify-content-center my-4 banner-anuncios">
+            <div id="div-agenda-cultural" style="background: #FFF;width: 261px; height: 270px;">
+                <div id="ad-side02"></div>
+            </div>
+        </div>
+
+
+        
+    </div>
+  </div>
+</section> </main>
+<!-- End Content -->
+<footer>
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-lg-2">
+                <a href="https://www.paranaportal.com.br/" rel="home">
+                    <img class="portal-parana-logo" src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/portal_parana_escrito_embaixo_logo.svg" alt="PortalParana">
+                </a>
+            </div>
+            <div class="col-lg-2 line-left">
+                <div class="list">
+                    <h4 class="title mb-0">
+                        <a href="#" title="Editorias">
+                            Editorias
+                        </a>
+                    </h4>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/negocios/" title="Negócios">
+                                Negócios
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/politica/" title="Política">
+                                Política
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/economia/" title="Economia">
+                                Economia
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/esportes/" title="Esportes">
+                                Esportes
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/geral/" title="Geral">
+                                Geral
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/ultimas-noticias/" title="Últimas Notícias">
+                                Últimas Notícias
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/colunas/" title="Colunas">
+                                Colunas
+                            </a>
+                        </li>
+                    </ul>
+                    <hr>
+                    <h4 class="title mb-0">
+                        <a href="https://www.paranaportal.com.br/sobre-parana-portal/" title="Institucional">
+                            Institucional
+                        </a>
+                    </h4>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/politica-de-privacidade/" title="Política de Privacidade">
+                                Política de Privacidade
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/termos-de-uso/" title="Termos de Uso">
+                                Termos de Uso
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/politica-de-cookies-br/" title="Política de Cookies (BR)">
+                                Política de Cookies (BR)
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/?page_id=152008" title="Mapa do site">
+                                Mapa do site
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="https://www.paranaportal.com.br/fale-conosco/" title="Fale Conosco">
+                                Fale Conosco
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 line-left">
+                <div class="list">
+                    <h4 class="title mb-0">
+                        Anuncie
+                    </h4>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="/cdn-cgi/l/email-protection#1655595b5344555f575a5646574457585746594442575a3855595b385444" title="COMERCIAL@PARANAPORTAL.COM.BR">
+                                <span class="__cf_email__" data-cfemail="92d1dddfd7c0d1dbd3ded2c2d3c0d3dcd3c2ddc0c6d3debcd1dddfbcd0c0">[email&nbsp;protected]</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <h4 class="title mb-0">
+                        Participe
+                    </h4>
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link p-0" href="/cdn-cgi/l/email-protection#4e1c0b0a0f0d0f010e1e0f1c0f000f1e011c1a0f02600d0103600c1c" title="REDACAO@PARANAPORTAL.COM.BR">
+                                <span class="__cf_email__" data-cfemail="792b3c3d383a38363929382b38373829362b2d3835573a3634573b2b">[email&nbsp;protected]</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <h4 class="title mb-0">
+                        Acompanhe
+                    </h4>
+                    <ul class="nav">
+                        <li class="nav-item me-2">
+                            <a class="nav-link p-0" href="https://www.facebook.com/paranaportal/" title="Facebook">
+                                <img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/fb.svg" alt="Facebook" width="25">
+                            </a>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link p-0" href="https://www.instagram.com/paranaportal/" title="Instagram">
+                                <img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/insta.svg" alt="Instagram" width="25">
+                            </a>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link p-0" href="redacao@paranaportal.com.br" title="E-mail">
+                                <img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/mail.svg" alt="E-mail" width="25">
+                            </a>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link p-0" href="https://x.com/paranaportal" title="X">
+                                <img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/twitter.svg" alt="X" width="25">
+                            </a>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link p-0" href="https://www.youtube.com/channel/UCEgZB0qLlmIr9SfzFX2OyQQ" title="YouTube">
+                                <img src="https://www.paranaportal.com.br/wp-content/themes/pinenews/assets/img/svg/youtube.svg" alt="YouTube" width="25">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <h4 class="title text-center mb-3">
+                    Parceiros
+                </h4>
+                <div class="sidebar-parceiros">
+                    <section id="block-36" class="widget widget_block widget_media_image">
+                        <figure class="wp-block-image size-full parceiros parceiro-radio-alpha"><img loading="lazy" decoding="async" width="243" height="114" src="https://paranaportal.uol.com.br/wp-content/uploads/2023/10/alpha_transparente.png" alt="" class="wp-image-4532"></figure>
+                    </section>
+                    <section id="block-46" class="widget widget_block widget_media_image">
+                        <figure class="wp-block-image"><img loading="lazy" decoding="async" width="857" height="774" src="https://paranaportal.uol.com.br/wp-content/uploads/2023/10/band_transparente-edited.png" alt="" class="wp-image-4534" srcset="https://www.paranaportal.com.br/wp-content/uploads/2023/10/band_transparente-edited.png 857w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/band_transparente-edited-300x271.png 300w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/band_transparente-edited-768x694.png 768w" sizes="(max-width: 857px) 100vw, 857px"></figure>
+                    </section>
+                    <section id="block-47" class="widget widget_block widget_media_image">
+                        <figure class="wp-block-image"><img loading="lazy" decoding="async" width="1778" height="1778" src="https://paranaportal.uol.com.br/wp-content/uploads/2023/10/Logotipo_RadioCuritiba_azul-edited.jpg" alt="" class="wp-image-4535" srcset="https://www.paranaportal.com.br/wp-content/uploads/2023/10/Logotipo_RadioCuritiba_azul-edited.jpg 1778w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/Logotipo_RadioCuritiba_azul-edited-300x300.jpg 300w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/Logotipo_RadioCuritiba_azul-edited-1024x1024.jpg 1024w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/Logotipo_RadioCuritiba_azul-edited-150x150.jpg 150w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/Logotipo_RadioCuritiba_azul-edited-768x768.jpg 768w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/Logotipo_RadioCuritiba_azul-edited-1536x1536.jpg 1536w" sizes="(max-width: 1778px) 100vw, 1778px"></figure>
+                    </section>
+                    <section id="block-48" class="widget widget_block widget_media_image">
+                        <figure class="wp-block-image"><img loading="lazy" decoding="async" width="355" height="355" src="https://paranaportal.uol.com.br/wp-content/uploads/2023/10/tvmaringa-edited.jpg" alt="" class="wp-image-4536" srcset="https://www.paranaportal.com.br/wp-content/uploads/2023/10/tvmaringa-edited.jpg 355w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/tvmaringa-edited-300x300.jpg 300w, https://www.paranaportal.com.br/wp-content/uploads/2023/10/tvmaringa-edited-150x150.jpg 150w" sizes="(max-width: 355px) 100vw, 355px"></figure>
+                    </section>
+                </div>
+            </div>
+            <div class="col-12 text-center mt-5">
+                <p class="footer-p text-white mb-0">
+                    ©2023 Todos os direitos reservados. Proibida a cópia integral ou parcial do conteúdo sem autorização. 
+                </p>
+                <p class="footer-p text-white mb-0">
+                    PARANÁ PORTAL Rua Afonso Pedri, número 65 – Pilarzinho, Curitiba - PR | 80820-680
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Politica de Cookies</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="close-dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">We use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show (non-) personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Funcional</span>
+							<span class="cmplz-always-active">
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox" id="cmplz-functional-optin" data-category="cmplz_functional" class="cmplz-consent-checkbox cmplz-functional" size="40" value="1">
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Funcional</span></label>
+								</span>
+								Sempre ativo							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">O armazenamento técnico ou acesso é estritamente necessário para a finalidade legítima de permitir a utilização de um serviço específico explicitamente solicitado pelo assinante ou utilizador, ou para a única finalidade de efetuar a transmissão de uma comunicação através de uma rede de comunicações eletrónicas.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-preferences-optin" data-category="cmplz_preferences" class="cmplz-consent-checkbox cmplz-preferences" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Preferences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Estatísticas</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-statistics-optin" data-category="cmplz_statistics" class="cmplz-consent-checkbox cmplz-statistics" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Estatísticas</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">O armazenamento técnico ou acesso que é utilizado exclusivamente para fins estatísticos anônimos. Sem uma intimação, cumprimento voluntário por parte do seu Provedor de Serviços de Internet ou registros adicionais de terceiros, as informações armazenadas ou recuperadas apenas para esse fim geralmente não podem ser usadas para identificá-lo.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing">
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Promocional</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox" id="cmplz-marketing-optin" data-category="cmplz_marketing" class="cmplz-consent-checkbox cmplz-marketing" size="40" value="1">
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Promocional</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"></path></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">O armazenamento ou acesso técnico é necessário para criar perfis de usuário para enviar publicidade ou para rastrear o usuário em um site ou em vários sites para fins de marketing semelhantes.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Gerenciar opções</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gerenciar serviços</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Leia mais sobre esses propósitos</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Aceitar</button>
+		<button class="cmplz-btn cmplz-deny">Negar</button>
+		<button class="cmplz-btn cmplz-view-preferences">Ver Preferências</button>
+		<button class="cmplz-btn cmplz-save-preferences">Salvar Preferências</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Ver Preferências</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Manage consent</button>
+
+</div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://www.paranaportal.com.br/wp-content/themes/paranaportal/assets/js/app.js?ver=1.0" id="scripts-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"25","version":"6.5.6","store_consent":"","do_not_track_enabled":"1","consenttype":"optin","region":"br","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/www.paranaportal.com.br\/wp-json\/complianz\/v1\/","locale":"lang=pt&locale=pt_BR","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"19","cookie_path":"\/","categories":{"statistics":"estatisticas","marketing":"marketing"},"tcf_active":"","placeholdertext":"Clique para aceitar os cookies {category} e ativar este conte\u00fado","aria_label":"Clique para aceitar os cookies {category} e ativar este conte\u00fado","css_file":"https:\/\/www.paranaportal.com.br\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=25","page_links":{"br":{"cookie-statement":{"title":"Pol\u00edtica de Cookies ","url":"https:\/\/www.paranaportal.com.br\/politica-de-cookies-br\/"},"privacy-statement":{"title":"Pol\u00edtica de privacidade","url":"https:\/\/www.paranaportal.com.br\/politica-de-privacidade\/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":""};
+/* ]]> */
+</script>
+<script defer="" type="text/javascript" src="https://www.paranaportal.com.br/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=6.5.6" id="cmplz-cookiebanner-js"></script>
+				<script type="text/plain" data-service="google-analytics" async="" data-category="statistics" data-cmplz-src="https://www.googletagmanager.com/gtag/js?id=G-GD5BV092VF"></script><!-- Statistics script Complianz GDPR/CCPA -->
+						<script type="text/plain" data-category="statistics">window['gtag_enable_tcf_support'] = false;
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-GD5BV092VF', {
+	cookie_flags:'secure;samesite=none',
+	
+});
+</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;901bfac77b2164ed&quot;,&quot;version&quot;:&quot;2025.1.0&quot;,&quot;r&quot;:1,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;dff8d47d03454824a14b8016d9c112ca&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+</body></html>

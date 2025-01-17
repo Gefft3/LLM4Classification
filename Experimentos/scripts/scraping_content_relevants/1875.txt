@@ -1,0 +1,1028 @@
+<html lang="es" dir="ltr" class="no-js"><head>
+<link href="/Content/responsive/VOA/es/VOA-es.css?&amp;av=0.0.0.0&amp;cb=286" rel="stylesheet">
+<script src="https://tags.vozdeamerica.com/voa-pangea/prod/utag.sync.js"></script> <script type="text/javascript" src="https://www.youtube.com/iframe_api" async=""></script>
+<script type="text/javascript">
+//a general 'js' detection, must be on top level in <head>, due to CSS performance
+document.documentElement.className = "js";
+var cacheBuster = "286";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+var isLoggingEnabled = false;
+var isPreviewPage = false;
+var isLivePreviewPage = false;
+if (!isPreviewPage) {
+window.RFE = window.RFE || {};
+window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+const url = new URL(window.location.href);
+const params = new URLSearchParams(url.search);
+// Remove the 'nocache' parameter
+params.delete('nocache');
+// Update the URL without the 'nocache' parameter
+url.search = params.toString();
+window.history.replaceState(null, '', url.toString());
+} else {
+window.addEventListener('load', function() {
+const links = window.document.links;
+for (let i = 0; i < links.length; i++) {
+links[i].href = '#';
+links[i].target = '_self';
+}
+})
+}
+var pwaEnabled = false;
+var swCacheDisabled;
+</script>
+<meta charset="utf-8">
+<title>Amazonía brasileña vuelve a ser azotada por inundaciones</title>
+<meta name="description" content="Las fuertes lluvias que han caído en la Amazonía en los dos últimos años están asociadas al fenómeno de La Niña.">
+<meta name="keywords" content="América Latina">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="fb:pages" content="128071033870721">
+<meta name="facebook-domain-verification" content="c7x0gnr5mrbmsk7wti5orqx338fnqm">
+<meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E">
+<link href="https://www.vozdeamerica.com/a/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html" rel="canonical">
+<meta name="apple-mobile-web-app-title" content="VOA">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//6586968.ltr">
+<meta content="Amazonía brasileña vuelve a ser azotada por inundaciones" property="og:title">
+<meta content="Las fuertes lluvias que han caído en la Amazonía en los dos últimos años están asociadas al fenómeno de La Niña." property="og:description">
+<meta content="article" property="og:type">
+<meta content="https://www.vozdeamerica.com/a/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html" property="og:url">
+<meta content="Voz de América" property="og:site_name">
+<meta content="https://www.facebook.com/LaVozdeAmerica" property="article:publisher">
+<meta content="https://gdb.voanews.com/03190000-0aff-0242-708b-08da3d8d83dc_w1200_r1.jpeg" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="675" property="og:image:height">
+<meta content="388594471527400" property="fb:app_id">
+<meta content="Associated Press" name="Author">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="@voanoticias" name="twitter:site">
+<meta content="https://gdb.voanews.com/03190000-0aff-0242-708b-08da3d8d83dc_w1200_r1.jpeg" name="twitter:image">
+<meta content="Las fuertes lluvias que han caído en la Amazonía en los dos últimos años están asociadas al fenómeno de La Niña." name="twitter:description">
+<link rel="amphtml" href="https://www.vozdeamerica.com/amp/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html">
+<script type="application/ld+json">{"articleSection":"Am\u0026#233;rica Latina","headline":"Amazonía brasileña vuelve a ser azotada por inundaciones","inLanguage":"es","keywords":"América Latina","author":{"@type":"Person","url":"https://www.vozdeamerica.com/author/associated-press/v_kyr","description":"","image":{"@type":"ImageObject"},"name":"Associated Press"},"datePublished":"2022-05-24 14:01:06Z","dateModified":"2022-05-24 14:01:06Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.vozdeamerica.com/Content/responsive/VOA/es/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.vozdeamerica.com","sameAs":["https://www.facebook.com/VozDeAmerica","https://twitter.com/VozdeAmerica","https://www.youtube.com/user/vozdeamerica","https://www.instagram.com/vozdeamerica"],"name":"Voz de América","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.vozdeamerica.com/a/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html","url":"https://www.vozdeamerica.com/a/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html","description":"Las fuertes lluvias que han caído en la Amazonía en los dos últimos años están asociadas al fenómeno de La Niña.","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/03190000-0aff-0242-708b-08da3d8d83dc_w1080_h608.jpeg"},"name":"Amazonía brasileña vuelve a ser azotada por inundaciones"}</script>
+<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.0.0.0&amp;cb=286"></script>
+<script src="/Scripts/responsive/loader.b?v=5dcqjmjxQjH1Md-cJVJ0yH_4FLLxhHZ95FKJFs4Zflw1?&amp;av=0.0.0.0&amp;cb=286"></script>
+<link rel="icon" type="image/svg+xml" href="/Content/responsive/VOA/img/webApp/favicon.svg">
+<link rel="alternate icon" href="/Content/responsive/VOA/img/webApp/favicon.ico">
+<link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/VOA/img/webApp/ico-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/VOA/img/webApp/ico-72x72.png">
+<link rel="apple-touch-icon-precomposed" href="/Content/responsive/VOA/img/webApp/ico-57x57.png">
+<link rel="icon" sizes="192x192" href="/Content/responsive/VOA/img/webApp/ico-192x192.png">
+<link rel="icon" sizes="128x128" href="/Content/responsive/VOA/img/webApp/ico-128x128.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/Content/responsive/VOA/img/webApp/ico-144x144.png">
+<link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/">
+<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml">
+</head>
+<body class=" nav-no-loaded cc_theme pg-article print-lay-article js-category-to-nav nojs-images ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript" data-cookiecategory="analytics">
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
+}
+}
+</script>
+<!--Analytics tag js version start-->
+<script type="text/javascript" data-cookiecategory="analytics">
+var utag_data={entity:"VOA",cms_release:"8.36.0.0.286",language:"Spanish",language_service:"VOA Spanish",short_language_service:"SPA",property_id:"483",platform:"web",platform_short:"W",runs_js:"Yes",page_title:"Amazonía brasileña vuelve a ser azotada por inundaciones",page_type:"article",page_name:"Amazonía brasileña vuelve a ser azotada por inundaciones",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://www.vozdeamerica.com/a/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html",domain:"www.vozdeamerica.com",pub_year:"2022",pub_month:"05",pub_day:"24",pub_hour:"14",pub_weekday:"Tuesday",byline:"Associated Press",categories:"s_america-latina",slug:"amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones",section:"américa latina",english_section:"s_america-latina",article_uid:"6586968"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+if(window.top!== window.self&&utag_data.page_type==="snippet"){utag_data.page_type = 'iframe';}
+try{if(window.top!== window.self&&window.self.location.hostname===window.top.location.hostname){utag_data.platform = 'self-embed';utag_data.platform_short = 'se';}}catch(e){}
+(function(a,b,c,d){ a="https://tags.vozdeamerica.com/voa-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script>
+<!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute; border: none;" src="https://ssc.vozdeamerica.com/b/ss/bbgprod,bbgentityvoa/1/G.4--NS/689397473?pageName=voa%3aspa%3aw%3aarticle%3aamazon%c3%ada%20brasile%c3%b1a%20vuelve%20a%20ser%20azotada%20por%20inundaciones&amp;c6=amazon%c3%ada%20brasile%c3%b1a%20vuelve%20a%20ser%20azotada%20por%20inundaciones&amp;v36=8.36.0.0.286&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.vozdeamerica.com%2fa%2famazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones%2f6586968.html&amp;c1=D=g&amp;v1=D=g&amp;events=event1,event52&amp;c16=voa%20spanish&amp;v16=D=c16&amp;c5=s_america-latina&amp;v5=D=c5&amp;ch=am%c3%a9rica%20latina&amp;c15=spanish&amp;v15=D=c15&amp;c4=article&amp;v4=D=c4&amp;c14=6586968&amp;v14=D=c14&amp;v20=no&amp;c17=web&amp;v17=D=c17&amp;mcorgid=518abc7455e462b97f000101%40adobeorg&amp;server=www.vozdeamerica.com&amp;pageType=D=c4&amp;ns=bbg&amp;v29=D=server&amp;v25=voa&amp;v30=483&amp;v105=D=User-Agent " alt="analytics" width="1" height="1"></noscript>
+<!-- End of Analytics tag management NoScript -->
+<!--*** Accessibility links - For ScreenReaders only ***-->
+<section>
+<div class="sr-only">
+<h2>Enlaces para accesibilidad</h2>
+<ul>
+<li><a href="#content" data-disable-smooth-scroll="1">Salte al contenido principal</a></li>
+<li><a href="#navigation" data-disable-smooth-scroll="1">Salte al navegador principal</a></li>
+<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Salte a búsqueda</a></li>
+</ul>
+</div>
+</section>
+<div dir="ltr">
+<div id="page">
+<aside>
+<div class="c-lightbox overlay-modal">
+<div class="c-lightbox__intro">
+<h2 class="c-lightbox__intro-title"></h2>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="Siguiente">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">Siguiente</span>
+</button>
+</div>
+<div class="c-lightbox__nav">
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="Cerrar">
+<span class="ico ico--rounded ico-close"></span>
+<span class="sr-only">Cerrar</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="Anterior">
+<span class="ico ico--rounded ico-chevron-backward"></span>
+<span class="sr-only">Anterior</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="Siguiente">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">Siguiente</span>
+</button>
+</div>
+<div class="c-lightbox__content-wrap">
+<figure class="c-lightbox__content">
+<span class="c-spinner c-spinner--lightbox">
+<img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait">
+</span>
+<div class="c-lightbox__img">
+<div class="thumb">
+<img src="" alt="">
+</div>
+</div>
+<figcaption>
+<div class="c-lightbox__info c-lightbox__info--foot">
+<span class="c-lightbox__counter"></span>
+<span class="caption c-lightbox__caption"></span>
+</div>
+</figcaption>
+</figure>
+</div>
+<div class="hidden">
+<div class="content-advisory__box content-advisory__box--lightbox">
+<span class="content-advisory__box-text">This image contains sensitive content which some people may find offensive or disturbing.</span>
+<button class="btn btn--transparent content-advisory__box-btn m-t-md" value="text" type="button">
+<span class="btn__text">
+Click to reveal
+</span>
+</button>
+</div>
+</div>
+</div>
+<div class="print-dialogue">
+<div class="container">
+<h3 class="print-dialogue__title section-head">Print Options:</h3>
+<div class="print-dialogue__opts">
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked">
+<label for="checkboxImages" class="form__label m-t-md">Images</label>
+</li>
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked">
+<label for="checkboxMultimedia" class="form__label m-t-md">Multimedia</label>
+</li>
+</ul>
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked">
+<label for="checkboxEmbedded" class="form__label m-t-md">Insertar contenido</label>
+</li>
+<li class="hidden">
+<input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox">
+<label for="checkboxComments" class="form__label m-t-md">Comments</label>
+</li>
+</ul>
+</div>
+<div class="print-dialogue__buttons">
+<button class="btn btn--secondary close-button" type="button" title="Cancelar">
+<span class="btn__text ">Cancelar</span>
+</button>
+<button class="btn btn-cust-print m-l-sm" type="button" title="Print">
+<span class="btn__text ">Print</span>
+</button>
+</div>
+</div>
+</div>
+<div class="ctc-message pos-fix">
+<div class="ctc-message__inner">Link has been copied to clipboard</div>
+</div>
+</aside>
+<div class="hdr-20 hdr-20--big">
+<div class="hdr-20__inner">
+<div class="hdr-20__max pos-rel">
+<div class="hdr-20__side hdr-20__side--primary d-flex">
+<input type="checkbox" id="main-menu-ctrl" class="hidden main-menu-switch">
+<label for="main-menu-ctrl" class="burger hdr-trigger pos-rel trans-trigger" data-trans-evt="click" data-trans-id="menu">
+<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close burger__ico burger__ico--close"></span>
+<span class="ico ico-menu hdr-trigger__ico hdr-trigger__ico--open burger__ico burger__ico--open"></span>
+</label>
+<div class="menu-pnl pos-fix trans-target" data-trans-id="menu">
+<div class="menu-pnl__inner">
+<nav class="main-nav menu-pnl__item menu-pnl__item--first">
+<ul class="main-nav__list accordeon" data-analytics-tales="false" data-promo-name="link" data-location-name="nav,secnav">
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2459" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2459">
+Elecciones EEUU 2024
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/elecciones-eeuu-2024" title="Elecciones EEUU" data-item-name="us-elections-2024">Elecciones EEUU</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/elecciones-en-eeuu--voto-dividido" title="Voto dividido" data-item-name="divide vote eeuu">Voto dividido</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2456" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2456">
+América del Norte
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/estados-unidos" title="EEUU" data-item-name="s_estados_unidos">EEUU</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7581" title="México" data-item-name="mexico-news">México</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-sobre-haiti" title="Haití" data-item-name="haiti">Haití</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2457" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2457">
+América Latina
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7687" title="Argentina" data-item-name="argentina">Argentina</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7580" title="Bolivia" data-item-name="bolivian-news">Bolivia</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7573" title="Colombia" data-item-name="colombian-news">Colombia</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7574" title="Chile" data-item-name="chile-news">Chile</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7575" title="Perú" data-item-name="peru-news">Perú</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-ecuador" title="Ecuador" data-item-name="ecuador">Ecuador</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-venezuela" title="Venezuela" data-item-name="venezuela-news">Venezuela</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7486" title="Brasil" data-item-name="brasil">Brasil</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/china-en-america-latina" title="China en América Latina" data-item-name="China in Latin America">China en América Latina</a>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2458" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2458">
+Centroamérica
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7578" title="Costa Rica" data-item-name="costa-rica-news">Costa Rica</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7577" title="El Salvador" data-item-name="el-salvador-news">El Salvador</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-guatemala" title="Guatemala" data-item-name="guatemala-news">Guatemala</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7576" title="Honduras" data-item-name="honduras-news">Honduras</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/nicaragua" title="Nicaragua" data-item-name="s_nicaragua-">Nicaragua</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-765" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-765">
+Otras secciones
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-inmigracion" title="Inmigración" data-item-name="immigration-news">Inmigración</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/libertad-de-prensa-" title="Libertad de Prensa">Libertad de Prensa</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/p/8479.html" title="VOA Verifica">VOA Verifica</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/mundo" title="Mundo" data-item-name="s_noticias-internacional">Mundo</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/economia" title="Economía" data-item-name="economia-finanzas">Economía</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/entretenimiento" title="Entretenimiento y Cultura" data-item-name="arte-entretenimiento">Entretenimiento y Cultura</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/tecnologia" title="Tecnología" data-item-name="s_tecnologia-ciencia">Tecnología</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/deportes" title="Deportes" data-item-name="noticias-deportes">Deportes</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/ciencia-y-salud" title="Ciencia y Salud" data-item-name="s_noticias-salud-ciencia">Ciencia y Salud</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/reportajes-especiales-de-la-voz-de-america" title="Especiales de la VOA" data-item-name="voa-specials-stories">Especiales de la VOA</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/Libertad-de-prensa" title="Libertad de prensa" data-item-name="freedom-press">Libertad de prensa</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/conflicto-ucrania-noticias" title="Ucrania" data-item-name="ukraine-news">Ucrania</a>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-789" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-789">
+Multimedia
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/videos-vozdeamerica" title="Videos" data-item-name="videos">Videos</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/galeria-de-fotos-vozdeamerica" title="Fotografía" data-item-name="s_voa-fotos">Fotografía</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/audios-vozdeamerica-" title="Audios" data-item-name="audios">Audios</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2433" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2433">
+Podcasts
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7900" title="Retro VOA-Conectando generaciones" data-item-name="retro-voa">Retro VOA-Conectando generaciones</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/conversando-con-voa-entrevistas-radio" title="Conversando con la Voz de América" data-item-name="p_conversando-con-la-voa">Conversando con la Voz de América</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/podcast-la-mochila-migrantes-nicaragua" title="Podcast La Mochila: Historia de migrantes" data-item-name="the-backpack-podcast">Podcast La Mochila: Historia de migrantes</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-1528" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1528">
+Programas TV
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/el-mundo-al-dia" title="El Mundo al día" data-item-name="p_tv-mundo-al-dia">El Mundo al día</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Foro-analisis-vozdeamerica" title="Foro Interamericano" data-item-name="p_tv-foro">Foro Interamericano</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/revista-vision-360" title="Visión 360">Visión 360</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/z/7162" title="Las Claves">Las Claves</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Panorama" title="Panorama" data-item-name="panorama">Panorama</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-826" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-826">
+Radio
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/avance-informativo-radio" title="Avance informativo" data-item-name="p_radio-informativo-voasat">Avance informativo</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Audionoticias-radio" title="AudioNoticias" data-item-name="news-audio">AudioNoticias</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Buenos-dias-america-radio" title="Buenos Días América" data-item-name="p_radio-buenos-dias-america">Buenos Días América</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7005" title="Estados Unidos al Día" data-item-name="usa-today">Estados Unidos al Día</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/4557" title="El mundo al día [Radio]" data-item-name="p_radio-mundo-al-dia">El mundo al día [Radio]</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Foro-analisis-radio" title="Foro [Radio]" data-item-name="p_foro-radio">Foro [Radio]</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/deportivo-internacional-radio" title="Deportivo Internacional" data-item-name="p_radio-deporte-internacional">Deportivo Internacional</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/z/6603" title="Nota económica">Nota económica</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/entretenimiento-radio" title="Entretenimiento" data-item-name="p_entretenimiento">Entretenimiento</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="https://direct.vozdeamerica.com" title="Direct" target="_blank" rel="noopener">Direct</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/serie-de-documentales-voz-de-america" title="Documentales de la VOA" data-item-name="Documental VOA">Documentales de la VOA</a>
+</li>
+</ul>
+</nav>
+<div class="menu-pnl__item">
+<a href="https://learningenglish.voanews.com/" class="menu-pnl__item-link" alt="Learning English">Learning English</a>
+</div>
+<div class="menu-pnl__item menu-pnl__item--social">
+<h5 class="menu-pnl__sub-head">Síganos</h5>
+<a href="https://www.facebook.com/VozDeAmerica" title="Síganos en Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-facebook" target="_blank" rel="noopener">
+<span class="ico ico-facebook-alt ico--rounded"></span>
+</a>
+<a href="https://twitter.com/VozdeAmerica" title="Síganos en Twitter" data-analytics-text="follow_on_twitter" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-twitter" target="_blank" rel="noopener">
+<span class="ico ico-twitter ico--rounded"></span>
+</a>
+<a href="https://www.youtube.com/user/vozdeamerica" title="Síganos en Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-youtube" target="_blank" rel="noopener">
+<span class="ico ico-youtube ico--rounded"></span>
+</a>
+<a href="https://www.instagram.com/vozdeamerica" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-instagram" target="_blank" rel="noopener">
+<span class="ico ico-instagram ico--rounded"></span>
+</a>
+</div>
+<div class="menu-pnl__item">
+<a href="/navigation/allsites" class="menu-pnl__item-link">
+<span class="ico ico-languages "></span>
+Idiomas
+</a>
+</div>
+</div>
+</div>
+<input type="checkbox" id="top-search-ctrl" class="hidden top-search-switch">
+<label for="top-search-ctrl" class="top-srch-trigger hdr-trigger">
+<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close top-srch-trigger__ico top-srch-trigger__ico--close"></span>
+<span class="ico ico-search hdr-trigger__ico hdr-trigger__ico--open top-srch-trigger__ico top-srch-trigger__ico--open"></span>
+</label>
+<div class="srch-top srch-top--in-header">
+<div class="container">
+<form action="/s" class="srch-top__form srch-top__form--in-header" id="form-topSearchHeader" method="get" role="search"><label for="txtHeaderSearch" class="sr-only">Búsqueda</label>
+<input type="text" id="txtHeaderSearch" name="k" placeholder="buscar en el texto... " accesskey="s" value="" class="srch-top__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }">
+<button title="Búsqueda" type="submit" class="btn btn--top-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
+<span class="ico ico-search"></span>
+</button></form>
+</div>
+</div>
+<a href="/" class="main-logo-link">
+<img src="/Content/responsive/VOA/es/img/logo-compact.svg" class="main-logo main-logo--comp" alt="site logo">
+<img src="/Content/responsive/VOA/es/img/logo.svg" class="main-logo main-logo--big" alt="site logo">
+</a>
+</div>
+<div class="hdr-20__side hdr-20__side--secondary d-flex">
+<a href="/programs/radio" title="Audio" class="hdr-20__secondary-item" data-item-name="audio">
+<span class="ico ico-audio hdr-20__secondary-icon"></span>
+</a>
+<a href="/programs/tv" title="Video" class="hdr-20__secondary-item" data-item-name="video">
+<span class="ico ico-video hdr-20__secondary-icon"></span>
+</a>
+<a class="hdr-20__secondary-item hdr-20__secondary-item--search" data-item-name="search">
+<span class="ico ico-search hdr-20__secondary-icon hdr-20__secondary-icon--search"></span>
+</a>
+<div class="hdr-20__secondary-item live-b-drop">
+<div class="live-b-drop__off">
+<a href="/live/audio/56" class="live-b-drop__link" title="Live" data-item-name="live">
+<span class="badge badge--live-btn badge--live">
+Live
+</span>
+</a>
+</div>
+<div class="live-b-drop__on hidden">
+<input type="checkbox" id="live-ctrl" class="hidden live-b-drop__switch">
+<label for="live-ctrl" class="live-b-drop__label pos-rel">
+<span class="badge badge--live badge--live-btn">
+Live
+</span>
+<span class="ico ico-close live-b-drop__label-ico live-b-drop__label-ico--close"></span>
+</label>
+<div class="live-b-drop__panel" id="targetLivePanelDiv"></div>
+</div>
+</div>
+<div class="srch-bottom">
+<form action="/s" class="srch-bottom__form d-flex" id="form-bottomSearch" method="get" role="search"><label for="txtSearch" class="sr-only">Búsqueda</label>
+<input type="search" id="txtSearch" name="k" placeholder="buscar en el texto... " accesskey="s" value="" class="srch-bottom__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtSearch')[0].value) }">
+<button title="Búsqueda" type="submit" class="btn btn--bottom-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtSearch')[0].value) ">
+<span class="ico ico-search"></span>
+</button></form>
+</div>
+</div>
+<img src="/Content/responsive/VOA/es/img/logo-print.gif" class="logo-print" alt="site logo">
+<img src="/Content/responsive/VOA/es/img/logo-print_color.png" class="logo-print logo-print--color" alt="site logo">
+</div>
+</div>
+</div>
+<script>
+var nav2In = document.querySelector('.hdr-20__inner');
+var nav2Sec = document.querySelector('.hdr-20__side--secondary')
+var secStyle = window.getComputedStyle(nav2Sec);
+if (nav2In
+&& window.pageYOffset < 150
+&& secStyle['position'] !== 'fixed'
+&& document.body.className.indexOf('pg-section') > -1) {
+nav2In.classList.add('hdr-20__inner--big')
+}
+</script>
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop">
+<div class="c-hlights__wrap container p-0">
+<div class="c-hlights__nav">
+<a role="button" href="#" title="Anterior">
+<span class="ico ico-chevron-backward m-0"></span>
+<span class="sr-only">Anterior</span>
+</a>
+<a role="button" href="#" title="Siguiente">
+<span class="ico ico-chevron-forward m-0"></span>
+<span class="sr-only">Siguiente</span>
+</a>
+</div>
+<input class="switcher-controller" id="more-less-1" type="checkbox">
+<span class="c-hlights__label">
+<span class="">Última hora</span>
+<span class="switcher-trigger">
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="Mostrar más">
+<span class="ico ico-chevron-down"></span>
+</label>
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="Mostrar menos">
+<span class="ico ico-chevron-up"></span>
+</label>
+</span>
+</span>
+<ul class="c-hlights__items switcher-target">
+</ul>
+</div>
+</div> <div id="content">
+<div class="container">
+<div class="hdr-container">
+<div class="row">
+<div class="col-category col-xs-12 col-md-2 pull-left"> <div class="category js-category">
+<a class="" href="/america-latina">América Latina</a> </div>
+</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="title pg-title">
+Amazonía brasileña vuelve a ser azotada por inundaciones
+</h1>
+</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details ">
+<div class="published">
+<span class="date">
+<time pubdate="pubdate" datetime="2022-05-24T10:01:06-05:00">
+mayo 24, 2022
+</time>
+</span>
+</div>
+<div class="links">
+<ul class="links__list links__list--column">
+<li class="links__item">
+<a class="links__item-link" href="/author/associated-press/v_kyr" title="Associated Press">Associated Press</a>
+</li>
+</ul>
+</div>
+</div>
+</div><div class="col-lg-12 separator"> <div class="separator">
+<hr class="title-line">
+</div>
+</div><div class="col-multimedia col-xs-12 col-md-10 pull-right"> <div class="cover-media">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb thumb16_9">
+<img src="https://gdb.voanews.com/03190000-0aff-0242-708b-08da3d8d83dc_w250_r1_s.jpeg" alt="Edileuza Pereira da Silva lleva un plato con pescado para cocinar fuera de su casa, inundada por la crecida del río Negro el lunes 23 de mayo de 2022 en Iranduba, estado de Amazonas, Brasil. (AP Foto/Edmar Barros)">
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
+</div>
+<figcaption>
+<span class="caption">Edileuza Pereira da Silva lleva un plato con pescado para cocinar fuera de su casa, inundada por la crecida del río Negro el lunes 23 de mayo de 2022 en Iranduba, estado de Amazonas, Brasil. (AP Foto/Edmar Barros)</span>
+</figcaption>
+</figure>
+</div>
+</div><div class="col-xs-12 col-md-2 pull-left article-share pos-rel"> <div class="share--box">
+<aside class="share flex-column js-share--apply-sticky js-share--expandable js-share--horizontal">
+<span class="label label--share">Compartir</span>
+<ul class="share__list">
+<li class="share__item">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.vozdeamerica.com%2fa%2famazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones%2f6586968.html" data-analytics-text="share_on_facebook" title="Comparta en Facebook" target="_blank" class="btn btn--rounded btn-facebook js-social-btn">
+<span class="ico ico--rounded ico-facebook ico--l"></span>
+</a>
+</li>
+<li class="share__item">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.vozdeamerica.com%2fa%2famazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones%2f6586968.html&amp;text=Amazon%c3%ada+brasile%c3%b1a+vuelve+a+ser+azotada+por+inundaciones" data-analytics-text="share_on_twitter" title="Comparta en Twitter" target="_blank" class="btn btn--rounded btn-twitter js-social-btn">
+<span class="ico ico--rounded ico-twitter ico--l"></span>
+</a>
+</li>
+<li class="share__item">
+<div class="ctc">
+<input type="text" class="ctc__input" readonly="readonly">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://www.vozdeamerica.com/a/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html" title="copy link">
+<span class="ico ico-content-copy ico--rounded ico--l"></span>
+</button>
+</div>
+</li>
+<li class="share__item">
+<a href="mailto:?body=https%3a%2f%2fwww.vozdeamerica.com%2fa%2famazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones%2f6586968.html&amp;subject=Amazonía brasileña vuelve a ser azotada por inundaciones" title="Envíelo a un amigo por email" class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--l"></span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="Alterne más opciones a compartir" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--l"></span>
+</a>
+</li>
+</ul>
+</aside>
+<div class="sticky-share-container" style="display:none">
+<div class="container">
+<a href="https://www.vozdeamerica.com" id="logo-sticky-share">&nbsp;</a>
+<div class="pg-title pg-title--sticky-share">
+Amazonía brasileña vuelve a ser azotada por inundaciones
+</div>
+<div class="sticked-nav-actions">
+<aside class="share share--sticky js-share--expandable">
+<span class="label label--share">share</span>
+<ul class="share__list">
+<li class="share__item share__item--horizontal">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.vozdeamerica.com%2fa%2famazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones%2f6586968.html" data-analytics-text="share_on_facebook" title="Comparta en Facebook" target="_blank" class="btn btn--rounded btn-facebook js-social-btn">
+<span class="ico ico--rounded ico-facebook ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--horizontal">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.vozdeamerica.com%2fa%2famazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones%2f6586968.html&amp;text=Amazon%c3%ada+brasile%c3%b1a+vuelve+a+ser+azotada+por+inundaciones" data-analytics-text="share_on_twitter" title="Comparta en Twitter" target="_blank" class="btn btn--rounded btn-twitter js-social-btn">
+<span class="ico ico--rounded ico-twitter ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<div class="ctc">
+<input type="text" class="ctc__input" readonly="readonly">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://www.vozdeamerica.com/a/amazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones/6586968.html" title="copy link">
+<span class="ico ico-content-copy ico--rounded ico--s"></span>
+</button>
+</div>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<a href="mailto:?body=https%3a%2f%2fwww.vozdeamerica.com%2fa%2famazonia-brasilena-vuelve-a-ser-azoada-por-inundaciones%2f6586968.html&amp;subject=Amazonía brasileña vuelve a ser azotada por inundaciones" title="Envíelo a un amigo por email" class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="Alterne más opciones a compartir" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--s"></span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+</div>
+</div>
+<div class="links">
+<p class="link-print visible-md visible-lg buttons p-0">
+<button class="btn btn--link btn-print p-t-0" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL+P)">
+<span class="ico ico-print"></span>
+<span class="btn__text">Print</span>
+</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="body-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
+<div class="intro intro--bold">
+<p>Las fuertes lluvias que han caído en la Amazonía en los dos últimos años están asociadas al fenómeno de La Niña.</p>
+</div>
+<div id="article-content" class="content-floated-wrap fb-quotable">
+<div class="wsw">
+<span class="dateline">IRANDUBA, Brasil —&nbsp;</span>
+<p>Por segundo año consecutivo, los habitantes de la selva amazónica brasileña se ven abrumados por las inundaciones, y cientos de miles de personas ya han sido afectadas por aguas cuyo nivel no deja de subir.</p>
+<p>Las fuertes lluvias que han caído en la Amazonía en los dos últimos años están asociadas al fenómeno de La Niña, que se produce cuando las corrientes del océano Pacífico afectan los patrones climáticos globales y que, según los científicos, se intensifica por el cambio climático.</p>
+<p>En Manaos, la ciudad más grande de la Amazonía brasileña, se empezó a llevar un registro de los niveles de las inundaciones desde 1902, y en la última década se han producido siete de las peores inundaciones, incluida la de este año.</p>
+<p>“Desafortunadamente, las inundaciones severas han venido ocurriendo repetidas veces en la última década”, dijo en un mensaje de texto a The Associated Press Luna Gripp, una investigadora en geociencias que monitorea los niveles de los ríos de la Amazonía occidental para el Servicio Geológico de Brasil. “Es la confirmación de que los eventos climáticos extremos van en franco aumento”.</p>
+<p>Tan sólo en el estado brasileño de Amazonas, se estima que 367.000 personas se vieron afectadas por la crecida de las aguas, según la autoridad de defensa civil del estado.</p>
+<p>El río Negro alcanzó una profundidad de 29,37 metros (96 pies) el lunes en la estación de medición de Manaos, en comparación con el récord de 30,02 metros (98 pies) que se registró el año pasado.</p>
+<p>“El año pasado enfrenté una inundación, y ahora estoy lidiando con la inundación de 2022”, dijo Raimundo Reis, un pescador que vive con su hijo en Iranduba, una ciudad frente a Manaos, al otro lado del río Negro.</p>
+<p>Utiliza tablas de madera para improvisar un piso elevado dentro de su casa y mantenerse por encima del agua.</p>
+<p>“La vida en el río es lo que ves: muchas dificultades y promesas incumplidas. Los políticos sólo vienen aquí en época de elecciones”, dice Reis, que no ha obtenido ninguna ayuda por parte del gobierno.</p>
+<p>El punto máximo de las inundaciones en Manaos se produce normalmente a mediados de junio, y tarda semanas —a veces meses— en remitir.</p>
+<p>El año pasado, el río Negro se mantuvo por encima de la línea de inundación de 29 metros (95 pies) durante 90 días.</p>
+<p>Actualmente, los ríos Jurua, Purus, Madeira, Solimoes y Amazonas también se encuentran desbordados, lo que ha provocado que 35 municipios del estado de Amazonas hayan declarado estado de emergencia.</p>
+<p>Las inundaciones ocasionan un daño significativo a la agricultura, que tradicionalmente se realiza en la Amazonía cerca de las riberas, donde el suelo es más fértil, dijo a AP por teléfono el jefe de la autoridad de defensa civil del estado, Charlis Barros. Eso hace que la distribución de alimentos sea una de las necesidades más urgentes que existen en este momento, señaló.</p>
+<p><strong><em>¡Conéctate con la Voz de América! Suscríbete a nuestro canal de</em></strong><a class="wsw__a" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa0NnRmlwS0luajhoQjlQT05lLXNVWXdadTNCUXxBQ3Jtc0ttLW1XeUJ2X3dMc0dPQTFWdWtoNkFjNFdwd2tzQUJTY2FpcW9NMEtCUnZVSHpJVGM0UUxMZzJrY1YyclNBM1pqTEhDM0tfdFE0SVExZkxVUnhUZ2ExZFFYTHphdzJIb1ZsbXJ0N0UwTWhLQ0YyaENSQQ&amp;q=http%3A%2F%2Fbit.ly%2F2XpJNZj" target="_blank" title="https://www.youtube.com/redirect?event=video_description&amp;redir_token=quffluhqa0nnrmlws0luajhoqjlqt05llxnvwxdadtncuxxbq3jtc0ttlw1xeuj2x3dmc0dpqtfwdwtonkfjnfdwd2tzqujty2fpcw9nmetcunzvshpjvgm0uuxmzzjry1yyclnbm1pqtehdm0tfdfe0svexzkxvunhuz2exzffythphdzjib1zsbx"><strong><em> YouTube</em></strong></a><strong><em> y activa las notificaciones, o bien, síguenos en las redes sociales: </em></strong><a class="wsw__a" href="https://www.facebook.com/VozdeAmerica/" target="_blank" title="https://www.facebook.com/vozdeamerica/"><strong><em>Facebook</em></strong></a><strong><em>, </em></strong><a class="wsw__a" href="https://twitter.com/VozdeAmerica" target="_blank" title="https://twitter.com/vozdeamerica"><strong><em>Twitter</em></strong></a><strong><em> e </em></strong><a class="wsw__a" href="https://www.instagram.com/vozdeamerica/" target="_blank" title="https://www.instagram.com/vozdeamerica/"><strong><em>Instagram</em></strong></a><strong><em>.</em></strong></p>
+</div>
+<ul>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="media-block-wrap">
+<h2 class="section-head">Relacionados</h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/tecnologia-bolsonaro-musk/6582619.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Bolsonaro califica la oferta de Musk por Twitter como un &quot;soplo de esperanza&quot;">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/5d1f41fd-4d17-4aa7-b7f0-48a691e7f21f_w100_r1.jpg" alt="Bolsonaro califica la oferta de Musk por Twitter como un &quot;soplo de esperanza&quot;">
+</noscript>
+<img data-src="https://gdb.voanews.com/5d1f41fd-4d17-4aa7-b7f0-48a691e7f21f_w33_r1.jpg" src="" alt="Bolsonaro califica la oferta de Musk por Twitter como un &quot;soplo de esperanza&quot;" class="">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/tecnologia-bolsonaro-musk/6582619.html">
+<h4 class="media-block__title media-block__title--size-4" title="Bolsonaro califica la oferta de Musk por Twitter como un &quot;soplo de esperanza&quot;">
+Bolsonaro califica la oferta de Musk por Twitter como un "soplo de esperanza"
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/relacion-apetito-china-soya-repunte-deforestacion-amazonas-/6569816.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="El apetito de China por la soya: ¿por qué se asocia al nuevo repunte en la deforestación del Amazonas?">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/031a0000-0aff-0242-7cdb-08da34c149ee_w100_r1.jpg" alt="El apetito de China por la soya: ¿por qué se asocia al nuevo repunte en la deforestación del Amazonas?">
+</noscript>
+<img data-src="https://gdb.voanews.com/031a0000-0aff-0242-7cdb-08da34c149ee_w33_r1.jpg" src="" alt="El apetito de China por la soya: ¿por qué se asocia al nuevo repunte en la deforestación del Amazonas?" class="">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/relacion-apetito-china-soya-repunte-deforestacion-amazonas-/6569816.html">
+<h4 class="media-block__title media-block__title--size-4" title="El apetito de China por la soya: ¿por qué se asocia al nuevo repunte en la deforestación del Amazonas?">
+El apetito de China por la soya: ¿por qué se asocia al nuevo repunte en la deforestación del Amazonas?
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="region">
+<div class="media-block-wrap" id="wrowblock-37833_21" data-area-id="R1_1">
+<div class="wsw">
+<div class="wsw__embed">
+<figure class="media-image">
+<a href="https://www.vozdeamerica.com/a/voa-pone-a-disposicion-su-canal-de-whatsapp/7045988.html?nocache=1" target="" rel="">
+<div class="img-wrap">
+<div class="thumb">
+<img alt="" src="https://gdb.voanews.com/01000000-0aff-0242-28df-08db3aba4946_w250_r0_s.png">
+</div>
+</div>
+</a>
+</figure>
+</div>
+<p> </p> </div>
+</div>
+<div class="media-block-wrap" id="wrowblock-37834_21" data-area-id="R2_1">
+<h2 class="section-head">
+Más noticias de América Latina </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<div class="media-block__content">
+<a href="/a/mayoria-agencias-eeuu-creen-sindrome-habana-no-fue-obra-de-enemigo-extranjero-funcionario-/7932498.html">
+<h4 class="media-block__title media-block__title--size-4" title="Mayoría de agencias EEUU creen que síndrome de La Habana no fue obra de enemigo extranjero: funcionario">
+Mayoría de agencias EEUU creen que síndrome de La Habana no fue obra de enemigo extranjero: funcionario
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<div class="media-block__content">
+<a href="/a/guyana-acudira-al-maximo-tribunal-de-la-onu-ante-reclamo-territorial-de-venezuela/7931139.html">
+<h4 class="media-block__title media-block__title--size-4" title="Guyana acudirá al máximo tribunal de la ONU ante reclamo territorial de Venezuela">
+Guyana acudirá al máximo tribunal de la ONU ante reclamo territorial de Venezuela
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<div class="media-block__content">
+<a href="/a/cuba-cede-tierras-empresa-vietnamita-producir-arroz-/7930106.html">
+<h4 class="media-block__title media-block__title--size-4" title="Cuba cede tierras a empresa vietnamita para producir arroz">
+Cuba cede tierras a empresa vietnamita para producir arroz
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<div class="media-block__content">
+<a href="/a/que-paso-en-cuba-en-el-2024-/7910419.html">
+<h4 class="media-block__title media-block__title--size-4" title="¿Qué pasó en Cuba en el 2024?">
+¿Qué pasó en Cuba en el 2024?
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<div class="media-block__content">
+<a href="/a/religiosos-afrocubanos-advierten-sobre-necesidad-cambios-incremento-violencia-/7922359.html">
+<h4 class="media-block__title media-block__title--size-4" title="Religiosos afrocubanos advierten sobre necesidad de cambios e incremento de la violencia">
+Religiosos afrocubanos advierten sobre necesidad de cambios e incremento de la violencia
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<div class="media-block__content">
+<a href="/a/gobernadora-de-puerto-rico-inaugura-3er-mandato-dias-despues-del-gran-apagon-que-afecto-a-la-isla-/7922329.html">
+<h4 class="media-block__title media-block__title--size-4" title="Gobernadora de Puerto Rico inaugura 3er mandato días después del gran apagón que afectó a la isla ">
+Gobernadora de Puerto Rico inaugura 3er mandato días después del gran apagón que afectó a la isla
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="media-block-wrap" id="wrowblock-37835_21" data-area-id="R3_1">
+<div class="wsw">
+<div class="wsw__embed">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb">
+<img alt="" src="https://gdb.voanews.com/01000000-0aff-0242-1204-08dbaa435093_w250_r0_s.png">
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded">
+</span></div>
+</figure>
+</div>
+<p> </p> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="slide-in-wg suspended" data-cookie-id="wgt-50188-0">
+<div class="wg-hiding-area">
+<span class="ico ico-arrow-right"></span>
+<div class="media-block-wrap">
+<h2 class="section-head">Recommended</h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/los-colores-unidos-de-benetton/7935897.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Los Colores Unidos de Benetton">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/80d8fcf7-aee4-452f-be16-b8db9d5eeccf_w100_r1.jpg" alt="(FILES) Italian Photographer Oliviero Toscani holds his new 2013 calendar dedicated to tattooed people as he poses with his models on January 10, 2013 in Florence. The calendar was designed for the Consortium Vera Pelle by Toscani, known for his advertisi">
+</noscript>
+<img data-src="https://gdb.voanews.com/80d8fcf7-aee4-452f-be16-b8db9d5eeccf_w33_r1.jpg" src="" alt="(FILES) Italian Photographer Oliviero Toscani holds his new 2013 calendar dedicated to tattooed people as he poses with his models on January 10, 2013 in Florence. The calendar was designed for the Consortium Vera Pelle by Toscani, known for his advertisi" class="">
+</div>
+<span class="ico ico-audio ico--media-type"></span>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/los-colores-unidos-de-benetton/7935897.html">
+<h4 class="media-block__title media-block__title--size-4" title="Los Colores Unidos de Benetton">
+Los Colores Unidos de Benetton
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer role="contentinfo">
+<div id="foot" class="foot">
+<div class="container">
+<div class="foot-nav collapsed" id="foot-nav">
+<div class="menu">
+<ul class="items">
+<li class="socials block-socials">
+<span class="handler" id="socials-handler">
+Síganos
+</span>
+<div class="inner">
+<ul class="subitems follow">
+<li>
+<a href="https://www.facebook.com/VozDeAmerica" title="Síganos en Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded js-social-btn btn-facebook" target="_blank" rel="noopener">
+<span class="ico ico-facebook-alt ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/VozdeAmerica" title="Síganos en Twitter" data-analytics-text="follow_on_twitter" class="btn btn--rounded js-social-btn btn-twitter" target="_blank" rel="noopener">
+<span class="ico ico-twitter ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/vozdeamerica" title="Síganos en Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded js-social-btn btn-youtube" target="_blank" rel="noopener">
+<span class="ico ico-youtube ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/rssfeeds" title="RSS" data-analytics-text="follow_on_rss" class="btn btn--rounded js-social-btn btn-rss">
+<span class="ico ico-rss ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/podcasts" title="Podcast" data-analytics-text="follow_on_podcast" class="btn btn--rounded js-social-btn btn-podcast">
+<span class="ico ico-podcast ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/subscribe.html" title="Suscríbete" data-analytics-text="follow_on_subscribe" class="btn btn--rounded js-social-btn btn-email">
+<span class="ico ico-email ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/vozdeamerica" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded js-social-btn btn-instagram" target="_blank" rel="noopener">
+<span class="ico ico-instagram ico--rounded"></span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Contacto
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/6119.html" title="Para afiliarse a la Voz de América">Para afiliarse a la Voz de América</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/3847.html" title="Contacto">Contacto</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Sobre nosotros
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/3858.html" title="¿Quiénes somos?">¿Quiénes somos?</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/3855.html" title="Política de privacidad">Política de privacidad</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-secondary collapsed collapsible item">
+<span class="handler">
+Accesibilidad
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/7284.html" title="Acceso a la información">Acceso a la información</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.vozdeamerica.com/a/que-es-voa-verifica-/6843776.html" title="¿Qué es VOA Verifica?">¿Qué es VOA Verifica?</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-secondary collapsed collapsible item">
+<span class="handler">
+Editoriales
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="https://editorials.voa.gov/z/3305" title="Punto de Vista" target="_blank" rel="noopener">Punto de Vista</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot__item foot__item--copyrights">
+<p class="copyright"></p>
+</div>
+</div>
+</div>
+</footer> </div>
+</div>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer=""></script>
+<script>
+if (!isPreviewPage) {
+window.OneSignalDeferred = window.OneSignalDeferred || [];
+OneSignalDeferred.push(function(OneSignal) {
+OneSignal.init({
+appId: "1be25820-df59-438b-b578-65ed0d8759b2",
+});
+});
+}
+</script> <script defer="" src="/Scripts/responsive/serviceWorkerInstall.js?cb=286"></script>
+<script type="text/javascript">
+// opera mini - disable ico font
+if (navigator.userAgent.match(/Opera Mini/i)) {
+document.getElementsByTagName("body")[0].className += " can-not-ff";
+}
+// mobile browsers test
+if (typeof RFE !== 'undefined' && RFE.isMobile) {
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
+}
+</script>
+<script src="/conf.js?x=286" type="text/javascript"></script>
+<div class="responsive-indicator">
+<div class="visible-xs-block">XS</div>
+<div class="visible-sm-block">SM</div>
+<div class="visible-md-block">MD</div>
+<div class="visible-lg-block">LG</div>
+</div>
+<script type="text/javascript">
+var bar_data = {
+"apiId": "6586968",
+"apiType": "1",
+"isEmbedded": "0",
+"culture": "es",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.vozdeamerica.com"
+};
+</script>
+<div id="scriptLoaderTarget" style="display:none;contain:strict;"></div>
+
+</body></html>

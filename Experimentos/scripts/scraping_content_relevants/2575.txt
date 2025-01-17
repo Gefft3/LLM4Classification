@@ -1,0 +1,966 @@
+<html lang="en" theme="dark"><head><link rel="preload" as="style" href="https://www.noticiasaominuto.com.br/build/assets/article-DfjNnwkv.css"><link rel="stylesheet" href="https://www.noticiasaominuto.com.br/build/assets/article-DfjNnwkv.css" data-navigate-track="reload">
+
+
+    
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Testes positivos de gripe crescem 146% em uma semana, diz laboratório</title>
+        <meta name="description" content="O número de pacientes infectados com o vírus foi de 30,38% entre os dias 11 a 17 de setembro para 44,49% nesta semana.">
+        <link rel="preload" as="style" href="https://www.noticiasaominuto.com.br/build/assets/fonts-CuSe7pV_.css"><link rel="preload" as="style" href="https://www.noticiasaominuto.com.br/build/assets/app-C8nItePM.css"><link rel="stylesheet" href="https://www.noticiasaominuto.com.br/build/assets/fonts-CuSe7pV_.css" data-navigate-track="reload"><link rel="stylesheet" href="https://www.noticiasaominuto.com.br/build/assets/app-C8nItePM.css" data-navigate-track="reload">            <link rel="preload" as="image" href="https://media-manager.noticiasaominuto.com/960/naom_618cc6da7f742.webp">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9203QQ4SHV"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-9203QQ4SHV');
+</script>
+        </head><body><cda-partners-bar tag-manager="true" record-origin-only="false" no-follow="true"></cda-partners-bar>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: 'ca-pub-5990868310294203',
+        enable_page_level_ads: true,
+    });
+</script>
+    
+
+    
+        <div id="970_250_R7_7542" class="flex justify-center bg-dark lg:min-h-[250px]">
+    <script>
+        if (window.innerWidth > 728) {
+            var googletag = window.googletag || {
+                cmd: [],
+            };
+            googletag.cmd.push(function () {
+                googletag
+                    .defineSlot('/7542,13853385/parceiros/noticiasaominuto', [970, 250], '970_250_R7_7542')
+                    .addService(googletag.pubads())
+                    .setTargeting('pos', 'header');
+                googletag.enableServices();
+                googletag.display('970_250_R7_7542');
+            });
+        }
+    </script>
+</div>
+<header class="bg-brasil inset-x-0 top-0 z-50 py-3 shadow-xl shadow-black/20 lg:py-0" :class="isFixed ? 'fixed' : 'relative'" x-data="{
+        hovered: null,
+        isFixed: false,
+        showSideMenu: false,
+        showSearch: false,
+    }" x-init="
+        window.addEventListener('scroll', () => {
+            isFixed = window.scrollY > (window.innerWidth > 728 ? 250 : 40)
+        })
+    ">
+    <div class="container">
+        <div class="flex justify-between" x-show="!isFixed">
+            <div class="flex w-full items-center justify-between gap-6 lg:w-fit">
+                <a aria-current="page" href="https://www.noticiasaominuto.com.br/brasil" class="router-link-active router-link-exact-active">
+                    <img width="262" height="26" alt="Notícias ao Minuto" class="h-6 w-auto" src="/img/logos/logobrasil.svg">
+                </a>
+            </div>
+                            <div class="hidden py-1 lg:flex">
+                    <div class="relative" x-data="{ selectCountry: false }">
+    <button class="flex h-10 items-center gap-2 rounded px-4 py-2 hover:bg-black/10" @click="selectCountry = !selectCountry">
+        <img src="/img/icons/flag_br.svg" alt="Notícias ao Minuto Brasil" class="z-20 w-8">
+        <img src="/img/icons/arrow.svg" alt="Fechar" class="w-4">
+    </button>
+
+    <template x-if="selectCountry">
+        <div class="absolute top-0 z-10 flex w-full flex-col gap-2 rounded bg-black/80 pb-2 pl-4 pr-6 pt-10" @click="selectCountry = false">
+            <img src="/img/icons/close.svg" alt="Fechar" class="absolute right-2 top-3 w-4">
+            <a href="https://www.noticiasaominuto.com">
+                <button class="w-8">
+                    <img src="/img/icons/flag_pt.svg" alt="Notícias ao Minuto Portugal">
+                </button>
+            </a>
+        </div>
+    </template>
+</div>
+                    <div wire:snapshot="{&quot;data&quot;:{&quot;location&quot;:null,&quot;weather&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}]},&quot;memo&quot;:{&quot;id&quot;:&quot;ROduRmGnbcO0wQNVMejU&quot;,&quot;name&quot;:&quot;header.weather&quot;,&quot;path&quot;:&quot;brasil\/1947573\/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;lazyLoaded&quot;:false,&quot;lazyIsolated&quot;:true,&quot;errors&quot;:[],&quot;locale&quot;:&quot;pt_BR&quot;},&quot;checksum&quot;:&quot;db5fdad773336822622458b478512e5059ae7df0b1f59ea993f43d864ec7854e&quot;}" wire:effects="[]" wire:id="ROduRmGnbcO0wQNVMejU" x-intersect="$wire.__lazyLoad('eyJkYXRhIjp7ImZvck1vdW50IjpbW10seyJzIjoiYXJyIn1dfSwibWVtbyI6eyJpZCI6IlhLZ1pMaFhvOXRzZExVWTJId2lJIiwibmFtZSI6Il9fbW91bnRQYXJhbXNDb250YWluZXIifSwiY2hlY2tzdW0iOiJjMjM5ODY2OGU1YzI2NTU0YzViMzdhZTdmMWE5NDJkM2JmYzg1YTIzMGQzNTk4MzJhYTJhYjc3NzVmZTkwNWIzIn0=')"></div>                    <div class="flex items-center justify-between">
+    <a href="https://www.facebook.com/NoticiasAoMinutoBrasil" target="_blank" aria-label="Facebook" class="rounded px-4 py-2 hover:bg-black/10">
+        <svg width="28" height="27" viewBox="0 0 28 27" xmlns="http://www.w3.org/2000/svg" class="fill-#ffffff">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M25.8207 13.5712C25.8207 7.04796 20.5314 1.7587 14.0082 1.7587C7.48494 1.7587 2.19568 7.04796 2.19568 13.5712C2.19568 19.4669 6.51462 24.3538 12.1625 25.2408V16.9868H9.16242V13.5712H12.1625V10.9688C12.1625 8.00877 13.9264 6.37243 16.6243 6.37243C17.9169 6.37243 19.269 6.6034 19.269 6.6034V9.51065H17.7787C16.3121 9.51065 15.8534 10.4208 15.8534 11.3564V13.5712H19.1292L18.6061 16.9868H15.8539V25.2418C21.5017 24.3554 25.8207 19.4685 25.8207 13.5712Z"></path>
+</svg>
+    </a>
+    <a href="https://twitter.com/noticiaminutobr" target="_blank" aria-label="X" class="rounded px-4 py-2 hover:bg-black/10">
+        <svg width="30" height="27" viewBox="0 0 30 27" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#fff" d="M19.5421 22.1818H21.5821L8.41916 4.16H6.2308L19.5421 22.1796V22.1818ZM20.8337 2H24.5144L16.4744 11.5149L25.9326 24.4618H18.5275L12.7261 16.6095L6.08898 24.4618H2.40607L11.0068 14.2836L1.93262 2H9.52753L14.7704 9.17818L20.8337 2Z"></path>
+</svg>
+    </a>
+</div>
+                    <button title="Procurar" class="rounded px-4 py-2 hover:bg-black/10" @click="showSearch = true">
+                        <img width="24" height="28" alt="Search" class="w-6" src="/img/icons/search.svg">
+                    </button>
+                </div>
+                    </div>
+        <div class="relative mt-3 hidden gap-4 lg:flex">
+            <a aria-current="page" href="https://www.noticiasaominuto.com.br" class="-mt-2" x-show="isFixed">
+                <img alt="Notícias ao Minuto" class="w-7" src="/img/icons/clock.svg">
+            </a>
+            <div class="flex text-base text-white">
+                <div class="group">
+                    <div wire:snapshot="{&quot;data&quot;:{&quot;previews&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}]},&quot;memo&quot;:{&quot;id&quot;:&quot;Jl1CfvaoX4BmPKePpgGY&quot;,&quot;name&quot;:&quot;header.categories&quot;,&quot;path&quot;:&quot;brasil\/1947573\/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;pt_BR&quot;},&quot;checksum&quot;:&quot;c6fdaca3efcbb73a388a6afc8e88dd6bde112e3185acfd8ced91db5e916cd1ae&quot;}" wire:effects="[]" wire:id="Jl1CfvaoX4BmPKePpgGY" class="flex">
+            <a href="/" class="font-light uppercase" @mouseenter="$wire.getPreviews(9)">
+            <div class="menu-item relative px-4 pb-2">
+                Últimas Notícias
+            </div>
+        </a>
+            <a href="/politica" class="font-light uppercase" @mouseenter="$wire.getPreviews(7)">
+            <div class="menu-item relative px-4 pb-2">
+                Política
+            </div>
+        </a>
+            <a href="/economia" class="font-light uppercase" @mouseenter="$wire.getPreviews(3)">
+            <div class="menu-item relative px-4 pb-2">
+                Economia
+            </div>
+        </a>
+            <a href="/esporte" class="font-light uppercase" @mouseenter="$wire.getPreviews(2)">
+            <div class="menu-item relative px-4 pb-2">
+                Esporte
+            </div>
+        </a>
+            <a href="/brasil" class="font-light uppercase" @mouseenter="$wire.getPreviews(8)">
+            <div class="menu-item relative px-4 pb-2">
+                Brasil
+            </div>
+        </a>
+            <a href="/mundo" class="font-light uppercase" @mouseenter="$wire.getPreviews(5)">
+            <div class="menu-item relative px-4 pb-2">
+                Mundo
+            </div>
+        </a>
+            <a href="/fama" class="font-light uppercase" @mouseenter="$wire.getPreviews(4)">
+            <div class="menu-item relative px-4 pb-2">
+                Fama e TV
+            </div>
+        </a>
+            <a href="/justica" class="font-light uppercase" @mouseenter="$wire.getPreviews(10)">
+            <div class="menu-item relative px-4 pb-2">
+                Justiça
+            </div>
+        </a>
+            <a href="/cultura" class="font-light uppercase" @mouseenter="$wire.getPreviews(11)">
+            <div class="menu-item relative px-4 pb-2">
+                Cultura
+            </div>
+        </a>
+            <a href="/tech" class="font-light uppercase" @mouseenter="$wire.getPreviews(12)">
+            <div class="menu-item relative px-4 pb-2">
+                Tech
+            </div>
+        </a>
+            <a href="/lifestyle" class="font-light uppercase" @mouseenter="$wire.getPreviews(13)">
+            <div class="menu-item relative px-4 pb-2">
+                Lifestyle
+            </div>
+        </a>
+    
+    <div class="stripe invisible absolute left-0 right-0 top-full z-20 mb-2 bg-white py-4 opacity-0 shadow-lg transition-opacity duration-500 group-hover:visible group-hover:opacity-100">
+    <div class="container relative z-10 flex items-center justify-between gap-8">
+                                    <a href="#">
+    <div class="article-thumb" "="">
+        <div class="relative">
+            <img class="w-full animate-pulse" src="/img/placeholder.webp">
+        </div>
+        <div class="py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-2">
+                    <p class="rounded-sm px-1 py-2.5 bg-gray-200 w-12 animate-pulse">
+                    </p>
+                    <p class="bg-gray-200 w-12 py-1 rounded animate-pulse">
+                    </p>
+                </div>
+                <div>
+                    <p class="bg-gray-200 w-16 py-1 rounded animate-pulse"></p>
+                </div>
+            </div>
+            <p class="bg-gray-200 w-full py-1 rounded animate-pulse mt-5"></p>
+            <p class="bg-gray-200 w-3/4 py-1 rounded animate-pulse mt-5"></p>
+        </div>
+    </div>
+</a>
+                            <a href="#">
+    <div class="article-thumb" "="">
+        <div class="relative">
+            <img class="w-full animate-pulse" src="/img/placeholder.webp">
+        </div>
+        <div class="py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-2">
+                    <p class="rounded-sm px-1 py-2.5 bg-gray-200 w-12 animate-pulse">
+                    </p>
+                    <p class="bg-gray-200 w-12 py-1 rounded animate-pulse">
+                    </p>
+                </div>
+                <div>
+                    <p class="bg-gray-200 w-16 py-1 rounded animate-pulse"></p>
+                </div>
+            </div>
+            <p class="bg-gray-200 w-full py-1 rounded animate-pulse mt-5"></p>
+            <p class="bg-gray-200 w-3/4 py-1 rounded animate-pulse mt-5"></p>
+        </div>
+    </div>
+</a>
+                            <a href="#">
+    <div class="article-thumb" "="">
+        <div class="relative">
+            <img class="w-full animate-pulse" src="/img/placeholder.webp">
+        </div>
+        <div class="py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-2">
+                    <p class="rounded-sm px-1 py-2.5 bg-gray-200 w-12 animate-pulse">
+                    </p>
+                    <p class="bg-gray-200 w-12 py-1 rounded animate-pulse">
+                    </p>
+                </div>
+                <div>
+                    <p class="bg-gray-200 w-16 py-1 rounded animate-pulse"></p>
+                </div>
+            </div>
+            <p class="bg-gray-200 w-full py-1 rounded animate-pulse mt-5"></p>
+            <p class="bg-gray-200 w-3/4 py-1 rounded animate-pulse mt-5"></p>
+        </div>
+    </div>
+</a>
+                        </div>
+</div>
+</div>                </div>
+
+                <div class="group">
+                    <a href="https://www.noticiasaominuto.com.br/informacoes" class="menu-item relative hidden px-4 pb-2 font-light uppercase xl:block">
+                        Informações
+                    </a>
+
+                    <div class="stripe invisible absolute left-0 right-0 top-full z-20 mb-2 bg-white opacity-0 shadow-lg transition-opacity duration-500 group-hover:visible group-hover:opacity-100">
+                        <div class="container mt-0.5 flex items-center justify-center text-base font-light uppercase text-black">
+                                                            <a href="/estatuto-editorial" class="menu-item relative px-2 py-2">
+                                    Estatuto editorial
+                                </a>
+                                                            <a href="/propriedade-intelectual" class="menu-item relative px-2 py-2">
+                                    Propriedade intelectual
+                                </a>
+                                                            <a href="/politica-de-privacidade" class="menu-item relative px-2 py-2">
+                                    Política de privacidade
+                                </a>
+                                                            <a href="/ficha-tecnica" class="menu-item relative px-2 py-2">
+                                    Ficha técnica
+                                </a>
+                                                            <a href="/contatos" class="menu-item relative px-2 py-2">
+                                    Contatos
+                                </a>
+                                                    </div>
+                    </div>
+                </div>
+                <button class="flex xl:hidden">
+                    <img width="25" height="25" alt="Menu" src="/img/icons/menu.svg">
+                </button>
+            </div>
+        </div>
+    </div>
+
+            <div wire:snapshot="{&quot;data&quot;:{&quot;category&quot;:[{&quot;title&quot;:&quot;Brasil&quot;,&quot;slug&quot;:&quot;brasil&quot;,&quot;url&quot;:&quot;brasil&quot;,&quot;id&quot;:8,&quot;color&quot;:&quot;#e07a00&quot;,&quot;logo&quot;:&quot;logobrasil&quot;,&quot;hasHighlights&quot;:true,&quot;isSpecial&quot;:false,&quot;positions&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}]},{&quot;s&quot;:&quot;arr&quot;}],&quot;dossiers&quot;:[[[{&quot;id&quot;:2,&quot;name&quot;:&quot;BBB 25&quot;,&quot;slug&quot;:&quot;bbb-24&quot;,&quot;image&quot;:&quot;naom_657a1b9f980b0.jpg&quot;},{&quot;s&quot;:&quot;arr&quot;}]],{&quot;s&quot;:&quot;arr&quot;}],&quot;subcategories&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}]},&quot;memo&quot;:{&quot;id&quot;:&quot;Y1qCpx5Vw6vw5m23KRKA&quot;,&quot;name&quot;:&quot;header.submenu&quot;,&quot;path&quot;:&quot;brasil\/1947573\/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;pt_BR&quot;},&quot;checksum&quot;:&quot;a3c81c2fa6f0646189f390004c9656074e162413fb6375085553268beb81f418&quot;}" wire:effects="[]" wire:id="Y1qCpx5Vw6vw5m23KRKA" x-show="isFixed" x-cloak="" class="hidden lg:block">
+    <div class="flex justify-center gap-8 bg-black/50 pt-2.5 text-base uppercase text-white" id="submenu">
+                    <a href="https://www.noticiasaominuto.com.br/especiais">
+                <div class="menu-item relative pb-2 font-bold">Especiais ao minuto</div>
+            </a>
+                            <a href="https://www.noticiasaominuto.com.br/especiais/bbb-24">
+                    <div class="menu-item relative pb-2 font-light">
+                        BBB 25
+                    </div>
+                </a>
+                        </div>
+</div>    
+    
+    <div class="search-container" x-show="showSearch" x-cloak="" x-transition:enter="custom-ease transition duration-100" x-transition:enter-start="scale-y-0" x-transition:enter-end="scale-y-100" x-transition:leave="custom-ease transition duration-100" x-transition:leave-start="scale-y-100" x-transition:leave-end="scale-y-0">
+    <div class="fixed inset-0 top-24 bg-black/50" x-show="showSearch" @click="showSearch = false"></div>
+    <div class="relative">
+        <div class="absolute left-0 right-0 top-0 z-20 mb-2 bg-white px-4 py-4 shadow-lg">
+            <form class="container flex items-center justify-between" action="/pesquisa">
+                <div class="flex w-full gap-8">
+                    <img src="/img/icons/search_black.svg" alt="Procurar" class="w-8">
+                    <input type="text" name="q" placeholder="Quero saber notícias sobre..." class="w-full text-3xl font-thin focus:outline-none">
+                </div>
+                <button @click="showSearch = false" type="button">
+                    <img src="/img/icons/close_black.svg" alt="Fechar" class="w-6">
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+</header>
+        <div class="article container flex gap-8 px-4 pt-6" x-data="article" x-init="track">
+        <div class="text-darkgray lg:w-2/3">
+            <div>
+                <h1 class="text-headline-sm font-black lg:text-headline">Testes positivos de gripe crescem 146% em uma semana, diz laboratório</h1>
+                <div class="flex items-end">
+                    <div class="bg-brasil mt-4 h-1.5 w-20"></div>
+                                    </div>
+                <h2 class="py-4 font-slab text-xl lg:text-lead">O número de pacientes infectados com o vírus foi de 30,38% entre os dias 11 a 17 de setembro para 44,49% nesta semana.</h2>
+            </div>
+                            <div class="relative flex max-h-[540px] justify-center bg-black">
+                    <img class="w-full" src="https://media-manager.noticiasaominuto.com/960/naom_618cc6da7f742.webp" alt="Testes positivos de gripe crescem 146% em uma semana, diz laboratório" height="540">
+                </div>
+            
+            <p class="mt-2 text-xs font-thin">© Shutterstock</p>
+
+<div class="my-4 flex flex-col justify-between gap-4 pb-3 text-black lg:my-6 lg:flex-row lg:border-b">
+    <div class="flex items-center gap-4">
+        <img src="https://cdn.noticiasaominuto.com.br/img/equipa/pessoa/naom.png" alt="Folhapress" class="h-12 w-12">
+        <div class="flex w-full justify-between">
+            <div class="flex flex-col gap-1">
+                <span class="font-condensed text-info font-extralight uppercase">
+                    23/09/2022 06:40 ‧
+                    há 2 anos
+                    por Notícias ao Minuto Brasil
+                </span>
+                <div class="flex items-center gap-2">
+                    <p class="bg-brasil rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-black text-white">
+                        Brasil
+                    </p>
+                    <p class="font-condensed text-xs font-light uppercase">
+                                                    SAÚDE-GRIPE
+                                            </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+    
+    <div class="flex items-center justify-between gap-12 border-b border-black/10 px-6 py-2.5 lg:justify-center lg:border-none border-t">
+        <a href="https://wa.me/?text=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio" target="_blank" rel="noopener" aria-label="Partilha este artigo no whatsapp">
+            <svg width="28" height="27" viewBox="0 0 28 27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="#e07a00" d="M22.3787 5.1205C21.2866 4.02788 19.9892 3.16206 18.5611 2.57288C17.1331 1.9837 15.6026 1.68279 14.0577 1.68749C7.57458 1.68749 2.29693 6.93878 2.29429 13.3945C2.29142 15.4502 2.83329 17.4699 3.86472 19.248L2.19568 25.3125L8.43152 23.6846C10.1576 24.6197 12.0899 25.1091 14.053 25.1084H14.0577C20.5404 25.1084 25.8175 19.8566 25.8207 13.4014C25.8246 11.8618 25.5223 10.3369 24.9314 8.91523C24.3405 7.4936 23.4728 6.20367 22.3787 5.1205ZM14.0577 23.1325H14.0535C12.3035 23.133 10.5852 22.6646 9.07751 21.7761L8.7205 21.5652L5.02013 22.5313L6.00785 18.9406L5.77529 18.5715C4.79674 17.0222 4.27829 15.2269 4.28027 13.3945C4.28027 8.02986 8.6683 3.66503 14.0614 3.66503C16.6486 3.66041 19.1316 4.68361 20.9644 6.50959C22.7972 8.33556 23.8297 10.8148 23.8347 13.4019C23.8326 18.7671 19.4467 23.1325 14.0577 23.1325ZM19.4203 15.8451C19.1266 15.6985 17.6801 14.9908 17.4122 14.8932C17.1443 14.7957 16.9465 14.7466 16.7509 15.0398C16.5552 15.333 15.9915 15.9891 15.8201 16.1868C15.6487 16.3846 15.4774 16.4062 15.1836 16.2596C14.8899 16.113 13.9423 15.8045 12.8195 14.8078C11.9457 14.0321 11.3562 13.0744 11.1848 12.7818C11.0134 12.4891 11.1663 12.3303 11.3135 12.1848C11.4458 12.0535 11.6072 11.8431 11.7543 11.6722C11.9014 11.5014 11.9505 11.379 12.048 11.1839C12.1456 10.9888 12.0971 10.8179 12.0238 10.6718C11.9505 10.5258 11.3625 9.0856 11.1178 8.49972C10.8789 7.92913 10.6369 8.00665 10.4565 7.99769C10.2851 7.98925 10.0874 7.98714 9.89279 7.98714C9.74403 7.99101 9.59767 8.02551 9.46284 8.08848C9.32801 8.15145 9.20761 8.24154 9.10916 8.35312C8.83968 8.64632 8.08031 9.35507 8.08031 10.7937C8.08031 12.2323 9.135 13.6244 9.28054 13.8196C9.42609 14.0147 11.353 16.9694 14.3014 18.2366C14.8489 18.4711 15.4083 18.6767 15.9773 18.8525C16.6813 19.0751 17.322 19.044 17.8283 18.9685C18.393 18.8847 19.5685 18.2609 19.8127 17.5774C20.0568 16.894 20.0573 16.3086 19.984 16.1868C19.9107 16.065 19.7146 15.9912 19.4203 15.8451Z"></path>
+</svg>
+        </a>
+        <a href="mailto:?subject=Testes positivos de gripe crescem 146% em uma semana, diz laboratório&amp;body='Acabei de ler este artigo no Notícias ao Minuto e considerei que teria interesse para ti:  https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio'" target="_blank" rel="noopener" aria-label="Partilha este artigo no teu email">
+            <svg width="28" height="27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#e07a00" d="M4.737 3.206c-.584.077-1.261.42-1.726.874-.519.506-.835 1.078-.954 1.727-.071.388-.071 14.132 0 14.519.176.962.847 1.845 1.736 2.284.761.375-.064.348 10.723.349 6.723.001 9.724-.014 9.917-.05 1.111-.202 2.069-1.03 2.481-2.143l.129-.349v-14.7l-.129-.35c-.191-.516-.387-.818-.805-1.24-.307-.311-.454-.418-.817-.597-.775-.383.072-.356-10.755-.349-5.313.004-9.723.015-9.8.025m19.508 2.135c.267.111.465.291.609.55l.136.246v13.86l-.136.245a1.388 1.388 0 0 1-.292.364c-.356.272.356.254-10.036.253-9.154-.001-9.564-.005-9.744-.086a1.286 1.286 0 0 1-.588-.589c-.081-.179-.085-.505-.085-7.117s.004-6.939.085-7.118c.109-.24.349-.479.588-.588.18-.082.59-.086 9.744-.087 8.241-.001 9.579.009 9.719.067M6.218 6.78c-.717.272-.897 1.218-.332 1.743.336.311 8.009 6.252 8.204 6.352.232.118.615.141.829.049.153-.066 7.968-6.119 8.266-6.402.244-.232.334-.43.341-.747.015-.758-.753-1.275-1.433-.966-.105.047-1.812 1.349-3.793 2.892a516.23 516.23 0 0 1-3.69 2.861c-.077.048-.52-.282-3.764-2.808-2.022-1.575-3.741-2.895-3.82-2.935-.184-.092-.613-.113-.808-.039" fill-rule="evenodd"></path>
+</svg>
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio" target="_blank" rel="noopener" aria-label="Partilha este artigo no facebook">
+            <svg width="28" height="27" viewBox="0 0 28 27" xmlns="http://www.w3.org/2000/svg" class="fill-#e07a00">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="#e07a00" d="M25.8207 13.5712C25.8207 7.04796 20.5314 1.7587 14.0082 1.7587C7.48494 1.7587 2.19568 7.04796 2.19568 13.5712C2.19568 19.4669 6.51462 24.3538 12.1625 25.2408V16.9868H9.16242V13.5712H12.1625V10.9688C12.1625 8.00877 13.9264 6.37243 16.6243 6.37243C17.9169 6.37243 19.269 6.6034 19.269 6.6034V9.51065H17.7787C16.3121 9.51065 15.8534 10.4208 15.8534 11.3564V13.5712H19.1292L18.6061 16.9868H15.8539V25.2418C21.5017 24.3554 25.8207 19.4685 25.8207 13.5712Z"></path>
+</svg>
+        </a>
+        <a href="https://www.linkedin.com/shareArticle/?url=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio&amp;title=Testes positivos de gripe crescem 146% em uma semana, diz laboratório" target="_blank" rel="noopener" aria-label="Partilha este artigo no linkedin">
+            <svg width="28" height="27" viewBox="0 0 28 27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#e07a00" d="M23.9312 1.6875H4.21435C3.13699 1.6875 2.19568 2.4627 2.19568 3.5274V23.288C2.19568 24.3585 3.13699 25.3125 4.21435 25.3125H23.9254C25.0086 25.3125 25.8207 24.3522 25.8207 23.288V3.5274C25.827 2.4627 25.0086 1.6875 23.9312 1.6875ZM9.5189 21.3801H6.13441V10.857H9.5189V21.3801ZM7.94373 9.25699H7.91947C6.8363 9.25699 6.13494 8.45068 6.13494 7.44135C6.13494 6.41355 6.85476 5.62623 7.96218 5.62623C9.0696 5.62623 9.74724 6.40775 9.7715 7.44135C9.77097 8.45068 9.0696 9.25699 7.94373 9.25699ZM21.8883 21.3801H18.5038V15.6263C18.5038 14.2478 18.0112 13.3059 16.7868 13.3059C15.8512 13.3059 15.2975 13.9388 15.0513 14.5552C14.959 14.7767 14.9342 15.0783 14.9342 15.3863V21.3801H11.5497V10.857H14.9342V12.3214C15.4267 11.62 16.1961 10.6107 17.9865 10.6107C20.2082 10.6107 21.8888 12.0751 21.8888 15.2323L21.8883 21.3801Z"></path>
+</svg>
+        </a>
+        <a href="https://twitter.com/intent/tweet?text=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio" target="_blank" rel="noopener" aria-label="Partilha este artigo no X">
+            <svg width="30" height="27" viewBox="0 0 30 27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#e07a00" d="M19.5421 22.1818H21.5821L8.41916 4.16H6.2308L19.5421 22.1796V22.1818ZM20.8337 2H24.5144L16.4744 11.5149L25.9326 24.4618H18.5275L12.7261 16.6095L6.08898 24.4618H2.40607L11.0068 14.2836L1.93262 2H9.52753L14.7704 9.17818L20.8337 2Z"></path>
+</svg>
+        </a>
+    </div>
+</div>
+</div>
+
+            <div class="article-content mb-24 font-slab text-paragraph font-light">
+                                    <p><span class="news_capital_letter">M</span>ÔNICA BERGAMO (FOLHAPRESS) - Os resultados positivos para testes de influenza H3N2 realizados pelo Grupo Fleury, rede de laboratórios nacionais, tiveram aumento de mais de 146% num período de sete dias.</p>
+                                                        <div class="dummyPub"><div class="pub-container flex justify-center">
+                                                            <div class="pub-space">
+                                                                <div id="300_250_R7_7542_3">
+                                                                    <script>
+                                                                        var googletag = window.googletag || { cmd: [] };
+                                                                        googletag.cmd.push(function () {
+                                                                            googletag
+                                                                                .defineSlot('/7542,13853385/parceiros/noticiasaominuto', [300, 250], '300_250_R7_7542_3')
+                                                                                .addService(googletag.pubads())
+                                                                                .setTargeting('pos', 'Island3');
+                                                                            googletag.enableServices();
+                                                                            googletag.display('300_250_R7_7542_3');
+                                                                        });
+                                                                    </script>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        </div>
+                                                        <p>O número de pacientes infectados com o vírus foi de 30,38% entre os dias 11 a 17 de setembro para 44,49% nesta semana.<br>Os resultados positivos para testes de influenza H3N2 realizados pelo Grupo Fleury, rede de laboratórios nacionais, tiveram aumento de mais de 146% num período de sete dias.</p>
+                                                        <p>O número de pacientes infectados com o vírus foi de 30,38% entre os dias 11 a 17 de setembro para 44,49% nesta semana.</p>
+                                                </div>
+
+            <div>
+            <p class="border-b border-black/10 py-2 text-center font-condensed text-sm font-medium uppercase text-black/60">
+            Partilhe a notícia
+        </p>
+    
+    <div class="flex items-center justify-between gap-12 border-b border-black/10 px-6 py-2.5 lg:justify-center lg:border-none">
+        <a href="https://wa.me/?text=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio" target="_blank" rel="noopener" aria-label="Partilha este artigo no whatsapp">
+            <svg width="28" height="27" viewBox="0 0 28 27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="#e07a00" d="M22.3787 5.1205C21.2866 4.02788 19.9892 3.16206 18.5611 2.57288C17.1331 1.9837 15.6026 1.68279 14.0577 1.68749C7.57458 1.68749 2.29693 6.93878 2.29429 13.3945C2.29142 15.4502 2.83329 17.4699 3.86472 19.248L2.19568 25.3125L8.43152 23.6846C10.1576 24.6197 12.0899 25.1091 14.053 25.1084H14.0577C20.5404 25.1084 25.8175 19.8566 25.8207 13.4014C25.8246 11.8618 25.5223 10.3369 24.9314 8.91523C24.3405 7.4936 23.4728 6.20367 22.3787 5.1205ZM14.0577 23.1325H14.0535C12.3035 23.133 10.5852 22.6646 9.07751 21.7761L8.7205 21.5652L5.02013 22.5313L6.00785 18.9406L5.77529 18.5715C4.79674 17.0222 4.27829 15.2269 4.28027 13.3945C4.28027 8.02986 8.6683 3.66503 14.0614 3.66503C16.6486 3.66041 19.1316 4.68361 20.9644 6.50959C22.7972 8.33556 23.8297 10.8148 23.8347 13.4019C23.8326 18.7671 19.4467 23.1325 14.0577 23.1325ZM19.4203 15.8451C19.1266 15.6985 17.6801 14.9908 17.4122 14.8932C17.1443 14.7957 16.9465 14.7466 16.7509 15.0398C16.5552 15.333 15.9915 15.9891 15.8201 16.1868C15.6487 16.3846 15.4774 16.4062 15.1836 16.2596C14.8899 16.113 13.9423 15.8045 12.8195 14.8078C11.9457 14.0321 11.3562 13.0744 11.1848 12.7818C11.0134 12.4891 11.1663 12.3303 11.3135 12.1848C11.4458 12.0535 11.6072 11.8431 11.7543 11.6722C11.9014 11.5014 11.9505 11.379 12.048 11.1839C12.1456 10.9888 12.0971 10.8179 12.0238 10.6718C11.9505 10.5258 11.3625 9.0856 11.1178 8.49972C10.8789 7.92913 10.6369 8.00665 10.4565 7.99769C10.2851 7.98925 10.0874 7.98714 9.89279 7.98714C9.74403 7.99101 9.59767 8.02551 9.46284 8.08848C9.32801 8.15145 9.20761 8.24154 9.10916 8.35312C8.83968 8.64632 8.08031 9.35507 8.08031 10.7937C8.08031 12.2323 9.135 13.6244 9.28054 13.8196C9.42609 14.0147 11.353 16.9694 14.3014 18.2366C14.8489 18.4711 15.4083 18.6767 15.9773 18.8525C16.6813 19.0751 17.322 19.044 17.8283 18.9685C18.393 18.8847 19.5685 18.2609 19.8127 17.5774C20.0568 16.894 20.0573 16.3086 19.984 16.1868C19.9107 16.065 19.7146 15.9912 19.4203 15.8451Z"></path>
+</svg>
+        </a>
+        <a href="mailto:?subject=Testes positivos de gripe crescem 146% em uma semana, diz laboratório&amp;body='Acabei de ler este artigo no Notícias ao Minuto e considerei que teria interesse para ti:  https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio'" target="_blank" rel="noopener" aria-label="Partilha este artigo no teu email">
+            <svg width="28" height="27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#e07a00" d="M4.737 3.206c-.584.077-1.261.42-1.726.874-.519.506-.835 1.078-.954 1.727-.071.388-.071 14.132 0 14.519.176.962.847 1.845 1.736 2.284.761.375-.064.348 10.723.349 6.723.001 9.724-.014 9.917-.05 1.111-.202 2.069-1.03 2.481-2.143l.129-.349v-14.7l-.129-.35c-.191-.516-.387-.818-.805-1.24-.307-.311-.454-.418-.817-.597-.775-.383.072-.356-10.755-.349-5.313.004-9.723.015-9.8.025m19.508 2.135c.267.111.465.291.609.55l.136.246v13.86l-.136.245a1.388 1.388 0 0 1-.292.364c-.356.272.356.254-10.036.253-9.154-.001-9.564-.005-9.744-.086a1.286 1.286 0 0 1-.588-.589c-.081-.179-.085-.505-.085-7.117s.004-6.939.085-7.118c.109-.24.349-.479.588-.588.18-.082.59-.086 9.744-.087 8.241-.001 9.579.009 9.719.067M6.218 6.78c-.717.272-.897 1.218-.332 1.743.336.311 8.009 6.252 8.204 6.352.232.118.615.141.829.049.153-.066 7.968-6.119 8.266-6.402.244-.232.334-.43.341-.747.015-.758-.753-1.275-1.433-.966-.105.047-1.812 1.349-3.793 2.892a516.23 516.23 0 0 1-3.69 2.861c-.077.048-.52-.282-3.764-2.808-2.022-1.575-3.741-2.895-3.82-2.935-.184-.092-.613-.113-.808-.039" fill-rule="evenodd"></path>
+</svg>
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio" target="_blank" rel="noopener" aria-label="Partilha este artigo no facebook">
+            <svg width="28" height="27" viewBox="0 0 28 27" xmlns="http://www.w3.org/2000/svg" class="fill-#e07a00">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="#e07a00" d="M25.8207 13.5712C25.8207 7.04796 20.5314 1.7587 14.0082 1.7587C7.48494 1.7587 2.19568 7.04796 2.19568 13.5712C2.19568 19.4669 6.51462 24.3538 12.1625 25.2408V16.9868H9.16242V13.5712H12.1625V10.9688C12.1625 8.00877 13.9264 6.37243 16.6243 6.37243C17.9169 6.37243 19.269 6.6034 19.269 6.6034V9.51065H17.7787C16.3121 9.51065 15.8534 10.4208 15.8534 11.3564V13.5712H19.1292L18.6061 16.9868H15.8539V25.2418C21.5017 24.3554 25.8207 19.4685 25.8207 13.5712Z"></path>
+</svg>
+        </a>
+        <a href="https://www.linkedin.com/shareArticle/?url=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio&amp;title=Testes positivos de gripe crescem 146% em uma semana, diz laboratório" target="_blank" rel="noopener" aria-label="Partilha este artigo no linkedin">
+            <svg width="28" height="27" viewBox="0 0 28 27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#e07a00" d="M23.9312 1.6875H4.21435C3.13699 1.6875 2.19568 2.4627 2.19568 3.5274V23.288C2.19568 24.3585 3.13699 25.3125 4.21435 25.3125H23.9254C25.0086 25.3125 25.8207 24.3522 25.8207 23.288V3.5274C25.827 2.4627 25.0086 1.6875 23.9312 1.6875ZM9.5189 21.3801H6.13441V10.857H9.5189V21.3801ZM7.94373 9.25699H7.91947C6.8363 9.25699 6.13494 8.45068 6.13494 7.44135C6.13494 6.41355 6.85476 5.62623 7.96218 5.62623C9.0696 5.62623 9.74724 6.40775 9.7715 7.44135C9.77097 8.45068 9.0696 9.25699 7.94373 9.25699ZM21.8883 21.3801H18.5038V15.6263C18.5038 14.2478 18.0112 13.3059 16.7868 13.3059C15.8512 13.3059 15.2975 13.9388 15.0513 14.5552C14.959 14.7767 14.9342 15.0783 14.9342 15.3863V21.3801H11.5497V10.857H14.9342V12.3214C15.4267 11.62 16.1961 10.6107 17.9865 10.6107C20.2082 10.6107 21.8888 12.0751 21.8888 15.2323L21.8883 21.3801Z"></path>
+</svg>
+        </a>
+        <a href="https://twitter.com/intent/tweet?text=https://www.noticiasaominuto.com.br/brasil/1947573/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio" target="_blank" rel="noopener" aria-label="Partilha este artigo no X">
+            <svg width="30" height="27" viewBox="0 0 30 27" fill="#e07a00" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#e07a00" d="M19.5421 22.1818H21.5821L8.41916 4.16H6.2308L19.5421 22.1796V22.1818ZM20.8337 2H24.5144L16.4744 11.5149L25.9326 24.4618H18.5275L12.7261 16.6095L6.08898 24.4618H2.40607L11.0068 14.2836L1.93262 2H9.52753L14.7704 9.17818L20.8337 2Z"></path>
+</svg>
+        </a>
+    </div>
+</div>
+
+            <div x-data="taboola">
+    <div class="py-8">
+        <div class="mb-2" wire:ignore="">
+    <h3 class="font-alfa uppercase dark:text-white text-darkgray text-3xl">
+        Recomendados para você
+    </h3>
+    <div class="bg-ultima-hora mt-2 h-1.5 w-20"></div>
+</div>
+
+        <template x-if="isVisible">
+            <div id="taboola-below-article-thumbnails-1947573"></div>
+        </template>
+    </div>
+
+    <div x-intersect.once="show"></div>
+</div>
+
+        </div>
+
+        <div class="text-darkgray lg:w-1/3">
+        <div class="mb-8 flex min-h-[315px] flex-col gap-12 bg-lightgray">
+            <div class="pub-container flex justify-center">
+    <div class="pub-space">
+        <div id="300_250_R7">
+            <script>
+                var googletag = window.googletag || { cmd: [] };
+                googletag.cmd.push(function () {
+                    googletag
+                        .defineSlot('/7542,13853385/parceiros/noticiasaominuto', [300, 250], '300_250_R7')
+                        .addService(googletag.pubads())
+                        .setTargeting('pos', 'Island');
+                    googletag.enableServices();
+                    googletag.display('300_250_R7');
+                });
+            </script>
+        </div>
+    </div>
+</div>
+            <div class="pub-container flex justify-center">
+    <div class="pub-space">
+        <div id="300_250_R7_7542_2">
+            <script>
+                var googletag = window.googletag || { cmd: [] };
+                googletag.cmd.push(function () {
+                    googletag
+                        .defineSlot('/7542,13853385/parceiros/noticiasaominuto', [300, 250], '300_250_R7_7542_2')
+                        .addService(googletag.pubads())
+                        .setTargeting('pos', 'Island2');
+                    googletag.enableServices();
+                    googletag.display('300_250_R7_7542_2');
+                });
+            </script>
+        </div>
+    </div>
+</div>
+        </div>
+        <div wire:snapshot="{&quot;data&quot;:{&quot;mostRead&quot;:[[[{&quot;id&quot;:&quot;2248844&quot;,&quot;headline&quot;:&quot;Fam\u00edlia pressiona pol\u00edcia para reabrir caso de brasileira morta na Holanda&quot;,&quot;url&quot;:&quot;mundo\/2248844\/familia-pressiona-policia-para-reabrir-caso-de-brasileira-morta-na-holanda&quot;,&quot;image&quot;:&quot;naom_678516a6b739e.jpg&quot;,&quot;category&quot;:&quot;mundo&quot;,&quot;tag&quot;:&quot;BRASILEIRA-HOLANDA&quot;,&quot;online_at&quot;:&quot;2025-01-13 14:00:00&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248841&quot;,&quot;headline&quot;:&quot;Forte terremoto atinge Jap\u00e3o e pa\u00eds emite alerta para tsunami&quot;,&quot;url&quot;:&quot;mundo\/2248841\/forte-terremoto-atinge-japao-e-pais-emite-alerta-para-tsunami&quot;,&quot;image&quot;:&quot;naom_5d7958025a0e9.jpg&quot;,&quot;category&quot;:&quot;mundo&quot;,&quot;tag&quot;:&quot;JAP\u00c3O-TSUNAMI&quot;,&quot;online_at&quot;:&quot;2025-01-13 13:36:00&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248722&quot;,&quot;headline&quot;:&quot;Inc\u00eandios devastam Los Angeles, e mans\u00e3o intacta em Malibu chama aten\u00e7\u00e3o&quot;,&quot;url&quot;:&quot;mundo\/2248722\/incendios-devastam-los-angeles-e-mansao-intacta-em-malibu-chama-atencao&quot;,&quot;image&quot;:&quot;naom_6784cdc89d785.jpg&quot;,&quot;category&quot;:&quot;mundo&quot;,&quot;tag&quot;:&quot;EUA&quot;,&quot;online_at&quot;:&quot;2025-01-13 06:34:47&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248984&quot;,&quot;headline&quot;:&quot;Homem se emociona ao ver que c\u00e3o o esperava dias ap\u00f3s fugir de fogo em LA&quot;,&quot;url&quot;:&quot;mundo\/2248984\/homem-se-emociona-ao-ver-que-cao-o-esperava-dias-apos-fugir-de-fogo-em-la&quot;,&quot;image&quot;:&quot;naom_6784ea147111c.jpg&quot;,&quot;category&quot;:&quot;mundo&quot;,&quot;tag&quot;:&quot;Los Angeles&quot;,&quot;online_at&quot;:&quot;2025-01-13 14:24:00&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248737&quot;,&quot;headline&quot;:&quot;Vin\u00edcius J\u00fanior negocia compra de time portugu\u00eas por 10 milh\u00f5es de euros&quot;,&quot;url&quot;:&quot;esporte\/2248737\/vinicius-junior-negocia-compra-de-time-portugues-por-10-milhoes-de-euros&quot;,&quot;image&quot;:&quot;naom_671fb49bc36f7.jpg&quot;,&quot;category&quot;:&quot;esporte&quot;,&quot;tag&quot;:&quot;VIN\u00cdCIUS-J\u00daNIOR&quot;,&quot;online_at&quot;:&quot;2025-01-13 07:15:35&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248808&quot;,&quot;headline&quot;:&quot;Ex-BBB Paulinha Leite diz que acertou quinas e ganha R$ 400 mil na Mega&quot;,&quot;url&quot;:&quot;ultima-hora\/2248808\/ex-bbb-paulinha-leite-diz-que-acertou-quinas-e-ganha-r-400-mil-na-mega&quot;,&quot;image&quot;:&quot;naom_6500818f60a4f.jpg&quot;,&quot;category&quot;:&quot;fama&quot;,&quot;tag&quot;:&quot;PAULINHA-LEITE&quot;,&quot;online_at&quot;:&quot;2025-01-13 12:36:00&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248707&quot;,&quot;headline&quot;:&quot;Sobe para 24 n\u00famero de mortos em inc\u00eandios de Los Angeles&quot;,&quot;url&quot;:&quot;mundo\/2248707\/incendios-em-los-angeles-deixam-24-mortos-e-prejuizos-bilionarios&quot;,&quot;image&quot;:&quot;naom_6784c9bda2540.jpg&quot;,&quot;category&quot;:&quot;mundo&quot;,&quot;tag&quot;:&quot;Los Angeles&quot;,&quot;online_at&quot;:&quot;2025-01-13 05:00:50&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248782&quot;,&quot;headline&quot;:&quot;Golpe do IPVA 2025 engana motoristas com falsos descontos&quot;,&quot;url&quot;:&quot;economia\/2248782\/golpe-do-ipva-2025-engana-motoristas-com-falsos-descontos&quot;,&quot;image&quot;:&quot;naom_6017f0eee362f.jpg&quot;,&quot;category&quot;:&quot;brasil&quot;,&quot;tag&quot;:&quot;IPVA-2025&quot;,&quot;online_at&quot;:&quot;2025-01-13 10:12:00&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248731&quot;,&quot;headline&quot;:&quot;Pol\u00edcia investiga morte de jovem achado dentro de geladeira em Niter\u00f3i&quot;,&quot;url&quot;:&quot;esporte\/2248731\/policia-investiga-morte-de-jovem-achado-dentro-de-geladeira-em-niteroi&quot;,&quot;image&quot;:&quot;naom_6784e440ed97b.jpg&quot;,&quot;category&quot;:&quot;justica&quot;,&quot;tag&quot;:&quot;Rio de Janeiro&quot;,&quot;online_at&quot;:&quot;2025-01-13 07:10:47&quot;},{&quot;s&quot;:&quot;arr&quot;}],[{&quot;id&quot;:&quot;2248645&quot;,&quot;headline&quot;:&quot;N\u00e3o matem os nepo babies, pede Fernanda Torres ap\u00f3s vencer Globo de Ouro&quot;,&quot;url&quot;:&quot;celebridades\/2248645\/nao-matem-os-nepo-babies-pede-fernanda-torres-apos-vencer-globo-de-ouro&quot;,&quot;image&quot;:&quot;naom_675702663259c.jpg&quot;,&quot;category&quot;:&quot;fama&quot;,&quot;tag&quot;:&quot;FERNANDA-TORRES&quot;,&quot;online_at&quot;:&quot;2025-01-13 10:24:00&quot;},{&quot;s&quot;:&quot;arr&quot;}]],{&quot;s&quot;:&quot;arr&quot;}],&quot;category&quot;:[{&quot;title&quot;:&quot;Brasil&quot;,&quot;slug&quot;:&quot;brasil&quot;,&quot;url&quot;:&quot;brasil&quot;,&quot;id&quot;:8,&quot;color&quot;:&quot;#e07a00&quot;,&quot;logo&quot;:&quot;logobrasil&quot;,&quot;hasHighlights&quot;:true,&quot;isSpecial&quot;:false,&quot;positions&quot;:[[],{&quot;s&quot;:&quot;arr&quot;}]},{&quot;s&quot;:&quot;arr&quot;}],&quot;key&quot;:&quot;&quot;,&quot;intervals&quot;:[{&quot;hour&quot;:&quot;Hora&quot;,&quot;day&quot;:&quot;Dia&quot;,&quot;week&quot;:&quot;Semana&quot;},{&quot;s&quot;:&quot;arr&quot;}],&quot;activeInterval&quot;:&quot;hour&quot;},&quot;memo&quot;:{&quot;id&quot;:&quot;dJnCxUN5UH3L4tIRLtSl&quot;,&quot;name&quot;:&quot;mostread&quot;,&quot;path&quot;:&quot;brasil\/1947573\/testes-positivos-de-gripe-crescem-146-em-uma-semana-diz-laboratorio&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;pt_BR&quot;},&quot;checksum&quot;:&quot;a3c286e2d8200fdbf0aaa51f2fa1ccd5416a87fe1358522ec6f853f6717fb5ed&quot;}" wire:effects="[]" wire:id="dJnCxUN5UH3L4tIRLtSl" class="-col-end-1 row-span-3">
+    <div class="flex items-start justify-between">
+        <div>
+            <div wire:ignore="">
+    <h3 class="font-alfa uppercase dark:text-white text-darkgray text-3xl">
+        Mais lidas
+    </h3>
+    <div class="bg-ultima-hora mt-2 h-1.5 w-20"></div>
+</div>
+        </div>
+    </div>
+    <div class="flex items-center gap-2 border-b border-[#ccc] pb-4 dark:text-white">
+        <div class="-mb-2 -mt-3 ml-20 flex gap-3 px-4 uppercase">
+                            <button class="px-2 py-0.5 text-sm font-thin uppercase rounded-sm bg-primary !font-bold text-white" wire:click="setInterval('hour')">
+                    Hora
+                </button>
+                            <button class="px-2 py-0.5 text-sm font-thin uppercase" wire:click="setInterval('day')">
+                    Dia
+                </button>
+                            <button class="px-2 py-0.5 text-sm font-thin uppercase" wire:click="setInterval('week')">
+                    Semana
+                </button>
+                    </div>
+    </div>
+
+    <div class="divide-y divide-solid divide-[#ccc] dark:divide-darkgray dark:text-white">
+                    <div>
+                <a href="/mundo/2248844/familia-pressiona-policia-para-reabrir-caso-de-brasileira-morta-na-holanda">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            1
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-mundo rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    mundo
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    BRASILEIRA-HOLANDA
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Família pressiona polícia para reabrir caso de brasileira morta na Holanda
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/mundo/2248841/forte-terremoto-atinge-japao-e-pais-emite-alerta-para-tsunami">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            2
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-mundo rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    mundo
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    JAPÃO-TSUNAMI
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Forte terremoto atinge Japão e país emite alerta para tsunami
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/mundo/2248722/incendios-devastam-los-angeles-e-mansao-intacta-em-malibu-chama-atencao">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            3
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-mundo rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    mundo
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    EUA
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Incêndios devastam Los Angeles, e mansão intacta em Malibu chama atenção
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/mundo/2248984/homem-se-emociona-ao-ver-que-cao-o-esperava-dias-apos-fugir-de-fogo-em-la">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            4
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-mundo rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    mundo
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    Los Angeles
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Homem se emociona ao ver que cão o esperava dias após fugir de fogo em LA
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/esporte/2248737/vinicius-junior-negocia-compra-de-time-portugues-por-10-milhoes-de-euros">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            5
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-esporte rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    esporte
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    VINÍCIUS-JÚNIOR
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Vinícius Júnior negocia compra de time português por 10 milhões de euros
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/ultima-hora/2248808/ex-bbb-paulinha-leite-diz-que-acertou-quinas-e-ganha-r-400-mil-na-mega">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            6
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-fama rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    fama
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    PAULINHA-LEITE
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Ex-BBB Paulinha Leite diz que acertou quinas e ganha R$ 400 mil na Mega
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/mundo/2248707/incendios-em-los-angeles-deixam-24-mortos-e-prejuizos-bilionarios">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            7
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-mundo rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    mundo
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    Los Angeles
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Sobe para 24 número de mortos em incêndios de Los Angeles
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/economia/2248782/golpe-do-ipva-2025-engana-motoristas-com-falsos-descontos">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            8
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-brasil rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    brasil
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    IPVA-2025
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Golpe do IPVA 2025 engana motoristas com falsos descontos
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/esporte/2248731/policia-investiga-morte-de-jovem-achado-dentro-de-geladeira-em-niteroi">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            9
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-justica rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    justica
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    Rio de Janeiro
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Polícia investiga morte de jovem achado dentro de geladeira em Niterói
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                    <div>
+                <a href="/celebridades/2248645/nao-matem-os-nepo-babies-pede-fernanda-torres-apos-vencer-globo-de-ouro">
+                    <div class="flex min-h-24 gap-4 py-2 hover:bg-black/5">
+                        <div class="order pl-4 font-alfa text-3xl font-bold text-[#666]">
+                            10
+                        </div>
+                        <div class="flex flex-col gap-1">
+                            <div class="flex items-center gap-2">
+                                <p class="bg-fama rounded-sm px-1 py-[1px] font-condensed text-xs font-medium uppercase text-white">
+                                    fama
+                                </p>
+                                <p class="font-condensed text-xs font-light uppercase">
+                                    FERNANDA-TORRES
+                                </p>
+                            </div>
+                            <p class="text-lg font-light">
+                                Não matem os nepo babies, pede Fernanda Torres após vencer Globo de Ouro
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            </div>
+</div>
+        <div x-data="sidebarAd" x-init="init()">
+            <div ref="sentinel" class="sentinel"></div>
+            <div class="mt-8" :class="isFixed ? 'fixed top-20 xl:w-1/5 w-1/3 pr-6 xl:pr-0' : 'relative'">
+                <div class="min-h-[315px] bg-lightgray">
+                    <div class="pub-container flex justify-center">
+    <div class="pub-space">
+        <div id="300_250_R7_7542_4">
+            <script>
+                var googletag = window.googletag || { cmd: [] };
+                googletag.cmd.push(function () {
+                    googletag
+                        .defineSlot('/7542,13853385/parceiros/noticiasaominuto', [300, 250], '300_250_R7_7542_4')
+                        .addService(googletag.pubads())
+                        .setTargeting('pos', 'Island4');
+                    googletag.enableServices();
+                    googletag.display('300_250_R7_7542_4');
+                });
+            </script>
+        </div>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+        <footer class="bg-darkgray px-4 py-6 text-white">
+    <div class="container">
+        <div class="flex flex-col gap-6 lg:flex-row">
+            <div class="flex flex-col gap-3 lg:w-1/3">
+                <img alt="Notícias ao Minuto" src="/img/logos/logonoticias.svg" width="240" height="22" class="h-6 w-fit">
+                <p class="text-base font-bold">© 2024 Notícias ao Minuto. Todos os direitos reservados</p>
+                <div class="text-base font-thin">
+                    <a href="https://www.noticiasaominuto.com.br/estatuto-editorial">Estatuto editorial</a>
+                    |
+                    <a href="https://www.noticiasaominuto.com.br/propriedade-intelectual">Propriedade intelectual</a>
+                    |
+                    <a href="https://www.noticiasaominuto.com.br/politica-de-privacidade">Política de privacidade</a>
+                    <a href="https://www.noticiasaominuto.com.br/ficha-tecnica">Ficha técnica</a>
+                    |
+                    <a href="https://www.noticiasaominuto.com.br/contatos">Contatos</a>
+                </div>
+                <div class="flex justify-between gap-8 lg:justify-start">
+                    <a href="https://www.facebook.com/NoticiasAoMinutoBrasil" target="_blank" aria-label="Facebook">
+                        <svg width="28" height="27" viewBox="0 0 28 27" xmlns="http://www.w3.org/2000/svg" class="fill-#ffffff">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="#ffffff" d="M25.8207 13.5712C25.8207 7.04796 20.5314 1.7587 14.0082 1.7587C7.48494 1.7587 2.19568 7.04796 2.19568 13.5712C2.19568 19.4669 6.51462 24.3538 12.1625 25.2408V16.9868H9.16242V13.5712H12.1625V10.9688C12.1625 8.00877 13.9264 6.37243 16.6243 6.37243C17.9169 6.37243 19.269 6.6034 19.269 6.6034V9.51065H17.7787C16.3121 9.51065 15.8534 10.4208 15.8534 11.3564V13.5712H19.1292L18.6061 16.9868H15.8539V25.2418C21.5017 24.3554 25.8207 19.4685 25.8207 13.5712Z"></path>
+</svg>
+                    </a>
+                    <a href="https://www.instagram.com/noticiasaominuto.br" target="_blank" aria-label="Instagram">
+                        <svg width="28" height="27" viewBox="0 0 28 27" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#fff" d="M18.93 3.65607C20.2343 3.65997 21.484 4.17981 22.4062 5.10206C23.3285 6.02432 23.8483 7.27404 23.8522 8.5783V18.4217C23.8483 19.726 23.3285 20.9757 22.4062 21.8979C21.484 22.8202 20.2343 23.34 18.93 23.3439H9.0866C7.78234 23.34 6.53262 22.8202 5.61036 21.8979C4.68811 20.9757 4.16827 19.726 4.16438 18.4217V8.5783C4.16827 7.27404 4.68811 6.02432 5.61036 5.10206C6.53262 4.17981 7.78234 3.65997 9.0866 3.65607H18.93ZM18.93 1.6875H9.0866C5.29658 1.6875 2.1958 4.78828 2.1958 8.5783V18.4217C2.1958 22.2117 5.29658 25.3125 9.0866 25.3125H18.93C22.72 25.3125 25.8208 22.2117 25.8208 18.4217V8.5783C25.8208 4.78828 22.72 1.6875 18.93 1.6875Z"></path>
+    <path fill="#fff" d="M20.4065 8.57831C20.1145 8.57831 19.829 8.49171 19.5862 8.32946C19.3433 8.16722 19.1541 7.93661 19.0423 7.6668C18.9306 7.397 18.9013 7.10011 18.9583 6.81368C19.0153 6.52726 19.1559 6.26416 19.3624 6.05766C19.5689 5.85116 19.832 5.71053 20.1184 5.65356C20.4049 5.59658 20.7017 5.62582 20.9716 5.73758C21.2414 5.84934 21.472 6.03859 21.6342 6.28141C21.7965 6.52423 21.8831 6.80971 21.8831 7.10175C21.8835 7.29577 21.8456 7.48796 21.7715 7.6673C21.6975 7.84663 21.5887 8.00957 21.4515 8.14676C21.3143 8.28396 21.1514 8.3927 20.972 8.46676C20.7927 8.54082 20.6005 8.57873 20.4065 8.57831Z"></path>
+    <path fill="#fff" d="M14.0083 9.56232C14.7871 9.56232 15.5484 9.79327 16.196 10.2259C16.8435 10.6586 17.3482 11.2736 17.6462 11.9931C17.9443 12.7126 18.0223 13.5044 17.8703 14.2682C17.7184 15.032 17.3434 15.7337 16.7927 16.2844C16.242 16.8351 15.5403 17.2101 14.7765 17.362C14.0127 17.514 13.2209 17.436 12.5014 17.1379C11.7819 16.8399 11.1669 16.3352 10.7342 15.6877C10.3016 15.0401 10.0706 14.2788 10.0706 13.5C10.0717 12.456 10.487 11.4551 11.2252 10.7169C11.9634 9.97866 12.9643 9.56344 14.0083 9.56232ZM14.0083 7.59375C12.8402 7.59375 11.6982 7.94015 10.727 8.58913C9.75569 9.23812 8.99867 10.1605 8.55164 11.2398C8.10461 12.319 7.98765 13.5066 8.21554 14.6523C8.44343 15.798 9.00595 16.8503 9.83195 17.6763C10.658 18.5024 11.7104 19.0649 12.8561 19.2928C14.0018 19.5207 15.1893 19.4037 16.2685 18.9567C17.3478 18.5096 18.2702 17.7526 18.9192 16.7813C19.5682 15.8101 19.9146 14.6681 19.9146 13.5C19.9146 11.9336 19.2923 10.4313 18.1847 9.32365C17.077 8.21601 15.5747 7.59375 14.0083 7.59375Z"></path>
+</svg>
+                    </a>
+                    <a href="https://www.linkedin.com/company/noticias-ao-minuto-brasil" target="_blank" aria-label="LinkedIn">
+                        <svg width="28" height="27" viewBox="0 0 28 27" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#fff" d="M23.9312 1.6875H4.21435C3.13699 1.6875 2.19568 2.4627 2.19568 3.5274V23.288C2.19568 24.3585 3.13699 25.3125 4.21435 25.3125H23.9254C25.0086 25.3125 25.8207 24.3522 25.8207 23.288V3.5274C25.827 2.4627 25.0086 1.6875 23.9312 1.6875ZM9.5189 21.3801H6.13441V10.857H9.5189V21.3801ZM7.94373 9.25699H7.91947C6.8363 9.25699 6.13494 8.45068 6.13494 7.44135C6.13494 6.41355 6.85476 5.62623 7.96218 5.62623C9.0696 5.62623 9.74724 6.40775 9.7715 7.44135C9.77097 8.45068 9.0696 9.25699 7.94373 9.25699ZM21.8883 21.3801H18.5038V15.6263C18.5038 14.2478 18.0112 13.3059 16.7868 13.3059C15.8512 13.3059 15.2975 13.9388 15.0513 14.5552C14.959 14.7767 14.9342 15.0783 14.9342 15.3863V21.3801H11.5497V10.857H14.9342V12.3214C15.4267 11.62 16.1961 10.6107 17.9865 10.6107C20.2082 10.6107 21.8888 12.0751 21.8888 15.2323L21.8883 21.3801Z"></path>
+</svg>
+                    </a>
+                    <a href="https://twitter.com/noticiaminutobr" target="_blank" aria-label="X">
+                        <svg width="30" height="27" viewBox="0 0 30 27" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#fff" d="M19.5421 22.1818H21.5821L8.41916 4.16H6.2308L19.5421 22.1796V22.1818ZM20.8337 2H24.5144L16.4744 11.5149L25.9326 24.4618H18.5275L12.7261 16.6095L6.08898 24.4618H2.40607L11.0068 14.2836L1.93262 2H9.52753L14.7704 9.17818L20.8337 2Z"></path>
+</svg>
+                    </a>
+                    <a href="https://www.noticiasaominuto.com.br/rss" aria-label="RSS">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27" fill="#fff">
+    <path fill="#fff" d="M2.15137 2V6.41979C6.83503 6.44178 11.2438 8.27786 14.5642 11.5872C17.8845 14.9075 19.7206 19.3273 19.7316 24.022H24.1514C24.1184 11.8841 14.2893 2.04398 2.15137 2Z"></path>
+    <path fill="#fff" d="M5.13088 18.0629C3.4817 18.0629 2.15137 19.3933 2.15137 21.0424C2.15137 22.6916 3.4817 24.0219 5.13088 24.0219C6.78005 24.0219 8.11039 22.6916 8.11039 21.0424C8.11039 19.3933 6.78005 18.0629 5.13088 18.0629Z"></path>
+    <path fill="#fff" d="M2.15137 9.50928V13.9291C7.6926 13.984 12.2003 18.4808 12.2553 24.033H16.6751C16.6201 16.04 10.1554 9.57524 2.16236 9.52027L2.15137 9.50928Z"></path>
+</svg>
+                    </a>
+                </div>
+            </div>
+            <div class="hidden lg:block lg:w-1/3">
+                <div wire:ignore="">
+    <h3 class="font-alfa uppercase dark:text-white text-white text-xl">
+        Menu
+    </h3>
+    <div class="bg-ultima-hora mt-2 h-1.5 w-20"></div>
+</div>
+                <div class="grid grid-cols-3 gap-y-2 pt-2 text-base font-thin uppercase">
+                    <a href="https://www.noticiasaominuto.com.br">Última hora</a>
+                    <a href="https://www.noticiasaominuto.com.br/politica">Política</a>
+                    <a href="https://www.noticiasaominuto.com.br/economia">Economia</a>
+                    <a href="https://www.noticiasaominuto.com.br/esporte">Esporte</a>
+                    <a href="https://www.noticiasaominuto.com.br/fama-e-tv">Fama e TV</a>
+                    <a href="https://www.noticiasaominuto.com.br/brasil">Brasil</a>
+                    <a href="https://www.noticiasaominuto.com.br/mundo">Mundo</a>
+                    <a href="https://www.noticiasaominuto.com.br/justica">Justiça</a>
+                    <a href="https://www.noticiasaominuto.com.br/cultura">Cultura</a>
+                    <a href="https://www.noticiasaominuto.com.br/tech">Tech</a>
+                    <a href="https://www.noticiasaominuto.com.br/lifestyle">Lifestyle</a>
+                    <a href="https://www.noticiasaominuto.com.br/multimidia">Multimídia</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+                    <!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: '2', c2: '14194541' });
+    (function () {
+        var s = document.createElement('script'),
+            el = document.getElementsByTagName('script')[0];
+        s.async = true;
+        s.src =
+            (document.location.protocol == 'https:' ? 'https://sb' : 'http://b') + '.scorecardresearch.com/beacon.js';
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=14194541&amp;cv=2.0&amp;cj=1">
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- TailTarget Tag Manager TT-9964-3/CT-23 -->
+<script>
+    (function (i) {
+        var ts = document.createElement('script');
+        ts.type = 'text/javascript';
+        ts.async = true;
+        ts.src =
+            ('https:' == document.location.protocol ? 'https://' : 'http://') + 'tags.t.tailtarget.com/t3m.js?i=' + i;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ts, s);
+    })('TT-9964-3/CT-23');
+</script>
+
+<script>
+    var head = document.head;
+    if (head) {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = 'https://securepubads.g.doubleclick.net/tag/js/gpt.js';
+        head.appendChild(script);
+        var googletag = window.googletag || {
+            cmd: [],
+        };
+    }
+</script>
+<!-- End TailTarget Tag Manager -->
+            <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer=""></script>
+<script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(async function (OneSignal) {
+        await OneSignal.init({
+            appId: 'aaebfcb5-8bc7-4a37-bb78-3b521e17e813',
+        });
+    });
+</script>
+
+<link rel="modulepreload" href="https://www.noticiasaominuto.com.br/build/assets/onesignal-Bygynqkz.js"><script type="module" src="https://www.noticiasaominuto.com.br/build/assets/onesignal-Bygynqkz.js" data-navigate-track="reload"></script>        
+        <script src="/livewire/livewire.min.js?id=02b08710" data-csrf="g0QDIwRlz7XrUOTY2vut3cplhZV3imhjY8jHbqeA" data-update-uri="/livewire/update" data-navigate-once="true"></script>
+            <script>
+        Alpine.data('taboola', () => ({
+            isVisible: false,
+            show() {
+                this.isVisible = true;
+
+                window._taboola = window._taboola || [];
+                _taboola.push({
+                    article: 'auto',
+                });
+                !(function (e, f, u) {
+                    e.async = 1;
+                    e.src = u;
+                    f.parentNode.insertBefore(e, f);
+                })(
+                    document.createElement('script'),
+                    document.getElementsByTagName('script')[0],
+                    '//cdn.taboola.com/libtrc/nav-noticiasaominuto/loader.js',
+                );
+
+                _taboola.push({
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails-1947573',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix',
+                });
+            },
+        }));
+    </script>
+    <script>
+        Alpine.data('sidebarAd', () => ({
+            lastScrollY: 0,
+            isFixed: false,
+            sentinel: null,
+            handleIntersection(entries) {
+                entries.forEach((entry) => {
+                    const scrollY = window.scrollY;
+
+                    if (!entry.isIntersecting && scrollY > this.lastScrollY) {
+                        this.isFixed = this.lastScrollY > 0;
+                    } else if (scrollY < this.lastScrollY) {
+                        this.isFixed = false;
+                    }
+                    this.lastScrollY = scrollY;
+                });
+            },
+            init() {
+                const observer = new IntersectionObserver(this.handleIntersection.bind(this), {
+                    root: null,
+                    threshold: 0,
+                });
+
+                this.sentinel = document.querySelector('.sentinel');
+
+                if (this.sentinel) {
+                    observer.observe(this.sentinel);
+                }
+            },
+        }));
+    </script>
+        <script>
+            Alpine.data('article', () => ({
+                track() {
+                    fetch('/track', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'X-CSRF-Token': 'g0QDIwRlz7XrUOTY2vut3cplhZV3imhjY8jHbqeA',
+                        },
+                        body: JSON.stringify({
+                            id: 1947573,
+                        }),
+                    });
+                },
+            }));
+        </script>
+        
+
+</body></html>

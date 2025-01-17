@@ -1,0 +1,1866 @@
+<html lang="pt-BR"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Portal de notícias Brasil em Folhas</title>
+<meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+				<link rel="apple-touch-icon" href="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/bs_00545.jpg">
+					<meta name="msapplication-TileColor" content="#ffffff">
+			<meta name="msapplication-TileImage" content="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/bs_00545.jpg">
+		<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="preconnect" href="//i0.wp.com">
+<link rel="preconnect" href="//c0.wp.com">
+<link rel="alternate" type="application/rss+xml" title="Feed para Portal de notícias Brasil em Folhas »" href="https://www1.brasilemfolhas.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Portal de notícias Brasil em Folhas »" href="https://www1.brasilemfolhas.com.br/comments/feed/">
+<meta name="description" content="Fique atualizado com as principais notícias e acompanhe tudo o que está acontecendo no Brasil e no mundo."><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "legalName": "Portal de not\u00edcias Brasil em Folhas",
+    "url": "https://www1.brasilemfolhas.com.br/",
+    "logo": "https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/bs_00545.jpg",
+    "sameAs": [
+        " https://facebook.com/brasilemfolhas",
+        "https://x.com/brasilemfolhas",
+        "https://www.youtube.com/brasilemfolhas",
+        "https://news.google.com/publications/CAAqBwgKMISfnAswmKm0Aw",
+        "https://www.instagram.com/brasilemfolhas/",
+        "https://pinterest.com/brasilemfolhas/",
+        "https://www.tiktok.com/@brasilemfolhas",
+        "https://br.linkedin.com/company/jornalbrasilemfolhas",
+        "https://www.tumblr.com/brasilemfolhas"
+    ]
+}</script>
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www1.brasilemfolhas.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="https://c0.wp.com/c/6.7.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://c0.wp.com/c/6.7.1/wp-includes/js/mediaelement/wp-mediaelement.min.css" media="all">
+<style id="jetpack-sharing-buttons-style-inline-css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="foxiz-elements-css" href="https://www1.brasilemfolhas.com.br/wp-content/plugins/foxiz-core/lib/foxiz-elements/public/style.css?ver=2.0" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://www1.brasilemfolhas.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.26.4" media="all">
+<link rel="stylesheet" id="elementor-post-21-css" href="https://www1.brasilemfolhas.com.br/wp-content/uploads/elementor/css/post-21.css?ver=1736797822" media="all">
+<link rel="stylesheet" id="e-animation-fadeIn-css" href="https://www1.brasilemfolhas.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.26.4" media="all">
+<link rel="stylesheet" id="elementor-post-1387-css" href="https://www1.brasilemfolhas.com.br/wp-content/uploads/elementor/css/post-1387.css?ver=1736797850" media="all">
+<link rel="stylesheet" id="foxiz-font-css" href="https://fonts.googleapis.com/css?family=Oxygen%3A400%2C700%7CEncode+Sans+Condensed%3A400%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=2.5.6" media="all">
+<link rel="stylesheet" id="foxiz-main-css" href="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/css/main.css?ver=2.5.6" media="all">
+<style id="foxiz-main-inline-css">
+[data-theme="dark"].is-hd-4 {--nav-bg: #191c20;--nav-bg-from: #191c20;--nav-bg-to: #191c20;}:root {--top-site-bg :#e0e0e0;--topad-spacing :15px;--hyperlink-line-color :var(--g-color);--s-content-width : 760px;--max-width-wo-sb : 840px;--s10-feat-ratio :45%;--s11-feat-ratio :45%;--login-popup-w : 350px;}[data-theme="dark"], .light-scheme {--top-site-bg :#e0e0e0; }.search-header:before { background-repeat : no-repeat;background-size : cover;background-image : url(https://export.themeruby.com/foxiz/default/wp-content/uploads/sites/2/2021/09/search-bg.jpg);background-attachment : scroll;background-position : center center;}[data-theme="dark"] .search-header:before { background-repeat : no-repeat;background-size : cover;background-image : url(https://export.themeruby.com/foxiz/default/wp-content/uploads/sites/2/2021/09/search-bgd.jpg);background-attachment : scroll;background-position : center center;}.footer-has-bg { background-color : #00000007;}[data-theme="dark"] .footer-has-bg { background-color : #16181c;}.top-site-ad .ad-image { max-width: 1500px; }.yes-hd-transparent .top-site-ad {--top-site-bg :#e0e0e0;}#amp-mobile-version-switcher { display: none; }
+</style>
+<link rel="stylesheet" id="foxiz-print-css" href="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/css/print.css?ver=2.5.6" media="all">
+<link rel="stylesheet" id="foxiz-style-css" href="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/style.css?ver=2.5.6" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.7.1" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="https://c0.wp.com/c/6.7.1/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script src="https://c0.wp.com/c/6.7.1/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+
+<!-- Snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+
+<!-- Snippet do Google Analytics adicionado pelo Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=GT-P8QQZWL" id="google_gtagjs-js" async=""></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www1.brasilemfolhas.com.br"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-P8QQZWL");
+</script>
+
+<!-- Fim do snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/highlight-share.js?ver=1" id="highlight-share-js"></script>
+<link rel="https://api.w.org/" href="https://www1.brasilemfolhas.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www1.brasilemfolhas.com.br/wp-json/wp/v2/pages/1387"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www1.brasilemfolhas.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="canonical" href="https://www1.brasilemfolhas.com.br/">
+<link rel="shortlink" href="https://wp.me/Pg2iwL-mn">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www1.brasilemfolhas.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww1.brasilemfolhas.com.br%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www1.brasilemfolhas.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww1.brasilemfolhas.com.br%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.142.0">	<style>img#wpstats{display:none}</style>
+		<meta name="generator" content="Elementor 3.26.4; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://www1.brasilemfolhas.com.br/#website",
+    "url": "https://www1.brasilemfolhas.com.br/",
+    "name": "Portal de not\u00edcias Brasil em Folhas",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www1.brasilemfolhas.com.br/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
+}</script>
+<meta name="description" content="Última Hora Força armadas abrem alistamento militar voluntário para mulheres com 1.465 vagas Goiânia recebe secretariado do prefeito Sandro Mabel com foco na mudança Prefeito Sandro Mabel lança programa de desobstrução de vias em Goiânia Leandro Vilela inicia gestão com força-tarefa de limpeza no Goiânia Park Sul Vilela assume Prefeitura de Aparecida com déficit de…">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Portal de notícias Brasil em Folhas">
+<meta property="og:description" content="Fique atualizado com as principais notícias e acompanhe tudo o que está acontecendo no Brasil e no mundo.">
+<meta property="og:url" content="https://www1.brasilemfolhas.com.br/">
+<meta property="og:site_name" content="Portal de notícias Brasil em Folhas">
+<meta property="og:image" content="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/grafi-min-1.jpg">
+<meta property="og:image:width" content="551">
+<meta property="og:image:height" content="610">
+<meta property="og:image:alt" content="">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:text:title" content="Home Default">
+<meta name="twitter:image" content="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/grafi-min-1.jpg?w=640">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- End Jetpack Open Graph Tags -->
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www1.brasilemfolhas.com.br","name":"Portal de notícias Brasil em Folhas"}}]}</script>
+<link rel="icon" href="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/cropped-bs_72.jpg?fit=32%2C32&amp;ssl=1" sizes="32x32">
+<link rel="icon" href="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/cropped-bs_72.jpg?fit=192%2C192&amp;ssl=1" sizes="192x192">
+<link rel="apple-touch-icon" href="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/cropped-bs_72.jpg?fit=180%2C180&amp;ssl=1">
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/cropped-bs_72.jpg?fit=270%2C270&amp;ssl=1">
+</head>
+<body class="home page-template-default page page-id-1387 wp-embed-responsive personalized-all elementor-default elementor-kit-21 elementor-page elementor-page-1387 menu-ani-1 hover-ani-1 btn-ani-1 btn-transform-1 is-rm-1 lmeta-dot loader-1 dark-sw-1 is-hd-1 is-backtop none-m-backtop  is-mstick is-smart-sticky" data-theme="default">
+<div class="site-outer">
+			<div id="site-header" class="header-wrap rb-section header-set-1 header-1 header-wrapper style-shadow has-quick-menu">
+			<aside id="rb-privacy" class="privacy-bar privacy-left"><div class="privacy-inner"><div class="privacy-content">Ao usar este site, você concorda com a <a href="https://www1.brasilemfolhas.com.br/politica-de-privacidade/">Política de Privacidade</a> e os <a href="https://www1.brasilemfolhas.com.br/termos-de-uso/">Termos de Uso</a>.</div><div class="privacy-dismiss"><a id="privacy-trigger" href="#" class="privacy-dismiss-btn is-btn"><span>OK</span></a></div></div></aside>			<div id="navbar-outer" class="navbar-outer">
+				<div id="sticky-holder" class="sticky-holder">
+					<div class="navbar-wrap">
+						<div class="rb-container edge-padding">
+							<div class="navbar-inner">
+								<div class="navbar-left">
+											<div class="logo-wrap is-image-logo site-branding">
+			<a href="https://www1.brasilemfolhas.com.br/" class="logo" title="Portal de notícias Brasil em Folhas">
+				<img class="logo-default" data-mode="default" height="60" width="304" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/brasilemfolhas_60.png" alt="Portal de notícias Brasil em Folhas" decoding="async" loading="eager"><img class="logo-dark" data-mode="dark" height="60" width="304" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/brasilemfolhas_60_a.png" alt="Portal de notícias Brasil em Folhas" decoding="async" loading="eager"><img class="logo-transparent" height="60" width="304" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/brasilemfolhas_60.png" alt="Portal de notícias Brasil em Folhas" decoding="async" loading="eager">					<h1 class="logo-title is-hidden">Portal de notícias Brasil em Folhas</h1>
+											<p class="site-description is-hidden">Fique atualizado com as principais notícias e acompanhe tudo o que está acontecendo no Brasil e no mundo.</p>
+								</a>
+		</div>
+				<nav id="site-navigation" class="main-menu-wrap" aria-label="main menu"><ul id="menu-main" class="main-menu rb-menu large-menu" itemscope="" itemtype="https://www.schema.org/SiteNavigationElement"><li id="menu-item-517576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517576 menu-item-has-children menu-has-child-mega is-child-wide mega-hierarchical"><a href="https://www1.brasilemfolhas.com.br/c/politica/"><span>Política</span></a><div class="mega-dropdown is-mega-category"><div class="rb-container edge-padding"><div class="mega-dropdown-inner"><div class="mega-col mega-col-intro"><div class="h3"><a class="p-url" href="https://www1.brasilemfolhas.com.br/c/politica/">Política</a></div><div class="category-hero-wrap"><div class="category-hero-item"><div class="category-hero-item-inner"><img loading="lazy" decoding="async" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/53457492293_bf6e553d78_o-scaled.jpg?resize=860%2C573&amp;ssl=1" alt=""></div></div><div class="category-hero-item"><div class="category-hero-item-inner"><img loading="lazy" decoding="async" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/53457492293_bf6e553d78_o-scaled.jpg?resize=860%2C573&amp;ssl=1" alt=""></div></div></div><div class="cbox-description">Acompanhe as principais decisões políticas que moldam o Brasil. Cobertura completa sobre o governo, Congresso, eleições, e as movimentações dos principais personagens políticos do país.…</div><a class="mega-link p-readmore" href="https://www1.brasilemfolhas.com.br/c/politica/"><span>Mostrar mais</span><i class="rbi rbi-cright" aria-hidden="true"></i></a></div><div class="mega-col mega-col-trending"><div class="mega-header"><i class="rbi rbi-trending" aria-hidden="true"></i><span class="h4">Top News</span></div><div id="mega-listing-trending-517576" class="block-wrap block-small block-list block-list-small-2 rb-columns rb-col-1 meta-s-default"><div class="block-inner">		<div class="p-wrap p-small p-list-small-2" data-pid="518313">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/09/e-nitido-que-o-goianiense-abracou-sua-candidatura-diz-silvye-sobre-receptividade-a-mabel/" title="“É nítido que o goianiense abraçou sua candidatura”, diz Silvye sobre receptividade a Mabel">
+			<img loading="lazy" width="150" height="150" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/e1f5c218-9466-47bc-bb7d-0a9f5d66ef20-scaled.jpg?resize=150%2C150&amp;ssl=1" class="featured-img wp-post-image" alt="" decoding="async">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<span class="entry-title h4">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/09/e-nitido-que-o-goianiense-abracou-sua-candidatura-diz-silvye-sobre-receptividade-a-mabel/" rel="bookmark">“É nítido que o goianiense abraçou sua candidatura”, diz Silvye sobre receptividade a Mabel</a></span>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-update">
+						<time class="updated" datetime="2024-09-26T20:14:21-03:00">26 de setembro de 2024</time>
+		</div>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-2" data-pid="518940">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/10/em-alta-nas-pesquisas-vilela-intensifica-campanha-participa-de-debates-mais-de-50-entrevistas-e-projeta-vitoria/" title="Em alta nas pesquisas, Vilela intensifica campanha, participa de debates, mais de 50 entrevistas e projeta vitória">
+			<img loading="lazy" width="150" height="150" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/10/c6cfd034-c26d-42bf-ab41-6dc4622f8346-scaled.jpg?resize=150%2C150&amp;ssl=1" class="featured-img wp-post-image" alt="" decoding="async">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<span class="entry-title h4">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/10/em-alta-nas-pesquisas-vilela-intensifica-campanha-participa-de-debates-mais-de-50-entrevistas-e-projeta-vitoria/" rel="bookmark">Em alta nas pesquisas, Vilela intensifica campanha, participa de debates, mais de 50 entrevistas e projeta vitória</a></span>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-update">
+						<time class="updated" datetime="2024-10-01T14:20:32-03:00">1 de outubro de 2024</time>
+		</div>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-2" data-pid="519787">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/10/analise-de-custos-e-riscos-da-venda-da-amazonas-energia-e-solicitada-pela-aneel/" title="Análise de custos e riscos da venda da Amazonas Energia é solicitada pela Aneel">
+			<img loading="lazy" width="150" height="150" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/cccdd.jpg?resize=150%2C150&amp;ssl=1" class="featured-img wp-post-image" alt="" decoding="async">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<span class="entry-title h4">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/10/analise-de-custos-e-riscos-da-venda-da-amazonas-energia-e-solicitada-pela-aneel/" rel="bookmark">Análise de custos e riscos da venda da Amazonas Energia é solicitada pela Aneel</a></span>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-update">
+						<time class="updated" datetime="2024-10-03T18:46:39-03:00">3 de outubro de 2024</time>
+		</div>
+						</div>
+							</div>
+				</div>
+				</div>
+	</div></div></div><div class="mega-col mega-col-latest"><div class="mega-header"><i class="rbi rbi-clock" aria-hidden="true"></i><span class="h4">Últimas Notícias</span></div><div id="mega-listing-latest-517576" class="block-wrap block-small block-list block-list-small-1 bottom-border is-b-border-gray no-last-bb meta-s-default"><div class="block-inner">		<div class="p-wrap p-small p-list-small-1" data-pid="562512">
+			<div class="p-content">
+			<span class="entry-title h4">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-e-equipe-promovem-encontro-de-alinhamento-estrategico-para-os-100-dias-de-governo/" rel="bookmark">Vilela e equipe promovem encontro de alinhamento estratégico para os 100 dias de governo</a></span>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-update">
+						<time class="updated" datetime="2025-01-13T17:04:49-03:00">13 de janeiro de 2025</time>
+		</div>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-1" data-pid="562505">
+			<div class="p-content">
+			<span class="entry-title h4">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prioridade-e-garantir-que-criancas-tenham-acesso-a-educacao-infantil-defende-mabel/" rel="bookmark">“Prioridade é garantir que crianças tenham acesso à Educação Infantil”, defende Mabel</a></span>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-update">
+						<time class="updated" datetime="2025-01-13T17:03:16-03:00">13 de janeiro de 2025</time>
+		</div>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-1" data-pid="562134">
+			<div class="p-content">
+			<span class="entry-title h4">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/ministra-critica-governo-da-venezuela-apos-posse-de-maduro/" rel="bookmark">Ministra critica governo da Venezuela após posse de Maduro</a></span>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-update">
+						<time class="updated" datetime="2025-01-13T14:48:05-03:00">13 de janeiro de 2025</time>
+		</div>
+						</div>
+							</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-1" data-pid="562441">
+			<div class="p-content">
+			<span class="entry-title h4">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/aumento-de-477-no-inss-eleva-teto-para-r-8-15740-em-2025/" rel="bookmark">Aumento de 4,77% no INSS eleva teto para R$ 8.157,40 em 2025</a></span>			<div class="p-meta">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-update">
+						<time class="updated" datetime="2025-01-13T14:39:39-03:00">13 de janeiro de 2025</time>
+		</div>
+						</div>
+							</div>
+				</div>
+				</div>
+	</div></div></div></div></div></div></li>
+<li id="menu-item-517577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517577"><a href="https://www1.brasilemfolhas.com.br/c/cotidiano/"><span>Cotidiano</span></a></li>
+<li id="menu-item-517579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517579"><a href="https://www1.brasilemfolhas.com.br/c/economia/"><span>Economia</span></a></li>
+<li id="menu-item-517581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517581"><a href="https://www1.brasilemfolhas.com.br/c/mundo/"><span>Mundo</span></a></li>
+<li id="menu-item-517580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517580"><a href="https://www1.brasilemfolhas.com.br/c/esporte/"><span>Esporte</span></a></li>
+<li id="menu-item-517578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517578"><a href="https://www1.brasilemfolhas.com.br/c/cultura/"><span>Cultura</span></a></li>
+<li id="menu-item-517582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517582"><a href="https://www1.brasilemfolhas.com.br/c/opiniao/"><span>Opinião</span></a></li>
+<li id="menu-item-517592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-517592"><a href="https://www1.brasilemfolhas.com.br/my-bookmarks/"><span>My Bookmarks</span></a></li>
+</ul></nav>
+				<div class="more-section-outer menu-has-child-flex menu-has-child-mega-columns layout-col-3">
+			<a class="more-trigger icon-holder" href="#" data-title="Mais" aria-label="more">
+				<span class="dots-icon"><span></span><span></span><span></span></span> </a>
+			<div id="rb-more" class="more-section flex-dropdown">
+				<div class="more-section-inner">
+					<div class="more-content">
+								<div class="header-search-form is-form-layout">
+							<span class="h5">Procurar</span>
+			<form method="get" action="https://www1.brasilemfolhas.com.br/" class="rb-search-form" data-search="post" data-limit="0" data-follow="0" data-tax="category" data-dsource="0" data-ptype=""><div class="search-form-inner"><span class="search-icon"><i class="rbi rbi-search" aria-hidden="true"></i></span><span class="search-text"><input type="text" class="field" placeholder="Pesquisar manchetes, notícias..." value="" name="s"></span><span class="rb-search-submit"><input type="submit" value="Procurar"><i class="rbi rbi-cright" aria-hidden="true"></i></span></div></form>		</div>
+									<div class="mega-columns">
+															</div>
+											</div>
+											<div class="collapse-footer">
+															<div class="collapse-footer-menu"><ul id="menu-footer-copyright" class="collapse-footer-menu-inner"><li id="menu-item-2168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2168"><a href="https://www1.brasilemfolhas.com.br/anuncie/"><span>Anuncie</span></a></li>
+<li id="menu-item-517594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517594"><a href="https://www1.brasilemfolhas.com.br/expediente/"><span>Expediente</span></a></li>
+<li id="menu-item-517595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517595"><a href="https://www1.brasilemfolhas.com.br/fale-conosco/"><span>Fale Conosco</span></a></li>
+<li id="menu-item-517596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517596"><a href="https://www1.brasilemfolhas.com.br/politica-de-privacidade/"><span>Política de Privacidade</span></a></li>
+<li id="menu-item-517597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517597"><a href="https://www1.brasilemfolhas.com.br/termos-de-uso/"><span>Termos de Uso</span></a></li>
+</ul></div>
+															<div class="collapse-copyright">© 2024 - BRASIL EM FOLHAS S/A</div>
+													</div>
+									</div>
+			</div>
+		</div>
+										</div>
+								<div class="navbar-right">
+											<div class="wnav-holder header-dropdown-outer">
+			<a href="#" class="dropdown-trigger notification-icon notification-trigger" aria-label="notification">
+                <span class="notification-icon-inner" data-title="Notificação">
+                    <span class="notification-icon-holder">
+                    	                    <i class="rbi rbi-notification wnav-icon" aria-hidden="true"></i>
+                                        <span class="notification-info"></span>
+                    </span>
+                </span> </a>
+			<div class="header-dropdown notification-dropdown">
+				<div class="notification-popup">
+					<div class="notification-header">
+						<span class="h4">Notificação</span>
+													<a class="notification-url meta-text" href="https://www1.brasilemfolhas.com.br/my-bookmarks/">Mostrar mais								<i class="rbi rbi-cright" aria-hidden="true"></i></a>
+											</div>
+					<div class="notification-content">
+						<div class="scroll-holder">
+							<div class="rb-notification ecat-l-dot is-feat-right" data-interval="12"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="wnav-holder w-header-search header-dropdown-outer">
+			<a href="#" data-title="Procurar" class="icon-holder header-element search-btn more-trigger" aria-label="search">
+				<i class="rbi rbi-search wnav-icon" aria-hidden="true"></i>							</a>
+					</div>
+				<div class="dark-mode-toggle-wrap">
+			<div class="dark-mode-toggle">
+                <span class="dark-mode-slide">
+                    <i class="dark-mode-slide-btn mode-icon-dark" data-title="Switch to Light"><svg class="svg-icon svg-mode-dark" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M507.681,209.011c-1.297-6.991-7.324-12.111-14.433-12.262c-7.104-0.122-13.347,4.711-14.936,11.643
+ c-15.26,66.497-73.643,112.94-141.978,112.94c-80.321,0-145.667-65.346-145.667-145.666c0-68.335,46.443-126.718,112.942-141.976
+ c6.93-1.59,11.791-7.826,11.643-14.934c-0.149-7.108-5.269-13.136-12.259-14.434C287.546,1.454,271.735,0,256,0
+ C187.62,0,123.333,26.629,74.98,74.981C26.628,123.333,0,187.62,0,256s26.628,132.667,74.98,181.019
+ C123.333,485.371,187.62,512,256,512s132.667-26.629,181.02-74.981C485.372,388.667,512,324.38,512,256
+ C512,240.278,510.546,224.469,507.681,209.011z"></path></svg></i>
+                    <i class="dark-mode-slide-btn mode-icon-default" data-title="Switch to Dark"><svg class="svg-icon svg-mode-light" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232.447 232.447"><path fill="currentColor" d="M116.211,194.8c-4.143,0-7.5,3.357-7.5,7.5v22.643c0,4.143,3.357,7.5,7.5,7.5s7.5-3.357,7.5-7.5V202.3
+ C123.711,198.157,120.354,194.8,116.211,194.8z"></path><path fill="currentColor" d="M116.211,37.645c4.143,0,7.5-3.357,7.5-7.5V7.505c0-4.143-3.357-7.5-7.5-7.5s-7.5,3.357-7.5,7.5v22.641
+ C108.711,34.288,112.068,37.645,116.211,37.645z"></path><path fill="currentColor" d="M50.054,171.78l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.606c1.465,1.466,3.385,2.198,5.305,2.198
+ c1.919,0,3.838-0.731,5.302-2.195l16.016-16.008c2.93-2.929,2.931-7.677,0.003-10.606C57.731,168.852,52.982,168.851,50.054,171.78
+ z"></path><path fill="currentColor" d="M177.083,62.852c1.919,0,3.838-0.731,5.302-2.195L198.4,44.649c2.93-2.929,2.931-7.677,0.003-10.606
+ c-2.93-2.932-7.679-2.931-10.607-0.003l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.607
+ C173.243,62.12,175.163,62.852,177.083,62.852z"></path><path fill="currentColor" d="M37.645,116.224c0-4.143-3.357-7.5-7.5-7.5H7.5c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.645
+ C34.287,123.724,37.645,120.366,37.645,116.224z"></path><path fill="currentColor" d="M224.947,108.724h-22.652c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.652c4.143,0,7.5-3.357,7.5-7.5
+ S229.09,108.724,224.947,108.724z"></path><path fill="currentColor" d="M50.052,60.655c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.606
+ L44.652,34.042c-2.93-2.93-7.679-2.929-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.606L50.052,60.655z"></path><path fill="currentColor" d="M182.395,171.782c-2.93-2.929-7.679-2.93-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.607l16.007,16.008
+ c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.607L182.395,171.782z"></path><path fill="currentColor" d="M116.22,48.7c-37.232,0-67.523,30.291-67.523,67.523s30.291,67.523,67.523,67.523s67.522-30.291,67.522-67.523
+ S153.452,48.7,116.22,48.7z M116.22,168.747c-28.962,0-52.523-23.561-52.523-52.523S87.258,63.7,116.22,63.7
+ c28.961,0,52.522,23.562,52.522,52.523S145.181,168.747,116.22,168.747z"></path></svg></i>
+                </span>
+			</div>
+		</div>
+										</div>
+							</div>
+						</div>
+					</div>
+							<div id="header-mobile" class="header-mobile">
+			<div class="header-mobile-wrap">
+						<div class="mbnav edge-padding">
+			<div class="navbar-left">
+						<div class="mobile-toggle-wrap">
+							<a href="#" class="mobile-menu-trigger" aria-label="mobile trigger">		<span class="burger-icon"><span></span><span></span><span></span></span>
+	</a>
+					</div>
+			<div class="mobile-logo-wrap is-image-logo site-branding">
+			<a href="https://www1.brasilemfolhas.com.br/" title="Portal de notícias Brasil em Folhas">
+				<img class="logo-default" data-mode="default" height="60" width="304" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/brasilemfolhas_60.png" alt="Portal de notícias Brasil em Folhas" decoding="async" loading="eager"><img class="logo-dark" data-mode="dark" height="60" width="304" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/brasilemfolhas_60_a.png" alt="Portal de notícias Brasil em Folhas" decoding="async" loading="eager">			</a>
+		</div>
+					</div>
+			<div class="navbar-right">
+						<a href="#" class="mobile-menu-trigger mobile-search-icon" aria-label="search"><i class="rbi rbi-search wnav-icon" aria-hidden="true"></i></a>
+			<div class="dark-mode-toggle-wrap">
+			<div class="dark-mode-toggle">
+                <span class="dark-mode-slide">
+                    <i class="dark-mode-slide-btn mode-icon-dark" data-title="Switch to Light"><svg class="svg-icon svg-mode-dark" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M507.681,209.011c-1.297-6.991-7.324-12.111-14.433-12.262c-7.104-0.122-13.347,4.711-14.936,11.643
+ c-15.26,66.497-73.643,112.94-141.978,112.94c-80.321,0-145.667-65.346-145.667-145.666c0-68.335,46.443-126.718,112.942-141.976
+ c6.93-1.59,11.791-7.826,11.643-14.934c-0.149-7.108-5.269-13.136-12.259-14.434C287.546,1.454,271.735,0,256,0
+ C187.62,0,123.333,26.629,74.98,74.981C26.628,123.333,0,187.62,0,256s26.628,132.667,74.98,181.019
+ C123.333,485.371,187.62,512,256,512s132.667-26.629,181.02-74.981C485.372,388.667,512,324.38,512,256
+ C512,240.278,510.546,224.469,507.681,209.011z"></path></svg></i>
+                    <i class="dark-mode-slide-btn mode-icon-default" data-title="Switch to Dark"><svg class="svg-icon svg-mode-light" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232.447 232.447"><path fill="currentColor" d="M116.211,194.8c-4.143,0-7.5,3.357-7.5,7.5v22.643c0,4.143,3.357,7.5,7.5,7.5s7.5-3.357,7.5-7.5V202.3
+ C123.711,198.157,120.354,194.8,116.211,194.8z"></path><path fill="currentColor" d="M116.211,37.645c4.143,0,7.5-3.357,7.5-7.5V7.505c0-4.143-3.357-7.5-7.5-7.5s-7.5,3.357-7.5,7.5v22.641
+ C108.711,34.288,112.068,37.645,116.211,37.645z"></path><path fill="currentColor" d="M50.054,171.78l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.606c1.465,1.466,3.385,2.198,5.305,2.198
+ c1.919,0,3.838-0.731,5.302-2.195l16.016-16.008c2.93-2.929,2.931-7.677,0.003-10.606C57.731,168.852,52.982,168.851,50.054,171.78
+ z"></path><path fill="currentColor" d="M177.083,62.852c1.919,0,3.838-0.731,5.302-2.195L198.4,44.649c2.93-2.929,2.931-7.677,0.003-10.606
+ c-2.93-2.932-7.679-2.931-10.607-0.003l-16.016,16.008c-2.93,2.929-2.931,7.677-0.003,10.607
+ C173.243,62.12,175.163,62.852,177.083,62.852z"></path><path fill="currentColor" d="M37.645,116.224c0-4.143-3.357-7.5-7.5-7.5H7.5c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.645
+ C34.287,123.724,37.645,120.366,37.645,116.224z"></path><path fill="currentColor" d="M224.947,108.724h-22.652c-4.143,0-7.5,3.357-7.5,7.5s3.357,7.5,7.5,7.5h22.652c4.143,0,7.5-3.357,7.5-7.5
+ S229.09,108.724,224.947,108.724z"></path><path fill="currentColor" d="M50.052,60.655c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.606
+ L44.652,34.042c-2.93-2.93-7.679-2.929-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.606L50.052,60.655z"></path><path fill="currentColor" d="M182.395,171.782c-2.93-2.929-7.679-2.93-10.606-0.001c-2.93,2.929-2.93,7.678-0.001,10.607l16.007,16.008
+ c1.465,1.465,3.384,2.197,5.304,2.197c1.919,0,3.839-0.732,5.303-2.196c2.93-2.929,2.93-7.678,0.001-10.607L182.395,171.782z"></path><path fill="currentColor" d="M116.22,48.7c-37.232,0-67.523,30.291-67.523,67.523s30.291,67.523,67.523,67.523s67.522-30.291,67.522-67.523
+ S153.452,48.7,116.22,48.7z M116.22,168.747c-28.962,0-52.523-23.561-52.523-52.523S87.258,63.7,116.22,63.7
+ c28.961,0,52.522,23.562,52.522,52.523S145.181,168.747,116.22,168.747z"></path></svg></i>
+                </span>
+			</div>
+		</div>
+					</div>
+		</div>
+	<div class="mobile-qview"><ul id="menu-mobile-quick-access-1" class="mobile-qview-inner"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517590"><a href="https://www1.brasilemfolhas.com.br/c/politica/"><span>Política</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517584"><a href="https://www1.brasilemfolhas.com.br/c/cotidiano/"><span>Cotidiano</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517586"><a href="https://www1.brasilemfolhas.com.br/c/economia/"><span>Economia</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517588"><a href="https://www1.brasilemfolhas.com.br/c/mundo/"><span>Mundo</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517587"><a href="https://www1.brasilemfolhas.com.br/c/esporte/"><span>Esporte</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517585"><a href="https://www1.brasilemfolhas.com.br/c/cultura/"><span>Cultura</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-517589"><a href="https://www1.brasilemfolhas.com.br/c/opiniao/"><span>Opinião</span></a></li>
+</ul></div>			</div>
+					<div class="mobile-collapse">
+			<div class="collapse-holder">
+				<div class="collapse-inner">
+											<div class="mobile-search-form edge-padding">		<div class="header-search-form is-form-layout">
+							<span class="h5">Procurar</span>
+			<form method="get" action="https://www1.brasilemfolhas.com.br/" class="rb-search-form" data-search="post" data-limit="0" data-follow="0" data-tax="category" data-dsource="0" data-ptype=""><div class="search-form-inner"><span class="search-icon"><i class="rbi rbi-search" aria-hidden="true"></i></span><span class="search-text"><input type="text" class="field" placeholder="Pesquisar manchetes, notícias..." value="" name="s"></span><span class="rb-search-submit"><input type="submit" value="Procurar"><i class="rbi rbi-cright" aria-hidden="true"></i></span></div></form>		</div>
+		</div>
+										<nav class="mobile-menu-wrap edge-padding">
+						<ul id="mobile-menu" class="mobile-menu"><li id="menu-item-2176" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-2176"><a href="https://www1.brasilemfolhas.com.br/" aria-current="page"><span>Home</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-558865" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558865"><a href="https://www1.brasilemfolhas.com.br/c/politica/"><span>Política</span></a></li>
+	<li id="menu-item-558866" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558866"><a href="https://www1.brasilemfolhas.com.br/c/cotidiano/"><span>Cotidiano</span></a></li>
+	<li id="menu-item-558867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558867"><a href="https://www1.brasilemfolhas.com.br/c/economia/"><span>Economia</span></a></li>
+	<li id="menu-item-558868" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558868"><a href="https://www1.brasilemfolhas.com.br/c/mundo/"><span>Mundo</span></a></li>
+	<li id="menu-item-558869" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558869"><a href="https://www1.brasilemfolhas.com.br/c/esporte/"><span>Esporte</span></a></li>
+	<li id="menu-item-558870" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558870"><a href="https://www1.brasilemfolhas.com.br/c/cultura/"><span>Cultura</span></a></li>
+	<li id="menu-item-558871" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-558871"><a href="https://www1.brasilemfolhas.com.br/c/opiniao/"><span>Opinião</span></a></li>
+</ul>
+</li>
+<li id="menu-item-558872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-558872"><a href="https://www1.brasilemfolhas.com.br/anuncie/"><span>Anuncie</span></a></li>
+<li id="menu-item-558873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558873"><a href="https://www1.brasilemfolhas.com.br/fale-conosco/"><span>Fale Conosco</span></a></li>
+<li id="menu-item-558874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558874"><a href="https://www1.brasilemfolhas.com.br/expediente/"><span>Expediente</span></a></li>
+</ul>					</nav>
+										<div class="collapse-sections">
+													<div class="mobile-login">
+																	<span class="mobile-login-title h6">Have an existing account?</span>
+									<a href="https://www1.brasilemfolhas.com.br/wp-login.php?redirect_to=https%3A%2F%2Fwww1.brasilemfolhas.com.br%2F" class="login-toggle is-login is-btn">Sign In</a>
+															</div>
+													<div class="mobile-socials">
+								<span class="mobile-social-title h6">Follow US</span>
+								<a class="social-link-facebook" aria-label="Facebook" data-title="Facebook" href="https://facebook.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-facebook" aria-hidden="true"></i></a><a class="social-link-twitter" aria-label="X" data-title="X" href="https://x.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-twitter" aria-hidden="true"></i></a><a class="social-link-youtube" aria-label="YouTube" data-title="YouTube" href="https://www.youtube.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-youtube" aria-hidden="true"></i></a><a class="social-link-google-news" aria-label="Google News" data-title="Google News" href="https://news.google.com/publications/CAAqBwgKMISfnAswmKm0Aw" target="_blank" rel="noopener nofollow"><i class="rbi rbi-gnews" aria-hidden="true"></i></a><a class="social-link-instagram" aria-label="Instagram" data-title="Instagram" href="https://www.instagram.com/brasilemfolhas/" target="_blank" rel="noopener nofollow"><i class="rbi rbi-instagram" aria-hidden="true"></i></a><a class="social-link-pinterest" aria-label="Pinterest" data-title="Pinterest" href="https://pinterest.com/brasilemfolhas/" target="_blank" rel="noopener nofollow"><i class="rbi rbi-pinterest" aria-hidden="true"></i></a><a class="social-link-tiktok" aria-label="TikTok" data-title="TikTok" href="https://www.tiktok.com/@brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-tiktok" aria-hidden="true"></i></a><a class="social-link-linkedin" aria-label="LinkedIn" data-title="LinkedIn" href="https://br.linkedin.com/company/jornalbrasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-linkedin" aria-hidden="true"></i></a><a class="social-link-tumblr" aria-label="Tumblr" data-title="Tumblr" href="https://www.tumblr.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-tumblr" aria-hidden="true"></i></a>							</div>
+											</div>
+											<div class="collapse-footer">
+															<div class="collapse-footer-menu"><ul id="menu-footer-copyright-1" class="collapse-footer-menu-inner"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2168"><a href="https://www1.brasilemfolhas.com.br/anuncie/"><span>Anuncie</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517594"><a href="https://www1.brasilemfolhas.com.br/expediente/"><span>Expediente</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517595"><a href="https://www1.brasilemfolhas.com.br/fale-conosco/"><span>Fale Conosco</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517596"><a href="https://www1.brasilemfolhas.com.br/politica-de-privacidade/"><span>Política de Privacidade</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-517597"><a href="https://www1.brasilemfolhas.com.br/termos-de-uso/"><span>Termos de Uso</span></a></li>
+</ul></div>
+															<div class="collapse-copyright">© 2024 BRASIL EM FOLHAS S/A</div>
+													</div>
+									</div>
+			</div>
+		</div>
+			</div>
+					</div>
+			</div>
+					</div>
+		    <div class="site-wrap">		<div data-elementor-type="wp-page" data-elementor-id="1387" class="elementor elementor-1387">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-247d83b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="247d83b" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-6245293" data-id="6245293" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-686411f elementor-widget elementor-widget-foxiz-breaking-news" data-id="686411f" data-element_type="widget" data-widget_type="foxiz-breaking-news.default">
+				<div class="elementor-widget-container">
+					<div id="uid_686411f" class="block-wrap block-breaking-news meta-s-default">							<span class="breaking-news-heading"><i class="rbi rbi-fire"></i><span>Última Hora</span></span>
+						<div class="breaking-news-slider swiper-container pre-load" data-play="" data-speed="5000">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide"><h6 class="entry-title breaking-news-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-vilela-acompanha-torneio-que-observa-promessas-do-futebol-de-aparecida/" rel="bookmark">Prefeito Vilela acompanha torneio que observa promessas do futebol de Aparecida</a></h6></div><div class="swiper-slide"><h6 class="entry-title breaking-news-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-e-equipe-promovem-encontro-de-alinhamento-estrategico-para-os-100-dias-de-governo/" rel="bookmark">Vilela e equipe promovem encontro de alinhamento estratégico para os 100 dias de governo</a></h6></div><div class="swiper-slide"><h6 class="entry-title breaking-news-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prioridade-e-garantir-que-criancas-tenham-acesso-a-educacao-infantil-defende-mabel/" rel="bookmark">“Prioridade é garantir que crianças tenham acesso à Educação Infantil”, defende Mabel</a></h6></div><div class="swiper-slide"><h6 class="entry-title breaking-news-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/athletico-pr-confirma-contratacao-de-isaac-ate-2027/" rel="bookmark">Athletico-PR confirma contratação de Isaac até 2027</a></h6></div><div class="swiper-slide"><h6 class="entry-title breaking-news-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/camara-amplia-beneficios-e-deputados-podem-usar-cota-para-despachar-bagagem/" rel="bookmark">Câmara amplia benefícios e deputados podem usar cota para despachar bagagem</a></h6></div>				</div>
+				<div class="breaking-news-nav">
+					<div class="breaking-news-prev rbi rbi-prev"></div>
+					<div class="breaking-news-next rbi rbi-next"></div>
+				</div>
+			</div>
+		</div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f39bb56 elementor-hidden-tablet elementor-hidden-mobile" data-id="f39bb56" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4adb4da is-divider-0 elementor-widget elementor-widget-foxiz-quick-links" data-id="4adb4da" data-element_type="widget" data-widget_type="foxiz-quick-links.default">
+				<div class="elementor-widget-container">
+					<div id="uid_4adb4da" class="block-wrap block-qlinks qlayout-2 res-nowrap qlinks-scroll meta-s-default">		<ul class="qlinks-inner">
+							<li class="qlink qlinks-heading">
+					<div class="qlink-label">Links rápidos
+</div>
+				</li>
+										<li class="qlink h5"><a href="https://www1.brasilemfolhas.com.br/c/esporte/">Futebol</a></li>
+							<li class="qlink h5"><a href="https://www1.brasilemfolhas.com.br/c/politica/">Eleições 2024</a></li>
+							<li class="qlink h5"><a href="https://www1.brasilemfolhas.com.br/c/economia/">Ações B3</a></li>
+					</ul>
+		</div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7bb4594 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bb4594" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-40c4dcc" data-id="40c4dcc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-94511b5 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="94511b5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-21cb5be" data-id="21cb5be" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a42b82f elementor-widget elementor-widget-foxiz-overlay-1" data-id="a42b82f" data-element_type="widget" data-widget_type="foxiz-overlay-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_a42b82f" class="block-wrap block-overlay overlay-1 p-gradient ecat-bg-1 ecat-size-big meta-s-default"><div class="block-inner">		<div class="p-wrap p-highlight p-overlay-1 swiper-slide" data-pid="562524">
+			<div class="overlay-holder">
+					<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-vilela-acompanha-torneio-que-observa-promessas-do-futebol-de-aparecida/" title="Prefeito Vilela acompanha torneio que observa promessas do futebol de Aparecida">
+			<img loading="lazy" decoding="async" width="860" height="573" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/17de1055-b8e6-4efe-b368-53302bf39303.jpg?resize=860%2C573&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+				<div class="overlay-wrap">
+				<div class="overlay-inner p-content light-scheme">
+					<div class="p-categories p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-116" href="https://www1.brasilemfolhas.com.br/c/esporte/" rel="category">Esporte</a></div><h2 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-vilela-acompanha-torneio-que-observa-promessas-do-futebol-de-aparecida/" rel="bookmark">Prefeito Vilela acompanha torneio que observa promessas do futebol de Aparecida</a></h2><p class="entry-summary mobile-hide tablet-hide">Disputada no Centro Olímpico por iniciativa da Cufa, 1ª Copa Comunitária Observatório de Futebol arrecada alimentos para serem doados à Assistência Social de Aparecida O prefeito de Aparecida de Goiânia, Leandro Vilela, prestigiou neste domingo (12) a abertura da 1ª Copa Comunitária Observatório de Futebol, disputada no Centro Olímpico de Aparecida. Ao lado da primeira-dama, Lana Bezerra, e do vice-prefeito,…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-13T17:06:02-03:00">13 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="562524"></span>			</div>
+						</div>
+			</div>
+		</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b4dd180" data-id="b4dd180" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a953f9 elementor-widget elementor-widget-foxiz-overlay-2" data-id="5a953f9" data-element_type="widget" data-widget_type="foxiz-overlay-2.default">
+				<div class="elementor-widget-container">
+					<div id="uid_5a953f9" class="block-wrap block-overlay block-overlay-2 p-gradient rb-columns rb-col-1 rb-tcol-2 rb-mcol-1 is-gap-7 ecat-bg-1 meta-s-default"><div class="block-inner">		<div class="p-wrap p-overlay p-overlay-2" data-pid="560144">
+			<div class="overlay-holder">
+					<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/passe-livre-estudantil-2025-cadastro-e-recadastro-ja-comecaram/" title="Passe Livre Estudantil 2025: Cadastro e recadastro já começaram">
+			<img loading="lazy" decoding="async" width="420" height="280" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/60256723-a2c3-4f5e-be76-49439a61fbe5.jpg?resize=420%2C280&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+				<div class="overlay-wrap">
+				<div class="overlay-inner p-content light-scheme">
+					<div class="p-categories p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a></div><h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/passe-livre-estudantil-2025-cadastro-e-recadastro-ja-comecaram/" rel="bookmark">Passe Livre Estudantil 2025: Cadastro e recadastro já começaram</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-09T14:36:28-03:00">9 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560144"></span>			</div>
+						</div>
+			</div>
+		</div>
+				</div>
+			<div class="p-wrap p-overlay p-overlay-2" data-pid="560141">
+			<div class="overlay-holder">
+					<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/governo-de-goias-vai-entregar-reforma-de-seis-terminais-e-10-estacoes-do-eixo-anhanguera/" title="Governo de Goiás vai entregar reforma de seis terminais e 10 estações do Eixo Anhanguera">
+			<img loading="lazy" decoding="async" width="420" height="280" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/625c4ca7-8e59-48ad-afce-3be0d0f0bf2e.jpg?resize=420%2C280&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+				<div class="overlay-wrap">
+				<div class="overlay-inner p-content light-scheme">
+					<div class="p-categories p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a></div><h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/governo-de-goias-vai-entregar-reforma-de-seis-terminais-e-10-estacoes-do-eixo-anhanguera/" rel="bookmark">Governo de Goiás vai entregar reforma de seis terminais e 10 estações do Eixo Anhanguera</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-08T11:31:01-03:00">8 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560141"></span>			</div>
+						</div>
+			</div>
+		</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2151ae5 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2151ae5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a7725a3" data-id="a7725a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e3c5411 elementor-widget elementor-widget-foxiz-list-small-2" data-id="e3c5411" data-element_type="widget" data-widget_type="foxiz-list-small-2.default">
+				<div class="elementor-widget-container">
+					<div id="uid_e3c5411" class="block-wrap block-small block-list block-list-small-2 rb-columns rb-col-2 rb-tcol-1 rb-mcol-1 is-gap-custom ecat-bg-1 is-feat-right meta-s-default"><div class="block-inner">		<div class="p-wrap p-small p-list-small-2" data-pid="535787">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/10/confianca-e-joia-rara/" title="Confiança é joia rara">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/10/0ddjdo.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<div class="p-categories p-top"><a class="p-category category-id-4" href="https://www1.brasilemfolhas.com.br/c/economia/" rel="category">Economia</a><a class="p-category category-id-6" href="https://www1.brasilemfolhas.com.br/c/opiniao/" rel="category">Opinião</a></div><h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/10/confianca-e-joia-rara/" rel="bookmark">Confiança é joia rara</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar mobile-hide" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author mobile-hide">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date mobile-last-meta">
+				<time class="date published" datetime="2024-10-29T12:20:07-03:00">29 de outubro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="535787"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-2" data-pid="544228">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/11/a-forca-e-a-grandeza-de-aparecida-de-goiania/" title="A Força e a Grandeza de Aparecida de Goiânia">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/11/fab2f29a-0c47-4c8d-a0e9-06b93814b0fd-Copy.jpeg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<div class="p-categories p-top"><a class="p-category category-id-4" href="https://www1.brasilemfolhas.com.br/c/economia/" rel="category">Economia</a><a class="p-category category-id-6" href="https://www1.brasilemfolhas.com.br/c/opiniao/" rel="category">Opinião</a><a class="p-category category-id-11" href="https://www1.brasilemfolhas.com.br/c/ultimas-noticias/" rel="category">Últimas notícias</a></div><h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/11/a-forca-e-a-grandeza-de-aparecida-de-goiania/" rel="bookmark">A Força e a Grandeza de Aparecida de Goiânia</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar mobile-hide" href="https://www1.brasilemfolhas.com.br/author/editor/"><img alt="Editor" src="https://secure.gravatar.com/avatar/d53224d6500cfeb48c76ecaa7047495f?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d53224d6500cfeb48c76ecaa7047495f?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author mobile-hide">
+			<a href="https://www1.brasilemfolhas.com.br/author/editor/">Editor</a>		</div>
+			<div class="meta-el meta-date mobile-last-meta">
+				<time class="date published" datetime="2024-11-13T23:51:01-03:00">13 de novembro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="544228"></span>			</div>
+				</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c1da3e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9c1da3e" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ae5a849" data-id="ae5a849" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ffe5a10 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ffe5a10" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-5b17c85" data-id="5b17c85" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f1b09bd elementor-invisible elementor-widget elementor-widget-foxiz-heading" data-id="f1b09bd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_f1b09bd" class="block-h heading-layout-1"><div class="heading-inner"><h3 class="heading-title"><a class="h-link" href="https://www1.brasilemfolhas.com.br/c/politica/">Política</a></h3></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dcaf5bb elementor-widget elementor-widget-foxiz-list-1" data-id="dcaf5bb" data-element_type="widget" data-widget_type="foxiz-list-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_dcaf5bb" class="block-wrap block-big block-list block-list-1 ecat-bg-1 ecat-size-big is-feat-right meta-s-default"><div class="block-inner">		<div class="p-wrap p-list p-list-1" data-pid="562512">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-e-equipe-promovem-encontro-de-alinhamento-estrategico-para-os-100-dias-de-governo/" title="Vilela e equipe promovem encontro de alinhamento estratégico para os 100 dias de governo">
+			<img loading="lazy" decoding="async" width="615" height="410" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/693f7f01-e05f-4765-916f-f34a60d32b3e-scaled.jpg?resize=615%2C410&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-7" href="https://www1.brasilemfolhas.com.br/c/politica/" rel="category">Política</a></div></div>
+					</div>
+			<div class="p-content">
+				<h2 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-e-equipe-promovem-encontro-de-alinhamento-estrategico-para-os-100-dias-de-governo/" rel="bookmark">Vilela e equipe promovem encontro de alinhamento estratégico para os 100 dias de governo</a></h2><p class="entry-summary">Novo prefeito, vice, secretários e auxiliares imediatos passaram o fim de semana…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-13T17:04:49-03:00">13 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="562512"></span>			</div>
+					</div>
+		</div>
+				</div>
+	</div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e6de60c elementor-invisible elementor-widget elementor-widget-foxiz-grid-small-1" data-id="e6de60c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-grid-small-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_e6de60c" class="block-wrap block-small block-grid block-grid-small-1 rb-columns rb-col-3 is-gap-10 ecat-bg-1 meta-s-default"><div class="block-inner">		<div class="p-wrap p-grid p-grid-small-1" data-pid="562505">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/prioridade-e-garantir-que-criancas-tenham-acesso-a-educacao-infantil-defende-mabel/" title="“Prioridade é garantir que crianças tenham acesso à Educação Infantil”, defende Mabel">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/caa921e5-510e-4f8e-99e7-2cc6e2c152b5.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top mobile-hide"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-7" href="https://www1.brasilemfolhas.com.br/c/politica/" rel="category">Política</a></div></div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prioridade-e-garantir-que-criancas-tenham-acesso-a-educacao-infantil-defende-mabel/" rel="bookmark">“Prioridade é garantir que crianças tenham acesso à Educação Infantil”, defende Mabel</a></h4>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+						<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-13T17:03:16-03:00">13 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="562505"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-grid p-grid-small-1" data-pid="560157">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/programa-profissionaliza-goias-oferece-17-mil-vagas-para-capacitacao-de-estudantes/" title="Programa Profissionaliza Goiás oferece 17 mil vagas para capacitação de estudantes">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/99ecc97d-fcd6-4996-a7e3-e35cd187f151-scaled.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top mobile-hide"><a class="p-category category-id-4" href="https://www1.brasilemfolhas.com.br/c/economia/" rel="category">Economia</a><a class="p-category category-id-7" href="https://www1.brasilemfolhas.com.br/c/politica/" rel="category">Política</a></div></div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/programa-profissionaliza-goias-oferece-17-mil-vagas-para-capacitacao-de-estudantes/" rel="bookmark">Programa Profissionaliza Goiás oferece 17 mil vagas para capacitação de estudantes</a></h4>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+						<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-10T16:00:54-03:00">10 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560157"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-grid p-grid-small-1" data-pid="560154">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/encontro-discute-crise-financeira-e-medidas-de-austeridade-em-aparecida-de-goiania/" title="Encontro discute crise financeira e medidas de austeridade em Aparecida de Goiânia">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/dbaa315e-d013-4840-9e3b-8ad02a4f2911.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top mobile-hide"><a class="p-category category-id-4" href="https://www1.brasilemfolhas.com.br/c/economia/" rel="category">Economia</a><a class="p-category category-id-7" href="https://www1.brasilemfolhas.com.br/c/politica/" rel="category">Política</a></div></div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/encontro-discute-crise-financeira-e-medidas-de-austeridade-em-aparecida-de-goiania/" rel="bookmark">Encontro discute crise financeira e medidas de austeridade em Aparecida de Goiânia</a></h4>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+						<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-10T15:57:41-03:00">10 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560154"></span>			</div>
+				</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-dd43c49 is-sidebar" data-id="dd43c49" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-760ee28 elementor-invisible elementor-widget elementor-widget-foxiz-weather" data-id="760ee28" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-weather.default">
+				<div class="elementor-widget-container">
+								<div class="rb-weather-wrap">
+									<div class="rb-w-title h4">
+						Clima					</div>
+								<div class="rb-w-header">
+					<div class="col-left">
+						<div class="rb-w-big-icon">
+							<svg class="svg-icon svg-night-rain" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><clipPath id="night-rain-current"><path fill="none" d="M12 35l-5.28-4.21-2-6 1-7 4-5 5-3h6l5 1 3 3L33 20l-6 4h-6l-3 3v4l-4 2-2 2z"></path></clipPath></defs><g clip-path="url(#night-rain-current)"><g><path fill="none" stroke="#72b9d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z"></path><animateTransform attributeName="transform" dur="10s" repeatCount="indefinite" type="rotate" values="-10 19.22 24.293;10 19.22 24.293;-10 19.22 24.293"></animateTransform></g></g><path fill="none" stroke="#dddddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M43.67 45.5h2.83a7 7 0 000-14h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0"></path><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M24.08 45.01l-.16.98"></path><animateTransform attributeName="transform" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M31.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-0.5s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-0.5s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M38.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-1s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-1s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g></svg>						</div>
+					</div>
+					<div class="col-right">
+						<div class="rb-w-units h6">
+							<span>21</span><span class="ruby-degrees"><sup>°C</sup></span>
+						</div>
+					</div>
+				</div>
+				<div class="rb-w-stats">
+					<div class="col-left">
+						<div class="rb-header-name h6">
+							Goiânia						</div>
+						<div class="rb-w-desc">
+							chuva forte						</div>
+					</div>
+					<div class="col-right">
+						<div class="rb-weather-highlow">
+															<span class="icon-high"><svg class="svg-icon svg-high" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g><path fill="none" stroke="#ef4444" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M32 44V20l-5.79 6.89L32 20l5.78 6.89"></path><animateTransform attributeName="transform" begin="0s" dur="1.5s" keyTimes="0.0; 0.5; 0.9; 1.0" repeatCount="indefinite" type="translate" values="0 0; 0 0; 0 -9; 0 -9"></animateTransform><animate attributeName="opacity" dur="1.5s" keyTimes="0.0; 0.3; 0.8; 0.9; 1.0" repeatCount="indefinite" values="0; 1; 1; 0; 0"></animate></g></svg></span>
+								<span class="text-high">21<sup>°</sup></span>
+																						<span>_</span>
+								<span class="icon-low"><svg class="svg-icon svg-low" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M32 20v24l-5.79-6.89L32 44l5.78-6.89"></path><animateTransform attributeName="transform" begin="0s" dur="1.5s" keyTimes="0.0; 0.5; 0.9; 1.0" repeatCount="indefinite" type="translate" values="0 0; 0 0; 0 9; 0 9"></animateTransform><animate attributeName="opacity" dur="1.5s" keyTimes="0.0; 0.3; 0.8; 0.9; 1.0" repeatCount="indefinite" values="0; 1; 1; 0; 0"></animate></g></svg></span>
+								<span class="text-low">21<sup>°</sup></span>
+													</div>
+						<div class="rb-w-humidity">
+															<span class="icon-humidity"><svg class="svg-icon svg-raindrop" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M32 17c-6.09 9-10 14.62-10 20.09a10 10 0 0020 0C42 31.62 38.09 26 32 17z"></path></svg></span>
+								<span>100%</span>
+													</div>
+						<div class="ruby-weather-wind">
+															<span class="icon-windy"><svg class="svg-icon svg-windy" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g><path fill="none" stroke="#888" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3" d="M43.64 20a5 5 0 113.61 8.46h-35.5M29.14 44a5 5 0 103.61-8.46h-21"></path><animateTransform attributeName="transform" dur="2s" repeatCount="indefinite" type="translate" values="-8 2; 0 -2; 8 0; 0 1; -8 2"></animateTransform></g></svg></span>
+								<span>3 km/h </span>
+													</div>
+					</div>
+				</div>
+									<div class="w-forecast-wrap">
+													<div class="w-forecast-day forecast-day-5">
+								<div class="w-forecast-day h6">ter</div>
+								<div class="w-forecast-icon"><svg class="svg-icon svg-cloudy" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><clipPath id="cloudy-1"><path fill="none" d="M41.8 20.25l4.48 6.61.22 4.64 5.31 2.45 1.69 5.97h8.08L61 27l-9.31-8.5-9.89 1.75z"></path></clipPath></defs><g clip-path="url(#cloudy-1)"><path fill="none" stroke="#9ca3af" stroke-linejoin="round" stroke-width="2" d="M34.23 33.45a4.05 4.05 0 004.05 4h16.51a4.34 4.34 0 00.81-8.61 3.52 3.52 0 00.06-.66 4.06 4.06 0 00-6.13-3.48 6.08 6.08 0 00-11.25 3.19 6.34 6.34 0 00.18 1.46h-.18a4.05 4.05 0 00-4.05 4.1z"></path><animateTransform attributeName="transform" dur="7s" repeatCount="indefinite" type="translate" values="-2.1 0; 2.1 0; -2.1 0"></animateTransform></g><g><path fill="none" stroke="#dddddd" stroke-linejoin="round" stroke-width="3" d="M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z"></path><animateTransform attributeName="transform" dur="7s" repeatCount="indefinite" type="translate" values="-3 0; 3 0; -3 0"></animateTransform></g></svg></div>
+								<div class="w-forecast-temp">23									<sup>°C</sup>
+								</div>
+							</div>
+														<div class="w-forecast-day forecast-day-5">
+								<div class="w-forecast-day h6">qua</div>
+								<div class="w-forecast-icon"><svg class="svg-icon svg-rain" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><clipPath id="day-rain-2"><path fill="none" d="M12 35l-5.28-4.21-2-6 1-7 4-5 5-3h6l5 1 3 3L33 20l-6 4h-6l-3 3v4l-4 2-2 2z"></path></clipPath></defs><g clip-path="url(#day-rain-2)"><g><path fill="#f59e0b" d="M19 20.05A3.95 3.95 0 1115.05 24 4 4 0 0119 20.05m0-2A5.95 5.95 0 1025 24a5.95 5.95 0 00-6-5.95z"></path><path fill="none" stroke="#f59e0b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M19 15.67V12.5M19 35.5v-3.17M24.89 18.11l2.24-2.24M10.87 32.13l2.24-2.24M13.11 18.11l-2.24-2.24M27.13 32.13l-2.24-2.24M10.67 24H7.5M30.5 24h-3.17"></path><animateTransform attributeName="transform" dur="45s" from="0 19.22 24.293" repeatCount="indefinite" to="360 19.22 24.293" type="rotate"></animateTransform></g></g><path fill="none" stroke="#dddddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M43.67 45.5h2.83a7 7 0 000-14h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0"></path><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M24.08 45.01l-.16.98"></path><animateTransform attributeName="transform" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M31.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-0.5s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-0.5s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M38.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-1s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-1s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g></svg></div>
+								<div class="w-forecast-temp">26									<sup>°C</sup>
+								</div>
+							</div>
+														<div class="w-forecast-day forecast-day-5">
+								<div class="w-forecast-day h6">qui</div>
+								<div class="w-forecast-icon"><svg class="svg-icon svg-night-rain" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><clipPath id="night-rain-3"><path fill="none" d="M12 35l-5.28-4.21-2-6 1-7 4-5 5-3h6l5 1 3 3L33 20l-6 4h-6l-3 3v4l-4 2-2 2z"></path></clipPath></defs><g clip-path="url(#night-rain-3)"><g><path fill="none" stroke="#72b9d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z"></path><animateTransform attributeName="transform" dur="10s" repeatCount="indefinite" type="rotate" values="-10 19.22 24.293;10 19.22 24.293;-10 19.22 24.293"></animateTransform></g></g><path fill="none" stroke="#dddddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M43.67 45.5h2.83a7 7 0 000-14h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0"></path><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M24.08 45.01l-.16.98"></path><animateTransform attributeName="transform" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M31.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-0.5s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-0.5s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M38.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-1s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-1s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g></svg></div>
+								<div class="w-forecast-temp">21									<sup>°C</sup>
+								</div>
+							</div>
+														<div class="w-forecast-day forecast-day-5">
+								<div class="w-forecast-day h6">sex</div>
+								<div class="w-forecast-icon"><svg class="svg-icon svg-rain" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><clipPath id="day-rain-4"><path fill="none" d="M12 35l-5.28-4.21-2-6 1-7 4-5 5-3h6l5 1 3 3L33 20l-6 4h-6l-3 3v4l-4 2-2 2z"></path></clipPath></defs><g clip-path="url(#day-rain-4)"><g><path fill="#f59e0b" d="M19 20.05A3.95 3.95 0 1115.05 24 4 4 0 0119 20.05m0-2A5.95 5.95 0 1025 24a5.95 5.95 0 00-6-5.95z"></path><path fill="none" stroke="#f59e0b" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M19 15.67V12.5M19 35.5v-3.17M24.89 18.11l2.24-2.24M10.87 32.13l2.24-2.24M13.11 18.11l-2.24-2.24M27.13 32.13l-2.24-2.24M10.67 24H7.5M30.5 24h-3.17"></path><animateTransform attributeName="transform" dur="45s" from="0 19.22 24.293" repeatCount="indefinite" to="360 19.22 24.293" type="rotate"></animateTransform></g></g><path fill="none" stroke="#dddddd" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M43.67 45.5h2.83a7 7 0 000-14h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0"></path><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M24.08 45.01l-.16.98"></path><animateTransform attributeName="transform" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M31.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-0.5s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-0.5s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g><g><path fill="none" stroke="#2885c7" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M38.08 45.01l-.16.98"></path><animateTransform attributeName="transform" begin="-1s" dur="1.5s" repeatCount="indefinite" type="translate" values="1 -5; -2 10"></animateTransform><animate attributeName="opacity" begin="-1s" dur="1.5s" repeatCount="indefinite" values="0;1;1;0"></animate></g></svg></div>
+								<div class="w-forecast-temp">26									<sup>°C</sup>
+								</div>
+							</div>
+														<div class="w-forecast-day forecast-day-5">
+								<div class="w-forecast-day h6">sáb</div>
+								<div class="w-forecast-icon"><svg class="svg-icon svg-cloudy" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><clipPath id="cloudy-5"><path fill="none" d="M41.8 20.25l4.48 6.61.22 4.64 5.31 2.45 1.69 5.97h8.08L61 27l-9.31-8.5-9.89 1.75z"></path></clipPath></defs><g clip-path="url(#cloudy-5)"><path fill="none" stroke="#9ca3af" stroke-linejoin="round" stroke-width="2" d="M34.23 33.45a4.05 4.05 0 004.05 4h16.51a4.34 4.34 0 00.81-8.61 3.52 3.52 0 00.06-.66 4.06 4.06 0 00-6.13-3.48 6.08 6.08 0 00-11.25 3.19 6.34 6.34 0 00.18 1.46h-.18a4.05 4.05 0 00-4.05 4.1z"></path><animateTransform attributeName="transform" dur="7s" repeatCount="indefinite" type="translate" values="-2.1 0; 2.1 0; -2.1 0"></animateTransform></g><g><path fill="none" stroke="#dddddd" stroke-linejoin="round" stroke-width="3" d="M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z"></path><animateTransform attributeName="transform" dur="7s" repeatCount="indefinite" type="translate" values="-3 0; 3 0; -3 0"></animateTransform></g></svg></div>
+								<div class="w-forecast-temp">23									<sup>°C</sup>
+								</div>
+							</div>
+												</div>
+							</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f356444 elementor-invisible elementor-widget elementor-widget-foxiz-heading" data-id="f356444" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_f356444" class="block-h heading-layout-1"><div class="heading-inner"><h4 class="heading-title"><span>Siga-nos</span></h4></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-10e256f yes-colorful elementor-invisible elementor-widget elementor-widget-foxiz-social-follower" data-id="10e256f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-social-follower.default">
+				<div class="elementor-widget-container">
+					<div class="socials-counter h6 is-style-15 is-gstyle-3 is-icon-color is-h-bg"><div class="social-follower effect-fadeout"><div class="follower-el fb-follower"><a target="_blank" href="https://facebook.com/brasilemfolhas" class="facebook" aria-label="Facebook" rel="noopener nofollow"></a><span class="follower-inner"><span class="fnicon"><i class="rbi rbi-facebook" aria-hidden="true"></i></span><span class="fnlabel">Facebook</span><span class="text-count">Like</span></span></div><div class="follower-el twitter-follower"><a target="_blank" href="https://twitter.com/brasilemfolhas" class="twitter" aria-label="X" rel="noopener nofollow"></a><span class="follower-inner"><span class="fnicon"><i class="rbi rbi-twitter" aria-hidden="true"></i></span><span class="fnlabel">X</span><span class="text-count">Follow</span></span></div><div class="follower-el instagram-follower"><a target="_blank" href="https://instagram.com/brasilemfolhas" class="instagram" aria-label="Instagram" rel="noopener nofollow"></a><span class="follower-inner"><span class="fnicon"><i class="rbi rbi-instagram" aria-hidden="true"></i></span><span class="fnlabel">Instagram</span><span class="text-count">Follow</span></span></div><div class="follower-el tumblr-follower"><a target="_blank" href="https://brasilemfolhas.tumblr.com/" class="tumblr" aria-label="Tumblr" rel="noopener nofollow"></a><span class="follower-inner"><span class="fnicon"><i class="rbi rbi-tumblr" aria-hidden="true"></i></span><span class="fnlabel">Tumblr</span><span class="text-count">Follow</span></span></div></div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-970a442 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="970a442" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-7d1ef53 elementor-invisible" data-id="7d1ef53" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f396043 elementor-invisible elementor-widget elementor-widget-foxiz-heading" data-id="f396043" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_f396043" class="block-h heading-layout-1"><div class="heading-inner"><h3 class="heading-title"><a class="h-link" href="https://www1.brasilemfolhas.com.br/c/cotidiano/">Cotidiano</a></h3><div class="heading-tagline h6"><a class="heading-tagline-label" href="https://www1.brasilemfolhas.com.br/c/cotidiano/">Mais</a></div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-843bf0c elementor-invisible elementor-widget elementor-widget-foxiz-list-1" data-id="843bf0c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-list-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_843bf0c" class="block-wrap block-big block-list block-list-1 ecat-bg-1 is-feat-right meta-s-default"><div class="block-inner">		<div class="p-wrap p-list p-list-1" data-pid="560126">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/secretaria-de-engenharia-de-transito-inicia-instalacao-de-radares-e-controladores-semaforicos-em-goiania/" title="Secretaria de Engenharia de Trânsito inicia instalação de radares e controladores semafóricos em Goiânia">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/be44b496-adab-468c-bd44-bfc96a0d10e7.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/secretaria-de-engenharia-de-transito-inicia-instalacao-de-radares-e-controladores-semaforicos-em-goiania/" rel="bookmark">Secretaria de Engenharia de Trânsito inicia instalação de radares e controladores semafóricos em Goiânia</a></h3><p class="entry-summary">Primeira intervenção ocorreu nesta segunda-feira (6/1), na Região Norte. Ação visa melhorar…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-08T11:17:40-03:00">8 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560126"></span>			</div>
+					</div>
+		</div>
+				</div>
+			<div class="p-wrap p-list p-list-1" data-pid="560124">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-leandro-vilela-apoia-iniciativa-que-une-esporte-e-inclusao-social-em-aparecida/" title="Prefeito Leandro Vilela apoia iniciativa que une esporte e inclusão social em Aparecida">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/8717dadf-1a20-4b6b-8768-303220b2d9ac.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-116" href="https://www1.brasilemfolhas.com.br/c/esporte/" rel="category">Esporte</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-leandro-vilela-apoia-iniciativa-que-une-esporte-e-inclusao-social-em-aparecida/" rel="bookmark">Prefeito Leandro Vilela apoia iniciativa que une esporte e inclusão social em Aparecida</a></h3><p class="entry-summary">O prefeito de Aparecida de Goiânia, Leandro Vilela, recebeu nesta terça-feira, 7,…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-08T11:15:20-03:00">8 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560124"></span>			</div>
+					</div>
+		</div>
+				</div>
+			<div class="p-wrap p-list p-list-1" data-pid="560122">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-aumentara-equipes-de-limpeza-urbana-por-meio-de-parceria-com-policia-penal/" title="Vilela aumentará equipes de limpeza urbana por meio de parceria com Polícia Penal">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/5ae4fe9d-fb5e-42d6-abff-ccbb0e63fa78.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-aumentara-equipes-de-limpeza-urbana-por-meio-de-parceria-com-policia-penal/" rel="bookmark">Vilela aumentará equipes de limpeza urbana por meio de parceria com Polícia Penal</a></h3><p class="entry-summary">O prefeito de Aparecida de Goiânia, Leandro Vilela, lidera uma força-tarefa de…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-08T11:11:27-03:00">8 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560122"></span>			</div>
+					</div>
+		</div>
+				</div>
+			<div class="p-wrap p-list p-list-1" data-pid="560120">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-destaca-a-importancia-do-setor-produtivo-em-posse-da-nova-presidente-do-codese/" title="Vilela destaca a importância do setor produtivo em posse da nova presidente do CODESE">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/e4eb26de-32c9-46c9-957e-a248a7a5e8f7.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-7" href="https://www1.brasilemfolhas.com.br/c/politica/" rel="category">Política</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/vilela-destaca-a-importancia-do-setor-produtivo-em-posse-da-nova-presidente-do-codese/" rel="bookmark">Vilela destaca a importância do setor produtivo em posse da nova presidente do CODESE</a></h3><p class="entry-summary">O prefeito de Aparecida de Goiânia, Leandro Vilela, participou na noite desta…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-08T11:10:51-03:00">8 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560120"></span>			</div>
+					</div>
+		</div>
+				</div>
+			<div class="p-wrap p-list p-list-1" data-pid="560118">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/sob-determinacao-de-vilela-forca-tarefa-de-limpeza-urbana-e-intensificada-nesta-semana/" title="Sob determinação de Vilela, força-tarefa de limpeza urbana é intensificada nesta semana">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/a1b41eb8-6a8f-4822-8847-42ab1b867ff4.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/sob-determinacao-de-vilela-forca-tarefa-de-limpeza-urbana-e-intensificada-nesta-semana/" rel="bookmark">Sob determinação de Vilela, força-tarefa de limpeza urbana é intensificada nesta semana</a></h3><p class="entry-summary">Com o objetivo de limpar a cidade em tempo recorde, melhorando assim…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-08T11:09:58-03:00">8 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560118"></span>			</div>
+					</div>
+		</div>
+				</div>
+			<div class="p-wrap p-list p-list-1" data-pid="558862">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/forca-armadas-abrem-alistamento-militar-voluntario-para-mulheres-com-1-465-vagas/" title="Força armadas abrem alistamento militar voluntário para mulheres com 1.465 vagas">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/eed73467-73db-4ac6-b99e-3328a6fe5cd2.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/forca-armadas-abrem-alistamento-militar-voluntario-para-mulheres-com-1-465-vagas/" rel="bookmark">Força armadas abrem alistamento militar voluntário para mulheres com 1.465 vagas</a></h3><p class="entry-summary">O processo de alistamento militar voluntário para mulheres teve início em 1º…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-02T11:44:28-03:00">2 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="558862"></span>			</div>
+					</div>
+		</div>
+				</div>
+			<div class="p-wrap p-list p-list-1" data-pid="558858">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-sandro-mabel-lanca-programa-de-desobstrucao-de-vias-em-goiania/" title="Prefeito Sandro Mabel lança programa de desobstrução de vias em Goiânia">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/9ee86227-4ba5-484c-b0a6-f563ba61a702.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-sandro-mabel-lanca-programa-de-desobstrucao-de-vias-em-goiania/" rel="bookmark">Prefeito Sandro Mabel lança programa de desobstrução de vias em Goiânia</a></h3><p class="entry-summary">A prefeitura de Goiânia, liderada pelo prefeito Sandro Mabel, lançou o Programa…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-02T11:38:20-03:00">2 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="558858"></span>			</div>
+					</div>
+		</div>
+				</div>
+			<div class="p-wrap p-list p-list-1" data-pid="558856">
+			<div class="list-holder">
+			<div class="list-feat-holder">
+							<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/leandro-vilela-inicia-gestao-com-forca-tarefa-de-limpeza-no-goiania-park-sul/" title="Leandro Vilela inicia gestão com força-tarefa de limpeza no Goiânia Park Sul">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/1dce5e00-cf5b-4f6b-bd69-7c7b42806733-scaled.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-7" href="https://www1.brasilemfolhas.com.br/c/politica/" rel="category">Política</a></div></div>
+					</div>
+			<div class="p-content">
+				<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/leandro-vilela-inicia-gestao-com-forca-tarefa-de-limpeza-no-goiania-park-sul/" rel="bookmark">Leandro Vilela inicia gestão com força-tarefa de limpeza no Goiânia Park Sul</a></h3><p class="entry-summary">O novo prefeito de Aparecida de Goiânia, Leandro Vilela, deu início à…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-02T11:33:55-03:00">2 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="558856"></span>			</div>
+					</div>
+		</div>
+				</div>
+	</div>		<div class="pagination-wrap pagination-loadmore">
+			<a href="#" class="loadmore-trigger"><span>Mostrar mais</span><i class="rb-loader" aria-hidden="true"></i></a>
+		</div>
+		</div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6c530d1 rb-sticky is-sidebar" data-id="6c530d1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ba721ce btn-inline elementor-widget elementor-widget-foxiz-banner" data-id="ba721ce" data-element_type="widget" data-widget_type="foxiz-banner.default">
+				<div class="elementor-widget-container">
+							<div class="w-banner">
+			<div class="banner-bg">
+										<img loading="lazy" decoding="async" data-mode="default" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/grafi-min-1.jpg?fit=551%2C610&amp;ssl=1" alt="banner" width="551" height="610">
+						<img loading="lazy" decoding="async" data-mode="dark" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/grafi-min-1.jpg?fit=551%2C610&amp;ssl=1" alt="banner" width="551" height="610">
+								</div>
+			<div class="w-banner-content light-scheme">
+				<div class="content-inner">
+											<h5 class="w-banner-title h2">Impressões que Impulsionam Negócios</h5>
+											<div class="w-banner-desc element-desc">Na Gráfica Brasil em Folhas, oferecemos soluções de impressão de alta qualidade, personalizadas para fortalecer sua marca. Atendemos empresas com rapidez, precisão e excelente custo-benefício. Transforme suas ideias em realidade e impulsione seu negócio conosco!</div>
+											<a class="banner-btn is-btn" href="https://linktr.ee/graficabrasilemfolhas" target="_blank" rel="noopener nofollow">Mais</a>
+									</div>
+			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4a9eadc elementor-invisible elementor-widget elementor-widget-foxiz-heading" data-id="4a9eadc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_4a9eadc" class="block-h heading-layout-1"><div class="heading-inner"><h4 class="heading-title"><span>Sponsored Content</span></h4></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-77f4d45 elementor-invisible elementor-widget elementor-widget-foxiz-list-small-2" data-id="77f4d45" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-list-small-2.default">
+				<div class="elementor-widget-container">
+					<div id="uid_77f4d45" class="block-wrap block-small block-list block-list-small-2 rb-columns rb-col-1 is-feat-left meta-s-default"></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-bfbaf07 elementor-widget elementor-widget-foxiz-heading" data-id="bfbaf07" data-element_type="widget" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_bfbaf07" class="block-h heading-layout-1"><div class="heading-inner"><h4 class="heading-title"><span>COVID-19 no Brasil</span></h4></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d219972 elementor-invisible elementor-widget elementor-widget-foxiz-covid-data" data-id="d219972" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-covid-data.default">
+				<div class="elementor-widget-container">
+							<div class="block-covid-data">
+			<div class="data-inner">
+								<div class="data-item data-confirmed">
+					<p class="description-text">
+						<span class="data-item-icon"><svg class="svg-icon svg-chart" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M460.8,25.6c-28.22-0.051-51.139,22.785-51.19,51.006c-0.024,13.301,5.14,26.088,14.394,35.642l-93.542,187.051
+ c-2.05-0.34-4.119-0.551-6.195-0.631c-6.61,0.013-13.154,1.312-19.268,3.823l-72.619-81.664
+ c4.239-7.495,6.495-15.948,6.554-24.559c0-28.277-22.923-51.2-51.2-51.2s-51.2,22.923-51.2,51.2
+ c0.05,12.222,4.511,24.015,12.561,33.212L60.348,384.922c-3.016-0.58-6.077-0.889-9.148-0.922C22.923,384,0,406.923,0,435.2
+ s22.923,51.2,51.2,51.2s51.2-22.923,51.2-51.2c-0.05-12.222-4.511-24.015-12.561-33.212l88.747-155.443
+ c9.527,1.882,19.399,0.872,28.348-2.901l72.619,81.664c-4.215,7.501-6.448,15.954-6.485,24.559
+ c-0.085,28.277,22.768,51.269,51.045,51.354c28.277,0.085,51.269-22.768,51.354-51.045c0.04-13.34-5.128-26.169-14.404-35.756
+ l93.542-187.051c2.05,0.34,4.119,0.551,6.195,0.631c28.277,0,51.2-22.923,51.2-51.2S489.077,25.6,460.8,25.6z M51.2,452.267
+ c-9.426,0-17.067-7.641-17.067-17.067s7.641-17.067,17.067-17.067s17.067,7.641,17.067,17.067S60.626,452.267,51.2,452.267z
+  M187.733,213.333c-9.426,0-17.067-7.641-17.067-17.067s7.641-17.067,17.067-17.067s17.067,7.641,17.067,17.067
+ S197.159,213.333,187.733,213.333z M324.267,366.933c-9.426,0-17.067-7.641-17.067-17.067c0-9.426,7.641-17.067,17.067-17.067
+ s17.067,7.641,17.067,17.067C341.333,359.292,333.692,366.933,324.267,366.933z M460.8,93.867
+ c-9.426,0-17.067-7.641-17.067-17.067s7.641-17.067,17.067-17.067c9.426,0,17.067,7.641,17.067,17.067
+ S470.226,93.867,460.8,93.867z"></path></svg></span>Confirmed					</p>
+					<p class="data-item-value h5">37.09M</p>
+				</div>
+				<div class="data-item data-death">
+					<p class="description-text">
+						<span class="data-item-icon"><svg class="svg-icon svg-chart" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M460.8,25.6c-28.22-0.051-51.139,22.785-51.19,51.006c-0.024,13.301,5.14,26.088,14.394,35.642l-93.542,187.051
+ c-2.05-0.34-4.119-0.551-6.195-0.631c-6.61,0.013-13.154,1.312-19.268,3.823l-72.619-81.664
+ c4.239-7.495,6.495-15.948,6.554-24.559c0-28.277-22.923-51.2-51.2-51.2s-51.2,22.923-51.2,51.2
+ c0.05,12.222,4.511,24.015,12.561,33.212L60.348,384.922c-3.016-0.58-6.077-0.889-9.148-0.922C22.923,384,0,406.923,0,435.2
+ s22.923,51.2,51.2,51.2s51.2-22.923,51.2-51.2c-0.05-12.222-4.511-24.015-12.561-33.212l88.747-155.443
+ c9.527,1.882,19.399,0.872,28.348-2.901l72.619,81.664c-4.215,7.501-6.448,15.954-6.485,24.559
+ c-0.085,28.277,22.768,51.269,51.045,51.354c28.277,0.085,51.269-22.768,51.354-51.045c0.04-13.34-5.128-26.169-14.404-35.756
+ l93.542-187.051c2.05,0.34,4.119,0.551,6.195,0.631c28.277,0,51.2-22.923,51.2-51.2S489.077,25.6,460.8,25.6z M51.2,452.267
+ c-9.426,0-17.067-7.641-17.067-17.067s7.641-17.067,17.067-17.067s17.067,7.641,17.067,17.067S60.626,452.267,51.2,452.267z
+  M187.733,213.333c-9.426,0-17.067-7.641-17.067-17.067s7.641-17.067,17.067-17.067s17.067,7.641,17.067,17.067
+ S197.159,213.333,187.733,213.333z M324.267,366.933c-9.426,0-17.067-7.641-17.067-17.067c0-9.426,7.641-17.067,17.067-17.067
+ s17.067,7.641,17.067,17.067C341.333,359.292,333.692,366.933,324.267,366.933z M460.8,93.867
+ c-9.426,0-17.067-7.641-17.067-17.067s7.641-17.067,17.067-17.067c9.426,0,17.067,7.641,17.067,17.067
+ S470.226,93.867,460.8,93.867z"></path></svg></span>Death					</p>
+					<p class="data-item-value h5">699.3k</p>
+				</div>
+				<svg class="svg-icon svg-virus" aria-hidden="true" role="img" focusable="false" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="m480 224c-11.82 0-22.16 6.44-27.7 16h-29.06c-3.26-34.338-16.889-65.697-37.727-90.886l20.612-20.612c10.603 2.854 22.516.104 30.894-8.261 12.48-12.48 12.48-32.78 0-45.26s-32.78-12.48-45.26 0c-8.349 8.359-11.109 20.226-8.261 30.894l-20.612 20.612c-25.189-20.838-56.548-34.467-90.886-37.727v-29.06c9.56-5.54 16-15.88 16-27.7 0-17.65-14.35-32-32-32s-32 14.35-32 32c0 11.82 6.44 22.16 16 27.7v29.06c-34.338 3.26-65.697 16.889-90.886 37.727l-20.612-20.612c2.848-10.669.087-22.536-8.261-30.894-12.48-12.48-32.78-12.48-45.26 0s-12.48 32.78 0 45.26c8.374 8.36 20.286 11.117 30.894 8.261l20.612 20.612c-20.838 25.189-34.467 56.548-37.727 90.886h-29.06c-5.54-9.56-15.88-16-27.7-16-17.65 0-32 14.35-32 32s14.35 32 32 32c11.82 0 22.16-6.44 27.7-16h29.06c3.26 34.338 16.889 65.697 37.727 90.886l-20.612 20.612c-10.668-2.848-22.536-.087-30.894 8.261-12.48 12.48-12.48 32.78 0 45.26 12.503 12.503 32.803 12.457 45.26 0 8.349-8.359 11.109-20.226 8.261-30.894l20.612-20.612c25.189 20.838 56.548 34.467 90.886 37.727v29.06c-9.56 5.54-16 15.88-16 27.7 0 17.65 14.35 32 32 32s32-14.35 32-32c0-11.82-6.44-22.16-16-27.7v-29.06c34.338-3.26 65.697-16.889 90.886-37.727l20.612 20.612c-2.848 10.668-.087 22.536 8.261 30.894 12.457 12.457 32.757 12.503 45.26 0 12.48-12.48 12.48-32.78 0-45.26-8.359-8.349-20.226-11.109-30.894-8.261l-20.612-20.612c20.838-25.189 34.467-56.548 37.727-90.886h29.06c5.54 9.56 15.88 16 27.7 16 17.65 0 32-14.35 32-32s-14.35-32-32-32zm-277 24c-15.44 0-28-12.56-28-28s12.56-28 28-28 28 12.56 28 28-12.56 28-28 28zm69 96c-17.65 0-32-14.35-32-32s14.35-32 32-32 32 14.35 32 32-14.35 32-32 32zm56-112c-13.23 0-24-10.77-24-24s10.77-24 24-24 24 10.77 24 24-10.77 24-24 24z"></path></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b95c4ef elementor-widget elementor-widget-html" data-id="b95c4ef" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<span class="is-meta">Mais informações: </span><a class="h6" href="https://covid.saude.gov.br/" target="_blank" rel="noopener">Estatísticas da Covid-19</a>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8b42cf4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8b42cf4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ab3c3fb" data-id="ab3c3fb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c5e9456 elementor-widget elementor-widget-foxiz-heading" data-id="c5e9456" data-element_type="widget" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_c5e9456" class="block-h heading-layout-1 light-scheme"><div class="heading-inner"><h3 class="heading-title"><a class="h-link" href="https://www1.brasilemfolhas.com.br/c/esporte/">Esporte</a></h3><div class="heading-tagline h6"><a class="heading-tagline-label" href="https://www1.brasilemfolhas.com.br/c/esporte/">Mais</a></div></div></div>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-576cd0e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="576cd0e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-66 elementor-inner-column elementor-element elementor-element-2cb7cda" data-id="2cb7cda" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-159be89 elementor-invisible elementor-widget elementor-widget-foxiz-overlay-1" data-id="159be89" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-overlay-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_159be89" class="block-wrap block-overlay overlay-1 p-gradient ecat-bg-1 ecat-size-big meta-s-default"><div class="block-inner">		<div class="p-wrap p-highlight p-overlay-1" data-pid="562524">
+			<div class="overlay-holder">
+					<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-vilela-acompanha-torneio-que-observa-promessas-do-futebol-de-aparecida/" title="Prefeito Vilela acompanha torneio que observa promessas do futebol de Aparecida">
+			<img loading="lazy" decoding="async" width="860" height="573" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/17de1055-b8e6-4efe-b368-53302bf39303.jpg?resize=860%2C573&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+				<div class="overlay-wrap">
+				<div class="overlay-inner p-content light-scheme">
+					<div class="p-categories p-top"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-116" href="https://www1.brasilemfolhas.com.br/c/esporte/" rel="category">Esporte</a></div><h2 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-vilela-acompanha-torneio-que-observa-promessas-do-futebol-de-aparecida/" rel="bookmark">Prefeito Vilela acompanha torneio que observa promessas do futebol de Aparecida</a></h2><p class="entry-summary">Disputada no Centro Olímpico por iniciativa da Cufa, 1ª Copa Comunitária Observatório de Futebol arrecada alimentos para serem doados à Assistência Social de Aparecida O prefeito de Aparecida de Goiânia, Leandro Vilela,…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-13T17:06:02-03:00">13 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="562524"></span>			</div>
+						</div>
+			</div>
+		</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb3b9f8" data-id="bb3b9f8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c68881 elementor-invisible elementor-widget elementor-widget-foxiz-list-small-2" data-id="5c68881" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="foxiz-list-small-2.default">
+				<div class="elementor-widget-container">
+					<div id="uid_5c68881" class="block-wrap block-small block-list block-list-small-2 rb-columns rb-col-1 rb-tcol-2 rb-mcol-1 is-gap-custom light-scheme is-feat-right meta-s-default"><div class="block-inner">		<div class="p-wrap p-small p-list-small-2" data-pid="560124">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-leandro-vilela-apoia-iniciativa-que-une-esporte-e-inclusao-social-em-aparecida/" title="Prefeito Leandro Vilela apoia iniciativa que une esporte e inclusão social em Aparecida">
+			<img data-recalc-dims="1" loading="lazy" decoding="async" width="1170" height="781" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/8717dadf-1a20-4b6b-8768-303220b2d9ac.jpg?resize=1170%2C781&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/prefeito-leandro-vilela-apoia-iniciativa-que-une-esporte-e-inclusao-social-em-aparecida/" rel="bookmark">Prefeito Leandro Vilela apoia iniciativa que une esporte e inclusão social em Aparecida</a></h4>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+						<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-08T11:15:20-03:00">8 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560124"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-2" data-pid="557908">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/12/caiado-assina-contrato-para-realizacao-da-motogp-no-autodromo-de-goiania/" title="Caiado assina contrato para realização da MotoGP no Autódromo de Goiânia">
+			<img data-recalc-dims="1" loading="lazy" decoding="async" width="1170" height="781" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/30045f6e-4fe5-4077-acdb-7b4f0e6d6e96-scaled.jpg?resize=1170%2C781&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/12/caiado-assina-contrato-para-realizacao-da-motogp-no-autodromo-de-goiania/" rel="bookmark">Caiado assina contrato para realização da MotoGP no Autódromo de Goiânia</a></h4>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+						<div class="meta-el meta-date">
+				<time class="date published" datetime="2024-12-12T18:00:57-03:00">12 de dezembro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="557908"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-2" data-pid="539078">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/11/atletas-de-taekwondo-vao-representar-aparecida-em-competicao-nacional-no-rio-de-janeiro/" title="Atletas de taekwondo vão representar Aparecida em competição nacional no Rio de Janeiro">
+			<img data-recalc-dims="1" loading="lazy" decoding="async" width="1170" height="775" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/11/20c9c6b3-73c4-4fe1-b391-959e86f8ea90.jpg?resize=1170%2C775&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/11/atletas-de-taekwondo-vao-representar-aparecida-em-competicao-nacional-no-rio-de-janeiro/" rel="bookmark">Atletas de taekwondo vão representar Aparecida em competição nacional no Rio de Janeiro</a></h4>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+						<div class="meta-el meta-date">
+				<time class="date published" datetime="2024-11-04T09:56:46-03:00">4 de novembro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="539078"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-small p-list-small-2" data-pid="536500">
+				<div class="feat-holder">		<div class="p-featured ratio-v1">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/10/superacao-e-talento-atleta-de-senador-canedo-e-campea-mundial-na-natacao-paralimpica/" title="Superação e Talento: Atleta de Senador Canedo é Campeã Mundial na Natação Paralímpica">
+			<img data-recalc-dims="1" loading="lazy" decoding="async" width="1170" height="800" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/10/b9611ba4-d5f5-4d08-98dc-874b28141c2e.jpg?resize=1170%2C800&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	</div>
+				<div class="p-content">
+			<h4 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/10/superacao-e-talento-atleta-de-senador-canedo-e-campea-mundial-na-natacao-paralimpica/" rel="bookmark">Superação e Talento: Atleta de Senador Canedo é Campeã Mundial na Natação Paralímpica</a></h4>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+						<div class="meta-el meta-date">
+				<time class="date published" datetime="2024-10-30T12:42:36-03:00">30 de outubro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="536500"></span>			</div>
+				</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6ffbe13 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6ffbe13" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b4b77f5 elementor-invisible" data-id="b4b77f5" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-74ec2cf elementor-widget elementor-widget-foxiz-heading" data-id="74ec2cf" data-element_type="widget" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_74ec2cf" class="block-h heading-layout-1"><div class="heading-inner"><h3 class="heading-title"><a class="h-link" href="https://www1.brasilemfolhas.com.br/c/cultura/">Cultura</a></h3><div class="heading-tagline h6"><a class="heading-tagline-label" href="https://www1.brasilemfolhas.com.br/c/cultura/">Mais</a></div></div></div>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5797261 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5797261" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6a3872f" data-id="6a3872f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-18a4f04 elementor-widget elementor-widget-foxiz-grid-small-1" data-id="18a4f04" data-element_type="widget" data-widget_type="foxiz-grid-small-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_18a4f04" class="block-wrap block-small block-grid block-grid-small-1 rb-columns rb-col-1 rb-tcol-2 rb-mcol-1 is-gap-10 ecat-bg-1 meta-s-default"><div class="block-inner">		<div class="p-wrap p-grid p-grid-small-1" data-pid="557837">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/12/cantor-daniel-sera-a-grande-atracao-do-natal-do-bem-2024/" title="Cantor Daniel será a grande atração do Natal do Bem 2024">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/2620d6d1-c4b7-47c6-a670-b494d8bf43ec.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top mobile-hide"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-3" href="https://www1.brasilemfolhas.com.br/c/cultura/" rel="category">Cultura</a></div></div>
+				<div class="p-content">
+			<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/12/cantor-daniel-sera-a-grande-atracao-do-natal-do-bem-2024/" rel="bookmark">Cantor Daniel será a grande atração do Natal do Bem 2024</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2024-12-10T16:14:13-03:00">10 de dezembro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="557837"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-grid p-grid-small-1" data-pid="557832">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/12/escola-de-musica-oferece-recital-gratuito-no-anfiteatro-nesta-terca-feira-10/" title="Escola de Música oferece recital gratuito no Anfiteatro">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/2402caa2-4eb9-43f2-b785-d80de140f5b7.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top mobile-hide"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-3" href="https://www1.brasilemfolhas.com.br/c/cultura/" rel="category">Cultura</a></div></div>
+				<div class="p-content">
+			<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/12/escola-de-musica-oferece-recital-gratuito-no-anfiteatro-nesta-terca-feira-10/" rel="bookmark">Escola de Música oferece recital gratuito no Anfiteatro</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2024-12-10T16:05:45-03:00">10 de dezembro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="557832"></span>			</div>
+				</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9f73d1b" data-id="9f73d1b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a48c853 elementor-widget elementor-widget-foxiz-classic-1" data-id="a48c853" data-element_type="widget" data-widget_type="foxiz-classic-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_a48c853" class="block-wrap block-big block-classic block-classic-1 ecat-bg-1 ecat-size-big meta-s-default"><div class="block-inner">		<div class="p-wrap p-grid p-classic-1 p-grid-1" data-pid="560099">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2025/01/caiado-vistoria-obras-de-recuperacao-e-restauro-de-predios-historicos-da-praca-civica/" title="Caiado vistoria obras de recuperação e restauro de prédios históricos da Praça Cívica">
+			<img loading="lazy" decoding="async" width="860" height="573" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/16b3de92-3652-4373-bedd-2ed5e0bf35d0-scaled.jpg?resize=860%2C573&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top"><a class="p-category category-id-3" href="https://www1.brasilemfolhas.com.br/c/cultura/" rel="category">Cultura</a><a class="p-category category-id-7" href="https://www1.brasilemfolhas.com.br/c/politica/" rel="category">Política</a><a class="p-category category-id-11" href="https://www1.brasilemfolhas.com.br/c/ultimas-noticias/" rel="category">Últimas notícias</a></div></div>
+		<h2 class="entry-title h1">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2025/01/caiado-vistoria-obras-de-recuperacao-e-restauro-de-predios-historicos-da-praca-civica/" rel="bookmark">Caiado vistoria obras de recuperação e restauro de prédios históricos da Praça Cívica</a></h2><p class="entry-summary">Intervenções somam cerca de R$ 19 milhões. “É importante recuperar e cuidar do patrimônio dos goianos”, ressalta o governadorMarco inicial da construção de Goiânia, a Praça Cívica passa por uma…</p>
+						<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<a class="meta-el meta-avatar" href="https://www1.brasilemfolhas.com.br/author/fernando/"><img alt="Fernando Alcântara Mendonça" src="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=44&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c059a3f5ce9f7f479f7319e414941b4?s=88&amp;d=mm&amp;r=g 2x" class="avatar avatar-44 photo" height="44" width="44"></a>
+				<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2025-01-09T15:44:04-03:00">9 de janeiro de 2025</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="560099"></span>			</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2f20a02" data-id="2f20a02" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a595ec2 elementor-widget elementor-widget-foxiz-grid-small-1" data-id="a595ec2" data-element_type="widget" data-widget_type="foxiz-grid-small-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_a595ec2" class="block-wrap block-small block-grid block-grid-small-1 rb-columns rb-col-1 rb-tcol-2 rb-mcol-1 is-gap-10 ecat-bg-1 meta-s-default"><div class="block-inner">		<div class="p-wrap p-grid p-grid-small-1" data-pid="554906">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/12/filarmonica-se-apresenta-no-natal-do-bem-nesta-quinta-feira/" title="Filarmônica se apresenta no Natal do Bem nesta quinta-feira">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/bb4c06d6-1fc7-4568-8d1a-c4b6af92df27.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top mobile-hide"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-3" href="https://www1.brasilemfolhas.com.br/c/cultura/" rel="category">Cultura</a></div></div>
+				<div class="p-content">
+			<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/12/filarmonica-se-apresenta-no-natal-do-bem-nesta-quinta-feira/" rel="bookmark">Filarmônica se apresenta no Natal do Bem nesta quinta-feira</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2024-12-05T13:10:47-03:00">5 de dezembro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="554906"></span>			</div>
+				</div>
+				</div>
+			<div class="p-wrap p-grid p-grid-small-1" data-pid="552395">
+				<div class="feat-holder">
+						<div class="p-featured">
+					<a class="p-flink" href="https://www1.brasilemfolhas.com.br/2024/12/escola-de-musica-de-aparecida-abre-incricoes-gratuitas-para-cursos-de-canto-e-instrumentos/" title="Escola de Música de Aparecida abre incrições gratuitas para cursos de canto e instrumentos">
+			<img loading="lazy" decoding="async" width="330" height="220" src="https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/a210510c-a3ff-42fb-9af3-65a332465e01.jpg?resize=330%2C220&amp;ssl=1" class="featured-img wp-post-image" alt="">		</a>
+				</div>
+	<div class="p-categories light-scheme p-top mobile-hide"><a class="p-category category-id-2" href="https://www1.brasilemfolhas.com.br/c/cotidiano/" rel="category">Cotidiano</a><a class="p-category category-id-3" href="https://www1.brasilemfolhas.com.br/c/cultura/" rel="category">Cultura</a></div></div>
+				<div class="p-content">
+			<h3 class="entry-title">		<a class="p-url" href="https://www1.brasilemfolhas.com.br/2024/12/escola-de-musica-de-aparecida-abre-incricoes-gratuitas-para-cursos-de-canto-e-instrumentos/" rel="bookmark">Escola de Música de Aparecida abre incrições gratuitas para cursos de canto e instrumentos</a></h3>			<div class="p-meta has-bookmark">
+				<div class="meta-inner is-meta">
+							<div class="meta-el meta-author">
+			<a href="https://www1.brasilemfolhas.com.br/author/fernando/">Fernando Alcântara Mendonça</a>		</div>
+			<div class="meta-el meta-date">
+				<time class="date published" datetime="2024-12-02T16:35:42-03:00">2 de dezembro de 2024</time>
+		</div>				</div>
+				<span class="rb-bookmark bookmark-trigger" data-pid="552395"></span>			</div>
+				</div>
+				</div>
+	</div></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-385ad6c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="385ad6c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-15a5cfe" data-id="15a5cfe" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6022ae4 elementor-widget elementor-widget-foxiz-heading" data-id="6022ae4" data-element_type="widget" data-widget_type="foxiz-heading.default">
+				<div class="elementor-widget-container">
+					<div id="uid_6022ae4" class="block-h heading-layout-c1"><div class="heading-inner"><h3 class="heading-title"><span>Jornalistas</span></h3></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c1004c1 elementor-widget elementor-widget-foxiz-authors-1" data-id="c1004c1" data-element_type="widget" data-widget_type="foxiz-authors-1.default">
+				<div class="elementor-widget-container">
+					<div id="uid_c1004c1" class="block-wrap block-authors block-authors-1 is-box-shadow rb-columns rb-col-2 rb-tcol-1 rb-mcol-1 is-gap-custom meta-s-default">		<div class="block-inner">
+					<div class="a-card a-card-1">
+			<div class="a-card-inner box-inner">
+				<div class="a-card-content">
+					<div class="a-card-name">
+						<a class="h4 nice-name" href="https://www1.brasilemfolhas.com.br/author/laura/">Laura Ferreira</a>
+													<span class="a-card-count is-meta">2298 Articles</span>
+											</div>
+					<div class="description-text rb-text"></div>
+					<span class="rb-follow follow-trigger" data-uid="4" data-name="Laura Ferreira"></span>				</div>
+				<div class="a-card-feat">
+					<a href="https://www1.brasilemfolhas.com.br/author/laura/"><img alt="" src="https://secure.gravatar.com/avatar/ee9e8750cdcdfbbc98e52171d1a682de?s=400&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ee9e8750cdcdfbbc98e52171d1a682de?s=800&amp;d=mm&amp;r=g 2x" class="avatar avatar-400 photo" height="400" width="400"></a>
+									</div>
+			</div>
+		</div>
+				<div class="a-card a-card-1">
+			<div class="a-card-inner box-inner">
+				<div class="a-card-content">
+					<div class="a-card-name">
+						<a class="h4 nice-name" href="https://www1.brasilemfolhas.com.br/author/laura/">Laura Ferreira</a>
+													<span class="a-card-count is-meta">2298 Articles</span>
+											</div>
+					<div class="description-text rb-text"></div>
+					<span class="rb-follow follow-trigger" data-uid="4" data-name="Laura Ferreira"></span>				</div>
+				<div class="a-card-feat">
+					<a href="https://www1.brasilemfolhas.com.br/author/laura/"><img alt="" src="https://secure.gravatar.com/avatar/ee9e8750cdcdfbbc98e52171d1a682de?s=400&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ee9e8750cdcdfbbc98e52171d1a682de?s=800&amp;d=mm&amp;r=g 2x" class="avatar avatar-400 photo" height="400" width="400"></a>
+									</div>
+			</div>
+		</div>
+				<div class="a-card a-card-1">
+			<div class="a-card-inner box-inner">
+				<div class="a-card-content">
+					<div class="a-card-name">
+						<a class="h4 nice-name" href="https://www1.brasilemfolhas.com.br/author/fernanda/">Fernanda Scano</a>
+													<span class="a-card-count is-meta">2207 Articles</span>
+											</div>
+					<div class="description-text rb-text"></div>
+					<span class="rb-follow follow-trigger" data-uid="14" data-name="Fernanda Scano"></span>				</div>
+				<div class="a-card-feat">
+					<a href="https://www1.brasilemfolhas.com.br/author/fernanda/"><img alt="" src="https://secure.gravatar.com/avatar/6708f42d382611ed5196b2c6d952f50a?s=400&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/6708f42d382611ed5196b2c6d952f50a?s=800&amp;d=mm&amp;r=g 2x" class="avatar avatar-400 photo" height="400" width="400"></a>
+									</div>
+			</div>
+		</div>
+				<div class="a-card a-card-1">
+			<div class="a-card-inner box-inner">
+				<div class="a-card-content">
+					<div class="a-card-name">
+						<a class="h4 nice-name" href="https://www1.brasilemfolhas.com.br/author/isabela/">Isabela Moraes</a>
+													<span class="a-card-count is-meta">2315 Articles</span>
+											</div>
+					<div class="description-text rb-text"></div>
+					<span class="rb-follow follow-trigger" data-uid="13" data-name="Isabela Moraes"></span>				</div>
+				<div class="a-card-feat">
+					<a href="https://www1.brasilemfolhas.com.br/author/isabela/"><img alt="" src="https://secure.gravatar.com/avatar/b2bb21c809f831ff2cedf40ea6e32eb6?s=400&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b2bb21c809f831ff2cedf40ea6e32eb6?s=800&amp;d=mm&amp;r=g 2x" class="avatar avatar-400 photo" height="400" width="400"></a>
+									</div>
+			</div>
+		</div>
+				<div class="a-card a-card-1">
+			<div class="a-card-inner box-inner">
+				<div class="a-card-content">
+					<div class="a-card-name">
+						<a class="h4 nice-name" href="https://www1.brasilemfolhas.com.br/author/isabela/">Isabela Moraes</a>
+													<span class="a-card-count is-meta">2315 Articles</span>
+											</div>
+					<div class="description-text rb-text"></div>
+					<span class="rb-follow follow-trigger" data-uid="13" data-name="Isabela Moraes"></span>				</div>
+				<div class="a-card-feat">
+					<a href="https://www1.brasilemfolhas.com.br/author/isabela/"><img alt="" src="https://secure.gravatar.com/avatar/b2bb21c809f831ff2cedf40ea6e32eb6?s=400&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b2bb21c809f831ff2cedf40ea6e32eb6?s=800&amp;d=mm&amp;r=g 2x" class="avatar avatar-400 photo" height="400" width="400"></a>
+									</div>
+			</div>
+		</div>
+				<div class="a-card a-card-1">
+			<div class="a-card-inner box-inner">
+				<div class="a-card-content">
+					<div class="a-card-name">
+						<a class="h4 nice-name" href="https://www1.brasilemfolhas.com.br/author/eduardo/">Eduardo Mendonça</a>
+													<span class="a-card-count is-meta">2275 Articles</span>
+											</div>
+					<div class="description-text rb-text"></div>
+					<span class="rb-follow follow-trigger" data-uid="12" data-name="Eduardo Mendonça"></span>				</div>
+				<div class="a-card-feat">
+					<a href="https://www1.brasilemfolhas.com.br/author/eduardo/"><img alt="" src="https://secure.gravatar.com/avatar/5dc1bde51ab3c0b02b13cc2d2673f24c?s=400&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/5dc1bde51ab3c0b02b13cc2d2673f24c?s=800&amp;d=mm&amp;r=g 2x" class="avatar avatar-400 photo" height="400" width="400"></a>
+									</div>
+			</div>
+		</div>
+				</div>
+		</div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		<footer class="footer-wrap rb-section left-dot">
+			<div class="footer-inner footer-has-bg">		<div class="footer-columns rb-columns is-gap-25 rb-container edge-padding footer-4c">
+			<div class="block-inner">
+				<div class="footer-col"><div id="text-1" class="widget w-sidebar rb-section clearfix widget_text">			<div class="textwidget"><div class="h1" style="color: var(--global-color); margin-bottom: 10px;">//</div>
+<h4 class="footer-quote">Brasil em Folhas alcança 20 milhões de leitores e é uma das principais fontes de notícias do país.</h4>
+</div>
+		</div></div><div class="footer-col"></div><div class="footer-col"></div><div class="footer-col"><div id="text-2" class="widget w-sidebar rb-section clearfix widget_text"><div class="block-h widget-heading heading-layout-10"><div class="heading-inner"><h4 class="heading-title"><span>Fale com o Brasil em Folhas</span></h4></div></div>			<div class="textwidget"><p class="entry-summary"><a href="https://www1.brasilemfolhas.com.br/anuncie/">Anuncie</a><br>
+<a href="https://www1.brasilemfolhas.com.br/fale-conosco/">Fale Conosco</a><br>
+<a href="https://www1.brasilemfolhas.com.br/expediente/">Expediente</a><br>
+<a href="https://www1.brasilemfolhas.com.br/grafica/">Gráfica Brasil em Folhas</a><br>
+<a href="https://www1.brasilemfolhas.com.br/politica-de-privacidade/">Política de Privacidade</a><br>
+<a href="https://www1.brasilemfolhas.com.br/termos-de-uso/">Termos de Uso</a></p>
+</div>
+		</div></div>			</div>
+		</div>
+			<div class="footer-copyright">
+			<div class="rb-container edge-padding">
+							<div class="bottom-footer-section">
+									<a class="footer-logo" href="https://www1.brasilemfolhas.com.br/" title="Portal de notícias Brasil em Folhas">
+						<img class="logo-default" data-mode="default" height="72" width="72" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/bs_00545.jpg" alt="Portal de notícias Brasil em Folhas" decoding="async" loading="lazy"><img class="logo-dark" data-mode="dark" height="72" width="72" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/bs_00545.jpg" alt="Portal de notícias Brasil em Folhas" decoding="async" loading="lazy">					</a>
+									<div class="footer-social-list">
+						<span class="footer-social-list-title h6">Follow US</span>
+						<a class="social-link-facebook" aria-label="Facebook" data-title="Facebook" href="https://facebook.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-facebook" aria-hidden="true"></i></a><a class="social-link-twitter" aria-label="X" data-title="X" href="https://x.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-twitter" aria-hidden="true"></i></a><a class="social-link-youtube" aria-label="YouTube" data-title="YouTube" href="https://www.youtube.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-youtube" aria-hidden="true"></i></a><a class="social-link-google-news" aria-label="Google News" data-title="Google News" href="https://news.google.com/publications/CAAqBwgKMISfnAswmKm0Aw" target="_blank" rel="noopener nofollow"><i class="rbi rbi-gnews" aria-hidden="true"></i></a><a class="social-link-instagram" aria-label="Instagram" data-title="Instagram" href="https://www.instagram.com/brasilemfolhas/" target="_blank" rel="noopener nofollow"><i class="rbi rbi-instagram" aria-hidden="true"></i></a><a class="social-link-pinterest" aria-label="Pinterest" data-title="Pinterest" href="https://pinterest.com/brasilemfolhas/" target="_blank" rel="noopener nofollow"><i class="rbi rbi-pinterest" aria-hidden="true"></i></a><a class="social-link-tiktok" aria-label="TikTok" data-title="TikTok" href="https://www.tiktok.com/@brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-tiktok" aria-hidden="true"></i></a><a class="social-link-linkedin" aria-label="LinkedIn" data-title="LinkedIn" href="https://br.linkedin.com/company/jornalbrasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-linkedin" aria-hidden="true"></i></a><a class="social-link-tumblr" aria-label="Tumblr" data-title="Tumblr" href="https://www.tumblr.com/brasilemfolhas" target="_blank" rel="noopener nofollow"><i class="rbi rbi-tumblr" aria-hidden="true"></i></a>					</div>
+							</div>
+					<div class="copyright-inner">
+				<div class="copyright">© 2024 BRASIL EM FOLHAS S/A
+</div>			</div>
+					</div>
+		</div>
+	</div></footer>
+		</div>
+		<script>
+            (function () {
+                const yesStorage = () => {
+                    let storage;
+                    try {
+                        storage = window['localStorage'];
+                        storage.setItem('__rbStorageSet', 'x');
+                        storage.removeItem('__rbStorageSet');
+                        return true;
+                    } catch {
+                        return false;
+                    }
+                };
+				                const darkModeID = 'RubyDarkMode';
+                const currentMode = yesStorage() ? (localStorage.getItem(darkModeID) || 'default') : 'default';
+                const selector = currentMode === 'dark' ? '.mode-icon-dark' : '.mode-icon-default';
+                const icons = document.querySelectorAll(selector);
+                if (icons.length) {
+                    icons.forEach(icon => icon.classList.add('activated'));
+                }
+				
+				                const privacyBox = document.getElementById('rb-privacy');
+                const currentPrivacy = yesStorage() ? localStorage.getItem('RubyPrivacyAllowed') || '' : '1';
+                if (!currentPrivacy && privacyBox?.classList) {
+                    privacyBox.classList.add('activated');
+                }
+				                const readingSize = yesStorage() ? sessionStorage.getItem('rubyResizerStep') || '' : '1';
+                if (readingSize) {
+                    const body = document.querySelector('body');
+                    switch (readingSize) {
+                        case '2':
+                            body.classList.add('medium-entry-size');
+                            break;
+                        case '3':
+                            body.classList.add('big-entry-size');
+                            break;
+                    }
+                }
+            })();
+		</script>
+				<script>
+            (function () {
+                const yesStorage = () => {
+                    let storage;
+                    try {
+                        storage = window['localStorage'];
+                        storage.setItem('__rbStorageSet', 'x');
+                        storage.removeItem('__rbStorageSet');
+                        return true;
+                    } catch {
+                        return false;
+                    }
+                };
+                let currentMode = null;
+                const darkModeID = 'RubyDarkMode';
+				                currentMode = yesStorage() ? localStorage.getItem(darkModeID) || null : 'default';
+                if (!currentMode) {
+					                    currentMode = 'default';
+                    yesStorage() && localStorage.setItem(darkModeID, 'default');
+					                }
+                document.body.setAttribute('data-theme', currentMode === 'dark' ? 'dark' : 'default');
+				            })();
+		</script>
+				<script type="text/template" id="bookmark-toggle-template">
+			<i class="rbi rbi-bookmark" aria-hidden="true" data-title="Salvar"></i>
+			<i class="bookmarked-icon rbi rbi-bookmark-fill" aria-hidden="true" data-title="Undo Save"></i>
+		</script>
+		<script type="text/template" id="bookmark-ask-login-template">
+			<a class="login-toggle" data-title="Sign In to Save" href="https://www1.brasilemfolhas.com.br/wp-login.php?redirect_to=https%3A%2F%2Fwww1.brasilemfolhas.com.br%2F"><i class="rbi rbi-bookmark" aria-hidden="true"></i></a>
+		</script>
+		<script type="text/template" id="follow-ask-login-template">
+			<a class="login-toggle" data-title="Sign In to Follow" href="https://www1.brasilemfolhas.com.br/wp-login.php?redirect_to=https%3A%2F%2Fwww1.brasilemfolhas.com.br%2F"><i class="follow-icon rbi rbi-plus" data-title="Sign In to Follow" aria-hidden="true"></i></a>
+		</script>
+		<script type="text/template" id="follow-toggle-template">
+			<i class="follow-icon rbi rbi-plus" data-title="Follow"></i>
+			<i class="followed-icon rbi rbi-bookmark-fill" data-title="Unfollow"></i>
+		</script>
+					<aside id="bookmark-notification" class="bookmark-notification"></aside>
+			<script type="text/template" id="bookmark-notification-template">
+				<div class="bookmark-notification-inner {{classes}}">
+					<div class="bookmark-featured">{{image}}</div>
+					<div class="bookmark-inner">
+						<span class="bookmark-title h5">{{title}}</span><span class="bookmark-desc">{{description}}</span>
+					</div>
+				</div>
+			</script>
+			<script type="text/template" id="follow-notification-template">
+				<div class="follow-info bookmark-notification-inner {{classes}}">
+					<span class="follow-desc"><span>{{description}}</span><strong>{{name}}</strong></span>
+				</div>
+			</script>
+		<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/prefeito-vilela-acompanha-torneio-que-observa-promessas-do-futebol-de-aparecida/",
+            "name": "Prefeito Vilela acompanha torneio que observa promessas do futebol de Aparecida",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/17de1055-b8e6-4efe-b368-53302bf39303.jpg?fit=2560%2C1707&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/vilela-e-equipe-promovem-encontro-de-alinhamento-estrategico-para-os-100-dias-de-governo/",
+            "name": "Vilela e equipe promovem encontro de alinhamento estrat\u00e9gico para os 100 dias de governo",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/693f7f01-e05f-4765-916f-f34a60d32b3e-scaled.jpg?fit=2560%2C1440&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/prioridade-e-garantir-que-criancas-tenham-acesso-a-educacao-infantil-defende-mabel/",
+            "name": "\u201cPrioridade \u00e9 garantir que crian\u00e7as tenham acesso \u00e0 Educa\u00e7\u00e3o Infantil\u201d, defende Mabel",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/caa921e5-510e-4f8e-99e7-2cc6e2c152b5.jpg?fit=1600%2C1066&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/athletico-pr-confirma-contratacao-de-isaac-ate-2027/",
+            "name": "Athletico-PR confirma contrata\u00e7\u00e3o de Isaac at\u00e9 2027",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/cccdd.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/camara-amplia-beneficios-e-deputados-podem-usar-cota-para-despachar-bagagem/",
+            "name": "C\u00e2mara amplia benef\u00edcios e deputados podem usar cota para despachar bagagem",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/cccdd.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/passe-livre-estudantil-2025-cadastro-e-recadastro-ja-comecaram/",
+            "name": "Passe Livre Estudantil 2025: Cadastro e recadastro j\u00e1 come\u00e7aram",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/60256723-a2c3-4f5e-be76-49439a61fbe5.jpg?fit=1280%2C854&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/governo-de-goias-vai-entregar-reforma-de-seis-terminais-e-10-estacoes-do-eixo-anhanguera/",
+            "name": "Governo de Goi\u00e1s vai entregar reforma de seis terminais e 10 esta\u00e7\u00f5es do Eixo Anhanguera",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/625c4ca7-8e59-48ad-afce-3be0d0f0bf2e.jpg?fit=1215%2C683&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://www1.brasilemfolhas.com.br/2024/10/confianca-e-joia-rara/",
+            "name": "Confian\u00e7a \u00e9 joia rara",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/10/0ddjdo.jpg?fit=588%2C480&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://www1.brasilemfolhas.com.br/2024/11/a-forca-e-a-grandeza-de-aparecida-de-goiania/",
+            "name": "A For\u00e7a e a Grandeza de Aparecida de Goi\u00e2nia",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/11/fab2f29a-0c47-4c8d-a0e9-06b93814b0fd-Copy.jpeg?fit=854%2C642&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/programa-profissionaliza-goias-oferece-17-mil-vagas-para-capacitacao-de-estudantes/",
+            "name": "Programa Profissionaliza Goi\u00e1s oferece 17 mil vagas para capacita\u00e7\u00e3o de estudantes",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/99ecc97d-fcd6-4996-a7e3-e35cd187f151-scaled.jpg?fit=2560%2C1707&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/encontro-discute-crise-financeira-e-medidas-de-austeridade-em-aparecida-de-goiania/",
+            "name": "Encontro discute crise financeira e medidas de austeridade em Aparecida de Goi\u00e2nia",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/dbaa315e-d013-4840-9e3b-8ad02a4f2911.jpg?fit=1280%2C854&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/secretaria-de-engenharia-de-transito-inicia-instalacao-de-radares-e-controladores-semaforicos-em-goiania/",
+            "name": "Secretaria de Engenharia de Tr\u00e2nsito inicia instala\u00e7\u00e3o de radares e controladores semaf\u00f3ricos em Goi\u00e2nia",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/be44b496-adab-468c-bd44-bfc96a0d10e7.jpg?fit=1600%2C739&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/prefeito-leandro-vilela-apoia-iniciativa-que-une-esporte-e-inclusao-social-em-aparecida/",
+            "name": "Prefeito Leandro Vilela apoia iniciativa que une esporte e inclus\u00e3o social em Aparecida",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/8717dadf-1a20-4b6b-8768-303220b2d9ac.jpg?fit=2560%2C1708&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/vilela-aumentara-equipes-de-limpeza-urbana-por-meio-de-parceria-com-policia-penal/",
+            "name": "Vilela aumentar\u00e1 equipes de limpeza urbana por meio de parceria com Pol\u00edcia Penal",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/5ae4fe9d-fb5e-42d6-abff-ccbb0e63fa78.jpg?fit=2560%2C1708&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/vilela-destaca-a-importancia-do-setor-produtivo-em-posse-da-nova-presidente-do-codese/",
+            "name": "Vilela destaca a import\u00e2ncia do setor produtivo em posse da nova presidente do CODESE",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/e4eb26de-32c9-46c9-957e-a248a7a5e8f7.jpg?fit=2560%2C1708&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/sob-determinacao-de-vilela-forca-tarefa-de-limpeza-urbana-e-intensificada-nesta-semana/",
+            "name": "Sob determina\u00e7\u00e3o de Vilela, for\u00e7a-tarefa de limpeza urbana \u00e9 intensificada nesta semana",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/a1b41eb8-6a8f-4822-8847-42ab1b867ff4.jpg?fit=2560%2C1706&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/forca-armadas-abrem-alistamento-militar-voluntario-para-mulheres-com-1-465-vagas/",
+            "name": "For\u00e7a armadas abrem alistamento militar volunt\u00e1rio para mulheres com 1.465 vagas",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/eed73467-73db-4ac6-b99e-3328a6fe5cd2.jpg?fit=768%2C512&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/prefeito-sandro-mabel-lanca-programa-de-desobstrucao-de-vias-em-goiania/",
+            "name": "Prefeito Sandro Mabel lan\u00e7a programa de desobstru\u00e7\u00e3o de vias em Goi\u00e2nia",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/9ee86227-4ba5-484c-b0a6-f563ba61a702.jpg?fit=1040%2C694&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/leandro-vilela-inicia-gestao-com-forca-tarefa-de-limpeza-no-goiania-park-sul/",
+            "name": "Leandro Vilela inicia gest\u00e3o com for\u00e7a-tarefa de limpeza no Goi\u00e2nia Park Sul",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/1dce5e00-cf5b-4f6b-bd69-7c7b42806733-scaled.jpg?fit=2560%2C1703&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "url": "https://www1.brasilemfolhas.com.br/2024/12/caiado-assina-contrato-para-realizacao-da-motogp-no-autodromo-de-goiania/",
+            "name": "Caiado assina contrato para realiza\u00e7\u00e3o da MotoGP no Aut\u00f3dromo de Goi\u00e2nia",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/30045f6e-4fe5-4077-acdb-7b4f0e6d6e96-scaled.jpg?fit=2560%2C1708&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "url": "https://www1.brasilemfolhas.com.br/2024/11/atletas-de-taekwondo-vao-representar-aparecida-em-competicao-nacional-no-rio-de-janeiro/",
+            "name": "Atletas de taekwondo v\u00e3o representar Aparecida em competi\u00e7\u00e3o nacional no Rio de Janeiro",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/11/20c9c6b3-73c4-4fe1-b391-959e86f8ea90.jpg?fit=2560%2C1695&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "url": "https://www1.brasilemfolhas.com.br/2024/10/superacao-e-talento-atleta-de-senador-canedo-e-campea-mundial-na-natacao-paralimpica/",
+            "name": "Supera\u00e7\u00e3o e Talento: Atleta de Senador Canedo \u00e9 Campe\u00e3 Mundial na Nata\u00e7\u00e3o Paral\u00edmpica",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/10/b9611ba4-d5f5-4d08-98dc-874b28141c2e.jpg?fit=1280%2C875&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "url": "https://www1.brasilemfolhas.com.br/2024/12/cantor-daniel-sera-a-grande-atracao-do-natal-do-bem-2024/",
+            "name": "Cantor Daniel ser\u00e1 a grande atra\u00e7\u00e3o do Natal do Bem 2024",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/2620d6d1-c4b7-47c6-a670-b494d8bf43ec.jpg?fit=1023%2C682&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "url": "https://www1.brasilemfolhas.com.br/2024/12/escola-de-musica-oferece-recital-gratuito-no-anfiteatro-nesta-terca-feira-10/",
+            "name": "Escola de M\u00fasica oferece recital gratuito no Anfiteatro",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/2402caa2-4eb9-43f2-b785-d80de140f5b7.jpg?fit=1536%2C1023&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "url": "https://www1.brasilemfolhas.com.br/2025/01/caiado-vistoria-obras-de-recuperacao-e-restauro-de-predios-historicos-da-praca-civica/",
+            "name": "Caiado vistoria obras de recupera\u00e7\u00e3o e restauro de pr\u00e9dios hist\u00f3ricos da Pra\u00e7a C\u00edvica",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2025/01/16b3de92-3652-4373-bedd-2ed5e0bf35d0-scaled.jpg?fit=2560%2C1707&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 26,
+            "url": "https://www1.brasilemfolhas.com.br/2024/12/filarmonica-se-apresenta-no-natal-do-bem-nesta-quinta-feira/",
+            "name": "Filarm\u00f4nica se apresenta no Natal do Bem nesta quinta-feira",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/bb4c06d6-1fc7-4568-8d1a-c4b6af92df27.jpg?fit=1600%2C900&ssl=1"
+        },
+        {
+            "@type": "ListItem",
+            "position": 27,
+            "url": "https://www1.brasilemfolhas.com.br/2024/12/escola-de-musica-de-aparecida-abre-incricoes-gratuitas-para-cursos-de-canto-e-instrumentos/",
+            "name": "Escola de M\u00fasica de Aparecida abre incri\u00e7\u00f5es gratuitas para cursos de canto e instrumentos",
+            "image": "https://i0.wp.com/www1.brasilemfolhas.com.br/wp-content/uploads/2024/12/a210510c-a3ff-42fb-9af3-65a332465e01.jpg?fit=1024%2C683&ssl=1"
+        }
+    ]
+}</script>
+			<script type="text/javascript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+					<div id="rb-user-popup-form" class="rb-user-popup-form mfp-animation mfp-hide">
+			<div class="logo-popup-outer">
+				<div class="logo-popup">
+					<div class="login-popup-header">
+													<div class="logo-popup-logo">
+																	<img loading="lazy" decoding="async" data-mode="default" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/brasilemfolhas_60.png" alt="" height="60" width="304">
+									<img loading="lazy" decoding="async" data-mode="dark" src="https://www1.brasilemfolhas.com.br/wp-content/uploads/2024/09/brasilemfolhas_60.png" alt="" height="60" width="304">
+															</div>
+													<span class="logo-popup-heading h3">Bem vindo de volta!</span>
+													<p class="logo-popup-description is-meta">Faça login na sua conta</p>
+											</div>
+					<div class="user-login-form">
+						<form name="popup-form" id="popup-form" action="https://www1.brasilemfolhas.com.br/wp-login.php" method="post"><div class="login-username">
+				<div class="rb-login-label">Username or Email Address</div>
+				<input type="text" name="log" required="required" autocomplete="username" class="input" value="">
+				</div><div class="login-password">
+				<div class="rb-login-label">Password</div>
+				<div class="is-relative">
+				<input type="password" name="pwd" required="required" autocomplete="current-password" spellcheck="false" class="input" value="">
+				<span class="rb-password-toggle"><i class="rbi rbi-show"></i></span></div>
+				</div><div class="remember-wrap"><p class="login-remember"><label class="rb-login-label"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember me</label></p><a class="lostpassw-link" href="https://www1.brasilemfolhas.com.br/wp-login.php?action=lostpassword">Lost your password?</a></div><p class="login-submit">
+				<input type="submit" name="wp-submit" class="button button-primary" value="Log In">
+				<input type="hidden" name="redirect_to" value="https://www1.brasilemfolhas.com.br/">
+			</p></form>						<div class="login-form-footer">
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<script id="foxiz-core-js-extra">
+var foxizCoreParams = {"ajaxurl":"https:\/\/www1.brasilemfolhas.com.br\/wp-admin\/admin-ajax.php","darkModeID":"RubyDarkMode","cookieDomain":"","cookiePath":"\/"};
+</script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/plugins/foxiz-core/assets/core.js?ver=2.5.6" id="foxiz-core-js"></script>
+<script src="https://stats.wp.com/e-202503.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script id="jetpack-stats-js-after">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"236969255\",\"post\":\"1387\",\"tz\":\"-3\",\"srv\":\"www1.brasilemfolhas.com.br\",\"j\":\"1:14.2.1\"}") ]);
+_stq.push([ "clickTrackerInit", "236969255", "1387" ]);
+</script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/jquery.waypoints.min.js?ver=3.1.1" id="jquery-waypoints-js"></script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/rbswiper.min.js?ver=6.5.8" id="rbswiper-js"></script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/jquery.mp.min.js?ver=1.1.0" id="jquery-magnific-popup-js"></script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/jquery.tipsy.min.js?ver=1.0" id="rb-tipsy-js"></script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/jquery.ui.totop.min.js?ver=v1.2" id="jquery-uitotop-js"></script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/personalized.js?ver=2.5.6" id="foxiz-personalize-js"></script>
+<script id="foxiz-global-js-extra">
+var foxizParams = {"sliderSpeed":"5000","sliderEffect":"slide","sliderFMode":"1"};
+var uid_843bf0c = {"uuid":"uid_843bf0c","category":"2","name":"list_1","tags":"1982","order":"date_post","posts_per_page":"8","offset":"10","pagination":"load_more","entry_category":"bg-1","entry_meta":["avatar","author","date"],"review":"1","review_meta":"1","sponsor_meta":"1","bookmark":"1","entry_format":"bottom","excerpt_length":"12","excerpt_source":"tagline","paged":"1","page_max":"23"};
+</script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/themes/foxiz/assets/js/global.js?ver=2.5.6" id="foxiz-global-js"></script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.26.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.26.4" id="elementor-frontend-modules-js"></script>
+<script src="https://c0.wp.com/c/6.7.1/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.26.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"e_css_smooth_scroll":true,"home_screen":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https:\/\/www1.brasilemfolhas.com.br\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www1.brasilemfolhas.com.br\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www1.brasilemfolhas.com.br\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"bc18a92d63"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1387,"title":"Portal%20de%20not%C3%ADcias%20Brasil%20em%20Folhas","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://www1.brasilemfolhas.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.26.4" id="elementor-frontend-js"></script>
+
+</body></html>

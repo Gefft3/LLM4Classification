@@ -1,0 +1,1785 @@
+<html lang="pt-br"><head>
+        <meta charset="UTF-8">
+        <title>Febre oropouche pode estar associada a microcefalia em bebês | Diario de Cuiabá</title>
+        <meta property="og:title" content="Febre oropouche pode estar associada a microcefalia em bebês | Diario de Cuiabá">
+        <meta property="og:image" content="http://www.diariodecuiaba.com.br/images/logo-sharer.png">
+        <meta property="og:site_name" content="Febre oropouche pode estar associada a microcefalia em bebês | Diario de Cuiabá">
+        <meta property="og:url" content="">
+        <meta property="og:description" content="">
+        <meta property="fb:app_id" content="">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Febre oropouche pode estar associada a microcefalia em bebês | Diario de Cuiabá">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="http://www.diariodecuiaba.com.br/images/logo-sharer.png">
+        <meta name="url" content="https://www.diariodecuiaba.com.br/febre-oropouche-pode-estar-associada-a-microcefalia-em-bebes/686052">
+        <meta name="description" content="">
+        <meta name="autor" content="Da Reportagem">
+        <meta name="company" content="Febre oropouche pode estar associada a microcefalia em bebês | Diario de Cuiabá">
+        <meta name="revisit-after" content="1">
+        <meta name="keywords" content="">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <link rev="made" href="mailto:">
+        <link rel="alternate" type="application/rss+xml" title="RSS Febre oropouche pode estar associada a microcefalia em bebês | Diario de Cuiabá" href="/rss.php">
+        <script src="https://www.google.com/recaptcha/api.js"></script>
+        <!-- <link rel="stylesheet" href="/css/font-faces.css"> -->
+        <link rel="stylesheet" href="/lib/bootstrap-3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/dist/all.min.css?1.0.2">
+        <script type="text/javascript" src="/dist/all.min.js?1.0.2"></script>
+
+        <!-- FACEBOOK SDK -->
+        <script>
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+        <script type="text/javascript">
+            function getBanner(bloco, div_destino){
+                if(document.getElementById(div_destino) !== null){
+                    $.ajax({
+                        url: location.protocol + "//" + location.host + '/apis/banner.php?bloco_anuncio=' + bloco + '&date=' + $.now() ,
+                        type:"GET",
+                        cache: false,
+                        success : function(data) {
+                            $('#' + div_destino).html(data);
+                        },
+                        error : function(response) {
+                            console.log(response.responseText);
+                        }
+                    });
+                }
+            }
+            $(document).ready(function() {
+                // BANNER MIOLO
+                                   getBanner(44, 'LATERAL-1');
+                                   getBanner(49, 'BDESKM2-728X90');
+                                   getBanner(51, 'BDESKM3-728X90');
+                                   getBanner(52, 'LATERAL-3');
+                                   getBanner(53, 'BDESKM4-728X90');
+                                   getBanner(54, 'BDESKM5-728X90');
+                                   getBanner(55, 'BLOCO MOBILE1');
+                                   getBanner(61, 'NOVO BLOCO AUTOMÁTICO 300x250');
+                                   getBanner(62, 'NOVO BLOCO AUTOMÁTICO 870x100');
+                                   getBanner(64, 'NOVO BLOCO AUTOMÁTICO 1175x150');
+                                   getBanner(65, 'BANNER1175x150');
+                                   getBanner(68, 'NOVO BLOCO AUTOMÁTICO 300x90');
+                                   getBanner(70, 'NOVO BLOCO AUTOMÁTICO 300x250');
+                                   getBanner(73, 'BDESKM1-728X90');
+                            });
+
+        </script>
+
+        <script type="text/javascript">
+            function UR_Start() 
+            {
+                    UR_Nu = new Date;
+                    UR_Indhold = showFilled(UR_Nu.getHours()) + ":" + showFilled(UR_Nu.getMinutes());
+                    document.getElementById("ur").innerHTML = UR_Indhold;
+                    setTimeout("UR_Start()",1000);
+            }
+            function showFilled(Value) 
+            {
+                    return (Value > 9) ? "" + Value : "0" + Value;
+            }
+</script>
+    <style>
+@media (max-width: 767px)
+.hidden-xs { display: block !important;}
+</style>
+
+</head>
+<body onload="UR_Start()">
+  <script>
+    $(document).ready(function(){
+        var textos = $('.tpl250-p1-title-section .row .col-sm-8 a'); 
+        textos[0].innerHTML = 'POLÍTICA';
+    });
+</script>
+
+
+<div id="fb-root"></div>
+        <!-- INICIO DO TEMPLATE 220 -->
+<script type="text/javascript" src="/assets/js/weather.js?1.0.2"></script>
+<div class="container">
+<div class="row" style="margin-left: 0px!important; margin-right: 0px!important">
+    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-12 tpl220-p1-nahora">NA HORA</div>
+    <div class="col-lg-7 col-md-6 col-sm-9 col-xs-12 tpl220-p2-noticia">
+
+    <div id="main-carousel220" class="royalSlider rsDefault rsCustomCP tpl220-load">
+                    <div class="rsContent">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 template120-bloco">
+                    <a href="/ilustrado/marieta-severo-descarta-volta-as-novelas-nao-quero-passar-um-ano-indo-para-o-projac/699475"><p><span>07:02 Marieta Severo descarta volta às novelas: 'Não quero passar um ano indo para o Projac'</span></p></a>
+                </div>
+            </div>
+                    <div class="rsContent">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 template120-bloco">
+                    <a href="/esportes/aston-martin-confirma-felipe-drugovich-como-piloto-reserva-e-de-testes-para-2025-na-f-1/699525"><p><span>06:38 Aston Martin confirma Felipe Drugovich como piloto reserva e de testes para 2025 na F-1</span></p></a>
+                </div>
+            </div>
+                    <div class="rsContent">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 template120-bloco">
+                    <a href="/ilustrado/indicacoes-ao-oscar-sao-adiadas-de-novo-apos-onda-de-incendios-em-los-angeles/699558"><p><span>06:05 Indicações ao Oscar são adiadas de novo após onda de incêndios em Los Angeles</span></p></a>
+                </div>
+            </div>
+            </div>
+
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12 tpl220-p3-redesocial">
+        O jornal de Mato Grosso
+                <a href="https://www.facebook.com" target="_blank"><img src="/images/diariodecuiaba/facebook.png" alt="Facebook"></a>
+        
+                <a href="https://twitter.com/" target="_blank"><img src="/images/diariodecuiaba/twitter.png" alt="twitter"></a>
+        
+                <a href="https://youtube.com" target="_blank"><img src="/images/diariodecuiaba/youtube.png" alt="youtube"></a>
+            </div>
+</div>
+<script type="text/javascript">
+setTimeout(function () {
+$('#main-carousel220').royalSlider({
+    arrowsNav: false,
+    keyboardNavEnabled: false,
+    controlsInside: false,
+    imageScaleMode: 'fill',
+    arrowsNavAutoHide: false,
+    controlNavigation: false,
+    thumbsFitInViewport: false,
+    navigateByClick: false,
+    transitionType: 'move',
+    deeplinking: {
+      enabled: false,
+      change: false
+    },
+    loop: true,
+    autoHeight: true,
+    autoPlay: {
+        enabled: true,
+        stopAtAction: false,
+        pauseOnHover: true,
+        delay: 4500
+    }
+});
+$('#main-carousel220').removeClass('tpl220-load');
+}, 2000);
+
+
+function UR_Start() {
+    UR_Nu = new Date;
+    UR_Indhold = showFilled(UR_Nu.getHours()) + ":" + showFilled(UR_Nu.getMinutes());
+    document.getElementById("ur").innerHTML = UR_Indhold;
+    setTimeout("UR_Start()",1000);
+}
+
+</script>
+
+<style type="text/css">
+
+.tpl220-load {
+        overflow: hidden;
+        width: 700px;
+        height: 30px;
+    }
+
+
+a{ color: #000 }
+
+@font-face {
+    font-family: 'oswald-regular'; 
+    src: url('/assets/fonts/Oswald-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: 'oswald-light'; 
+    src: url('/assets/fonts/Oswald-Light.ttf');
+}
+
+.navbar {
+     margin-bottom: 0px!important;
+}
+.tpl220-menu {
+    background-color: #fff;
+    /*padding-top: 7px;*/
+    padding-bottom: 0px;
+    border: 1px solid #fff;
+}
+
+.tpl220 .navbar-nav { 
+    margin: 0px 0px; 
+    color: #1b1b1b; 
+    padding-bottom: 15px;
+}
+
+.tpl220 .navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{background-color:#1b1b1b}
+.tpl220 .navbar-default .navbar-toggle .icon-bar{background-color:#000}
+.tpl220 .navbar-default .navbar-nav>li>a:hover{
+    font: 16px/16px 'oswald-regular', Arial, Helvetica, sans-serif;
+    color: #1b1b1b;
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-right: 1px solid #f1f1f1;
+}
+.tpl220 .navbar-default .navbar-nav>li>a{
+    font: 16px/16px 'oswald-regular', Arial, Helvetica, sans-serif;
+    color: #1b1b1b;
+    
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-right: 1px solid #f1f1f1;
+}
+.tpl220 .navbar-collapse {
+    border-bottom: 2px solid #f1f1f1;
+}
+.tpl220 .navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover{background-color:#84b3c5;color:#1b1b1b}
+.tpl220 .navbar-default .navbar-nav .open .dropdown-menu{background-color:#84b3c5}
+.tpl220 .navbar-default .navbar-nav .open .dropdown-menu>li>a{padding-bottom:10px;padding-top:10px;color:#1b1b1b;font-size:14px}
+.tpl220 .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{padding-bottom:10px;padding-top:10px;color:#1b1b1b;font-size:14px;background-color:#84b3c5}
+.tpl220 .navbar-collapse{overflow-x:visible;padding-right:0;padding-left:0}
+.tpl220 .navbar-right { float: right!important;  margin-right: 15px;
+
+}
+
+.tpl220-p1-nahora {
+    background-color: #92b1c2; 
+    font-size: 18px; 
+    color: #fff;
+    text-align: center;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font: 18px/24px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+}
+
+
+/* TABLET */
+@media screen and (min-width: 768px) and (max-width: 1600px) {
+
+.tpl220-p2-noticia {
+    background-color: #f5f5f5;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ 
+}
+
+
+@media only screen and (max-width : 767px) {
+
+.tpl220-p2-noticia {
+    background-color: #f5f5f5;
+    /* height: 35px; */
+    padding-top: 5px;
+    /* padding-bottom: 5px; */
+}
+
+}
+
+
+
+.tpl220-p3-redesocial {
+    background-color: #ebebeb;
+    height: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font: 15px/15px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+    color: #346885;
+}
+
+.tpl220-p3-redesocial img {
+    max-width: 20px;
+}
+
+.tpl220-p4-logo {
+    padding-top: 5px;
+}
+.tpl220-p4 {
+    text-align: right;
+    padding-top: 7px;
+}
+.tpl220-p4 a{
+    font: 15px/12px "oswald-light", Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding-left: 8px;
+    border-left: #fff solid 1px;
+}
+
+.tpl220-p5-clima { 
+    color: #fff;
+    font-size: 300 15px
+ }
+
+ .tpl220-p5-clima .max-temp{ 
+    font-size: 20px !important;
+    font-family: 'Roboto', sans-serif !important;
+ }
+
+ .tpl220-p5-clima .min-temp{ 
+    font-size: 14px !important;
+    font-family: 'Roboto', sans-serif !important;
+ }
+
+ .tpl220-p5-clima .temp{ 
+    font-size: 18px !important;
+    font-family: 'Roboto', sans-serif !important;
+ }
+
+
+ .tpl220-p5-cidade{
+    color: #fff;
+    margin-top: 8px;
+ }
+
+
+
+.tpl220-p5-cidade option{
+    color: #000;
+}
+
+
+.tpl220-p5-cidade.choose-city {
+    background-image: url(/images/diariodecuiaba/seta-tempo.png);
+}
+
+.choose-city {
+    moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    border: none;
+    background-image: url(/images/arrow-down.jpg);
+    background-position: 95% center;
+    background-repeat: no-repeat;
+    padding: 0 20px 0 0;
+    margin-top: 5px;
+    background-color: transparent;
+    cursor: pointer;
+    font-family: Verdana;
+    outline: 0;
+}
+
+
+.tpl220-p6-busca {
+    padding-top: 8px;
+}
+
+.tpl220-p6-busca a {
+        border-left: #d2e4ea solid 1px;
+        padding-left: 5px;
+}
+
+.cont_relogio {
+    position: absolute;
+    right: 15px;
+    font-size: 15;
+    bottom: 5px;
+    color: #fff;
+    font-family: Verdana;
+    border-left: #d2e4ea solid 1px;
+    padding-left: 5px;
+    line-height: 17px;
+}
+
+.tlp-220-data{
+    font: 12px/12px "oswald-light", Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.icon-weather {
+    width: 32px;    
+}
+.rsDefault, .rsDefault .rsOverflow, .rsDefault .rsSlide, .rsDefault .rsThumbs, .rsDefault .rsVideoFrameHolder {
+        width: 100%!important;
+    }
+@media only screen and (max-width : 767px) {
+   .rsDefault, .rsDefault .rsOverflow, .rsDefault .rsSlide, .rsDefault .rsThumbs, .rsDefault .rsVideoFrameHolder {
+        width: 100%!important;
+    }
+    .cont_relogio {
+        right: 54px;
+    }
+}
+
+
+
+</style>
+<div class="row">
+    <div style="padding-bottom: 15px;"></div>
+</div>
+
+
+<div class="row" style="background-color: #006786;border-bottom: 7px solid #000; padding-top: 23px; margin-left: 0px!important; margin-right: 0px!important">
+    <div class="col-sm-6 tpl220-p4-logo">
+        
+                     <a href="/"><img src="/images/diariodecuiaba/logo.png" class="img-responsive"></a>
+            </div>
+    <div class="col-sm-6">
+        <div class="row">
+          
+            <div class="col-xs-12 col-sm-6">
+                 <div class="col-lg-3 col-md-3 col-sm-5 col-xs-5">
+                       <select class="choose-city tpl220-p5-cidade">
+                            <option value="Cuyaba" selected="">Cuiabá, MT</option>
+                            <option value="Rondonopolis">Rondonópolis</option>
+                            <option value="Francisco Lucas">Lucas do Rio Verde</option>
+                       </select>
+                </div>
+
+                <div class="col-lg-9 col-md-9 col-sm-5 col-xs-5">
+                <p class="text-right tpl220-p5-clima">
+                    <img class="icon-weather">
+                    <!-- <span class="temp"></span> -->
+                    <span class="max-temp"></span>
+                    <span class="min-temp"></span>
+                </p>
+                </div>
+               
+                
+
+            </div>
+            <div class="col-xs-12 col-sm-6 tpl220-p4">
+                <div class="tlp-220-data" align="right">Cuiabá MT, Terça-feira, 14 de Janeiro de 2025</div>
+            </div>
+        </div>
+        <div class="row">
+
+
+            <div class="col-lg-9 col-md-9 col-sm-10 col-xs-10">
+               
+            </div>
+           
+            <div class="col-lg-3 col-md-3 col-sm-2 col-xs-2 tpl220-p6-busca ">
+                 <a data-toggle="popover" data-container="body" data-placement="left" type="button" data-html="true" href="#" id="logout">
+                    <img src="/images/diariodecuiaba/lupa.png">
+                </a>
+                 <div class="cont_relogio">
+                    <div id="ur"></div>
+                </div>
+            </div>
+        </div>      
+    </div>
+</div>
+
+
+<div id="popover-content-logout" class="hide">
+  <form action="/busca.php">
+     <div class="input-group">
+          <input type="text" class="form-control" name="keyword" placeholder="Buscar...">
+          <span class="input-group-btn">
+            <button class="btn btn-primary" type="submit">Buscar</button>
+          </span>
+        </div>
+  </form>
+</div>
+
+
+
+<div class="row" style="padding-top: 10px; margin-left: 0px!important; margin-right: 0px!important">
+<!-- INICIO DO NAVBAR -->
+<div class="tpl220">
+<nav class="navbar navbar-default tpl220-menu">
+    <div class="">
+        <div class="navbar-header hidden-md hidden-sm">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               <ul class="nav navbar-nav"><li><a href="/politica/" menulateral="">POLÍTICA</a></li><li><a href="/cidades/" menulateral="">CIDADES</a></li><li><a href="/economia/" menulateral="">ECONOMIA</a></li><li><a href="/policia/" menulateral="">POLÍCIA</a></li><li><a href="/esportes/" menulateral="">ESPORTES</a></li><li><a href="/brasil/" menulateral="">BRASIL </a></li><li><a href="/ambiente/" menulateral="">AMBIENTE</a></li><li><a href="/agronegocios/" menulateral="">AGRONEGÓCIOS</a></li><li><a href="/ilustrado/" menulateral="">ILUSTRADO</a></li></ul>                
+            </div>
+    </div>
+</nav>
+</div>
+</div>
+</div>
+
+
+
+
+<script>$("[data-toggle=popover]").each(function(i, obj) {
+
+$(this).popover({
+  html: true,
+  content: function() {
+    var id = $(this).attr('id')
+    return $('#popover-content-' + id).html();
+  }
+});
+
+});
+//# sourceURL=pen.js
+</script>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8 col-md-9 col-lg-9 index-bloco-1">
+                <div class="">
+                                            <!-- INICIO DO TEMPLATE 249 -->
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" align="center">
+            <div id="BDESKM1-728X90"></div>
+    </div>
+    <div class="col-sm-12">
+ 		<hr class="line-1">
+	</div>
+</div>
+<!-- TEMPLATE 243 INTERNA CONTEUDO  -->
+        
+<style type="text/css">
+
+    .hat-line-global {
+    background-color: #2c6785;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-family: Montserrat,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #fff;
+    padding: 5px;
+}
+
+.pull-right {
+    float: right!important;
+}
+
+.main-title-global {
+    font-family: "ZapfCalligr BT", sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: #000;
+}
+
+.social-content img {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 2px;
+    transition: all .3s ease;
+}
+
+.text-content, .text-content p {
+    font: 18px/31px "ZapfCalligr BT", sans-serif;
+    margin: 0 0 30px;
+}
+
+.img-right {
+    float: right;
+    margin: 5px 0 10px 20px;
+}
+.img-wrapper {
+    width: auto!important;
+    background: 0 0!important;
+    display: table;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+/* BUTTONS */
+.Buttons {
+    display: inline-block;
+    padding: 15px;
+    font-size: 13px;
+    background: #1194bf;
+    color: #fff;
+    font-weight: 100;
+    border-color: #1194bf;
+    text-transform: uppercase;
+    padding: 15px;
+    font-family: Roboto Condensed,Helvetica,Arial,sans-serif;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-right: 2px;
+}
+
+.Buttons a {
+    color: #fff;
+    font-weight: 100;
+    border-color: #1194bf;
+    text-transform: uppercase;
+    padding: 15px;
+    font-family: Roboto Condensed,Helvetica,Arial,sans-serif;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.Buttons a:hover {
+
+    color: #fff;
+    font-weight: 100;
+    border-color: #1194bf;
+    text-transform: uppercase;
+    padding: 15px;
+    font-family: Roboto Condensed,Helvetica,Arial,sans-serif;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
+.img-left {
+    float: left;
+    margin: 0px 20px 10px 0px;
+}
+
+.img-wrapper {
+    width: auto!important;
+    background: 0 0!important;
+    display: table;
+    max-width: 380px;
+    overflow: hidden;
+}
+
+.img-center {
+
+    width: 378px;
+    background-color: #ffffff;
+    color: #000;
+
+}
+
+.img-credit {
+     font: 11px/12px "Myriad_Pro", sans-serif!important;
+     color: #000!important;
+     text-align: right!important;
+     margin: 0px!important;
+}
+.author {
+    font: bold 15px/15px "Myriad_Pro", sans-serif;
+    color: #000;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.complement {
+    font: 19px/18px "ZapfHumnst_Dm_BT", sans-serif;
+}
+
+.img-subtitle {
+    font: 12px/25px "Myriad_Pro", sans-serif!important;
+    margin: 0 0 30px!important;
+}
+
+.content-hat {
+    font: bold 18px/16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #346885;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+
+.quote-wrapper{display: table; max-width: 265px; margin: 10px 0; border-bottom: 3px solid #00ADF2; }
+@media (max-width: 767px) {
+    .quote-wrapper {
+        max-width: 165px;
+    }
+}
+.quote-wrapper.left{float:Left; margin: 0px 20px 10px 0; text-align: left;}
+.quote-wrapper.right{float:right; margin: 0px 0 10px 20px; text-align: right;}
+.quote-content{background-color: #f5f5f5; padding: 5px 5px 10px 5px; float:left; width: 100%; font:normal 24px/32px 'ZapfHumnst_Dm_BT', Arial, Helvetica, sans-serif !important; color: #333 !important}
+.quote-wrapper span { line-height: 29px; }
+
+.quote-wrapper .left-quote {
+    font: 90px/70px TitilliumWeb, sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    height: 27px;
+    width: 30px;
+    margin-right: 5px;
+    overflow: hidden;
+}
+
+.quote-wrapper .right-quote {
+    font: 90px/70px TitilliumWeb, sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    height: 27px;
+    width: 30px;
+    margin-left: 5px;
+    overflow: hidden;
+}
+.facebook iframe {
+    width: 62%;
+}
+@media only screen and (max-width : 767px) {
+    .facebook iframe {
+        width: 100%;
+    }
+
+}
+
+
+
+
+</style>
+
+        
+        <div class="hat-line-global">
+            <span class="section-title-global">CIDADES</span>
+
+            <div class="pull-right">
+
+                                <span class="date-content">
+                    Sábado, 20 de Julho de 2024, 00h:00
+                </span>
+                
+                <span class="sizes-text hidden-xs">
+
+                    <span style="font-size:12px;line-height:18px">
+                    <a href="javascript:mudaTamanho('text-content', -1);" style="color:#fff;">A</a>
+                    </span>
+                    <span style="font-size:14px;line-height:21px">
+                    <a href="javascript:mudaTamanho('text-content', 1);" style="color:#fff;">A
+                    </a>
+                    </span>
+                </span> <!-- sizes-text -->
+            <!-- hat-line-right -->
+            </div>
+            <div class="clearfix"></div>
+        <!-- hat-line -->
+        </div>
+
+        
+        <p class="content-hat">ALERTA</p>
+
+        <h1 class="main-title-global">Febre oropouche pode estar associada a microcefalia em bebês</h1>
+
+        
+        <div class="author-and-socials">
+                        <div class="author pull-left">
+                Da Reportagem
+                                <br>
+                            </div>
+            
+            <div class="social-content pull-right">
+                 <a href="https://www.instagram.com" target="_blank" title="">
+                    <img class="img-responsive" src="/tema/icon-interna-instagram.png" alt="instagram">
+                </a>
+
+                <a href="https://www.facebook.com/sharer.php?u=https://www.diariodecuiaba.com.br/cidades/febre-oropouche-pode-estar-associada-a-microcefalia-em-bebes/686052" target="_blank" title="Compartilhe esta matéria no Facebook">
+                    <img class="img-responsive" src="/images/fb-square.png" alt="facebook">
+                </a>
+                <a href="https://twitter.com/share?url=https://www.diariodecuiaba.com.br/cidades/febre-oropouche-pode-estar-associada-a-microcefalia-em-bebes/686052&amp;text=Febre+oropouche+pode+estar+associada+a+microcefalia+em+beb%C3%AAs" target="_blank" title="Publique esta matéria no Twitter">
+                    <img class="img-responsive" src="/images/twitter-square.png" alt="TWITTER">
+                </a>
+                <a href="/imprime.php?cid=686052" target="_blank" title="Imprimir esta matéria">
+                    <img class="img-responsive" src="/images/printer-square.png" alt="PRINTER">
+                </a>
+                <a href="https://plus.google.com/share?url?u=https://www.diariodecuiaba.com.br/cidades/febre-oropouche-pode-estar-associada-a-microcefalia-em-bebes/686052" target="_blank" title="Compartilhe esta matéria no Google+">
+                    <img class="img-responsive" src="/images/gplus-square.png" alt="gplus">
+                </a>
+                <a href="whatsapp://send?text=https://www.diariodecuiaba.com.br/cidades/febre-oropouche-pode-estar-associada-a-microcefalia-em-bebes/686052" target="_blank" title="Compartilhe esta matéria no Whatsapp">
+                    <img class="img-responsive" src="/images/whatsapp-square.png" alt="whatsapp">
+                </a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+
+        <div class="clearfix"></div>
+    
+
+
+
+  <div id="text-content" class="text-content">
+              <p>Em um ano com recorde de contágios por dengue e chikungunya, outra doença transmitida por mosquitos levanta preocupações. Trata-se da febre do oropouche, que tem se espalhado pelo país e é transmitida pelo inseto Culicoides paraensis, também conhecido como maruim ou mosquito-pólvora.</p>  <p>Em Mato Grosso, são 16 o número de exames detectáveis para a febre neste ano, conforme dados do Ministério da Saúde (MS). No Brasil, pouco mais de 7,8 mil notificações.</p>  <p>Entre as preocupações das autoridades públicas de saúde estão os riscos da doença para as gestantes, pois há indícios de que o vírus pode ser transmitido verticalmente e a recomendação é para que os estados e os municípios intensifiquem a vigilância.</p>  <p>A medida foi adotada pelo Ministério após o Instituto Evandro Chagas do MS detectar a presença do anticorpo do vírus em amostras de um caso de abortamento e quatro casos de microcefalia.</p>  <p>Já nesta última quinta-feira (18), a Organização Pan-Americana da Saúde (OPAS) também emitiu um alerta epidemiológico informando seus estados membros sobre a identificação de possíveis casos, atualmente em investigação no Brasil, de transmissão do vírus Oropouche (OROV) da mãe para o bebê durante a gestação. A doença pode estar associada a má formação no feto. A recomendação é para reforço na vigilância ante a possível ocorrência de casos similares em outros países com a circulação do OROV e outros arbovírus.</p>  <p>Os sintomas da febre oropouche são similares aos da dengue e da chikungunya: dor de cabeça, dor muscular, dor nas articulações, náusea e diarreia. Como prevenção, as autoridades orientam medidas de proteção para gestantes, como evitar áreas com mosquitos, usar telas e repelente.</p>  <p>&nbsp;</p>
+    </div>
+  <div class="clearfix"></div>
+
+  
+  
+  
+  
+      <div id="actions-content" align="center">
+        <a href="#" onclick="javascript:history.back();" class="Buttons">Voltar</a>
+        <!-- <a href="#" id="botao-enviar-materia" class="Buttons">ENVIAR MATÉRIA</a> -->
+        <a href="/imprime.php?cid=686052&amp;sid=23" class="Buttons" id="botao-imprimir">IMPRIMIR</a>
+
+
+    </div>
+
+    <div class="col-md-12" id="div-form-enviar-materia" style="display:none;">
+        <form class="col-md-12 form-horizontal" action="/enviar.php" method="post" id="enviar-materia">
+            <input name="complement" type="hidden" value="">
+            <input name="title" type="hidden" value="Febre oropouche pode estar associada a microcefalia em bebês">
+            <input name="hat" type="hidden" value="ALERTA">
+            <input name="url" type="hidden" value="https://www.diariodecuiaba.com.br/cidades/febre-oropouche-pode-estar-associada-a-microcefalia-em-bebes/686052">
+
+            <div class="form-group" id="div-input-nome">
+                <label for="nome">Seu nome: </label>
+                <input class="form-control" type="text" size="70" name="name" id="nome" required="">
+            </div>
+            <div class="form-group" id="div-input-email-amigo">
+                <label for="email">Email do amigo: </label>
+                <input class="form-control" type="text" size="50" name="email" id="email" required="">
+            </div>
+            <div class="form-group" id="div-input-nome-amigo">
+                <label for="nome_amigo">Nome do amigo: </label>
+                <input class="form-control" type="text" size="70" name="friendName" id="nome_amigo">
+            </div>
+            <div class="form-group">
+                <label for="comment">Comentário:</label>
+                <textarea class="form-control" name="comment" cols="110" rows="15" id="comment"></textarea>
+            </div>
+            <div class="form-group" id="div-input-submit">
+                <button class="btn btn-success" type="submit">Enviar</button>
+                <a href="#" class="btn btn-danger" id="close-send-news">FECHAR</a>
+            </div>
+        </form>
+    </div>
+    <div id="mask" style="display:none;">
+  <form action="" name="captcha" id="captcha-form" method="post" class="comente_form">
+    <div id="close"><a href="#"><img src="/images/close-button.png" alt="Fechar janela"></a></div>
+    <input type="hidden" id="captchaId" name="captchaId" value="">
+    <img id="siimage" src="" alt="captcha image" width="300"><br><br>
+    <label id="texto-digite-captcha" class="text14bold">Digite o código para confirmar o envio:</label><div class="clear"></div><br>
+    <span class="Font14Arial" id="captcha-error-msg" style="color:red;display:none;">Captcha incorreto. Poderia tentar novamente, por favor?<br><br></span><div class="clear"></div>
+    <span id="captcha-success-msg" class="marginbottom10 Font14Arial" style="color:green;display:none;"><br><br></span>
+    <input type="text" name="captcha_code" size="10" maxlength="6" class="inp" style="width:230px; margin-right:10px;float:left;height: 37px;">
+    <input type="submit" value="Enviar" class="button_custom_minor rounded5px left">
+  </form>
+</div>
+
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <hr class="line-1 bb">
+</div>
+</div>
+
+<section id="comments-facebook" class="marginbottom20 margintop20">
+    <div id="fb-root"></div>
+    <div class="fb-comments" data-href="https://www.diariodecuiaba.com.br/cidades/febre-oropouche-pode-estar-associada-a-microcefalia-em-bebes/686052" data-width="100%" data-numposts="3" data-colorscheme="light">
+    </div>
+</section>
+
+<!-- TEMPLATE 244 COMENTARIO DO CONTEUDO  -->
+<!-- TEMPLATE 245 MATERIAS RELACIONADAS CONTEUDO  -->
+
+                                    </div>
+            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 index-bloco-2">
+                    <!-- TEMPLATE 796 -->
+<div class="container-fluid">
+    <div class="row">
+        
+    </div>
+</div>
+<div class="idx-tpl796">
+    <div class="idx-tpl796-p1-rs rsDefault pos-r idx-tpl796-p1-load">
+                        <div class="row">
+                                    <iframe width="866" height="487" src="https://www.youtube.com/embed/NFYLaU1JI5g" title="VT AMIGO INTERNET 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+                        </div>
+                </div>
+</div>
+<script>
+$( document ).ready(function() {
+    setTimeout(function() {
+        $('.idx-tpl796-p1-rs').royalSlider({
+            arrowsNav: false,
+            keyboardNavEnabled: false,
+            controlsInside: false,
+            arrowsNavAutoHide: false,
+            controlNavigation: 'bullets',
+            thumbsFitInViewport: false,
+            navigateByClick: true,
+            transitionType: 'move',
+            deeplinking: {
+              enabled: true,
+              change: false
+            },
+            loop: true,
+            autoHeight: true,
+            autoPlay: {
+                enabled: true,
+                stopAtAction: false,
+                pauseOnHover: true,
+                delay: 4000
+            }
+        });
+        $('.idx-tpl796-p1-rs').removeClass('idx-tpl796-p1-load');
+    }, 1000);
+});
+</script>
+<style>
+/*INICIO-DESKTOP-p1*/
+    .idx-tpl796 iframe{
+        width: 100%;
+    }
+    .idx-tpl796-play {
+        width: 50px;
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+    .idx-tpl796 iframe {
+        width: 100%;
+        height: 220px;
+    }
+    .idx-tpl796-p1-load {
+        height: 225px;
+        overflow: hidden;
+    }
+/*FIM*/
+/* DESKTOP */
+@media screen and (min-width: 1200px) {
+}
+/* TABLET */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+}
+/* SMARTPHONE */
+@media only screen and (max-width : 767px) {
+    .idx-tpl796 iframe {
+        height: 260px;
+    }
+}
+</style>
+<style type="text/css">
+.idx1-tpl796 iframe {
+}
+.idx1-tpl796-play {
+}
+.idx1-tpl796-p1-load {
+}
+
+</style>
+
+<!-- INICIO DO TEMPLATE 268 -->
+			<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" align="center">
+		            <div id="BDESKLP1-300X90"></div>
+		    </div>
+		</div>
+		<!-- TEMPLATE 230 -->
+<style type="text/css">
+    
+    .tpl230-p1-border-section {
+        border-top: #84b3c5 solid 5px;    
+    } 
+
+    .tpl230-p1-title-section {
+          /* border-bottom: 1px solid #e5e5e5; */
+        height: 40px;
+        padding-top: 10px;
+        font: 16px/16px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+        color: #336784;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    .tpl230-p1-title-section a {
+        /* border-bottom: 1px solid #e5e5e5; */
+        color: #336784;
+        text-transform: uppercase;
+    }
+
+    .tpl230-p2-title {
+        font: 16px/20px "ZapfCalligr BT", sans-serif;
+        color: #000;
+        font-weight: bold;
+    }
+
+
+    .tpl230-p3-buttons {
+        padding: 15px 10px 15px 10px;
+        font: 12px/12px "oswaldregular",Arial, Helvetica, sans-serif;
+        color: #fff;
+        background: #4492c2;
+        margin-right: 20px;
+        border-radius: 2px;
+        cursor: pointer;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    .tpl230-p3-buttons-alinhamento {
+        float: right;
+    }
+
+    .tpl230-p2-hat {
+        font: bold 12px/12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+        color: #346885;
+        text-transform: uppercase;
+        margin-bottom: 5px;
+    }
+
+</style>
+
+<div class="row">
+<div class="col-xs-12">
+<div class="col-xs-12  tpl230-p1-border-section">
+</div>
+</div>
+
+<div class="col-xs-12  tpl230-p1-title-section">
+    <a href="/cuiaba-urgente">CUIABÁ URGENTE</a>
+</div>
+</div>
+<div class="row">
+  
+<div class="col-xs-12">
+    <div class="tpl230-p2-hat">'INADIMISSÍVEL'</div>        
+    <div class="tpl230-p2-title"><a href="/cuiaba-urgente/mauro-mendes-cobra-celeridade-nas-obras-do-brt/699515">Mauro Mendes cobra celeridade nas obras do BRT</a></div>        
+</div>
+<div class="col-xs-12 col-xs-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+  
+<div class="col-xs-12">
+    <div class="tpl230-p2-hat">TRANSPARÊNCIA</div>        
+    <div class="tpl230-p2-title"><a href="/cuiaba-urgente/abilio-brunini-divulga-conta-da-prefeitura-de-cuiaba/699258">Abílio Brunini divulga conta da Prefeitura de Cuiabá</a></div>        
+</div>
+<div class="col-xs-12 col-xs-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+  
+<div class="col-xs-12">
+    <div class="tpl230-p2-hat">POLÊMICA</div>        
+    <div class="tpl230-p2-title"><a href="/cuiaba-urgente/mauro-mendes-diz-que-lula-deveria-combater-faccao-e-nao-policia/698995">Mauro Mendes diz que Lula deveria combater facção e não polícia</a></div>        
+</div>
+<div class="col-xs-12 col-xs-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+  
+<div class="col-xs-12">
+    <div class="tpl230-p2-hat">REI DA EMENDA PIX</div>        
+    <div class="tpl230-p2-title"><a href="/cuiaba-urgente/jayme-campos-e-o-campeao-de-emendas-sem-transparencia-diz-globo/698829">Jayme Campos é o campeão de emendas sem transparência, diz Globo</a></div>        
+</div>
+<div class="col-xs-12 col-xs-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+  
+<div class="col-xs-12">
+    <div class="tpl230-p2-hat">MARKETING É TUDO</div>        
+    <div class="tpl230-p2-title"><a href="/cuiaba-urgente/para-dar-exemplo-a-servidor-novo-prefeito-so-faltou-bater-o-ponto/698779">Para "dar exemplo" a servidor, novo prefeito só faltou bater o ponto</a></div>        
+</div>
+<div class="col-xs-12 col-xs-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 " align="right">
+    <a href="/cuiaba-urgente" class="tpl230-p3-buttons tpl230-p3-buttons-alinhamento">Leia mais</a>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+
+</div>
+<!-- TEMPLATE 229 -->
+<style type="text/css">
+
+    .tpl229-p1-border-section {
+        border-top: #84b3c5 solid 5px;
+    }
+
+    .tpl229-p1-title-section {
+        /* border-bottom: 1px solid #e5e5e5; */
+        height: 40px;
+        padding-top: 10px;
+        font: 16px/16px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+        color: #336784;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    .tpl229-p1-title-section a {
+        /* border-bottom: 1px solid #e5e5e5; */
+        color: #336784;
+        text-transform: uppercase;
+    }
+
+
+
+    .tpl229-p2-buttons {
+    padding: 11px 4px 11px 4px;
+    font: 10px/12px "oswaldregular",Arial, Helvetica, sans-serif;
+    color: #fff;
+    background: #4492c2;
+    margin-right: 0px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+    .tpl229-p2-buttons-alinhamento {
+        float: right;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+
+     .tpl229-p2-title {
+        /* border-bottom: 1px solid #e5e5e5; */
+        height: 40px;
+        padding-top: 10px;
+        font: 16px/16px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+        color: #336784;
+
+    }
+
+
+</style>
+
+<div class="row">
+<div class="col-sm-12">
+<div class="col-sm-12  tpl229-p1-border-section">
+</div>
+</div>
+
+<div class="col-sm-12  tpl229-p1-title-section">
+    <a href="#">EDIÇÃO IMPRESSA</a>
+</div>
+</div>
+<div class="row">
+        <div class="col-sm-12" align="center">
+	<a href="/indice.php">
+		<img class="img-responsive" src="https://diariodecuiaba.nyc3.digitaloceanspaces.com/storage/webdisco/pageflip/1626/thumbs/0001.jpg" alt="">
+	</a>
+	<p align="center" class="tpl229-p2-title">Edição EDIÇÃO 16615</p>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl229-p2-buttons-alinhamento"><br>
+    <p></p>
+    <a class="btn-1 tpl229-p2-buttons" href="/indice.php">Ler o jornal</a>
+    <a class="btn-1 tpl229-p2-buttons" href="/indice.php">Edições Anteriores</a>
+</div></div>
+
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+</div>
+<!-- INICIO DO TEMPLATE 225 -->
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" align="center">
+            <div id="LATERAL-1"></div>
+    </div>
+    <div class="col-sm-12">
+ 		<hr class="line-1">
+	</div>
+</div>
+<!-- TEMPLATE 231 -->
+<style type="text/css">
+    
+    .tpl231-p1-border-section {
+        border-top: #84b3c5 solid 5px;    
+    } 
+
+    .tpl231-p1-title-section {
+          /* border-bottom: 1px solid #e5e5e5; */
+        height: 40px;
+        padding-top: 10px;
+        font: 16px/16px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+        color: #336784;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    .tpl231-p1-title-section a {
+        /* border-bottom: 1px solid #e5e5e5; */
+        color: #336784;
+        text-transform: uppercase;
+    }
+
+    .tpl231-p2-buttons {
+        padding: 15px 10px 15px 10px;
+        font: 12px/12px "oswaldregular",Arial, Helvetica, sans-serif;
+        color: #fff;
+        background: #4492c2;
+        margin-right: 20px;
+        border-radius: 2px;
+        cursor: pointer;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    .tpl231-p2-buttons-alinhamento {
+        float: right;
+    }
+
+
+     .tpl231-p2-title {
+        font: 16px/20px "ZapfCalligr BT", sans-serif;
+        color: #000;
+        font-weight: bold;
+    }
+
+</style>
+
+<div class="row">
+<div class="col-sm-12">
+<div class="col-sm-12  tpl231-p1-border-section">
+</div>
+</div>
+
+<div class="col-sm-12  tpl231-p1-title-section">
+    <a href="/ultimas-noticias">ÚLTIMAS NOTICIAS</a>
+</div>
+</div>
+
+<div class="row">
+    <div class="">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl231-p2-title">
+            <a href="/ilustrado/marieta-severo-descarta-volta-as-novelas-nao-quero-passar-um-ano-indo-para-o-projac/699475">07:02 | Marieta Severo descarta volta às novelas: 'Não quero passar um ano indo para o Projac'</a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <hr class="line-1">
+        </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl231-p2-title">
+            <a href="/esportes/aston-martin-confirma-felipe-drugovich-como-piloto-reserva-e-de-testes-para-2025-na-f-1/699525">06:38 | Aston Martin confirma Felipe Drugovich como piloto reserva e de testes para 2025 na F-1</a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <hr class="line-1">
+        </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl231-p2-title">
+            <a href="/ilustrado/indicacoes-ao-oscar-sao-adiadas-de-novo-apos-onda-de-incendios-em-los-angeles/699558">06:05 | Indicações ao Oscar são adiadas de novo após onda de incêndios em Los Angeles</a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <hr class="line-1">
+        </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl231-p2-title">
+            <a href="/publicidade-legal/02-edital-de-convocacao-empreendimento-vereda-royal-park-14012024/699418">01:00 | 02 EDITAL DE CONVOCAÇÃO “EMPREENDIMENTO VEREDA ROYAL PARK" 14/01/2024</a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <hr class="line-1">
+        </div>
+
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl231-p2-title">
+            <a href="/ilustrado/veja-a-programacao-de-hoje-das-novelas/699540">00:44 | Veja a programação de hoje das novelas</a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <hr class="line-1">
+        </div>
+
+        
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 " align="right">
+            <a href="/ultimas-noticias/" class="tpl231-p2-buttons tpl231-p2-buttons-alinhamento">Leia mais</a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <hr class="line-1">
+        </div>
+
+
+    </div>
+
+</div>
+
+
+<!-- INICIO DO TEMPLATE 225 -->
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" align="center">
+            <div id="LATERAL-2"></div>
+    </div>
+    <div class="col-sm-12">
+ 		<hr class="line-1">
+	</div>
+</div>
+<!-- TEMPLATE 232 -->
+<style type="text/css">
+    
+    .tpl232-p1-border-section {
+        border-top: #84b3c5 solid 5px;    
+    } 
+
+    .tpl232-p1-title-section {
+           /* border-bottom: 1px solid #e5e5e5; */
+    height: 40px;
+    padding-top: 10px;
+    font: 16px/16px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+    color: #336784;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    }
+
+    .tpl232-tp1-itle-section a {
+        /* border-bottom: 1px solid #e5e5e5; */
+        color: #336784;
+        text-transform: uppercase;
+    }
+
+    .tpl232-p2-title {
+        padding-bottom: 15px;
+        font: 16px/20px "ZapfCalligr BT", sans-serif;
+        color: #000;
+        font-weight: bold;
+    }
+
+    .tpl232-p2-option {
+        padding-bottom: 5px;   
+        font: 16px/20px "ZapfCalligr BT", sans-serif;
+        color: #000;
+        
+    }
+
+    .tpl232-p2-buttons {
+        padding: 15px 10px 15px 10px;
+        font: 12px/12px "oswaldregular",Arial, Helvetica, sans-serif;
+        color: #fff;
+        background: #4492c2;
+        margin-right: 5px;
+        border-radius: 2px;
+        cursor: pointer;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    .tpl232-p2-buttons-alinhamento {
+        float: right;
+        text-align: right;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+
+</style>
+
+<div class="row">
+<div class="col-sm-12">
+<div class="col-sm-12  tpl232-p1-border-section">
+</div>
+</div>
+
+<div class="col-sm-12  tpl232-p1-title-section">
+    ENQUETE
+</div>
+</div>
+
+<form name="enqueteForm" id="enqueteForm" action="/enquetes_vota.php" method="POST">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="tpl232-p2-title">O que você acha de a Câmara de Cuiabá ter só mulheres na Mesa Diretora?</div>
+            <input type="hidden" name="enquete_titulo" value="ENQUETE">
+            <input type="hidden" name="enquete" value="57">
+
+                    </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl232-p2-option">
+            
+                <input type="radio" name="resposta" value="208">
+                                Merece todo apoio. Com certeza, as vereadoras terão um bom desempenho
+            
+        </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl232-p2-option">
+            
+                <input type="radio" name="resposta" value="209">
+                                O grupo deve ser coeso, forte e não se submeter às pressões do Executivo
+            
+        </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl232-p2-option">
+            
+                <input type="radio" name="resposta" value="210">
+                                O fato inédito merece ser comemorado. Mostra a força da mulher na política
+            
+        </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 tpl232-p2-buttons-alinhamento">
+            <a class="btn-1 tpl232-p2-buttons" href="/enquete/resultado/57">PARCIAL</a>
+            <button type="submit" class="btn-1 tpl232-p2-buttons" id="btnEnqueteVotar nr17">VOTAR</button>
+        </div>
+    </div>
+</form>
+
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <hr class="line-1">
+</div>
+</div>
+
+
+<script type="text/javascript">
+
+$( document ).ready(function() {
+    $('#enqueteForm').submit(function(e) {
+        e.preventDefault();
+        var resposta = $('input[name=resposta]:checked', '#enqueteForm').val();
+        if (!resposta) {
+            alert("Selecione uma opção");
+        } else {
+            $.ajax({
+                url: '/enquetes_vota.php',
+                type: 'post',
+                data: $(this).serialize(),
+                beforeSend : function() {
+                },
+                complete: function() {
+                }
+            }).done(function(response) {
+                if (response != '')
+                    // alert(response);
+                    window.location = "/enquete/resultado/"+response;
+                else {
+                    $('#modalEnqueteHTML').html('<p class="alert alert-info">Nenhum registro encontrado!</p>');
+                    $('#modalEnqueteHTML').html(response);
+                    $('#modalEnquete').modal('toggle');
+                }
+            }).fail(function(jqXHR, textStatus, msg) {
+                alert("Erro, tente novamente!");
+            });
+        }
+    });
+});
+
+</script><!-- INICIO DO TEMPLATE 225 -->
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" align="center">
+            <div id="LATERAL-3"></div>
+    </div>
+    <div class="col-sm-12">
+ 		<hr class="line-1">
+	</div>
+</div>
+<!-- TEMPLATE 233 -->
+<style type="text/css">
+    
+    .tpl233-p1-border-section {
+        border-top: #84b3c5 solid 5px;    
+    } 
+
+    .tpl233-p1-title-section {
+        height: 40px;
+        padding-top: 10px;
+        font: 16px/16px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+        color: #336784;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+    }
+
+    .tpl233-p1-title-section a {
+        color: #336784;
+        text-transform: uppercase;
+    }
+
+    .tpl233-p2-position {
+        
+        color: #efa80f;
+        padding-right: 7px;
+    }
+
+    .tpl233-p2-link {
+        font: bold 16px/20px "ZapfCalligr BT", sans-serif;
+        
+    }
+
+</style>
+
+<div class="row">
+<div class="col-sm-12">
+<div class="col-sm-12  tpl233-p1-border-section">
+</div>
+</div>
+
+<div class="col-sm-12  tpl233-p1-title-section">
+    <a href="#">MAIS LIDAS</a>
+</div>
+</div>
+
+    <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <span class="tpl233-p2-position">1. </span>
+                <a href="/esportes/cuca-volta-a-falar-sobre-caso-de-estupro/699529" class="tpl233-p2-link">Cuca volta a falar sobre caso de estupro</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <hr class="line-1">
+            </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <span class="tpl233-p2-position">2. </span>
+                <a href="/ilustrado/no-mundo-do-cinema-diretoras-brasileiras-sao-tratadas-como-coitadas-diz-ana-carolina/699578" class="tpl233-p2-link">No mundo do cinema, diretoras brasileiras são tratadas como coitadas, diz Ana Carolina</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <hr class="line-1">
+            </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <span class="tpl233-p2-position">3. </span>
+                <a href="/ilustrado/espiao-chileno-de-90-anos-inspira-nova-serie-com-ted-danson-em-casa-de-repouso/699580" class="tpl233-p2-link">Espião chileno de 90 anos inspira nova série com Ted Danson em casa de repouso</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <hr class="line-1">
+            </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <span class="tpl233-p2-position">4. </span>
+                <a href="/brasil/odebrecht-e-andrade-gutierrez-planejam-retomar-expansao-dez-anos-apos-lava-jato/699576" class="tpl233-p2-link">Odebrecht e Andrade Gutierrez planejam retomar expansão dez anos após Lava Jato</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <hr class="line-1">
+            </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <span class="tpl233-p2-position">5. </span>
+                <a href="/ilustrado/baby-nao-sai-da-zona-de-conforto-ao-desnudar-submundo-lgbtqia/699581" class="tpl233-p2-link">'Baby' não sai da zona de conforto ao desnudar submundo LGBTQIA+</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <hr class="line-1">
+            </div>
+        </div>
+
+                </div>
+                    </div>
+    </div>
+
+
+      <!-- INICIO DO TEMPLATE 221 -->
+<style type="text/css">
+.tpl221-menu {
+    background-color: #25495d;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    
+}
+.tpl221 .navbar-nav { 
+    margin: 0px -8px; 
+    color: #25495d; 
+}
+.tpl221 .navbar {
+    position: relative;
+    min-height: 0px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+.tpl221 .navbar-default .navbar-toggle:focus,.navbar-default .navbar-toggle:hover{background-color:#25495d}
+.tpl221 .navbar-default .navbar-toggle .icon-bar{background-color:#25495d}
+.tpl221 .navbar-default .navbar-nav>li>a:hover{
+    
+    font: 16px/16px 'oswald-regular', Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-right: 1px solid #f1f1f1;
+}
+
+.tpl221 .navbar-default .navbar-nav>li>a{
+    font: 16px/16px 'oswald-regular', Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-right: 1px solid #f1f1f1;
+
+}
+
+.tpl221 .navbar-default {   border-color: #25495d; }
+
+.tpl221 .navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover{background-color:#25495d;color:#fff}
+.tpl221 .navbar-default .navbar-nav .open .dropdown-menu{background-color:#25495d}
+.tpl221 .navbar-default .navbar-nav .open .dropdown-menu>li>a{padding-bottom:10px;padding-top:10px;color:#fff;font-size:14px}
+.tpl221 .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{padding-bottom:10px;padding-top:10px;color:#fff;font-size:14px;background-color:#000}
+.tpl221 .navbar-collapse{overflow-x:visible;padding-right:0;padding-left:0}
+.tpl221 .navbar-right { float: right!important;  margin-right: 15px;}
+
+.tpl221-p2-assine {
+
+    background-color: #006786;
+    border-bottom: 7px solid #000;
+    padding-top: 23px;"
+
+}
+.tpl221-p2-telefone {
+    font: 30px/30px typo_geoslab_regular_demoRg, Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #fff;
+    padding-left: 30px;
+    padding-top: 15px;
+
+}
+
+.tpl221-p2-logo {
+    
+
+}
+.tpl221-p4 {
+    
+    padding-bottom: 15px;
+}
+
+.tpl221-p4 a{
+    font: 15px/12px "oswald-light", Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding-right: 8px;
+    border-right: #fff solid 1px;
+}
+</style>
+
+
+<footer>
+<div class="container">
+
+<div class="row">
+    <div class="col-sm-12" style="background-color: #25495d;">
+        
+        <div class="tpl221">
+        <nav class="navbar navbar-default tpl221-menu">
+        <div class="container">
+        <div class="navbar-header  hidden-md hidden-sm">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+            <ul class="nav navbar-nav"><li><a href="/politica/" menulateral="">POLÍTICA</a></li><li><a href="/cidades/" menulateral="">CIDADES</a></li><li><a href="/economia/" menulateral="">ECONOMIA</a></li><li><a href="/policia/" menulateral="">POLÍCIA</a></li><li><a href="/esportes/" menulateral="">ESPORTES</a></li><li><a href="/brasil/" menulateral="">BRASIL </a></li><li><a href="/ambiente/" menulateral="">AMBIENTE</a></li><li><a href="/agronegocios/" menulateral="">AGRONEGÓCIOS</a></li><li><a href="/ilustrado/" menulateral="">ILUSTRADO</a></li></ul>        </div>
+        </div>
+        </nav>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="row tpl221-p2-assine">
+    <div class="col-sm-6 tpl221-p2-telefone">
+            <div class="col-sm-12 tpl221-p4">
+                <a href="/" style="padding-right: 9px;">Tel. (65) 3634-0280</a>
+                <a href="/expediente/" style="padding-right: 9px;">EXPEDIENTE</a>
+                <a href="/contato/">FALE CONOSCO</a>
+            </div>
+    </div>
+    <div class="col-sm-2"></div>
+    <div class="col-sm-4 tpl221-p2-logo">
+            </div>
+    
+</div>
+
+
+</div>
+
+
+<div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 text-center pt30 pb20">
+                    <p>
+                    2025 - Copyright © 2018 - Diário de Cuiabá - Todos os direitos reservados
+                    <a href="http://www.trinix.com.br/" class="pull-right" target="_blank"><img src="/images/logo-trinix.png" alt="Logo Trinix Internet"></a>
+                </p>
+            </div>
+        </div>
+</div>
+
+
+</footer>
+
+
+        <!-- BOOTSTRAP JS -->
+        <script type="text/javascript" src="/lib/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+
+
+
+        <script type="text/javascript">
+            $(document).on('click', '.navbar-toggle', function() {
+                var menu = $('.menu-mobile');
+                if (menu.is(':visible')) {
+                    menu.slideUp();
+                } else {
+                    menu.slideDown();
+                }
+            });
+
+            $(document).ready(function() {
+                $('.search-form-toggle').on('click',function(){
+                    var target = $('.search-form');
+                    target.toggle();
+                    if (target.is(':visible')) {
+                        target.find('input').focus();
+                    }
+                });
+            });
+
+            // Esconder form de busca se clicar fora
+            $(document).on('click', function(e) {
+              if (!$(e.target).is('.search-container *')) {
+                $('.search-form').hide();
+              }
+            });
+        </script>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-133241721-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133241721-1');
+</script>
+
+
+        <script type="text/javascript">
+            $('#galeria-videos-direita').royalSlider('stopAutoPlay');
+            $('#main-carousel').royalSlider('stopAutoPlay');
+
+            document.addEventListener('DOMContentLoaded', function(){
+                $('#galeria-videos-direita').royalSlider('startAutoPlay');
+                $('#main-carousel').royalSlider('startAutoPlay');
+            });
+
+            $(document).ready(function() {
+                                
+
+            //     // header
+            //     getBanner(1,'bloco_banner_1');
+
+            //     // template9
+            //     getBanner(2,'bloco_banner_2');
+            //     getBanner(3,'bloco_banner_3');
+            //     getBanner(4,'bloco_banner_4');
+
+            //     // col-right
+            //     getBanner(5,'bloco_banner_5');
+            //     getBanner(6,'bloco_banner_6');
+            //     getBanner(7,'bloco_banner_7');
+            //     getBanner(8,'bloco_banner_8');
+            //     getBanner(10,'bloco_banner_10');
+            //     getBanner(11,'bloco_banner_11');
+            //     getBanner(12,'bloco_banner_12');
+            //     getBanner(13,'bloco_banner_13');
+            //     getBanner(14,'bloco_banner_14');
+            //     getBanner(15,'bloco_banner_15');
+            //     getBanner(16,'bloco_banner_16');
+            //     getBanner(17,'bloco_banner_17');
+
+             });
+         
+            // function getBanner(bloco, div_destino){
+            //     if(document.getElementById(div_destino) !== null){
+            //         $.ajax({
+            //             url: location.protocol + "//" + location.host + '/apis/banner.php?bloco_anuncio=' + bloco + '&date=' + $.now() ,
+            //             type:"GET",
+            //             cache: false,
+            //             success : function(data){
+            //                 $('#' + div_destino).html(data);
+            //                 console.log(bloco);
+            //             },
+            //             error : function(response) {
+            //                 console.log(response.responseText);
+            //             }
+            //         });
+            //     }
+            // }
+        </script>
+
+
+    
+
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'901d29e22a82df57',t:'MTczNjg1Mjg1OS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
+
+</body></html>

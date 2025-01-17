@@ -1,0 +1,965 @@
+<html lang="es" dir="ltr" class="no-js"><head>
+<link href="/Content/responsive/VOA/es/VOA-es.css?&amp;av=0.0.0.0&amp;cb=286" rel="stylesheet">
+<script src="https://tags.vozdeamerica.com/voa-pangea/prod/utag.sync.js"></script> <script type="text/javascript" src="https://www.youtube.com/iframe_api" async=""></script>
+<script type="text/javascript">
+//a general 'js' detection, must be on top level in <head>, due to CSS performance
+document.documentElement.className = "js";
+var cacheBuster = "286";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+var isLoggingEnabled = false;
+var isPreviewPage = false;
+var isLivePreviewPage = false;
+if (!isPreviewPage) {
+window.RFE = window.RFE || {};
+window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+const url = new URL(window.location.href);
+const params = new URLSearchParams(url.search);
+// Remove the 'nocache' parameter
+params.delete('nocache');
+// Update the URL without the 'nocache' parameter
+url.search = params.toString();
+window.history.replaceState(null, '', url.toString());
+} else {
+window.addEventListener('load', function() {
+const links = window.document.links;
+for (let i = 0; i < links.length; i++) {
+links[i].href = '#';
+links[i].target = '_self';
+}
+})
+}
+var pwaEnabled = false;
+var swCacheDisabled;
+</script>
+<meta charset="utf-8">
+<title>Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo</title>
+<meta name="description" content="El derrame ocurrió el 16 de septiembre y afectó a varias comunidades de la parte nororiental, en Loreto, Perú.">
+<meta name="keywords" content="América Latina, Ciencia y Salud, peru">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="fb:pages" content="128071033870721">
+<meta name="facebook-domain-verification" content="c7x0gnr5mrbmsk7wti5orqx338fnqm">
+<meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E">
+<link href="https://www.vozdeamerica.com/a/indigenas-peru-bloquean-rio-/6767705.html" rel="canonical">
+<meta name="apple-mobile-web-app-title" content="VOA">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//6767705.ltr">
+<meta content="Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo" property="og:title">
+<meta content="El derrame ocurrió el 16 de septiembre y afectó a varias comunidades de la parte nororiental, en Loreto, Perú." property="og:description">
+<meta content="article" property="og:type">
+<meta content="https://www.vozdeamerica.com/a/indigenas-peru-bloquean-rio-/6767705.html" property="og:url">
+<meta content="Voz de América" property="og:site_name">
+<meta content="https://www.facebook.com/LaVozdeAmerica" property="article:publisher">
+<meta content="https://gdb.voanews.com/013b0000-0aff-0242-4a91-08daa1a51892_w1200_r1.jpg" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="675" property="og:image:height">
+<meta content="388594471527400" property="fb:app_id">
+<meta content="Reuters" name="Author">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="@voanoticias" name="twitter:site">
+<meta content="https://gdb.voanews.com/013b0000-0aff-0242-4a91-08daa1a51892_w1200_r1.jpg" name="twitter:image">
+<meta content="El derrame ocurrió el 16 de septiembre y afectó a varias comunidades de la parte nororiental, en Loreto, Perú." name="twitter:description">
+<link rel="amphtml" href="https://www.vozdeamerica.com/amp/indigenas-peru-bloquean-rio-/6767705.html">
+<script type="application/ld+json">{"articleSection":"Ciencia y Salud","headline":"Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo","inLanguage":"es","keywords":"América Latina, Ciencia y Salud, peru","author":{"@type":"Person","url":"https://www.vozdeamerica.com/author/reuters/riv_i","description":"","image":{"@type":"ImageObject"},"name":"Reuters"},"datePublished":"2022-09-28 23:24:31Z","dateModified":"2022-09-28 23:24:31Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.vozdeamerica.com/Content/responsive/VOA/es/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.vozdeamerica.com","sameAs":["https://www.facebook.com/VozDeAmerica","https://twitter.com/VozdeAmerica","https://www.youtube.com/user/vozdeamerica","https://www.instagram.com/vozdeamerica"],"name":"Voz de América","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.vozdeamerica.com/a/indigenas-peru-bloquean-rio-/6767705.html","url":"https://www.vozdeamerica.com/a/indigenas-peru-bloquean-rio-/6767705.html","description":"El derrame ocurrió el 16 de septiembre y afectó a varias comunidades de la parte nororiental, en Loreto, Perú.","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/013b0000-0aff-0242-4a91-08daa1a51892_w1080_h608.jpg"},"name":"Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo"}</script>
+<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.0.0.0&amp;cb=286"></script>
+<script src="/Scripts/responsive/loader.b?v=5dcqjmjxQjH1Md-cJVJ0yH_4FLLxhHZ95FKJFs4Zflw1?&amp;av=0.0.0.0&amp;cb=286"></script>
+<link rel="icon" type="image/svg+xml" href="/Content/responsive/VOA/img/webApp/favicon.svg">
+<link rel="alternate icon" href="/Content/responsive/VOA/img/webApp/favicon.ico">
+<link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/VOA/img/webApp/ico-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/VOA/img/webApp/ico-72x72.png">
+<link rel="apple-touch-icon-precomposed" href="/Content/responsive/VOA/img/webApp/ico-57x57.png">
+<link rel="icon" sizes="192x192" href="/Content/responsive/VOA/img/webApp/ico-192x192.png">
+<link rel="icon" sizes="128x128" href="/Content/responsive/VOA/img/webApp/ico-128x128.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/Content/responsive/VOA/img/webApp/ico-144x144.png">
+<link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/">
+<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml">
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"155239",ustr:"cookiepresent",originlat:"0",clientrtt:"17",ghostip:"2.20.132.6",ipv6:true,pct:"10",clientip:"2804:ebc:909e:6200:43b4:8406:9557:927",requestid:"6407a355",region:"49585",protocol:"h2",blver:14,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"6407a355",ai:"216581",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
+<body class=" nav-no-loaded cc_theme pg-article print-lay-article js-category-to-nav nojs-images ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript" data-cookiecategory="analytics">
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
+}
+}
+</script>
+<!--Analytics tag js version start-->
+<script type="text/javascript" data-cookiecategory="analytics">
+var utag_data={entity:"VOA",cms_release:"8.36.0.0.286",language:"Spanish",language_service:"VOA Spanish",short_language_service:"SPA",property_id:"483",platform:"web",platform_short:"W",runs_js:"Yes",page_title:"Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo",page_type:"article",page_name:"Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://www.vozdeamerica.com/a/indigenas-peru-bloquean-rio-/6767705.html",domain:"www.vozdeamerica.com",pub_year:"2022",pub_month:"09",pub_day:"28",pub_hour:"23",pub_weekday:"Wednesday",byline:"Reuters",categories:"s_america-latina,s_noticias-salud-ciencia",tags:"peru",slug:"indigenas-peru-bloquean-rio-",section:"ciencia y salud",english_section:"s_noticias-salud-ciencia",article_uid:"6767705"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+if(window.top!== window.self&&utag_data.page_type==="snippet"){utag_data.page_type = 'iframe';}
+try{if(window.top!== window.self&&window.self.location.hostname===window.top.location.hostname){utag_data.platform = 'self-embed';utag_data.platform_short = 'se';}}catch(e){}
+(function(a,b,c,d){ a="https://tags.vozdeamerica.com/voa-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script>
+<!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute; border: none;" src="https://ssc.vozdeamerica.com/b/ss/bbgprod,bbgentityvoa/1/G.4--NS/1009341324?pageName=voa%3aspa%3aw%3aarticle%3aind%c3%adgenas%20de%20per%c3%ba%20bloquean%20r%c3%ado%20en%20amazonas%20tras%20derrame%20de%20petr%c3%b3leo&amp;c6=ind%c3%adgenas%20de%20per%c3%ba%20bloquean%20r%c3%ado%20en%20amazonas%20tras%20derrame%20de%20petr%c3%b3leo&amp;v36=8.36.0.0.286&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.vozdeamerica.com%2fa%2findigenas-peru-bloquean-rio-%2f6767705.html&amp;c1=D=g&amp;v1=D=g&amp;events=event1,event52&amp;c16=voa%20spanish&amp;v16=D=c16&amp;c5=s_noticias-salud-ciencia&amp;v5=D=c5&amp;ch=ciencia%20y%20salud&amp;c15=spanish&amp;v15=D=c15&amp;c4=article&amp;v4=D=c4&amp;c14=6767705&amp;v14=D=c14&amp;v20=no&amp;c17=web&amp;v17=D=c17&amp;mcorgid=518abc7455e462b97f000101%40adobeorg&amp;server=www.vozdeamerica.com&amp;pageType=D=c4&amp;ns=bbg&amp;v29=D=server&amp;v25=voa&amp;v30=483&amp;v105=D=User-Agent " alt="analytics" width="1" height="1"></noscript>
+<!-- End of Analytics tag management NoScript -->
+<!--*** Accessibility links - For ScreenReaders only ***-->
+<section>
+<div class="sr-only">
+<h2>Enlaces para accesibilidad</h2>
+<ul>
+<li><a href="#content" data-disable-smooth-scroll="1">Salte al contenido principal</a></li>
+<li><a href="#navigation" data-disable-smooth-scroll="1">Salte al navegador principal</a></li>
+<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Salte a búsqueda</a></li>
+</ul>
+</div>
+</section>
+<div dir="ltr">
+<div id="page">
+<aside>
+<div class="c-lightbox overlay-modal">
+<div class="c-lightbox__intro">
+<h2 class="c-lightbox__intro-title"></h2>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="Siguiente">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">Siguiente</span>
+</button>
+</div>
+<div class="c-lightbox__nav">
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="Cerrar">
+<span class="ico ico--rounded ico-close"></span>
+<span class="sr-only">Cerrar</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="Anterior">
+<span class="ico ico--rounded ico-chevron-backward"></span>
+<span class="sr-only">Anterior</span>
+</button>
+<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="Siguiente">
+<span class="ico ico--rounded ico-chevron-forward"></span>
+<span class="sr-only">Siguiente</span>
+</button>
+</div>
+<div class="c-lightbox__content-wrap">
+<figure class="c-lightbox__content">
+<span class="c-spinner c-spinner--lightbox">
+<img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait">
+</span>
+<div class="c-lightbox__img">
+<div class="thumb">
+<img src="" alt="">
+</div>
+</div>
+<figcaption>
+<div class="c-lightbox__info c-lightbox__info--foot">
+<span class="c-lightbox__counter"></span>
+<span class="caption c-lightbox__caption"></span>
+</div>
+</figcaption>
+</figure>
+</div>
+<div class="hidden">
+<div class="content-advisory__box content-advisory__box--lightbox">
+<span class="content-advisory__box-text">This image contains sensitive content which some people may find offensive or disturbing.</span>
+<button class="btn btn--transparent content-advisory__box-btn m-t-md" value="text" type="button">
+<span class="btn__text">
+Click to reveal
+</span>
+</button>
+</div>
+</div>
+</div>
+<div class="print-dialogue">
+<div class="container">
+<h3 class="print-dialogue__title section-head">Print Options:</h3>
+<div class="print-dialogue__opts">
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked">
+<label for="checkboxImages" class="form__label m-t-md">Images</label>
+</li>
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked">
+<label for="checkboxMultimedia" class="form__label m-t-md">Multimedia</label>
+</li>
+</ul>
+<ul class="print-dialogue__opt-group">
+<li class="form__group form__group--checkbox">
+<input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked">
+<label for="checkboxEmbedded" class="form__label m-t-md">Insertar contenido</label>
+</li>
+<li class="hidden">
+<input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox">
+<label for="checkboxComments" class="form__label m-t-md">Comments</label>
+</li>
+</ul>
+</div>
+<div class="print-dialogue__buttons">
+<button class="btn btn--secondary close-button" type="button" title="Cancelar">
+<span class="btn__text ">Cancelar</span>
+</button>
+<button class="btn btn-cust-print m-l-sm" type="button" title="Print">
+<span class="btn__text ">Print</span>
+</button>
+</div>
+</div>
+</div>
+<div class="ctc-message pos-fix">
+<div class="ctc-message__inner">Link has been copied to clipboard</div>
+</div>
+</aside>
+<div class="hdr-20 hdr-20--big">
+<div class="hdr-20__inner">
+<div class="hdr-20__max pos-rel">
+<div class="hdr-20__side hdr-20__side--primary d-flex">
+<input type="checkbox" id="main-menu-ctrl" class="hidden main-menu-switch">
+<label for="main-menu-ctrl" class="burger hdr-trigger pos-rel trans-trigger" data-trans-evt="click" data-trans-id="menu">
+<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close burger__ico burger__ico--close"></span>
+<span class="ico ico-menu hdr-trigger__ico hdr-trigger__ico--open burger__ico burger__ico--open"></span>
+</label>
+<div class="menu-pnl pos-fix trans-target" data-trans-id="menu">
+<div class="menu-pnl__inner">
+<nav class="main-nav menu-pnl__item menu-pnl__item--first">
+<ul class="main-nav__list accordeon" data-analytics-tales="false" data-promo-name="link" data-location-name="nav,secnav">
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2459" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2459">
+Elecciones EEUU 2024
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/elecciones-eeuu-2024" title="Elecciones EEUU" data-item-name="us-elections-2024">Elecciones EEUU</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/elecciones-en-eeuu--voto-dividido" title="Voto dividido" data-item-name="divide vote eeuu">Voto dividido</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2456" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2456">
+América del Norte
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/estados-unidos" title="EEUU" data-item-name="s_estados_unidos">EEUU</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7581" title="México" data-item-name="mexico-news">México</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-sobre-haiti" title="Haití" data-item-name="haiti">Haití</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2457" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2457">
+América Latina
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7687" title="Argentina" data-item-name="argentina">Argentina</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7580" title="Bolivia" data-item-name="bolivian-news">Bolivia</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7573" title="Colombia" data-item-name="colombian-news">Colombia</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7574" title="Chile" data-item-name="chile-news">Chile</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7575" title="Perú" data-item-name="peru-news">Perú</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-ecuador" title="Ecuador" data-item-name="ecuador">Ecuador</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-venezuela" title="Venezuela" data-item-name="venezuela-news">Venezuela</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7486" title="Brasil" data-item-name="brasil">Brasil</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/china-en-america-latina" title="China en América Latina" data-item-name="China in Latin America">China en América Latina</a>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2458" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2458">
+Centroamérica
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7578" title="Costa Rica" data-item-name="costa-rica-news">Costa Rica</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7577" title="El Salvador" data-item-name="el-salvador-news">El Salvador</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-guatemala" title="Guatemala" data-item-name="guatemala-news">Guatemala</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7576" title="Honduras" data-item-name="honduras-news">Honduras</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/nicaragua" title="Nicaragua" data-item-name="s_nicaragua-">Nicaragua</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-765" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-765">
+Otras secciones
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/noticias-de-inmigracion" title="Inmigración" data-item-name="immigration-news">Inmigración</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/libertad-de-prensa-" title="Libertad de Prensa">Libertad de Prensa</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/p/8479.html" title="VOA Verifica">VOA Verifica</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/mundo" title="Mundo" data-item-name="s_noticias-internacional">Mundo</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/economia" title="Economía" data-item-name="economia-finanzas">Economía</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/entretenimiento" title="Entretenimiento y Cultura" data-item-name="arte-entretenimiento">Entretenimiento y Cultura</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/tecnologia" title="Tecnología" data-item-name="s_tecnologia-ciencia">Tecnología</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/deportes" title="Deportes" data-item-name="noticias-deportes">Deportes</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/ciencia-y-salud" title="Ciencia y Salud" data-item-name="s_noticias-salud-ciencia">Ciencia y Salud</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/reportajes-especiales-de-la-voz-de-america" title="Especiales de la VOA" data-item-name="voa-specials-stories">Especiales de la VOA</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/Libertad-de-prensa" title="Libertad de prensa" data-item-name="freedom-press">Libertad de prensa</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/conflicto-ucrania-noticias" title="Ucrania" data-item-name="ukraine-news">Ucrania</a>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-789" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-789">
+Multimedia
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/videos-vozdeamerica" title="Videos" data-item-name="videos">Videos</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/galeria-de-fotos-vozdeamerica" title="Fotografía" data-item-name="s_voa-fotos">Fotografía</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/audios-vozdeamerica-" title="Audios" data-item-name="audios">Audios</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-2433" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-2433">
+Podcasts
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7900" title="Retro VOA-Conectando generaciones" data-item-name="retro-voa">Retro VOA-Conectando generaciones</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/conversando-con-voa-entrevistas-radio" title="Conversando con la Voz de América" data-item-name="p_conversando-con-la-voa">Conversando con la Voz de América</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/podcast-la-mochila-migrantes-nicaragua" title="Podcast La Mochila: Historia de migrantes" data-item-name="the-backpack-podcast">Podcast La Mochila: Historia de migrantes</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-1528" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1528">
+Programas TV
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/el-mundo-al-dia" title="El Mundo al día" data-item-name="p_tv-mundo-al-dia">El Mundo al día</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Foro-analisis-vozdeamerica" title="Foro Interamericano" data-item-name="p_tv-foro">Foro Interamericano</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/revista-vision-360" title="Visión 360">Visión 360</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/z/7162" title="Las Claves">Las Claves</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Panorama" title="Panorama" data-item-name="panorama">Panorama</a>
+</div>
+</li>
+<li class="main-nav__item accordeon__item">
+<input type="checkbox" id="menu-item-826" class="hidden main-nav__ctrl accordeon__control" checked="checked">
+<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-826">
+Radio
+<span class="ico ico-chevron-down main-nav__chev"></span>
+</label>
+<div class="main-nav__sub-list">
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/avance-informativo-radio" title="Avance informativo" data-item-name="p_radio-informativo-voasat">Avance informativo</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Audionoticias-radio" title="AudioNoticias" data-item-name="news-audio">AudioNoticias</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Buenos-dias-america-radio" title="Buenos Días América" data-item-name="p_radio-buenos-dias-america">Buenos Días América</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/7005" title="Estados Unidos al Día" data-item-name="usa-today">Estados Unidos al Día</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/4557" title="El mundo al día [Radio]" data-item-name="p_radio-mundo-al-dia">El mundo al día [Radio]</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Foro-analisis-radio" title="Foro [Radio]" data-item-name="p_foro-radio">Foro [Radio]</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/deportivo-internacional-radio" title="Deportivo Internacional" data-item-name="p_radio-deporte-internacional">Deportivo Internacional</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="https://www.vozdeamerica.com/z/6603" title="Nota económica">Nota económica</a>
+<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/entretenimiento-radio" title="Entretenimiento" data-item-name="p_entretenimiento">Entretenimiento</a>
+</div>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="https://direct.vozdeamerica.com" title="Direct" target="_blank" rel="noopener">Direct</a>
+</li>
+<li class="main-nav__item">
+<a class="main-nav__item-name main-nav__item-name--link" href="/serie-de-documentales-voz-de-america" title="Documentales de la VOA" data-item-name="Documental VOA">Documentales de la VOA</a>
+</li>
+</ul>
+</nav>
+<div class="menu-pnl__item">
+<a href="https://learningenglish.voanews.com/" class="menu-pnl__item-link" alt="Learning English">Learning English</a>
+</div>
+<div class="menu-pnl__item menu-pnl__item--social">
+<h5 class="menu-pnl__sub-head">Síganos</h5>
+<a href="https://www.facebook.com/VozDeAmerica" title="Síganos en Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-facebook" target="_blank" rel="noopener">
+<span class="ico ico-facebook-alt ico--rounded"></span>
+</a>
+<a href="https://twitter.com/VozdeAmerica" title="Síganos en Twitter" data-analytics-text="follow_on_twitter" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-twitter" target="_blank" rel="noopener">
+<span class="ico ico-twitter ico--rounded"></span>
+</a>
+<a href="https://www.youtube.com/user/vozdeamerica" title="Síganos en Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-youtube" target="_blank" rel="noopener">
+<span class="ico ico-youtube ico--rounded"></span>
+</a>
+<a href="https://www.instagram.com/vozdeamerica" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-instagram" target="_blank" rel="noopener">
+<span class="ico ico-instagram ico--rounded"></span>
+</a>
+</div>
+<div class="menu-pnl__item">
+<a href="/navigation/allsites" class="menu-pnl__item-link">
+<span class="ico ico-languages "></span>
+Idiomas
+</a>
+</div>
+</div>
+</div>
+<input type="checkbox" id="top-search-ctrl" class="hidden top-search-switch">
+<label for="top-search-ctrl" class="top-srch-trigger hdr-trigger">
+<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close top-srch-trigger__ico top-srch-trigger__ico--close"></span>
+<span class="ico ico-search hdr-trigger__ico hdr-trigger__ico--open top-srch-trigger__ico top-srch-trigger__ico--open"></span>
+</label>
+<div class="srch-top srch-top--in-header">
+<div class="container">
+<form action="/s" class="srch-top__form srch-top__form--in-header" id="form-topSearchHeader" method="get" role="search"><label for="txtHeaderSearch" class="sr-only">Búsqueda</label>
+<input type="text" id="txtHeaderSearch" name="k" placeholder="buscar en el texto... " accesskey="s" value="" class="srch-top__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }">
+<button title="Búsqueda" type="submit" class="btn btn--top-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
+<span class="ico ico-search"></span>
+</button></form>
+</div>
+</div>
+<a href="/" class="main-logo-link">
+<img src="/Content/responsive/VOA/es/img/logo-compact.svg" class="main-logo main-logo--comp" alt="site logo">
+<img src="/Content/responsive/VOA/es/img/logo.svg" class="main-logo main-logo--big" alt="site logo">
+</a>
+</div>
+<div class="hdr-20__side hdr-20__side--secondary d-flex">
+<a href="/programs/radio" title="Audio" class="hdr-20__secondary-item" data-item-name="audio">
+<span class="ico ico-audio hdr-20__secondary-icon"></span>
+</a>
+<a href="/programs/tv" title="Video" class="hdr-20__secondary-item" data-item-name="video">
+<span class="ico ico-video hdr-20__secondary-icon"></span>
+</a>
+<a class="hdr-20__secondary-item hdr-20__secondary-item--search" data-item-name="search">
+<span class="ico ico-search hdr-20__secondary-icon hdr-20__secondary-icon--search"></span>
+</a>
+<div class="hdr-20__secondary-item live-b-drop">
+<div class="live-b-drop__off">
+<a href="/live/audio/56" class="live-b-drop__link" title="Live" data-item-name="live">
+<span class="badge badge--live-btn badge--live">
+Live
+</span>
+</a>
+</div>
+<div class="live-b-drop__on hidden">
+<input type="checkbox" id="live-ctrl" class="hidden live-b-drop__switch">
+<label for="live-ctrl" class="live-b-drop__label pos-rel">
+<span class="badge badge--live badge--live-btn">
+Live
+</span>
+<span class="ico ico-close live-b-drop__label-ico live-b-drop__label-ico--close"></span>
+</label>
+<div class="live-b-drop__panel" id="targetLivePanelDiv"></div>
+</div>
+</div>
+<div class="srch-bottom">
+<form action="/s" class="srch-bottom__form d-flex" id="form-bottomSearch" method="get" role="search"><label for="txtSearch" class="sr-only">Búsqueda</label>
+<input type="search" id="txtSearch" name="k" placeholder="buscar en el texto... " accesskey="s" value="" class="srch-bottom__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtSearch')[0].value) }">
+<button title="Búsqueda" type="submit" class="btn btn--bottom-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtSearch')[0].value) ">
+<span class="ico ico-search"></span>
+</button></form>
+</div>
+</div>
+<img src="/Content/responsive/VOA/es/img/logo-print.gif" class="logo-print" alt="site logo">
+<img src="/Content/responsive/VOA/es/img/logo-print_color.png" class="logo-print logo-print--color" alt="site logo">
+</div>
+</div>
+</div>
+<script>
+var nav2In = document.querySelector('.hdr-20__inner');
+var nav2Sec = document.querySelector('.hdr-20__side--secondary')
+var secStyle = window.getComputedStyle(nav2Sec);
+if (nav2In
+&& window.pageYOffset < 150
+&& secStyle['position'] !== 'fixed'
+&& document.body.className.indexOf('pg-section') > -1) {
+nav2In.classList.add('hdr-20__inner--big')
+}
+</script>
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop">
+<div class="c-hlights__wrap container p-0">
+<div class="c-hlights__nav">
+<a role="button" href="#" title="Anterior">
+<span class="ico ico-chevron-backward m-0"></span>
+<span class="sr-only">Anterior</span>
+</a>
+<a role="button" href="#" title="Siguiente">
+<span class="ico ico-chevron-forward m-0"></span>
+<span class="sr-only">Siguiente</span>
+</a>
+</div>
+<input class="switcher-controller" id="more-less-1" type="checkbox">
+<span class="c-hlights__label">
+<span class="">Última hora</span>
+<span class="switcher-trigger">
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="Mostrar más">
+<span class="ico ico-chevron-down"></span>
+</label>
+<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="Mostrar menos">
+<span class="ico ico-chevron-up"></span>
+</label>
+</span>
+</span>
+<ul class="c-hlights__items switcher-target">
+</ul>
+</div>
+</div> <div id="content">
+<div class="container">
+<div class="hdr-container">
+<div class="row">
+<div class="col-category col-xs-12 col-md-2 pull-left"> <div class="category js-category">
+<a class="" href="/ciencia-y-salud">Ciencia y Salud</a> </div>
+</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="title pg-title">
+Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo
+</h1>
+</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details ">
+<div class="published">
+<span class="date">
+<time pubdate="pubdate" datetime="2022-09-28T19:24:31-05:00">
+septiembre 28, 2022
+</time>
+</span>
+</div>
+<div class="links">
+<ul class="links__list links__list--column">
+<li class="links__item">
+<a class="links__item-link" href="/author/reuters/riv_i" title="Reuters">Reuters</a>
+</li>
+</ul>
+</div>
+</div>
+</div><div class="col-lg-12 separator"> <div class="separator">
+<hr class="title-line">
+</div>
+</div><div class="col-multimedia col-xs-12 col-md-10 pull-right"> <div class="cover-media">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb thumb16_9">
+<img src="https://gdb.voanews.com/013b0000-0aff-0242-4a91-08daa1a51892_w250_r1_s.jpg" alt="Vista general del río Itacoai la selva amazónica cerca de la frontera con Perú, en Atalaia do Norte, estado de Amazonas, Brasil, foto tomada 10 de junio de 2022.">
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
+</div>
+<figcaption>
+<span class="caption">Vista general del río Itacoai la selva amazónica cerca de la frontera con Perú, en Atalaia do Norte, estado de Amazonas, Brasil, foto tomada 10 de junio de 2022.</span>
+</figcaption>
+</figure>
+</div>
+</div><div class="col-xs-12 col-md-2 pull-left article-share pos-rel"> <div class="share--box">
+<aside class="share flex-column js-share--apply-sticky js-share--expandable js-share--horizontal">
+<span class="label label--share">Compartir</span>
+<ul class="share__list">
+<li class="share__item">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.vozdeamerica.com%2fa%2findigenas-peru-bloquean-rio-%2f6767705.html" data-analytics-text="share_on_facebook" title="Comparta en Facebook" target="_blank" class="btn btn--rounded btn-facebook js-social-btn">
+<span class="ico ico--rounded ico-facebook ico--l"></span>
+</a>
+</li>
+<li class="share__item">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.vozdeamerica.com%2fa%2findigenas-peru-bloquean-rio-%2f6767705.html&amp;text=Ind%c3%adgenas+de+Per%c3%ba+bloquean+r%c3%ado+en+Amazonas+tras+derrame+de+petr%c3%b3leo" data-analytics-text="share_on_twitter" title="Comparta en Twitter" target="_blank" class="btn btn--rounded btn-twitter js-social-btn">
+<span class="ico ico--rounded ico-twitter ico--l"></span>
+</a>
+</li>
+<li class="share__item">
+<div class="ctc">
+<input type="text" class="ctc__input" readonly="readonly">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://www.vozdeamerica.com/a/indigenas-peru-bloquean-rio-/6767705.html" title="copy link">
+<span class="ico ico-content-copy ico--rounded ico--l"></span>
+</button>
+</div>
+</li>
+<li class="share__item">
+<a href="mailto:?body=https%3a%2f%2fwww.vozdeamerica.com%2fa%2findigenas-peru-bloquean-rio-%2f6767705.html&amp;subject=Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo" title="Envíelo a un amigo por email" class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--l"></span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="Alterne más opciones a compartir" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--l"></span>
+</a>
+</li>
+</ul>
+</aside>
+<div class="sticky-share-container" style="display:none">
+<div class="container">
+<a href="https://www.vozdeamerica.com" id="logo-sticky-share">&nbsp;</a>
+<div class="pg-title pg-title--sticky-share">
+Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo
+</div>
+<div class="sticked-nav-actions">
+<aside class="share share--sticky js-share--expandable">
+<span class="label label--share">share</span>
+<ul class="share__list">
+<li class="share__item share__item--horizontal">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.vozdeamerica.com%2fa%2findigenas-peru-bloquean-rio-%2f6767705.html" data-analytics-text="share_on_facebook" title="Comparta en Facebook" target="_blank" class="btn btn--rounded btn-facebook js-social-btn">
+<span class="ico ico--rounded ico-facebook ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--horizontal">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.vozdeamerica.com%2fa%2findigenas-peru-bloquean-rio-%2f6767705.html&amp;text=Ind%c3%adgenas+de+Per%c3%ba+bloquean+r%c3%ado+en+Amazonas+tras+derrame+de+petr%c3%b3leo" data-analytics-text="share_on_twitter" title="Comparta en Twitter" target="_blank" class="btn btn--rounded btn-twitter js-social-btn">
+<span class="ico ico--rounded ico-twitter ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<div class="ctc">
+<input type="text" class="ctc__input" readonly="readonly">
+<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="copy link" js-href="https://www.vozdeamerica.com/a/indigenas-peru-bloquean-rio-/6767705.html" title="copy link">
+<span class="ico ico-content-copy ico--rounded ico--s"></span>
+</button>
+</div>
+</li>
+<li class="share__item share__item--additional share__item--horizontal">
+<a href="mailto:?body=https%3a%2f%2fwww.vozdeamerica.com%2fa%2findigenas-peru-bloquean-rio-%2f6767705.html&amp;subject=Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo" title="Envíelo a un amigo por email" class="btn btn--rounded btn-email ">
+<span class="ico ico--rounded ico-email ico--s"></span>
+</a>
+</li>
+<li class="share__item share__item--sharing-more">
+<a title="Alterne más opciones a compartir" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
+<span class="ico ico--rounded ico-ellipsis ico--s"></span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+</div>
+</div>
+<div class="links">
+<p class="link-print visible-md visible-lg buttons p-0">
+<button class="btn btn--link btn-print p-t-0" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL+P)">
+<span class="ico ico-print"></span>
+<span class="btn__text">Print</span>
+</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="body-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
+<div class="intro intro--bold">
+<p>El derrame ocurrió el 16 de septiembre y afectó a varias comunidades de la parte nororiental, en Loreto, Perú.</p>
+</div>
+<div id="article-content" class="content-floated-wrap fb-quotable">
+<div class="wsw">
+<span class="dateline">LIMA —&nbsp;</span>
+<p data-qa-component="item-headline" title="Indígenas de Perú bloquean río en Amazonas tras derrame de petróleo">Grupos indígenas peruanos bloquearon el miércoles un gran río en la región amazónica del país en protesta por un reciente derrame de crudo de aproximadamente 2.500 barriles en la selva tropical más grande del mundo, dijo el Gobierno.</p>
+<p>El derrame ocurrió el 16 de septiembre y afectó a varias comunidades indígenas en la región nororiental de Loreto en Perú. Si bien el Ministerio del Medio Ambiente del país estimó el derrame en 2.500 barriles, la petrolera estatal Petroperú PETROBC1.LM dijo que aún no tenía una estimación.</p>
+<p>Petroperú informó en un comunicado que el derrame había sido el resultado de un daño "intencional" causado a un oleoducto operado por la empresa. El oleoducto transporta crudo desde el Amazonas hasta la costa desértica de Perú para ser refinado.</p>
+<p>El oleoducto ha sido escenario de varios derrames de petróleo en los últimos años.</p>
+<p>El Gobierno dijo en un comunicado que las comunidades bloquearon el río Marañón, un afluente clave del Amazonas, lo que impedía a los funcionarios tomar muestras de agua y distribuir medicinas a las comunidades indígenas afectadas.</p>
+<p><em>Reuters</em> no pudo comunicarse con un representante de la comunidad para obtener comentarios.</p><div data-owner-ct="Article" data-inline="False">
+<div class="media-block also-read">
+<a class="img-wrap img-wrap--size-3 also-read__img" href="/a/en-la-amazonia-el-punto-de-inflexion-se-acerca-mas-rapido-de-lo-esperado/6474723.html" title="En la Amazonia, el punto de inflexión se acerca más rápido de lo esperado">
+<span class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/093a0000-0a00-0242-4c44-08da0098953e_w100_r1.jpeg" alt="Vista aérea del río Putumayo en la selva amazónica de la zona rural de Puerto Asís, departamento de Putumayo, Colombia, el 6 de noviembre de 2021, en el marco del pacto &quot;Amazonia Viva&quot; por la defensa de la selva amazónica colombiana.">
+</noscript>
+<img data-src="https://gdb.voanews.com/093a0000-0a00-0242-4c44-08da0098953e_w100_r1.jpeg" alt="Vista aérea del río Putumayo en la selva amazónica de la zona rural de Puerto Asís, departamento de Putumayo, Colombia, el 6 de noviembre de 2021, en el marco del pacto &quot;Amazonia Viva&quot; por la defensa de la selva amazónica colombiana.">
+</span>
+</a> <div class="media-block__content also-read__body also-read__body--h">
+<a href="/a/en-la-amazonia-el-punto-de-inflexion-se-acerca-mas-rapido-de-lo-esperado/6474723.html" title="En la Amazonia, el punto de inflexión se acerca más rápido de lo esperado">
+<span class="also-read__text--label">
+También lea
+</span>
+<h4 class="media-block__title media-block__title--size-3 also-read__text p-0">
+En la Amazonia, el punto de inflexión se acerca más rápido de lo esperado
+</h4>
+</a>
+</div>
+</div>
+</div>
+<p>La Amazonía es la selva tropical más grande del mundo y los científicos consideran que su preservación es clave para evitar un cambio climático catastrófico.</p>
+<p>Perú tiene la segunda porción más grande de la Amazonía después de Brasil.</p>
+<p>Si bien Perú es un productor muy pequeño de petróleo, generando solo unos 40.000 barriles por día, sus campos petroleros se concentran en la Amazonía.</p>
+<p>El incidente es al menos el segundo gran derrame de petróleo que se produce en el país sudamericano este año, después de que la española Repsol REP.MC derramara más de 10.000 barriles en el Pacífico en enero desde un buque tanque que estaba descargando en una refinería de la compañía cerca de la capital de Perú, Lima.</p>
+<p>El derrame de Petroperú es el undécimo que ocurre en lo que va del año en el Amazonas, dijo Petroperú, pero el primero en fluir directamente a un río de la región.</p>
+<p>El Gobierno del presidente de izquierda, Pedro Castillo, ha dicho que quiere que Petroperú eleve la producción, especialmente en su inactivo Lote 192, el campo de petróleo más grande del país, ubicado en las profundidades del Amazonas.</p>
+<p><strong><em>¡Conéctate con la Voz de América! Suscríbete a nuestro canal de</em></strong><a class="wsw__a" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa0NnRmlwS0luajhoQjlQT05lLXNVWXdadTNCUXxBQ3Jtc0ttLW1XeUJ2X3dMc0dPQTFWdWtoNkFjNFdwd2tzQUJTY2FpcW9NMEtCUnZVSHpJVGM0UUxMZzJrY1YyclNBM1pqTEhDM0tfdFE0SVExZkxVUnhUZ2ExZFFYTHphdzJIb1ZsbXJ0N0UwTWhLQ0YyaENSQQ&amp;q=http%3A%2F%2Fbit.ly%2F2XpJNZj" target="_blank" title="https://www.youtube.com/redirect?event=video_description&amp;redir_token=quffluhqa0nnrmlws0luajhoqjlqt05llxnvwxdadtncuxxbq3jtc0ttlw1xeuj2x3dmc0dpqtfwdwtonkfjnfdwd2tzqujty2fpcw9nmetcunzvshpjvgm0uuxmzzjry1yyclnbm1pqtehdm0tfdfe0svexzkxvunhuz2exzffythphdzjib1zsbx"><strong><em> YouTube</em></strong></a><strong><em> y activa las notificaciones, o bien, síguenos en las redes sociales: </em></strong><a class="wsw__a" href="https://www.facebook.com/VozdeAmerica/" target="_blank" title="https://www.facebook.com/vozdeamerica/"><strong><em>Facebook</em></strong></a><strong><em>, </em></strong><a class="wsw__a" href="https://twitter.com/VozdeAmerica" target="_blank" title="https://twitter.com/vozdeamerica"><strong><em>Twitter</em></strong></a><strong><em> e </em></strong><a class="wsw__a" href="https://www.instagram.com/vozdeamerica/" target="_blank" title="https://www.instagram.com/vozdeamerica/"><strong><em>Instagram</em></strong></a><strong><em>. </em></strong></p>
+<ul>
+</ul>
+</div>
+<ul>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="media-block-wrap">
+<h2 class="section-head">Relacionados</h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/gobierno-colombia-10-grupos-armados-cese-al-fuego-unilateral-/6767156.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Más de 10 grupos armados en Colombia declaran cese al fuego unilateral ">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/013b0000-0aff-0242-2739-08daa1716100_w100_r1.jpeg" alt="Más de 10 grupos armados en Colombia declaran cese al fuego unilateral ">
+</noscript>
+<img data-src="https://gdb.voanews.com/013b0000-0aff-0242-2739-08daa1716100_w33_r1.jpeg" src="" alt="Más de 10 grupos armados en Colombia declaran cese al fuego unilateral " class="">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/gobierno-colombia-10-grupos-armados-cese-al-fuego-unilateral-/6767156.html">
+<h4 class="media-block__title media-block__title--size-4" title="Más de 10 grupos armados en Colombia declaran cese al fuego unilateral ">
+Más de 10 grupos armados en Colombia declaran cese al fuego unilateral
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/mayores-desafios-apertura-frontera-colombo-venezolana-/6766846.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="¿Cuáles son algunos de los mayores desafíos tras la apertura de la frontera colombo-venezolana?">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/09860000-0aff-0242-c111-08da9fd1a654_w100_r1.jpeg" alt="¿Cuáles son algunos de los mayores desafíos tras la apertura de la frontera colombo-venezolana?">
+</noscript>
+<img data-src="https://gdb.voanews.com/09860000-0aff-0242-c111-08da9fd1a654_w33_r1.jpeg" src="" alt="¿Cuáles son algunos de los mayores desafíos tras la apertura de la frontera colombo-venezolana?" class="">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/mayores-desafios-apertura-frontera-colombo-venezolana-/6766846.html">
+<h4 class="media-block__title media-block__title--size-4" title="¿Cuáles son algunos de los mayores desafíos tras la apertura de la frontera colombo-venezolana?">
+¿Cuáles son algunos de los mayores desafíos tras la apertura de la frontera colombo-venezolana?
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/reunion-presidente-gustavo-petro-lider-alvaro-uribe-colombia-/6767415.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="¿De qué hablaron el presidente de izquierda Gustavo Petro y el líder de la derecha Álvaro Uribe en Colombia?">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/80470000-c0a8-0242-25a2-08daa1827626_w100_r1.jpeg" alt="¿De qué hablaron el presidente de izquierda Gustavo Petro y el líder de la derecha Álvaro Uribe en Colombia?">
+</noscript>
+<img data-src="https://gdb.voanews.com/80470000-c0a8-0242-25a2-08daa1827626_w33_r1.jpeg" src="" alt="¿De qué hablaron el presidente de izquierda Gustavo Petro y el líder de la derecha Álvaro Uribe en Colombia?" class="">
+</div>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/reunion-presidente-gustavo-petro-lider-alvaro-uribe-colombia-/6767415.html">
+<h4 class="media-block__title media-block__title--size-4" title="¿De qué hablaron el presidente de izquierda Gustavo Petro y el líder de la derecha Álvaro Uribe en Colombia?">
+¿De qué hablaron el presidente de izquierda Gustavo Petro y el líder de la derecha Álvaro Uribe en Colombia?
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="slide-in-wg suspended" data-cookie-id="wgt-50690-0">
+<div class="wg-hiding-area">
+<span class="ico ico-arrow-right"></span>
+<div class="media-block-wrap">
+<h2 class="section-head">Recommended</h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mb-grid">
+<div class="media-block ">
+<a href="/a/los-colores-unidos-de-benetton/7935897.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="Los Colores Unidos de Benetton">
+<div class="thumb thumb16_9">
+<noscript class="nojs-img">
+<img src="https://gdb.voanews.com/80d8fcf7-aee4-452f-be16-b8db9d5eeccf_w100_r1.jpg" alt="(FILES) Italian Photographer Oliviero Toscani holds his new 2013 calendar dedicated to tattooed people as he poses with his models on January 10, 2013 in Florence. The calendar was designed for the Consortium Vera Pelle by Toscani, known for his advertisi">
+</noscript>
+<img data-src="https://gdb.voanews.com/80d8fcf7-aee4-452f-be16-b8db9d5eeccf_w33_r1.jpg" src="" alt="(FILES) Italian Photographer Oliviero Toscani holds his new 2013 calendar dedicated to tattooed people as he poses with his models on January 10, 2013 in Florence. The calendar was designed for the Consortium Vera Pelle by Toscani, known for his advertisi" class="">
+</div>
+<span class="ico ico-audio ico--media-type"></span>
+</a>
+<div class="media-block__content media-block__content--h">
+<a href="/a/los-colores-unidos-de-benetton/7935897.html">
+<h4 class="media-block__title media-block__title--size-4" title="Los Colores Unidos de Benetton">
+Los Colores Unidos de Benetton
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer role="contentinfo">
+<div id="foot" class="foot">
+<div class="container">
+<div class="foot-nav collapsed" id="foot-nav">
+<div class="menu">
+<ul class="items">
+<li class="socials block-socials">
+<span class="handler" id="socials-handler">
+Síganos
+</span>
+<div class="inner">
+<ul class="subitems follow">
+<li>
+<a href="https://www.facebook.com/VozDeAmerica" title="Síganos en Facebook" data-analytics-text="follow_on_facebook" class="btn btn--rounded js-social-btn btn-facebook" target="_blank" rel="noopener">
+<span class="ico ico-facebook-alt ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/VozdeAmerica" title="Síganos en Twitter" data-analytics-text="follow_on_twitter" class="btn btn--rounded js-social-btn btn-twitter" target="_blank" rel="noopener">
+<span class="ico ico-twitter ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/vozdeamerica" title="Síganos en Youtube" data-analytics-text="follow_on_youtube" class="btn btn--rounded js-social-btn btn-youtube" target="_blank" rel="noopener">
+<span class="ico ico-youtube ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/rssfeeds" title="RSS" data-analytics-text="follow_on_rss" class="btn btn--rounded js-social-btn btn-rss">
+<span class="ico ico-rss ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/podcasts" title="Podcast" data-analytics-text="follow_on_podcast" class="btn btn--rounded js-social-btn btn-podcast">
+<span class="ico ico-podcast ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="/subscribe.html" title="Suscríbete" data-analytics-text="follow_on_subscribe" class="btn btn--rounded js-social-btn btn-email">
+<span class="ico ico-email ico--rounded"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/vozdeamerica" title="Follow us on Instagram" data-analytics-text="follow_on_instagram" class="btn btn--rounded js-social-btn btn-instagram" target="_blank" rel="noopener">
+<span class="ico ico-instagram ico--rounded"></span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Contacto
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/6119.html" title="Para afiliarse a la Voz de América">Para afiliarse a la Voz de América</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/3847.html" title="Contacto">Contacto</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Sobre nosotros
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/3858.html" title="¿Quiénes somos?">¿Quiénes somos?</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/3855.html" title="Política de privacidad">Política de privacidad</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-secondary collapsed collapsible item">
+<span class="handler">
+Accesibilidad
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/7284.html" title="Acceso a la información">Acceso a la información</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.vozdeamerica.com/a/que-es-voa-verifica-/6843776.html" title="¿Qué es VOA Verifica?">¿Qué es VOA Verifica?</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-secondary collapsed collapsible item">
+<span class="handler">
+Editoriales
+<span title="close tab" class="ico ico-chevron-up"></span>
+<span title="open tab" class="ico ico-chevron-down"></span>
+<span title="add" class="ico ico-plus"></span>
+<span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="https://editorials.voa.gov/z/3305" title="Punto de Vista" target="_blank" rel="noopener">Punto de Vista</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot__item foot__item--copyrights">
+<p class="copyright"></p>
+</div>
+</div>
+</div>
+</footer> </div>
+</div>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer=""></script>
+<script>
+if (!isPreviewPage) {
+window.OneSignalDeferred = window.OneSignalDeferred || [];
+OneSignalDeferred.push(function(OneSignal) {
+OneSignal.init({
+appId: "1be25820-df59-438b-b578-65ed0d8759b2",
+});
+});
+}
+</script> <script defer="" src="/Scripts/responsive/serviceWorkerInstall.js?cb=286"></script>
+<script type="text/javascript">
+// opera mini - disable ico font
+if (navigator.userAgent.match(/Opera Mini/i)) {
+document.getElementsByTagName("body")[0].className += " can-not-ff";
+}
+// mobile browsers test
+if (typeof RFE !== 'undefined' && RFE.isMobile) {
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
+}
+</script>
+<script src="/conf.js?x=286" type="text/javascript"></script>
+<div class="responsive-indicator">
+<div class="visible-xs-block">XS</div>
+<div class="visible-sm-block">SM</div>
+<div class="visible-md-block">MD</div>
+<div class="visible-lg-block">LG</div>
+</div>
+<script type="text/javascript">
+var bar_data = {
+"apiId": "6767705",
+"apiType": "1",
+"isEmbedded": "0",
+"culture": "es",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.vozdeamerica.com"
+};
+</script>
+<div id="scriptLoaderTarget" style="display:none;contain:strict;"></div>
+
+</body></html>

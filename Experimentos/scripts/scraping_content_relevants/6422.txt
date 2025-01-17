@@ -1,0 +1,1148 @@
+<html lang="es-UY"><head>
+	<meta name="dailymotion-domain-verification" content="dm94vcflity6alj58">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<script src="https://kit.fontawesome.com/a508f8d2d4.js" crossorigin="anonymous"></script>
+
+	<!-- ALL CSS -->
+	<style type="text/css">/*!
+ * # Semantic UI 2.3.1 - Loader
+ * http://github.com/semantic-org/semantic-ui/
+ *
+ *
+ * Released under the MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */.ui.loader{display:none;position:absolute;top:50%;left:50%;margin:0;text-align:center;z-index:1000;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%)}.ui.loader:before{position:absolute;content:'';top:0;left:50%;width:100%;height:100%;border-radius:500rem;border:.2em solid rgba(0,0,0,.1)}.ui.loader:after{position:absolute;content:'';top:0;left:50%;width:100%;height:100%;-webkit-animation:loader .6s linear;animation:loader .6s linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;border-radius:500rem;border-color:#767676 transparent transparent;border-style:solid;border-width:.2em;-webkit-box-shadow:0 0 0 1px transparent;box-shadow:0 0 0 1px transparent}@-webkit-keyframes loader{from{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes loader{from{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.ui.mini.loader:after,.ui.mini.loader:before{width:1rem;height:1rem;margin:0 0 0 -.5rem}.ui.tiny.loader:after,.ui.tiny.loader:before{width:1.14285714rem;height:1.14285714rem;margin:0 0 0 -.57142857rem}.ui.small.loader:after,.ui.small.loader:before{width:1.71428571rem;height:1.71428571rem;margin:0 0 0 -.85714286rem}.ui.loader:after,.ui.loader:before{width:2.28571429rem;height:2.28571429rem;margin:0 0 0 -1.14285714rem}.ui.large.loader:after,.ui.large.loader:before{width:3.42857143rem;height:3.42857143rem;margin:0 0 0 -1.71428571rem}.ui.big.loader:after,.ui.big.loader:before{width:3.71428571rem;height:3.71428571rem;margin:0 0 0 -1.85714286rem}.ui.huge.loader:after,.ui.huge.loader:before{width:4.14285714rem;height:4.14285714rem;margin:0 0 0 -2.07142857rem}.ui.massive.loader:after,.ui.massive.loader:before{width:4.57142857rem;height:4.57142857rem;margin:0 0 0 -2.28571429rem}.ui.dimmer .loader{display:block}.ui.dimmer .ui.loader{color:rgba(255,255,255,.9)}.ui.dimmer .ui.loader:before{border-color:rgba(255,255,255,.15)}.ui.dimmer .ui.loader:after{border-color:#fff transparent transparent}.ui.inverted.dimmer .ui.loader{color:rgba(0,0,0,.87)}.ui.inverted.dimmer .ui.loader:before{border-color:rgba(0,0,0,.1)}.ui.inverted.dimmer .ui.loader:after{border-color:#767676 transparent transparent}.ui.text.loader{width:auto!important;height:auto!important;text-align:center;font-style:normal}.ui.indeterminate.loader:after{animation-direction:reverse;-webkit-animation-duration:1.2s;animation-duration:1.2s}.ui.loader.active,.ui.loader.visible{display:block}.ui.loader.disabled,.ui.loader.hidden{display:none}.ui.inverted.dimmer .ui.mini.loader,.ui.mini.loader{width:1rem;height:1rem;font-size:.78571429em}.ui.inverted.dimmer .ui.tiny.loader,.ui.tiny.loader{width:1.14285714rem;height:1.14285714rem;font-size:.85714286em}.ui.inverted.dimmer .ui.small.loader,.ui.small.loader{width:1.71428571rem;height:1.71428571rem;font-size:.92857143em}.ui.inverted.dimmer .ui.loader,.ui.loader{width:2.28571429rem;height:2.28571429rem;font-size:1em}.ui.inverted.dimmer .ui.large.loader,.ui.large.loader{width:3.42857143rem;height:3.42857143rem;font-size:1.14285714em}.ui.big.loader,.ui.inverted.dimmer .ui.big.loader{width:3.71428571rem;height:3.71428571rem;font-size:1.28571429em}.ui.huge.loader,.ui.inverted.dimmer .ui.huge.loader{width:4.14285714rem;height:4.14285714rem;font-size:1.42857143em}.ui.inverted.dimmer .ui.massive.loader,.ui.massive.loader{width:4.57142857rem;height:4.57142857rem;font-size:1.71428571em}.ui.mini.text.loader{min-width:1rem;padding-top:1.78571429rem}.ui.tiny.text.loader{min-width:1.14285714rem;padding-top:1.92857143rem}.ui.small.text.loader{min-width:1.71428571rem;padding-top:2.5rem}.ui.text.loader{min-width:2.28571429rem;padding-top:3.07142857rem}.ui.large.text.loader{min-width:3.42857143rem;padding-top:4.21428571rem}.ui.big.text.loader{min-width:3.71428571rem;padding-top:4.5rem}.ui.huge.text.loader{min-width:4.14285714rem;padding-top:4.92857143rem}.ui.massive.text.loader{min-width:4.57142857rem;padding-top:5.35714286rem}.ui.inverted.loader{color:rgba(255,255,255,.9)}.ui.inverted.loader:before{border-color:rgba(255,255,255,.15)}.ui.inverted.loader:after{border-top-color:#fff}.ui.inline.loader{position:relative;vertical-align:middle;margin:0;left:0;top:0;-webkit-transform:none;transform:none}.ui.inline.loader.active,.ui.inline.loader.visible{display:inline-block}.ui.centered.inline.loader.active,.ui.centered.inline.loader.visible{display:block;margin-left:auto;margin-right:auto}</style>		
+	
+	<!-- TRACKING -->
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-33927964-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  setTimeout("gtag('send','event','NoBounce','Over 30 seconds')", 30000);
+  gtag('config', 'UA-33927964-1');
+
+
+
+</script>
+
+
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v24.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad - Teledoce.com</title>
+	<meta name="description" content="Actualmente hay 15 casos activos y ninguno de ellos graves, aunque se les hace seguimiento.">
+	<link rel="canonical" href="https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/#article","isPartOf":{"@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/"},"author":"","headline":"Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad","datePublished":"2023-10-30T09:54:56+00:00","dateModified":"2023-10-30T15:17:54+00:00","mainEntityOfPage":{"@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/"},"wordCount":305,"publisher":{"@id":"https://www.teledoce.com/#organization"},"image":{"@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/#primaryimage"},"thumbnailUrl":"https://www.teledoce.com/wp-content/uploads/2023/10/etchepare.png","articleSection":["Nacionales"],"inLanguage":"es-UY"},{"@type":"WebPage","@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/","url":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/","name":"Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad - Teledoce.com","isPartOf":{"@id":"https://www.teledoce.com/#website"},"primaryImageOfPage":{"@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/#primaryimage"},"image":{"@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/#primaryimage"},"thumbnailUrl":"https://www.teledoce.com/wp-content/uploads/2023/10/etchepare.png","datePublished":"2023-10-30T09:54:56+00:00","dateModified":"2023-10-30T15:17:54+00:00","description":"Actualmente hay 15 casos activos y ninguno de ellos graves, aunque se les hace seguimiento.","breadcrumb":{"@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/#breadcrumb"},"inLanguage":"es-UY","potentialAction":[{"@type":"ReadAction","target":["https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/"]}]},{"@type":"ImageObject","inLanguage":"es-UY","@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/#primaryimage","url":"https://www.teledoce.com/wp-content/uploads/2023/10/etchepare.png","contentUrl":"https://www.teledoce.com/wp-content/uploads/2023/10/etchepare.png","width":1024,"height":620},{"@type":"BreadcrumbList","@id":"https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https://www.teledoce.com/"},{"@type":"ListItem","position":2,"name":"Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad"}]},{"@type":"WebSite","@id":"https://www.teledoce.com/#website","url":"https://www.teledoce.com/","name":"Teledoce.com","description":"Somos La Tele, la emoción de estar juntos. Noticias, programas y más contenidos de Teledoce","publisher":{"@id":"https://www.teledoce.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.teledoce.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es-UY"},{"@type":"Organization","@id":"https://www.teledoce.com/#organization","name":"Teledoce.com","url":"https://www.teledoce.com/","logo":{"@type":"ImageObject","inLanguage":"es-UY","@id":"https://www.teledoce.com/#/schema/logo/image/","url":"https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png","contentUrl":"https://www.teledoce.com/wp-content/uploads/2019/09/logo-teledoce-2019_azul.png","width":2219,"height":2219,"caption":"Teledoce.com"},"image":{"@id":"https://www.teledoce.com/#/schema/logo/image/"},"sameAs":["http://www.facebook.com/teledoce","https://x.com/teledoce","https://www.instagram.com/teledoce","https://www.linkedin.com/company/3828929/","https://www.youtube.com/user/Teledocepuntocom","https://es.wikipedia.org/wiki/Teledoce"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Teledoce.com » Feed" href="https://www.teledoce.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Teledoce.com » Feed de los comentarios" href="https://www.teledoce.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Teledoce.com » Comentario Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad del feed" href="https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/feed/">
+<meta property="og:title" content="Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad"><meta property="og:description" content="Actualmente hay 15 casos activos y ninguno de ellos graves, aunque se les hace seguimiento."><meta property="og:type" content="website"><meta property="og:url" content="https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/"><meta property="og:site_name" content="Teledoce.com"><meta property="og:image" content="https://www.teledoce.com/wp-content/uploads/2023/10/etchepare-768x465.png"><meta property="og:image:width" content="1000"><meta property="og:image:height" content="563">
+<meta name="twitter:site" content="Teledoce.com"><meta name="twitter:title" content="Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad"><meta name="twitter:description" content="Actualmente hay 15 casos activos y ninguno de ellos graves, aunque se les hace seguimiento."><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://www.teledoce.com/wp-content/uploads/2023/10/etchepare.png"><script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.teledoce.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" id="teledoce-widget-destacados-css-css" href="https://www.teledoce.com/wp-content/plugins/teledoce/css/widget-destacados.css?1736844952" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="teledoce-18-style-css" href="https://www.teledoce.com/wp-content/themes/teledoce-23/style.css?ver=6.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="teledoce-css-css" href="https://www.teledoce.com/wp-content/themes/teledoce-23/assets/teledoce.css?1736844952" type="text/css" media="all">
+<script type="text/javascript" src="https://www.teledoce.com/wp-content/themes/teledoce-23/js/jquery-2.2.4.min.js" id="jquery-js"></script>
+<script type="text/javascript" id="teledoce-18-js-js-extra">
+/* <![CDATA[ */
+var teledoce_ajax_object = {"ajax_url":"https:\/\/www.teledoce.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.teledoce.com/wp-content/themes/teledoce-23/js/teledoce.js?ver=1736844952" id="teledoce-18-js-js"></script>
+<script type="text/javascript" src="https://www.teledoce.com/wp-content/themes/teledoce-23/js/dm.js?ver=1736844952" id="teledoce-dm-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.teledoce.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.teledoce.com/wp-json/wp/v2/posts/620359"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.teledoce.com/xmlrpc.php?rsd">
+<link rel="shortlink" href="https://www.teledoce.com/?p=620359">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.teledoce.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teledoce.com%2Ftelemundo%2Fnacionales%2Fbrote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.teledoce.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.teledoce.com%2Ftelemundo%2Fnacionales%2Fbrote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad%2F&amp;format=xml">
+<link rel="pingback" href="https://www.teledoce.com/xmlrpc.php">      <meta name="onesignal" content="wordpress-plugin">
+            <script>
+
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+      OneSignalDeferred.push(function(OneSignal) {
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['serviceWorkerParam'] = { scope: '/' };
+oneSignal_options['serviceWorkerPath'] = 'OneSignalSDKWorker.js.php';
+
+        OneSignal.Notifications.setDefaultUrl("https://www.teledoce.com");
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '3c5b4a19-4464-4797-95a4-fe26ea2e7627';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Gracias por registrarte";
+oneSignal_options['welcomeNotification']['message'] = "Gracias por registrarte";
+oneSignal_options['path'] = "https://www.teledoce.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.0f4ef0fc-d020-4184-9066-253532c318fc";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'small';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Suscribirse a notificaciones';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Estas suscripto a las notificaciones';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Bloqueaste nuestras notificaciones';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Gracias por suscribirte';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Te volviste a suscribir';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'No vas a recibir nuevas notificaciones';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Elegir notificaciones';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'Suscribirse';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'Suscribirse';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Desbloquear notificaciones';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Seguir estas instrucciones para permitir las notificaciones en tu navegador';
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['offset'] = {};
+          /* OneSignal: Using custom SDK initialization. */
+                });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.Notifications.requestPermission(); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="amphtml" href="https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/?amp"><link rel="icon" href="https://www.teledoce.com/wp-content/uploads/2019/05/apple-icon-180x180-150x150.png" sizes="32x32">
+<link rel="icon" href="https://www.teledoce.com/wp-content/uploads/2019/05/apple-icon-180x180.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.teledoce.com/wp-content/uploads/2019/05/apple-icon-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.teledoce.com/wp-content/uploads/2019/05/apple-icon-180x180.png">
+
+
+	<style type="text/css">
+		
+	.custom-logo-link-tm{ float: left; left: 0; margin: 15px 0; }
+	/*.custom-logo-link-tm img{ height: 60px; width: auto; }*/
+
+	@media screen and (max-width: 1024px) {
+		.custom-logo-link-tm{ float: none; left: 0; margin:0;}
+  	.custom-logo-link-tm img{ float: none; left: 0; margin:5px 2px; height: auto; width: 127px;         margin-top: 20px; margin-left: 10px;}
+
+}
+
+
+	</style>
+
+
+	<script async="" custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-BJL92R703P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BJL92R703P');
+</script>
+
+<!-- Start GPT Tag -->
+<script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script async="" src="//excellence-prebid.sfo2.cdn.digitaloceanspaces.com/prebid.js"></script>
+<script>
+            var desktopSizes = [
+                [970, 250],
+                [970, 90],
+                [728, 90]
+            ];
+            var tabletSizes = [
+                [728, 90],
+                [468, 60]
+            ];
+            var phoneSizes = [
+                [320, 100],
+                [320, 50],
+                [300, 100],
+                [300, 50]
+            ];
+            var allSizes = [
+                [970, 250],
+                [970, 90],
+                [728, 90],
+                [468, 60],
+                [320, 100],
+                [320, 50],
+                [300, 100],
+                [300, 50]
+            ];
+            var PREBID_TIMEOUT = 1000;
+            var FAILSAFE_TIMEOUT = 3000;
+
+
+            var adUnits = [
+                {
+                    code: '/88576267/Notas',
+                    mediaTypes: {
+                        banner: {
+                            sizes: allSizes
+                        }
+                    },
+                    bids: [
+                        {
+                            bidder: 'appnexus',
+                            params: {
+                                placementId: '18660291'
+                            }
+                        },
+                        {
+                            bidder: 'eplanning',
+                            params: {
+                                ci: '8637d'
+                            }
+                        },
+                        {
+                                bidder: 'smartadserver',
+                                params: {
+                                        domain: 'https://prg.smartadserver.com',
+                                          siteId: '557151',
+                                          pageId: '1694664',
+                                          formatId: '114815'
+                                }
+                        },
+                        {
+                            bidder: 'unruly',
+                            params: {
+                                siteId:  '271718'
+                            }
+                            },
+                        {
+                                     bidder: 'rubicon',
+                                params: {
+                                        accountId: "24080",
+                                            siteId: "509060",
+                                            zoneId: "3039432"
+                                }
+                        },
+                        {
+                                    bidder: 'sovrn',
+                                    params: {
+                                        tagid: '1077038'
+                                    }
+                        },
+                        {
+                            bidder: 'adyoulike',
+                            params: {
+                                placement: '10bfcbc75d174d7080ff6fde1fd5c255'
+                            }
+                        },
+                        {
+                            bidder: 'sharethrough',
+                            params: {
+                                pkey: 'kLNG1sU69FTM5grGqMl9wH3c'
+                            }
+                        }
+                    ]
+                },
+                {
+                    code: '/88576267/Notas/hb1',
+                    mediaTypes: {
+                        banner: {
+                            sizes: allSizes
+                        }
+                    },
+                    bids: [
+                        {
+                            bidder: 'appnexus',
+                            params: {
+                                placementId: '18660291'
+                            }
+                        },
+                        {
+                            bidder: 'eplanning',
+                            params: {
+                                ci: '8637d'
+                            }
+                        },
+                        {
+                                bidder: 'smartadserver',
+                                params: {
+                                        domain: 'https://prg.smartadserver.com',
+                                          siteId: '557151',
+                                          pageId: '1694664',
+                                          formatId: '114815'
+                                }
+                        },
+                        {
+                            bidder: 'unruly',
+                            params: {
+                                siteId:  '271718'
+                            }
+                            },
+                        {
+                                     bidder: 'rubicon',
+                                params: {
+                                        accountId: "24080",
+                                            siteId: "509060",
+                                            zoneId: "3039432"
+                                }
+                        },
+                        {
+                                    bidder: 'sovrn',
+                                    params: {
+                                        tagid: '1077038'
+                                    }
+                        },
+                        {
+                            bidder: 'adyoulike',
+                            params: {
+                                placement: '10bfcbc75d174d7080ff6fde1fd5c255'
+                            }
+                        },
+                        {
+                            bidder: 'sharethrough',
+                            params: {
+                                pkey: 'kLNG1sU69FTM5grGqMl9wH3c'
+                            }
+                        }
+                    ]
+                },
+                {
+                    code: '/88576267/Notas/hb2',
+                    mediaTypes: {
+                        banner: {
+                            sizes: [[300, 600], [300, 300], [300, 250], [160, 600]]
+                        }
+                    },
+                    bids: [
+                        {
+                            bidder: 'appnexus',
+                            params: {
+                                placementId: '18660291'
+                            }
+                        },
+                        {
+                            bidder: 'unruly',
+                            params: {
+                                siteId:  '271718'
+                            }
+                            },
+                        {
+                                bidder: 'smartadserver',
+                                params: {
+                                        domain: 'https://prg.smartadserver.com',
+                                          siteId: '557151',
+                                          pageId: '1694664',
+                                          formatId: '56808'
+                                }
+                        },
+                        {
+                                     bidder: 'rubicon',
+                                params: {
+                                        accountId: "24080",
+                                            siteId: "509060",
+                                            zoneId: "3039432"
+                                }
+                        },
+                        {
+                                    bidder: 'sovrn',
+                                    params: {
+                                        tagid: '691574'
+                                    }
+                        },
+                        {
+                            bidder: 'adyoulike',
+                            params: {
+                                placement: '10bfcbc75d174d7080ff6fde1fd5c255'
+                            }
+                        },
+                        {
+                            bidder: 'eplanning',
+                            params: {
+                                ci: '8637d'
+                            }
+                        },
+                        {
+                            bidder: 'sharethrough',
+                            params: {
+                                pkey: 'Y6NJxkg559MXzvMJR0JB8vpE'
+                            }
+                        }
+                    ]
+                },
+                {
+                    code: '/88576267/Notas/hb3',
+                    mediaTypes: {
+                        banner: {
+                            sizes: [[336, 280], [300, 250], [250, 250], [200, 200]]
+                        }
+                    },
+                    bids: [
+                        {
+                            bidder: 'appnexus',
+                            params: {
+                                placementId: '18660291'
+                            }
+                        },
+                        {
+                            bidder: 'unruly',
+                            params: {
+                                siteId:  '271718'
+                            }
+                            },
+                        {
+                                     bidder: 'rubicon',
+                                params: {
+                                        accountId: "24080",
+                                            siteId: "509060",
+                                            zoneId: "3039432"
+                                }
+                        },
+                        {
+                                bidder: 'smartadserver',
+                                params: {
+                                        domain: 'https://prg.smartadserver.com',
+                                          siteId: '557151',
+                                          pageId: '1694664',
+                                          formatId: '114814'
+                                }
+                        },
+                        {
+                                    bidder: 'sovrn',
+                                    params: {
+                                        tagid: '1077037'
+                                    }
+                        },
+                        {
+                            bidder: 'adyoulike',
+                            params: {
+                                placement: '10bfcbc75d174d7080ff6fde1fd5c255'
+                            }
+                        },
+                        {
+                            bidder: 'eplanning',
+                            params: {
+                                ci: '8637d'
+                            }
+                        },
+                        {
+                            bidder: 'sharethrough',
+                            params: {
+                                pkey: 'kLNG1sU69FTM5grGqMl9wH3c'
+                            }
+                        }
+                    ]
+                }
+            ];
+
+
+            var pbjs = pbjs || {};
+            pbjs.que = pbjs.que || [];
+
+
+</script>
+
+
+<script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+            googletag.cmd.push(function() {
+                googletag.pubads().disableInitialLoad();
+            });
+
+
+            pbjs.que.push(function() {
+                pbjs.addAdUnits(adUnits);
+                pbjs.setConfig({
+                    sizeConfig: [{
+                        'mediaQuery': '(min-width: 1025px)',
+                        'sizesSupported': desktopSizes,
+                        'labels': ['desktop']
+                    }, {
+                        'mediaQuery': '(min-width: 768px) and (max-width: 1024px)',
+                        'sizesSupported': tabletSizes,
+                        'labels': ['tablet']
+                    }, {
+                        'mediaQuery': '(max-width: 767px)',
+                        'sizesSupported': phoneSizes,
+                        'labels': ['phone']
+                    }]
+                });
+                pbjs.setConfig({
+                        priceGranularity: 'high'
+                });
+                pbjs.setConfig({
+                        "schain": {
+                        "validation": "strict",
+                        "config": {
+                        "ver":"1.0",
+                        "complete": 1,
+                        "nodes": [{
+                                "asi":"excellenceadvertising.com",
+                                "sid":"22862430995",
+                                "hp":1
+                                }
+                        ]}
+                }
+                });
+                pbjs.requestBids({
+                    bidsBackHandler: sendAdserverRequest,
+                    timeout: PREBID_TIMEOUT
+                });
+            });
+
+
+            function sendAdserverRequest() {
+                if (pbjs.adserverRequestSent) return;
+                pbjs.adserverRequestSent = true;
+                googletag.cmd.push(function() {
+                    pbjs.que.push(function() {
+                        pbjs.setTargetingForGPTAsync();
+                        googletag.pubads().refresh();
+                    });
+                });
+            }
+            
+            // in case PBJS doesn't load
+            setTimeout(function() {
+                sendAdserverRequest();
+            }, FAILSAFE_TIMEOUT);
+
+
+</script>
+
+
+<script>
+    googletag.cmd.push(function() {
+    var REFRESH_KEY = 'refresh';
+    var REFRESH_VALUE = 'true';
+    var mapping1 = googletag.sizeMapping()
+            .addSize([1024, 768], [[970, 250], [970, 90], [728, 90], 'fluid'])
+            .addSize([0, 0], [[320, 100], [320, 50], [300, 100], [300, 50], 'fluid'])
+            .build();
+    googletag.defineSlot('/88576267/Notas', [[970, 250], [970, 90], [728, 90], 'fluid'], 'div-gpt-ad-7560445-1')
+             .defineSizeMapping(mapping1)
+              .setTargeting(REFRESH_KEY, REFRESH_VALUE)
+             .setTargeting('test', 'event')
+             .setTargeting('p', ['970x250a'])
+             .addService(googletag.pubads());
+    googletag.defineSlot('/88576267/Notas', [[970, 250], [970, 90], [728, 90], 'fluid'], 'div-gpt-ad-7560445-6')
+              .defineSizeMapping(mapping1)
+              .setTargeting(REFRESH_KEY, REFRESH_VALUE)
+             .setTargeting('test', 'event')
+              .setTargeting('p', ['970x250b'])
+             .addService(googletag.pubads());
+    googletag.defineSlot('/88576267/Notas', [[300, 600], [300, 250], [160, 600], 'fluid'], 'div-gpt-ad-7560445-2')
+             .setTargeting('p', ['300x600a'])
+              .setTargeting(REFRESH_KEY, REFRESH_VALUE)
+             .setTargeting('test', 'event')
+             .addService(googletag.pubads());
+    googletag.defineSlot('/88576267/Notas', [[336, 280], [300, 250], [250, 250], 'fluid'], 'div-gpt-ad-7560445-3')
+             .setTargeting('p', ['336x280a'])
+              .setTargeting(REFRESH_KEY, REFRESH_VALUE)
+             .setTargeting('test', 'event')
+             .addService(googletag.pubads());
+    googletag.defineSlot('/88576267/Notas', [1, 1], 'div-gpt-ad-7560445-4')
+             .setTargeting('p', ['1x1a'])
+             .addService(googletag.pubads());
+    googletag.defineSlot('/88576267/Notas', [1, 1], 'div-gpt-ad-7560445-5')
+             .setTargeting('p', ['1x1b'])
+             .addService(googletag.pubads());
+
+
+    var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 30;
+           
+    anchorSlot = googletag.defineOutOfPageSlot('/88576267/Notas', googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR);
+
+
+    if (anchorSlot) {anchorSlot.addService(googletag.pubads());
+          googletag.pubads().set('page_url', 'https://teledoce.com/');
+    }
+
+
+    googletag.pubads().addEventListener('impressionViewable', function(event) {
+            var slot = event.slot;
+            if (slot.getTargeting(REFRESH_KEY).indexOf(REFRESH_VALUE) > -1) {
+                      setTimeout(function() {
+                googletag.pubads().refresh([slot]);
+                      }, SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);
+            }
+    });
+
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().setCentering(true);
+        googletag.enableServices();
+});
+</script>
+<!-- End GPT Tag -->
+
+</head>
+
+
+<body id="body" class="post-template-default single single-post postid-620359 single-format-standard wp-custom-logo loading telemundo-post">
+
+		
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+
+
+
+	<header id="masthead" class="site-header">
+
+		<div id="desktop-header" class="--stacked solid">
+
+			<div class="desktop-header-container">
+
+
+		<a href="https://www.teledoce.com/telemundo" class="custom-logo-link-tm" rel="home" itemprop="url"><img width="188" height="74" src="https://www.teledoce.com/wp-content/uploads/2024/08/logo-tm-24.png" alt="Teledoce.com" itemprop="logo"></a>
+			
+				
+			
+
+
+
+			
+		<!-- weather icon -->
+		
+<div id="weather-icon">
+
+
+  </div>			<div class="search">
+
+
+				<form action="/">
+
+					<input type="text" name="s" placeholder="Buscar en Telemundo" autocomplete="off">
+
+					<a class="search__trigger" href="#"><span class="svgIcon svgIcon--search svgIcon--25px u-top0 u-baseColor--iconLight" style="-webkit-text-fill-color:  white;color:  white;"><svg class="svgIcon-use" width="50" height="50" viewBox="0 0 25 25" style="fill: white;"><path d="M20.067 18.933l-4.157-4.157a6 6 0 1 0-.884.884l4.157 4.157a.624.624 0 1 0 .884-.884zM6.5 11c0-2.62 2.13-4.75 4.75-4.75S16 8.38 16 11s-2.13 4.75-4.75 4.75S6.5 13.62 6.5 11z"></path></svg></span></a>
+					
+				</form>
+				
+
+
+			</div>
+
+
+
+			<!-- <a class="header__login" href="https://www.teledoce.com/mitele">Iniciar sesión</a> -->
+
+		<!-- <a class="header__hi-user" href="https://www.teledoce.com/mitele">Hola, </a> -->
+
+			<a href="javascript:;" class="hamburger">
+
+				<span></span>
+				<span></span>
+				<span></span>
+				
+			</a>
+
+			</div>
+
+		</div>
+
+
+		<div class="desktop-nav">
+			
+			<ul>
+				<li><a href="https://www.teledoce.com/">Inicio</a></li>
+				<li><a href="https://www.teledoce.com/telemundo">Telemundo</a></li>
+				<li><a href="https://www.teledoce.com/programas">Programas</a></li>
+				<li><a href="https://www.teledoce.com/programacion">Programación</a></li>
+				<li><a href="https://www.teledoce.com/comercial">Espacio Comercial</a></li>
+			</ul>
+
+			<div class="__weather">
+					
+			</div>
+
+			<div class="desktop-nav__social">
+
+				<a target="_blank" href="https://www.facebook.com/teledoce"><i class="icon-facebook-1"></i></a>
+				<a target="_blank" href="https://twitter.com/teledoce"><i class="icon-twitter"></i></a>
+				<a target="_blank" href="https://www.instagram.com/teledoce"><i class="icon-instagram"></i></a>
+				
+			</div>
+
+			<div class="desktop-nav__contact-info">
+				Teléfono: 22083555 | Dirección: Enriqueta Compte y Riqué 1276
+			</div>
+			
+
+		</div>
+
+
+		<div id="mobile-header" class="stacked solid">
+			
+			
+			
+					<a href="https://www.teledoce.com/telemundo" class="custom-logo-link-tm" rel="home" itemprop="url"><img width="188" height="74" src="https://www.teledoce.com/wp-content/uploads/2024/08/logo-tm-24.png" alt="Teledoce.com" itemprop="logo"></a>
+						
+							
+			
+
+			
+			
+			<!-- <a class="mobile-header__user__icon" href="https://www.teledoce.com/mitele">
+				<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve"><g>	<g>		<path d="M437.02,330.98c-27.883-27.882-61.071-48.523-97.281-61.018C378.521,243.251,404,198.548,404,148			C404,66.393,337.607,0,256,0S108,66.393,108,148c0,50.548,25.479,95.251,64.262,121.962			c-36.21,12.495-69.398,33.136-97.281,61.018C26.629,379.333,0,443.62,0,512h40c0-119.103,96.897-216,216-216s216,96.897,216,216			h40C512,443.62,485.371,379.333,437.02,330.98z M256,256c-59.551,0-108-48.448-108-108S196.449,40,256,40			c59.551,0,108,48.448,108,108S315.551,256,256,256z"/>	</g></g></svg>
+			</a> -->
+
+			<!-- <a class="toggle mobile-menu-bars" href="#"><i class="fas fa-bars"></i></a> -->
+
+			<a href="javascript:;" class="hamburger">
+
+				<span></span>
+				<span></span>
+				<span></span>
+				
+			</a>
+
+
+			<ul class="nav">
+				<li class="search">
+				<div class="weather-icon-wrapper"><!-- weather icon -->
+<div id="weather-icon">
+
+
+  </div></div>
+				<div><form action="/"><input type="text" name="s" autocomplete="off"><a class="trigger-search"><span class="svgIcon svgIcon--search svgIcon--25px u-top0 u-baseColor--iconLight" style="-webkit-text-fill-color:  white;color:  white;"><svg class="svgIcon-use" width="50" height="50" viewBox="0 0 25 25" style="fill: white;"><path d="M20.067 18.933l-4.157-4.157a6 6 0 1 0-.884.884l4.157 4.157a.624.624 0 1 0 .884-.884zM6.5 11c0-2.62 2.13-4.75 4.75-4.75S16 8.38 16 11s-2.13 4.75-4.75 4.75S6.5 13.62 6.5 11z"></path></svg></span></a></form></div>
+			</li>
+				<!-- <li>
+					<a href="https://www.teledoce.com/mitele" class="nav__mi-tele">
+						<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M437.02,330.98c-27.883-27.882-61.071-48.523-97.281-61.018C378.521,243.251,404,198.548,404,148
+			C404,66.393,337.607,0,256,0S108,66.393,108,148c0,50.548,25.479,95.251,64.262,121.962
+			c-36.21,12.495-69.398,33.136-97.281,61.018C26.629,379.333,0,443.62,0,512h40c0-119.103,96.897-216,216-216s216,96.897,216,216
+			h40C512,443.62,485.371,379.333,437.02,330.98z M256,256c-59.551,0-108-48.448-108-108S196.449,40,256,40
+			c59.551,0,108,48.448,108,108S315.551,256,256,256z"></path>
+	</g>
+</g>
+</svg>
+
+
+						Mi Tele</a>
+				</li> -->
+				<li><a href="https://www.teledoce.com/">Inicio</a></li>
+				<li><a href="https://www.teledoce.com/mitele">Mi Tele</a></li>
+				<li><a href="https://www.teledoce.com/telemundo">Telemundo</a></li>
+				<li><a href="https://www.teledoce.com/programas">Programas</a></li>
+				<li><a href="https://www.teledoce.com/programacion">Programación</a></li>
+				<li><a href="https://www.teledoce.com/comercial">Espacio Comercial</a></li>
+
+
+				<li class="mobile-header__social">
+					<a href="https://www.facebook.com/Teledoce"><i class="icon-facebook-1"></i></a>
+					<a href="https://twitter.com/Teledoce"><i class="icon-twitter"></i></a>
+					<a href="https://instagram.com/Teledoce"><i class="icon-instagram"></i></a>
+				</li>
+
+				<li class="mobile-header__contact-info">
+					Teléfono: 22083555 | Dirección: Enriqueta Compte y Riqué 1276
+				</li>
+
+			</ul>
+
+			
+
+		</div>
+
+
+
+		
+<!-- USER LOGIN FORM -->
+<div id="mi-tele-login" style="display:none;"><div id="mi-tele-login-container"><!-- <a class="logo" href="https://www.teledoce.com/" title="Teledoce.com" rel="home" style="background-image:url(https://www.teledoce.com/wp-content/uploads/2016/03/logo-latele-2016-2.png);"></a> -->
+
+<br clear="all">
+
+<a class="mi-tele-login__close" href="#">×</a>
+
+<div class="pl16"><div></div></div>
+
+<form class="login" method="post" action="https://www.teledoce.com/mi-tele/login/">
+
+	<h2>Iniciá sesión en Mi Tele</h2>
+
+	<input type="hidden" name="action" value="login">
+
+	<input placeholder="Email" type="text" name="email" autocomplete="off">
+
+	<input type="password" placeholder="Contraseña" name="password" autocomplete="off">
+
+	
+	
+
+	<div class="errors"></div>
+
+	
+
+	<input class="submit2" type="submit" value="INGRESAR">
+
+	<a class="link" href="https://www.teledoce.com/mi-tele/registro">Si no estás registrado hacé click aquí</a><br>
+	<a class="reset-link" href="https://www.teledoce.com/mi-tele/cambiar-contrasena/">¿Olvidaste tu contraseña?</a>
+
+	<div class="submit">
+		
+		
+		<!-- <a href="#back">volver</a> -->
+	</div>
+
+</form>
+
+
+</div></div>
+
+		<!-- ### HEADER PATH IS: telemundo --><!-- DID NOT FIND HEADER: /nas/content/live/teledoce/wp-content/themes/teledoce-23/images/programas/cabezal_telemundo.jpg -->
+		
+
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+
+<nav class="telemundo-nav --snap  --higher"><a class="__trigger --mobile" href="#" onclick="javascript:telemundoNavToggle(this); return false;">SECCIONES<i class="icon-down-open"></i></a><a class="on" href="/categoria/telemundo/nacionales">nacionales</a><a href="/categoria/telemundo/sociedad">sociedad</a><a href="/categoria/telemundo/policiales">policiales</a><a href="/categoria/telemundo/deportes">deportes</a><a href="/categoria/telemundo/internacionales">internacionales</a><a href="/categoria/telemundo/empresariales">empresariales</a><a href="/categoria/telemundo/economia">economía</a><a href="/categoria/telemundo/cultura-y-espectaculos">cultura y espectáculos</a><a href="/categoria/telemundo/ciencia-y-tecnologia">ciencia y tecnología</a></nav>
+	
+
+
+
+
+	<div id="content-inner">
+
+
+
+
+		
+
+
+
+		
+
+
+
+
+
+<style type="text/css">
+	
+
+.geo-blocked{
+	border: 2px dashed #000;
+	background: white;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+    'Raleway', font-family: sans-serif;
+    font-size: 30px;
+}
+
+.geo-blocked svg{
+	display: block;
+	margin: auto;
+}
+
+</style>
+
+<div class="post-header">
+
+
+<!-- /88576267/Notas 970x250a -->
+<div id="div-gpt-ad-7560445-1">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-7560445-1'); });
+</script>
+</div>
+
+
+
+
+	<h1>Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad</h1>
+
+
+
+	<div class="main-image-mobile --snap">
+		
+<a href="#" style="position:relative; display:block;" onclick="javascript:videoClick(this, &quot;&quot;); return false;" data-video-id="" class="image-link content-video"><img style="width:100%; display:block;" src="https://www.teledoce.com/wp-content/uploads/2023/10/etchepare.png"><div data-video-id="" class="play-video-icon"></div></a>
+	</div>
+
+
+
+	<div class="main-image ">
+
+<a href="#" style="position:relative; display:block;" onclick="javascript:videoClick(this, &quot;&quot;); return false;" data-video-id="" class="image-link content-video"><img style="width:100%; display:block;" src="https://www.teledoce.com/wp-content/uploads/2023/10/etchepare.png"><div data-video-id="" class="play-video-icon"></div></a>
+	</div>
+
+</div>
+
+
+<aside id="secondary" class="widget-area">
+
+
+
+	
+<br clear="all">
+
+
+
+	<ul class="share">
+
+
+
+		<li class="social"><a class="facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.teledoce.com/?p=620359"><i class="icon-facebook-1"></i></a></li>
+		<li class="social"><a class="twitter" target="_blank" href="https://twitter.com/share?url=https://www.teledoce.com/?p=620359&amp;related=&amp;hashtags=&amp;text=Brote+de+gastroenteritis+en+Colonia+Etchepare%3A+investigan+muerte+de+tres+personas%3B+81+pacientes+de+los+444+internados+cursaron+la+enfermedad"><i class="fa-brands fa-x-twitter"></i></a></li>
+		<!-- <li class="social"><a target="_blank" href="https://www.instagram.com/teledocecom" class=""><i class="fad fa-instagram"></i></a></li> -->
+	</ul>
+
+
+<!-- /88576267/Notas 300x600a -->
+<div id="div-gpt-ad-7560445-2">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-7560445-2'); });
+</script>
+</div>
+
+
+
+	<section id="sow-editor-2" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<!-- NO CONTENT --></div>
+</div></section>
+
+
+
+
+
+
+
+<!-- /88576267/Notas 336x280a -->
+<div id="div-gpt-ad-7560445-3">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-7560445-3'); });
+</script>
+</div>
+
+
+
+
+
+</aside><!-- #secondary -->
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		
+<article id="post-620359" class="post-620359 post type-post status-publish format-standard has-post-thumbnail hentry category-nacionales">
+	
+
+	<header class="entry-header">
+				<div class="entry-meta">
+			<span class="posted-on"><time class="entry-date published" datetime="2023-10-30T06:54:56-03:00">30/10/2023, 06:54</time><time class="updated" datetime="2023-10-30T12:17:54-03:00">30/10/2023</time></span>
+					</div><!-- .entry-meta -->
+
+
+
+
+		
+
+	</header><!-- .entry-header -->
+
+
+
+	<div class="entry-content">
+
+
+
+		<!-- House of Pubs -->
+		<div id="RTK_aLq5"></div>
+		<!--  -->
+
+
+
+<p class="excerpt">Actualmente hay 15 casos activos y ninguno de ellos graves, aunque se les hace seguimiento.</p>
+			
+
+<p><span style="font-weight: 400;">La Administración de los Servicios de Salud del Estado (ASSE) investiga las causas de las tres personas fallecidas en la Colonia Etchepare, un centro de internación de pacientes psiquiátricos en Canelones.</span></p><!-- /88576267/Notas 1x1b Inread--><div id="div-gpt-ad-7560445-5"><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-7560445-5'); });</script></div><p><span style="font-weight: 400;">Se analiza si tiene relación con el brote de gastroenteritis aguda que ya afectó a más de 80 pacientes.</span></p><p><span style="font-weight: 400;">El brote de diarrea que provocó 41 pacientes con gastroenteritis aguda y que ya ha afectado a 81 personas es analizado por un equipo interdisciplinario de ASSE.</span></p><p><span style="font-weight: 400;">Uno de los aspectos que llamó más la atención es que se trata de pacientes jóvenes, por lo que no se esperaría su fallecimiento por este tipo de enfermedad.</span></p><p><span style="font-weight: 400;">“Se está analizando si hay relación o no en el contexto de brote de estos fallecidos. Se tiene que saber cuáles son los elementos clínicos que llevaron al fallecimiento”, afirmó Mario Torales, adjunto a la presidencia de ASSE.</span></p><p><span style="font-weight: 400;">Actualmente hay 15 casos activos y ninguno de ellos graves, aunque se les hace seguimiento.</span></p><h2><strong>Investigación administrativa y el alcance del episodio</strong></h2><p>Tras conocerse el fin de semana esta situación, desde ASSE emitieron este lunes un comunicado en el que indicaron que se encuentra en curso una investigación administrativa para abordar las causas de lo sucedido y sus consecuencias.</p><p>En ese sentido, además, se remarca que los pacientes que fallecieron presentaba otras patologías y que para determinar si sus muertes estuvieron o no vinculadas al brote de gastroenteritis sus casos fueron derivados a la Comisión de Seguridad del Paciente.</p><p>Sobre el alcance de lo sucedido en el centro de salud, desde ASSE señalaron que el brote llegó a alcanzar a 81 personas de las 444 que residen en el lugar.</p>
+
+
+				
+				
+
+
+
+
+	</div><!-- .entry-content -->
+
+
+
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-620359 -->
+
+
+
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+
+
+	<br clear="all">
+
+
+
+
+		<!-- /88576267/Notas 970x250b -->
+		<div id="div-gpt-ad-7560445-6">
+		<script>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-7560445-6'); });
+		</script>
+		</div>
+
+
+	
+	<script type="text/javascript">
+		
+		jQuery(document).ready(
+			function(){
+				// Responsive iframe videos height correction
+				correctVideoIframeHeight();
+
+
+				jQuery('.gallery').bxSlider({
+					auto: true,
+					wrapperClass: 'teledoce-gallery bx-wrapper'
+				});
+
+			}
+		);
+		
+	</script>
+
+
+
+
+
+	</div></div><!-- #content -->
+
+
+	<div class="sticky-footer">
+
+
+		<ul class="buttons">
+			<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.teledoce.com/?p=620359"><i class="icon-facebook-1"></i></a></li>
+			<li><a href="https://twitter.com/share?url=https://www.teledoce.com/?p=620359&amp;related=&amp;hashtags=&amp;text=Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad"><i class="fa-brands fa-x-twitter"></i></a></li>
+			<li><a href="whatsapp://send?text=Brote de gastroenteritis en Colonia Etchepare: investigan muerte de tres personas; 81 pacientes de los 444 internados cursaron la enfermedad: https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/" data-href="https://www.teledoce.com/telemundo/nacionales/brote-de-gastroenteritis-en-colonia-etchepare-investigan-muerte-de-tres-personas-81-pacientes-de-los-444-internados-cursaron-la-enfermedad/" data-action="share/whatsapp/share"><i class="icon-whatsapp"></i></a></li>
+			<li><a id="backtotop" href="#"><i class="icon-up-open"></i></a></li>
+		</ul>
+		
+	</div>
+
+	<footer id="colophon" class="site-footer">
+
+		<ul class="links">
+			<li><a href="/informacion">Información</a></li>
+			<li><a href="/codigo-de-etica-periodistica">Código de Ética Periodística</a></li>
+			<li><a href="/comercial">Espacio Comercial</a></li>
+			<li><a href="/contacto">Contacto</a></li>
+		</ul>
+
+		<div class="footer__social">
+			<a href="https://www.facebook.com/Teledoce"><i class="icon-facebook-1"></i></a>
+			<a href="https://twitter.com/Teledoce"><i class="fa-brands fa-x-twitter"></i></a>
+			<a href="https://instagram.com/Teledoce"><i class="icon-instagram"></i></a>
+		</div>
+
+		<div class="site-info">
+
+			<div class="site-info__contact-info">Teléfono: 22083555 | Dirección: Enriqueta Compte y Riqué 1276</div>
+
+			<span>Copyright © Teledoce.com</span>
+		</div><!-- .site-info -->
+
+
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+
+<link rel="stylesheet" id="bxslider-css" href="https://www.teledoce.com/wp-content/themes/teledoce-23/inc/bxslider/jquery.bxslider.css" type="text/css" media="all">
+<script type="text/javascript" src="https://www.teledoce.com/wp-content/themes/teledoce-23/js/navigation.js?ver=20151215" id="teledoce-18-navigation-js"></script>
+<script type="text/javascript" src="https://www.teledoce.com/wp-content/themes/teledoce-23/js/skip-link-focus-fix.js?ver=20151215" id="teledoce-18-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js?ver=1.0.0" id="remote_sdk-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://www.teledoce.com/wp-content/themes/teledoce-23/inc/bxslider/jquery.bxslider.min.js?ver=6.6.1" id="bxslider-js"></script>
+
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '803164359846248'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=803164359846248&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+<script>
+  window.OneSignal = window.OneSignal || [];
+  window.OneSignal.push(function() {
+    OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js";
+    OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js";
+    OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+    delete window._oneSignalInitOptions.path
+    window.OneSignal.init(window._oneSignalInitOptions);
+  });
+</script>
+
+
+
+
+
+
+</body></html>

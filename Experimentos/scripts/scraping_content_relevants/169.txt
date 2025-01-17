@@ -1,0 +1,731 @@
+<html lang="es"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vigilancia epidemiológica en zona sur ante presencia de monos araguatos – Diario La Nación</title>
+<meta name="robots" content="max-image-preview:large">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="dns-prefetch" href="//cdn.tailwindcss.com">
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="preconnect" href="//i0.wp.com">
+<link rel="preconnect" href="//c0.wp.com">
+<link rel="alternate" type="application/rss+xml" title="Diario La Nación » Feed" href="https://lanacionweb.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Diario La Nación » Feed de los comentarios" href="https://lanacionweb.com/comments/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lanacionweb.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><link rel="stylesheet" id="bricks-advanced-themer-css" href="https://lanacionweb.com/wp-content/plugins/bricks-advanced-themer/assets/css/bricks-advanced-themer.css?ver=1708274393" media="all">
+<style id="bricks-advanced-themer-inline-css">
+:root,.brxc-light-colors{}:root{}
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://c0.wp.com/c/6.7.1/wp-includes/css/dist/block-library/style.min.css" media="all">
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="bricks-frontend-css" href="https://lanacionweb.com/wp-content/themes/bricks/assets/css/frontend-light.min.css?ver=1710509052" media="all">
+<link rel="stylesheet" id="bricks-child-css" href="https://lanacionweb.com/wp-content/themes/bricks-child/style.css?ver=1702227868" media="all">
+<link rel="stylesheet" id="bricks-global-custom-css-css" href="https://lanacionweb.com/fotoedicion/bricks/css/global-custom-css.min.css?ver=1727798281" media="all">
+<link rel="stylesheet" id="bricks-post-241411-css" href="https://lanacionweb.com/fotoedicion/bricks/css/post-241411.min.css?ver=1727794348" media="all">
+<link rel="stylesheet" id="bricks-post-241625-css" href="https://lanacionweb.com/fotoedicion/bricks/css/post-241625.min.css?ver=1736422974" media="all">
+<link rel="stylesheet" id="bricks-post-241469-css" href="https://lanacionweb.com/fotoedicion/bricks/css/post-241469.min.css?ver=1710516966" media="all">
+<link rel="stylesheet" id="bricks-post-241459-css" href="https://lanacionweb.com/fotoedicion/bricks/css/post-241459.min.css?ver=1726179919" media="all">
+<link rel="stylesheet" id="bricks-ionicons-css" href="https://lanacionweb.com/wp-content/themes/bricks/assets/css/libs/ionicons.min.css?ver=1710508881" media="all">
+<link rel="stylesheet" id="bricks-themify-icons-css" href="https://lanacionweb.com/wp-content/themes/bricks/assets/css/libs/themify-icons.min.css?ver=1710508881" media="all">
+<link rel="stylesheet" id="bricks-photoswipe-css" href="https://lanacionweb.com/wp-content/themes/bricks/assets/css/libs/photoswipe.min.css?ver=1710508881" media="all">
+<link rel="stylesheet" id="bricks-google-fonts-css" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap&amp;family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&amp;display=swap" media="all">
+<style id="bricks-frontend-inline-inline-css">
+
+/* BREAKPOINT: Mobile portrait (BASE) */
+.redes-icon.brxe-icon {font-size: 16px; color: #212121; fill: #212121}
+
+/* BREAKPOINT: lg */
+@media (min-width: 1024px) {
+.redes-icon.brxe-icon {font-size: 20px}
+}
+
+/* BREAKPOINT: Mobile portrait (BASE) */
+.search.brxe-search button {height: 30px; width: 30px}
+.search.brxe-search .bricks-search-overlay:after {background-color: #2196f3}
+.search.brxe-search .title {color: #f5f5f5}
+
+/* BREAKPOINT: md */
+@media (min-width: 768px) {
+.search.brxe-search button {height: 40px; width: 16px}
+.search.brxe-search .title {color: #f5f5f5}
+.search.brxe-search .bricks-search-overlay:after {background-color: #1e73be}
+}
+/* BREAKPOINT: lg */
+@media (min-width: 1024px) {
+.search.brxe-search .title {color: #f5f5f5}
+button.close {  color: WHITE;}
+}
+/* BREAKPOINT: xl */
+@media (min-width: 1280px) {
+.search.brxe-search button {height: 40px; width: 20px; font-size: 20px}
+}
+
+/* BREAKPOINT: Mobile portrait (BASE) */
+.movilmenu.brxe-nav-menu .bricks-mobile-menu-wrapper:before:hover {background-color: var(--color-acento)}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu-wrapper:before {background-color: var(--bg-primary-)}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu-toggle {color: #f5f5f5}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu > li > a:hover {border-bottom-width: 1px}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu > li > .brx-submenu-toggle:hover {border-bottom-width: 1px}
+.movilmenu.brxe-nav-menu.show-mobile-menu .bricks-mobile-menu-toggle {display: none !important}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu > li > a {background-color: #1e73be; font-size: 16px}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu > li > .brx-submenu-toggle {background-color: #1e73be}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu .sub-menu > .menu-item > a {background-color: #1e73be}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu .sub-menu > .menu-item > .brx-submenu-toggle {background-color: #1e73be}
+.movilmenu.brxe-nav-menu .bricks-nav-menu > li > a {font-size: 14px}
+.movilmenu.brxe-nav-menu .bricks-nav-menu > li > .brx-submenu-toggle > * {font-size: 14px}
+.movilmenu.brxe-nav-menu .bricks-nav-menu .sub-menu > li > a {font-size: 14px}
+.movilmenu.brxe-nav-menu .bricks-nav-menu .sub-menu > li > .brx-submenu-toggle > * {font-size: 14px}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu > li > .brx-submenu-toggle > * {font-size: 16px}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu .sub-menu > li > a {font-size: 16px}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu .sub-menu > li > .brx-submenu-toggle > * {font-size: 16px}
+
+/* BREAKPOINT: lg */
+@media (min-width: 1024px) {
+.movilmenu.brxe-nav-menu .bricks-mobile-menu > li > a:hover {background-color: var(--turquesaDln)}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu > li > .brx-submenu-toggle:hover {background-color: var(--turquesaDln)}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu .sub-menu > .menu-item > a:hover {background-color: var(--turquesaDln)}
+.movilmenu.brxe-nav-menu .bricks-mobile-menu .sub-menu > .menu-item > .brx-submenu-toggle:hover {background-color: var(--turquesaDln)}
+}
+
+/* BREAKPOINT: lg */
+@media (min-width: 1024px) {
+.menudesk.brxe-nav-menu .bricks-nav-menu .current-menu-item > a {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu .current-menu-item > .brx-submenu-toggle {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu > .current-menu-parent > a {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu > .current-menu-parent > .brx-submenu-toggle {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu > .current-menu-ancestor > a {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu > .current-menu-ancestor > .brx-submenu-toggle {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu > li > a:hover {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu > li > .brx-submenu-toggle:hover {border-bottom: 1px solid #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu .sub-menu {background-color: #1e73be}
+.menudesk.brxe-nav-menu .bricks-nav-menu .sub-menu > li {border-bottom: 1px solid #f5f5f5}
+.menudesk.brxe-nav-menu .bricks-nav-menu .sub-menu > .current-menu-item > a {background-color: #03a9f4}
+.menudesk.brxe-nav-menu .bricks-nav-menu .sub-menu > .current-menu-item > .brx-submenu-toggle {background-color: #03a9f4}
+.menudesk.brxe-nav-menu .bricks-nav-menu .sub-menu > .current-menu-ancestor > a {background-color: #03a9f4}
+.menudesk.brxe-nav-menu .bricks-nav-menu .sub-menu > .current-menu-ancestor > .brx-submenu-toggle {background-color: #03a9f4}
+.menudesk.brxe-nav-menu .bricks-nav-menu .sub-menu .menu-item:hover {background-color: #81d4fa}
+.bricks-nav-menu li > a,.bricks-nav-menu li.menu-item-has-children > .brx-submenu-toggle > a { position: relative; overflow: hidden;} .bricks-nav-menu li > a::after,.bricks-nav-menu li.menu-item-has-children > .brx-submenu-toggle > a::after { content: ""; position: absolute; left: 0; bottom: 0; height: 2px; background-color: #ffffff; width: 0; transition: width 0.3s ease;} .bricks-nav-menu li > a:hover::after,.bricks-nav-menu li.menu-item-has-children > .brx-submenu-toggle > a:hover::after { width: 100%; animation: heartbeat116 1.5s infinite;}@keyframes heartbeat116 { 0%, 100% {  width: 100%; } 50% {  width: 60%; }}
+}
+
+/* BREAKPOINT: xl */
+@media (min-width: 1280px) {
+.bread.brxe-breadcrumbs .separator {color: #424242}
+.bread.brxe-breadcrumbs .item[aria-current="page"] {color: #616161}
+.bread.brxe-breadcrumbs .item {color: #424242}
+.bread.brxe-breadcrumbs {font-size: 11px}
+}
+
+/* BREAKPOINT: xl */
+@media (min-width: 1280px) {
+.date.brxe-text-basic {font-size: 14px}
+}
+
+/* BREAKPOINT: xl */
+@media (min-width: 1280px) {
+.date.brxe-code {font-size: 14px}
+}
+
+/* BREAKPOINT: Mobile portrait (BASE) */
+.object-cover.brxe-image figcaption {font-size: 12px}
+
+
+/* BREAKPOINT: Mobile portrait (BASE) */
+.prevNext.brxe-post-navigation {flex-direction: column}
+.prevNext.brxe-post-navigation a {width: 100%}
+.prevNext.brxe-post-navigation .label {font-size: 12px; font-family: "Roboto"; font-weight: 300; line-height: 20px}
+.prevNext.brxe-post-navigation .title {font-size: 16px; font-family: "Roboto"; font-weight: 400; line-height: 22px}
+
+/* BREAKPOINT: sm */
+@media (min-width: 640px) {
+.prevNext.brxe-post-navigation .title {font-size: 14px; line-height: 20px}
+}
+
+/* BREAKPOINT: Mobile portrait (BASE) */
+.listPromo.brxe-list .icon {color: var(--verdeDln)}
+.listPromo.brxe-list .title {margin-left: 10px}
+.listPromo.brxe-list .separator {display: none}
+
+/* BREAKPOINT: sm */
+@media (min-width: 640px) {
+.listPromo.brxe-list .content {justify-content: flex-start}
+.listPromo.brxe-list .description {justify-content: flex-start}
+}
+
+</style>
+<link rel="stylesheet" id="sharedaddy-css" href="https://c0.wp.com/p/jetpack/14.1/modules/sharedaddy/sharing.css" media="all">
+<link rel="stylesheet" id="social-logos-css" href="https://c0.wp.com/p/jetpack/14.1/_inc/social-logos/social-logos.min.css" media="all">
+<link rel="https://api.w.org/" href="https://lanacionweb.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://lanacionweb.com/wp-json/wp/v2/posts/177482"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lanacionweb.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="canonical" href="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/">
+<link rel="shortlink" href="https://lanacionweb.com/?p=177482">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://lanacionweb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flanacionweb.com%2Fregional%2Fvigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://lanacionweb.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flanacionweb.com%2Fregional%2Fvigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos%2F&amp;format=xml">
+	<style>img#wpstats{display:none}</style>
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5NG7J3RB');</script>
+<!-- End Google Tag Manager -->
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9051434581499106" crossorigin="anonymous"></script>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1743132317645348" crossorigin="anonymous"></script>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Vigilancia epidemiológica en zona sur ante presencia de monos araguatos">
+<meta property="og:url" content="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/">
+<meta property="og:description" content="Ante la presencia de monos araguatos en la zona sur del Táchira, Corposalud y el equipo del Distrito Sanitario número 7 se mantienen en vigilancia epidemiológica a fin de detectar oportunamente cua…">
+<meta property="article:published_time" content="2021-09-04T04:15:25+00:00">
+<meta property="article:modified_time" content="2021-09-04T04:15:25+00:00">
+<meta property="og:site_name" content="Diario La Nación">
+<meta property="og:image" content="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/fav.jpg?fit=454%2C454&amp;ssl=1">
+<meta property="og:image:width" content="454">
+<meta property="og:image:height" content="454">
+<meta property="og:image:alt" content="">
+<meta property="og:locale" content="es_LA">
+<meta name="twitter:site" content="@lanacionweb">
+<meta name="twitter:text:title" content="Vigilancia epidemiológica en zona sur ante presencia de monos araguatos">
+<meta name="twitter:image" content="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/fav.jpg?fit=240%2C240&amp;ssl=1">
+<meta name="twitter:card" content="summary">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/fav.jpg?fit=32%2C32&amp;ssl=1" sizes="32x32">
+<link rel="icon" href="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/fav.jpg?fit=192%2C192&amp;ssl=1" sizes="192x192">
+<link rel="apple-touch-icon" href="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/fav.jpg?fit=180%2C180&amp;ssl=1">
+<meta name="msapplication-TileImage" content="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/fav.jpg?fit=270%2C270&amp;ssl=1">
+
+<!-- Facebook Open Graph (by Bricks) -->
+<meta property="og:url" content="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/">
+<meta property="og:site_name" content="Diario La Nación">
+<meta property="og:title" content="Vigilancia epidemiológica en zona sur ante presencia de monos araguatos">
+<meta property="og:description" content="Ante la presencia de monos araguatos en la zona sur del Táchira, Corposalud y el equipo del Distrito Sanitario número 7 se mantienen en vigilancia epidemiológica a fin de detectar oportunamente cualquier caso sospechoso de fiebre amarilla que pudiera registrarse debido a la presencia de estos primates. La coordinadora del programa de Zoonosis de Corposalud, […]">
+<meta property="og:type" content="article">
+</head>
+
+<body class="post-template-default single single-post postid-177482 single-format-standard brx-body bricks-is-frontend wp-embed-responsive"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NG7J3RB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		<a class="skip-link" href="#brx-content" aria-label="Skip to main content">Skip to main content</a>
+
+					<a class="skip-link" href="#brx-footer" aria-label="Skip to footer">Skip to footer</a>
+			<header id="brx-header" class="sticky on-scroll" data-slide-up-after="100"><div id="brxe-urfsjh" class="brxe-div z-10 w-full bg-primary-500 bricks-lazy-hidden"><div id="brxe-ftwsux" class="brxe-div bg-gray-200 h-10 flex text-sm bricks-lazy-hidden"><div id="brxe-xtbalu" class="brxe-div flex mx-auto gap-4 md:gap-16 lg:gap-24 justify-center max-w-[1024px] bricks-lazy-hidden"><a id="brxe-oitdkw" class="brxe-text-link hidden sm:flex hover:text-primary-500 cursor-pointer" href="https://lanacionradio.fm" rel="nofollow" target="_blank">La Nación Radio</a><a id="brxe-ftvchl" class="brxe-text-link hover:text-primary-500 cursor-pointer" href="https://productos.lanacionweb.com/">Publicidad</a><div id="brxe-srjmxc" class="brxe-div items-center hidden gap-2 lg:flex bricks-lazy-hidden"><div id="brxe-ouqvkl" class="brxe-div bricks-lazy-hidden"><a href="https://facebook.com/lanacionweb" target="_blank"><svg class="brxe-icon redes-icon" id="brxe-iwmjyf" xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 110 110" width="110" height="110"><title>Set Of Black Circle Social Media Logos With New X logo-ai</title><style> .s0 { fill: #121214 } .s1 { fill: #ffffff } </style><g id="objects"><g id="fb"><path id="<Compound Path>" class="s0" d="m5 56.2c0-27.6 22.4-49.9 50-49.9 27.6 0 50 22.3 50 49.9 0 27.6-22.4 50-50 50-27.6 0-50-22.4-50-50z"></path><path id="<Path>" class="s1" d="m69.8 52.3l-0.8 6.7c-0.2 1.1-1.1 2-2.2 2h-10.9v27.9q-1.7 0.2-3.4 0.2-4 0-7.7-0.8v-27.3h-8.3c-0.8 0-1.4-0.6-1.4-1.4v-8.4c0-0.7 0.6-1.4 1.4-1.4h8.3v-12.5c0-7.7 6.2-13.9 13.9-13.9h9.7c0.8 0 1.4 0.6 1.4 1.3v8.4c0 0.8-0.6 1.4-1.4 1.4h-6.9c-3.1 0-5.6 2.5-5.6 5.6v9.7h11.7c1.3 0 2.4 1.2 2.2 2.5z"></path></g></g></svg></a></div><div id="brxe-zkdppb" class="brxe-div bricks-lazy-hidden"><a href="https://twitter.com/lanacionweb"><svg class="brxe-icon redes-icon" id="brxe-stppgm" xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 110 110" width="110" height="110"><title>Set Of Black Circle Social Media Logos With New X logo-ai</title><style> .s0 { fill: #121214 } .s1 { fill: #ffffff } </style><g id="objects"><g id="x"><path id="<Compound Path>" class="s0" d="m5 56.2c0-27.6 22.4-49.9 50-49.9 27.6 0 50 22.3 50 49.9 0 27.6-22.4 50-50 50-27.6 0-50-22.4-50-50z"></path><path id="<Compound Path>" fill-rule="evenodd" class="s1" d="m84.3 82.4h-21l-13-18.1-16.9 18.1h-7.7l21.3-22.7-21.3-29.7h21l12.2 17 15.8-17h7.7l-20.2 21.6zm-18.1-5.5h7.3l-29.6-41.3h-7.3z"></path></g></g></svg></a></div><div id="brxe-zgyieg" class="brxe-div bricks-lazy-hidden"><a href="https://www.instagram.com/lanacionweb/" target="_blank"><svg class="brxe-icon redes-icon" id="brxe-mpeqiz" xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 110 110" width="110" height="110"><title>Set Of Black Circle Social Media Logos With New X logo-ai</title><style> .s0 { fill: #121214 } .s1 { fill: #ffffff } </style><g id="objects"><g id="inst"><path id="<Compound Path>" class="s0" d="m5 56.2c0-27.6 22.4-49.9 50-49.9 27.6 0 50 22.3 50 49.9 0 27.6-22.4 50-50 50-27.6 0-50-22.4-50-50z"></path><path id="<Compound Path>" fill-rule="evenodd" class="s1" d="m28.8 43c0-7.2 5.8-13 13-13h26.4c7.2 0 13 5.8 13 13v26.4c0 7.2-5.8 13-13 13h-26.4c-7.2 0-13-5.8-13-13zm4.5 25.9c0 5 4 9 9 9h25.4c5 0 9-4 9-9v-25.4c0-4.9-4-9-9-9h-25.4c-5 0-9 4.1-9 9z"></path><path id="<Compound Path>" fill-rule="evenodd" class="s1" d="m55 69.8c-7.5 0-13.5-6.1-13.5-13.6 0-7.5 6-13.5 13.5-13.5 7.5 0 13.6 6 13.6 13.5 0 7.5-6.1 13.6-13.6 13.6zm9.1-13.6c0-5-4.1-9-9.1-9-5 0-9 4-9 9 0 5 4 9.1 9 9.1 5 0 9.1-4.1 9.1-9.1z"></path><path id="<Path>" class="s1" d="m69.5 44.5c-1.5 0-2.7-1.2-2.7-2.7 0-1.5 1.2-2.8 2.7-2.8 1.5 0 2.7 1.3 2.7 2.8 0 1.5-1.2 2.7-2.7 2.7z"></path></g></g></svg></a></div><div id="brxe-reznhu" class="brxe-div bricks-lazy-hidden"><a href="https://t.me/diario_lanacion" target="_blank"><svg class="brxe-icon redes-icon" id="brxe-kgjeyp" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 333334 333334" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"><path d="M166667 0c92048 0 166667 74619 166667 166667s-74619 166667-166667 166667S0 258715 0 166667 74619 0 166667 0zm80219 91205l-29735 149919s-4158 10396-15594 5404l-68410-53854s76104-68409 79222-71320c3119-2911 2079-3534 2079-3534 207-3535-5614 0-5614 0l-100846 64043-42002-14140s-6446-2288-7069-7277c-624-4992 7277-7694 7277-7694l166970-65498s13722-6030 13722 3951zm-87637 122889l-27141 24745s-2122 1609-4443 601l5197-45965 26387 20619z"></path></svg></a></div><div id="brxe-cpswxu" class="brxe-div bricks-lazy-hidden"><a href="https://www.youtube.com/channel/UC9ZbpAPKxnHB2dxyoPy4EtQ"><svg class="brxe-icon redes-icon" id="brxe-onqsiv" xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 110 110" width="110" height="110"><title>Set Of Black Circle Social Media Logos With New X logo-ai</title><style> .s0 { fill: #121214 } .s1 { fill: #ffffff } </style><g id="objects"><g id="<Group>"><path id="<Compound Path>" class="s0" d="m5 54.7c0-27.5 22.2-49.7 49.7-49.7 27.4 0 49.7 22.2 49.7 49.7 0 27.4-22.3 49.7-49.7 49.7-27.5 0-49.7-22.3-49.7-49.7z"></path><path id="<Compound Path>" fill-rule="evenodd" class="s1" d="m46.7 33.6h16c11.6 0 21.1 9.5 21.1 21.1 0 11.6-9.5 21-21.1 21h-16c-11.7 0-21.1-9.4-21.1-21 0-11.6 9.4-21.1 21.1-21.1zm14.9 19.2l-11.9-5.9c-1.4-0.7-3 0.3-3 1.8v11.9c0 1.6 1.6 2.6 3 1.9l11.9-6c1.5-0.7 1.5-2.9 0-3.7z"></path></g><g id="<Group>" style="display: none"><path id="<Compound Path>" class="s0" d="m10.6 59.9c0-27.5 22.3-49.7 49.7-49.7 27.5 0 49.7 22.2 49.7 49.7 0 27.4-22.2 49.7-49.7 49.7-27.4 0-49.7-22.3-49.7-49.7z"></path><path id="<Compound Path>" fill-rule="evenodd" class="s1" d="m89.4 85.9h-20.9l-12.8-17.9-16.8 17.9h-7.7l21.2-22.6-21.2-29.5h20.9l12.1 16.9 15.8-16.9h7.6l-20.1 21.5zm-18-5.5h7.2l-29.4-41.1h-7.2z"></path></g></g></svg></a></div></div><a id="brxe-sqrlkj" class="brxe-text-link hover:text-primary-500 cursor-pointer" href="https://lanacionweb.com/tapa">Impreso</a><a id="brxe-oskorp" class="brxe-text-link hover:text-primary-500 cursor-pointer" href="https://lanacionweb.com/clasificados">Miniavisos</a><div id="brxe-nwpyhh" class="brxe-search search hidden md:flex"><button aria-expanded="false" aria-label="Toggle search" class="toggle"><svg class="" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="122.879px" height="119.799px" viewBox="0 0 122.879 119.799" xml:space="preserve"><g><path d="M49.988,0h0.016v0.007C63.803,0.011,76.298,5.608,85.34,14.652c9.027,9.031,14.619,21.515,14.628,35.303h0.007v0.033v0.04 h-0.007c-0.005,5.557-0.917,10.905-2.594,15.892c-0.281,0.837-0.575,1.641-0.877,2.409v0.007c-1.446,3.66-3.315,7.12-5.547,10.307 l29.082,26.139l0.018,0.016l0.157,0.146l0.011,0.011c1.642,1.563,2.536,3.656,2.649,5.78c0.11,2.1-0.543,4.248-1.979,5.971 l-0.011,0.016l-0.175,0.203l-0.035,0.035l-0.146,0.16l-0.016,0.021c-1.565,1.642-3.654,2.534-5.78,2.646 c-2.097,0.111-4.247-0.54-5.971-1.978l-0.015-0.011l-0.204-0.175l-0.029-0.024L78.761,90.865c-0.88,0.62-1.778,1.209-2.687,1.765 c-1.233,0.755-2.51,1.466-3.813,2.115c-6.699,3.342-14.269,5.222-22.272,5.222v0.007h-0.016v-0.007 c-13.799-0.004-26.296-5.601-35.338-14.645C5.605,76.291,0.016,63.805,0.007,50.021H0v-0.033v-0.016h0.007 c0.004-13.799,5.601-26.296,14.645-35.338C23.683,5.608,36.167,0.016,49.955,0.007V0H49.988L49.988,0z M50.004,11.21v0.007h-0.016 h-0.033V11.21c-10.686,0.007-20.372,4.35-27.384,11.359C15.56,29.578,11.213,39.274,11.21,49.973h0.007v0.016v0.033H11.21 c0.007,10.686,4.347,20.367,11.359,27.381c7.009,7.012,16.705,11.359,27.403,11.361v-0.007h0.016h0.033v0.007 c10.686-0.007,20.368-4.348,27.382-11.359c7.011-7.009,11.358-16.702,11.36-27.4h-0.006v-0.016v-0.033h0.006 c-0.006-10.686-4.35-20.372-11.358-27.384C70.396,15.56,60.703,11.213,50.004,11.21L50.004,11.21z"></path></g></svg></button>			<div class="bricks-search-overlay">
+				<div class="bricks-search-inner">
+					<h4 class="title">Buscar en DLN</h4>
+<form role="search" method="get" class="bricks-search-form" action="https://lanacionweb.com/">
+	<label for="search-input-nwpyhh" class="screen-reader-text"><span>Search ...</span></label>
+	<input type="search" placeholder="Buscar" value="" name="s" id="search-input-nwpyhh">
+
+	</form>
+				</div>
+
+				<button aria-label="Close search" class="close">×</button>			</div>
+			</div></div></div><div id="brxe-qtfbxb" class="brxe-div flex justify-between items-center w-[90%] mx-auto md:w-[80%] max-w-[1024px] bricks-lazy-hidden"><div id="brxe-nygzjc" data-script-id="nygzjc" class="brxe-nav-menu movilmenu z-20">			<button class="bricks-mobile-menu-toggle always" aria-haspopup="true" aria-label="Mobile menu" aria-expanded="false">
+				<span class="bar-top"></span>
+				<span class="bar-center"></span>
+				<span class="bar-bottom"></span>
+			</button>
+			<nav class="bricks-mobile-menu-wrapper left"><ul id="menu-main" class="bricks-mobile-menu"><li id="menu-item-241453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-241453 bricks-menu-item"><a href="https://lanacionweb.com">Inicio</a></li>
+<li id="menu-item-241444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241444 bricks-menu-item"><a href="https://lanacionweb.com/politica/">Política</a></li>
+<li id="menu-item-241446" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-241446 bricks-menu-item"><a href="https://lanacionweb.com/regional/">Regional</a></li>
+<li id="menu-item-241433" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241433 bricks-menu-item"><a href="https://lanacionweb.com/frontera/">Frontera</a></li>
+<li id="menu-item-241439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241439 bricks-menu-item"><a href="https://lanacionweb.com/nacional/">Nacional</a></li>
+<li id="menu-item-241435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241435 bricks-menu-item"><a href="https://lanacionweb.com/internacional/">Internacional</a></li>
+<li id="menu-item-241442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241442 bricks-menu-item"><a href="https://lanacionweb.com/opinion/">Opinión</a></li>
+<li id="menu-item-241441" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241441 bricks-menu-item"><a href="https://lanacionweb.com/obituarios/">Obituarios</a></li>
+<li id="menu-item-241449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241449 bricks-menu-item"><a href="https://lanacionweb.com/sucesos/">Sucesos</a></li>
+<li id="menu-item-241427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241427 bricks-menu-item"><a href="https://lanacionweb.com/deportes/">Deportes</a></li>
+<li id="menu-item-241454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-241454 bricks-menu-item"><div class="brx-submenu-toggle icon-right"><a href="#">+Sec</a><button aria-expanded="false" aria-label="+Sec Sub menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" fill="none" class="menu-item-icon"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button></div>
+<ul class="sub-menu">
+	<li id="menu-item-241423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241423 bricks-menu-item"><a href="https://lanacionweb.com/clasificados/">Clasificados</a></li>
+	<li id="menu-item-241424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241424 bricks-menu-item"><a href="https://lanacionweb.com/compilado-musical/">Compilado Musical</a></li>
+	<li id="menu-item-241425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241425 bricks-menu-item"><a href="https://lanacionweb.com/cosas-del-mundo/">Cosas del Mundo</a></li>
+	<li id="menu-item-241426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241426 bricks-menu-item"><a href="https://lanacionweb.com/cultura/">Cultura</a></li>
+	<li id="menu-item-241429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241429 bricks-menu-item"><a href="https://lanacionweb.com/economia/">Economía</a></li>
+	<li id="menu-item-241431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241431 bricks-menu-item"><a href="https://lanacionweb.com/farandula-y-espectaculos/">Farándula y Espectáculos</a></li>
+	<li id="menu-item-241434" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241434 bricks-menu-item"><a href="https://lanacionweb.com/infogeneral/">Infogeneral</a></li>
+	<li id="menu-item-241437" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241437 bricks-menu-item"><a href="https://lanacionweb.com/legales/">Legales</a></li>
+	<li id="menu-item-241438" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241438 bricks-menu-item"><a href="https://lanacionweb.com/marcas-y-negocios/">Marcas y Negocios</a></li>
+	<li id="menu-item-241440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241440 bricks-menu-item"><a href="https://lanacionweb.com/noche-de-ronda/">Noche de Ronda</a></li>
+	<li id="menu-item-241447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241447 bricks-menu-item"><a href="https://lanacionweb.com/reportajes-y-especiales/">Reportajes y Especiales</a></li>
+	<li id="menu-item-241448" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241448 bricks-menu-item"><a href="https://lanacionweb.com/salud/">Salud</a></li>
+	<li id="menu-item-241450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241450 bricks-menu-item"><a href="https://lanacionweb.com/tachirenses-en-el-mundo/">Tachirenses en el mundo</a></li>
+	<li id="menu-item-241452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241452 bricks-menu-item"><a href="https://lanacionweb.com/tecnologia/">Tecnología</a></li>
+</ul>
+</li>
+</ul></nav><div class="bricks-mobile-menu-overlay"></div></div><div id="logoDln" class="brxe-div items-center flex bricks-lazy-hidden"><a id="brxe-pqfysv" class="brxe-image w-40 py-3 md:w-48 cursor-pointer tag" href="https://lanacionweb.com"><img width="300" height="55" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2055'%3E%3C/svg%3E" class="css-filter size-full bricks-lazy-hidden" alt="" decoding="async" data-src="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/logo-dln.png?fit=300%2C55&amp;ssl=1" data-type="string" data-attachment-id="243424" data-permalink="https://lanacionweb.com/logo-dln-2/" data-orig-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/logo-dln.png?fit=300%2C55&amp;ssl=1" data-orig-size="300,55" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="logo-dln" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/logo-dln.png?fit=300%2C55&amp;ssl=1" data-large-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2023/12/logo-dln.png?fit=300%2C55&amp;ssl=1"></a></div><a id="brxe-zzhtyi" class="brxe-heading px-4 rounded-lg bg-acento-500 text-white cursor-pointer py-1 hover:bg-primary-800 duration-200 ease-in-out transition text-lg" data-interactions="[{&quot;id&quot;:&quot;mnusie&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;show&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;241459&quot;}]" data-interaction-id="4f07bf">Suscríbete</a></div><div id="brxe-datboh" class="brxe-div bg-white shadow-lg bricks-lazy-hidden"><div id="brxe-wfjhoo" data-script-id="wfjhoo" class="brxe-nav-menu mx-auto max-w-[1024px] justify-center items-center hidden lg:flex menudesk h-10"><nav class="bricks-nav-menu-wrapper never"><ul id="menu-main-1" class="bricks-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-241453 bricks-menu-item"><a href="https://lanacionweb.com">Inicio</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241444 bricks-menu-item"><a href="https://lanacionweb.com/politica/">Política</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-241446 bricks-menu-item"><a href="https://lanacionweb.com/regional/">Regional</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241433 bricks-menu-item"><a href="https://lanacionweb.com/frontera/">Frontera</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241439 bricks-menu-item"><a href="https://lanacionweb.com/nacional/">Nacional</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241435 bricks-menu-item"><a href="https://lanacionweb.com/internacional/">Internacional</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241442 bricks-menu-item"><a href="https://lanacionweb.com/opinion/">Opinión</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241441 bricks-menu-item"><a href="https://lanacionweb.com/obituarios/">Obituarios</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241449 bricks-menu-item"><a href="https://lanacionweb.com/sucesos/">Sucesos</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241427 bricks-menu-item"><a href="https://lanacionweb.com/deportes/">Deportes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-241454 bricks-menu-item"><div class="brx-submenu-toggle icon-right"><a href="#">+Sec</a><button aria-expanded="false" aria-label="+Sec Sub menu"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" fill="none" class="menu-item-icon"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button></div>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241423 bricks-menu-item"><a href="https://lanacionweb.com/clasificados/">Clasificados</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241424 bricks-menu-item"><a href="https://lanacionweb.com/compilado-musical/">Compilado Musical</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241425 bricks-menu-item"><a href="https://lanacionweb.com/cosas-del-mundo/">Cosas del Mundo</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241426 bricks-menu-item"><a href="https://lanacionweb.com/cultura/">Cultura</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241429 bricks-menu-item"><a href="https://lanacionweb.com/economia/">Economía</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241431 bricks-menu-item"><a href="https://lanacionweb.com/farandula-y-espectaculos/">Farándula y Espectáculos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241434 bricks-menu-item"><a href="https://lanacionweb.com/infogeneral/">Infogeneral</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241437 bricks-menu-item"><a href="https://lanacionweb.com/legales/">Legales</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241438 bricks-menu-item"><a href="https://lanacionweb.com/marcas-y-negocios/">Marcas y Negocios</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241440 bricks-menu-item"><a href="https://lanacionweb.com/noche-de-ronda/">Noche de Ronda</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241447 bricks-menu-item"><a href="https://lanacionweb.com/reportajes-y-especiales/">Reportajes y Especiales</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241448 bricks-menu-item"><a href="https://lanacionweb.com/salud/">Salud</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241450 bricks-menu-item"><a href="https://lanacionweb.com/tachirenses-en-el-mundo/">Tachirenses en el mundo</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241452 bricks-menu-item"><a href="https://lanacionweb.com/tecnologia/">Tecnología</a></li>
+</ul>
+</li>
+</ul></nav></div></div></div></header><main id="brx-content"><div id="brxe-begxnc" class="brxe-div wrap mx-auto my-4 bricks-lazy-hidden"><pre id="brxe-yjsjbh" data-script-id="yjsjbh" class="brxe-code bg-slate-100"></pre></div><div id="brxe-bvdpas" class="brxe-div seccion bricks-lazy-hidden"><div id="brxe-zljgno" class="brxe-div wrap grid grid-cols-12 bricks-lazy-hidden"><div id="brxe-hqafjj" class="brxe-div col-span-12 md:col-span-8 news bricks-lazy-hidden"><div id="brxe-ugpjqy" class="brxe-div my-5 bricks-lazy-hidden"><nav id="brxe-xnrabh" class="brxe-breadcrumbs bread" aria-label="Breadcrumb"><a class="item" href="https://lanacionweb.com">Inicio</a><span class="separator">&gt;</span><a class="item" href="https://lanacionweb.com/regional/">Regional</a><span class="separator">&gt;</span><span class="item" aria-current="page">Vigilancia epidemiológica en zona sur ante presencia de monos araguatos</span></nav><h4 id="brxe-otvamz" class="brxe-heading sm:hidden text-xs bg-black text-white inline-block px-2 py-1 hover:bg-azulDln"><a href="https://lanacionweb.com/regional/">Regional</a></h4><h1 id="brxe-gkdhet" class="brxe-heading font-roboto font-normal my-5">Vigilancia epidemiológica en zona sur ante presencia de monos araguatos</h1><div id="brxe-dwjmum" class="brxe-div flex justify-between bricks-lazy-hidden"><p id="brxe-ofrclp" class="brxe-text-basic date">4 de septiembre de 2021</p><div id="brxe-ugyqty" class="brxe-div flex items-center bricks-lazy-hidden"><div id="brxe-cvigyb" data-script-id="cvigyb" class="brxe-code date">1.257 vistas</div></div></div></div><div id="brxe-euuwxv" class="brxe-div bg-slate-100 flex justify-center py-4 bricks-lazy-hidden"></div><div id="brxe-snizji" class="brxe-div flex items-center justify-between bricks-lazy-hidden"><div class="brxe-qtkeyi brxe-div flex justify-between flex-col divide-y-1 bricks-lazy-hidden"><a class="brxe-bilaxm brxe-heading"></a><p class="brxe-uhtiou brxe-heading"><a href="https://twitter.com/https://lanacionweb.com/author/"></a></p></div><div class="brx-query-trail" data-query-element-id="qtkeyi" data-query-vars="{&quot;posts_per_page&quot;:1,&quot;post_status&quot;:&quot;publish&quot;,&quot;paged&quot;:1}" data-page="1" data-max-pages="103369"></div><ul id="brxe-ztoiwy" class="brxe-post-sharing my-5 gap-3 brand-colors"><li data-balloon="Share on Facebook" data-balloon-pos="top"><a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Flanacionweb.com%2Fregional%2Fvigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos%2F&amp;picture=&amp;title=Vigilancia%20epidemiol%C3%B3gica%20en%20zona%20sur%20ante%20presencia%20de%20monos%20araguatos" rel="nofollow" aria-label="Facebook"><svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M455.27,32h-398.54l-1.01757e-06,4.11262e-10c-13.6557,0.00551914 -24.7245,11.0743 -24.73,24.73v398.54l-5.44608e-07,-0.00145325c0.00471643,13.6557 11.0728,24.7251 24.7285,24.7315h199.271v-176h-53.55v-64h53.55v-51c0,-57.86 40.13,-89.36 91.82,-89.36c24.73,0 51.33,1.86 57.51,2.68v60.43h-41.18c-28.12,0 -33.48,13.3 -33.48,32.9v44.35h67l-8.75,64h-58.25v176h124.6l-1.14527e-06,4.62819e-10c13.6557,-0.00551794 24.7245,-11.0743 24.73,-24.73v-398.54l5.45583e-07,0.00145607c-0.00471487,-13.6557 -11.0728,-24.7251 -24.7285,-24.7315Z" fill="#000"></path></svg></a></li><li data-balloon="Share on X" data-balloon-pos="top"><a class="twitter" href="https://x.com/share?text=Vigilancia%20epidemiol%C3%B3gica%20en%20zona%20sur%20ante%20presencia%20de%20monos%20araguatos&amp;url=https%3A%2F%2Flanacionweb.com%2Fregional%2Fvigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos%2F" rel="nofollow" aria-label="X"><svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></a></li><li data-balloon="Share on WhatsApp" data-balloon-pos="top"><a class="whatsapp" href="https://api.whatsapp.com/send?text=*Vigilancia%20epidemiol%C3%B3gica%20en%20zona%20sur%20ante%20presencia%20de%20monos%20araguatos*+https%3A%2F%2Flanacionweb.com%2Fregional%2Fvigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos%2F" rel="nofollow" aria-label="WhatsApp"><svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M260.062,32c-121.457,0 -219.928,97.701 -219.928,218.232c-1.42109e-14,41.23 11.532,79.79 31.559,112.687l-39.693,117.081l121.764,-38.682c31.508,17.285 67.745,27.146 106.298,27.146c121.473,0 219.938,-97.715 219.938,-218.232c0,-120.531 -98.465,-218.232 -219.938,-218.232Zm109.362,301.11c-5.174,12.827 -28.574,24.533 -38.899,25.072c-10.314,0.547 -10.608,7.994 -66.84,-16.434c-56.225,-24.434 -90.052,-83.844 -92.719,-87.67c-2.669,-3.812 -21.78,-31.047 -20.749,-58.455c1.038,-27.413 16.047,-40.346 21.404,-45.725c5.351,-5.387 11.486,-6.352 15.232,-6.413c4.428,-0.072 7.296,-0.132 10.573,-0.011c3.274,0.124 8.192,-0.685 12.45,10.639c4.256,11.323 14.443,39.153 15.746,41.989c1.302,2.839 2.108,6.126 0.102,9.771c-2.012,3.653 -3.042,5.935 -5.961,9.083c-2.935,3.148 -6.174,7.042 -8.792,9.449c-2.92,2.665 -5.97,5.572 -2.9,11.269c3.068,5.693 13.653,24.356 29.779,39.736c20.725,19.771 38.598,26.329 44.098,29.317c5.515,3.004 8.806,2.67 12.226,-0.929c3.404,-3.599 14.639,-15.746 18.596,-21.169c3.955,-5.438 7.661,-4.373 12.742,-2.329c5.078,2.052 32.157,16.556 37.673,19.551c5.51,2.989 9.193,4.529 10.51,6.9c1.317,2.38 0.901,13.531 -4.271,26.359Z" fill="#000"></path></svg></a></li><li data-balloon="Share on Telegram" data-balloon-pos="top"><a class="telegram" href="https://t.me/share/url?url=https%3A%2F%2Flanacionweb.com%2Fregional%2Fvigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos%2F&amp;text=Vigilancia%20epidemiol%C3%B3gica%20en%20zona%20sur%20ante%20presencia%20de%20monos%20araguatos" rel="nofollow" aria-label="Telegram"><svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path fill="#fff" stroke="none" d="M 22.046997 135.832001 C 22.046997 135.832001 147.046997 84.531982 190.398987 66.468018 C 207.018005 59.242981 263.376007 36.121002 263.376007 36.121002 C 263.376007 36.121002 289.388 26.005981 287.220001 50.572021 C 286.497009 60.687988 280.71701 96.09198 274.937012 134.386993 C 266.265991 188.578003 256.872986 247.825989 256.872986 247.825989 C 256.872986 247.825989 255.428009 264.445007 243.144989 267.334991 C 230.862 270.225006 210.630005 257.220001 207.018005 254.32901 C 204.127014 252.161987 152.826996 219.647003 134.041 203.751007 C 128.983002 199.415985 123.203003 190.746002 134.763 180.630005 C 160.774994 156.786011 191.843994 127.161987 210.630005 108.376007 C 219.300995 99.705017 227.971008 79.473999 191.843994 104.039978 C 140.544006 139.445007 89.966003 172.682007 89.966003 172.682007 C 89.966003 172.682007 78.404999 179.907013 56.729004 173.403992 C 35.052002 166.902008 9.763 158.230988 9.763 158.230988 C 9.763 158.230988 -7.577003 147.393005 22.046997 135.832001 Z"></path></svg></a></li><li data-balloon="Share via email" data-balloon-pos="top"><a class="email" href="/cdn-cgi/l/email-protection#cdf2beb8afa7a8aeb9f09ba4aaa4a1aca3aea4ace8fffda8bda4a9a8a0a4a2a1e88efee88ffeaaa4aeace8fffda8a3e8fffdb7a2a3ace8fffdbeb8bfe8fffdaca3b9a8e8fffdbdbfa8bea8a3aea4ace8fffda9a8e8fffda0a2a3a2bee8fffdacbfacaab8acb9a2beebeefdfef5f6afa2a9b4f0a5b9b9bdbee8fe8ce8ff8be8ff8ba1aca3acaea4a2a3baa8afe3aea2a0e8ff8bbfa8aaa4a2a3aca1e8ff8bbba4aaa4a1aca3aea4ace0a8bda4a9a8a0a4a2a1a2aaa4aeace0a8a3e0b7a2a3ace0beb8bfe0aca3b9a8e0bdbfa8bea8a3aea4ace0a9a8e0a0a2a3a2bee0acbfacaab8acb9a2bee8ff8b" rel="nofollow" aria-label="Email"><svg version="1.1" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M27.5,5h-25c-1.4,0 -2.5,1.1 -2.5,2.5v15c0,1.4 1.1,2.5 2.5,2.5h25c1.4,0 2.5,-1.1 2.5,-2.5v-15c0,-1.4 -1.1,-2.5 -2.5,-2.5Zm-16.7,10.9l-7,6c-0.1,0.1 -0.2,0.1 -0.3,0.1c-0.1,0 -0.3,-0.1 -0.4,-0.2c-0.2,-0.2 -0.2,-0.5 0.1,-0.7l7,-6c0.2,-0.2 0.5,-0.2 0.7,0.1c0.2,0.2 0.1,0.5 -0.1,0.7Zm3.9,0.1c-0.7,0 -1.5,-0.2 -2,-0.6l-9.5,-6.5c-0.2,-0.1 -0.3,-0.5 -0.1,-0.7c0.1,-0.2 0.4,-0.3 0.7,-0.1l9.5,6.5c0.8,0.6 2.1,0.6 2.9,0l10,-6.5c0.2,-0.2 0.5,-0.1 0.7,0.1c0.2,0.2 0.1,0.5 -0.1,0.7l-10,6.5c-0.6,0.4 -1.3,0.6 -2.1,0.6Zm12.2,5.8c-0.1,0.1 -0.2,0.2 -0.4,0.2c-0.1,0 -0.2,0 -0.3,-0.1l-7,-6c-0.2,-0.2 -0.2,-0.5 -0.1,-0.7c0.1,-0.2 0.5,-0.2 0.7,-0.1l7,6c0.2,0.2 0.3,0.5 0.1,0.7Z" fill="#fff"></path></svg></a></li></ul></div><div id="brxe-oigfum" class="brxe-divider text-slate-300 my-5 horizontal"><div class="line"></div></div><div id="brxe-icgiqp" class="brxe-div wrap mx-auto my-4 bricks-lazy-hidden"><pre id="brxe-rfjjuj" data-script-id="rfjjuj" class="brxe-code"></pre></div><p id="brxe-oixgvb" class="brxe-text-basic font-light text-slate-800 font-display text-2xl mb-8"></p><p class="p1">Ante la presencia de monos araguatos en la zona sur del Táchira, Corposalud y el equipo del Distrito Sanitario número 7 se mantienen en vigilancia epidemiológica a fin de detectar oportunamente cualquier caso sospechoso de fiebre amarilla que pudiera registrarse debido a la presencia de estos primates.</p>
+<p class="p1">La coordinadora del<span class="s1"> programa de Zoonosis de Corposalud, María Gabriela Rico, explicó -mediante una nota de prensa-<span class="Apple-converted-space">&nbsp; </span>que los monos que habitan la zona son territoriales y tienen la particularidad de mantenerse en grupos grandes, comúnmente emiten aullidos que los alertan ante cualquier amenaza para mantenerse a salvo. </span></p>
+<p class="p1"><span class="s1">En este momento pudiera estar registrándose algún trabajo de deforestación en la localidad y por ello la población ha reportado aullidos intensos. &nbsp;</span></p>
+<p class="p1"><span class="s1">Por tal motivo, Rico hizo un llamado a las comunidades de los municipios Córdoba, Fernández Feo, Uribante y Libertador, a mantenerse atentas ante cualquier cambio en el compo</span><span class="s2">rtamiento de estos animales y, en caso de encontrar osamentas o cadáveres cerca de las viviendas, informar de forma inmediata a las autoridades.</span></p>
+<p class="p1">“Si presentan algún síntoma, como fiebre con color amarillo en la piel o sangrados inexplicables, deben acudir al centro de salud más cercano, p<span class="s1">orque estos podrían ser síntomas de la fiebre amarilla. En caso de no haberse aplicado la vacuna antiamarílica, la recomendación es asistir a los puestos de vacunación habilitados en los municipios para recibir su dosis”, añadió. </span></p>
+<p class="p1">Recordó Rico que en este momento, desde el Ministerio del Poder Popular para la Salud, se ha advertido sobre posibles casos de fiebre amarilla en Brasil y sobre la activación de la onda epizoótica del Sur, lo cual pone en riesgo a la población ante la enfermedad.</p>
+<p class="p1">Los equipos locales de epidemiología, mencionó Rico, mantienen activa la vigilancia epidemiológica de casos febriles, icteros o hemorrágicos, atentos ante cualquier caso de muertes de monos.</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Comparte esto:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-177482" class="share-facebook sd-button share-icon" href="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/?share=facebook" target="_blank" title="Haz clic para compartir en Facebook"><span>Facebook</span></a></li><li class="share-x"><a rel="nofollow noopener noreferrer" data-shared="sharing-x-177482" class="share-x sd-button share-icon" href="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/?share=x" target="_blank" title="Click to share on X"><span>X</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="/cdn-cgi/l/email-protection#76490503141c1315024b5343343318020417121753444615191b061704021f1217534332534446201f111f1a1718151f1753444613061f12131b1f191a533545533445111f151753444613185344460c19181753444605030453444617180213534446060413051318151f1753444612135344461b19181905534446170417110317021905501419120f4b1e020206055345375344305344301a171817151f19180113145815191b5344300413111f1918171a534430001f111f1a1718151f175b13061f12131b1f191a19111f15175b13185b0c1918175b0503045b171802135b060413051318151f175b12135b1b191819055b17041711031702190553443050051e1704134b131b171f1a" target="_blank" title="Click to email a link to a friend" data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you're having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="5d8542f702" data-email-share-track-url="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/?share=email"><span>Correo electrónico</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-177482" class="share-linkedin sd-button share-icon" href="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/?share=linkedin" target="_blank" title="Haz clic para compartir en LinkedIn"><span>LinkedIn</span></a></li><li class="share-telegram"><a rel="nofollow noopener noreferrer" data-shared="" class="share-telegram sd-button share-icon" href="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/?share=telegram" target="_blank" title="Haz clic para compartir en Telegram"><span>Telegram</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://lanacionweb.com/regional/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos/?share=jetpack-whatsapp" target="_blank" title="Haz clic para compartir en WhatsApp"><span>WhatsApp</span></a></li><li class="share-end"></li></ul></div></div></div><p></p><div id="brxe-gipczc" class="brxe-div wrap mx-auto my-4 bricks-lazy-hidden"><pre id="brxe-iqxxkk" data-script-id="iqxxkk" class="brxe-code"></pre></div><div id="brxe-omvesc" class="brxe-divider text-slate-300 my-10 horizontal"><div class="line"></div></div><ul id="brxe-qyiehy" class="brxe-related-posts relacionados my-4 bricks-related-posts"><li class="repeater-item"><figure><a href="https://lanacionweb.com/internacional/venezuela-denuncia-ataques-a-cinco-sedes-de-consulados-generales-en-europa-y-latinoamerica/"><img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" class="image css-filter bricks-lazy-hidden" alt="" decoding="async" fetchpriority="high" data-src="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-89.png?fit=300%2C200&amp;ssl=1" data-type="string" data-sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-89.png?w=900&amp;ssl=1 900w, https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-89.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-89.png?resize=768%2C512&amp;ssl=1 768w" data-attachment-id="282661" data-permalink="https://lanacionweb.com/internacional/venezuela-denuncia-ataques-a-cinco-sedes-de-consulados-generales-en-europa-y-latinoamerica/attachment/image-1647/" data-orig-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-89.png?fit=900%2C600&amp;ssl=1" data-orig-size="900,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CONSULADO" data-image-description="" data-image-caption="<p>Vista del consulado general de Venezuela en Lisboa que en la madrugada de este domingo, tras un ataque «bombas incendiarias», según el Gobierno de Venezuela. EFE/ Carlota Ciudad</p>
+" data-medium-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-89.png?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-89.png?fit=900%2C600&amp;ssl=1"></a></figure><div class="post-content"><h5 class="dynamic" data-field-id="1f8223"><a href="https://lanacionweb.com/internacional/venezuela-denuncia-ataques-a-cinco-sedes-de-consulados-generales-en-europa-y-latinoamerica/" aria-label="Read more about Venezuela denuncia ataques a cinco sedes de consulados generales en Europa y Latinoamérica">Venezuela denuncia ataques a cinco sedes de consulados generales en Europa y Latinoamérica</a></h5><div class="dynamic" data-field-id="ba52bc">13 de enero de 2025</div></div></li><li class="repeater-item"><figure><a href="https://lanacionweb.com/salud/depresion-una-de-las-patologiaspsiquiatricas-mas-frecuentes/"><img width="300" height="225" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20225'%3E%3C/svg%3E" class="image css-filter bricks-lazy-hidden" alt="" decoding="async" data-src="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?fit=300%2C225&amp;ssl=1" data-type="string" data-sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?w=1200&amp;ssl=1 1200w, https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?resize=768%2C576&amp;ssl=1 768w" data-attachment-id="282657" data-permalink="https://lanacionweb.com/salud/depresion-una-de-las-patologiaspsiquiatricas-mas-frecuentes/attachment/image-1645/" data-orig-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?fit=1200%2C900&amp;ssl=1" data-orig-size="1200,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="depresión" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-87.png?fit=1024%2C768&amp;ssl=1"></a></figure><div class="post-content"><h5 class="dynamic" data-field-id="1f8223"><a href="https://lanacionweb.com/salud/depresion-una-de-las-patologiaspsiquiatricas-mas-frecuentes/" aria-label="Read more about Depresión: una de las patologíaspsiquiátricas más frecuentes">Depresión: una de las patologíaspsiquiátricas más frecuentes</a></h5><div class="dynamic" data-field-id="ba52bc">13 de enero de 2025</div></div></li><li class="repeater-item"><figure><a href="https://lanacionweb.com/frontera/perdidas-diarias-de-hasta-15-mil-millones-de-pesos-en-el-comercio-de-cucuta-por-cierre-de-frontera/"><img width="225" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20225%20300'%3E%3C/svg%3E" class="image css-filter bricks-lazy-hidden" alt="" decoding="async" data-src="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-86.png?fit=225%2C300&amp;ssl=1" data-type="string" data-sizes="(max-width: 225px) 100vw, 225px" data-srcset="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-86.png?w=960&amp;ssl=1 960w, https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-86.png?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-86.png?resize=768%2C1024&amp;ssl=1 768w" data-attachment-id="282655" data-permalink="https://lanacionweb.com/frontera/perdidas-diarias-de-hasta-15-mil-millones-de-pesos-en-el-comercio-de-cucuta-por-cierre-de-frontera/attachment/image-1644/" data-orig-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-86.png?fit=960%2C1280&amp;ssl=1" data-orig-size="960,1280" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cucuta" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-86.png?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/lanacionweb.com/fotoedicion/2025/01/image-86.png?fit=768%2C1024&amp;ssl=1"></a></figure><div class="post-content"><h5 class="dynamic" data-field-id="1f8223"><a href="https://lanacionweb.com/frontera/perdidas-diarias-de-hasta-15-mil-millones-de-pesos-en-el-comercio-de-cucuta-por-cierre-de-frontera/" aria-label="Read more about Pérdidas diarias de hasta 15 mil millones de pesos en el comercio de Cúcuta por cierre de frontera">Pérdidas diarias de hasta 15 mil millones de pesos en el comercio de Cúcuta por cierre de frontera</a></h5><div class="dynamic" data-field-id="ba52bc">13 de enero de 2025</div></div></li></ul><div id="brxe-bdoivs" class="brxe-divider text-slate-300 my-10 horizontal"><div class="line"></div></div><nav id="brxe-ahvgjb" class="brxe-post-navigation prevNext p-4 gap-4 rounded-lg bg-slate-100 my-10" aria-label="Post navigation"><a class="prev-post" href="https://lanacionweb.com/regional/todo-listo-para-celebrar-100-anos-de-la-virgen-del-valle/"><div class="content"><span class="label">Anterior: </span><h5 class="title">Todo listo para celebrar  100 años de la Virgen del Valle</h5></div></a><a class="next-post" href="https://lanacionweb.com/politica/la-carnetizacion-de-los-estudiantes-no-va-a-resolver-el-problema/"><div class="content"><span class="label">Siguiente: </span><h5 class="title">“La carnetización  de los estudiantes no va  a resolver el problema”</h5></div></a></nav><div id="brxe-aamazs" class="brxe-div wrap mx-auto my-4 bricks-lazy-hidden"><pre id="brxe-mpjocy" data-script-id="mpjocy" class="brxe-code"></pre></div></div><div id="brxe-hyrngx" class="brxe-div col-span-12 sm:flex md:col-span-4 md:block bricks-lazy-hidden"><div id="brxe-e9990a" class="brxe-div seccion md:basis-1/2 bricks-lazy-hidden"><h3 id="brxe-29bfd9" class="brxe-heading text-center font-roboto text-4xl text-slate-700 font-light pt-6">Lo más visto</h3><div id="brxe-7c6a52" class="brxe-div grid grid-cols-12 gap-4 mx-auto px-4 py-8 bricks-lazy-hidden"><div id="brxe-1dc5f3" class="brxe-div shadow-lg rounded-lg col-span-12 bg-white bricks-lazy-hidden"><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/04/a3-mercado.jpg?w=454&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/economia/comprar-solo-9-alimentos-requiere-casi-10-salarios-en-san-cristobal/" title="Comprar sólo 9 alimentos requiere casi 10 salarios en San Cristóbal">Comprar sólo 9 alimentos requiere casi 10 salarios en San Cristóbal</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Economía</p></div></div><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/04/IMG-20240414-WA0079.jpg?w=720&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/salud/autoridades-sanitarias-activas-en-la-prevencion-del-mal-de-chagas-2/" title="Autoridades sanitarias activas en la prevención del mal de chagas">Autoridades sanitarias activas en la prevención del mal de chagas</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Salud</p></div></div><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/04/IMG-20240414-WA0043.jpg?w=837&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/frontera/el-reciclaje-sigue-atravesando-las-trochas/" title="El reciclaje sigue atravesando las trochas">El reciclaje sigue atravesando las trochas</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Frontera</p></div></div><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/04/a3-corpoelec.jpg?w=310&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/regional/como-saber-cuanto-le-debes-a-corpoelec/" title="Cómo saber cuánto le debes a Corpoelec">Cómo saber cuánto le debes a Corpoelec</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Regional</p></div></div><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/03/a3-freddy.jpg?w=454&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/regional/llegan-repuestos-de-otros-paises-que-no-cumplen-normas-iso-14000/" title="“Llegan repuestos de otros países que no cumplen normas ISO 14000”">“Llegan repuestos de otros países que no cumplen normas ISO 14000”</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Regional</p></div></div><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/03/a3-dinero.jpg?w=454&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/salud/130-bolivares-es-la-quincena-de-un-trabajador-de-la-salud/" title="“130 bolívares es la quincena de un trabajador de la salud”">“130 bolívares es la quincena de un trabajador de la salud”</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Salud</p></div></div><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/03/a12-Otra.jpg?w=302&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/sucesos/fue-hallada-sin-vida-en-mexico-joven-migrante-tachirense/" title="Fue hallada sin vida en México joven migrante tachirense">Fue hallada sin vida en México joven migrante tachirense</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Internacional</p></div></div><div class="brxe-aa445b brxe-div flex p-2 w-[360px] bricks-lazy-hidden"><img class="brxe-2ddd57 brxe-image rounded-lg w-1/3 h-24 object-cover" src="https://i0.wp.com/lanacionweb.com/fotoedicion/2024/03/a5-Temperatura.jpg?fit=300%2C168&amp;ssl=1" alt=""><div class="brxe-77ff91 brxe-div p-2 flex flex-col w-2/3 justify-between bricks-lazy-hidden"><h3 class="brxe-11053f brxe-heading leading-4 hover:underline font-display text-lg"><a href="https://lanacionweb.com/regional/preven-del-23-de-marzo-al-2-de-mayo-altas-temperaturas-en-venezuela/" title="Prevén del 23 de marzo al 2 de mayo altas temperaturas en Venezuela">Prevén del 23 de marzo al 2 de mayo altas temperaturas en Venezuela</a></h3><p class="brxe-2ee3dd brxe-heading text-xs">Nacional</p></div></div><div class="brx-query-trail" data-query-element-id="aa445b" data-query-vars="{&quot;posts_per_page&quot;:8,&quot;post_type&quot;:[&quot;tendencia&quot;],&quot;post_status&quot;:&quot;publish&quot;,&quot;paged&quot;:1}" data-page="1" data-max-pages="4"></div></div></div></div><div id="brxe-932898" class="brxe-div col-span-12 flex flex-wrap gap-4 p-4 basis-[375px] bricks-lazy-hidden"><pre id="brxe-fhwpfm" data-script-id="fhwpfm" class="brxe-code"></pre></div></div></div></div></main><footer id="brx-footer"><div id="brxe-ltgpof" class="brxe-div seccion bg-primary-500 py-4 bricks-lazy-hidden"><div id="brxe-yimity" class="brxe-div wrap bricks-lazy-hidden"><div id="brxe-ljazgt" class="brxe-div grid grid-cols-12 bricks-lazy-hidden"><div id="brxe-kteuoa" class="brxe-div lg:col-span-4 flex flex-col items-center justify-center col-span-12 h-24 md:col-span-4 md:h-56 bricks-lazy-hidden"><img class="brxe-image flex items-center w-1/2 my-4" id="brxe-whcmqj" src="https://lanacionweb.com//fotoedicion/2020/03/logo_dln.fw_-300x55-300x55-1.png" alt=""><div id="brxe-bsjulk" class="brxe-div flex gap-4 justify-between bricks-lazy-hidden"><div id="brxe-fqtbap" class="brxe-div bricks-lazy-hidden"><a href="https://facebook.com/lanacionweb" target="_blank"><svg class="brxe-icon" id="brxe-commbh" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 510.125"><path fill="#fff" fill-rule="nonzero" d="M512 256C512 114.615 397.385 0 256 0S0 114.615 0 256c0 120.059 82.652 220.797 194.157 248.461V334.229h-52.79V256h52.79v-33.709c0-87.134 39.432-127.521 124.977-127.521 16.218 0 44.202 3.18 55.651 6.36v70.916c-6.042-.635-16.537-.954-29.575-.954-41.977 0-58.196 15.901-58.196 57.241V256h83.619l-14.365 78.229h-69.254v175.896C413.771 494.815 512 386.885 512 256z"></path></svg></a></div><div id="brxe-qkescg" class="brxe-div bricks-lazy-hidden"><a href="https://www.instagram.com/lanacionweb/" target="_blank"><svg class="brxe-icon" id="brxe-elxkvj" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 512"><path fill="#fff" fill-rule="nonzero" d="M170.663 256.157c-.083-47.121 38.055-85.4 85.167-85.483 47.121-.092 85.407 38.03 85.499 85.16.091 47.129-38.047 85.4-85.176 85.492-47.112.09-85.399-38.039-85.49-85.169zm-46.108.091c.141 72.602 59.106 131.327 131.69 131.186 72.592-.141 131.35-59.09 131.209-131.692-.141-72.577-59.114-131.335-131.715-131.194-72.585.141-131.325 59.115-131.184 131.7zm237.104-137.091c.033 16.953 13.817 30.681 30.772 30.648 16.961-.033 30.689-13.811 30.664-30.764-.033-16.954-13.818-30.69-30.78-30.657-16.962.033-30.689 13.818-30.656 30.773zm-208.696 345.4c-24.958-1.087-38.511-5.234-47.543-8.709-11.961-4.629-20.496-10.178-29.479-19.094-8.966-8.95-14.532-17.46-19.202-29.397-3.508-9.032-7.73-22.569-8.9-47.527-1.269-26.982-1.559-35.077-1.683-103.432-.133-68.339.116-76.434 1.294-103.441 1.069-24.942 5.242-38.512 8.709-47.536 4.628-11.977 10.161-20.496 19.094-29.479 8.949-8.982 17.459-14.532 29.403-19.202 9.025-3.525 22.561-7.714 47.511-8.9 26.998-1.277 35.085-1.551 103.423-1.684 68.353-.132 76.448.108 103.456 1.295 24.94 1.086 38.51 5.217 47.527 8.709 11.968 4.628 20.503 10.144 29.478 19.094 8.974 8.95 14.54 17.443 19.21 29.412 3.524 9 7.714 22.553 8.892 47.494 1.285 26.999 1.576 35.095 1.7 103.433.132 68.355-.117 76.451-1.302 103.441-1.087 24.958-5.226 38.52-8.709 47.561-4.629 11.952-10.161 20.487-19.103 29.471-8.941 8.949-17.451 14.531-29.403 19.201-9.009 3.517-22.561 7.714-47.494 8.9-26.998 1.269-35.086 1.559-103.448 1.684-68.338.132-76.424-.125-103.431-1.294zM149.977 1.773c-27.239 1.285-45.843 5.648-62.101 12.018-16.829 6.561-31.095 15.354-45.286 29.604C28.381 57.653 19.655 71.944 13.144 88.79c-6.303 16.299-10.575 34.912-11.778 62.168C.172 178.264-.102 186.973.031 256.489c.133 69.508.439 78.234 1.741 105.547 1.302 27.231 5.649 45.828 12.019 62.093 6.569 16.83 15.353 31.088 29.611 45.288 14.25 14.201 28.55 22.918 45.404 29.438 16.282 6.295 34.902 10.583 62.15 11.778 27.305 1.203 36.022 1.468 105.521 1.335 69.532-.132 78.25-.439 105.555-1.733 27.239-1.303 45.826-5.665 62.1-12.019 16.829-6.586 31.095-15.353 45.288-29.611 14.191-14.251 22.917-28.55 29.428-45.405 6.304-16.282 10.592-34.903 11.777-62.134 1.195-27.322 1.478-36.048 1.344-105.556-.133-69.516-.447-78.225-1.741-105.523-1.294-27.255-5.657-45.844-12.019-62.118-6.577-16.829-15.352-31.079-29.602-45.287-14.25-14.192-28.55-22.935-45.404-29.429-16.29-6.305-34.903-10.601-62.15-11.779C333.747.164 325.03-.102 255.506.031c-69.507.133-78.224.431-105.529 1.742z"></path></svg></a></div><div id="brxe-qbgivb" class="brxe-div bricks-lazy-hidden"><a href="https://twitter.com/lanacionweb" target="_blank"><svg class="brxe-icon" id="brxe-tjkdty" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 462.799"><path fill="#fff" fill-rule="nonzero" d="M403.229 0h78.506L310.219 196.04 512 462.799H354.002L230.261 301.007 88.669 462.799h-78.56l183.455-209.683L0 0h161.999l111.856 147.88L403.229 0zm-27.556 415.805h43.505L138.363 44.527h-46.68l283.99 371.278z"></path></svg></a></div><div id="brxe-ndnwjw" class="brxe-div bricks-lazy-hidden"><a href="https://t.me/diario_lanacion" target="_blank"><svg class="brxe-icon" id="brxe-racjys" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 512"><path fill="#fff" d="M512 256C512 114.62 397.38 0 256 0S0 114.62 0 256s114.62 256 256 256 256-114.62 256-256zm-396.12-2.7c74.63-32.52 124.39-53.95 149.29-64.31 71.1-29.57 85.87-34.71 95.5-34.88 2.12-.03 6.85.49 9.92 2.98 2.59 2.1 3.3 4.94 3.64 6.93.34 2 .77 6.53.43 10.08-3.85 40.48-20.52 138.71-29 184.05-3.59 19.19-10.66 25.62-17.5 26.25-14.86 1.37-26.15-9.83-40.55-19.27-22.53-14.76-35.26-23.96-57.13-38.37-25.28-16.66-8.89-25.81 5.51-40.77 3.77-3.92 69.27-63.5 70.54-68.9.16-.68.31-3.2-1.19-4.53s-3.71-.87-5.3-.51c-2.26.51-38.25 24.3-107.98 71.37-10.22 7.02-19.48 10.43-27.77 10.26-9.14-.2-26.72-5.17-39.79-9.42-16.03-5.21-28.77-7.97-27.66-16.82.57-4.61 6.92-9.32 19.04-14.14z"></path></svg></a></div><div id="brxe-agbpvt" class="brxe-div bricks-lazy-hidden"><a href="https://www.youtube.com/channel/UC9ZbpAPKxnHB2dxyoPy4EtQ" target="_blank"><svg class="brxe-icon" id="brxe-fezmcv" xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 360.726"><path fill="#fff" d="M456.035 10.769c22.031 5.926 39.377 23.386 45.265 45.56C512 96.516 512 180.363 512 180.363s0 83.846-10.7 124.037c-5.888 22.17-23.234 39.631-45.265 45.559-39.928 10.767-200.034 10.767-200.034 10.767s-160.107 0-200.035-10.767C33.937 344.031 16.587 326.57 10.7 304.4 0 264.209 0 180.363 0 180.363S0 96.516 10.7 56.329c5.887-22.174 23.237-39.634 45.266-45.56C95.894 0 256.001 0 256.001 0s160.106 0 200.034 10.769zm-252.398 245.72l133.818-76.122-133.818-76.131v152.253z"></path></svg></a></div></div></div><div id="brxe-gnjjml" class="brxe-div lg:col-span-4 flex flex-col items-center justify-center col-span-12 md:col-span-4 text-lg bricks-lazy-hidden"><p id="brxe-bcbpfu" class="brxe-heading text-white block hover:underline m-0"><a href="https://lanacionweb.com/clasificados">Miniavisos</a></p><p id="brxe-pvzxif" class="brxe-heading text-white block hover:underline m-0"><a href="https://lanacionweb.com/tapa">Edición Impresa</a></p><p id="brxe-copbap" class="brxe-heading text-white block hover:underline m-0"><a href="https://productos.lanacionweb.com/">Publica con nosotros</a></p><p id="brxe-iayjtf" class="brxe-heading text-white block hover:underline m-0"><a href="https://lanacionweb.com/infogeneral/encarte-publicitario-la-nacion-abril-2022/">Encartado publicitario</a></p></div><div id="brxe-shgdxd" class="brxe-div lg:col-span-4 flex flex-col items-center justify-center col-span-12 md:col-span-4 text-lg bricks-lazy-hidden"><p id="brxe-jqvqgv" class="brxe-heading text-white block hover:underline m-0"><a href="https://lanacionweb.com/mapa-del-sitio">Mapa del sitio</a></p><p id="brxe-iaxfkh" class="brxe-heading text-white block hover:underline m-0"><a href="https://lanacionweb.com/sobre-diario-la-nacion-el-periodico-lider-en-el-tachira-y-la-region-andina/">Sobre Nosotros</a></p><p id="brxe-zysysv" class="brxe-heading text-white block hover:underline m-0"><a href="https://lanacionweb.com/politica-de-privacidad/">Política de privacidad</a></p><p id="brxe-yxbifg" class="brxe-heading text-white block hover:underline m-0"><a href="https://lanacionweb.com/terminos-y-condiciones-de-uso/">Términos y condiciones</a></p></div></div><div id="brxe-eftoow" class="brxe-div bricks-lazy-hidden"><h3 id="brxe-opsrnm" class="brxe-heading text-center text-white font-roboto font-light mt-5 text-lg">© Todos los derechos reservados - Edtorbes C. A<br> San Cristóbal, Táchira - Venezuela</h3></div></div></div></footer><div data-popup-id="241459" class="brx-popup brxe-popup-241459 hide" data-popup-close-on="esc"><div class="brx-popup-content brxe-container"><div id="brxe-dmwcpd" class="brxe-div p-4 max-w-[960px] mx-auto bricks-lazy-hidden"><div id="brxe-ubbcmu" class="brxe-div flex px-4 items-center py-4 bricks-lazy-hidden"><h3 id="brxe-kvmlau" class="brxe-heading text-2xl ml-auto font-display">¡Quieres recibir el periódico en la puerta de tu negocio!</h3><i id="brxe-xkxuam" class="brxe-icon cursor-pointer ml-auto ion-ios-close" data-interactions="[{&quot;id&quot;:&quot;woompf&quot;,&quot;trigger&quot;:&quot;click&quot;,&quot;action&quot;:&quot;hide&quot;,&quot;target&quot;:&quot;popup&quot;,&quot;templateId&quot;:&quot;241459&quot;}]" data-interaction-id="14c1da"></i></div><div id="brxe-auufds" class="brxe-div grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-8 font-body bricks-lazy-hidden"><div id="brxe-hyorum" class="brxe-div rounded-2xl border shadow-sm ring-1 sm:order-last border-gray-600 ring-gray-600 bg-white p-4 flex justify-center bricks-lazy-hidden"><div id="brxe-wfpsrk" class="brxe-div text-center bricks-lazy-hidden"><h2 id="brxe-sibgyq" class="brxe-heading font-medium text-gray-900 text-3xl">1 Mes</h2><ul id="brxe-xgqyvs" class="brxe-list mt-6 space-y-2 listPromo text-xl"><li><div class="content"><span class="icon"><i class="ti-check-box"></i></span><span class="title"> 3 Ejemplares semanales</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ti-check-box"></i></span><span class="title">Entrega gratis (Delivery)</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ti-check-box"></i></span><span class="title">Aviso impreso 2×5</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ti-check-box"></i></span><span class="title">Descuento del 5% en publicidad Digital</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ti-check-box"></i></span><span class="title">Osequio de Instagram  <br><b>1 Post  1 historia</b></span><span class="separator"></span></div></li></ul><h3 id="brxe-iteevc" class="brxe-heading text-3xl font-bold text-gray-900 sm:text-4xl mt-4">Mensual <br> 54.000 Cop</h3><p id="brxe-yxyihj" class="brxe-text-basic text-sm font-medium text-gray-700">Pago único</p><a id="brxe-punczl" class="brxe-button block rounded-full border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white focus:outline-none mt-8 hover:bg-indigo-700 hover:ring-1 hover:ring-indigo-700 focus:ring active:text-indigo-500 bricks-button" href="https://walink.co/9d73ee">Suscribirse</a></div></div><div id="brxe-uhkrva" class="brxe-div rounded-2xl border shadow-sm ring-1 sm:order-last border-gray-600 ring-gray-600 bg-white p-4 flex justify-center bricks-lazy-hidden"><div id="brxe-ixoczc" class="brxe-div text-center bricks-lazy-hidden"><h2 id="brxe-nltxxw" class="brxe-heading font-medium text-gray-900 text-3xl">3 meses </h2><ul id="brxe-ayvmow" class="brxe-list mt-6 space-y-2 listPromo text-xl"><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title"> 3 Ejemplares semanales</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Entrega gratis (Delivery)</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Aviso impreso 2×5</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Descuento del 10% en publicidad Digital</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Osequio de Instagram  <br><b>1 Post + 1 historia</b></span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Descuento del 5%</span><span class="separator"></span></div></li></ul><h3 id="brxe-ruodud" class="brxe-heading text-3xl font-bold text-gray-900 sm:text-4xl mt-4">Mensual <br>51.300 Cop</h3><p id="brxe-hibfyc" class="brxe-text-basic text-sm font-medium text-gray-700">Pago único</p><a id="brxe-xyrrrl" class="brxe-button block rounded-full border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white focus:outline-none mt-8 hover:bg-indigo-700 hover:ring-1 hover:ring-indigo-700 focus:ring active:text-indigo-500 bricks-button" href="https://walink.co/9d73ee">Suscribirse</a></div></div><div id="brxe-wtcmbo" class="brxe-div rounded-2xl border shadow-sm ring-1 sm:order-last border-gray-600 ring-gray-600 bg-white p-4 flex justify-center bricks-lazy-hidden"><div id="brxe-codvyb" class="brxe-div text-center bricks-lazy-hidden"><h2 id="brxe-uoybhz" class="brxe-heading font-medium text-gray-900 text-3xl">6 meses </h2><ul id="brxe-wlabkj" class="brxe-list mt-6 space-y-2 listPromo text-xl"><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title"> 3 Ejemplares semanales</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Entrega gratis (Delivery)</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Aviso impreso 2×5</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Descuento del 20% en publicidad Digital</span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Osequio de Instagram  <br><b>2 Post + 1 historia</b></span><span class="separator"></span></div></li><li><div class="content"><span class="icon"><i class="ion-md-checkbox-outline"></i></span><span class="title">Descuento del 5%</span><span class="separator"></span></div></li></ul><h3 id="brxe-uzygss" class="brxe-heading text-3xl font-bold text-gray-900 sm:text-4xl mt-4">Mensual <br>48.600 Cop</h3><p id="brxe-plydjh" class="brxe-text-basic text-sm font-medium text-gray-700">Pago único</p><a id="brxe-lomzhg" class="brxe-button block rounded-full border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white focus:outline-none mt-8 hover:bg-indigo-700 hover:ring-1 hover:ring-indigo-700 focus:ring active:text-indigo-500 bricks-button" href="https://walink.co/9d73ee">Suscribirse</a></div></div></div></div></div><div class="brx-popup-backdrop"></div></div><style>
+/* BREAKPOINT: sm */
+@media (min-width: 640px) {
+#brxe-xgqyvs .content {justify-content: flex-start}
+#brxe-xgqyvs .description {justify-content: flex-start}
+}
+</style>
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/lanacionweb.com\/regional\/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos\/":177482};
+	</script>
+				<link rel="stylesheet" id="bricks-tooltips-css" href="https://lanacionweb.com/wp-content/themes/bricks/assets/css/libs/tooltips.min.css?ver=1710508881" media="all">
+<script id="bricks-scripts-js-extra">
+var bricksData = {"debug":"","locale":"es_VE","ajaxUrl":"https:\/\/lanacionweb.com\/wp-admin\/admin-ajax.php","restApiUrl":"https:\/\/lanacionweb.com\/wp-json\/bricks\/v1\/","nonce":"1cb9abf8ce","formNonce":"b59ebdfea8","wpRestNonce":"308479f1c2","postId":"177482","recaptchaIds":[],"animatedTypingInstances":[],"videoInstances":[],"splideInstances":[],"tocbotInstances":[],"swiperInstances":[],"queryLoopInstances":[],"interactions":[],"filterInstances":[],"isotopeInstances":[],"mapStyles":{"ultraLightWithLabels":{"label":"Ultra light with labels","style":"[ { \"featureType\": \"water\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#e9e9e9\" }, { \"lightness\": 17 } ] }, { \"featureType\": \"landscape\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#f5f5f5\" }, { \"lightness\": 20 } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#ffffff\" }, { \"lightness\": 17 } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"geometry.stroke\", \"stylers\": [ { \"color\": \"#ffffff\" }, { \"lightness\": 29 }, { \"weight\": 0.2 } ] }, { \"featureType\": \"road.arterial\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#ffffff\" }, { \"lightness\": 18 } ] }, { \"featureType\": \"road.local\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#ffffff\" }, { \"lightness\": 16 } ] }, { \"featureType\": \"poi\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#f5f5f5\" }, { \"lightness\": 21 } ] }, { \"featureType\": \"poi.park\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#dedede\" }, { \"lightness\": 21 } ] }, { \"elementType\": \"labels.text.stroke\", \"stylers\": [ { \"visibility\": \"on\" }, { \"color\": \"#ffffff\" }, { \"lightness\": 16 } ] }, { \"elementType\": \"labels.text.fill\", \"stylers\": [ { \"saturation\": 36 }, { \"color\": \"#333333\" }, { \"lightness\": 40 } ] }, { \"elementType\": \"labels.icon\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"transit\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#f2f2f2\" }, { \"lightness\": 19 } ] }, { \"featureType\": \"administrative\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#fefefe\" }, { \"lightness\": 20 } ] }, { \"featureType\": \"administrative\", \"elementType\": \"geometry.stroke\", \"stylers\": [ { \"color\": \"#fefefe\" }, { \"lightness\": 17 }, { \"weight\": 1.2 } ] } ]"},"blueWater":{"label":"Blue water","style":"[ { \"featureType\": \"administrative\", \"elementType\": \"labels.text.fill\", \"stylers\": [ { \"color\": \"#444444\" } ] }, { \"featureType\": \"landscape\", \"elementType\": \"all\", \"stylers\": [ { \"color\": \"#f2f2f2\" } ] }, { \"featureType\": \"poi\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"road\", \"elementType\": \"all\", \"stylers\": [ { \"saturation\": -100 }, { \"lightness\": 45 } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"simplified\" } ] }, { \"featureType\": \"road.arterial\", \"elementType\": \"labels.icon\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"transit\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"water\", \"elementType\": \"all\", \"stylers\": [ { \"color\": \"#46bcec\" }, { \"visibility\": \"on\" } ] } ]"},"lightDream":{"label":"Light dream","style":"[ { \"featureType\": \"landscape\", \"stylers\": [ { \"hue\": \"#FFBB00\" }, { \"saturation\": 43.400000000000006 }, { \"lightness\": 37.599999999999994 }, { \"gamma\": 1 } ] }, { \"featureType\": \"road.highway\", \"stylers\": [ { \"hue\": \"#FFC200\" }, { \"saturation\": -61.8 }, { \"lightness\": 45.599999999999994 }, { \"gamma\": 1 } ] }, { \"featureType\": \"road.arterial\", \"stylers\": [ { \"hue\": \"#FF0300\" }, { \"saturation\": -100 }, { \"lightness\": 51.19999999999999 }, { \"gamma\": 1 } ] }, { \"featureType\": \"road.local\", \"stylers\": [ { \"hue\": \"#FF0300\" }, { \"saturation\": -100 }, { \"lightness\": 52 }, { \"gamma\": 1 } ] }, { \"featureType\": \"water\", \"stylers\": [ { \"hue\": \"#0078FF\" }, { \"saturation\": -13.200000000000003 }, { \"lightness\": 2.4000000000000057 }, { \"gamma\": 1 } ] }, { \"featureType\": \"poi\", \"stylers\": [ { \"hue\": \"#00FF6A\" }, { \"saturation\": -1.0989010989011234 }, { \"lightness\": 11.200000000000017 }, { \"gamma\": 1 } ] } ]"},"blueEssence":{"label":"Blue essence","style":"[ { \"featureType\": \"landscape.natural\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"visibility\": \"on\" }, { \"color\": \"#e0efef\" } ] }, { \"featureType\": \"poi\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"visibility\": \"on\" }, { \"hue\": \"#1900ff\" }, { \"color\": \"#c0e8e8\" } ] }, { \"featureType\": \"road\", \"elementType\": \"geometry\", \"stylers\": [ { \"lightness\": 100 }, { \"visibility\": \"simplified\" } ] }, { \"featureType\": \"road\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"transit.line\", \"elementType\": \"geometry\", \"stylers\": [ { \"visibility\": \"on\" }, { \"lightness\": 700 } ] }, { \"featureType\": \"water\", \"elementType\": \"all\", \"stylers\": [ { \"color\": \"#7dcdcd\" } ] } ]"},"appleMapsesque":{"label":"Apple maps-esque","style":"[ { \"featureType\": \"landscape.man_made\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#f7f1df\" } ] }, { \"featureType\": \"landscape.natural\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#d0e3b4\" } ] }, { \"featureType\": \"landscape.natural.terrain\", \"elementType\": \"geometry\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"poi\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"poi.business\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"poi.medical\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#fbd3da\" } ] }, { \"featureType\": \"poi.park\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#bde6ab\" } ] }, { \"featureType\": \"road\", \"elementType\": \"geometry.stroke\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"road\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#ffe15f\" } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"geometry.stroke\", \"stylers\": [ { \"color\": \"#efd151\" } ] }, { \"featureType\": \"road.arterial\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#ffffff\" } ] }, { \"featureType\": \"road.local\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"black\" } ] }, { \"featureType\": \"transit.station.airport\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#cfb2db\" } ] }, { \"featureType\": \"water\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#a2daf2\" } ] } ]"},"paleDawn":{"label":"Pale dawn","style":"[ { \"featureType\": \"administrative\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"on\" }, { \"lightness\": 33 } ] }, { \"featureType\": \"landscape\", \"elementType\": \"all\", \"stylers\": [ { \"color\": \"#f2e5d4\" } ] }, { \"featureType\": \"poi.park\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#c5dac6\" } ] }, { \"featureType\": \"poi.park\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"on\" }, { \"lightness\": 20 } ] }, { \"featureType\": \"road\", \"elementType\": \"all\", \"stylers\": [ { \"lightness\": 20 } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#c5c6c6\" } ] }, { \"featureType\": \"road.arterial\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#e4d7c6\" } ] }, { \"featureType\": \"road.local\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#fbfaf7\" } ] }, { \"featureType\": \"water\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"on\" }, { \"color\": \"#acbcc9\" } ] } ]"},"neutralBlue":{"label":"Neutral blue","style":"[ { \"featureType\": \"water\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#193341\" } ] }, { \"featureType\": \"landscape\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#2c5a71\" } ] }, { \"featureType\": \"road\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#29768a\" }, { \"lightness\": -37 } ] }, { \"featureType\": \"poi\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#406d80\" } ] }, { \"featureType\": \"transit\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#406d80\" } ] }, { \"elementType\": \"labels.text.stroke\", \"stylers\": [ { \"visibility\": \"on\" }, { \"color\": \"#3e606f\" }, { \"weight\": 2 }, { \"gamma\": 0.84 } ] }, { \"elementType\": \"labels.text.fill\", \"stylers\": [ { \"color\": \"#ffffff\" } ] }, { \"featureType\": \"administrative\", \"elementType\": \"geometry\", \"stylers\": [ { \"weight\": 0.6 }, { \"color\": \"#1a3541\" } ] }, { \"elementType\": \"labels.icon\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"poi.park\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#2c5a71\" } ] } ]"},"avocadoWorld":{"label":"Avocado world","style":"[ { \"featureType\": \"water\", \"elementType\": \"geometry\", \"stylers\": [ { \"visibility\": \"on\" }, { \"color\": \"#aee2e0\" } ] }, { \"featureType\": \"landscape\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#abce83\" } ] }, { \"featureType\": \"poi\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#769E72\" } ] }, { \"featureType\": \"poi\", \"elementType\": \"labels.text.fill\", \"stylers\": [ { \"color\": \"#7B8758\" } ] }, { \"featureType\": \"poi\", \"elementType\": \"labels.text.stroke\", \"stylers\": [ { \"color\": \"#EBF4A4\" } ] }, { \"featureType\": \"poi.park\", \"elementType\": \"geometry\", \"stylers\": [ { \"visibility\": \"simplified\" }, { \"color\": \"#8dab68\" } ] }, { \"featureType\": \"road\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"visibility\": \"simplified\" } ] }, { \"featureType\": \"road\", \"elementType\": \"labels.text.fill\", \"stylers\": [ { \"color\": \"#5B5B3F\" } ] }, { \"featureType\": \"road\", \"elementType\": \"labels.text.stroke\", \"stylers\": [ { \"color\": \"#ABCE83\" } ] }, { \"featureType\": \"road\", \"elementType\": \"labels.icon\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"road.local\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#A4C67D\" } ] }, { \"featureType\": \"road.arterial\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#9BBF72\" } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"geometry\", \"stylers\": [ { \"color\": \"#EBF4A4\" } ] }, { \"featureType\": \"transit\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"administrative\", \"elementType\": \"geometry.stroke\", \"stylers\": [ { \"visibility\": \"on\" }, { \"color\": \"#87ae79\" } ] }, { \"featureType\": \"administrative\", \"elementType\": \"geometry.fill\", \"stylers\": [ { \"color\": \"#7f2200\" }, { \"visibility\": \"off\" } ] }, { \"featureType\": \"administrative\", \"elementType\": \"labels.text.stroke\", \"stylers\": [ { \"color\": \"#ffffff\" }, { \"visibility\": \"on\" }, { \"weight\": 4.1 } ] }, { \"featureType\": \"administrative\", \"elementType\": \"labels.text.fill\", \"stylers\": [ { \"color\": \"#495421\" } ] }, { \"featureType\": \"administrative.neighborhood\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"off\" } ] } ]"},"gowalla":{"label":"Gowalla","style":"[ { \"featureType\": \"administrative.land_parcel\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"landscape.man_made\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"poi\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"road\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"simplified\" }, { \"lightness\": 20 } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"geometry\", \"stylers\": [ { \"hue\": \"#f49935\" } ] }, { \"featureType\": \"road.highway\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"simplified\" } ] }, { \"featureType\": \"road.arterial\", \"elementType\": \"geometry\", \"stylers\": [ { \"hue\": \"#fad959\" } ] }, { \"featureType\": \"road.arterial\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"road.local\", \"elementType\": \"geometry\", \"stylers\": [ { \"visibility\": \"simplified\" } ] }, { \"featureType\": \"road.local\", \"elementType\": \"labels\", \"stylers\": [ { \"visibility\": \"simplified\" } ] }, { \"featureType\": \"transit\", \"elementType\": \"all\", \"stylers\": [ { \"visibility\": \"off\" } ] }, { \"featureType\": \"water\", \"elementType\": \"all\", \"stylers\": [ { \"hue\": \"#a1cdfc\" }, { \"saturation\": 30 }, { \"lightness\": 49 } ] } ]"}},"facebookAppId":"","headerPosition":"top","offsetLazyLoad":"300","baseUrl":"https:\/\/lanacionweb.com\/regional\/vigilancia-epidemiologica-en-zona-sur-ante-presencia-de-monos-araguatos\/","useQueryFilter":"","pageFilters":[]};
+</script>
+<script src="https://lanacionweb.com/wp-content/themes/bricks/assets/js/bricks.min.js?ver=1710508881" id="bricks-scripts-js"></script>
+<script defer="defer" src="https://lanacionweb.com/wp-content/themes/bricks/assets/js/libs/photoswipe.umd.min.js?ver=5.3.7-brx" id="bricks-photoswipe-js"></script>
+<script src="https://lanacionweb.com/wp-content/themes/bricks/assets/js/libs/photoswipe-lightbox.umd.min.js?ver=5.3.7" id="bricks-photoswipe-lightbox-js"></script>
+<script src="https://unpkg.com/inline-module/index.js" setup="false"></script>
+<script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio"></script>
+<script src="https://lanacionweb.com/wp-content/plugins/winden/resources/dist/compile-in-browser/index.js?v=1736827366"></script>
+<script id="themeJsonContent" type="text/javascript">
+    
+            const themeColors = {"Color #1":"#f5f5f5","Color #2":"#e0e0e0","Color #3":"#9e9e9e","Color #4":"#616161","Color #5":"#424242","Color #6":"#212121","Color #7":"#ffeb3b","Color #8":"#ffc107","Color #9":"#ff9800","Color #10":"#ff5722","Color #11":"#f44336","Color #12":"#9c27b0","Color #13":"#2196f3","Color #14":"#03a9f4","Color #15":"#81D4FA","Color #16":"#4caf50","Color #17":"#8bc34a","Color #18":"#cddc39"}; 
+            const themeFontFamilies = [];
+            const themeScreens = {"2cl":{"min":"1440px"},"xl":{"min":"1280px"},"desktop":{"min":"1024px"},"tablet_portrait":{"min":"768px"},"mobile_landscape":{"min":"640px"},"mobile_portrait":{"min":"375px"}};
+        
+</script>
+<script type="inline-module" id="tailwindconfig">
+    module.exports = {
+	darkMode:'class',
+	theme: {		
+	  screens: {
+		'xs': '375px',
+		'sm': '640px',
+		'md': '768px',
+		'lg': '1024px',
+		'xl': '1280px',
+		'2xl': '1440px',
+	  },
+		
+	
+	  fontSize: {
+		  xs: 'var(--fs-xs)',
+		  sm: 'var(--fs-sm)',
+		  md: 'var(--fs-md)',
+		  lg: 'var(--fs-lg)',
+		  xl: 'var(--fs-xl)',
+		 '2xl': 'var(--fs-2xl)',
+		 '3xl': 'var(--fs-3xl)',
+		 '4xl': 'var(--fs-4xl)',
+		 '5xl': 'var(--fs-5xl)',
+		 '6xl': 'var(--fs-6xl)',
+		 '7xl': 'var(--fs-7xl)',
+		 '8xl': 'var(--fs-8xl)',
+		 '9xl': 'var(--fs-9xl)',
+  	},	
+	  fontFamily: {
+		'display': ['Roboto Condensed'],
+		'Body': ['Open Sans', 'sans'],
+	  },
+
+	 
+	extend: {
+		colors: {
+			transparent: 'transparent',
+			current: 'currentColor',
+			"primary": {
+				  50: "#F2F8FD",
+				  100: "#E0EEFA",
+				  200: "#B9D8F4",
+				  300: "#8CC0ED",
+				  400: "#53A0E4",
+				  500: "#1E73BE",
+				  600: "#1B68AC",
+				  700: "#185B96",
+				  800: "#144E80",
+				  900: "#0D3354",
+				  950: "#0A2842"
+				},
+				"secondary": {
+				  50: "#DBFFF5",
+				  100: "#ADFFE8",
+				  200: "#00FAB3",
+				  300: "#00E0A1",
+				  400: "#00C78F",
+				  500: "#00A676",
+				  600: "#00946A",
+				  700: "#00855F",
+				  800: "#006B4D",
+				  900: "#00523A",
+				  950: "#003828"
+				},
+				"acento": {
+					50: "#F3FAFC",
+					100: "#E3F4F7",
+					200: "#C3E8EE",
+					300: "#A0DAE4",
+					400: "#74C9D8",
+					500: "#3DB4C8",
+					600: "#34A3B7",
+					700: "#2E91A3",
+					800: "#257583",
+					900: "#1C5963",
+					950: "#133C44"
+				}
+		  },
+		},  
+},
+	plugins: [
+	  function ({ addComponents }) {
+		addComponents({
+		  '.wrapper': {
+			maxWidth: '1440px',
+			width: '90%',
+			marginLeft: 'auto',
+			marginRight: 'auto',
+		  },
+		  '.wrap': {
+			maxWidth: '1280px',
+			width: '90%',
+			marginLeft: 'auto',
+			marginRight: 'auto',
+		  },
+		  '.container': {
+			maxWidth: '1024px',
+			width: '90%',
+			marginLeft: 'auto',
+			marginRight: 'auto',
+		  },
+		  '.card': {
+			maxWidth: '600px',
+			width: '100%',
+		  },
+		  '.mini-card': {
+			maxWidth: '375px',
+			width: '100%',
+			marginLeft: 'auto',
+			marginRight: 'auto',
+		  },
+		})
+	  },
+	],
+}
+
+</script>
+<script type="module">
+    let config = (await inlineImport("#tailwindconfig")).default;
+
+            const updateConfig = (config, key, value, extend = false) => {
+            if (!config.theme) {
+                config.theme = {};
+            }
+
+            if (!config.theme.extend && extend) {
+                config.theme.extend = {};
+            }
+
+            const targetObject = extend ? config.theme.extend : config.theme;
+            targetObject[key] = value;
+
+            return config;
+        }
+
+        updateConfig(config, 'fontFamily', themeFontFamilies, true); updateConfig(config, 'colors', themeColors, true); updateConfig(config, 'screens', themeScreens, true);
+    
+    tailwind.config = {
+        ...config,
+        important: ""
+    };
+
+    const style = document.createElement("style");
+    style.type = "text/tailwindcss";
+    style.innerHTML = `@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Roboto+Condensed:wght@300;400;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  overflow-x: hidden;
+  font-size: 100%;
+}
+:root {
+  --sp-sm: clamp(10.0000px, 0.3846vw + 8.8462px, 15.0000px);
+  --sp-md: clamp(12.0000px, 0.6923vw + 9.9231px, 21.0000px);
+  --sp-base: clamp(14.4000px, 1.1538vw + 10.9385px, 29.4000px);
+  --sp-lg: clamp(17.2800px, 1.8369vw + 11.7692px, 41.1600px);
+  --sp-xl: clamp(20.7360px, 2.8375vw + 12.2234px, 57.6240px);
+  --sp-xxl: clamp(24.8832px, 4.2916vw + 12.0085px, 80.6736px);
+  --fs-xs: clamp(10.000px, 0.217vw + 9.304px, 12.000px);
+  --fs-sm: clamp(12.000px, 0.217vw + 11.304px, 14.000px);
+  --fs-md: clamp(14.000px, 0.217vw + 13.304px, 16.000px);
+  --fs-lg: clamp(16.000px, 0.217vw + 15.304px, 18.000px);
+  --fs-xl: clamp(18.000px, 0.217vw + 17.304px, 20.000px);
+  --fs-2xl: clamp(20.000px, 0.435vw + 18.609px, 24.000px);
+  --fs-3xl: clamp(22.000px, 0.652vw + 19.913px, 28.000px);
+  --fs-4xl: clamp(24.000px, 0.870vw + 21.217px, 32.000px);
+  --fs-5xl: clamp(26.000px, 1.087vw + 22.522px, 36.000px);
+  --fs-6xl: clamp(28.000px, 1.304vw + 23.826px, 40.000px);
+  --fs-7xl: clamp(32.000px, 1.304vw + 27.826px, 44.000px);
+  --fs-8xl: clamp(36.000px, 1.304vw + 31.826px, 48.000px);
+  --fs-9xl: clamp(40.000px, 1.304vw + 35.826px, 52.000px);
+}
+@layer components {
+  body {
+    @apply font-display font-light text-2xl leading-normal;
+  }
+  h1 {
+    @apply text-8xl leading-10 font-display my-3 font-normal;
+  }
+  h2 {
+    @apply text-7xl leading-9 font-display my-3 font-normal;
+  }
+  h3 {
+    @apply text-6xl leading-7 font-display my-3 font-normal;
+  }
+  h4 {
+    @apply text-5xl leading-7 font-display my-3 font-normal;
+  }
+  h5 {
+    @apply text-4xl leading-7 font-display my-3 font-normal;
+  }
+  h6 {
+    @apply text-3xl leading-6 font-display my-3 font-normal;
+  }
+  .seccion {
+    @apply w-full my-5;
+  }
+  .float-left {
+    @apply w-1/2 float-left m-4;
+  }
+  .float-right {
+    @apply w-1/2 float-right m-4;
+  }
+  .grid-total {
+    grid-template-columns: repeat(auto-fit, minmax(min(350px, 100%), 1fr));
+    grid-auto-rows: auto;
+    grid-auto-flow: row;
+  }
+  .gradient-one {
+    @apply bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500;
+  }
+  .gradient-two {
+    @apply bg-gradient-to-l to-red-500	 via-orange-500 from-yellow-300;
+  }
+  .gradient-three {
+    @apply bg-gradient-to-r from-sky-900 via-teal-700 to-cyan-400;
+  }
+  .gradient-four {
+    @apply bg-gradient-to-r from-sky-500 via-cyan-700 to-indigo-400;
+  }
+  .news p {
+    @apply my-6;
+  }
+}
+`;
+    document.head.appendChild(style);
+
+    import resolveConfig from "https://esm.sh/tailwindcss@3.4.4/resolveConfig";
+    const fullConfig = await resolveConfig(config);
+    window.fullTailwindConfig = fullConfig;
+
+    try {
+        window.parent.fullTailwindConfig = fullTailwindConfig;
+        const autocomplete = await window.tailwindifyClasses();
+        window.parent.winden_autocomplete = autocomplete.classes;
+    } catch (e) {
+        window.parent.winden_autocomplete = [];
+    }
+</script><script src="https://stats.wp.com/e-202503.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script id="jetpack-stats-js-after">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"105803314\",\"post\":\"177482\",\"tz\":\"-4\",\"srv\":\"lanacionweb.com\",\"j\":\"1:14.1\"}") ]);
+_stq.push([ "clickTrackerInit", "105803314", "177482" ]);
+</script>
+<script id="sharing-js-js-extra">
+var sharing_js_options = {"lang":"es","counts":"1","is_stats_active":"1"};
+</script>
+<script src="https://c0.wp.com/p/jetpack/14.1/_inc/build/sharedaddy/sharing.min.js" id="sharing-js-js"></script>
+<script id="sharing-js-js-after">
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-x' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-x' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomx', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-telegram' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-telegram' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtelegram', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+</body></html>

@@ -1,0 +1,1561 @@
+<html lang="pt_BR"><head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0GE5W4RWY7"></script>
+
+    <!-- Start cookieyes banner -->
+    <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/10af47967ae654ad86fa3203/script.js"></script>
+    <!-- End cookieyes banner -->
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-0GE5W4RWY7');
+    </script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Acaert - Notícias</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta property="og:locale" content="pt_BR">
+    <meta property="og:site_name" content="Acaert">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.acaert.com.br/noticia/52034/estado-confirma-dois-mil-casos-provaveis-e-primeira-morte-por-dengue-em-sc-no-ano">
+    <meta property="og:title" content="Estado confirma dois mil casos prováveis e primeira morte por dengue em SC no ano">
+    <meta property="og:description" content="Ocorrências estão distribuídas entre 79 municípios catarinenses. Óbito ocorreu em Joinville e outras duas mortes são investigadas em Blumenau e Garopaba">
+
+            <meta property="og:image" itemprop="image" content="https://www.acaert.com.br/images/croped?width=300&amp;height=200&amp;path=files%2Fnoticias&amp;fileName=65aaafebc7133.jpeg&amp;nocache=1736847690">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="https://www.acaert.com.br/noticia/52034/estado-confirma-dois-mil-casos-provaveis-e-primeira-morte-por-dengue-em-sc-no-ano">
+    <meta name="twitter:title" content="Estado confirma dois mil casos prováveis e primeira morte por dengue em SC no ano">
+    <meta name="twitter:description" content="Ocorrências estão distribuídas entre 79 municípios catarinenses. Óbito ocorreu em Joinville e outras duas mortes são investigadas em Blumenau e Garopaba">
+
+            <meta name="twitter:image" content="https://www.acaert.com.br/images/croped?width=300&amp;height=200&amp;path=files%2Fnoticias&amp;fileName=65aaafebc7133.jpeg&amp;nocache=1736847690
+                                ">
+    	<link rel="icon" type="image/png" href="https://www.acaert.com.br/images/favicon.png">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700">
+	<link rel="stylesheet" href="https://www.acaert.com.br/plugins/bootstrap/css/bootstrap.min.css">
+	    <link rel="stylesheet" href="https://www.acaert.com.br/css/audioplayer/audioplayer.css">
+    
+	<link rel="stylesheet" href="https://www.acaert.com.br/css/main.css">
+	<link rel="stylesheet" href="https://www.acaert.com.br/css/font-next.css">
+    <link rel="stylesheet" href="https://www.acaert.com.br/css/radio_week.css">
+	
+	<!-- Hotjar Tracking Code for https://www.acaert.com.br/ -->
+	<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:3242489,hjsv:6};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+	</script>
+
+    
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-Q7H9WQEY63"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-Q7H9WQEY63');
+    </script>
+
+</head>
+<body>
+			<nav class="navbar navbar-expand-lg navbar-light navbar-greenlight p-0">
+    <div class="bg-header">
+        <div class="container d-flex h-100">
+            <div class="field-header">
+                <div class="navbar-brand">
+                    <a href="https://www.acaert.com.br/">
+                        <img src="https://www.acaert.com.br/images/acaert-logo-white.png" alt="Logo da Acaert">
+                    </a>
+                </div>
+                <div class="field-header-list">
+                    <div class="list">
+                        <div class="field-hamburguer d-none" onclick="addClassAnimation()">
+                            <input class="checkbox" type="checkbox" id="checkbox-menu">
+
+                            <label for="checkbox-menu">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </label>
+                            <div class="list-menu">
+                                <ul class="navbar-nav menu" style="z-index:5">
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="https://www.acaert.com.br/">Home<span class="hover-bar"></span></a>
+                                    </li>
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="#">Institucional<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/institucional/quem-somos">Quem
+                                                    Somos</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/institucional/historico">Histórico</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/institucional/comendadores">Comendadores</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/institucional/estatuto">Estatuto</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/institucional/diretoria">Diretoria</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseEstrutura" aria-controls="collapseEstrutura">Estrutura
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                    <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseEstrutura">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/institucional/equipe">Equipe</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/institucional/organograma">Organograma</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAtuacao" aria-controls="collapseAtuacao">
+                                                    Atuação
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                    <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseAtuacao">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/atuacao/capacitacao">Capacitação</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/atuacao/responsabilidade-social">Responsabilidade
+                                                                Social</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseEventos" aria-controls="collapseEventos">Campanhas e eventos
+                                                                <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                                <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                                            </a>
+                                                            <div class="nav flex-column collapse bg-greenlight" id="collapseEventos">
+                                                                <ul class="nav flex-column bg-greenlight">
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link-mobile pl-4" href="#">45 anos</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/atuacao/eventos/congressos">Congressos</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link-mobile pl-4 menu-ded" href="https://www.acaert.com.br/atuacao/eventos/encontros-regionais">Encontros
+                                                                            Regionais</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/atuacao/eventos/premios">Prêmios</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link-mobile pl-4" href="#">Projetos Especiais</a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/integridade/politica-de-privacidade">Política
+                                                    de
+                                                    Privacidade</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="#">Associados<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center" href="https://www.acaert.com.br/associado/radio">Emissoras de Rádios</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="https://www.acaert.com.br/associado/tv">Emissoras de TV</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/associados/associe-se">Associe-se</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="#">RCA<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rca/quem-somos">Quem
+                                                    Somos</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rca/faca-sua-proposta">Faça sua
+                                                    Proposta</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rca/radios-rca">Rádios
+                                                    RCA</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rca/checking">Checking</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rca/opec">Opec</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rca/equipe">Equipe</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/contato">Contato</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="#">RNA<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rna/quem-somos">Quem
+                                                    Somos</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapsePodcasts" aria-controls="collapsePodcasts">Áudios<img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20"></a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapsePodcasts">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/noticias/rna-audio/ultimos-audios">Últimas
+                                                                notícias</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/noticias/todas-as-noticias">Notícias</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/noticias/rna-audio/acaert-agora">Acaert
+                                                                Agora</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/noticias/rna-audio/acaert-noticias">ACAERT
+                                                                Notícias</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/noticias/rna-audio/previsao-tempo">Previsão
+                                                                do
+                                                                Tempo</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/noticias/rna-audio/minuto-de-sc">Sul
+                                                                em Destaque</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4 menu-ded" href="https://www.acaert.com.br/noticias/rna-audio/especial">Especial</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rna/acaert-talks">ACAERT Talks</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rna/parceiros-rna">Parceiros
+                                                    RNA</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/rna/equipe">Equipe</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile" href="https://www.acaert.com.br/contato">Contato</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="#">Notícias<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/ultimos-audios">Últimas
+                                                    Notícias</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/todas-as-noticias">Todas as
+                                                    Notícias</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/todos-os-audios">Todos os
+                                                    Áudios</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/materias">Matérias</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/acaert-agora">Acaert
+                                                    Agora</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/acaert-noticias">ACAERT
+                                                    Notícias</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/especial">Especial</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/frequencia-agro">Frequência Agro</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/minuto-do-eleitor">Minuto do Eleitor</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/noticias/rna-audio/minuto-de-sc">Minuto de
+                                                    SC</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover menu-ded" href="https://www.acaert.com.br/noticias/rna-audio/previsao-tempo">Previsão do
+                                                    Tempo</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item accordion" id="accordion">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="#">Serviços<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseJuridico" aria-controls="collapseJuridico">Jurídico
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                    <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseJuridico" data-parent="#accordion">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/juridico/legislativo">Legislativo</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/juridico/trabalhista">Trabalhista</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/juridico/eleitoral">Eleitoral</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/juridico/institucional">Institucional</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/juridico/ecad">ECAD</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseTecnico" aria-controls="collapseTecnico">Técnico
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                    <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseTecnico" data-parent="#accordion">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="#">Voz Brasil</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="#">Compromisso Anual</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/tecnico/outorgas">Outorgas</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/tecnico/outorgas">Outorgas</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/tecnico/licenciamento-antenas">Licenciamento
+                                                                Antenas</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/tecnico/fistel">Fistel</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/tecnico/taxas">Taxas</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAssessoria" aria-controls="collapseAssessoria">Assessoria de Imprensa
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                    <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseAssessoria" data-parent="#accordion">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/imprensa/newsletter">Newsletter</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAdministrativos" aria-controls="collapseAdministrativos">Administrativos /
+                                                    Financeiros
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                    <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseAdministrativos" data-parent="#accordion">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/adm-financeiros/gestao-contratos">Gestão
+                                                                de
+                                                                Contratos</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4" href="https://www.acaert.com.br/servicos/adm-financeiros/contas-receber-veiculacao">Contas
+                                                                a Receber Veiculação</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link-mobile pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="#">Integridade<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="https://www.acaert.com.br/integridade/politica-de-privacidade">
+                                                    Política
+                                                        de
+                                                        Privacidade</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link-mobile text-hover" href="#">Canal de Denúncias</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link-mobile px-0 text-uppercase" href="https://www.acaert.com.br/contato">Contato<span class="hover-bar"></span></a>
+                                    </li>
+                                </ul>
+                                <div class="social-mobile">
+                                    <a href="https://facebook.com/acaertoficial" target="_blank" title="Facebook">
+                                        <svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M25.8366 4H5.16344C4.82251 4.00253 4.49626 4.13909 4.25518 4.38018C4.01409 4.62126 3.87753 4.94751 3.875 5.28844V25.9616C3.87753 26.3025 4.01409 26.6287 4.25518 26.8698C4.49626 27.1109 4.82251 27.2475 5.16344 27.25H16.2944V18.26H13.2719V14.7434H16.2944V12.1569C16.2944 9.15375 18.1253 7.51656 20.8184 7.51656C21.7194 7.51656 22.6203 7.51656 23.5212 7.65219V10.7812H21.6709C20.2081 10.7812 19.9272 11.4788 19.9272 12.4959V14.7338H23.4147L22.9594 18.2503H19.9272V27.25H25.8366C26.1775 27.2475 26.5037 27.1109 26.7448 26.8698C26.9859 26.6287 27.1225 26.3025 27.125 25.9616V5.28844C27.1225 4.94751 26.9859 4.62126 26.7448 4.38018C26.5037 4.13909 26.1775 4.00253 25.8366 4Z" fill="#142E2A"></path>
+                                        </svg>
+                                    </a>
+                                    <a href="https://www.instagram.com/acaert_radiotv" target="_blank" title="Instagram">
+                                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M22 3.03125H10C8.14409 3.03317 6.36477 3.74824 5.05245 5.01956C3.74012 6.29087 3.00199 8.01459 3 9.8125V21.4375C3.00199 23.2354 3.74012 24.9591 5.05245 26.2304C6.36477 27.5018 8.14409 28.2168 10 28.2188H22C23.8559 28.2168 25.6352 27.5018 26.9476 26.2304C28.2599 24.9591 28.998 23.2354 29 21.4375V9.8125C28.998 8.01459 28.2599 6.29087 26.9476 5.01956C25.6352 3.74824 23.8559 3.03317 22 3.03125ZM16 21.4375C14.8133 21.4375 13.6533 21.0966 12.6666 20.4579C11.6799 19.8192 10.9108 18.9114 10.4567 17.8493C10.0026 16.7873 9.88378 15.6186 10.1153 14.491C10.3468 13.3635 10.9182 12.3278 11.7574 11.5149C12.5965 10.702 13.6656 10.1485 14.8295 9.92419C15.9933 9.69991 17.1997 9.81502 18.2961 10.255C19.3925 10.6949 20.3295 11.4399 20.9888 12.3957C21.6481 13.3516 22 14.4754 22 15.625C21.9983 17.1661 21.3657 18.6436 20.2408 19.7333C19.116 20.823 17.5908 21.4359 16 21.4375ZM23.5 9.8125C23.2033 9.8125 22.9133 9.72728 22.6666 9.5676C22.42 9.40793 22.2277 9.18099 22.1142 8.91546C22.0007 8.64994 21.9709 8.35776 22.0288 8.07588C22.0867 7.79401 22.2296 7.53508 22.4393 7.33186C22.6491 7.12864 22.9164 6.99024 23.2074 6.93417C23.4983 6.8781 23.7999 6.90688 24.074 7.01686C24.3481 7.12685 24.5824 7.3131 24.7472 7.55206C24.912 7.79103 25 8.07197 25 8.35938C25 8.74477 24.842 9.11438 24.5607 9.38689C24.2794 9.6594 23.8978 9.8125 23.5 9.8125ZM20 15.625C20 16.3914 19.7654 17.1406 19.3259 17.7778C18.8864 18.4151 18.2616 18.9117 17.5307 19.205C16.7998 19.4983 15.9956 19.5751 15.2196 19.4255C14.4437 19.276 13.731 18.907 13.1716 18.365C12.6122 17.8231 12.2312 17.1327 12.0769 16.381C11.9225 15.6293 12.0017 14.8502 12.3045 14.1421C12.6072 13.434 13.1199 12.8288 13.7777 12.4031C14.4355 11.9773 15.2089 11.75 16 11.75C17.0609 11.75 18.0783 12.1583 18.8284 12.885C19.5786 13.6117 20 14.5973 20 15.625Z" fill="#142E2A"></path>
+                                        </svg>
+                                    </a>
+                                    <a href="https://twitter.com/acaert" target="_blank" title="Twitter">
+                                        <svg width="24" height="28" viewBox="0 0 24 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M21.4286 1.8125H2.57143C1.15179 1.8125 0 2.94629 0 4.34375V22.9062C0 24.3037 1.15179 25.4375 2.57143 25.4375H21.4286C22.8482 25.4375 24 24.3037 24 22.9062V4.34375C24 2.94629 22.8482 1.8125 21.4286 1.8125ZM18.8089 10.1867C18.8196 10.3344 18.8196 10.4873 18.8196 10.635C18.8196 15.207 15.2839 20.4752 8.82321 20.4752C6.83036 20.4752 4.98214 19.9057 3.42857 18.9248C3.7125 18.9564 3.98571 18.967 4.275 18.967C5.91964 18.967 7.43036 18.4186 8.63571 17.4904C7.09286 17.4588 5.79643 16.4621 5.35179 15.091C5.89286 15.1701 6.38036 15.1701 6.9375 15.0277C5.33036 14.7061 4.125 13.3139 4.125 11.6316V11.5895C4.59107 11.8479 5.1375 12.0061 5.71071 12.0271C5.2288 11.7116 4.83374 11.2835 4.56079 10.7811C4.28784 10.2787 4.14548 9.7176 4.14643 9.14785C4.14643 8.50449 4.31786 7.91387 4.62321 7.40234C6.35357 9.50117 8.95179 10.8723 11.8661 11.0199C11.3679 8.67324 13.1518 6.76953 15.2946 6.76953C16.3071 6.76953 17.2179 7.18613 17.8607 7.86113C18.6536 7.71348 19.4143 7.42344 20.0893 7.02793C19.8268 7.82949 19.275 8.50449 18.5464 8.93164C19.2536 8.85781 19.9393 8.6627 20.5714 8.39375C20.0946 9.08457 19.4946 9.69629 18.8089 10.1867Z" fill="#142E2A"></path>
+                                        </svg>
+
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/acaert" target="_blank" title="Linkedin">
+                                        <svg width="27" height="28" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M22.6376 2.09912C23.33 2.09912 23.9941 2.37419 24.4837 2.86381C24.9733 3.35344 25.2484 4.01751 25.2484 4.70995V22.9857C25.2484 23.6782 24.9733 24.3422 24.4837 24.8318C23.9941 25.3215 23.33 25.5965 22.6376 25.5965H4.3618C3.66937 25.5965 3.00529 25.3215 2.51567 24.8318C2.02604 24.3422 1.75098 23.6782 1.75098 22.9857V4.70995C1.75098 4.01751 2.02604 3.35344 2.51567 2.86381C3.00529 2.37419 3.66937 2.09912 4.3618 2.09912H22.6376ZM21.9849 22.333V15.4143C21.9849 14.2857 21.5365 13.2032 20.7384 12.4051C19.9403 11.607 18.8579 11.1587 17.7292 11.1587C16.6196 11.1587 15.3273 11.8375 14.7007 12.8557V11.4067H11.0586V22.333H14.7007V15.8973C14.7007 14.8922 15.51 14.0698 16.5152 14.0698C16.9999 14.0698 17.4647 14.2623 17.8075 14.605C18.1502 14.9478 18.3428 15.4126 18.3428 15.8973V22.333H21.9849ZM6.81598 9.35721C7.39762 9.35721 7.95544 9.12616 8.36673 8.71487C8.77801 8.30359 9.00907 7.74577 9.00907 7.16412C9.00907 5.95009 8.03001 4.95797 6.81598 4.95797C6.23087 4.95797 5.66973 5.19041 5.25599 5.60414C4.84226 6.01787 4.60983 6.57901 4.60983 7.16412C4.60983 8.37815 5.60194 9.35721 6.81598 9.35721ZM8.6305 22.333V11.4067H5.01451V22.333H8.6305Z" fill="#142E2A"></path>
+                                        </svg>
+                                    </a>
+                                    <a href="https://www.youtube.com/channel/UCgy0Z4zCOMJua6ibVZxiW-A" target="_blank" title="Youtube">
+                                        <svg width="28" height="29" viewBox="0 0 28 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M27.4143 7.34203C27.2561 6.74619 26.9442 6.20236 26.5097 5.765C26.0752 5.32765 25.5335 5.01213 24.9387 4.85003C22.7558 4.26086 14 4.26086 14 4.26086C14 4.26086 5.24417 4.26086 3.06017 4.85003C2.46564 5.01241 1.92418 5.32805 1.48992 5.76538C1.05567 6.2027 0.743857 6.74638 0.585667 7.34203C0 9.54003 0 14.125 0 14.125C0 14.125 0 18.71 0.585667 20.908C0.74385 21.5039 1.0558 22.0477 1.49029 22.4851C1.92478 22.9224 2.46654 23.2379 3.06133 23.4C5.24417 23.9892 14 23.9892 14 23.9892C14 23.9892 22.7558 23.9892 24.9398 23.4C25.5347 23.238 26.0765 22.9226 26.511 22.4852C26.9455 22.0478 27.2574 21.5039 27.4155 20.908C28 18.71 28 14.125 28 14.125C28 14.125 28 9.54003 27.4143 7.34203ZM11.1358 18.2877V9.96236L18.4543 14.125L11.1358 18.2877Z" fill="#142E2A"></path>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                            <ul class="navbar-nav menu" style="z-index:5">
+                                <ul class="navbar-nav menu" style="z-index:5">
+                                    <li class="nav-item px-0">
+                                        <a class="nav-link p-0 text-uppercase opcao-header" href="#">Institucional<span class="hover-bar"></span></a>
+                                        <ul class="nav flex-column sub-menu animate slideIn bg-greenlight">
+                                            <li class="nav-item">
+                                                <a class="nav-link text-hover" href="https://www.acaert.com.br/institucional/quem-somos">Quem Somos</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="https://www.acaert.com.br/institucional/historico">Histórico</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="https://www.acaert.com.br/institucional/comendadores">Comendadores</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="https://www.acaert.com.br/institucional/estatuto">Estatuto</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="https://www.acaert.com.br/institucional/diretoria">Diretoria</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseEstrutura" aria-controls="collapseEstrutura">
+                                                    Estrutura
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseEstrutura">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link pl-4" href="https://www.acaert.com.br/institucional/equipe">Equipe</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link pl-4" href="https://www.acaert.com.br/institucional/organograma">Organograma</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                            
+                                            <li class="nav-item">
+                                                <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAtuacao" aria-controls="collapseAtuacao">
+                                                    Atuação
+                                                    <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20">
+                                                </a>
+                                                <div class="nav flex-column collapse bg-greenlight" id="collapseAtuacao">
+                                                    <ul class="nav flex-column bg-greenlight">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link pl-4 d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseEventos" aria-controls="collapseEventos">
+                                                                Campanhas e eventos
+                                                                <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20">
+                                                            </a>
+                                                            <div class="nav flex-column collapse bg-greenlight" id="collapseEventos">
+                                                                <ul class="nav flex-column bg-greenlight">
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link pl-5" href="#">45 anos</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link pl-5" href="https://www.acaert.com.br/atuacao/eventos/congressos">Congressos</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link pl-5" href="https://www.acaert.com.br/atuacao/eventos/encontros-regionais">Encontros Regionais</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link pl-5" href="https://www.acaert.com.br/atuacao/eventos/premios">Prêmios</a>
+                                                                    </li>
+                                                                    <li class="nav-item">
+                                                                        <a class="nav-link pl-5" href="#">Projetos Especiais
+                                                                        </a>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link pl-4" href="https://www.acaert.com.br/atuacao/capacitacao">Capacitação</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link pl-4" href="https://www.acaert.com.br/atuacao/responsabilidade-social">Responsabilidade Social</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <li class="nav-item px-0">
+                                    <a class="nav-link p-0 text-uppercase opcao-header" href="#">Associados<span class="hover-bar"></span></a>
+                                    <ul class="nav flex-column sub-menu animate slideIn bg-greenlight">
+                                        <li class="nav-item">
+                                            <a class="nav-link d-flex justify-content-between align-items-center" href="https://www.acaert.com.br/associado/radio">Emissoras de Rádios</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="https://www.acaert.com.br/associado/tv">Emissoras de TV</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/associados/associe-se">Associe-se</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item px-0">
+                                    <a class="nav-link p-0 text-uppercase opcao-header" href="#">RCA<span class="hover-bar"></span></a>
+                                    <ul class="nav flex-column sub-menu animate slideIn bg-greenlight">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rca/quem-somos">Quem
+                                                Somos</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rca/faca-sua-proposta">Faça
+                                                sua
+                                                Proposta</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rca/radios-rca">Rádios
+                                                RCA</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rca/checking">Checking</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rca/opec">Opec</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rca/equipe">Equipe</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/contato">Contato</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item px-0">
+                                    <a class="nav-link p-0 text-uppercase opcao-header" href="#">RNA<span class="hover-bar"></span></a>
+                                    <ul class="nav flex-column sub-menu animate slideIn bg-greenlight">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rna/quem-somos">Quem
+                                                Somos</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rna/equipe">Equipe</a>
+                                        </li>
+                                        
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rna/acaert-talks">ACAERT Talks</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/rna/parceiros-rna">Parceiros
+                                                RNA</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/contato">Contato</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item px-0">
+                                    <a class="nav-link p-0 text-uppercase opcao-header" href="#">NOTÍCIAS<span class="hover-bar"></span></a>
+                                    <ul class="nav flex-column sub-menu animate slideIn bg-greenlight">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/todas-as-noticias">Todas as
+                                                Notícias</a>
+                                        </li>
+                                        
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/todos-os-audios">Todos os
+                                                Áudios</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/materias">Matérias</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/acaert-agora">ACAERT
+                                                Agora</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/acaert-noticias">ACAERT
+                                                Notícias</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/especial">Especial</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/frequencia-agro">Frequência Agro</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/minuto-do-eleitor">Minuto do Eleitor</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/minuto-de-sc">Minuto de
+                                                SC</a>
+                                        </li>
+                                        <li class="nav-item menu-ded">
+                                            <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/previsao-tempo">Previsão do
+                                                Tempo</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item accordion" id="accordion">
+                                    <a class="nav-link p-0 text-uppercase opcao-header" href="#">Serviços<span class="hover-bar"></span></a>
+                                    <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                        <li class="nav-item">
+                                            <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseJuridico" aria-controls="collapseJuridico">Jurídico<img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20"></a>
+                                            <div class="nav flex-column collapse bg-greenlight" id="collapseJuridico" data-parent="#accordion">
+                                                <ul class="nav flex-column bg-greenlight">
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/juridico/legislativo">Legislativo</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/juridico/trabalhista">Trabalhista</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/juridico/eleitoral">Eleitoral</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/juridico/institucional">Institucional</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/juridico/ecad">ECAD</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseTecnico" aria-controls="collapseTecnico">Técnico<img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20"></a>
+                                            <div class="nav flex-column collapse bg-greenlight" id="collapseTecnico" data-parent="#accordion">
+                                                <ul class="nav flex-column bg-greenlight">
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="#">Voz Brasil</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="#">Compromisso Anual</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/tecnico/outorgas">Outorgas</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/tecnico/licenciamento-antenas">Licenciamento
+                                                            Antenas</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/tecnico/fistel">Fistel</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/tecnico/taxas">Taxas</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAssessoria" aria-controls="collapseAssessoria">Assessoria de Imprensa<img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20"></a>
+                                            <div class="nav flex-column collapse bg-greenlight" id="collapseAssessoria" data-parent="#accordion">
+                                                <ul class="nav flex-column bg-greenlight">
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/imprensa/newsletter">Newsletter</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAdministrativos" aria-controls="collapseAdministrativos">Administrativos /
+                                                Financeiros<img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20"></a>
+                                            <div class="nav flex-column collapse bg-greenlight" id="collapseAdministrativos" data-parent="#accordion">
+                                                <ul class="nav flex-column bg-greenlight">
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/adm-financeiros/gestao-contratos">Gestão
+                                                            de
+                                                            Contratos</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4" href="https://www.acaert.com.br/servicos/adm-financeiros/contas-receber-veiculacao">Contas
+                                                            a Receber Veiculação</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4 menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item integridade" id="integridade">
+                                    <a class="nav-link p-0 text-uppercase opcao-header" href="#">Integridade<span class="hover-bar"></span></a>
+                                    <ul class="nav flex-column sub-menu w-260 animate slideIn bg-greenlight">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="https://www.acaert.com.br/integridade/politica-de-privacidade">Política de Privacidade</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#">Canal de Denúncias</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="login_user">
+                            <a href="https://www.acaert.com.br/perfil/login">
+                                                                    <img class="w-100 h-100" src="https://www.acaert.com.br/images/user-lock.svg" alt="">
+                                                            </a>
+                        </div>
+                    </div>
+                    <div class="field-search_desktop">
+                        <form action="https://www.acaert.com.br/busca" id="form-search" method="get">
+                            <label class="field-search-label">
+                                <input class="search" name="b" type="text" autocomplete="off" placeholder="Pesquisar">
+                                <img onclick="document.getElementById('form-search').submit()" src="https://www.acaert.com.br/images/new-search.svg" class="search_submit" alt="Icone de pesquisa">
+                            </label>
+                            <input type="hidden" name="_token" value="oPHk7mNv3XgkAVzoenfLttAINMR05mM0RKwGqXcN">                        </form>
+                        <div class="social">
+                            <a href="https://facebook.com/acaertoficial" target="_blank" title="Facebook">
+                                <svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M25.8366 4H5.16344C4.82251 4.00253 4.49626 4.13909 4.25518 4.38018C4.01409 4.62126 3.87753 4.94751 3.875 5.28844V25.9616C3.87753 26.3025 4.01409 26.6287 4.25518 26.8698C4.49626 27.1109 4.82251 27.2475 5.16344 27.25H16.2944V18.26H13.2719V14.7434H16.2944V12.1569C16.2944 9.15375 18.1253 7.51656 20.8184 7.51656C21.7194 7.51656 22.6203 7.51656 23.5212 7.65219V10.7812H21.6709C20.2081 10.7812 19.9272 11.4788 19.9272 12.4959V14.7338H23.4147L22.9594 18.2503H19.9272V27.25H25.8366C26.1775 27.2475 26.5037 27.1109 26.7448 26.8698C26.9859 26.6287 27.1225 26.3025 27.125 25.9616V5.28844C27.1225 4.94751 26.9859 4.62126 26.7448 4.38018C26.5037 4.13909 26.1775 4.00253 25.8366 4Z" fill="white"></path>
+                                </svg>
+                            </a>
+                            <a href="https://www.instagram.com/acaertoficial" target="_blank" title="Instagram">
+                                <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M22 3.03125H10C8.14409 3.03317 6.36477 3.74824 5.05245 5.01956C3.74012 6.29087 3.00199 8.01459 3 9.8125V21.4375C3.00199 23.2354 3.74012 24.9591 5.05245 26.2304C6.36477 27.5018 8.14409 28.2168 10 28.2188H22C23.8559 28.2168 25.6352 27.5018 26.9476 26.2304C28.2599 24.9591 28.998 23.2354 29 21.4375V9.8125C28.998 8.01459 28.2599 6.29087 26.9476 5.01956C25.6352 3.74824 23.8559 3.03317 22 3.03125ZM16 21.4375C14.8133 21.4375 13.6533 21.0966 12.6666 20.4579C11.6799 19.8192 10.9108 18.9114 10.4567 17.8493C10.0026 16.7873 9.88378 15.6186 10.1153 14.491C10.3468 13.3635 10.9182 12.3278 11.7574 11.5149C12.5965 10.702 13.6656 10.1485 14.8295 9.92419C15.9933 9.69991 17.1997 9.81502 18.2961 10.255C19.3925 10.6949 20.3295 11.4399 20.9888 12.3957C21.6481 13.3516 22 14.4754 22 15.625C21.9983 17.1661 21.3657 18.6436 20.2408 19.7333C19.116 20.823 17.5908 21.4359 16 21.4375ZM23.5 9.8125C23.2033 9.8125 22.9133 9.72728 22.6666 9.5676C22.42 9.40793 22.2277 9.18099 22.1142 8.91546C22.0007 8.64994 21.9709 8.35776 22.0288 8.07588C22.0867 7.79401 22.2296 7.53508 22.4393 7.33186C22.6491 7.12864 22.9164 6.99024 23.2074 6.93417C23.4983 6.8781 23.7999 6.90688 24.074 7.01686C24.3481 7.12685 24.5824 7.3131 24.7472 7.55206C24.912 7.79103 25 8.07197 25 8.35938C25 8.74477 24.842 9.11438 24.5607 9.38689C24.2794 9.6594 23.8978 9.8125 23.5 9.8125ZM20 15.625C20 16.3914 19.7654 17.1406 19.3259 17.7778C18.8864 18.4151 18.2616 18.9117 17.5307 19.205C16.7998 19.4983 15.9956 19.5751 15.2196 19.4255C14.4437 19.276 13.731 18.907 13.1716 18.365C12.6122 17.8231 12.2312 17.1327 12.0769 16.381C11.9225 15.6293 12.0017 14.8502 12.3045 14.1421C12.6072 13.434 13.1199 12.8288 13.7777 12.4031C14.4355 11.9773 15.2089 11.75 16 11.75C17.0609 11.75 18.0783 12.1583 18.8284 12.885C19.5786 13.6117 20 14.5973 20 15.625Z" fill="white"></path>
+                                </svg>
+                            </a>
+                            <a href="https://twitter.com/acaert" target="_blank" title="Twitter">
+                                <svg width="24" height="28" viewBox="0 0 24 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M21.4286 1.8125H2.57143C1.15179 1.8125 0 2.94629 0 4.34375V22.9062C0 24.3037 1.15179 25.4375 2.57143 25.4375H21.4286C22.8482 25.4375 24 24.3037 24 22.9062V4.34375C24 2.94629 22.8482 1.8125 21.4286 1.8125ZM18.8089 10.1867C18.8196 10.3344 18.8196 10.4873 18.8196 10.635C18.8196 15.207 15.2839 20.4752 8.82321 20.4752C6.83036 20.4752 4.98214 19.9057 3.42857 18.9248C3.7125 18.9564 3.98571 18.967 4.275 18.967C5.91964 18.967 7.43036 18.4186 8.63571 17.4904C7.09286 17.4588 5.79643 16.4621 5.35179 15.091C5.89286 15.1701 6.38036 15.1701 6.9375 15.0277C5.33036 14.7061 4.125 13.3139 4.125 11.6316V11.5895C4.59107 11.8479 5.1375 12.0061 5.71071 12.0271C5.2288 11.7116 4.83374 11.2835 4.56079 10.7811C4.28784 10.2787 4.14548 9.7176 4.14643 9.14785C4.14643 8.50449 4.31786 7.91387 4.62321 7.40234C6.35357 9.50117 8.95179 10.8723 11.8661 11.0199C11.3679 8.67324 13.1518 6.76953 15.2946 6.76953C16.3071 6.76953 17.2179 7.18613 17.8607 7.86113C18.6536 7.71348 19.4143 7.42344 20.0893 7.02793C19.8268 7.82949 19.275 8.50449 18.5464 8.93164C19.2536 8.85781 19.9393 8.6627 20.5714 8.39375C20.0946 9.08457 19.4946 9.69629 18.8089 10.1867Z" fill="white"></path>
+                                </svg>
+
+                            </a>
+                            <a href="https://www.linkedin.com/company/acaert" target="_blank" title="Linkedin">
+                                <svg width="27" height="28" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M22.6376 2.09912C23.33 2.09912 23.9941 2.37419 24.4837 2.86381C24.9733 3.35344 25.2484 4.01751 25.2484 4.70995V22.9857C25.2484 23.6782 24.9733 24.3422 24.4837 24.8318C23.9941 25.3215 23.33 25.5965 22.6376 25.5965H4.3618C3.66937 25.5965 3.00529 25.3215 2.51567 24.8318C2.02604 24.3422 1.75098 23.6782 1.75098 22.9857V4.70995C1.75098 4.01751 2.02604 3.35344 2.51567 2.86381C3.00529 2.37419 3.66937 2.09912 4.3618 2.09912H22.6376ZM21.9849 22.333V15.4143C21.9849 14.2857 21.5365 13.2032 20.7384 12.4051C19.9403 11.607 18.8579 11.1587 17.7292 11.1587C16.6196 11.1587 15.3273 11.8375 14.7007 12.8557V11.4067H11.0586V22.333H14.7007V15.8973C14.7007 14.8922 15.51 14.0698 16.5152 14.0698C16.9999 14.0698 17.4647 14.2623 17.8075 14.605C18.1502 14.9478 18.3428 15.4126 18.3428 15.8973V22.333H21.9849ZM6.81598 9.35721C7.39762 9.35721 7.95544 9.12616 8.36673 8.71487C8.77801 8.30359 9.00907 7.74577 9.00907 7.16412C9.00907 5.95009 8.03001 4.95797 6.81598 4.95797C6.23087 4.95797 5.66973 5.19041 5.25599 5.60414C4.84226 6.01787 4.60983 6.57901 4.60983 7.16412C4.60983 8.37815 5.60194 9.35721 6.81598 9.35721ZM8.6305 22.333V11.4067H5.01451V22.333H8.6305Z" fill="white"></path>
+                                </svg>
+                            </a>
+                            <a href="https://www.youtube.com/channel/UCgy0Z4zCOMJua6ibVZxiW-A" target="_blank" title="Youtube">
+                                <svg width="28" height="29" viewBox="0 0 28 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M27.4143 7.34203C27.2561 6.74619 26.9442 6.20236 26.5097 5.765C26.0752 5.32765 25.5335 5.01213 24.9387 4.85003C22.7558 4.26086 14 4.26086 14 4.26086C14 4.26086 5.24417 4.26086 3.06017 4.85003C2.46564 5.01241 1.92418 5.32805 1.48992 5.76538C1.05567 6.2027 0.743857 6.74638 0.585667 7.34203C0 9.54003 0 14.125 0 14.125C0 14.125 0 18.71 0.585667 20.908C0.74385 21.5039 1.0558 22.0477 1.49029 22.4851C1.92478 22.9224 2.46654 23.2379 3.06133 23.4C5.24417 23.9892 14 23.9892 14 23.9892C14 23.9892 22.7558 23.9892 24.9398 23.4C25.5347 23.238 26.0765 22.9226 26.511 22.4852C26.9455 22.0478 27.2574 21.5039 27.4155 20.908C28 18.71 28 14.125 28 14.125C28 14.125 28 9.54003 27.4143 7.34203ZM11.1358 18.2877V9.96236L18.4543 14.125L11.1358 18.2877Z" fill="white"></path>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="field-search_mobile closeSearch">
+                        <form action="https://www.acaert.com.br/busca" id="form-search" method="get">
+                            <label class="field-search-label">
+                                <input class="search" onblur="closeSearchInput()" name="b" type="text" autocomplete="off" placeholder="Pesquisar">
+                                <img src="https://www.acaert.com.br/images/new-search.svg" class="search_submit_mobile" alt="Icone de pesquisa">
+                            </label>
+                            <input type="hidden" name="_token" value="oPHk7mNv3XgkAVzoenfLttAINMR05mM0RKwGqXcN">                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<script>
+    function addClassAnimation() {
+        var listmenu = document.querySelector(".list-menu");
+        listmenu.classList.add("openMenu")
+    }
+</script>
+
+<script>
+    // Seleciona a checkbox e o elemento HTML
+    var checkbox = document.getElementById('checkbox-menu');
+
+    // Adiciona o evento de escuta para monitorar as mudanças na checkbox
+    checkbox.addEventListener('change', function() {
+
+        // Verifica se a checkbox foi marcada
+        if (this.checked) {
+            document.getElementsByTagName('html')[0].style.overflow = "hidden";
+
+        } else {
+            document.getElementsByTagName('html')[0].style.overflow = "";
+        }
+    });
+</script>
+
+<script>
+    let search = document.querySelector('.search_submit_mobile');
+    let fieldSearch = document.querySelector('.field-search_mobile');
+    let navbarBrand = document.querySelector('.navbar-brand');
+
+    search.addEventListener('click', function() {
+        if (fieldSearch.classList.contains('closeSearch')) {
+            fieldSearch.classList.remove('closeSearch');
+            fieldSearch.classList.add('openSearch');
+            navbarBrand.style.display = 'none';
+        } else if (fieldSearch.classList.contains('openSearch')) {
+            fieldSearch.classList.remove('openSearch');
+            fieldSearch.classList.add('closeSearch');
+            navbarBrand.style.display = 'block';
+        }
+
+    })
+</script>
+
+<script>
+    function closeSearchInput() {
+        let fieldSearch = document.querySelector('.field-search_mobile');
+        let navbarBrand = document.querySelector('.navbar-brand');
+
+        fieldSearch.classList.remove('openSearch');
+        fieldSearch.classList.add('closeSearch');
+        navbarBrand.style.display = 'block';
+    }
+</script>
+			    <section class="breadcrumb-bar mt-4">
+        <div class="container">
+            <ul id="breadcrumb">
+                <li><a href="https://www.acaert.com.br/">Home</a></li>
+                <li style="pointer-events: none;">
+                    <p>
+                        Notícias
+                    </p>
+                </li>
+                                    <li>
+                        <a href="https://www.acaert.com.br/noticias/rna-audio/todos-os-audios">
+                            RNA Áudios
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.acaert.com.br/noticias/rna-audio/materias">
+                            Matérias
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+
+    </section>
+    <section id="detalhe" class="mt-5 pt-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-1 m-lg-0 mb-4">
+                    <a href="https://facebook.com/sharer/sharer.php?href=https://www.acaert.com.br/noticia/52034/estado-confirma-dois-mil-casos-provaveis-e-primeira-morte-por-dengue-em-sc-no-ano" target="_blank" title="Facebook" class="mt-2 mr-3 mb-3 d-lg-block">
+                        <img src="https://www.acaert.com.br/images/facebook.svg" width="30" height="30" alt="">
+                    </a>
+                    <a href="https://twitter.com/intent/tweet?text=Estado confirma dois mil casos prováveis e primeira morte por dengue em SC no ano&amp;url=https://www.acaert.com.br/noticia/52034/estado-confirma-dois-mil-casos-provaveis-e-primeira-morte-por-dengue-em-sc-no-ano" target="_blank" title="Twitter" class="mr-3 mb-3 d-lg-block">
+                        <img src="https://www.acaert.com.br/images/twitter.svg" width="30" height="30" alt="">
+                    </a>
+                    <a href="https://api.whatsapp.com/send?text=https://www.acaert.com.br/noticia/52034/estado-confirma-dois-mil-casos-provaveis-e-primeira-morte-por-dengue-em-sc-no-ano" target="_blank" title="Whatsapp" class="mr-3 mb-3 d-lg-block">
+                        <img src="https://www.acaert.com.br/images/whatsapp.svg" width="32" height="32" alt="">
+                    </a>
+                </div>
+                <div class="col-12 col-lg-10" id="52034" style="overflow: hidden">
+                    <h1 class="mb-3">Estado confirma dois mil casos prováveis e primeira morte por dengue em SC no ano</h1>
+                    <p class="resumo mb-3">Ocorrências estão distribuídas entre 79 municípios catarinenses. Óbito ocorreu em Joinville e outras duas mortes são investigadas em Blumenau e Garopaba</p>
+                    <span class="relogio">22/01/2024</span>
+                                            <div class="mt-5">
+                            <audio preload="auto" controls="">
+                                <source src="https://www.acaert.com.br/storage/files/mp3/65aaafebc76ff.mp3">
+                            </audio>
+                                                    </div>
+                                        <input type="hidden" name="route" value="https://www.acaert.com.br/noticia/play">
+                    <input type="hidden" name="conteudo" value="52034">
+                    <input type="hidden" name="user" value="">
+                    <input type="hidden" name="_token" value="oPHk7mNv3XgkAVzoenfLttAINMR05mM0RKwGqXcN">                    <p class="mt-5"></p>
+                                            <p class="mt-4">Repórter: Kadu Reis / RNA Florianópolis</p>
+                        <div class="content-field-tags">
+                            <div class="field-tags">
+                                <a href="https://www.acaert.com.br/noticias/noticias">Notícias
+                                </a>
+                            </div>
+                            <span>SAÚDE</span>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </section>
+    <style>
+        .mt-5 iframe {
+            width: 100% !important;
+        }
+    </style>
+
+    <div class="modal fade" id="modal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div>
+                        <h5 class="modal-title" id="modalLabel">Este é um serviço para Associados ACAERT.</h5>
+                        <p class="m-0">Mais informações (48) 3212-9612 / <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="720213070613321311131700065c111d1f5c1000">[email&nbsp;protected]</a></p>
+                    </div>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form name="login" class="needs-validation" novalidate="">
+                        <input type="hidden" name="_token" value="oPHk7mNv3XgkAVzoenfLttAINMR05mM0RKwGqXcN">                        <div class="form-group mb-3">
+                            <input type="email" class="form-control form-control-lg" name="email" placeholder="Digite seu e-mail" value="" required="" autofocus="">
+                        </div>
+                        <div class="form-group mb-3">
+                            <input type="password" class="form-control form-control-lg" name="password" placeholder="Digite sua senha" required="">
+                        </div>
+                        <div class="row">
+                            <div class="col-12 col-lg-4 offset-lg-8">
+                                <button type="submit" class="btn btn-success btn-block">Acessar</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            <section id="ultimas" class="pt-3 pb-5">
+            <div class="container">
+                                    <div class="bar-green"><span>Últimos áudios</span></div>
+                                <div class="row">
+                                            <div class="col-12 col-lg-4 mb-3 ">
+                            <div class="box p-0 bg-cinza-244" style="height: 480px">
+                                <a href="https://www.acaert.com.br/noticia/56193/catarinenses-compram-221-mil-veiculos-0km-em-um-ano-e-impulsionam-setor-a-crescimento-de-206" title="Catarinenses compram 221 mil veículos 0km em um ano e impulsionam setor a crescimento de 20,6%">
+                                    <div class="box-item" style="height: 250px">
+                                        <div class="box-image">
+                                            <img src="https://www.acaert.com.br/storage/files/noticias/67854beef25b7.jpg" alt="" class="h-100">
+                                        </div>
+                                        <div class="box-body box-body-noticias" id="56193">
+                                            <span class="categoria mb-3">ECONOMIA</span>
+                                            <h2 class="ellipsis ellipsis-camp-2 mb-2">Catarinenses compram 221 mil veículos 0km em um ano e impulsionam setor a crescimento de 20,6%</h2>
+                                            <div class="box-body-btn">
+                                                <span class="relogio mb-2">14/01/2025
+                                                    
+                                                </span>
+
+                                                                                                    <div>
+
+                                                        <span class="btn-audio" title="Catarinenses compram 221 mil veículos 0km em um ano e impulsionam setor a crescimento de 20,6%">Ouvir
+                                                            03:00
+                                                        </span>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="col-12 col-lg-4 mb-3 ">
+                            <div class="box p-0 bg-cinza-244" style="height: 480px">
+                                <a href="https://www.acaert.com.br/noticia/56198/foco-de-febre-aftosa-na-alemanha-reforca-cuidados-sanitarios-santa-catarina-permanece-sem-risco" title="Foco de febre aftosa na Alemanha reforça cuidados sanitários. Santa Catarina permanece sem risco">
+                                    <div class="box-item" style="height: 250px">
+                                        <div class="box-image">
+                                            <img src="https://www.acaert.com.br/storage/files/noticias/6785a4e975119.jpeg" alt="" class="h-100">
+                                        </div>
+                                        <div class="box-body box-body-noticias" id="56198">
+                                            <span class="categoria mb-3">AGROPECUÁRIA</span>
+                                            <h2 class="ellipsis ellipsis-camp-2 mb-2">Foco de febre aftosa na Alemanha reforça cuidados sanitários. Santa Catarina permanece sem risco</h2>
+                                            <div class="box-body-btn">
+                                                <span class="relogio mb-2">14/01/2025
+                                                    
+                                                </span>
+
+                                                                                                    <div>
+
+                                                        <span class="btn-audio" title="Foco de febre aftosa na Alemanha reforça cuidados sanitários. Santa Catarina permanece sem risco">Ouvir
+                                                            02:44
+                                                        </span>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="col-12 col-lg-4 mb-3 ">
+                            <div class="box p-0 bg-cinza-244" style="height: 480px">
+                                <a href="https://www.acaert.com.br/noticia/56201/agora-e-lei-lula-sanciona-projeto-que-proibe-uso-de-celulares-nas-escolas-medida-passa-a-valer-no-inicio-do-ano-letivo" title="Agora é lei: Lula sanciona projeto que proíbe uso de celulares nas escolas. Medida passa a valer no início do ano letivo">
+                                    <div class="box-item" style="height: 250px">
+                                        <div class="box-image">
+                                            <img src="https://www.acaert.com.br/storage/files/noticias/67858dc3a2485.jpeg" alt="" class="h-100">
+                                        </div>
+                                        <div class="box-body box-body-noticias" id="56201">
+                                            <span class="categoria mb-3">EDUCAÇÃO</span>
+                                            <h2 class="ellipsis ellipsis-camp-2 mb-2">Agora é lei: Lula sanciona projeto que proíbe uso de celulares nas escolas. Medida passa a valer no início do ano letivo</h2>
+                                            <div class="box-body-btn">
+                                                <span class="relogio mb-2">14/01/2025
+                                                    
+                                                </span>
+
+                                                                                                    <div>
+
+                                                        <span class="btn-audio" title="Agora é lei: Lula sanciona projeto que proíbe uso de celulares nas escolas. Medida passa a valer no início do ano letivo">Ouvir
+                                                            02:58
+                                                        </span>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="col-12 col-lg-4 mb-3 ">
+                            <div class="box p-0 bg-cinza-244" style="height: 480px">
+                                <a href="https://www.acaert.com.br/noticia/56196/dnit-revela-estado-critico-de-pontes-nas-estradas-federais-de-sc-e-fala-sobre-o-que-esta-sendo-feito" title="Dnit revela estado crítico de pontes nas estradas federais de SC e fala sobre o que está sendo feito">
+                                    <div class="box-item" style="height: 250px">
+                                        <div class="box-image">
+                                            <img src="https://www.acaert.com.br/storage/files/noticias/67855ec95775e.jpeg" alt="" class="h-100">
+                                        </div>
+                                        <div class="box-body box-body-noticias" id="56196">
+                                            <span class="categoria mb-3">GERAL</span>
+                                            <h2 class="ellipsis ellipsis-camp-2 mb-2">Dnit revela estado crítico de pontes nas estradas federais de SC e fala sobre o que está sendo feito</h2>
+                                            <div class="box-body-btn">
+                                                <span class="relogio mb-2">14/01/2025
+                                                    
+                                                </span>
+
+                                                                                                    <div>
+
+                                                        <span class="btn-audio" title="Dnit revela estado crítico de pontes nas estradas federais de SC e fala sobre o que está sendo feito">Ouvir
+                                                            03:31
+                                                        </span>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="col-12 col-lg-4 mb-3 ">
+                            <div class="box p-0 bg-cinza-244" style="height: 480px">
+                                <a href="https://www.acaert.com.br/noticia/56199/frequencia-agro-giro-da-safra-avalia-lavouras-de-milho-em-sc" title="Frequência Agro | Giro da Safra avalia lavouras de milho em SC">
+                                    <div class="box-item" style="height: 250px">
+                                        <div class="box-image">
+                                            <img src="https://www.acaert.com.br/storage/files/noticias/678587f904594.png" alt="" class="h-100">
+                                        </div>
+                                        <div class="box-body box-body-noticias" id="56199">
+                                            <span class="categoria mb-3">Frequência Agro</span>
+                                            <h2 class="ellipsis ellipsis-camp-2 mb-2">Frequência Agro | Giro da Safra avalia lavouras de milho em SC</h2>
+                                            <div class="box-body-btn">
+                                                <span class="relogio mb-2">14/01/2025
+                                                    
+                                                </span>
+
+                                                                                                    <div>
+
+                                                        <span class="btn-audio" title="Frequência Agro | Giro da Safra avalia lavouras de milho em SC">Ouvir
+                                                            00:57
+                                                        </span>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                                            <div class="col-12 col-lg-4 mb-3 ">
+                            <div class="box p-0 bg-cinza-244" style="height: 480px">
+                                <a href="https://www.acaert.com.br/noticia/56197/malas-prontas-sofrencia-a-beira-mar-ze-neto-e-cristiano-agitam-itajai" title="Malas Prontas | Sofrência à Beira-Mar: Zé Neto e Cristiano agitam Itajaí!">
+                                    <div class="box-item" style="height: 250px">
+                                        <div class="box-image">
+                                            <img src="https://www.acaert.com.br/storage/files/noticias/67856200cee57.png" alt="" class="h-100">
+                                        </div>
+                                        <div class="box-body box-body-noticias" id="56197">
+                                            <span class="categoria mb-3">MALAS PRONTAS</span>
+                                            <h2 class="ellipsis ellipsis-camp-2 mb-2">Malas Prontas | Sofrência à Beira-Mar: Zé Neto e Cristiano agitam Itajaí!</h2>
+                                            <div class="box-body-btn">
+                                                <span class="relogio mb-2">14/01/2025
+                                                    
+                                                </span>
+
+                                                                                                    <div>
+
+                                                        <span class="btn-audio" title="Malas Prontas | Sofrência à Beira-Mar: Zé Neto e Cristiano agitam Itajaí!">Ouvir
+                                                            01:00
+                                                        </span>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+    			<footer>
+    <nav class="navbar navbar-expand-lg navbar-greenlight p-0">
+        <div class="container position-relative align-items-start p-0">
+            <div class="contato-footer">
+                <div class="field_footer_selo">
+                    <a class="navbar-brand pl-4 pt-5 m-lg-0 p-lg-0 pt-lg-5" href="https://www.acaert.com.br/"><img src="https://www.acaert.com.br/images/acaert-logo-white.png" alt="Logo">
+                    </a>
+                    <a href="https://www.acaert.com.br/noticia/48995/acaert-implanta-programa-de-compliance-e-protecao-de-dados-lgpd">
+                        <img class="selo" src="https://www.acaert.com.br/images/selo.svg" alt="Selo">
+                    </a>
+                </div>
+                <p class="endereco text-white pl-4 pl-lg-0 mt-3 mb-0">Av. Engenheiro Max de Souza, 906 <br>Max Tower
+                    Business Center - 1º Andar <br>Coqueiros - Florianópolis/SC <br>CEP 88080-000</p>
+                <p class="fones text-white ml-4 ml-lg-0 mt-4 mb-0">48 3212-9600</p>
+                <div class="social ml-4 ml-lg-0 mt-3">
+                    <a href="https://facebook.com/acaertoficial" target="_blank" title="Facebook">
+                        <svg width="31" height="32" viewBox="0 0 31 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M25.8366 4H5.16344C4.82251 4.00253 4.49626 4.13909 4.25518 4.38018C4.01409 4.62126 3.87753 4.94751 3.875 5.28844V25.9616C3.87753 26.3025 4.01409 26.6287 4.25518 26.8698C4.49626 27.1109 4.82251 27.2475 5.16344 27.25H16.2944V18.26H13.2719V14.7434H16.2944V12.1569C16.2944 9.15375 18.1253 7.51656 20.8184 7.51656C21.7194 7.51656 22.6203 7.51656 23.5212 7.65219V10.7812H21.6709C20.2081 10.7812 19.9272 11.4788 19.9272 12.4959V14.7338H23.4147L22.9594 18.2503H19.9272V27.25H25.8366C26.1775 27.2475 26.5037 27.1109 26.7448 26.8698C26.9859 26.6287 27.1225 26.3025 27.125 25.9616V5.28844C27.1225 4.94751 26.9859 4.62126 26.7448 4.38018C26.5037 4.13909 26.1775 4.00253 25.8366 4Z" fill="white"></path>
+                        </svg>
+                    </a>
+                    <a href="https://www.instagram.com/acaertoficial" target="_blank" title="Instagram">
+                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 3.03125H10C8.14409 3.03317 6.36477 3.74824 5.05245 5.01956C3.74012 6.29087 3.00199 8.01459 3 9.8125V21.4375C3.00199 23.2354 3.74012 24.9591 5.05245 26.2304C6.36477 27.5018 8.14409 28.2168 10 28.2188H22C23.8559 28.2168 25.6352 27.5018 26.9476 26.2304C28.2599 24.9591 28.998 23.2354 29 21.4375V9.8125C28.998 8.01459 28.2599 6.29087 26.9476 5.01956C25.6352 3.74824 23.8559 3.03317 22 3.03125ZM16 21.4375C14.8133 21.4375 13.6533 21.0966 12.6666 20.4579C11.6799 19.8192 10.9108 18.9114 10.4567 17.8493C10.0026 16.7873 9.88378 15.6186 10.1153 14.491C10.3468 13.3635 10.9182 12.3278 11.7574 11.5149C12.5965 10.702 13.6656 10.1485 14.8295 9.92419C15.9933 9.69991 17.1997 9.81502 18.2961 10.255C19.3925 10.6949 20.3295 11.4399 20.9888 12.3957C21.6481 13.3516 22 14.4754 22 15.625C21.9983 17.1661 21.3657 18.6436 20.2408 19.7333C19.116 20.823 17.5908 21.4359 16 21.4375ZM23.5 9.8125C23.2033 9.8125 22.9133 9.72728 22.6666 9.5676C22.42 9.40793 22.2277 9.18099 22.1142 8.91546C22.0007 8.64994 21.9709 8.35776 22.0288 8.07588C22.0867 7.79401 22.2296 7.53508 22.4393 7.33186C22.6491 7.12864 22.9164 6.99024 23.2074 6.93417C23.4983 6.8781 23.7999 6.90688 24.074 7.01686C24.3481 7.12685 24.5824 7.3131 24.7472 7.55206C24.912 7.79103 25 8.07197 25 8.35938C25 8.74477 24.842 9.11438 24.5607 9.38689C24.2794 9.6594 23.8978 9.8125 23.5 9.8125ZM20 15.625C20 16.3914 19.7654 17.1406 19.3259 17.7778C18.8864 18.4151 18.2616 18.9117 17.5307 19.205C16.7998 19.4983 15.9956 19.5751 15.2196 19.4255C14.4437 19.276 13.731 18.907 13.1716 18.365C12.6122 17.8231 12.2312 17.1327 12.0769 16.381C11.9225 15.6293 12.0017 14.8502 12.3045 14.1421C12.6072 13.434 13.1199 12.8288 13.7777 12.4031C14.4355 11.9773 15.2089 11.75 16 11.75C17.0609 11.75 18.0783 12.1583 18.8284 12.885C19.5786 13.6117 20 14.5973 20 15.625Z" fill="white"></path>
+                        </svg>
+                    </a>
+                    <a href="https://twitter.com/acaert" target="_blank" title="Twitter">
+                        <svg width="24" height="28" viewBox="0 0 24 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21.4286 1.8125H2.57143C1.15179 1.8125 0 2.94629 0 4.34375V22.9062C0 24.3037 1.15179 25.4375 2.57143 25.4375H21.4286C22.8482 25.4375 24 24.3037 24 22.9062V4.34375C24 2.94629 22.8482 1.8125 21.4286 1.8125ZM18.8089 10.1867C18.8196 10.3344 18.8196 10.4873 18.8196 10.635C18.8196 15.207 15.2839 20.4752 8.82321 20.4752C6.83036 20.4752 4.98214 19.9057 3.42857 18.9248C3.7125 18.9564 3.98571 18.967 4.275 18.967C5.91964 18.967 7.43036 18.4186 8.63571 17.4904C7.09286 17.4588 5.79643 16.4621 5.35179 15.091C5.89286 15.1701 6.38036 15.1701 6.9375 15.0277C5.33036 14.7061 4.125 13.3139 4.125 11.6316V11.5895C4.59107 11.8479 5.1375 12.0061 5.71071 12.0271C5.2288 11.7116 4.83374 11.2835 4.56079 10.7811C4.28784 10.2787 4.14548 9.7176 4.14643 9.14785C4.14643 8.50449 4.31786 7.91387 4.62321 7.40234C6.35357 9.50117 8.95179 10.8723 11.8661 11.0199C11.3679 8.67324 13.1518 6.76953 15.2946 6.76953C16.3071 6.76953 17.2179 7.18613 17.8607 7.86113C18.6536 7.71348 19.4143 7.42344 20.0893 7.02793C19.8268 7.82949 19.275 8.50449 18.5464 8.93164C19.2536 8.85781 19.9393 8.6627 20.5714 8.39375C20.0946 9.08457 19.4946 9.69629 18.8089 10.1867Z" fill="white"></path>
+                        </svg>
+
+                    </a>
+                    <a href="https://www.linkedin.com/company/acaert" target="_blank" title="Linkedin">
+                        <svg width="27" height="28" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22.6376 2.09912C23.33 2.09912 23.9941 2.37419 24.4837 2.86381C24.9733 3.35344 25.2484 4.01751 25.2484 4.70995V22.9857C25.2484 23.6782 24.9733 24.3422 24.4837 24.8318C23.9941 25.3215 23.33 25.5965 22.6376 25.5965H4.3618C3.66937 25.5965 3.00529 25.3215 2.51567 24.8318C2.02604 24.3422 1.75098 23.6782 1.75098 22.9857V4.70995C1.75098 4.01751 2.02604 3.35344 2.51567 2.86381C3.00529 2.37419 3.66937 2.09912 4.3618 2.09912H22.6376ZM21.9849 22.333V15.4143C21.9849 14.2857 21.5365 13.2032 20.7384 12.4051C19.9403 11.607 18.8579 11.1587 17.7292 11.1587C16.6196 11.1587 15.3273 11.8375 14.7007 12.8557V11.4067H11.0586V22.333H14.7007V15.8973C14.7007 14.8922 15.51 14.0698 16.5152 14.0698C16.9999 14.0698 17.4647 14.2623 17.8075 14.605C18.1502 14.9478 18.3428 15.4126 18.3428 15.8973V22.333H21.9849ZM6.81598 9.35721C7.39762 9.35721 7.95544 9.12616 8.36673 8.71487C8.77801 8.30359 9.00907 7.74577 9.00907 7.16412C9.00907 5.95009 8.03001 4.95797 6.81598 4.95797C6.23087 4.95797 5.66973 5.19041 5.25599 5.60414C4.84226 6.01787 4.60983 6.57901 4.60983 7.16412C4.60983 8.37815 5.60194 9.35721 6.81598 9.35721ZM8.6305 22.333V11.4067H5.01451V22.333H8.6305Z" fill="white"></path>
+                        </svg>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCgy0Z4zCOMJua6ibVZxiW-A" target="_blank" title="Youtube">
+                        <svg width="28" height="29" viewBox="0 0 28 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M27.4143 7.34203C27.2561 6.74619 26.9442 6.20236 26.5097 5.765C26.0752 5.32765 25.5335 5.01213 24.9387 4.85003C22.7558 4.26086 14 4.26086 14 4.26086C14 4.26086 5.24417 4.26086 3.06017 4.85003C2.46564 5.01241 1.92418 5.32805 1.48992 5.76538C1.05567 6.2027 0.743857 6.74638 0.585667 7.34203C0 9.54003 0 14.125 0 14.125C0 14.125 0 18.71 0.585667 20.908C0.74385 21.5039 1.0558 22.0477 1.49029 22.4851C1.92478 22.9224 2.46654 23.2379 3.06133 23.4C5.24417 23.9892 14 23.9892 14 23.9892C14 23.9892 22.7558 23.9892 24.9398 23.4C25.5347 23.238 26.0765 22.9226 26.511 22.4852C26.9455 22.0478 27.2574 21.5039 27.4155 20.908C28 18.71 28 14.125 28 14.125C28 14.125 28 9.54003 27.4143 7.34203ZM11.1358 18.2877V9.96236L18.4543 14.125L11.1358 18.2877Z" fill="white"></path>
+                        </svg>
+                    </a>
+                </div>
+                <div class="nav-item px-0 politica-mob">
+                    <a class="nav-link mx-0 mx-lg-3 px-0 text-uppercase font-weight-bold text-white pl-4 pl-lg-0 mt-3 mb-0" href="https://www.acaert.com.br/integridade/politica-de-privacidade">Política de Privacidade</a>
+                </div>
+                
+
+            </div>
+            <div class="links-footer">
+                <ul class="navbar-nav ml-4 ml-lg-0 py-5" style="gap: 30px">
+                    <li class="nav-item px-0">
+                        <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold" href="#" style="opacity: 1 !important">Institucional</a>
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <a class="nav-link text-hover" href="https://www.acaert.com.br/institucional/quem-somos">Quem
+                                    Somos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/institucional/historico">Histórico</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/institucional/comendadores">Comendadores</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/institucional/estatuto">Estatuto</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/institucional/diretoria">Diretoria</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseEstruturaFooter" aria-controls="collapseEstruturaFooter">Estrutura<img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20"></a>
+                                <div class="nav flex-column collapse bg-greenlight" id="collapseEstruturaFooter">
+                                    <ul class="nav flex-column bg-greenlight">
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="https://www.acaert.com.br/institucional/equipe">Equipe</a>
+                                        </li>
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="https://www.acaert.com.br/institucional/organograma">Organograma</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAtuacaoFooter" aria-controls="collapseAtuacaoFooter">Atuação<img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right" width="20" height="20"></a>
+                                <div class="nav flex-column collapse bg-greenlight" id="collapseAtuacaoFooter">
+                                    <ul class="nav flex-column bg-greenlight">
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link d-flex justify-content-between align-items-center collapsed text-white" href="#" data-toggle="collapse" data-target="#collapseEventos" aria-controls="collapseEventos">Campanhas e eventos
+                                                <img src="https://www.acaert.com.br/images/chevron-down.svg" alt="" class="text-right arrow-white" width="20" height="20">
+                                                <img src="https://www.acaert.com.br/images/chevron-down-green.svg" alt="" class="arrow-green text-right" width="20" height="20">
+                                            </a>
+                                            <div class="nav flex-column collapse bg-greenlight" id="collapseEventos">
+                                                <ul class="nav flex-column bg-greenlight">
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4 text-white" href="#">45 anos</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4 text-white" href="https://www.acaert.com.br/atuacao/eventos/congressos">Congressos</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a style="white-space: nowrap;" class="nav-link pl-4 menu-ded text-white" href="https://www.acaert.com.br/atuacao/eventos/encontros-regionais">Encontros
+                                                            Regionais</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="nav-link pl-4 text-white" href="https://www.acaert.com.br/atuacao/eventos/premios">Prêmios</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a style="white-space: nowrap;" class="nav-link pl-4 text-white" href="#">Projetos Especiais</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="https://www.acaert.com.br/atuacao/capacitacao">Capacitação</a>
+                                        </li>
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="https://www.acaert.com.br/atuacao/responsabilidade-social">Responsabilidade Social</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item px-0">
+                        <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold" href="#" style="opacity: 1 !important">Associados</a>
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseEmissorasRadiosFooter" aria-controls="collapseEmissorasRadiosFooter">Emissoras de Rádios<img src="https://www.acaert.com.br/images/chevron-down.svg" class="text-right" width="20" height="20"></a>
+                                <div class="nav flex-column collapse bg-greenlight" id="collapseEmissorasRadiosFooter">
+                                    <ul class="nav flex-column bg-greenlight">
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="#">Histórico</a>
+                                        </li>
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="#">Programação</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseEmissorasTVFooter" aria-controls="collapseEmissorasTVFooter">Emissoras de TV<img src="https://www.acaert.com.br/images/chevron-down.svg" class="text-right" width="20" height="20"></a>
+                                <div class="nav flex-column collapse bg-greenlight" id="collapseEmissorasTVFooter">
+                                    <ul class="nav flex-column bg-greenlight">
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="#">Histórico</a>
+                                        </li>
+                                        <li class="nav-item pl-4">
+                                            <a class="nav-link" href="#">Programação</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/associados/associe-se">Associe-se</a>
+                            </li>
+                        </ul>
+                        <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold mt-3" href="#" style="opacity: 1 !important">RCA</a>
+                        <ul class="nav flex-column w-150">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rca/quem-somos">Quem Somos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rca/faca-sua-proposta">Faça sua
+                                    Proposta</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rca/radios-rca">Rádios RCA</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rca/checking">Checking</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rca/opec">Opec</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rca/equipe">Equipe</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/contato">Contato</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item px-0">
+                        <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold" href="#" style="opacity: 1 !important">RNA</a>
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rna/quem-somos">Quem Somos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rna/acaert-talks">ACAERT Talks</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rna/parceiros-rna">Parceiros RNA</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/rna/equipe">Equipe</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/contato">Contato</a>
+                            </li>
+                        </ul>
+                        <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold mt-3" href="#">Notícias</a>
+                        <ul class="nav flex-column w-150">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/todas-as-noticias">Todas as notícias</a>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/todos-os-audios">Todos os Áudios</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/materias">Matérias</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/acaert-agora">ACAERT Agora</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/acaert-noticias">ACAERT Notícias</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/previsao-tempo">Previsão do Tempo</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/frequencia-agro">Frequência Agro</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/minuto-do-eleitor">Minuto do Eleitor</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.acaert.com.br/noticias/rna-audio/minuto-de-sc">Minuto de SC</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link menu-ded" href="https://www.acaert.com.br/noticias/rna-audio/especial">Especial</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <div class="footer-nav-item d-flex flex-column">
+                        <li class="nav-item accordion" id="accordion">
+                            <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold" href="#" style="opacity: 1 !important">Serviços</a>
+                            <ul class="nav flex-column w-200">
+                                <li class="nav-item">
+                                    <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseJuridicoFooter" aria-controls="collapseJuridicoFooter">Jurídico<img src="https://www.acaert.com.br/images/chevron-down.svg" class="text-right" width="20" height="20"></a>
+                                    <div class="nav flex-column collapse bg-greenlight" id="collapseJuridicoFooter" data-parent="#accordion">
+                                        <ul class="nav flex-column bg-greenlight">
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/juridico/legislativo">Legislativo</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/juridico/trabalhista">Trabalhista</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/juridico/eleitoral">Eleitoral</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/juridico/institucional">Institucional</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/juridico/ecad">ECAD</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseTecnicoFooter" aria-controls="collapseTecnicoFooter">Técnico<img src="https://www.acaert.com.br/images/chevron-down.svg" class="text-right" width="20" height="20"></a>
+                                    <div class="nav flex-column collapse bg-greenlight" id="collapseTecnicoFooter" data-parent="#accordion">
+                                        <ul class="nav flex-column bg-greenlight">
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="#">Voz Brasil</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="#">Compromisso Anual</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/tecnico/outorgas">Outorgas</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/tecnico/licenciamento-antenas">Licenciamento
+                                                    Antenas</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/tecnico/fistel">Fistel</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/tecnico/taxas">Taxas</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAssessoriaFooter" aria-controls="collapseAssessoriaFooter">Assessoria de Imprensa<img src="https://www.acaert.com.br/images/chevron-down.svg" class="text-right" width="20" height="20"></a>
+                                    <div class="nav flex-column collapse bg-greenlight" id="collapseAssessoriaFooter" data-parent="#accordion">
+                                        <ul class="nav flex-column bg-greenlight">
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/imprensa/newsletter">Newsletter</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link d-flex justify-content-between align-items-center collapsed" href="#" data-toggle="collapse" data-target="#collapseAdministrativosFooter" aria-controls="collapseAdministrativosFooter">Administrativos / Financeiros<img src="https://www.acaert.com.br/images/chevron-down.svg" class="text-right" width="20" height="20"></a>
+                                    <div class="nav flex-column collapse bg-greenlight" id="collapseAdministrativosFooter" data-parent="#accordion">
+                                        <ul class="nav flex-column bg-greenlight">
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/adm-financeiros/gestao-contratos">Gestão de
+                                                    Contratos</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link" href="https://www.acaert.com.br/servicos/adm-financeiros/contas-receber-veiculacao">Contas
+                                                    a Receber Veiculação</a>
+                                            </li>
+                                            <li class="nav-item pl-4">
+                                                <a class="nav-link menu-ded" href="https://www.acaert.com.br/contato">Contato</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item px-0 mt-3">
+                            <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold" href="#" style="opacity: 1 !important">Integridade</a>
+                            <ul class="nav flex-column w-150">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://www.acaert.com.br/integridade/politica-de-privacidade" style="opacity: 1 !important; white-space:nowrap;">Política de Privacidade</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#" style="opacity: 1 !important; white-space:nowrap;">
+                                    Canal de Denúncias</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item px-0 mt-3">
+                            <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold" style="white-space: nowrap;" href="https://www.acaert.com.br/pense-radio-pense-tv">Pense Rádio, Pense TV</a>
+                        </li>
+                        <li class="nav-item px-0">
+                            <a class="nav-link mx-0 px-0 text-uppercase font-weight-bold" href="https://www.acaert.com.br/contato" style="opacity: 1 !important">Contato</a>
+                        </li>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="copyright d-flex justify-content-center align-items-center">
+        © 2025 Todos os direitos reservados.
+    </div>
+</footer>	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.acaert.com.br/plugins/jquery/jquery.min.js"></script>
+	<script src="https://www.acaert.com.br/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+	    <script src="https://www.acaert.com.br/js/audioplayer/audioplayer.js"></script>
+    <script>
+        $(function() {
+
+            window.addEventListener('load', function() {
+
+                setTimeout(function() {
+                    const head = $(".flickr-embed-frame").contents().find("head")
+                    var cssLink = document.createElement("link");
+                    cssLink.href = "https://www.acaert.com.br/css/flickr-responsive.css"
+                    cssLink.rel = "stylesheet";
+                    cssLink.type = "text/css";
+                    head.append(cssLink);
+
+                }, 1000) //Delay to load iframe
+
+            })
+
+            const player = $('audio').audioPlayer()
+
+            $('form[name="login"]').submit(function(e) {
+                e.preventDefault();
+
+                $.ajax({
+                    url: "https://www.acaert.com.br/perfil/login",
+                    type: "post",
+                    data: $(this).serializer(),
+                    dataType: 'json',
+                    success: function(r) {}
+                });
+            });
+
+            'use strict';
+            window.addEventListener('load', function() {
+                var forms = document.getElementsByClassName('needs-validation');
+                var validation = Array.prototype.filter.call(forms, function(form) {
+                    form.addEventListener('submit', function(event) {
+                        if (form.checkValidity() === false) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+            }, false);
+        });
+    </script>
+
+
+</body></html>

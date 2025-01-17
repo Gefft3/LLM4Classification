@@ -1,0 +1,498 @@
+<html lang="en-US"><head></head><body class="error404 aa-prefix-LPL-"><div class="f-width">
+
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://laprensalatina.com/xmlrpc.php">
+		    <meta name="robots" content="noindex, follow">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - La Prensa Latina Media</title>
+	<meta property="og:locale" content="en_US">
+	<meta property="og:title" content="Page not found - La Prensa Latina Media">
+	<meta property="og:site_name" content="La Prensa Latina Media">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://laprensalatina.com/#website","url":"https://laprensalatina.com/","name":"La Prensa Latina Media","description":"The Mid-South&#039;s Exclusive Bilingual News Source!","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://laprensalatina.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//api-cdn.shutterstock.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="La Prensa Latina Media » Feed" href="https://laprensalatina.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="La Prensa Latina Media » Comments Feed" href="https://laprensalatina.com/comments/feed/">
+<meta property="og:description" content=""><script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/laprensalatina.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<!-- laprensalatina.com is managing ads with Advanced Ads 1.56.1 – https://wpadvancedads.com/ --><script id="LPL-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<link rel="stylesheet" id="owl-carousel-css" href="https://laprensalatina.com/wp-content/themes/anymag/assets/css/owl.carousel.css?ver=2.3.4" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://laprensalatina.com/wp-content/themes/anymag/assets/fonts/fontawesome-free-5.15.2/css/all.min.css?ver=5.15.2" type="text/css" media="all">
+<link rel="stylesheet" id="fontello-css" href="https://laprensalatina.com/wp-content/themes/anymag/assets/fonts/css/fontello.css?ver=5.13.0" type="text/css" media="all">
+<link rel="stylesheet" id="interlace-css-css" href="https://laprensalatina.com/wp-content/themes/anymag/assets/css/interlace.css?ver=2.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="simplebar-css" href="https://laprensalatina.com/wp-content/themes/anymag/assets/css/simplebar.css?ver=6.2.7" type="text/css" media="all">
+<link rel="stylesheet" id="anymag-main-css" href="https://laprensalatina.com/wp-content/themes/anymag/style.css?ver=1.0" type="text/css" media="all">
+<style id="anymag-main-inline-css" type="text/css">
+body,input,.button,.content-part .post-meta,.widget_recent_entries span,.sidebar ul li.cat-item,.list-date,.latest-posts-meta,.post-meta,.slider-list-meta,.sidebar .widget_recent_comments .recentcomments .url,input,select,textarea {font-family:Poppins;}body,#hidden-sidebar.active .widgets-side,.magcover,.post-format,#top-bar-right,.turn-left {background:#fff;} .searchform-overlay {background-color:rgba(255,255,255,0.95);}body p,.main-content li,.main-content blockquote,.post-content li,.post-content blockquote {font-size:15px;line-height:1.6em; letter-spacing:0px;}h1,h2,h3,h4,h5,h6,.widget_recent_entries ul li a,.widget_recent_comments ul li a,.sidebar .widget-title,.post-readmore a,.intro-line h1,.sidebar .recentcomments a,.elementor-image-carousel-caption {font-family:Oswald;color:#111111;}a,.post-content a,.sidebar a,.post-comments span.reply a,.sidebar .widget a,.sidebar .widget.widget_archive li a {color:#111111;}a:hover,.post-content a:hover,.sidebar a:hover,.post-comments span.reply a:hover,.sidebar .widget ul li a:hover,.sidebar .widget.widget_archive li a:hover {color:#999999;} .post-title,.post-title a {font-size:26px; font-weight:800; line-height:1.3em; letter-spacing:0px;} .slide-title,.slide-title h2 a,.slide-title h3 a {font-size:39px; font-weight:800; letter-spacing:0px;} .slide-item {height:598px; } .page-title,.post-header h1,.item-related h5 a,.entry-title,.random-ttl a,.feat-categ-item .content-part h5 a,.sidebar .widget_recent_entries ul li a,.sidebar .widget-content .img-button,.sidebar .widget_recent_comments .recentcomments > a,.sidebar .latest-posts .latest-posts-item a {font-weight:800; } .top-menu-button,#nav-wrapper .simplebar-track.simplebar-vertical {background:#ff027f;}#nav-wrapper .simplebar-scrollbar::before {background:#111111} .nav-panel {background:#f4f4f4;}#nav-wrapper .nav-menu li a,.slicknav_nav li a {font-family:Oswald;font-size:33px;font-weight:800; } .magcover,.f-width #site-header {width:60%;} .magcontent,.f-width.nav-open #footer {width:40%; } .magheader {width:40%; } .f-width.nav-open #main-area {margin-left:60%;} .cover-logo {width:100%; } .single .cover-logo {width:76%;} .magcover .overlay,.magcover .post-overlay {opacity:.3; background:#000000} .single-post .magcover .overlay {opacity:.5; background:#000000} .fold-shadow-right,.fold-shadow-left,.fold-shadow {opacity:.1} .nav-panel .fold-shadow-left {opacity:.2}#nav-wrapper .nav-menu li a,.sub-menu-toggle::after,#nav-wrapper ul.nav-menu ul a,.slicknav_nav a,#top-search a.search {color:#111111;}#nav-wrapper .nav-menu li a:hover,#nav-wrapper .nav-menu li a:hover:after,#topbar-social-links a:hover,.slicknav_nav a:hover,.sticky-social a:hover,.sticky-subscribe a:hover,.nav-panel .current-menu-item > a {color:#fff!important;}#nav-wrapper .nav-menu li a {background:linear-gradient(to bottom,transparent 62%,#ff027f 0) left bottom/0 400% no-repeat; }#nav-wrapper .current-menu-item > a {background:#ff027f!important; }body,.post-list-entry p,.post-entry .post-meta li,.post-content,.post-author,.thecomment p,.latest-posts-meta,#post-navigation span,.sidebar .widget_recent_comments ul,.widget_meta li a,.about-content,.sidebar .widget_recent_comments .recentcomments .url,.comment-text .date,.post-navigation span,.searchform-overlay p,.searchform-overlay .search-field,.searchform-overlay .search-button,input,select,.hidden-sidebar-button a.open-hidden-sidebar,textarea {color:#787878;} .post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content h5,.post-content h6,.post-content blockquote,.comment-text blockquote,blockquote::before,.post-title,.post-title a,.about-title,.page-title,.post-header h1,.random-ttl a,.feat-title a,.item-related h5 a,.about-title,.about-content h5,.entry-title,.post-readmore a,.category-box h1,#post-navigation h6,.header-social-links a,.postnav-noimage .navprev::after,.postnav-noimage .navnext::after,.sidebar .widget-title,.sidebar .latest-posts-text h4 a,.sidebar .widget_recent_entries a,.sidebar .recentcomments a,.sidebar .widget-content .img-button,.thecomment .comment-text h6.author,.thecomment .comment-text h6.author a,.archive-box span,#respond h,label {color:#111111;} .post-title:hover,.post-title a:hover,.random-ttl a:hover,.feat-title a:hover,.post-readmore a:hover,.item-related h5 a:hover,.post-navigation a:hover h6,.sidebar .latest-posts .latest-posts-text h4 a:hover,.sidebar .widget_recent_entries ul li a:hover,.sidebar #recentcomments li a:hover,.header-social-links a:hover {color:#999999;} .post-item .image-part,.owl-stage-outer,.random-image,.feat-categ-item .image-part,.category-wid .category-img,.about-img{border-radius:0px; } .post-item .image-part,.post-list .post-item .image-part {height:305px; } .entry-title {font-size:81px;line-height:1em; letter-spacing:-1px; } .underline a {background:linear-gradient(to bottom,transparent 62%,#ff027f 0) left bottom/0 20% no-repeat; } .section-title h2,.author-content {border-left:3px solid #ff027f; }content-part .post-meta,.content-part .post-meta a,.post-meta li,.post-meta li span,.post-entry .post-meta a,.widget-date {color:#111111;}ul.post-meta li:not(:last-child)::after {background:#ff027f;} .content-part .post-meta a:hover,.sidebar .widget .tagcloud a:hover,.post-tags a:hover,.post-entry .post-meta a:hover {color:#999999;} .owl-prev:hover i,.owl-next:hover i,.widget li > .narrow i,.error404 h1 span,.intro-line h1 i,.intro-line h1 b,.intro-line h1 em,.intro-line h1 strong {color:#ff027f;} .post-categs-box .categ a,.single-categs-box .categ a {background:#ff027f;} .post-categs .categ a,.single-categs .categ a,.sidebar ul li.cat-item a,.sidebar ul li.cat-item a:hover {color:#ff027f;}blockquote {border-left:3px solid #ff027f; } .category-box h1 {border-left:5px solid #ff027f; } .post-format {color:#ff027f; } .post-tags a,.sidebar .widget .tagcloud a {background:#f2f2f2!important; color:#787878!important; } .post-readmore i,.post-comments .reply i {color:#ff027f!important; } .related-posts-cover-title h4 {border-bottom:3px solid #ff027f; } .sidebar .widget-title,.random-posts-title h3 {border-left:3px solid #ff027f; } .wp-block-search button,input[type='submit'],input.button,[type='radio']:checked + label:after,[type='radio']:not(:checked) + label:after {font-family:Oswald;background:#ff027f!important; color:#fff!important; } .wp-block-search button:hover,input[type="submit"]:hover,input.button:hover {background:#ff52a7!important; color:#ffffff!important; } .wp-block-button a.wp-block-button__link {background-color:#ff027f; color:#ffffff; border:2px solid #ff027f; } .wp-block-button.is-style-outline a.wp-block-button__link {border:2px solid #ff027f; } .wp-block-button a.wp-block-button__link:hover,.wp-block-button.is-style-outline a.wp-block-button__link:hover {background-color:#ff52a7; color:#ffffff; border:2px solid #ff52a7; } .pagination .nav-links .current,.pagination-post > span,.loadmore.button {background:#ff027f; color:#ffffff; } .navigation.pagination .nav-links a {background:#eeeeee; color:#787878; } .navigation.pagination .nav-links a:hover,.loadmore.button:hover {background:#e8e8e8; color:#111111; } .intro-line {width:60%;} .intro-line h1 {font-size:26px; }#footer {background:#fafafa;}#footer,#footer-copyright {color:#989898;}#footer a {color:#111111;}#footer a:hover {color:#989898!important;} .video-wrapper {transform:scale(1.9); }
+</style>
+<link rel="stylesheet" id="anymag-responsive-css" href="https://laprensalatina.com/wp-content/themes/anymag/assets/css/responsive.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="widgets-fonts-css" href="//fonts.googleapis.com/css?family=Bitter%3A400%2C500%2C600%7CPlayfair+Display%3A400%2C500%2C700%7COswald%3A400%2C500%2C600%7CRoboto%3A400%2C500%2C600%7CTeko%3A400%2C500%2C600&amp;subset=latin%2Clatin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="sbi_styles-css" href="https://laprensalatina.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.6.1" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://laprensalatina.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="shutterstock-block-block-editor-shutterstock-ui-css-css" href="https://api-cdn.shutterstock.com/2.0.2/static/css/sstk-widget.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="coblocks-frontend-css" href="https://laprensalatina.com/wp-content/plugins/coblocks/dist/style-coblocks-1.css?ver=3.1.14" type="text/css" media="all">
+<link rel="stylesheet" id="coblocks-extensions-css" href="https://laprensalatina.com/wp-content/plugins/coblocks/dist/style-coblocks-extensions.css?ver=3.1.14" type="text/css" media="all">
+<link rel="stylesheet" id="coblocks-animation-css" href="https://laprensalatina.com/wp-content/plugins/coblocks/dist/style-coblocks-animation.css?ver=2677611078ee87eb3b1c" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://laprensalatina.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="shutterstock-css" href="https://laprensalatina.com/wp-content/plugins/shutterstock/public/css/shutterstock-public.css?ver=1.3.12" type="text/css" media="all">
+<link rel="stylesheet" id="weather-atlas-public-css" href="https://laprensalatina.com/wp-content/plugins/weather-atlas/public/css/weather-atlas-public.min.css?ver=3.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="weather-icons-css" href="https://laprensalatina.com/wp-content/plugins/weather-atlas/public/font/weather-icons/weather-icons.min.css?ver=3.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="wpb-google-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans&amp;ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-components-css" href="https://laprensalatina.com/wp-includes/css/dist/components/style.min.css?ver=6.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="godaddy-styles-css" href="https://laprensalatina.com/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-anymag-css" href="//fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic%7COswald:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" type="text/css" media="all">
+<script type="text/javascript" src="https://laprensalatina.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://api-cdn.shutterstock.com/2.0.2/static/js/sstk-widget.js?ver=6.7.1" id="shutterstock-block-block-editor-shuttestock-ui-js-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/plugins/shutterstock/public/js/shutterstock-public.js?ver=1.3.12" id="shutterstock-js"></script>
+<link rel="https://api.w.org/" href="https://laprensalatina.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://laprensalatina.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<meta name="cdp-version" content="1.4.9"><link rel="icon" href="https://laprensalatina.com/wp-content/uploads/2024/10/cropped-LPL-Icon-32x32.png" sizes="32x32">
+<link rel="icon" href="https://laprensalatina.com/wp-content/uploads/2024/10/cropped-LPL-Icon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://laprensalatina.com/wp-content/uploads/2024/10/cropped-LPL-Icon-180x180.png">
+<meta name="msapplication-TileImage" content="https://laprensalatina.com/wp-content/uploads/2024/10/cropped-LPL-Icon-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			
+/* Make the table responsive */
+table {
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    vertical-align: top;
+    padding: 10px;
+    word-wrap: break-word;
+}
+
+/* Resize images for larger display */
+td img {
+    max-width: 150px; /* Increase size of images */
+    max-height: 150px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Allow wrapping of text in table cells */
+td p {
+    font-size: 14px; /* Adjust text size */
+    word-wrap: break-word;
+    margin-top: 8px;
+}
+
+/* Adjust table layout for smaller screens */
+@media (max-width: 768px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    td {
+        display: inline-block;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 10px;
+    }
+
+    td img {
+        max-width: 120px; /* Slightly smaller images for mobile */
+        max-height: 120px;
+    }
+}
+/* Table styling */
+table {
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    vertical-align: top;
+    padding: 10px;
+}
+
+/* Ensure images are visible */
+td img {
+    max-width: 100%; /* Allow images to scale dynamically */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Make table scrollable on smaller screens */
+@media (max-width: 768px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    td {
+        display: inline-block;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 10px;
+    }
+
+    td img {
+        max-width: 120px; /* Scale image size for small devices */
+        height: auto;
+    }
+
+    td p {
+        font-size: 12px; /* Adjust font size for better fit */
+    }
+}
+/* General table styling */
+table {
+    width: 100%;
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    vertical-align: top;
+    padding: 10px;
+}
+
+/* Image styling */
+td img {
+    max-width: 100%; /* Scale images to fit */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Responsive layout for mobile devices */
+@media (max-width: 768px) {
+    table {
+        display: block;
+        width: 100%;
+    }
+
+    tr {
+        display: block; /* Stack rows */
+    }
+
+    td {
+        display: block; /* Stack cells */
+        width: 100%; /* Full width */
+        margin-bottom: 20px; /* Add spacing between items */
+    }
+
+    td img {
+        max-width: 80%; /* Reduce image size for better fit */
+    }
+
+    td p {
+        font-size: 14px; /* Adjust font size for readability */
+    }
+}		</style>
+		
+
+
+
+	
+	<div id="hidden-sidebar" class="sidebar">
+		<div class="widgets-side">
+			<a href="#" class="close-button"><i class="close-icon"></i></a>
+			<div id="category-1" class="widget widget_category">			<div class="category-wid">
+								<div class="category-img">
+					<div class="overlay"></div>	
+					<img src="https://laprensalatina.com/wp-content/uploads/2024/10/police-car-lights-at-night-city-street-300x200.jpg" alt="noticias">				</div>
+				<h4><a href="https://laprensalatina.com/category/noticias/" class="category-link">Noticias</a></h4>			
+
+
+			</div>
+
+		</div><div id="category-2" class="widget widget_category">			<div class="category-wid">
+								<div class="category-img">
+					<div class="overlay"></div>	
+					<img src="https://laprensalatina.com/wp-content/uploads/2024/11/HITM-Website--300x150.png" alt="hintm">				</div>
+				<h4><a href="https://laprensalatina.com/category/hintm/" class="category-link">Hola In The Morning</a></h4>			
+
+
+			</div>
+
+		</div><div id="category-4" class="widget widget_category">			<div class="category-wid">
+								<div class="category-img">
+					<div class="overlay"></div>	
+					<img src="https://laprensalatina.com/wp-content/uploads/2024/10/bird-s-eye-view-of-memphis-bridge-connecting-tennessee-and-arkansas-at-sunset-over-mississippi-river-300x200.jpg" alt="memphis">				</div>
+				<h4><a href="https://laprensalatina.com/category/memphis/" class="category-link">Memphis</a></h4>			
+
+
+			</div>
+
+		</div>			
+			<div id="widget_banner-1" class="widget widget_widget_banner"><h4 class="widget-title">Advertisment</h4>					<div class="image-banner">
+						<div class="bg-image">
+								<a href="#">								<img src="https://laprensalatina.com/wp-content/uploads/2024/11/HITM-WebsiteEP4.png" alt="http://Advertisment"></a>
+													</div>
+					</div>
+				</div><div id="instagram-feed-widget-1" class="widget widget_instagram-feed-widget"><h4 class="widget-title">Instagram</h4>		<div id="sbi_mod_error">
+			<span>This error message is only visible to WordPress admins</span><br>
+			<p><strong>Error: No feed found.</strong>
+			</p><p>Please go to the Instagram Feed settings page to create a feed.</p>
+		</div>
+		</div><div id="mc4wp_form_widget-1" class="widget widget_mc4wp_form_widget"><h4 class="widget-title">Newsletter</h4></div>		</div>
+	</div>
+
+
+  <div class="site-wrapper f-width">
+  <div class="magheader">
+    
+<header id="site-header">
+  
+  <div class="top-menu-button">
+    <a href="#" class="open-hidden-menu" aria-label="Main Menu">
+      <span class="bar-1"></span>
+      <span class="bar-2"></span>
+      <span class="bar-3"></span>
+    </a>
+  </div>
+
+  <div class="top-logo">
+        <a href="https://laprensalatina.com/"><img src="https://laprensalatina.com/wp-content/uploads/2024/10/cropped-LPL-Icon.png" alt="La Prensa Latina Media"></a>
+     
+  </div>
+  
+  <div class="nav-panel">
+    <div class="fold-shadow-left"></div>
+    <div class="nav-header">
+      <div class="menu-logo">
+                <a href="https://laprensalatina.com/"><img src="https://laprensalatina.com/wp-content/uploads/2024/10/LPL-Icon.png" alt="La Prensa Latina Media"></a>
+         
+      </div>
+          </div>
+    <div id="nav-wrapper" data-simplebar="">
+      <div class="menu-menu-2025-container"><ul id="menu-menu-2025" class="nav-menu"><li id="menu-item-1817" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1817"><a href="https://laprensalatina.com/category/memphis/">MEMPHIS</a><span class="sub-menu-toggle"></span>
+<ul class="sub-menu">
+	<li id="menu-item-1818" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1818"><a href="https://laprensalatina.com/category/noticias/">Noticias</a></li>
+	<li id="menu-item-1819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1819"><a href="https://laprensalatina.com/category/quepasamemphis/">Qué Pasa, Memphis</a></li>
+</ul>
+</li>
+<li id="menu-item-1820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1820"><a href="https://laprensalatina.com/advertising/">ADVERTISING</a></li>
+</ul></div>      <div class="menu-search">
+              <div class="site-search">
+          <div id="top-search">
+           <a href="#" class="search"><i class="fas fa-search"></i>Search</a>
+          </div>
+        </div> 
+            </div>
+   </div>
+  </div>
+
+</header>     <header id="content-header">
+  
+   <div class="header-social-links">
+<a href="https://www.facebook.com/laprensalatinamedia" target="_blank" aria-label="Follow on facebook"><i class="fab fa-facebook-f"></i></a><a href="https://www.instagram.com/laprensalatinamedia/" target="_blank" aria-label="Follow on instagram"><i class="fab fa-instagram"></i></a><a href="https://www.youtube.com/channel/UCqiWWodWMvCbT4kSj5Uv4ug" target="_blank" aria-label="Follow on YouTube"><i class="fab fa-youtube"></i></a><div class="issuu"><a href="https://issuu.com/laprensalatina/docs/lpl_28_01.12.25" target="_blank" aria-label="Follow on issuu"><i class="issuu"></i></a></div></div>  
+
+<div id="top-bar-right">
+   
+
+      <div class="right-search">
+       <a href="#" class="search" aria-label="search"><i class="fas fa-search"></i></a>
+    </div> 
+  
+      <div class="header-icon">
+      <div class="hidden-sidebar-button">
+        <a href="#" class="open-hidden-sidebar" aria-label="sidebar">
+          <span class="bar-1"></span>
+          <span class="bar-2"></span>
+        </a>
+      </div>
+    </div>
+    </div>
+  
+</header> 
+  </div>
+  <div class="magcontent">
+  <div id="main-area">
+  
+
+
+
+
+	<div class="container site-content">
+		
+      <div class="content-area error-page">
+        <article class="nothing-found">
+	    	  <h2>Not Found</h2>
+					<h1>4<span>0</span>4</h1>
+					<p>It seems we can't find what you're looking for. Perhaps searching can help.</p>
+					<form role="search" method="get" class="search-form" action="https://laprensalatina.com/">
+	<input type="text" class="search-field" placeholder="Search and hit enter..." name="s">
+	<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+</form>	      </article>
+	    
+	    </div> 
+
+	</div>
+
+ </div><!-- End Main Area -->
+
+     
+
+          <footer id="footer">
+    <div class="container">
+  
+      
+
+
+      <div class="footer-menu"><ul>
+<li class="page_item page-item-551"><a href="https://laprensalatina.com/about-us/">About Us</a></li>
+<li class="page_item page-item-1301"><a href="https://laprensalatina.com/advertising/">Advertising</a></li>
+<li class="page_item page-item-5"><a href="https://laprensalatina.com/blog-page/">Blog</a></li>
+<li class="page_item page-item-1413"><a href="https://laprensalatina.com/campaign-examples/">Campaign Examples</a></li>
+<li class="page_item page-item-542"><a href="https://laprensalatina.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-1309"><a href="https://laprensalatina.com/distribution-locations/">Distribution Locations</a></li>
+<li class="page_item page-item-1306"><a href="https://laprensalatina.com/forms/">Forms</a></li>
+<li class="page_item page-item-1314"><a href="https://laprensalatina.com/hispanic-heritage-month/">Hispanic Heritage Month</a></li>
+<li class="page_item page-item-4"><a href="https://laprensalatina.com/home-page/">Home</a></li>
+<li class="page_item page-item-546"><a href="https://laprensalatina.com/subscribe-2/">Subscribe</a></li>
+</ul></div>
+   
+
+          <div class="footer-social-links">
+<a href="https://www.facebook.com/laprensalatinamedia" target="_blank" aria-label="Follow on facebook"><i class="fab fa-facebook-f"></i></a><a href="https://www.instagram.com/laprensalatinamedia/" target="_blank" aria-label="Follow on instagram"><i class="fab fa-instagram"></i></a><a href="https://www.youtube.com/channel/UCqiWWodWMvCbT4kSj5Uv4ug" target="_blank" aria-label="Follow on YouTube"><i class="fab fa-youtube"></i></a><div class="issuu"><a href="https://issuu.com/laprensalatina/docs/lpl_28_01.12.25" target="_blank" aria-label="Follow on issuu"><i class="issuu"></i></a></div></div> 
+     
+
+                <div id="footer-copyright">
+        © Copyright 2025, All Rights Reserved  |  La Prensa Latina
+      </div>
+       
+  </div>
+</footer>
+
+<div class="searchform-overlay">
+    <a href="javascript:;" class="btn-close-search"><i class="close-icon"></i></a>
+    <div class="searchform">
+      <p>Start typing and press Enter to search</p>
+      <form role="search" method="get" class="search-form" action="https://laprensalatina.com/">
+	<input type="text" class="search-field" placeholder="Search and hit enter..." name="s">
+	<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+</form>    </div>
+</div>
+    
+    
+
+  </div><!-- End Mag Content -->
+</div><!-- End Site Wrapper -->
+  <script>(function(){var advanced_ads_ga_UID="UA-44329705-1",advanced_ads_ga_anonymIP=!!1;window.advanced_ads_check_adblocker=function(t){var n=[],e=null;function a(t){var n=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||function(t){return setTimeout(t,16)};n.call(window,t)}return a((function(){var t=document.createElement("div");t.innerHTML="&nbsp;",t.setAttribute("class","ad_unit ad-unit text-ad text_ad pub_300x250"),t.setAttribute("style","width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;"),document.body.appendChild(t),a((function(){var a,o,i=null===(a=(o=window).getComputedStyle)||void 0===a?void 0:a.call(o,t),d=null==i?void 0:i.getPropertyValue("-moz-binding");e=i&&"none"===i.getPropertyValue("display")||"string"==typeof d&&-1!==d.indexOf("about:");for(var c=0,r=n.length;c<r;c++)n[c](e);n=[]}))})),function(t){"undefined"==typeof advanced_ads_adblocker_test&&(e=!0),null!==e?t(e):n.push(t)}}(),(()=>{function t(t){this.UID=t,this.analyticsObject="function"==typeof gtag;var n=this;return this.count=function(){gtag("event","AdBlock",{event_category:"Advanced Ads",event_label:"Yes",non_interaction:!0,send_to:n.UID})},function(){if(!n.analyticsObject){var e=document.createElement("script");e.src="https://www.googletagmanager.com/gtag/js?id="+t,e.async=!0,document.body.appendChild(e),window.dataLayer=window.dataLayer||[],window.gtag=function(){dataLayer.push(arguments)},n.analyticsObject=!0,gtag("js",new Date)}var a={send_page_view:!1,transport_type:"beacon"};window.advanced_ads_ga_anonymIP&&(a.anonymize_ip=!0),gtag("config",t,a)}(),this}advanced_ads_check_adblocker((function(n){n&&new t(advanced_ads_ga_UID).count()}))})();})();</script><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://laprensalatina.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/themes/anymag/assets/js/owl.carousel.min.js?ver=6.7.1" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/themes/anymag/assets/js/fitvids.js?ver=6.7.1" id="fitvids-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/themes/anymag/assets/js/simple-bar.min.js?ver=6.2.7" id="simple-bar-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/themes/anymag/assets/js/interlace.min.js?ver=6.7.1" id="interlace-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/themes/anymag/assets/js/anymag.js?ver=6.7.1" id="anymag-scripts-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.14" id="coblocks-animation-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/plugins/coblocks/dist/js/vendors/tiny-swiper.js?ver=3.1.14" id="coblocks-tiny-swiper-js"></script>
+<script type="text/javascript" id="coblocks-tinyswiper-initializer-js-extra">
+/* <![CDATA[ */
+var coblocksTinyswiper = {"carouselPrevButtonAriaLabel":"Previous","carouselNextButtonAriaLabel":"Next","sliderImageAriaLabel":"Image"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/plugins/coblocks/dist/js/coblocks-tinyswiper-initializer.js?ver=3.1.14" id="coblocks-tinyswiper-initializer-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.3" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/laprensalatina.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.3" id="contact-form-7-js"></script>
+<script type="text/javascript" id="sbi_scripts-js-extra">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/laprensalatina.com\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/laprensalatina.com\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png","ajax_url":"https:\/\/laprensalatina.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://laprensalatina.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.6.1" id="sbi_scripts-js"></script>
+<script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script>		<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),
+                _trfd.push({'tccl.baseHost':'secureserver.net'}),
+                _trfd.push({'ap':'wpaas'},
+                    {'server':'40985e61-18f6-31fd-ff4e-ddcc4ca416e0.secureserver.net'},
+                    {'pod':'P3NLWPPOD12'},
+                    {'storage':'p3cephmah006pod12_data08'},                     {'xid':'45614908'},
+                    {'wp':'6.7.1'},
+                    {'php':'8.0.30.4'},
+                    {'loggedin':'0'},
+                    {'cdn':'1'},
+                    {'builder':''},
+                    {'theme':'anymag'},
+                    {'wds':'0'},
+                    {'wp_alloptions_count':'327'},
+                    {'wp_alloptions_bytes':'109312'},
+                    {'gdl_coming_soon_page':'0'}
+                                    );
+            var trafficScript = document.createElement('script'); trafficScript.src = 'https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'; window.document.head.appendChild(trafficScript);</script>
+		<script>window.addEventListener('click', function (elem) { var _elem$target, _elem$target$dataset, _window, _window$_trfq; return (elem === null || elem === void 0 ? void 0 : (_elem$target = elem.target) === null || _elem$target === void 0 ? void 0 : (_elem$target$dataset = _elem$target.dataset) === null || _elem$target$dataset === void 0 ? void 0 : _elem$target$dataset.eid) && ((_window = window) === null || _window === void 0 ? void 0 : (_window$_trfq = _window._trfq) === null || _window$_trfq === void 0 ? void 0 : _window$_trfq.push(["cmdLogEvent", "click", elem.target.dataset.eid]));});</script>
+		<script src="https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js" onload="window.tti.calculateTTI()"></script>
+		  
+
+</div>
+</body></html>

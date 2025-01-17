@@ -1,0 +1,976 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="es"><head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PVP2CFQ');</script>
+<!-- End Google Tag Manager -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="http://www.diarioelinformante.com.ar/elinformante.ico" type="image/x-icon">
+<title>El Informante - Declaran estado de alerta preventiva por la gripe aviar</title>
+    
+<!-- styles -->
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/style1.css?ver=13">
+<link rel="stylesheet" href="css/banners.css?ver=5">
+
+<!-- fonts -->
+<link href="css/font-awesome.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic,300italic,300" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato:400,300,300italic,100italic,100,400italic,700,900,700italic,900italic" rel="stylesheet" type="text/css">
+
+<link href="https://fonts.googleapis.com/css?family=Rozha+One" rel="stylesheet" type="text/css">
+
+    
+
+<!-- JS PUBLICIDADES HTML5-->
+
+	    <script type="text/javascript" src="https://www.gstatic.com/swiffy/v7.4/runtime.js"></script> 
+	            	            <script type="text/javascript" src="publis/disparate.js"></script>
+        <script type="text/javascript" src="publis/hcd.js"></script>
+        <script type="text/javascript" src="publis/enfoco.js"></script>
+	                                    
+<!-- FIN JS PUBLICIDADES -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VP88P48H3N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VP88P48H3N');
+</script>
+<style>
+    #overlayApp{ display: none;}
+    #overlayApp2{ display: none;}
+    /* #2overlayApp{display: none; }
+    #22overlayApp{display: none;}*/
+</style>
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVP2CFQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+ 
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '810057949119949',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+ 
+
+
+<!-- header -->
+	<div class="row menutop hidden-xs">
+		<div class="container">
+			<div class="btn-menutop"><a href="index.php">INICIO</a></div>
+			<div class="btn-menutop"><a href="secciones.php">NOTICIAS ANTERIORES</a></div>
+              <!--<div class="btn-menutop"><a href="clasificados.php">CLASIFICADOS</a></div>-->
+              <div class="btn-menutop"><a href="publicitar.php">PUBLICITAR</a></div>
+              <div class="btn-menutop"><a href="contacto.php">CONTACTO</a></div>
+			<!--<div class="btn-menutop"><a href="necrologicas.php">NECROLOGICAS</a></div>-->
+            <div class="menutop-social hidden-sm pull-right">
+                <div style="margin-right: 25px; margin-top:8px; float: left;">
+                    <!-- www.tutiempo.net - Ancho:88px - Alto:26px -->
+                    <div id="TT_FChwbxtxd88B89eU1fVzzjDDD6lU1Y82rd1tEcy5KEj">El tiempo - Tutiempo.net</div>
+                    <script type="text/javascript" src="https://www.tutiempo.net/s-widget/l_FChwbxtxd88B89eU1fVzzjDDD6lU1Y82rd1tEcy5KEj"></script>
+                </div>
+                <div style="margin-right: 15px; margin-top:10px; float: left; color: #FFFFFF;">
+                    14 de Enero de 2025                </div>
+                <div style="margin-right: 15px; margin-top:10px; float: left;">
+                    <div class="fb-like" data-href="https://www.facebook.com/EL-INFORMANTE-300788886602949/" data-width="100" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+                </div>			 		
+                <div style="margin-top:10px; float: left;">
+                    <a href="https://twitter.com/elinformantesn" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @elinformantesn</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </div>
+            </div>
+		</div>
+	</div>
+    <div class="row" style="">
+	   <div class="container" style="">
+            <a href="https://www.youtube.com/@elinformanteradionet" style="padding: 0px; margin: 0px; width: 100%; text-align: center;">
+                <img class="img-responsive" src="images/radio-streaming-low.gif" style="width: 100%;" alt="" border="0">
+            </a>
+                    		</div>
+	</div>
+<!-- end header -->
+<!-- section menu -->
+<div class="row menu">
+	<div class="container">
+        <div class="col-sm-9 col-md-10">
+					<nav class="navbar navbar-default" role="navigation">
+			  <!-- El logotipo y el icono que despliega el menú se agrupan
+			       para mostrarlos mejor en los dispositivos móviles -->
+						  <div class="navbar-header">
+						    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+						      <span class="sr-only">Desplegar navegación</span>
+						      <span class="icon-bar"></span>
+						      <span class="icon-bar"></span>
+						      <span class="icon-bar"></span>
+						    </button>
+						    <!--<a class="navbar-brand" href="#">Logotipo</a>-->
+						  </div>
+			  <!-- Agrupar los enlaces de navegación, los formularios y cualquier
+			       otro elemento que se pueda ocultar al minimizar la barra -->
+			  <div class="collapse navbar-collapse navbar-ex1-collapse ">
+			    <ul class="nav navbar-nav">
+			      <li class="locales"><a href="seccion-3_1_Locales">Locales</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="generales"><a href="seccion-7_1_InteresGeneral">Interés General</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="politica"><a href="seccion-2_1_Politica">Política</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="culturales"><a href="seccion-9_1_Culturales">Culturales</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="educacion"><a href="seccion-10_1_Educacion">Educación</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="deportes"><a href="seccion-4_1_Deportes">Deportes</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="policiales"><a href="seccion-5_1_Policiales">Policiales</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="judiciales"><a href="seccion-6_1_Judiciales">Judiciales</a></li>
+			      <li class="separamenu hidden-xs">|</li>
+			      <li class="salud"><a href="seccion-11_1_Salud">Salud</a></li>
+			    </ul>
+			  </div>
+			</nav>
+	   </div>
+        <div class="col-sm-3 col-md-2 hidden-xs">
+            <form class="buscaform" action="buscador.php" method="post" id="formnews" name="formnews">       
+				    <div class="input-group" style="margin-top: 6px;">
+				            <input type="text" id="busca" name="busca" class="form-control" placeholder="Buscar noticia...">
+        				    <span class="input-group-btn">
+        				        <button class="btn btn-default" type="button" onclick="document.formnews.submit();"><i class="fa fa-search"></i></button>
+        				    </span>
+				        </div><!-- /input-group -->
+                  </form>
+        </div>
+    </div>
+</div>
+<!-- end section menu -->
+
+<!-- DYM -->
+<div class="row hidden">
+	<div class="container hidden">
+		<div class="col-xs-12 visible-lg hidden">
+			<div class="oreja-izquierda"><a href="http://www.dottiymarengo.com.ar/" target="_blank"><img src="publis/dotty-comunitaria.jpg" alt=""></a></div>
+			<div class="oreja-derecha"><a href="http://www.dottiymarengo.com.ar/" target="_blank"><img src="publis/dotty-oreja-alarmas.jpg" alt=""></a></div>
+		</div>
+	</div>
+</div>
+<!-- Fin DYM -->
+<!-- banner central expandible-->
+<style type="text/css">
+.modal-backdrop { opacity:0.8 !important; }
+</style>
+<div id="divBannerPopUp" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="divBannerPopUp" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<!--<div class="modal-content">-->
+			<div class="modal-body">
+				<div class="row bannerexpandible col-xs-12 col-sm-12 col-md-12">
+					<div class="expandible-central">
+						<a href="javascript:void(0);" style="color:#FFFFFF; position: absolute; right:15px; top:8px; padding: 3px; font-family: Arial;" onclick="cerrarPublicidad();">Saltear Publicidad</a>
+						                                <a href="https://www.coopehogar.coop/" target="_blank" onclick="gtag('event', 'CooperativaObrera', {'event_category': 'Publi', 'event_label': 'Cooperativa Obrera', 'value': '1'});">
+                                    <img class="img-responsive" style="margin: 0 auto;" src="publis/PV-EI-1080x360.gif" alt="">
+                                </a>
+                                					</div>
+				</div>
+			</div>
+		<!--</div>-->
+	</div>
+</div>
+<!-- fin banner central expandible  -->
+
+<div class="row">
+	<div class="container">
+		<div class="col-xs-12 col-sm-12 col-lg-8 noticias-secundarias">
+			<div class="col-xs-12 col-sm-12 col-md-12">
+				<div class="col-xs-12 nota3"></div>
+				<div class="etiqueta-generales " style="background-color: #00cccc;">Interes General</div>
+				<div class="etiqueta-fechayhora"> 14/12/2022 - 17:17:06 </div>
+				
+                <div class="social-nota pull-right col-xs-12 col-sm-6 col-md-4 text-right">
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" style="padding: 0px; border: none;" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <img src="images/compartir2022_50.jpg" title="Compartir" class="img-responsive">
+                      </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                        <li class="pull-left"><!-- WHATSAPP -->
+                        	<a href="https://api.whatsapp.com/send?text=http://www.diarioelinformante.com.ar/nota-67642_declaran-estado-de-alerta-preventiva-por-la-gripe-aviar" title="Declaran estado de alerta preventiva por la gripe aviar" class="whats" target="_blank">
+                                <i class="fa fa-whatsapp fa-2x" style="color: #00A859;"></i>&nbsp;whatsapp
+                            </a>
+                        </li>
+                        <li class="pull-left"><!-- EMAIL -->
+                            <a href="mailto:redaccion@diarioelinformante.com.ar?subject=&amp;body=http://www.diarioelinformante.com.ar/nota-67642_declaran-estado-de-alerta-preventiva-por-la-gripe-aviar" title="Declaran estado de alerta preventiva por la gripe aviar" class="mailto" target="_blank">
+                                <i class="fa fa-envelope fa-2x" style="color: #CC0000;"></i>&nbsp;email
+                            </a>
+                        </li>
+                        <li class="pull-left"><!-- TWITTER -->
+                        	<a href="http://www.diarioelinformante.com.ar/nota-67642_declaran-estado-de-alerta-preventiva-por-la-gripe-aviar" title="Declaran estado de alerta preventiva por la gripe aviar" class="tweet" target="_blank">
+                                <i class="fa fa-twitter-square fa-2x" style="color: #1B95E0;"></i>&nbsp;twitter
+                            </a>
+                        </li>
+                        <li class="pull-left"><!-- FACEBOOK -->    
+                                                        <a href="https://www.facebook.com/dialog/feed?app_id=810057949119949&amp;display=popup&amp;caption=Declaran estado de alerta preventiva por la gripe aviar&amp;&amp;picture=fotos6/no_nzxvnibaky6zr07aves_corraljpg.pnglink=http://www.diarioelinformante.com.ar/nota-67642_declaran-estado-de-alerta-preventiva-por-la-gripe-aviar&amp;redirect_uri=http://www.diarioelinformante.com.ar/nota-67642_declaran-estado-de-alerta-preventiva-por-la-gripe-aviar&amp;picture=http://www.diarioelinformante.com.ar/fotos3/conmarca38577" target="_blank">
+                                <i class="fa fa-facebook-square fa-2x" style="color: #4267B2;"></i>&nbsp;facebook
+                            </a>
+                        </li>
+                      </ul>
+                    </div>
+                    				</div>
+				<br><br><br>
+				<a href="#"><h1>Declaran estado de alerta preventiva por la gripe aviar</h1></a>
+                                          <img class="img-responsive" src="fotos3/conmarca38577" alt="" border="0">  
+                        				<br>
+				<p class="">En el marco de las medidas de prevención para evitar el ingreso al país de la influenza aviar altamente patógena (IAAP), el Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa) declaró el estado de alerta preventivo sanitario en toda la Argentina.<br>
+<br>
+La medida, que entró en vigencia este miércoles tras ser publicada en el Boletín Oficial, surge con motivo de la presencia de brotes de IAAP, tanto en aves de corral como en aves silvestres, en América del Norte y su actual dispersión hacia América del Sur a través de las rutas migratorias que las aves silvestres inician en época primaveral y que indican una potencial propagación al resto del continente americano.<br>
+<br>
+La enfermedad puede provocar, de ingresar al país, “un alto impacto en la producción y el comercio” de la producción avícola industrial con “graves pérdidas económicas” por la alta mortalidad en las aves, y las consecuentes restricciones al comercio internacional.<br>
+<br>
+En ese marco, el alerta del Senasa busca "reforzar las medidas de preparación y prevención así como las dirigidas a la detección precoz y atención temprana ante un eventual ingreso”, señala el decreto.<br>
+<br>
+La declaración del alerta sanitario preventivo va en línea con lo resuelto a nivel regional en el Comité Veterinario Permanente del Cono Sur (CVP), del que forma parte el Senasa junto a sus pares de Brasil, Chile, Paraguay, Uruguay y Bolivia, y en la Organización Mundial de Salud Animal (OMSA) de las Américas. Los países de la región están estableciendo estas alertas preventivas sanitarias que, entre otras cosas, permiten disponer de manera ágil en caso de que sea necesario, partidas presupuestarias para poder afrontar algún tipo de emergencias.<br>
+<br>
+La mayoría de los virus de la influenza afectan sólo a las aves aunque, con menor frecuencia, también algunas cepas tienen la capacidad de infectar a especies de mamíferos, incluyendo seres humanos.<br>
+<br>
+En las aves, el virus tiene una alta mortalidad y no existe vacuna al momento. A su vez, las aves pueden portar normalmente virus de influenza en sus sistemas respiratorio o intestinal y pese a que, en general, no se enferman, transmiten la enfermedad a otras aves funcionado así como vectores, explicó el Senasa en la normativa.<br>
+<br>
+</p>                
+                                
+                <a href="javascript: history.go(-1);" class="btn btn-danger"><span class="glyphicon glyphicon-chevron-left"></span> Volver</a>
+                <br><br>
+			</div>
+    		<!-- PUBLICIDAD 10-->
+<!--CABA-->
+
+
+<!-- <div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://turismo.buenosaires.gob.ar/es/vacacionesdeinvierno?dsd=bbdd23" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/caba-junio-2023-2.png" alt=""/>
+    </a>
+</div> -->
+
+
+
+<!--YPF
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.youtube.com/watch?v=FaSRwF9FigQ" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/ypf-alargado-728x90.jpg" alt=""/>
+    </a>
+</div> -->
+
+
+
+
+<!--<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://gofix.com.ar/locales" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/AvisoGoFixSANNICOLAS720x200px.gif" alt=""/>
+    </a>
+</div> -->
+
+<!--Flor GO-->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.gosannicolas.com.ar/turnos" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/goabril24-chico.gif" alt="">
+    </a>
+</div>
+
+<!--LITORALGAS -->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.litoral-gas.com.ar/site/seguridad/prevenci%C3%B3n/debajo-de-la-vereda-pasan-cosas/" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/litoralgas-nov-24.jpeg" alt="">
+    </a>
+</div>
+
+
+
+
+<!--centrogar-->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.centrogar.com.ar" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/centrogar-dic-24.gif" alt="">
+    </a>
+</div>
+
+
+
+<!--EXPOAGRO-->
+<!-- <div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.expoagro.com.ar/como-exponer/" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/ea-visitantes-enero24-largo.jpeg" alt=""/>
+    </a>
+</div> -->
+
+
+
+
+
+
+<!-- FIN PUBLICIDAD 10-->            <!-- PUBLICIDAD 20-->
+<!-- atanor-->
+
+<!-- <div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.atanor.com.ar/" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/atanor-22-12-22.jpg" alt=""/>
+    </a>
+</div> -->
+
+<!--colorshop
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.colorshop.com.ar" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/ColorShopBannerTiendaEnvio720x17001R.gif" alt=""/>
+    </a>
+</div> -->
+
+<!--la cooper
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.cooperativaobrera.coop/coopescolar/" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/EI730x200pxVuelta2023del09022023al03032023.gif" alt=""/>
+    </a>
+</div>-->
+<!-- expoagro-->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="#">
+    </a><a href="https://www.expoagro.com.ar/informacion-general-para-visitantes/" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/expoagro-horizontal.jpeg" alt="">
+    </a>
+</div>
+<!-- naldo-->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="#">
+    </a><a href="https://www.naldo.com.ar/" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/Naldo-25mayo.png" alt="">
+    </a>
+</div>
+
+
+<!--williamhope 
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://whope.com.ar/home" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/williamhope-julio2023.jpg" alt=""/>
+    </a>
+</div>-->
+
+
+
+
+
+
+<div class="col-xs-12 col-lg-12 pt2 ">
+        <a href="https://www.cooperativaobrera.coop/precios-y-promociones/ofertas-y-beneficios.html" target="_blank" onclick="gtag('event', 'CooperativaObrera', {'event_category': 'Publi', 'event_label': 'Cooperativa Obrera', 'value': '1'});">
+            <img class="img-responsive" style="margin: 0 auto;" src="publis/CSEI730x200140125.gif" alt="">
+        </a>
+        </div>
+
+
+
+
+
+
+
+ 
+
+<!-- Radionet -->
+<!-- <div class="col-xs-12 col-lg-12 pt2 ">
+        <a href="http://www.radionetsannicolas.com.ar" target="_blank">
+            <img class="img-responsive"  style="margin: 0 auto;" src="publis/gif-radio-net-2022.gif" alt=""/>
+        </a>
+</div> -->
+
+        
+<!-- <div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.litoral-gas.com.ar/site/seguridad/prevenci%C3%B3n-de-da%C3%B1os/mon%C3%B3xido-de-carbono/" target="_blank" id="lgmonoxido" onclick="enviarlgmonoxido()">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/litoralgas-720x150.jpg" alt=""/>
+    </a>
+</div> -->
+
+
+
+<!-- cacel 
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.escuelajeanpiaget.com.ar" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/informanteescuelajeanpiaget.gif" alt=""/>
+    </a>
+</div>-->
+<!-- FIN PUBLICIDAD 20-->    		<!-- PUBLICIDAD 30-->
+
+<!-- Litoral Gas  
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.litoral-gas.com.ar/site/seguridad/prevenci%C3%B3n/debajo-de-la-vereda-pasan-cosas/" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/litoralgas-octubre-24.jpeg" alt=""/>
+    </a>
+</div>  -->
+
+
+
+<!--Flor Milone Pasteleria-->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.instagram.com/flormilonepasteleria/" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/florencia-milone.gif" alt="">
+    </a>
+</div>
+
+
+<!-- autocredito-->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.autocreditodesarrollos.com.ar/proyecto/ikebana" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/AD_Ikebana.gif" alt="">
+    </a>
+</div>
+
+<!-- <div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://turismo.buenosaires.gob.ar/es" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/turismo-ba.png" alt=""/>
+    </a>
+</div> -->
+
+
+<!--escuela camino
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://www.facebook.com/Escuela-Camino-1760423460893979/" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/bannercamino2019final.gif" alt=""/>
+    </a>
+</div>-->
+<!-- FIN PUBLICIDAD 30-->            <!-- PUBLICIDAD 40-->
+<!-- ventamat-->
+<div class="col-xs-12 col-lg-12 pt2" style="text-align: center;">
+    <a href="http://www.ventamat.com" target="_blank">
+        <img class="img-responsive" src="publis/VentamatPubliDigital5placasDIC2021.gif?v=2" alt="" title="" border="0">
+    </a>
+</div>
+<!-- eden-->
+<div class="col-xs-12 col-lg-12 text-center pt2">
+    <a href="https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%2F%3Fphone%3D543364526944%26text%26type%3Dphone_number%26app_absent%3D0&amp;data=05%7C02%7C%7Cc70cf9eeed084f0bcbb508dcbc540e9c%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638592316433514810%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=6EbLden3g90oggN62mgWeB2Ft1q%2BAuJLL0Yj%2F0beEFg%3D&amp;reserved=0" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/eden-ago24.jpeg" alt="">
+    </a>
+</div>
+<!-- FIN PUBLICIDAD 40-->            <!-- PUBLICIDAD 50-->
+<!-- masshipping -->
+<div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="http://www.masshipping.com.ar" target="_blank">
+        <img class="img-responsive" style="margin: 0 auto;" src="publis/masshipping.gif" alt="">
+    </a>
+</div>
+<!-- <div class="col-xs-12 col-lg-12 pt2 ">
+    <a href="https://salonnauticoargentino.com.ar/entradas?utm_source=elinfor&utm_medium=banner&utm_campaign=oct" target="_blank">
+        <img class="img-responsive"  style="margin: 0 auto;" src="publis/CACEL-SNOctubre-720-x-170.jpg" alt=""/>
+    </a>
+</div> -->
+
+<!-- Celestial-->
+<div class="col-xs-12 col-lg-12 pt2">
+    <div class="col-xs-12 col-md-12 pt1">
+        <a href="http://www.celestial.com.ar" target="_blank">
+            <img class="img-responsive" src="publis/celestialBanner770x330.gif" alt="" border="0">
+        </a>
+    </div>
+</div>
+
+<!-- FIN PUBLICIDAD 50-->    		<!-- PUBLICIDAD 60-->
+<div class="col-xs-12 col-lg-12 pt2">
+    <a href="https://www.facebook.com/pages/La-Nueva-Caleta/365725420189776" target="_blank">
+        <img class="img-responsive" src="publis/banner-caleta.gif" alt="" title="" border="0">
+    </a>
+</div>
+<!-- FIN PUBLICIDAD 60-->
+            <!-- PUBLICIDAD 70-->
+<div class="col-xs-12 col-lg-12 pt2">
+    <img class="img-responsive" src="publis/ElInformanteBannerTransram6.gif" alt="" style="border:0px; margin: 0 auto;">
+</div>
+<!-- FIN PUBLICIDAD 70-->            <!-- PUBLICIDAD 80-->
+<!-- FIN PUBLICIDAD 80-->        </div>
+        <!-- COMIENZO COLUMNA DERECHA -->
+        ﻿<div class="row publi-t1">
+	<div class="container">
+		<div class="col-lg-4">
+            <!-- LINKS UTILES -->
+            <br>
+            <div class="col-xs-12 col-sm-12 col-lg-12 pt1">
+                <div class="col-xs-4 col-sm-4 col-lg-4" style="padding: 2px;">
+                    <a href="necrologicas.php" class="">
+                        <img src="images/necrologicas2022.jpg" class="img-responsive" style="border: none;" title="Negrologicas">
+                    </a>
+            	</div> 
+                <div class="col-xs-4 col-sm-4 col-lg-4" style="padding: 2px;">
+                    <a href="telutiles.php" class="">
+                        <img src="images/telefonosutiles2022.jpg" class="img-responsive" style="border: none;" title="Telefonos utiles">
+                    </a>
+                </div>
+                <div class="col-xs-4 col-sm-4 col-lg-4" style="padding: 2px;">
+                    <a href="mapa.php" class="">
+                        <img src="images/mapadebarrios2022.jpg" class="img-responsive" style="border: none;" title="Mapa de Barrios">
+                    </a>
+                </div>
+            </div>
+
+
+
+            <div class="col-xs-12 col-sm-12 col-lg-12 pt1">
+                <div class="col-xs-12 col-sm-12 col-lg-12" style="padding: 2px;">
+                    <a href="clasificados.php" class="">
+                        <img src="images/clasificados2022.jpg" class="img-responsive" style="border: none;" title="Clasificados">
+                    </a>
+            	</div> 
+            </div>
+
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://wa.me/5493364284703" target="_blank">
+                    <img class="img-responsive" src="publis/licencia-muni-oct-24.gif" border="0">
+                </a>
+			</div>     
+
+
+            <!-- YPF MESSI  
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.youtube.com/watch?v=FaSRwF9FigQ" target="_blank">
+                    <img width="330"  class="img-responsive" src="publis/ypf-nov22-330x600.jpg" border="0" />
+                </a>
+			</div> -->
+            <!-- velvet  
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.velvetconfort.com/" target="_blank">
+                    <img  class="img-responsive" src="publis/gif-harmony.gif" border="0" />
+                </a>
+			</div>-->
+                        
+
+            <!-- Ternium Acuerdo -->
+			<!-- <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="#" target="_blank"><img  class="img-responsive" src="publis/ternium-periodistas.gif" border="0" /></a>
+			</div> -->
+
+            <!-- g2k -->
+			<div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://www.g2khosting.com/" target="_blank"><img class="img-responsive" src="publis/g2kBannerDerecha.gif" border="0"></a>
+			</div>
+
+             <!-- AVALIAN 
+			<div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://www.avalian.com/?utm_source=medios&utm_medium=Elinformante&utm_campaign=nucleo" target="_blank"><img  class="img-responsive" src="publis/avalian-set-24.gif" border="0" /></a>
+			</div> -->
+
+        
+
+            <!-- ATANOR -->
+			<div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://www.albaughllc.com/ar" target="_blank"><img class="img-responsive" src="publis/atanor-03-24.jpg" border="0"></a>
+			</div>
+
+
+            <!-- MUNI VACACIONES 
+			<div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://sannicolasciudad.gob.ar/festivalr%C3%ADo" target="_blank"><img  class="img-responsive" src="publis/muni-vacaciones-2024.gif" border="0" /></a>
+			</div> -->
+
+            <!--giorgi-->
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-12  nota2">
+                <a href="https://www.giorgiford.com/sucursal-san-nicolas.html" target="_blank" style="margin: 0px auto; padding: 0px;">
+                    <img width="330" src="publis/giorgi-enero25.jpeg" border="0" class="img-responsive">
+                </a>
+            </div> 
+
+            <!--giorgi
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-12  nota2">
+                <a href="https://www.giorgiford.com/sucursal-san-nicolas.html" target="_blank" style="margin: 0px auto; padding: 0px;">
+                    <img width="330"  src="publis/giorgi-330x330-10-23.gif" border="0" class="img-responsive"/>
+                </a>
+            </div> -->
+
+            <!-- Velvet -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.velvetconfort.com/" target="_blank">
+                        <img class="img-responsive" src="publis/Outdoors---330x330-GIF.gif" border="0">
+                </a>
+            </div>
+            <!--viviendas roca 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://www.facebook.com/ViviendasRocaRosario" target="_blank">
+                    <img  class="img-responsive" src="publis/InformanteViviendasRoca2021lateral.gif" border="0" />
+                </a>
+			</div>-->
+                                      
+                        <!-- anda seguro  
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://andaseguro.com.ar/" target="_blank">
+				<img  class="img-responsive" src="publis/elinformantegifandaseguro.gif" border="0" />
+                </a>
+			</div> -->
+
+              <!-- Expoagro   -->
+              <!-- <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				 
+                <a href="https://www.expoagro.com.ar/como-exponer/" target="_blank" style="margin: 0px auto; padding: 0px;">
+				    <img src="publis/ea-visitantes-enero24.jpeg" border="0" class="img-responsive" />
+                </a> 
+			</div>       -->
+
+            <!-- atanor 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://instagram.com/unidadacademicaamaf?igshid=YmMyMTA2M2Y=" target="_blank">
+                    <img class="img-responsive" src="publis/BANNER-AMAF-GIF.gif" border="0" />
+                </a>
+			</div>-->
+            <!-- atanor 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.atanor.com.ar/" target="_blank">
+                    <img class="img-responsive" src="publis/ElInformanteaAtanor330x330.jpg" border="0" />
+                </a>
+			</div>-->
+            <!-- senado 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.senado-ba.gov.ar/" target="_blank">
+                    <img class="img-responsive" src="publis/informanteBannerSenado.jpg" border="0" />
+                </a>
+			</div>-->
+            <!-- MATEO Torres 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.facebook.com/mateotorresventas/" target="_blank">
+                <img  class="img-responsive" src="publis/PlacaCentroElInformante5441.gif?v=3" border="0" />
+                </a>
+            </div>    -->        
+            <!--Becas al merito -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://diarioelinformante.com.ar/publicidades/OT_BRR2024__ASIGN_AD_GentedelAcero_235x315_OUT.pdf" target="_blank">
+                    <img class="img-responsive" src="publis/becas-24.gif" border="0">
+                </a>
+			</div>
+
+             <!--Senado BA -->
+             <!-- <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://www.senado-ba.gov.ar/" target="_blank">
+                    <img  class="img-responsive" src="publis/senado-ba-05-04-2023.jpeg" border="0" />
+                </a>
+			</div> -->
+
+
+                        <!-- aes -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.aesargentina.com.ar" target="_blank">
+                    <img class="img-responsive" src="publis/bannerAESArgentina300x250A.png" border="0">
+                </a>
+			</div>
+                        <!-- ginza -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://ginzasa.com.ar/hilux-srx.html" target="_blank">
+                    <img class="img-responsive" src="publis/ginza-oct-24.gif" border="0">
+                </a>
+			</div>
+
+            <!-- mariano abad 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://estudioabad.negocio.site/" target="_blank">
+                    <img class="img-responsive" src="publis/abadmarianoIMG20220309WA0018.jpg" border="0" />
+                </a>
+			</div>  -->
+
+
+            <!-- san nicolas ciudad municipalidad -->
+			<!-- <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://api.whatsapp.com/send/?phone=5493364636237&text&app_absent=0" target="_blank">
+                    <img  class="img-responsive" src="publis/sannicolasciudadGifWhatsapp.gif" border="0" />
+                </a>
+			</div>             -->
+
+            <!-- <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+				<a href="https://descubrisannicolas.com.ar/" target="_blank">
+                    <img  class="img-responsive" src="publis/abril-10-23muni.gif" border="0" />
+                </a>
+			</div>      -->
+
+       
+            
+
+
+            <!-- vivero latini -->
+            <!-- <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="http://instagram.com/viverolatini/" target="_blank">
+				<img  class="img-responsive" src="publis/BannerViveroLatinitexto.jpg" border="0" />
+                </a>
+			</div> -->
+                        <!-- grupomudemed -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="http://www.grupomudemed.com.ar" target="_blank">
+                    <img class="img-responsive" src="publis/grupomedIMG4837.gif" border="0">
+                </a>
+			</div>
+
+                        <!-- puerto -->
+            <!-- <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <img class="img-responsive" src="publis/puerto-marzo-2023.gif" border="0" />
+			</div> -->
+                        
+                                    
+            <!-- BECAS TECHINT 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://www.becastechint.org.ar/" target="_blank"> 
+                    <img class="img-responsive" src="publis/Becas_Final.gif" alt="" border="0"/>
+                </a>
+            </div>-->
+                        
+                        
+            <!-- INTERCOM 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="http://www.intercom.com.ar/" target="_blank"><img  class="img-responsive" src="publis/IntercomBannerInformante18.gif" border="0" /></a>
+            </div>-->
+
+
+            <!-- ENTRE -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1" style="padding-left: 0px;">
+                <a href="http://www.entre.com.ar" target="_blank">
+                    <img class="img-responsive" src="publis/InformanteGifENTRE330x150.gif" alt="" border="0">
+                </a>
+            </div>            
+                        <!-- ITEC -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="http://www.itecaguiar.com.ar/" target="_blank" style="margin: 0px auto; padding: 0px;">
+                    <img class="img-responsive" src="publis/itec-octubre2023.jpeg" border="0">
+                </a>
+            </div>
+            <!-- DOTTI -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="http://www.dottiymarengo.com.ar/" target="_blank">
+                    <img src="publis/animacionDottiMarengo.gif" border="0" class="img-responsive">
+                </a>
+            </div>
+            
+            <!-- CABLEVISION 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="https://clientes.cablevisionfibertel.com.ar/Buscador" target="_blank"><img class="img-responsive" src="publis/cablevision-1col.gif" alt=""></a>
+            </div> -->
+
+            <!-- ENFOCO 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1">
+                <a href="enfoco.php"><div id="bannerenfoco" style="width: 330px; height: 125px"></div></a>
+                <script>
+                  var stage = new swiffy.Stage(document.getElementById('bannerenfoco'),
+                      enfoco, {});
+                  stage.start();
+                </script> -->
+
+                                    
+<!-- ENCUESTA    
+
+
+
+    		<div class="encuesta-2">
+    			<div class="col-xs-12  col-sm-6 col-lg-12 pt1" style="padding-left: 0px; padding-right: 0px;"><div class="titulo-encuesta-2"> ENCUESTA</div>
+        			<div class="cuerpo-encuesta">
+                       <div class="user-poll-section">
+                            <div class="panel panel-default">
+                                                                <div class="panel-heading" style="background-color: #ededed;">
+                                    <div class="consigna-encuesta-2">
+                                    	                                    </div>
+                                </div>
+                                <div class="panel-body" style="background-color: #ededed;">
+                                    <div id="votacionencuesta" >
+                                        <form class="" method="post" name="frmvotar" id="frmvotar" action="">
+                                        <input type="hidden" value="" id="idencuesta" name="idencuesta"/>
+                                                                                                                                                                                                                                                                                                                                                                                                                                </form>
+                                    </div>
+                                    <div id="resultadosencuesta" style="display:none;">
+                                        <hr />
+                                        <h5 class="text-danger" id="mensajeyavoto" style="display:none;">Ud ya ha votado</h5>
+                                        <h5 class="text-danger" id="mensajevoto" style="display:none;">Gracias por su Voto</h5>
+                                        <h5 class="text-danger">Resultados:</h5>
+                                        <hr />
+                                                                                                                                                                                                                                                                                                                                                                                                                            </div> 
+
+
+
+                                    
+        							<!--
+                                    <hr />
+                                    <h5 class="text-danger">Resultados:</h5>
+                                    <hr />
+                                    S�. Lo normal:
+                                       <div class="progress progress-striped active">
+                                           <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+                                               <span class="sr-only">60% Complete (success)</span>
+                                           </div>
+                                       </div>
+                                    S�. Muy Importante:
+                                       <div class="progress progress-striped active">
+                                           <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
+                                               <span class="sr-only">30% Complete (success)</span>
+                                           </div>
+                                       </div>
+                                    No. No aument�:
+                                       <div class="progress progress-striped active">
+                                           <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">
+                                               <span class="sr-only">10% Complete (success)</span>
+                                           </div>
+                                       </div>
+                                    No. No me di cuenta:
+                                       <div class="progress progress-striped active">
+                                           <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">
+                                               <span class="sr-only">10% Complete (success)</span>
+                                           </div>
+                                       </div>
+        							-->
+                                <!-- </div>
+                                                                    <div class="panel-footer" id="pieencuesta">
+                                        <a href="javascript: void(0);" class="btn btn-default btn-sm active" onclick="fn_botar();"> <strong>VOTAR</strong></a>
+                                        <a href="javascript: void(0);" class="btn btn-default btn-sm active" onclick="fn_verresultados();"> <strong>VER RESULTADOS</strong></a>
+                                    </div>
+                                                            </div>
+                        </div>
+        			</div>
+    			</div>
+    		</div> -->
+
+
+
+
+
+
+
+
+           <!-- FIN ENCUESTA -->
+
+
+
+
+
+
+                        <!-- HCD -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1" style="padding-left: 0px;">
+             <div id="hcd" style="width: 330px; height: 120px">
+                </div>
+                <script>
+                  var stage = new swiffy.Stage(document.getElementById('hcd'),
+                      publi_hcd, {});
+                  stage.start();
+                </script>
+            </div>
+                                    
+            <!-- DISPARATE -->
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1" style="padding-left: 0px;">
+             <div id="disparate" style="width: 330px; height: 113px">
+                </div>
+                <script>
+                  var stage = new swiffy.Stage(document.getElementById('disparate'),
+                      publi_disparate, {});
+                  stage.start();
+                </script>
+            </div>
+                        <!-- CONTACTO 
+            <div class="col-xs-12  col-sm-6 col-lg-12 pt1" style="padding-left: 0px;">
+                <img class="img-responsive" src="publis/ElInformanteBannerContacto.gif" alt="" />
+            </div>-->
+            <!-- BREVES CULTURALES -->
+    		<div class="culturales-2">
+    			<div class="col-xs-12  col-sm-6 col-lg-12 pt1" style="padding-left: 0px; padding-right: 0px;"><div class="titulo-culturales-2"> NOTICIAS CULTURALES</div>
+        			<div class="caja-culturales-2">
+                                            <a href="nota-78509_este-sbado-se-llev-a-cabo-la-megafiesta-ternium"><img src="images/cuadradoculturales.png" style="border: none; width: 4px;">&nbsp;Este sábado se llevó a cabo la Megafiesta Ternium</a>
+                                                <a href="nota-78210_fabiana-cantilo-se-presenta-en-el-teatro-san-nicols"><img src="images/cuadradoculturales.png" style="border: none; width: 4px;">&nbsp;Fabiana Cantilo se presenta en el Teatro San Nicolás</a>
+                                                <a href="nota-78046_la-cartelera-del-teatro-san-nicols-para-el-fin-de-semana"><img src="images/cuadradoculturales.png" style="border: none; width: 4px;">&nbsp;La cartelera del Teatro San Nicolás para el fin de semana</a>
+                                                <a href="nota-77836_jorge-andrs-jaime-presentar-su-libro-en-el-club-sportivo-"><img src="images/cuadradoculturales.png" style="border: none; width: 4px;">&nbsp;Jorge Andrés Jaime presentará su libro en el Club Sportivo </a>
+                                                <a href="nota-77819_coral-somisa-invita-al-concierto-homenaje-a-astor-piazzola-y-eladia-blazquez"><img src="images/cuadradoculturales.png" style="border: none; width: 4px;">&nbsp;Coral Somisa invita al concierto homenaje a Astor Piazzola y Eladia Blazquez</a>
+                                			</div>
+    			</div>
+    		</div>
+            <!-- FIN BREVES CULTURALES -->
+            		</div>
+	</div>
+</div>
+				    
+        <!-- FIN COLUMNA DERECHA -->
+	</div>
+</div>
+
+
+    <div class="row ">
+        <div class="container footer">
+            <a href="https://radionetsannicolas.com.ar/" target="_blank" style="padding: 0px; margin: 0px; width: 100%; text-align: center;">
+                <img class="img-responsive" src="images/Informantepie202005.jpg" style="width: 100%;" alt="" border="0">
+            </a>
+            	
+        </div>
+    </div>
+    <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  
+     CORE JQUERY LIBRARY -->
+     
+            <script src="js/jquery.js"></script>
+        <!-- CORE BOOTSTRAP LIBRARY -->
+    <script src="js/bootstrap.js?cache=14"></script>
+    <script type="text/javascript">
+            function fn_verresultados() {
+                $("#votacionencuesta").fadeOut();
+                $("#pieencuesta").fadeOut();
+                $("#resultadosencuesta").fadeIn(); 
+                };
+                
+            function fn_botar() {
+                var str = $("#frmvotar").serialize();
+        		$.ajax({
+        			url: 'proc_encuesta.php',
+        			data: str,
+        			type: 'post',
+        			success: function(data){
+        				if(data != "" && data.indexOf("*") == -1)
+                            {
+                            if (data=="ok")
+                                {$("#mensajevoto").fadeIn(); }
+                            if (data=="yavoto")
+                                {$("#mensajeyavoto").fadeIn(); }
+
+                            fn_verresultados();
+                            }
+                        else
+                            {}
+        			}
+        		});
+        	};
+
+    </script>
+
+            <!-- POPUP TWITTER -->
+        <script>
+    	// We bind a new event to our link
+        $('a.tweet').click(function(e){
+          //We tell our browser not to follow that link
+          e.preventDefault();
+          //We get the URL of the link
+          var loc = $(this).attr('href');
+          //We get the title of the link
+          var title  = encodeURIComponent($(this).attr('title'));
+          //We trigger a new window with the Twitter dialog, in the middle of the page
+          window.open('http://twitter.com/share?url=' + loc + '&text=' + title + '&', 'twitterwindow', 'height=450, width=550, top='+($(window).height()/2 - 225) +', left='+$(window).width()/4 +', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
+        });
+        </script>
+        <!-- FIN POPUP TWITTER -->
+     
+    
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	setTimeout(function() {
+		$("#divBannerPopUp").modal("hide");
+    },8000);});
+function cerrarPublicidad() {
+	$("#divBannerPopUp").modal("hide");
+}
+$(document).ready(function(){
+    });
+</script></body></html>

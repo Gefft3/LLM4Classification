@@ -1,0 +1,701 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Saúde RJ - Notícias - Secretaria de Estado de Saúde faz simulado para testar respostas a uma possível epidemia de dengue</title>
+	<meta name="viewport" content="width=device-width, maximum-scale=1.1, minimum-scale=0.9">
+	<meta name="language" content="pt-br">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta name="robots" content="index, follow">
+	<meta http-equiv="imagetoolbar" content="no">
+	<meta http-equiv="revisit-after" content="1 days">
+	<meta name="robots" content="all">
+	<link rel="shortcut icon" href="/favicon.ico">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://www.saude.rj.gov.br:443/noticias/2024/01/secretaria-de-estado-de-saude-faz-simulado-para-testar-respostas-a-uma-possivel-epidemia-de-dengue">
+	<meta property="og:site_name" content="Conexão Saúde">
+	<meta property="og:title" content="Secretaria de Estado de Saúde faz simulado para testar respostas a uma possível epidemia de dengue">
+	<meta property="og:description" content="Principal objetivo é promover uma atuação integrada no combate e controle de arboviroses, como dengue e chikungunya
+">
+	<meta property="og:image" content="https://www.saude.rj.gov.br:443/comum/code/MostrarImagem.php?C=NjYwMDI%2C">
+	<meta name="description" content="Principal objetivo é promover uma atuação integrada no combate e controle de arboviroses, como dengue e chikungunya
+">
+	<link rel="stylesheet" type="text/css" href="/site/code/Reset.css">
+	<link rel="stylesheet" type="text/css" href="/site/code/Estilo.css">
+	<link rel="stylesheet" type="text/css" href="/comum/libjs/jquery/css/jquery-ui.min.css">
+<link rel="stylesheet" type="text/css" media="(min-width: 980px)" href="/site/code/Desktop.css">
+<link rel="stylesheet" type="text/css" media="(min-width: 1367px)" href="/site/code/SuperDesktop.css">
+<link rel="stylesheet" type="text/css" media="(min-width: 980px) and (max-width: 1200.99px)" href="/site/code/DesktopMini.css">
+<link rel="stylesheet" type="text/css" media="(min-width: 768px) and (max-width: 979.99px)" href="/site/code/Tablet.css">
+<link rel="stylesheet" type="text/css" media="(max-width: 767.99px)" href="/site/code/Celular.css">
+<link rel="stylesheet" type="text/css" media="(max-width: 479.99px)" href="/site/code/CelularMini.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700italic,700,800,800italic,600italic,400italic,300italic" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="/comum/libjs/jquery/jquery.touchwipe.min.js"></script>
+<script type="text/javascript" src="/comum/libjs/string/StrParse.js"></script>
+<script type="text/javascript" src="/comum/libjs/string/StrReplace.js"></script>
+<script type="text/javascript" src="/site/code/Geral.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _raiz_='/';
+var _site_='/site/';
+var _pagina_='/site/conteudo/';
+var _RobotSite_='20';
+//]]>
+</script>
+
+
+	<script type="text/javascript" src="/comum/libjs/jquery/jquery.cycle2.min.js"></script>
+	<script type="text/javascript" src="/comum/libjs/jquery/jquery.cycle2.swipe.min.js"></script>
+	<script type="text/javascript" src="/comum/libjs/jquery/jquery.maskedinput.js"></script>
+	<script type="text/javascript" src="/comum/libjs/jquery/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/comum/libjs/jquery/jquery.ui.datepicker-pt-BR.js"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+		var Alertas=
+		{
+		};
+
+		$(function ()
+		{
+			IniciarSlider(0,'.galeria .janela');
+			$('.galeria li').append('<div></div>').on('click',function()
+			{
+				AbrirZoom($(this).index());
+			});
+			IniciarAlertas();
+			IniciarMascaras();
+		});
+
+		function IniciarMascaras()
+		{
+			$('#De,#Ate').datepicker(
+			{
+				constrainInput: false,
+				changeMonth: true,
+				changeYear: true,
+				showOtherMonths: true,
+				selectOtherMonths: true,
+				showOn: 'button',
+				buttonImage: _raiz_ + 'site/img/icn_calendario.gif',
+				buttonImageOnly: true,
+				buttonText: 'abrir calendário'
+			}).mask('99/99/9999');
+		}
+
+		function AbrirZoom(Indice)
+		{
+			AbrirLightBox(_raiz_ + 'galeria?C=19473&I=' + Indice,'pop-galeria');
+		}
+	//]]>
+	</script>
+</head>
+<body class="site interna noticias-interna" id="fique-atento-interna">
+<!--  -->
+<!--robot_noindex-->
+	<div class="super-desktop"></div>
+	<div class="desktop-mini"></div>
+	<div class="desktop"></div>
+	<div class="tablet"></div>
+	<div class="celular-mini"></div>
+	<div class="celular"></div>
+
+<form name="FBX" id="FBX" method="get" action="/resultado-da-busca">
+	<input type="hidden" id="q" name="q">
+</form>
+
+<div class="menu-aberto">
+	<div class="lado">
+		<div class="dentro">
+			<a href="javascript:FecharMenu();">
+				<img src="/site/img/fechar_menu.png" alt="Fechar menu" class="fechar">
+			</a>
+
+			<a href="/">
+				<img src="/site/img/home_menu.png" alt="Home" class="home">
+			</a>
+			<div class="limpar"></div>
+
+			<form name="FBY" id="FBY" method="get" action="#" onsubmit="return(ExecutarBusca(document.FBY.qy.value));" class="busca">
+				<div class="area">
+					<input id="qy" name="qy" type="text" class="tb" placeholder="" value="">
+				</div>
+
+				<input type="image" src="/site/img/busca_menu.png">
+			</form>
+			<!--
+				<form name="FRX" id="FRX" method="post" action="/noticias/2024/01/secretaria-de-estado-de-saude-faz-simulado-para-testar-respostas-a-uma-possivel-epidemia-de-dengue" class="regiao">
+					<label> Selecione sua região?
+						<select name="_rg_" class="tb" onchange="MudarRegiao();">
+							<option value=""></option>
+							<option value="Região A">Região A</option>
+						</select>
+					</label>
+				</form>
+			-->			
+		
+			<ul>
+				
+				<li>
+					<a href="/viver-melhor">Viver melhor</a>
+				</li>
+				<li>
+					<a href="/cidadao">Cidadão</a>
+				</li>
+				<li>
+					<a href="/profissional-de-saude">Profissional de saúde</a>
+				</li>
+				<li>
+					<a href="/gestor">Gestor</a>
+				</li>
+				<li>
+					<a href="/pesquisador">Pesquisador</a>
+				</li>
+
+				<!--
+					<li>
+					<a href="/setores-da-saude">Setores da Saúde</a>
+					</li>
+				-->
+				
+				<li>
+					<a href="javascript:;" onclick="TrocarSubMenu(this);">Setores da Saúde
+						<img src="/site/img/grupo_menu.png" alt="Grupo">
+					</a>
+						
+					<ul class="submenu">
+
+						<li>
+							<a href="/assessoria-de-regionalizacao">Assessoria de Regionalização</a>
+						</li>
+
+						<li>
+							<a href="/atendimento">Atendimento</a>
+						</li>
+
+						<li>
+							<a href="/atencao-especializada-controle-e-avaliacao">Atenção Especializada, Controle e Avaliação</a>
+						</li>
+
+						<li>
+							<a href="/atencao-psicossocial">Atenção Psicossocial e Populações em Situação de Vulnerabilidade</a>
+						</li>
+
+						<li>
+							<a href="/atencao-primaria-a-saude">Atenção Primária à Saúde</a>
+						</li>
+
+						<li>
+							<a href="/auditoria">Auditoria</a>
+						</li>
+
+						<li>
+							<a href="/design-em-saude">Design em Saúde</a>
+						</li>
+
+						<li>
+							<a href="/contratacoes/contrato-de-dispensa">Contratações</a>
+						</li>
+
+						<li>
+							<a href="/educacao-e-formacao-em-saude">Educação e Formação em Saúde</a>
+						</li>
+
+						<li>
+							<a href="/humanizacao">Humanização</a>
+						</li>
+
+						<li>
+							<a href="/informacao-sus">Informação SUS</a></li>
+						<li>
+
+						</li><li>
+							<a href="/lacenrj">LACENRJ</a>
+						</li>
+
+						<li>
+							<a href="/licitacoes">Licitações</a>
+						</li>
+
+						<li>
+							<a href="/medicamentos">Medicamentos</a>
+						</li>
+
+						<li>
+							<a href="/organizacoes-sociais-de-saude">Organizações Sociais de Saúde</a>
+						</li>
+
+						<li>
+							<a href="/ouvidoria">Ouvidoria</a>
+						</li>
+
+						<li>
+							<a href="/planejamento-em-saude">Planejamento em Saúde</a>
+						</li>
+
+						<li>
+							<a href="/qualidade">Qualidade</a>
+						</li>
+
+						<li>
+							<a href="/recursos-humanos">Recursos Humanos</a>
+						</li>
+
+						<li>
+							<a href="/regulacao">Regulação</a>
+						</li>
+
+						<li>
+							<a href="/seguranca-do-paciente">Segurança do Paciente</a>
+						</li>
+
+						<li>
+							<a href="/controle-interno-e-compliance">Subsecretaria de Governança</a>
+						</li>
+
+						<li>
+							<a href="/telessaude">Telessaúde</a>
+						</li>
+
+						<li>
+							<a href="/vigilancia-em-saude">Vigilância em Saúde</a>
+						</li>
+
+						<li>
+							<a href="/vigilancia-sanitaria">Vigilância Sanitária</a>
+						</li>
+
+					</ul>
+				</li>
+
+				<li>
+					<a href="http://www.riocomsaude.rj.gov.br/site/Conteudo/Fichas.aspx" target="_blank">Saúde de A - Z
+						<span>
+							<img src="/site/img/externo_menu.png" alt="Externo">
+						</span>
+					</a>
+				</li>
+				<li>
+					<a href="/laudos">Resultado de Exames</a>
+				</li>
+				<li>
+					<a href="/atendimento/escalas-de-atendimento">Escala de Plantões</a>
+				</li>
+				<li>
+					<a href="javascript:;" onclick="TrocarSubMenu(this);">SES<img src="/site/img/grupo_menu.png" alt="Grupo"></a>
+					<ul class="submenu">
+						<li>
+							<a href="http://www.informacaoemsaude.rj.gov.br" target="_blank">Arquivo</a>
+						</li>
+						<li>
+							<a href="http://extranet.saude.rj.gov.br" target="_blank">Extranet</a>
+						</li>
+						<li>
+							<a href="/transparencia">Transparência</a>
+						</li>
+						<li>
+							<a href="/transparencia/politica-de-privacidade-app">Política de Privacidade do Saúde RJ</a>
+						</li>
+					</ul>
+				</li>
+
+				<!--
+					<li><a href="/na-midia">Na mídia</a></li>
+				-->
+
+			</ul>
+
+		</div>
+
+		<a href="http://www.rj.gov.br/web/ses" target="_blank">
+			<img src="/site/img/logo_menu.png" alt="Secretaria de Saúde" class="secretaria">
+		</a>
+	</div>
+</div>
+
+<div class="rede-aberto">
+	<a href="javascript:FecharRede();">
+		<img src="/site/img/fechar_menu.png" alt="Fechar rede" class="fechar">
+	</a>
+
+	<div class="dentro">
+		<div class="secao">Siga-nos</div>
+		<div class="linha"></div>
+
+		<ul>
+			<li>
+				<img src="/site/img/rede_sauderj.jpg" alt="">
+				
+				<div class="botoes">
+					<a href="https://www.facebook.com/SaudeGovRJ/" target="_blank">
+						<img src="/site/img/b_curtir.png" alt="curtir">
+					</a>
+					<a href="https://www.instagram.com/saudegovrj/" target="_blank">
+						<img src="/site/img/b_seguir_instagram.png" alt="seguir">
+					</a>
+					<a href="https://twitter.com/SaudeGovRJ/" target="_blank">
+						<img src="/site/img/b_seguir.png" alt="seguir">
+					</a>
+					<a href="https://whatsapp.com/channel/0029VaaefM6KbYMQlPYdMu3R" target="_blank">
+						<img src="/site/img/botaowhats.jpeg" alt="seguir">
+					</a>
+				</div>
+
+				<span class="limpar"></span>
+			</li>
+			
+			<!--			
+				<li>
+					<img src="/site/img/rede_riocomsaude.jpg" alt="" />
+					
+					<div class="botoes">
+						<a href="https://www.facebook.com/riocomsaudeoficial/" target="_blank">
+							<img src="/site/img/b_curtir.png" alt="curtir" />
+						</a>
+
+						<a href="https://twitter.com/riocomsaude/" target="_blank">
+							<img src="/site/img/b_seguir.png" alt="seguir" />
+						</a>
+					</div>
+
+					<span class="limpar"></span>
+				</li>
+
+				<li>
+					<img src="/site/img/rede_10minutos.jpg" alt="" />
+
+					<div class="botoes">
+						<a href="https://www.facebook.com/riocontradengueoficial/" target="_blank">
+							<img src="/site/img/b_curtir.png" alt="curtir" />
+						</a>
+						<a href="https://twitter.com/RioContraDengue/" target="_blank">
+							<img src="/site/img/b_seguir.png" alt="seguir" />
+						</a>
+					</div>
+
+					<span class="limpar"></span>
+				</li>
+
+				<li>
+					<img src="/site/img/rede_riosemfumo.jpg" alt="" />
+					
+					<div class="botoes">
+						<a href="https://www.facebook.com/riosemfumooficial/" target="_blank">
+							<img src="/site/img/b_curtir.png" alt="curtir" />
+						</a>
+
+						<a href="https://twitter.com/riosemfumo/" target="_blank">
+							<img src="/site/img/b_seguir.png" alt="seguir" />
+						</a>
+					</div>
+
+					<span class="limpar"></span>
+				</li>
+
+				<li>
+					<img src="/site/img/rede_xozika.jpg" alt="" />
+					
+					<div class="botoes">
+						<a href="https://www.facebook.com/riocontradengueoficial/" target="_blank">
+							<img src="/site/img/b_curtir.png" alt="curtir" />
+						</a>
+
+						<a href="" target="_blank">
+							<img src="/site/img/b_seguir.png" alt="seguir" />
+						</a>
+					</div>
+
+					<span class="limpar"></span>
+				</li>
+			-->		
+		</ul>
+	</div>
+</div>
+
+<a name="topo" tabindex="0" accesskey="1"></a>
+
+<div class="topo">
+	<div class="pre-menu">
+
+		<a href="http://www.rj.gov.br" target="_blank"><img src="/site/img/governo2.png" alt="Governo do Estado do Rio de Janeiro" title="Governo do Estado do Rio de Janeiro" class="governo"></a>
+
+		<div class="itens">
+			<a href="https://painel.saude.rj.gov.br/contratos/transparencia.html" target="_blank">Despesas com o Coronavírus</a>
+			<span>|</span>
+			<a href="http://extranet.saude.rj.gov.br" target="_blank">extranet</a>
+			<span>|</span>
+			<a href="https://www.saude.rj.gov.br/informacao-sus/dados-sus" target="_blank">informação em saúde</a>
+			<span>|</span>
+			<a href="http://www.riocomsaude.rj.gov.br/" target="_blank">rio com saúde</a>
+			<span>|</span>
+			<a href="http://www.transparencia.rj.gov.br/" target="_blank">Portal da Transparência</a>
+			<span>|</span>
+			<a href="/laudos">resultado de exames</a>
+			<span>|</span>
+			<a href="/atendimento/escalas-de-atendimento">escala de plantões</a>
+		</div>
+	</div>
+
+	<div class="limpar"></div>
+
+	<div class="no-menu">
+
+		<a href="javascript:AbrirMenu();" class="menu" accesskey="2">
+			<span>Menu</span>
+		</a>
+
+		<a href="/">
+			<img src="/site/img/topo_governo.png" alt="" class="logo">
+		</a>
+
+		<div class="itens">
+			<form name="FRC" id="FRC" method="post" action="https://www.saude.rj.gov.br:443/noticias/2024/01/secretaria-de-estado-de-saude-faz-simulado-para-testar-respostas-a-uma-possivel-epidemia-de-dengue?R=2024/01/secretaria-de-estado-de-saude-faz-simulado-para-testar-respostas-a-uma-possivel-epidemia-de-dengue">
+				<input type="hidden" id="_ct_" name="_ct_" value="">
+				<a href="javascript:MudarContraste();" class="contraste">Contraste</a>
+			</form>
+
+			<a href="javascript:AbrirRede();">
+				<img src="/site/img/redes.png" alt="Redes">
+			</a>
+
+			<form name="FBW" id="FBW" method="get" action="#" onsubmit="return(ExecutarBusca(document.FBW.qw.value));" class="busca">
+				<input id="qw" name="qw" type="text" class="tb" accesskey="3" placeholder="" value="">
+				<input type="image" src="/site/img/busca.png">
+			</form>
+		</div>
+
+		<div class="limpar"></div>
+	</div>
+</div>
+
+<div class="topo-invertido">
+	<div class="dentro">
+		<a href="/">
+			<img src="/site/img/home_pe.png" alt="Home">
+		</a>
+
+		<a href="">
+			<img src="/site/img/busca_pe.png" alt="Busca">
+		</a>
+
+		<a id="TopoInvertidoMenu" href="javascript:TrocarMenu();">
+			<img src="/site/img/menu.png" alt="Menu">
+		</a>
+
+		<a id="TopoInvertidoRede" href="javascript:TrocarRede();">
+			<img src="/site/img/redes.png" alt="Redes">
+		</a>
+
+		<div class="filler"></div>
+	</div>
+</div>
+
+<div id="fb-root"></div>
+
+<!--
+	<script>
+		(function(d, s, id) {
+  			var js, fjs = d.getElementsByTagName(s)[0];
+  			if (d.getElementById(id)) return;
+  			js = d.createElement(s); js.id = id;
+  			js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.6";
+  			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+	<script>
+		!function(d,s,id) {
+			var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)) {
+				js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);
+			}
+		}(document, 'script', 'twitter-wjs');
+	</script>
+-->
+
+<!--/robot_noindex-->
+	<div class="migalha">
+		<div class="texto">
+			<div class="tela">
+				<a href="/">Home</a><div>●</div><span class="ativo"><a href="/noticias">Notícias</a></span>
+			</div>
+		</div>
+	</div>
+	<div class="conteudo">
+		<div class="tela">
+			<div class="lados">
+				<div class="esquerda">
+					<div class="materia">
+						<div class="linha"></div>
+<img src="/comum/code/MostrarImagem.php?C=NjYwMDI%2C" alt="Secretaria de Estado de Saúde faz simulado para testar respostas a uma possível epidemia de dengue" class="foto-principal">
+<span class="data">12/01/2024</span>
+<span class="assunto">Secretaria de Estado de Saúde faz simulado para testar respostas a uma possível epidemia de dengue</span>
+<span class="chamada">Principal objetivo é promover uma atuação integrada no combate e controle de arboviroses, como dengue e chikungunya<br>
+</span>
+<span class="texto">
+<p>A Secretaria de Estado de Saúde (SES-RJ) promoveu nos últimos dois dias (10 e 11/01) um evento simulado de epidemia de dengue e chikungunya para integrar ações de diferentes setores da instituição. Os exercícios foram ministrados pela Organização Panamericana de Saúde (Opas) e contaram com a participação da secretária de Estado de Saúde, Cláudia Mello, além de subsecretários e profissionais de saúde de diversas áreas. O principal objetivo foi prepará-los para oferecerem respostas rápidas à população do Estado do Rio de Janeiro, em diferentes cenários epidêmicos, desde a chegada dos pacientes às unidades para análise clínica à coleta de exames enviados ao laboratório.</p>
+<p>Os consultores da Opas simularam quatro cenários epidemiológicos diferentes para identificar eventuais lacunas na preparação e resposta do sistema de saúde do estado. As equipes tiveram que apresentar planos de contingência, diretrizes operacionais e procedimentos padrão por meio de exercícios teóricos e debates sobre as ações sugeridas para cada situação.<br>
+<br>
+“Este simulado é importante para garantirmos eficiência desde a investigação de casos ao atendimento aos pacientes com suspeita de dengue em nossas unidades. Integrar os diversos setores em um cenário de epidemia é fundamental”, disse a secretária Claudia Mello.</p>
+<p>O consultor de Vigilância, Preparação e Resposta a Emergências e Desastres do escritório da Opas e da Organização Mundial da Saúde (OMS) no Brasil, Rodrigo Said, enfatizou a importância da parceria com o Estado para o fortalecimento das ações de saúde. Said pontuou ainda que o manejo clínico correto dos pacientes, por exemplo,  é eficaz para minimizar o número de mortes.</p>
+<p>“Precisamos pensar em processo de aperfeiçoamento contínuo. Perceber se o paciente foi hidratado, ficar atento à classificação de risco, valorizar os sinais de alarme. O nosso objetivo é sempre reduzir a letalidade”, disse.</p>
+<p>Ao longo da capacitação foram levantadas questões como quais indicadores devem ser selecionados para avaliar o cenário epidemiológico; as medidas de controle vetorial; veículos, equipamentos de proteção individual e equipes de campo a serem enviadas para os municípios; estratégias de gestão intersetoriais e interinstitucionais a serem desenvolvidas; os principais aspectos da linha de cuidado ao paciente com dengue ou chikungunya; investigação dos óbitos; coleta, acondicionamento, transporte, análise e disponibilização dos resultados de amostras para as arboviroses em contexto de emergência; gestão de insumos estratégicos; fluxos assistenciais e regulação de leitos; entre outros aspectos. O treinamento também abrangeu as seguintes áreas: assistência farmacêutica, atenção primária, urgência, emergência, regulação, gestão hospitalar e controle laboratorial.</p>
+<p>“Vale a pena pensar nas estratégias de discussão ampliada da rede para melhorar a coordenação e colaboração e esclarecer funções e responsabilidades”, completou Roberto Said.</p>
+<p>Silvana Pereira, representantes da rede assistencial da secretaria, destacou que a participação no simulado trouxe novo olhar para um trabalho já realizado, mas com possibilidade de aprimoramento.</p>
+<p>"Importante dizer que a oportunidade de aprendizado e atualização  proporciona uma melhoria contínua na assistência integral e segurança do paciente, identificando sinais e sintomas e evitando agravo à saúde do paciente atendido", pontuou.</p>
+<p>Renato Dantas, assessor técnico da Coordenação de Vigilância Ambiental da SES-RJ, fez um balanço da sua participação no simulado.</p>
+<p>"O treino proporcionou uma visão clara das áreas em que podemos aprimorar nossos processos e capacidade de resposta rápida. Foi revelador constatar que muitas das atividades propostas pela OPAS já estavam sendo executadas pela nossa equipe. Agora, estamos embarcando em um processo de aperfeiçoamento e ajustes do nosso Plano de Contingência Estadual para as Arboviroses", analisou.</p>
+<p>Silvia Carvalho, superintendente de Emergências em Saúde Pública da SES-RJ, destacou que a reestruturação do órgão tem como premissa promover respostas coordenadas por meio da articulação e da integração dos atores envolvidos, permitir a análise dos dados e informações para subsidiar a tomada de decisão dos gestores e técnicos, entre outras ações.</p>
+<p>"A partir desses meios podemos definir estratégias e ações adequadas e oportunas para o enfrentamento de emergências sempre de maneira modular e flexível", ressaltou.</p>
+<p>Na aula ministrada pelo consultor da OPAS Rodrigo Frutuoso, foi pontuado que o manejo de um cenário de emergência é composto por três níveis de resposta: alerta, perigo iminente e emergência em saúde pública (ESP). Luciane Velasque, superintendente de Informação Estratégica em Vigilância e Saúde da SES-RJ, afirmou que novos protocolos serão estabelecidos a partir de agora.</p>
+<p>"Esse foi um encontro divisor de águas. Vamos reorganizar nossos processos, ou seja, traremos nossos indicadores epidemiológicos e assistenciais para as análises de dados. Já a partir da próxima semana teremos novos encontros intersetoriais para que os avanços e aprendizados sejam colocados em prática", contou.<br>
+<br>
+Ao fim do evento, foi acordado que um novo Plano de Contingência, com novas recomendações sobre o fortalecimento dos sistemas, será entregue à OPAS.</p></span>
+					</div>
+					<div class="complemento">
+						<div class="pe-local">
+													<ul class="compartilhar-redes">
+							<li><img src="/site/img/compartilhar.png" alt="compartilhar"></li>
+							<li><a href="javascript:(function(){window.twttr=window.twttr||{};var D=550,A=450,C=screen.height,B=screen.width,H=Math.round((B/2)-(D/2)),G=0,F=document,E;if(C>A){G=Math.round((C/2)-(A/2))}window.twttr.shareWin=window.open('https://twitter.com/share','','left='+H+',top='+G+',width='+D+',height='+A+',personalbar=0,toolbar=0,scrollbars=1,resizable=1');E=F.createElement('script');E.src='https://platform.twitter.com/bookmarklets/share.js?v=1';F.getElementsByTagName('head')[0].appendChild(E)}());" class="twitter">Twitter</a></li>
+							<li><a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;" class="facebook">Facebook</a></li>
+						</ul>
+							<a href="javascript:history.back();" class="voltar"><img src="/site/img/h_seta_e.png" alt="voltar">voltar</a>
+							<div class="limpar"></div>
+						</div>
+					</div>
+				</div>
+				<div class="direita">
+					<div class="ultimas">
+						<div class="secao">Últimas notícias</div>
+<a href="/noticias/2024/07/em-nova-friburgo-claudio-castro-vistoria-obras-do-hospital-estadual-de-oncologia" class="texto forte">
+<span class="assunto">Em Nova Friburgo, Cláudio Castro vistoria obras do Hospital Estadual de Oncologia</span>
+<span class="data">12/07/2024</span>
+</a>
+<a href="/noticias/2024/07/governo-do-estado-inaugura-na-baixada-fluminense-primeira-sala-de-acolhimento-para-mulheres-vitimas-de-violencia-em-unidade-hospitalar" class="texto">
+<span class="assunto">Governo do Estado inaugura, na Baixada Fluminense, primeira sala de acolhimento para mulheres vítimas de violência em unidade hospitalar</span>
+<span class="data">08/07/2024</span>
+</a>
+<a href="/noticias/2024/07/ivb-celebra-dia-da-ciencia-e-do-pesquisador-com-homenagem-a-anibal-rafael-melgarejo" class="texto forte">
+<span class="assunto">IVB celebra Dia da Ciência e do Pesquisador com homenagem a Anibal Rafael Melgarejo</span>
+<span class="data">07/07/2024</span>
+</a>
+<a href="/noticias/2024/07/ferias-escolares-veja-algumas-dicas-para-evitar-acidentes" class="texto">
+<span class="assunto">Férias escolares: veja algumas dicas para evitar acidentes </span>
+<span class="data">07/07/2024</span>
+</a>
+						<a href="/noticias" class="todas">Ver todas as notícias</a>
+					</div>
+					<div class="filtro">
+						<div class="secao">Quer ver mais conteúdos em Notícias?</div>
+						<form action="/noticias#filtro" method="get" id="F" name="F" onsubmit="return TravarValidarCampos();">
+							<label id="LBuscar">
+								O que procura?
+								<input type="text" id="Buscar" name="Buscar" class="tb">
+							</label>
+							<label id="LCodigoDaRegiao">
+								Região
+								<select id="CodigoDaRegiao" name="CodigoDaRegiao" class="tb">
+<option value=""></option><option value="-1">Todo o estado</option><option value="100">Baía da Ilha Grande</option><option value="200">Baixada Litorânea</option><option value="400">Centro-Sul</option><option value="300">Médio Paraíba</option><option value="500">Metropolitana I</option><option value="600">Metropolitana II</option><option value="700">Noroeste</option><option value="800">Norte Fluminense</option><option value="900">Serrana</option>								</select>
+							</label>
+							<label id="LDe">
+								De:
+								<input type="text" id="De" name="De" class="tb">
+							</label>
+							<label id="LAte">
+								Até:
+								<input type="text" id="Ate" name="Ate" class="tb">
+							</label>
+							<div class="filler"></div>
+							<input id="Procurar" type="submit" value="Procurar">
+						</form>
+					</div>
+				</div>
+				<div class="limpar"></div>
+			</div>
+		</div>
+	</div>
+<!--robot_noindex-->
+<a href="javascript:VaiPara('#topo');" class="vai-topo"><img src="/site/img/b_topo.png" alt=""></a>
+<a name="pe" tabindex="0" accesskey="4"></a>
+<div class="pe">
+	<div class="borda-telefones">
+		<div class="telefones">
+			<div class="dentro">
+				<div class="tema">Telefones úteis</div><br>
+				<ul class="itens">
+					<li>
+						<div class="icone"><span></span><img src="/site/img/i_cruz.png" alt="cruz"></div>
+						<span class="nome">SAMU (Ambulância)</span><br>
+						<a href="tel:192">192</a><br>
+						<span class="nome">DISQUE TRANSPLANTE</span><br>
+						<a href="tel:155">155</a><br>
+						<div class="limpar"></div>
+					</li>
+					<li>
+						<div class="icone"><span></span><img src="/site/img/i_sangue.png" alt="sangue"></div>
+						<span class="nome">DISQUE SANGUE</span><br>
+						<a href="tel:0800 2820708">0800 2820708</a><br>
+						<span class="nome">HEMORIO</span><br>
+						<a href="tel:2332-8611">2332-8611</a>&nbsp;/&nbsp;<a href="tel:2332-8612">2332-8612</a><br>
+						<div class="limpar"></div>
+					</li>
+					<li>
+						<div class="icone"><span></span><img src="/site/img/i_quepe.png" alt="cruz"></div>
+						<span class="nome">POLÍCIA MILITAR</span><br>
+						<a href="tel:190">190</a><br>
+						<span class="nome">DEFESA CIVIL</span><br>
+						<a href="tel:199">199</a><br>
+						<div class="limpar"></div>
+					</li>
+					<li class="filler"></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="pre-pe">
+		<div class="dentro">
+			<div class="banner">
+				<div class="proporcao"></div>
+				<a href="http://www.cge.rj.gov.br/disque-rio-contra-a-corrupcao/" target="_blank"><img src="/site/img/Disque-Rio.jpeg" alt="Disque Rio Contra a Corrupção" style="width:47%"><span>Disque Rio Contra a Corrupção</span></a>
+				<a href="https://play.google.com/store/apps/details?id=br.com.woden.doemaisvida.pet" target="_blank"><img src="/site/img/pe_aplicativo2.jpg" alt="Aplicativo Android"></a>
+			</div>
+			<div class="botoes">
+				<a href="/ouvidoria" class="ouvidoria">Ouvidoria</a>
+				<a href="/fale-conosco" class="fale-conosco">Fale conosco</a>
+				<a href="/assessoria-de-comunicacao" class="imprensa">Imprensa</a>
+			</div>
+			<div class="limpar"></div>
+		</div>
+	</div>
+	<div class="links-externos">
+		<div class="dentro">
+			<a href="http://www.rj.gov.br/secretaria/saude" target="_blank"><img src="/site/img/pe_secretaria.png" alt="Secretaria de Saúde" class="secretaria"></a><br>
+			<div class="itens">
+				<a href="http://www.riocomsaude.rj.gov.br/" target="_blank">Rio com Saúde</a>
+				<a href="http://www.informacaoemsaude.rj.gov.br" target="_blank">informação em saúde</a>
+			</div>
+			<div class="subitens">
+				<a href="/acessibilidade">Acessibilidade</a>
+				|
+				<a href="/mapa-do-site">Mapa do site</a>
+			</div>
+		</div>
+	</div>
+	<div class="copyright">
+		<a href="https://creativecommons.org/licenses/by/3.0/br/" target="_blank"><img src="/site/img/copyright.png" alt="Creative Commons"></a><br>
+		Esta obra é licenciada sob uma licença Creative Commons Atribuição 3.0 Brasil
+	</div>
+	<div class="pos-pe"></div>
+</div>
+<script type="text/javascript" src="/site/busca/Buscador.js"></script><script>PaginaNaFila(-20);</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36539187-31', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--/robot_noindex-->
+
+
+</body></html>

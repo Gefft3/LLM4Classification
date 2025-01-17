@@ -1,0 +1,1233 @@
+<html lang="pt-BR" class="" data-skin="light" prefix="og: https://ogp.me/ns#"><head><meta charset="UTF-8"><script type="c7933fe9ff0caa4e4adf0981-text/javascript">if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script type="c7933fe9ff0caa4e4adf0981-text/javascript">(()=>{class RocketLazyLoadScripts{constructor(){this.v="1.2.6",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this.t.bind(this),this.touchStartHandler=this.i.bind(this),this.touchMoveHandler=this.o.bind(this),this.touchEndHandler=this.h.bind(this),this.clickHandler=this.u.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this.l(this),window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.everythingLoaded&&this.m()})),this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))})),document.addEventListener("DOMContentLoaded",(()=>{this.k()})),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}p(t){document.hidden?t.t():(this.triggerEvents.forEach((e=>window.addEventListener(e,t.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler))}_(){this.triggerEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}i(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this.L(t.target,!0),this.S(t.target,"onclick","rocket-onclick"),this.C())}o(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.M()}h(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}u(t){t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this.M()}O(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))}))}l(t){EventTarget.prototype.addEventListenerWPRocketBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(e,i,o){"click"!==e||t.windowLoaded||i===t.clickHandler||t.interceptedClickListeners.push({target:this,func:i,options:o}),(this||window).addEventListenerWPRocketBase(e,i,o)}}L(t,e){this.interceptedClickListeners.forEach((i=>{i.target===t&&(e?t.removeEventListener("click",i.func,i.options):t.addEventListener("click",i.func,i.options))})),t.parentNode!==document.documentElement&&this.L(t.parentNode,e)}D(){return new Promise((t=>{this.P?this.M=t:t()}))}C(){this.P=!0}M(){this.P=!1}S(t,e,i){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(i,event.target.getAttribute(e)),event.target.removeAttribute(e))}t(){this._(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this.R.bind(this)):this.R()}k(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.T(t,"preconnect")}async R(){this.lastBreath=Date.now(),this.j(this),this.F(this),this.I(),this.W(),this.q(),await this.A(this.delayedScripts.normal),await this.A(this.delayedScripts.defer),await this.A(this.delayedScripts.async);try{await this.U(),await this.H(this),await this.J()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.D().then((()=>{this.O()})),this.N()}W(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async B(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),i.hasAttribute("src")?(i.addEventListener("load",o),i.addEventListener("error",(function(){i.setAttribute("data-rocket-status","failed-network"),e()})),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o),t.addEventListener("error",(i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: data-uri blocked by CSP -> fallback"),t.removeAttribute("src"),this.B(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())})),s?(t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async A(t){const e=t.shift();return e&&e.isConnected?(await this.B(e),this.A(t)):Promise.resolve()}q(){this.T([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}T(t,e){var i=document.createDocumentFragment();t.forEach((t=>{const o=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(o&&!o.startsWith("data:")){const s=document.createElement("link");s.href=o,s.rel=e,"preconnect"!==e&&(s.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(s.crossOrigin=!0),t.crossOrigin&&(s.crossOrigin=t.crossOrigin),t.integrity&&(s.integrity=t.integrity),i.appendChild(s),this.trash.push(s)}})),document.head.appendChild(i)}j(t){let e={};function i(i,o){return e[o].eventsToRewrite.indexOf(i)>=0&&!t.everythingLoaded?"rocket-"+i:i}function o(t,o){!function(t){e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(o)}function s(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o||function(){},set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}o(document,"DOMContentLoaded"),o(window,"DOMContentLoaded"),o(window,"load"),o(window,"pageshow"),o(document,"readystatechange"),s(document,"onreadystatechange"),s(window,"onload"),s(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}F(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(t){const e=o.fn[t];o.fn[t]=o.fn.init.prototype[t]=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),e.apply(this,arguments),this}}o&&o.fn&&!t.allJQueries.includes(o)&&(o.fn.ready=o.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(o):document.addEventListener("rocket-DOMContentLoaded",(()=>e.bind(document)(o))),o([])},s("on"),s("one"),t.allJQueries.push(o)),e=o}o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}async H(t){const e=document.querySelector("script[data-webpack]");e&&(await async function(){return new Promise((t=>{e.addEventListener("load",t),e.addEventListener("error",t)}))}(),await t.K(),await t.H(t))}async U(){this.domReadyFired=!0;try{document.readyState="interactive"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async J(){try{document.readyState="complete"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}m(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}I(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+e);const o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async G(){Date.now()-this.lastBreath>45&&(await this.K(),this.lastBreath=Date.now())}async K(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}N(){this.trash.forEach((t=>t.remove()))}static run(){const t=new RocketLazyLoadScripts;t.p(t)}}RocketLazyLoadScripts.run()})();</script>
+	
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//s.gravatar.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="preload" as="image" href="https://maricainfo.com/wp-content/uploads/2023/12/logo-2024-png.png.webp">
+<link rel="preload" as="script" href="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Otimização dos mecanismos de pesquisa pelo Rank Math PRO - https://rankmath.com/ -->
+<title>Maricá: Caso suspeito de meningite viral assusta comunidade escolar - Maricá Info</title><link rel="preload" data-rocket-preload="" as="style" href="https://fonts.googleapis.com/css?family=Open%20Sans&amp;display=swap"><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="c7933fe9ff0caa4e4adf0981-|49"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans&amp;display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans&amp;display=swap"></noscript>
+<meta name="description" content="Um caso suspeito de meningite viral em um bebê de um ano e meio estudante do Centro Municipal Infantil Municipal (CEIM) Sidnéia da Silva Costa, localizado no">
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Maricá: Caso suspeito de meningite viral assusta comunidade escolar - Maricá Info">
+<meta property="og:description" content="Um caso suspeito de meningite viral em um bebê de um ano e meio estudante do Centro Municipal Infantil Municipal (CEIM) Sidnéia da Silva Costa, localizado no">
+<meta property="og:url" content="https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html">
+<meta property="og:site_name" content="Maricá Info - Notícias de Maricá, Itaipuaçu e Região">
+<meta property="article:publisher" content="https://www.facebook.com/maricainfo">
+<meta property="article:author" content="https://facebook.com/maricainfo">
+<meta property="article:section" content="Notícias de Maricá">
+<meta property="og:updated_time" content="2024-06-27T15:09:50-03:00">
+<meta property="og:image" content="https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png">
+<meta property="og:image:secure_url" content="https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png">
+<meta property="og:image:width" content="904">
+<meta property="og:image:height" content="574">
+<meta property="og:image:alt" content="Maricá">
+<meta property="og:image:type" content="image/png">
+<meta property="article:published_time" content="2024-06-27T12:15:28-03:00">
+<meta property="article:modified_time" content="2024-06-27T15:09:50-03:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Maricá: Caso suspeito de meningite viral assusta comunidade escolar - Maricá Info">
+<meta name="twitter:description" content="Um caso suspeito de meningite viral em um bebê de um ano e meio estudante do Centro Municipal Infantil Municipal (CEIM) Sidnéia da Silva Costa, localizado no">
+<meta name="twitter:site" content="@maricainfo">
+<meta name="twitter:creator" content="@maricainfo">
+<meta name="twitter:image" content="https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png">
+<meta name="twitter:label1" content="Escrito por">
+<meta name="twitter:data1" content="maricainfo">
+<meta name="twitter:label2" content="Tempo para leitura">
+<meta name="twitter:data2" content="Menos de um minuto">
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["NewsMediaOrganization","Organization"],"@id":"https://maricainfo.com/#organization","name":"Maric\u00e1 Info - Not\u00edcias de Maric\u00e1, Itaipua\u00e7u e Regi\u00e3o","url":"http://maricainfo.com","sameAs":["https://www.facebook.com/maricainfo","https://twitter.com/maricainfo"],"email":"maricainfo.rj@gmail.com","logo":{"@type":"ImageObject","@id":"https://maricainfo.com/#logo","url":"https://maricainfo.com/wp-content/uploads/2024/10/logo-canopla-MI.png","contentUrl":"https://maricainfo.com/wp-content/uploads/2024/10/logo-canopla-MI.png","caption":"Maric\u00e1 Info - Not\u00edcias de Maric\u00e1, Itaipua\u00e7u e Regi\u00e3o","inLanguage":"pt-BR","width":"1198","height":"698"},"description":"No Maric\u00e1 Info voc\u00ea fica informado das not\u00edcias mais relevantes de Maric\u00e1, Itaipua\u00e7u e regi\u00e3o. Not\u00edcias sobre a pol\u00edtica local, policial, esportes, cultura e lazer voc\u00ea encontra aqui."},{"@type":"WebSite","@id":"https://maricainfo.com/#website","url":"https://maricainfo.com","name":"Maric\u00e1 Info - Not\u00edcias de Maric\u00e1, Itaipua\u00e7u e Regi\u00e3o","alternateName":"Not\u00edcias de Maric\u00e1 e regi\u00e3o.","publisher":{"@id":"https://maricainfo.com/#organization"},"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png","url":"https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png","width":"904","height":"574","inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html#webpage","url":"https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html","name":"Maric\u00e1: Caso suspeito de meningite viral assusta comunidade escolar - Maric\u00e1 Info","datePublished":"2024-06-27T12:15:28-03:00","dateModified":"2024-06-27T15:09:50-03:00","isPartOf":{"@id":"https://maricainfo.com/#website"},"primaryImageOfPage":{"@id":"https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png"},"inLanguage":"pt-BR"},{"@type":"Person","@id":"https://maricainfo.com/author/maricainfo","name":"maricainfo","url":"https://maricainfo.com/author/maricainfo","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/22c17c64b52a085d24ff55672f904a4b?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/22c17c64b52a085d24ff55672f904a4b?s=96&amp;r=g","caption":"maricainfo","inLanguage":"pt-BR"},"sameAs":["http://maricainfo.com","https://facebook.com/maricainfo","https://twitter.com/https://twitter.com/maricainfo"],"worksFor":{"@id":"https://maricainfo.com/#organization"}},{"@type":"NewsArticle","headline":"Maric\u00e1: Caso suspeito de meningite viral assusta comunidade escolar - Maric\u00e1 Info","keywords":"Maric\u00e1","datePublished":"2024-06-27T12:15:28-03:00","dateModified":"2024-06-27T15:09:50-03:00","author":{"@id":"https://maricainfo.com/author/maricainfo","name":"maricainfo"},"publisher":{"@id":"https://maricainfo.com/#organization"},"description":"Um caso suspeito de meningite viral em um beb\u00ea de um ano e meio estudante do Centro Municipal Infantil Municipal (CEIM) Sidn\u00e9ia da Silva Costa, localizado no","copyrightYear":"2024","copyrightHolder":{"@id":"https://maricainfo.com/#organization"},"name":"Maric\u00e1: Caso suspeito de meningite viral assusta comunidade escolar - Maric\u00e1 Info","@id":"https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html#richSnippet","isPartOf":{"@id":"https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html#webpage"},"image":{"@id":"https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png"},"inLanguage":"pt-BR","mainEntityOfPage":{"@id":"https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html#webpage"}}]}</script>
+<!-- /Plugin de SEO Rank Math para WordPress -->
+
+<link rel="dns-prefetch" href="//maps.googleapis.com">
+<link rel="dns-prefetch" href="//maps.gstatic.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//apis.google.com">
+<link rel="dns-prefetch" href="//google-analytics.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//ssl.google-analytics.com">
+<link rel="dns-prefetch" href="//youtube.com">
+<link rel="dns-prefetch" href="//api.pinterest.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//platform.twitter.com">
+<link rel="dns-prefetch" href="//syndication.twitter.com">
+<link rel="dns-prefetch" href="//platform.instagram.com">
+<link rel="dns-prefetch" href="//disqus.com">
+<link rel="dns-prefetch" href="//sitename.disqus.com">
+<link rel="dns-prefetch" href="//s7.addthis.com">
+<link rel="dns-prefetch" href="//platform.linkedin.com">
+<link rel="dns-prefetch" href="//w.sharethis.com">
+<link rel="dns-prefetch" href="//i0.wp.com">
+<link rel="dns-prefetch" href="//i1.wp.com">
+<link rel="dns-prefetch" href="//i2.wp.com">
+<link rel="dns-prefetch" href="//stats.wp.com">
+<link rel="dns-prefetch" href="//pixel.wp.com">
+<link rel="dns-prefetch" href="//s.gravatar.com">
+<link rel="dns-prefetch" href="//0.gravatar.com">
+<link rel="dns-prefetch" href="//2.gravatar.com">
+<link rel="dns-prefetch" href="//1.gravatar.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//googletagmanager.com">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="Feed para Maricá Info »" href="https://maricainfo.com/feed">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Maricá Info »" href="https://maricainfo.com/comments/feed">
+		<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			try {
+				if( 'undefined' != typeof localStorage ){
+					var tieSkin = localStorage.getItem('tie-skin');
+				}
+
+				
+				var html = document.getElementsByTagName('html')[0].classList,
+						htmlSkin = 'light';
+
+				if( html.contains('dark-skin') ){
+					htmlSkin = 'dark';
+				}
+
+				if( tieSkin != null && tieSkin != htmlSkin ){
+					html.add('tie-skin-inverted');
+					var tieSkinInverted = true;
+				}
+
+				if( tieSkin == 'dark' ){
+					html.add('dark-skin');
+				}
+				else if( tieSkin == 'light' ){
+					html.remove( 'dark-skin' );
+				}
+				
+			} catch(e) { console.log( e ) }
+
+		</script>
+		
+		<style type="text/css">
+			:root{				
+			--tie-preset-gradient-1: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+			--tie-preset-gradient-2: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+			--tie-preset-gradient-3: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+			--tie-preset-gradient-4: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+			--tie-preset-gradient-5: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+			--tie-preset-gradient-6: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+			--tie-preset-gradient-7: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+			--tie-preset-gradient-8: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+			--tie-preset-gradient-9: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+			--tie-preset-gradient-10: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+			--tie-preset-gradient-11: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+			--tie-preset-gradient-12: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+			--tie-preset-gradient-13: linear-gradient(135deg, #4D34FA, #ad34fa);
+			--tie-preset-gradient-14: linear-gradient(135deg, #0057FF, #31B5FF);
+			--tie-preset-gradient-15: linear-gradient(135deg, #FF007A, #FF81BD);
+			--tie-preset-gradient-16: linear-gradient(135deg, #14111E, #4B4462);
+			--tie-preset-gradient-17: linear-gradient(135deg, #F32758, #FFC581);
+
+			
+					--main-nav-background: #1f2024;
+					--main-nav-secondry-background: rgba(0,0,0,0.2);
+					--main-nav-primary-color: #0088ff;
+					--main-nav-contrast-primary-color: #FFFFFF;
+					--main-nav-text-color: #FFFFFF;
+					--main-nav-secondry-text-color: rgba(225,255,255,0.5);
+					--main-nav-main-border-color: rgba(255,255,255,0.07);
+					--main-nav-secondry-border-color: rgba(255,255,255,0.04);
+				--tie-buttons-radius: 8px;
+			}
+		</style>
+	<link rel="alternate" type="application/rss+xml" title="Feed de Maricá Info » Story" href="https://maricainfo.com/web-stories/feed/"><meta name="viewport" content="width=device-width, initial-scale=1.0"><style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://maricainfo.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1" type="text/css" media="all">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="rank-math-toc-block-style-inline-css" type="text/css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id="rank-math-rich-snippet-style-inline-css" type="text/css">
+/*!
+* Plugin:  Rank Math
+* URL: https://rankmath.com/wordpress/plugin/seo-suite/
+* Name:  rank-math-review-snippet.css
+*/@-webkit-keyframes spin{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(-360deg)}}@keyframes spin{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(-360deg)}}@keyframes bounce{from{-webkit-transform:translateY(0px);transform:translateY(0px)}to{-webkit-transform:translateY(-5px);transform:translateY(-5px)}}@-webkit-keyframes bounce{from{-webkit-transform:translateY(0px);transform:translateY(0px)}to{-webkit-transform:translateY(-5px);transform:translateY(-5px)}}@-webkit-keyframes loading{0%{background-size:20% 50% ,20% 50% ,20% 50%}20%{background-size:20% 20% ,20% 50% ,20% 50%}40%{background-size:20% 100%,20% 20% ,20% 50%}60%{background-size:20% 50% ,20% 100%,20% 20%}80%{background-size:20% 50% ,20% 50% ,20% 100%}100%{background-size:20% 50% ,20% 50% ,20% 50%}}@keyframes loading{0%{background-size:20% 50% ,20% 50% ,20% 50%}20%{background-size:20% 20% ,20% 50% ,20% 50%}40%{background-size:20% 100%,20% 20% ,20% 50%}60%{background-size:20% 50% ,20% 100%,20% 20%}80%{background-size:20% 50% ,20% 50% ,20% 100%}100%{background-size:20% 50% ,20% 50% ,20% 50%}}:root{--rankmath-wp-adminbar-height: 0}#rank-math-rich-snippet-wrapper{overflow:hidden}#rank-math-rich-snippet-wrapper h5.rank-math-title{display:block;font-size:18px;line-height:1.4}#rank-math-rich-snippet-wrapper .rank-math-review-image{float:right;max-width:40%;margin-left:15px}#rank-math-rich-snippet-wrapper .rank-math-review-data{margin-bottom:15px}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper{width:100%;padding:0 0 20px 0;float:left;clear:both;position:relative;-webkit-box-sizing:border-box;box-sizing:border-box}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-total{border:0;display:block;margin:0;width:auto;float:left;text-align:left;padding:0;font-size:24px;line-height:1;font-weight:700;-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star{float:left;margin-left:15px;margin-top:5px;position:relative;z-index:99;line-height:1}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper{display:inline-block;white-space:nowrap;position:relative;color:#e7e7e7}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper .rank-math-review-result{position:absolute;top:0;left:0;overflow:hidden;white-space:nowrap;color:#ffbe01}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper i{font-size:18px;-webkit-text-stroke-width:1px;font-style:normal;padding:0 2px;line-height:inherit}#rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result-wrapper i:before{content:"\2605"}body.rtl #rank-math-rich-snippet-wrapper .rank-math-review-image{float:left;margin-left:0;margin-right:15px}body.rtl #rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-total{float:right}body.rtl #rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star{float:right;margin-left:0;margin-right:15px}body.rtl #rank-math-rich-snippet-wrapper .rank-math-total-wrapper .rank-math-review-star .rank-math-review-result{left:auto;right:0}@media screen and (max-width: 480px){#rank-math-rich-snippet-wrapper .rank-math-review-image{display:block;max-width:100%;width:100%;text-align:center;margin-right:0}#rank-math-rich-snippet-wrapper .rank-math-review-data{clear:both}}.clear{clear:both}
+
+</style>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--global-color: #0088ff;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel="stylesheet" id="redux-extendify-styles-css" href="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ceris-extension/redux-framework/redux-core/assets/css/extendify-utilities.css?ver=1736811803" type="text/css" media="all">
+<link data-minify="1" rel="stylesheet" id="wpdreams-asl-basic-css" href="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=1736811803" type="text/css" media="all">
+<link data-minify="1" rel="stylesheet" id="wpdreams-asl-instance-css" href="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/css/style-simple-blue.css?ver=1736811803" type="text/css" media="all">
+<link rel="stylesheet" id="pojo-a11y-css" href="https://maricainfo.com/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="tie-css-base-css" href="https://maricainfo.com/wp-content/themes/jannah/assets/css/base.min.css?ver=7.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="tie-css-styles-css" href="https://maricainfo.com/wp-content/themes/jannah/assets/css/style.min.css?ver=7.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="tie-css-widgets-css" href="https://maricainfo.com/wp-content/themes/jannah/assets/css/widgets.min.css?ver=7.4.0" type="text/css" media="all">
+<link data-minify="1" rel="stylesheet" id="tie-css-helpers-css" href="https://maricainfo.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/css/helpers.min.css?ver=1736811803" type="text/css" media="all">
+<link data-minify="1" rel="stylesheet" id="tie-fontawesome5-css" href="https://maricainfo.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/css/fontawesome.css?ver=1736811803" type="text/css" media="all">
+<link data-minify="1" rel="stylesheet" id="tie-css-ilightbox-css" href="https://maricainfo.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=1736811803" type="text/css" media="all">
+<link rel="stylesheet" id="tie-css-shortcodes-css" href="https://maricainfo.com/wp-content/themes/jannah/assets/css/plugins/shortcodes.min.css?ver=7.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="tie-css-single-css" href="https://maricainfo.com/wp-content/themes/jannah/assets/css/single.min.css?ver=7.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="tie-css-print-css" href="https://maricainfo.com/wp-content/themes/jannah/assets/css/print.css?ver=7.4.0" type="text/css" media="print">
+<style id="tie-css-print-inline-css" type="text/css">
+.wf-active .logo-text,.wf-active h1,.wf-active h2,.wf-active h3,.wf-active h4,.wf-active h5,.wf-active h6,.wf-active .the-subtitle{font-family: 'Poppins';}#main-nav .main-menu > ul > li > a{text-transform: uppercase;}#the-post .entry-content,#the-post .entry-content p{font-size: 14px;}.main-slider .slide-bg,.main-slider .slide{background-position: center top;}#header-notification-bar{background: var( --tie-preset-gradient-3 );}#header-notification-bar{--tie-buttons-color: #FFFFFF;--tie-buttons-border-color: #FFFFFF;--tie-buttons-hover-color: #e1e1e1;--tie-buttons-hover-text: #000000;}#header-notification-bar{--tie-buttons-text: #000000;}.tie-cat-2245,.tie-cat-item-2245 > span{background-color:#e67e22 !important;color:#FFFFFF !important;}.tie-cat-2245:after{border-top-color:#e67e22 !important;}.tie-cat-2245:hover{background-color:#c86004 !important;}.tie-cat-2245:hover:after{border-top-color:#c86004 !important;}.tie-cat-2250,.tie-cat-item-2250 > span{background-color:#2ecc71 !important;color:#FFFFFF !important;}.tie-cat-2250:after{border-top-color:#2ecc71 !important;}.tie-cat-2250:hover{background-color:#10ae53 !important;}.tie-cat-2250:hover:after{border-top-color:#10ae53 !important;}.tie-cat-2252,.tie-cat-item-2252 > span{background-color:#9b59b6 !important;color:#FFFFFF !important;}.tie-cat-2252:after{border-top-color:#9b59b6 !important;}.tie-cat-2252:hover{background-color:#7d3b98 !important;}.tie-cat-2252:hover:after{border-top-color:#7d3b98 !important;}.tie-cat-2253,.tie-cat-item-2253 > span{background-color:#34495e !important;color:#FFFFFF !important;}.tie-cat-2253:after{border-top-color:#34495e !important;}.tie-cat-2253:hover{background-color:#162b40 !important;}.tie-cat-2253:hover:after{border-top-color:#162b40 !important;}.tie-cat-770,.tie-cat-item-770 > span{background-color:#795548 !important;color:#FFFFFF !important;}.tie-cat-770:after{border-top-color:#795548 !important;}.tie-cat-770:hover{background-color:#5b372a !important;}.tie-cat-770:hover:after{border-top-color:#5b372a !important;}.tie-cat-2256,.tie-cat-item-2256 > span{background-color:#4CAF50 !important;color:#FFFFFF !important;}.tie-cat-2256:after{border-top-color:#4CAF50 !important;}.tie-cat-2256:hover{background-color:#2e9132 !important;}.tie-cat-2256:hover:after{border-top-color:#2e9132 !important;}@media (max-width: 991px){.side-aside.normal-side{background: #2f88d6;background: -webkit-linear-gradient(135deg,#5933a2,#2f88d6 );background: -moz-linear-gradient(135deg,#5933a2,#2f88d6 );background: -o-linear-gradient(135deg,#5933a2,#2f88d6 );background: linear-gradient(135deg,#2f88d6,#5933a2 );}}.web-stories-list{position: relative;z-index: 1;}.mag-box .web-stories-list {margin-bottom: 10px;margin-top: 10px;}.web-stories-list__story-poster:after {transition: opacity 0.2s;}.web-stories-list__story:hover .web-stories-list__story-poster:after {opacity: 0.6;}.web-stories-list.is-view-type-carousel .web-stories-list__story,.web-stories-list.is-view-type-grid .web-stories-list__story{min-width: 0 !important;}.is-view-type-circles.is-carousel .web-stories-list__inner-wrapper .web-stories-list__story:not(.visible){height: var(--ws-circle-size);overflow: hidden;}.web-stories-list-block.is-carousel .web-stories-list__story:not(.glider-slide){visibility: hidden;}.is-view-type-list .web-stories-list__inner-wrapper{display: flex;flex-wrap: wrap;}.is-view-type-list .web-stories-list__inner-wrapper > * {flex: 0 0 49%;margin: 0 0.5%;}@media (min-width: 676px) {.is-view-type-carousel .web-stories-list__carousel:not(.glider){height: 277px;}}
+</style>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-no-optimize="1" data-cfasync="false" data-rocket-src="https://maricainfo.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer="" defer=""></script>
+<link rel="https://api.w.org/" href="https://maricainfo.com/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://maricainfo.com/wp-json/wp/v2/posts/103919"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://maricainfo.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="shortlink" href="https://maricainfo.com/?p=103919">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://maricainfo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaricainfo.com%2F2024%2F06%2F27%2Fmarica-caso-de-viral-comunidade-escolar.html">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://maricainfo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmaricainfo.com%2F2024%2F06%2F27%2Fmarica-caso-de-viral-comunidade-escolar.html&amp;format=xml">
+<meta name="generator" content="Redux 4.4.5"><meta name="generator" content="Site Kit by Google 1.144.0"><meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- Google tag (gtag.js) -->
+<script type="rocketlazyloadscript" async="" data-rocket-src="https://www.googletagmanager.com/gtag/js?id=G-W8JRP4LFMH"></script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W8JRP4LFMH');
+</script>
+				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+				
+				
+				      <meta name="onesignal" content="wordpress-plugin">
+            <script type="rocketlazyloadscript">
+
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+      OneSignalDeferred.push(function(OneSignal) {
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['serviceWorkerParam'] = { scope: '/' };
+oneSignal_options['serviceWorkerPath'] = 'OneSignalSDKWorker.js.php';
+
+        OneSignal.Notifications.setDefaultUrl("https://maricainfo.com");
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '44187755-d3d6-4fd0-bf5a-5d9da0478c20';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Você receberá as notícias de Maricá, Itaipuaçu e Região!";
+oneSignal_options['welcomeNotification']['message'] = "Simples, rápido e gratuito!";
+oneSignal_options['welcomeNotification']['url'] = "http://maricainfo.com";
+oneSignal_options['path'] = "https://maricainfo.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.212e621b-efc2-4b2a-9d36-9f4cd158ecec";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Quer receber todas as notícias em primeira mão?";
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = "Esse é um exemplo de notificação";
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = "Notificações irão aparecer no seu celular ou computador";
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = "Exemplo de notificação";
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = "Você será notificado das novas notícias no seu celular";
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = "Você pode cancelar as notificações a qualquer momento";
+oneSignal_options['promptOptions']['acceptButtonText'] = "Quero!";
+oneSignal_options['promptOptions']['cancelButtonText'] = "Agora não.";
+oneSignal_options['promptOptions']['siteName'] = "http://maricainfo.com";
+oneSignal_options['promptOptions']['autoAcceptTitle'] = "Clique Aceitar";
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return !OneSignal.User.PushSubscription.optedIn;
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Inscreva-se para receber as notícias';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Você receberá as notícias em tempo real';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Você bloqueou as notificações';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Nós agradecemos!';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Bem vindo de volta!';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Você não deseja receber mais notícias';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Gerenciar notificações';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'Inscreva-se';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'Desinscreva-se';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Desbloquear';
+oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Siga as instruções para receber as notícias';
+              OneSignal.init(window._oneSignalInitOptions);
+              OneSignal.Slidedown.promptPush()      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.Notifications.requestPermission(); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style type="text/css">
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{ background-color: #4054b2;	color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{ border-color: #4054b2;}
+body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width: 1px !important;	outline-color: #FF0000 !important;}
+#pojo-a11y-toolbar{ top: 100px !important;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay{ background-color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title{ color: #333333;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active{ background-color: #4054b2;	color: #ffffff;}
+@media (max-width: 767px) { #pojo-a11y-toolbar { top: 480px !important; } }</style>			            <style>
+				            
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+						font-size: 0px !important;
+						color: rgba(0, 0, 0, 0);
+					}
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+						font-size: 11px !important;
+						position: absolute;
+						top: 0;
+						left: 0;
+						z-index: 1;
+					}
+					.asl_w_container {
+						width: 100%;
+						margin: 0px 0px 0px 0px;
+						min-width: 200px;
+					}
+					div[id*='ajaxsearchlite'].asl_m {
+						width: 100%;
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+						font-weight: bold;
+						color: rgba(217, 49, 43, 1);
+						background-color: rgba(238, 238, 238, 1);
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results .results img.asl_image {
+						width: 70px;
+						height: 70px;
+						object-fit: cover;
+					}
+					div.asl_r .results {
+						max-height: none;
+					}
+				
+						div.asl_r.asl_w.vertical .results .item::after {
+							display: block;
+							position: absolute;
+							bottom: 0;
+							content: '';
+							height: 1px;
+							width: 100%;
+							background: #D8D8D8;
+						}
+						div.asl_r.asl_w.vertical .results .item.asl_last_item::after {
+							display: none;
+						}
+								            </style>
+			            <link rel="icon" href="https://maricainfo.com/wp-content/uploads/2020/08/cropped-favicon2020-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://maricainfo.com/wp-content/uploads/2020/08/cropped-favicon2020-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://maricainfo.com/wp-content/uploads/2020/08/cropped-favicon2020-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://maricainfo.com/wp-content/uploads/2020/08/cropped-favicon2020-270x270.jpg">
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><meta name="generator" content="WP Rocket 3.17.4" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_cache_webp wpr_minify_css wpr_desktop wpr_dns_prefetch wpr_preload_links"></head>
+
+<body id="tie-body" class="post-template-default single single-post postid-103919 single-format-standard tie-no-js wrapper-has-shadow block-head-1 magazine2 is-lazyload is-thumb-overlay-disabled is-desktop is-header-layout-3 has-header-ad sidebar-right has-sidebar post-layout-1 narrow-title-narrow-media is-standard-format has-mobile-share hide_banner_top hide_footer_tiktok hide_footer_instagram hide_post_newsletter hide_read_next hide_related hide_post_authorbio hide_post_nav hide_inline_related_posts is-ajax-parent-post">
+
+
+
+<div data-rocket-location-hash="e5b8de42769b3d7311e4c77717550b26" class="background-overlay">
+
+	<div data-rocket-location-hash="20f4eca15480f982a53dda1cb4873ede" id="tie-container" class="site tie-container">
+
+		
+		<div data-rocket-location-hash="3cd18522b647fd3b2d7c4710f4fe6515" id="tie-wrapper">
+
+			<div class="stream-item stream-item-above-header"><div class="stream-item-size" style=""><!-- Cole o código dentro da tag head -->
+<link rel="preconnect" href="https://tagmanager.alright.network">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+<script type="rocketlazyloadscript" data-minify="1" async="" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/manager/js/container_nUgf0chc.js?ver=1736811803"></script>
+<!-- Alright Tag Manager -->
+
+</div></div>
+<header id="theme-header" class="theme-header header-layout-3 main-nav-dark main-nav-default-dark main-nav-below has-stream-item top-nav-active top-nav-light top-nav-default-light top-nav-above has-shadow has-normal-width-logo mobile-header-centered">
+	
+<nav id="top-nav" class="has-date-breaking-components top-nav header-nav has-breaking-news" aria-label="Navegação Secundária">
+	<div class="container">
+		<div class="topbar-wrapper">
+
+			
+					<div class="topbar-today-date">
+						terça-feira, 14 janeiro, 2025					</div>
+					
+			<div class="tie-alignleft">
+				
+<div class="breaking controls-is-active">
+
+	<span class="breaking-title">
+		<span class="tie-icon-bolt breaking-icon" aria-hidden="true"></span>
+		<span class="breaking-title-text">ÚLTIMAS</span>
+	</span>
+
+	<ul id="breaking-news-in-header" class="breaking-news" data-type="reveal" data-arrows="true">
+
+		
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/13/guarda-municipal-de-marica-omem-de-mulher-dentro-de-onibus.html">Guarda Municipal de Maricá detém homem suspeito de agredir mulher dentro de ônibus</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/13/marica-tem-previsao-de-chuva-ate-quarta-feira-15.html">Maricá tem previsão de chuva até quarta-feira (15)</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/13/marica-volta-a-abrir-vagas-para-castracao-de-caes-e-gatos-confira.html">Maricá reabre inscrições para castração de cães e gatos; confira!</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/13/comitiva-visita-area-do-porto-de-jacone-em-marica.html">Comitiva visita área do Porto de Jaconé em Maricá</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/12/marica-museu-particular-se-destaca-por-carros-antigos-e-itens-raros.html">Maricá: Museu particular se destaca por carros antigos e itens raros</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/12/marica-dois-homens-sao-detidos-e-motocicleta-furtada-e-recuperada-em-itaipuacu.html">Maricá: Dois homens são detidos e motocicleta furtada é recuperada em Itaipuaçu</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/11/marica-fc-vence-por-2-1-o-botafogo-e-assume-lideranca-do-campeonato-carioca.html">Maricá FC vence por 2-1 o Botafogo e assume liderança do Campeonato Carioca</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/11/confira-a-estreia-do-marica-na-serie-a-do-campeonato-carioca-assista-ao-vivo-aqui.html">Confira a estreia do Maricá na Série A do Campeonato Carioca! Assista ao vivo aqui!</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/11/marica-prefeitura-se-pronuncia-sobre-o-cota-10-confira.html">Maricá: Prefeitura se pronuncia sobre o COTA 10; confira!</a>
+							</li>
+
+							
+							<li class="news-item">
+								<a href="https://maricainfo.com/2025/01/11/botafogo-x-marica-saiba-onde-assistir-a-estreia-da-equipe-maricaense-no-campeonato-carioca.html">Botafogo x Maricá: Saiba onde assistir a estreia da equipe maricaense no Campeonato Carioca</a>
+							</li>
+
+							
+	</ul>
+</div><!-- #breaking /-->
+			</div><!-- .tie-alignleft /-->
+
+			<div class="tie-alignright">
+				<ul class="components">
+	
+		<li class="popup-login-icon menu-item custom-menu-link">
+			<a href="#" class="lgoin-btn tie-popup-trigger">
+				<span class="tie-icon-author" aria-hidden="true"></span>
+				<span class="screen-reader-text">Entrar</span>			</a>
+		</li>
+
+				<li class="side-aside-nav-icon menu-item custom-menu-link">
+		<a href="#">
+			<span class="tie-icon-navicon" aria-hidden="true"></span>
+			<span class="screen-reader-text">Barra Lateral</span>
+		</a>
+	</li>
+		<li class="skin-icon menu-item custom-menu-link">
+		<a href="#" class="change-skin" title="Switch skin">
+			<span class="tie-icon-moon change-skin-icon" aria-hidden="true"></span>
+			<span class="screen-reader-text">Switch skin</span>
+		</a>
+	</li>
+	</ul><!-- Components -->			</div><!-- .tie-alignright /-->
+
+		</div><!-- .topbar-wrapper /-->
+	</div><!-- .container /-->
+</nav><!-- #top-nav /-->
+
+<div class="container header-container">
+	<div class="tie-row logo-row">
+
+		
+		<div class="logo-wrapper">
+			<div class="tie-col-md-4 logo-container clearfix">
+				<div id="mobile-header-components-area_1" class="mobile-header-components"><ul class="components"><li class="mobile-component_menu custom-menu-link"><a href="#" id="mobile-menu-icon" class=""><span class="tie-mobile-menu-icon nav-icon is-layout-1"></span><span class="screen-reader-text">Menu</span></a></li></ul></div>
+		<div id="logo" class="image-logo">
+
+			
+			<a title="Maricá Info" href="https://maricainfo.com/">
+				
+				<picture class="tie-logo-default tie-logo-picture">
+					<source class="tie-logo-source-default tie-logo-source" data-lazy-srcset="https://maricainfo.com/wp-content/uploads/2023/12/logo-2024-png.png.webp 1x" media="(max-width:991px)">
+					<source class="tie-logo-source-default tie-logo-source" data-lazy-srcset="https://maricainfo.com/wp-content/uploads/2023/12/logo-2024-png.png.webp 1x">
+					<img class="tie-logo-img-default tie-logo-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20175'%3E%3C/svg%3E" alt="Maricá Info" width="300" height="175" style="max-height:175px; width: auto;" data-lazy-src="https://maricainfo.com/wp-content/uploads/2023/12/logo-2024-png.png.webp"><noscript><img class="tie-logo-img-default tie-logo-img" src="https://maricainfo.com/wp-content/uploads/2023/12/logo-2024-png.png.webp" alt="Maricá Info" width="300" height="175" style="max-height:175px; width: auto;"></noscript>
+				</picture>
+						</a>
+
+			
+		</div><!-- #logo /-->
+
+		<div id="mobile-header-components-area_2" class="mobile-header-components"><ul class="components"><li class="mobile-component_search custom-menu-link">
+				<a href="#" class="tie-search-trigger-mobile">
+					<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+					<span class="screen-reader-text">Buscar por</span>
+				</a>
+			</li> <li class="mobile-component_skin custom-menu-link">
+				<a href="#" class="change-skin" title="Switch skin">
+					<span class="tie-icon-moon change-skin-icon" aria-hidden="true"></span>
+					<span class="screen-reader-text">Switch skin</span>
+				</a>
+			</li></ul></div>			</div><!-- .tie-col /-->
+		</div><!-- .logo-wrapper /-->
+
+		<div class="tie-col-md-8 stream-item stream-item-top-wrapper"><div class="stream-item-top"><div class="stream-item-size" style=""><script type="rocketlazyloadscript" async="" data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1719687665996019" crossorigin="anonymous"></script>
+<!-- Header Maricá Info -->
+<ins class="adsbygoogle" style="display:inline-block;width:720px;height:170px" data-ad-client="ca-pub-1719687665996019" data-ad-slot="7276580365"></ins>
+<script type="rocketlazyloadscript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><!-- .tie-col /-->
+	</div><!-- .tie-row /-->
+</div><!-- .container /-->
+
+<div class="main-nav-wrapper">
+	<nav id="main-nav" data-skin="search-in-main-nav" class="main-nav header-nav live-search-parent menu-style-default menu-style-solid-bg" aria-label="Navegação Primária">
+		<div class="container">
+
+			<div class="main-menu-wrapper">
+
+				
+				<div id="menu-components-wrap">
+
+					
+					<div class="main-menu main-menu-wrap">
+						<div id="main-nav-menu" class="main-menu header-menu"><ul id="menu-header" class="menu"><li id="menu-item-74108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-74108"><a href="https://maricainfo.com">Notícias</a></li>
+<li id="menu-item-74109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74109"><a href="https://maricainfo.com/category/policial">Policial</a></li>
+<li id="menu-item-108623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108623"><a href="https://maricainfo.com/category/esportes">Esportes</a></li>
+<li id="menu-item-74110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74110"><a href="https://maricainfo.com/category/itaipuacu">Itaipuaçu</a></li>
+<li id="menu-item-75066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75066"><a href="https://maricainfo.com/category/concursos">Concursos</a></li>
+<li id="menu-item-97959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97959"><a href="https://bit.ly/41rLqFN">Praias Ao Vivo</a></li>
+<li id="menu-item-74112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74112"><a href="https://maricainfo.com/horario-dos-vermelhinhos-da-ept-marica-atualizado">Horários ônibus</a></li>
+<li id="menu-item-74113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74113"><a href="https://maricainfo.com/conheca-marica">Conheça Maricá</a>
+<ul class="sub-menu menu-sub-content">
+	<li id="menu-item-74960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74960"><a href="https://maricainfo.com/conheca-marica/historia-de-marica">História de Maricá</a></li>
+	<li id="menu-item-74958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74958"><a href="https://maricainfo.com/conheca-marica/praias">Praias – Maricá</a></li>
+	<li id="menu-item-74973" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-74973"><a href="https://maricainfo.com/2020/08/10/lagoas-de-marica.html">Lagoas de Maricá</a></li>
+	<li id="menu-item-74959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74959"><a href="https://maricainfo.com/cachoeiras">Cachoeiras</a></li>
+	<li id="menu-item-74961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74961"><a href="https://maricainfo.com/conheca-marica/ilhas-marica">Ilhas Maricás</a></li>
+	<li id="menu-item-74962" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74962"><a href="https://maricainfo.com/category/trilhas-de-marica">Trilhas de Maricá</a></li>
+</ul>
+</li>
+<li id="menu-item-104254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-104254"><a href="https://maricainfo.com/category/videos">Programas</a>
+<ul class="sub-menu menu-sub-content">
+	<li id="menu-item-104255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104255"><a href="https://maricainfo.com/podcast">Podcast Maricá Info</a></li>
+	<li id="menu-item-104257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104257"><a href="https://maricainfo.com/category/fala-marica">Fala Maricá</a></li>
+	<li id="menu-item-104324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104324"><a href="https://maricainfo.com/category/descubra-marica">Descubra Maricá</a></li>
+	<li id="menu-item-105842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105842"><a href="https://maricainfo.com/votocerto">Voto Certo!</a></li>
+</ul>
+</li>
+</ul></div>					</div><!-- .main-menu /-->
+
+					<ul class="components"><li class="weather-menu-item menu-item custom-menu-link">
+				<div class="tie-weather-widget is-animated" title="Scattered Clouds">
+					<div class="weather-wrap">
+
+						<div class="weather-forecast-day small-weather-icons">
+							
+					<div class="weather-icon">
+						<div class="icon-cloud"></div>
+						<div class="icon-cloud-behind"></div>
+						<div class="icon-basecloud-bg"></div>
+						<div class="icon-sun-animi"></div>
+					</div>
+										</div><!-- .weather-forecast-day -->
+
+						<div class="city-data">
+							<span>Maricá (RJ)</span>
+							<span class="weather-current-temp">
+								22								<sup>℃</sup>
+							</span>
+						</div><!-- .city-data -->
+
+					</div><!-- .weather-wrap -->
+				</div><!-- .tie-weather-widget -->
+				</li>			<li class="search-bar menu-item custom-menu-link" aria-label="Busca">
+				<form method="get" id="search" action="https://maricainfo.com/">
+					<input id="search-input" class="is-ajax-search" inputmode="search" type="text" name="s" title="Buscar por" placeholder="Buscar por">
+					<button id="search-submit" type="submit">
+						<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+						<span class="screen-reader-text">Buscar por</span>
+					</button>
+				</form>
+			</li>
+			</ul><!-- Components -->
+				</div><!-- #menu-components-wrap /-->
+			</div><!-- .main-menu-wrapper /-->
+		</div><!-- .container /-->
+
+			</nav><!-- #main-nav /-->
+</div><!-- .main-nav-wrapper /-->
+
+</header>
+
+		<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			try{if("undefined"!=typeof localStorage){var header,mnIsDark=!1,tnIsDark=!1;(header=document.getElementById("theme-header"))&&((header=header.classList).contains("main-nav-default-dark")&&(mnIsDark=!0),header.contains("top-nav-default-dark")&&(tnIsDark=!0),"dark"==tieSkin?(header.add("main-nav-dark","top-nav-dark"),header.remove("main-nav-light","top-nav-light")):"light"==tieSkin&&(mnIsDark||(header.remove("main-nav-dark"),header.add("main-nav-light")),tnIsDark||(header.remove("top-nav-dark"),header.add("top-nav-light"))))}}catch(a){console.log(a)}
+		</script>
+		<div id="content" class="site-content container"><div id="main-content-row" class="tie-row main-content-row">
+
+<div class="main-content tie-col-md-8 tie-col-xs-12" role="main">
+
+	
+	<article id="the-post" class="container-wrapper post-content tie-standard tie-autoloaded-post" data-post-url="https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" data-post-title="Maricá: Caso suspeito de meningite viral assusta comunidade escolar" data-post-edit="https://maricainfo.com/wp-admin/post.php?post=103919&amp;action=edit" data-share-title="Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar" data-share-link="https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" data-share-image="https://maricainfo.com/wp-content/uploads/2024/06/ceim-sidneia.png">
+
+		
+<header class="entry-header-outer">
+
+	<nav id="breadcrumb"><a href="https://maricainfo.com/"><span class="tie-icon-home" aria-hidden="true"></span> Início</a><em class="delimiter">/</em><a href="https://maricainfo.com/category/noticias-de-marica">Notícias de Maricá</a><em class="delimiter">/</em><span class="current">Maricá: Caso suspeito de meningite viral assusta comunidade escolar</span></nav><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","@id":"#Breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"In\u00edcio","@id":"https:\/\/maricainfo.com\/"}},{"@type":"ListItem","position":2,"item":{"name":"Not\u00edcias de Maric\u00e1","@id":"https:\/\/maricainfo.com\/category\/noticias-de-marica"}}]}</script>
+	<div class="entry-header">
+
+		<span class="post-cat-wrap"><a class="post-cat tie-cat-41" href="https://maricainfo.com/category/noticias-de-marica">Notícias de Maricá</a></span>
+		<h1 class="post-title entry-title">
+			Maricá: Caso suspeito de meningite viral assusta comunidade escolar		</h1>
+
+		<div class="single-post-meta post-meta clearfix"><span class="author-meta single-author with-avatars"><span class="meta-item meta-author-wrapper meta-author-1">
+						<span class="meta-author-avatar">
+							<a href="https://maricainfo.com/author/maricainfo"><img alt="Foto de maricainfo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAApJREFUCJljYAAAAAIAAfRxZKYAAAAASUVORK5CYII=" data-src="https://secure.gravatar.com/avatar/22c17c64b52a085d24ff55672f904a4b?s=140&amp;r=g" data-2x="https://secure.gravatar.com/avatar/22c17c64b52a085d24ff55672f904a4b?s=280&amp;r=g 2x" class="lazy-img avatar avatar-140 photo" height="140" width="140" decoding="async"></a>
+						</span>
+					<span class="meta-author"><a href="https://maricainfo.com/author/maricainfo" class="author-name tie-icon" title="maricainfo">maricainfo</a></span>
+							<a href="https://twitter.com/maricainfo" class="author-twitter-link" target="_blank" rel="nofollow noopener" title="Siga no Twitter">
+								<span class="tie-icon-twitter" aria-hidden="true"></span>
+								<span class="screen-reader-text">Follow on X</span>
+							</a>
+						</span></span><span class="date meta-item tie-icon">27 de junho de 2024</span><div class="tie-alignright"></div></div><!-- .post-meta -->	</div><!-- .entry-header /-->
+
+	
+	
+</header><!-- .entry-header-outer /-->
+
+
+
+		<div id="share-buttons-top" class="share-buttons share-buttons-top">
+			<div class="share-links  icons-text share-pill">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn  large-share-button" data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="social-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar&amp;url=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;via=@maricainfo" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn  large-share-button" data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=@maricainfo">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="social-text">X</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar%20https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn  large-share-button" data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="social-text">WhatsApp</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+		<div class="featured-area"><div class="featured-area-inner"><figure class="single-featured-image"><img width="904" height="574" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20904%20574'%3E%3C/svg%3E" class="attachment-full size-full wp-post-image" alt="ceim sidneia" data-main-img="1" decoding="async" fetchpriority="high" title="Maricá: Caso suspeito de meningite viral assusta comunidade escolar 1" data-lazy-src="https://maricainfo.com/wp-content/webp-express/webp-images/uploads/2024/06/ceim-sidneia.png.webp"><noscript><img width="904" height="574" src="https://maricainfo.com/wp-content/webp-express/webp-images/uploads/2024/06/ceim-sidneia.png.webp" class="attachment-full size-full wp-post-image" alt="ceim sidneia" data-main-img="1" decoding="async" fetchpriority="high" title="Maricá: Caso suspeito de meningite viral assusta comunidade escolar 1"></noscript></figure></div></div>
+		<div class="entry-content entry clearfix">
+
+			<div class="stream-item stream-item-above-post-content"><div class="stream-item-size" style=""><script type="rocketlazyloadscript" async="" data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1719687665996019" crossorigin="anonymous"></script>
+<!-- Post2023 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1719687665996019" data-ad-slot="8053754456" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script type="rocketlazyloadscript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+			<p><span style="font-size: 14pt;"></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Um caso suspeito de meningite viral em um bebê de um ano e meio estudante do Centro Municipal Infantil Municipal (CEIM) Sidnéia da Silva Costa, localizado no bairro Saco das Flores, assustou a comunidade escolar.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Segundo informações, o bebê de um ano e seis meses de vida, apresentou os sintomas, mas exames descartaram a meningite meningocócica. A escola também solicitou aos pais dos alunos matriculados na unidade a carteira de vacinação, para que todos possam estar com as vacinas em dia e evitar qualquer contágio viral.</span></p><div class="stream-item stream-item-in-post stream-item-inline-post aligncenter"><div class="stream-item-size" style=""><script type="rocketlazyloadscript" async="" data-rocket-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1719687665996019" crossorigin="anonymous"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1719687665996019" data-ad-slot="7479141018"></ins>
+<script type="rocketlazyloadscript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Em nota, a&nbsp;Secretaria de Saúde (SMS) informa que a criança passou por exames que descartam a meningite meningocócica. Vale reforçar que a Vigilância em Saúde do município acompanha o caso em conjunto com a Secretaria de Estado de Saúde e informa que não há indicativos da presença do agente infecioso no ambiente escolar, portanto, não existe orientação para ações de bloqueio em contatos.</span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong style="text-align: justify;">Sintomas</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Os&nbsp;<b>sintomas</b>&nbsp;iniciais da&nbsp;<b>meningite viral</b>&nbsp;são semelhantes aos da&nbsp;<b>meningite</b>&nbsp;bacteriana: febre, dor de cabeça, rigidez de nuca, náusea, vomito, falta de apetite, irritabilidade, sonolência ou dificuldade para acordar do sono, letargia, fotofobia (aumento da sensibilidade à luz)..</span></p>
+<p><span style="font-size: 14pt;"></span></p>
+			<div class="stream-item stream-item-below-post-content"><div class="stream-item-size" style=""><div id="intext2_alright" style="min-height:100px;"></div></div></div>
+		</div><!-- .entry-content /-->
+
+				<div id="post-extra-info">
+			<div class="theiaStickySidebar">
+				<div class="single-post-meta post-meta clearfix"><span class="author-meta single-author with-avatars"><span class="meta-item meta-author-wrapper meta-author-1">
+						<span class="meta-author-avatar">
+							<a href="https://maricainfo.com/author/maricainfo"><img alt="Foto de maricainfo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAApJREFUCJljYAAAAAIAAfRxZKYAAAAASUVORK5CYII=" data-src="https://secure.gravatar.com/avatar/22c17c64b52a085d24ff55672f904a4b?s=140&amp;r=g" data-2x="https://secure.gravatar.com/avatar/22c17c64b52a085d24ff55672f904a4b?s=280&amp;r=g 2x" class="lazy-img avatar avatar-140 photo" height="140" width="140" decoding="async"></a>
+						</span>
+					<span class="meta-author"><a href="https://maricainfo.com/author/maricainfo" class="author-name tie-icon" title="maricainfo">maricainfo</a></span>
+							<a href="https://twitter.com/maricainfo" class="author-twitter-link" target="_blank" rel="nofollow noopener" title="Siga no Twitter">
+								<span class="tie-icon-twitter" aria-hidden="true"></span>
+								<span class="screen-reader-text">Follow on X</span>
+							</a>
+						</span></span><span class="date meta-item tie-icon">27 de junho de 2024</span><div class="tie-alignright"></div></div><!-- .post-meta -->
+
+		<div id="share-buttons-top" class="share-buttons share-buttons-top">
+			<div class="share-links  icons-text share-pill">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn  large-share-button" data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="social-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar&amp;url=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;via=@maricainfo" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn  large-share-button" data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=@maricainfo">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="social-text">X</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar%20https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn  large-share-button" data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="social-text">WhatsApp</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+					</div>
+		</div>
+
+		<div class="clearfix"></div>
+		<script id="tie-schema-json" type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","dateCreated":"2024-06-27T12:15:28-03:00","datePublished":"2024-06-27T12:15:28-03:00","dateModified":"2024-06-27T15:09:50-03:00","headline":"Maric\u00e1: Caso suspeito de meningite viral assusta comunidade escolar","name":"Maric\u00e1: Caso suspeito de meningite viral assusta comunidade escolar","keywords":[],"url":"https:\/\/maricainfo.com\/2024\/06\/27\/marica-caso-de-viral-comunidade-escolar.html","description":"Um caso suspeito de meningite viral em um beb\u00ea de um ano e meio estudante do Centro Municipal Infantil Municipal (CEIM) Sidn\u00e9ia da Silva Costa, localizado no bairro Saco das Flores, assustou a comunid","copyrightYear":"2024","articleSection":"Not\u00edcias de Maric\u00e1","articleBody":"\r\nUm caso suspeito de meningite viral em um beb\u00ea de um ano e meio estudante do Centro Municipal Infantil Municipal (CEIM) Sidn\u00e9ia da Silva Costa, localizado no bairro Saco das Flores, assustou a comunidade escolar.\u00a0\r\nSegundo informa\u00e7\u00f5es, o beb\u00ea de um ano e seis meses de vida, apresentou os sintomas, mas exames descartaram a meningite meningoc\u00f3cica. A escola tamb\u00e9m solicitou aos pais dos alunos matriculados na unidade a carteira de vacina\u00e7\u00e3o, para que todos possam estar com as vacinas em dia e evitar qualquer cont\u00e1gio viral.\r\nEm nota, a\u00a0Secretaria de Sa\u00fade (SMS) informa que a crian\u00e7a passou por exames que descartam a meningite meningoc\u00f3cica. Vale refor\u00e7ar que a Vigil\u00e2ncia em Sa\u00fade do munic\u00edpio acompanha o caso em conjunto com a Secretaria de Estado de Sa\u00fade e informa que n\u00e3o h\u00e1 indicativos da presen\u00e7a do agente infecioso no ambiente escolar, portanto, n\u00e3o existe orienta\u00e7\u00e3o para a\u00e7\u00f5es de bloqueio em contatos.\r\nSintomas\r\nOs\u00a0sintomas\u00a0iniciais da\u00a0meningite viral\u00a0s\u00e3o semelhantes aos da\u00a0meningite\u00a0bacteriana: febre, dor de cabe\u00e7a, rigidez de nuca, n\u00e1usea, vomito, falta de apetite, irritabilidade, sonol\u00eancia ou dificuldade para acordar do sono, letargia, fotofobia (aumento da sensibilidade \u00e0 luz)..\r\n","publisher":{"@id":"#Publisher","@type":"Organization","name":"Maric\u00e1 Info","logo":{"@type":"ImageObject","url":"https:\/\/maricainfo.com\/wp-content\/uploads\/2023\/12\/logo-2024-png.png"},"sameAs":["facebook.com\/maricainfo","twitter.com\/maricainfo","youtube.com\/maricainfo","instagram.com\/maricainfo","https:\/\/www.tiktok.com\/@maricainfo","https:\/\/wa.me\/message\/G6GBVGBA73QEH1"]},"sourceOrganization":{"@id":"#Publisher"},"copyrightHolder":{"@id":"#Publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/maricainfo.com\/2024\/06\/27\/marica-caso-de-viral-comunidade-escolar.html","breadcrumb":{"@id":"#Breadcrumb"}},"author":{"@type":"Person","name":"maricainfo","url":"https:\/\/maricainfo.com\/author\/maricainfo"},"image":{"@type":"ImageObject","url":"https:\/\/maricainfo.com\/wp-content\/uploads\/2024\/06\/ceim-sidneia.png","width":1200,"height":574}}</script>
+		<div class="follow-us-post-section">
+								<div class="follow-us-title">Siga-nos</div>
+										<a href="https://news.google.com/publications/CAAqKQgKIiNDQklTRkFnTWFoQUtEbTFoY21sallXbHVabTh1WTI5dEtBQVAB?ceid=BR:pt-419&amp;oc=3&amp;hl=pt-BR&amp;gl=BR" title="Google News" target="_blank" rel="nofollow noopener" class="post-followus-btn google-new-btn">
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2022'%3E%3C/svg%3E" alt="Google News" width="120" height="22" data-lazy-src="https://maricainfo.com/wp-content/themes/jannah/assets/images/google-news.svg"><noscript><img src="https://maricainfo.com/wp-content/themes/jannah/assets/images/google-news.svg" alt="Google News" loading="lazy" width="120" height="22"></noscript>
+					</a>
+							</div>
+		
+
+		<div id="share-buttons-bottom" class="share-buttons share-buttons-bottom">
+			<div class="share-links  icons-only">
+										<div class="share-title">
+							<span class="tie-icon-share" aria-hidden="true"></span>
+							<span> Compartilhe</span>
+						</div>
+						
+				<a href="https://www.facebook.com/sharer.php?u=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn" data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar&amp;url=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;via=@maricainfo" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn" data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=@maricainfo">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar%20https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn" data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+				</a>
+				<a href="https://telegram.me/share/url?url=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn" data-raw="https://telegram.me/share/url?url={post_link}&amp;text={post_title}">
+					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+		
+	</article><!-- #the-post /-->
+
+	<div class="stream-item stream-item-below-post"><div class="stream-item-size" style="">
+
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Separar Banners</title>
+    <style>
+        .banner {
+            margin-bottom: 20px; /* Espaço de 20px entre os banners */
+        }
+    </style>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="c7933fe9ff0caa4e4adf0981-|49" defer=""></script>
+</div></div>
+	<div class="post-components">
+
+		
+	
+
+				<div id="related-posts" class="container-wrapper has-extra-post">
+
+					<div class="mag-box-title the-global-title">
+						<h3>Relacionados</h3>
+					</div>
+
+					<div class="related-posts-list">
+
+					
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Guarda Municipal de Maricá detém homem suspeito de agredir mulher dentro de ônibus" href="https://maricainfo.com/2025/01/13/guarda-municipal-de-marica-omem-de-mulher-dentro-de-onibus.html" class="post-thumb"><img width="390" height="220" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="romu" decoding="async" data-src="https://maricainfo.com/wp-content/webp-express/webp-images/uploads/2025/01/romu-390x220.jpg.webp" title="Guarda Municipal de Maricá detém homem suspeito de agredir mulher dentro de ônibus 2"></a>
+								<h3 class="post-title"><a href="https://maricainfo.com/2025/01/13/guarda-municipal-de-marica-omem-de-mulher-dentro-de-onibus.html">Guarda Municipal de Maricá detém homem suspeito de agredir mulher dentro de ônibus</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">13 de janeiro de 2025</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Maricá tem previsão de chuva até quarta-feira (15)" href="https://maricainfo.com/2025/01/13/marica-tem-previsao-de-chuva-ate-quarta-feira-15.html" class="post-thumb"><img width="390" height="220" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="IMG 0399" decoding="async" data-src="https://maricainfo.com/wp-content/webp-express/webp-images/uploads/2024/03/IMG_0399-390x220.jpeg.webp" title="Maricá tem previsão de chuva até quarta-feira (15) 3"></a>
+								<h3 class="post-title"><a href="https://maricainfo.com/2025/01/13/marica-tem-previsao-de-chuva-ate-quarta-feira-15.html">Maricá tem previsão de chuva até quarta-feira (15)</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">13 de janeiro de 2025</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Maricá reabre inscrições para castração de cães e gatos; confira!" href="https://maricainfo.com/2025/01/13/marica-volta-a-abrir-vagas-para-castracao-de-caes-e-gatos-confira.html" class="post-thumb"><img width="390" height="220" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="castracao caes Foto Marcos Fabricio" decoding="async" data-src="https://maricainfo.com/wp-content/webp-express/webp-images/uploads/2025/01/castracao-caes-Foto-Marcos-Fabricio-390x220.jpg.webp" title="Maricá reabre inscrições para castração de cães e gatos; confira! 4"></a>
+								<h3 class="post-title"><a href="https://maricainfo.com/2025/01/13/marica-volta-a-abrir-vagas-para-castracao-de-caes-e-gatos-confira.html">Maricá reabre inscrições para castração de cães e gatos; confira!</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">13 de janeiro de 2025</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+							<div class="related-item tie-standard">
+
+								
+			<a aria-label="Comitiva visita área do Porto de Jaconé em Maricá" href="https://maricainfo.com/2025/01/13/comitiva-visita-area-do-porto-de-jacone-em-marica.html" class="post-thumb"><img width="390" height="220" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="porto de jacone" decoding="async" data-src="https://maricainfo.com/wp-content/webp-express/webp-images/uploads/2025/01/porto-de-jacone-390x220.jpg.webp" title="Comitiva visita área do Porto de Jaconé em Maricá 5"></a>
+								<h3 class="post-title"><a href="https://maricainfo.com/2025/01/13/comitiva-visita-area-do-porto-de-jacone-em-marica.html">Comitiva visita área do Porto de Jaconé em Maricá</a></h3>
+
+								<div class="post-meta clearfix"><span class="date meta-item tie-icon">13 de janeiro de 2025</span></div><!-- .post-meta -->							</div><!-- .related-item /-->
+
+						
+					</div><!-- .related-posts-list /-->
+				</div><!-- #related-posts /-->
+
+			
+	</div><!-- .post-components /-->
+
+	
+</div><!-- .main-content -->
+
+
+	<div id="check-also-box" class="container-wrapper check-also-right">
+
+		<div class="widget-title the-global-title">
+			<div class="the-subtitle">Busque também</div>
+
+			<a href="#" id="check-also-close" class="remove">
+				<span class="screen-reader-text">Fechar</span>
+			</a>
+		</div>
+
+		<div class="widget posts-list-big-first has-first-big-post">
+			<ul class="posts-list-items">
+
+			
+<li class="widget-single-post-item widget-post-list tie-standard">
+
+			<div class="post-widget-thumbnail">
+
+			
+			<a aria-label="Comitiva visita área do Porto de Jaconé em Maricá" href="https://maricainfo.com/2025/01/13/comitiva-visita-area-do-porto-de-jacone-em-marica.html" class="post-thumb"><span class="post-cat-wrap"><span class="post-cat tie-cat-41">Notícias de Maricá</span></span><img width="390" height="220" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYYAAADcAQMAAABOLJSDAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAACJJREFUaIHtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAA4N8AKvgAAUFIrrEAAAAASUVORK5CYII=" class="attachment-jannah-image-large size-jannah-image-large lazy-img wp-post-image" alt="porto de jacone" decoding="async" data-src="https://maricainfo.com/wp-content/webp-express/webp-images/uploads/2025/01/porto-de-jacone-390x220.jpg.webp" title="Comitiva visita área do Porto de Jaconé em Maricá 6"></a>		</div><!-- post-alignleft /-->
+	
+	<div class="post-widget-body">
+		<a class="post-title the-subtitle" href="https://maricainfo.com/2025/01/13/comitiva-visita-area-do-porto-de-jacone-em-marica.html">Comitiva visita área do Porto de Jaconé em Maricá</a>
+
+		<div class="post-meta">
+			<span class="date meta-item tie-icon">13 de janeiro de 2025</span>		</div>
+	</div>
+</li>
+
+			</ul><!-- .related-posts-list /-->
+		</div>
+	</div><!-- #related-posts /-->
+
+	</div><!-- .main-content-row /-->
+				<script type="rocketlazyloadscript" data-no-optimize="1" data-cfasync="false">var tieAutoLoadPosts = [{"share_title":"Guarda%20Municipal%20de%20Maric%C3%A1%20det%C3%A9m%20homem%20suspeito%20de%20agredir%20mulher%20dentro%20de%20%C3%B4nibus","share_link":"https:\/\/maricainfo.com\/2025\/01\/13\/guarda-municipal-de-marica-omem-de-mulher-dentro-de-onibus.html","share_full_link":"https:\/\/maricainfo.com\/2025\/01\/13\/guarda-municipal-de-marica-omem-de-mulher-dentro-de-onibus.html","share_image":"https:\/\/maricainfo.com\/wp-content\/uploads\/2025\/01\/romu.jpg","id":110716,"url":"https:\/\/maricainfo.com\/2025\/01\/13\/guarda-municipal-de-marica-omem-de-mulher-dentro-de-onibus.html","edit_url":"https:\/\/maricainfo.com\/wp-admin\/post.php?post=110716&amp;action=edit","title":"Guarda Municipal de Maric\u00e1 det\u00e9m homem suspeito de agredir mulher dentro de \u00f4nibus","src":"https:\/\/maricainfo.com\/2025\/01\/13\/guarda-municipal-de-marica-omem-de-mulher-dentro-de-onibus.html?tie-ajax-post=1"},{"share_title":"Maric%C3%A1%20tem%20previs%C3%A3o%20de%20chuva%20at%C3%A9%20quarta-feira%20%2815%29","share_link":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-tem-previsao-de-chuva-ate-quarta-feira-15.html","share_full_link":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-tem-previsao-de-chuva-ate-quarta-feira-15.html","share_image":"https:\/\/maricainfo.com\/wp-content\/uploads\/2024\/03\/IMG_0399-scaled.jpeg","id":110705,"url":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-tem-previsao-de-chuva-ate-quarta-feira-15.html","edit_url":"https:\/\/maricainfo.com\/wp-admin\/post.php?post=110705&amp;action=edit","title":"Maric\u00e1 tem previs\u00e3o de chuva at\u00e9 quarta-feira (15)","src":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-tem-previsao-de-chuva-ate-quarta-feira-15.html?tie-ajax-post=1"},{"share_title":"Maric%C3%A1%20reabre%20inscri%C3%A7%C3%B5es%20para%20castra%C3%A7%C3%A3o%20de%20c%C3%A3es%20e%20gatos%3B%20confira%21","share_link":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-volta-a-abrir-vagas-para-castracao-de-caes-e-gatos-confira.html","share_full_link":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-volta-a-abrir-vagas-para-castracao-de-caes-e-gatos-confira.html","share_image":"https:\/\/maricainfo.com\/wp-content\/uploads\/2025\/01\/castracao-caes-Foto-Marcos-Fabricio-scaled.jpg","id":110689,"url":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-volta-a-abrir-vagas-para-castracao-de-caes-e-gatos-confira.html","edit_url":"https:\/\/maricainfo.com\/wp-admin\/post.php?post=110689&amp;action=edit","title":"Maric\u00e1 reabre inscri\u00e7\u00f5es para castra\u00e7\u00e3o de c\u00e3es e gatos; confira!","src":"https:\/\/maricainfo.com\/2025\/01\/13\/marica-volta-a-abrir-vagas-para-castracao-de-caes-e-gatos-confira.html?tie-ajax-post=1"},{"share_title":"Comitiva%20visita%20%C3%A1rea%20do%20Porto%20de%20Jacon%C3%A9%20em%20Maric%C3%A1","share_link":"https:\/\/maricainfo.com\/2025\/01\/13\/comitiva-visita-area-do-porto-de-jacone-em-marica.html","share_full_link":"https:\/\/maricainfo.com\/2025\/01\/13\/comitiva-visita-area-do-porto-de-jacone-em-marica.html","share_image":"https:\/\/maricainfo.com\/wp-content\/uploads\/2025\/01\/porto-de-jacone.jpg","id":110685,"url":"https:\/\/maricainfo.com\/2025\/01\/13\/comitiva-visita-area-do-porto-de-jacone-em-marica.html","edit_url":"https:\/\/maricainfo.com\/wp-admin\/post.php?post=110685&amp;action=edit","title":"Comitiva visita \u00e1rea do Porto de Jacon\u00e9 em Maric\u00e1","src":"https:\/\/maricainfo.com\/2025\/01\/13\/comitiva-visita-area-do-porto-de-jacone-em-marica.html?tie-ajax-post=1"},{"share_title":"Maric%C3%A1%3A%20Museu%20particular%20se%20destaca%20por%20carros%20antigos%20e%20itens%20raros","share_link":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-museu-particular-se-destaca-por-carros-antigos-e-itens-raros.html","share_full_link":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-museu-particular-se-destaca-por-carros-antigos-e-itens-raros.html","share_image":"https:\/\/maricainfo.com\/wp-content\/uploads\/2025\/01\/IMG_3052.jpeg","id":110671,"url":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-museu-particular-se-destaca-por-carros-antigos-e-itens-raros.html","edit_url":"https:\/\/maricainfo.com\/wp-admin\/post.php?post=110671&amp;action=edit","title":"Maric\u00e1: Museu particular se destaca por carros antigos e itens raros","src":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-museu-particular-se-destaca-por-carros-antigos-e-itens-raros.html?tie-ajax-post=1"},{"share_title":"Maric%C3%A1%3A%20Dois%20homens%20s%C3%A3o%20detidos%20e%20motocicleta%20furtada%20%C3%A9%20recuperada%20em%20Itaipua%C3%A7u","share_link":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-dois-homens-sao-detidos-e-motocicleta-furtada-e-recuperada-em-itaipuacu.html","share_full_link":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-dois-homens-sao-detidos-e-motocicleta-furtada-e-recuperada-em-itaipuacu.html","share_image":"https:\/\/maricainfo.com\/wp-content\/uploads\/2025\/01\/detidos.jpeg","id":110678,"url":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-dois-homens-sao-detidos-e-motocicleta-furtada-e-recuperada-em-itaipuacu.html","edit_url":"https:\/\/maricainfo.com\/wp-admin\/post.php?post=110678&amp;action=edit","title":"Maric\u00e1: Dois homens s\u00e3o detidos e motocicleta furtada \u00e9 recuperada em Itaipua\u00e7u","src":"https:\/\/maricainfo.com\/2025\/01\/12\/marica-dois-homens-sao-detidos-e-motocicleta-furtada-e-recuperada-em-itaipuacu.html?tie-ajax-post=1"}];</script>
+				<div id="tie-infinte-posts-iframes-wrapper">
+					<div id="tie-infinte-posts-iframes">
+					</div>
+
+					<div id="tie-infinte-posts-loading"><div class="loader-overlay"><div class="spinner-circle"></div></div></div>
+				</div>
+			</div><!-- #content /-->
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+
+	
+			<div id="footer-widgets-container">
+				<div class="container">
+					
+		<div class="footer-widget-area">
+			<div class="tie-row">
+
+				
+				
+				
+									<div class="tie-col-md-3 normal-side">
+											</div><!-- .tie-col /-->
+				
+			</div><!-- .tie-row /-->
+		</div><!-- .footer-widget-area /-->
+
+		
+		<div class="footer-widget-area">
+			<div class="tie-row">
+
+									<div class="tie-col-sm-4 normal-side">
+											</div><!-- .tie-col /-->
+				
+				
+				
+				
+			</div><!-- .tie-row /-->
+		</div><!-- .footer-widget-area /-->
+
+						</div><!-- .container /-->
+			</div><!-- #Footer-widgets-container /-->
+			
+			<div id="site-info" class="site-info site-info-layout-2">
+				<div class="container">
+					<div class="tie-row">
+						<div class="tie-col-md-12">
+
+							<div class="copyright-text copyright-text-first">© Direitos reservados 2025 &nbsp;|&nbsp;</div><div class="copyright-text copyright-text-second">Desde abril de 2010, o 'Maricá Info' leva as notícias de Maricá, Itaipuaçu e região para milhares de leitores, de forma imparcial e independente. Aqui você tem voz! Com um jornalismo colaborativo, o 'Marica Info' alcança milhões de leitores e deixa você sempre bem informado.
+</div><div class="footer-menu"><ul id="menu-header-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-74108"><a href="https://maricainfo.com">Notícias</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74109"><a href="https://maricainfo.com/category/policial">Policial</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108623"><a href="https://maricainfo.com/category/esportes">Esportes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74110"><a href="https://maricainfo.com/category/itaipuacu">Itaipuaçu</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75066"><a href="https://maricainfo.com/category/concursos">Concursos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97959"><a href="https://bit.ly/41rLqFN">Praias Ao Vivo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74112"><a href="https://maricainfo.com/horario-dos-vermelhinhos-da-ept-marica-atualizado">Horários ônibus</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74113"><a href="https://maricainfo.com/conheca-marica">Conheça Maricá</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104254"><a href="https://maricainfo.com/category/videos">Programas</a></li>
+</ul></div><ul class="social-icons"><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://facebook.com/maricainfo"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/maricainfo"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">X</span></a></li><li class="social-icons-item"><a class="social-link youtube-social-icon" rel="external noopener nofollow" target="_blank" href="https://youtube.com/maricainfo"><span class="tie-social-icon tie-icon-youtube"></span><span class="screen-reader-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://instagram.com/maricainfo"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link tiktok-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.tiktok.com/@maricainfo"><span class="tie-social-icon tie-icon-tiktok"></span><span class="screen-reader-text">TikTok</span></a></li><li class="social-icons-item"><a class="social-link whatsapp-social-icon" rel="external noopener nofollow" target="_blank" href="https://wa.me/message/G6GBVGBA73QEH1"><span class="tie-social-icon tie-icon-whatsapp"></span><span class="screen-reader-text">WhatsApp</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://maricainfo.com/feed"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+
+						</div><!-- .tie-col /-->
+					</div><!-- .tie-row /-->
+				</div><!-- .container /-->
+			</div><!-- #site-info /-->
+			
+</footer><!-- #footer /-->
+
+
+
+
+		<div id="share-buttons-mobile" class="share-buttons share-buttons-mobile">
+			<div class="share-links  icons-only">
+				
+				<a href="https://www.facebook.com/sharer.php?u=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="Facebook" target="_blank" class="facebook-share-btn" data-raw="https://www.facebook.com/sharer.php?u={post_link}">
+					<span class="share-btn-icon tie-icon-facebook"></span> <span class="screen-reader-text">Facebook</span>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar&amp;url=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;via=@maricainfo" rel="external noopener nofollow" title="X" target="_blank" class="twitter-share-btn" data-raw="https://twitter.com/intent/tweet?text={post_title}&amp;url={post_link}&amp;via=@maricainfo">
+					<span class="share-btn-icon tie-icon-twitter"></span> <span class="screen-reader-text">X</span>
+				</a>
+				<a href="fb-messenger://share?app_id=5303202981&amp;display=popup&amp;link=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;redirect_uri=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="Messenger" target="_blank" class="messenger-mob-share-btn messenger-share-btn" data-raw="fb-messenger://share?app_id=5303202981&amp;display=popup&amp;link={post_link}&amp;redirect_uri={post_link}">
+					<span class="share-btn-icon tie-icon-messenger"></span> <span class="screen-reader-text">Messenger</span>
+				</a>
+				<a href="https://www.facebook.com/dialog/send?app_id=5303202981&amp;display=popup&amp;link=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;redirect_uri=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="Messenger" target="_blank" class="messenger-desktop-share-btn messenger-share-btn" data-raw="https://www.facebook.com/dialog/send?app_id=5303202981&amp;display=popup&amp;link={post_link}&amp;redirect_uri={post_link}">
+					<span class="share-btn-icon tie-icon-messenger"></span> <span class="screen-reader-text">Messenger</span>
+				</a>
+				<a href="https://api.whatsapp.com/send?text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar%20https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html" rel="external noopener nofollow" title="WhatsApp" target="_blank" class="whatsapp-share-btn" data-raw="https://api.whatsapp.com/send?text={post_title}%20{post_link}">
+					<span class="share-btn-icon tie-icon-whatsapp"></span> <span class="screen-reader-text">WhatsApp</span>
+				</a>
+				<a href="https://telegram.me/share/url?url=https://maricainfo.com/2024/06/27/marica-caso-de-viral-comunidade-escolar.html&amp;text=Maric%C3%A1%3A%20Caso%20suspeito%20de%20meningite%20viral%20assusta%20comunidade%20escolar" rel="external noopener nofollow" title="Telegram" target="_blank" class="telegram-share-btn" data-raw="https://telegram.me/share/url?url={post_link}&amp;text={post_title}">
+					<span class="share-btn-icon tie-icon-paper-plane"></span> <span class="screen-reader-text">Telegram</span>
+				</a>			</div><!-- .share-links /-->
+		</div><!-- .share-buttons /-->
+
+		<div class="mobile-share-buttons-spacer"></div>
+		<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body">
+			<span class="tie-icon-angle-up"></span>
+			<span class="screen-reader-text">Botão Voltar ao topo</span>
+		</a>
+	
+		</div><!-- #tie-wrapper /-->
+
+		
+	<aside class="side-aside normal-side dark-skin dark-widgetized-area slide-sidebar-desktop is-fullwidth appear-from-left" aria-label="Barra lateral secundária" style="visibility: hidden;">
+		<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+
+			<a href="#" class="close-side-aside remove big-btn">
+				<span class="screen-reader-text">Fechar</span>
+			</a><!-- .close-side-aside /-->
+
+
+			
+				<div id="mobile-container">
+
+											<div id="mobile-search">
+							<form role="search" method="get" class="search-form" action="https://maricainfo.com/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar">
+			</form>							</div><!-- #mobile-search /-->
+						
+					<div id="mobile-menu" class="hide-menu-icons has-custom-menu">
+						<div class="menu-mobile-container"><ul id="mobile-custom-menu" class="menu"><li id="menu-item-75077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-75077"><a href="https://maricainfo.com">Últimas notícias</a></li>
+<li id="menu-item-74133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74133"><a href="https://maricainfo.com/category/policial">Policial</a></li>
+<li id="menu-item-74134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74134"><a href="https://maricainfo.com/category/itaipuacu">Itaipuaçu</a></li>
+<li id="menu-item-97968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97968"><a href="https://marica.info/praias">Praias Ao Vivo</a></li>
+<li id="menu-item-97969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97969"><a href="https://maricainfo.com/category/concursos">Concursos</a></li>
+<li id="menu-item-74371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-74371"><a href="https://maricainfo.com/conheca-marica">Conheça Maricá</a>
+<ul class="sub-menu menu-sub-content">
+	<li id="menu-item-74994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74994"><a href="https://maricainfo.com/conheca-marica/praias">Praias – Maricá</a></li>
+	<li id="menu-item-74995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74995"><a href="https://maricainfo.com/category/trilhas-de-marica">Trilhas de Maricá</a></li>
+	<li id="menu-item-74996" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-74996"><a href="https://maricainfo.com/2020/08/10/lagoas-de-marica.html">Lagoas de Maricá</a></li>
+	<li id="menu-item-74989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74989"><a href="https://maricainfo.com/orladeitaipuacu">Orla de Itaipuaçu</a></li>
+	<li id="menu-item-74990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74990"><a href="https://maricainfo.com/cachoeiras">Cachoeiras</a></li>
+	<li id="menu-item-74992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74992"><a href="https://maricainfo.com/conheca-marica/ilhas-marica">Ilhas Maricás</a></li>
+	<li id="menu-item-74991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74991"><a href="https://maricainfo.com/conheca-marica/historia-de-marica">História de Maricá</a></li>
+	<li id="menu-item-74993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74993"><a href="https://maricainfo.com/mapa-de-marica">Mapa de Maricá (RJ)</a></li>
+</ul>
+</li>
+<li id="menu-item-74141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74141"><a href="https://maricainfo.com/horario-dos-vermelhinhos-da-ept-marica-atualizado">Horários Ônibus EPT</a></li>
+<li id="menu-item-104320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-104320"><a href="https://maricainfo.com/category/videos">Programas</a>
+<ul class="sub-menu menu-sub-content">
+	<li id="menu-item-105847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105847"><a href="https://maricainfo.com/votocerto">Voto Certo!</a></li>
+	<li id="menu-item-104321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104321"><a href="https://maricainfo.com/podcast">Podcast Maricá Info</a></li>
+	<li id="menu-item-104322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104322"><a href="https://maricainfo.com/category/fala-marica">Fala Maricá</a></li>
+	<li id="menu-item-104323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104323"><a href="https://maricainfo.com/category/descubra-marica">Descubra Maricá</a></li>
+</ul>
+</li>
+<li id="menu-item-75131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75131"><a href="https://maricainfo.com/previsao-do-tempo">Previsão do Tempo</a></li>
+<li id="menu-item-91465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91465"><a href="https://vagas.maricainfo.com">Vagas em Maricá</a></li>
+</ul></div>					</div><!-- #mobile-menu /-->
+
+											<div id="mobile-social-icons" class="social-icons-widget solid-social-icons">
+							<ul><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://facebook.com/maricainfo"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/maricainfo"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">X</span></a></li><li class="social-icons-item"><a class="social-link youtube-social-icon" rel="external noopener nofollow" target="_blank" href="https://youtube.com/maricainfo"><span class="tie-social-icon tie-icon-youtube"></span><span class="screen-reader-text">YouTube</span></a></li><li class="social-icons-item"><a class="social-link instagram-social-icon" rel="external noopener nofollow" target="_blank" href="https://instagram.com/maricainfo"><span class="tie-social-icon tie-icon-instagram"></span><span class="screen-reader-text">Instagram</span></a></li><li class="social-icons-item"><a class="social-link tiktok-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.tiktok.com/@maricainfo"><span class="tie-social-icon tie-icon-tiktok"></span><span class="screen-reader-text">TikTok</span></a></li><li class="social-icons-item"><a class="social-link whatsapp-social-icon" rel="external noopener nofollow" target="_blank" href="https://wa.me/message/G6GBVGBA73QEH1"><span class="tie-social-icon tie-icon-whatsapp"></span><span class="screen-reader-text">WhatsApp</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://maricainfo.com/feed"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+						</div><!-- #mobile-social-icons /-->
+						
+				</div><!-- #mobile-container /-->
+			
+
+							<div id="slide-sidebar-widgets">
+					<div id="custom_html-10" class="widget_text container-wrapper widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="clever-core-ads"></div></div><div class="clearfix"></div></div><!-- .widget /-->				</div>
+			
+		</div><!-- .side-aside-wrapper /-->
+	</aside><!-- .side-aside /-->
+
+	
+	</div><!-- #tie-container /-->
+</div><!-- .background-overlay /-->
+
+		<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			if( 'loading' in HTMLImageElement.prototype) {
+				document.querySelectorAll('[data-src]').forEach( function(img){
+					img.src = img.dataset.src;
+					img.removeAttribute('data-src');
+				});
+			}
+		</script>
+		<div data-rocket-location-hash="62c460878793de9038930bb99235067c" id="autocomplete-suggestions" class="autocomplete-suggestions"></div><div data-rocket-location-hash="8e25de1d1a36db6abed03f077574891b" id="is-scroller-outer"><div data-rocket-location-hash="d59c53beb3ec8a2f09d4eb30d17c8179" id="is-scroller"></div></div><div data-rocket-location-hash="856732c5fa13ac0fc3d01100b22e8b1b" id="fb-root"></div>		<div data-rocket-location-hash="85b57b5cb899d1b7541a9a577f36dc6c" id="tie-popup-search-mobile" class="tie-popup tie-popup-search-wrap" style="display: none;">
+			<a href="#" class="tie-btn-close remove big-btn light-btn">
+				<span class="screen-reader-text">Fechar</span>
+			</a>
+			<div data-rocket-location-hash="3678f5f586a892fd2bc2c3933d81157b" class="popup-search-wrap-inner">
+
+				<div data-rocket-location-hash="6d511e2738edd3aa86a6d98ce0758c98" class="live-search-parent pop-up-live-search" data-skin="live-search-popup" aria-label="Busca">
+
+										<form method="get" class="tie-popup-search-form" action="https://maricainfo.com/">
+							<input class="tie-popup-search-input is-ajax-search" inputmode="search" type="text" name="s" title="Buscar por" autocomplete="off" placeholder="Buscar por">
+							<button class="tie-popup-search-submit" type="submit">
+								<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+								<span class="screen-reader-text">Buscar por</span>
+							</button>
+						</form>
+						
+				</div><!-- .pop-up-live-search /-->
+
+			</div><!-- .popup-search-wrap-inner /-->
+		</div><!-- .tie-popup-search-wrap /-->
+			<div data-rocket-location-hash="b545ea1ff057f3bdbeeaa605cde38d11" id="tie-popup-login" class="tie-popup" style="display: none;">
+		<a href="#" class="tie-btn-close remove big-btn light-btn">
+			<span class="screen-reader-text">Fechar</span>
+		</a>
+		<div data-rocket-location-hash="57dca0f1b3eed479de09747348171623" class="tie-popup-container">
+			<div data-rocket-location-hash="c85f0cdfec07001c54eca892c562720f" class="container-wrapper">
+				<div class="widget login-widget">
+
+					<div class="widget-title the-global-title">
+						<div class="the-subtitle">Entrar <span class="widget-title-icon tie-icon"></span></div>
+					</div>
+
+					<div class="widget-container">
+						
+	<div class="login-form">
+
+		<form name="registerform" action="https://maricainfo.com/wp-login.php" method="post">
+			<input type="text" name="log" title="Nome de Usuário" placeholder="Nome de Usuário">
+			<div class="pass-container">
+				<input type="password" name="pwd" title="Senha" placeholder="Senha">
+				<a class="forget-text" href="https://maricainfo.com/wp-login.php?action=lostpassword&amp;redirect_to=https%3A%2F%2Fmaricainfo.com">Esqueceu?</a>
+			</div>
+
+			<input type="hidden" name="redirect_to" value="/2024/06/27/marica-caso-de-viral-comunidade-escolar.html">
+			<label for="rememberme" class="rememberme">
+				<input id="rememberme" name="rememberme" type="checkbox" checked="checked" value="forever"> Lembre-me			</label>
+
+			
+			
+			<button type="submit" class="button fullwidth login-submit">Entrar</button>
+
+					</form>
+
+		
+	</div>
+						</div><!-- .widget-container  /-->
+				</div><!-- .login-widget  /-->
+			</div><!-- .container-wrapper  /-->
+		</div><!-- .tie-popup-container /-->
+	</div><!-- .tie-popup /-->
+	<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="c7933fe9ff0caa4e4adf0981-text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/manager\/js\/container_nUgf0chc.js|\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/maricainfo.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="wd-asl-ajaxsearchlite-js-before">
+/* <![CDATA[ */
+window.ASL = typeof window.ASL !== 'undefined' ? window.ASL : {}; window.ASL.wp_rocket_exception = "DOMContentLoaded"; window.ASL.ajaxurl = "https:\/\/maricainfo.com\/wp-admin\/admin-ajax.php"; window.ASL.backend_ajaxurl = "https:\/\/maricainfo.com\/wp-admin\/admin-ajax.php"; window.ASL.js_scope = "jQuery"; window.ASL.asl_url = "https:\/\/maricainfo.com\/wp-content\/plugins\/ajax-search-lite\/"; window.ASL.detect_ajax = 1; window.ASL.media_query = 4767; window.ASL.version = 4767; window.ASL.pageHTML = ""; window.ASL.additional_scripts = [{"handle":"wd-asl-ajaxsearchlite","src":"https:\/\/maricainfo.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-prereq.js","prereq":[]},{"handle":"wd-asl-ajaxsearchlite-core","src":"https:\/\/maricainfo.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-core.js","prereq":[]},{"handle":"wd-asl-ajaxsearchlite-vertical","src":"https:\/\/maricainfo.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-results-vertical.js","prereq":["wd-asl-ajaxsearchlite"]},{"handle":"wd-asl-ajaxsearchlite-autocomplete","src":"https:\/\/maricainfo.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-autocomplete.js","prereq":["wd-asl-ajaxsearchlite"]},{"handle":"wd-asl-ajaxsearchlite-load","src":"https:\/\/maricainfo.com\/wp-content\/plugins\/ajax-search-lite\/js\/min\/plugin\/optimized\/asl-load.js","prereq":["wd-asl-ajaxsearchlite-autocomplete"]}]; window.ASL.script_async_load = false; window.ASL.init_only_in_viewport = true; window.ASL.font_url = "https:\/\/maricainfo.com\/wp-content\/plugins\/ajax-search-lite\/css\/fonts\/icons2.woff2"; window.ASL.css_async = false; window.ASL.highlight = {"enabled":false,"data":[]}; window.ASL.analytics = {"method":0,"tracking_id":"","string":"?ajax_search={asl_term}","event":{"focus":{"active":1,"action":"focus","category":"ASL","label":"Input focus","value":"1"},"search_start":{"active":0,"action":"search_start","category":"ASL","label":"Phrase: {phrase}","value":"1"},"search_end":{"active":1,"action":"search_end","category":"ASL","label":"{phrase} | {results_count}","value":"1"},"magnifier":{"active":1,"action":"magnifier","category":"ASL","label":"Magnifier clicked","value":"1"},"return":{"active":1,"action":"return","category":"ASL","label":"Return button pressed","value":"1"},"facet_change":{"active":0,"action":"facet_change","category":"ASL","label":"{option_label} | {option_value}","value":"1"},"result_click":{"active":1,"action":"result_click","category":"ASL","label":"{result_title} | {result_url}","value":"1"}}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-prereq.js?ver=1736811803" id="wd-asl-ajaxsearchlite-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-core.js?ver=1736811803" id="wd-asl-ajaxsearchlite-core-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-results-vertical.js?ver=1736811803" id="wd-asl-ajaxsearchlite-vertical-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-autocomplete.js?ver=1736811803" id="wd-asl-ajaxsearchlite-autocomplete-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-load.js?ver=1736811803" id="wd-asl-ajaxsearchlite-load-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/ajax-search-lite/js/min/plugin/optimized/asl-wrapper.js?ver=1736811803" id="wd-asl-ajaxsearchlite-wrapper-js" data-rocket-defer="" defer=""></script>
+<script type="c7933fe9ff0caa4e4adf0981-text/javascript" id="pojo-a11y-js-extra">
+/* <![CDATA[ */
+var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"","enable_save":"","save_expiration":""};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0" id="pojo-a11y-js" data-rocket-defer="" defer=""></script>
+<script type="c7933fe9ff0caa4e4adf0981-text/javascript" id="tie-scripts-js-extra">
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/maricainfo.com\/wp-admin\/admin-ajax.php","is_side_aside_light":"","is_taqyeem_active":"","is_sticky_video":"","mobile_menu_top":"","mobile_menu_active":"area_1","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"horizontal","lightbox_arrows":"true","is_singular":"1","autoload_posts":"1","reading_indicator":"","lazyload":"true","select_share":"","select_share_twitter":"true","select_share_facebook":"true","select_share_linkedin":"true","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"@maricainfo","responsive_tables":"","ad_blocker_detector":"","sticky_behavior":"upwards","sticky_desktop":"true","sticky_mobile":"true","sticky_mobile_behavior":"default","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"1","lang_no_results":"Nada encontrado","sticky_share_mobile":"true","sticky_share_post":"","sticky_share_post_menu":""};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/themes/jannah/assets/js/scripts.min.js?ver=7.4.0" id="tie-scripts-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/ilightbox/lightbox.js?ver=1736811803" id="tie-js-ilightbox-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/themes/jannah/assets/js/sliders.min.js?ver=7.4.0" id="tie-js-sliders-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/shortcodes.js?ver=1736811803" id="tie-js-shortcodes-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/themes/jannah/assets/js/desktop.min.js?ver=7.4.0" id="tie-js-desktop-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/live-search.js?ver=1736811803" id="tie-js-livesearch-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/themes/jannah/assets/js/single.min.js?ver=7.4.0" id="tie-js-single-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/sdks/web/v16/OneSignalSDK.page.js?ver=1736811803" id="remote_sdk-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/br-news.js?ver=1736811803" id="tie-js-breaking-js" data-rocket-defer="" defer=""></script>
+		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Pular para o conteúdo</a>
+				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-right pojo-a11y-" role="navigation">
+			<div class="pojo-a11y-toolbar-toggle">
+				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Ferramentas de Acessibilidade" role="button">
+					<span class="pojo-sr-only sr-only">Barra de Ferramentas Aberta</span>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" width="1em">
+						<title>Ferramentas de Acessibilidade</title>
+						<path d="M50 8.1c23.2 0 41.9 18.8 41.9 41.9 0 23.2-18.8 41.9-41.9 41.9C26.8 91.9 8.1 73.2 8.1 50S26.8 8.1 50 8.1M50 0C22.4 0 0 22.4 0 50s22.4 50 50 50 50-22.4 50-50S77.6 0 50 0zm0 11.3c-21.4 0-38.7 17.3-38.7 38.7S28.6 88.7 50 88.7 88.7 71.4 88.7 50 71.4 11.3 50 11.3zm0 8.9c4 0 7.3 3.2 7.3 7.3S54 34.7 50 34.7s-7.3-3.2-7.3-7.3 3.3-7.2 7.3-7.2zm23.7 19.7c-5.8 1.4-11.2 2.6-16.6 3.2.2 20.4 2.5 24.8 5 31.4.7 1.9-.2 4-2.1 4.7-1.9.7-4-.2-4.7-2.1-1.8-4.5-3.4-8.2-4.5-15.8h-2c-1 7.6-2.7 11.3-4.5 15.8-.7 1.9-2.8 2.8-4.7 2.1-1.9-.7-2.8-2.8-2.1-4.7 2.6-6.6 4.9-11 5-31.4-5.4-.6-10.8-1.8-16.6-3.2-1.7-.4-2.8-2.1-2.4-3.9.4-1.7 2.1-2.8 3.9-2.4 19.5 4.6 25.1 4.6 44.5 0 1.7-.4 3.5.7 3.9 2.4.7 1.8-.3 3.5-2.1 3.9z"></path>					</svg>
+				</a>
+			</div>
+			<div class="pojo-a11y-toolbar-overlay">
+				<div class="pojo-a11y-toolbar-inner">
+					<p class="pojo-a11y-toolbar-title">Ferramentas de Acessibilidade</p>
+					
+					<ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+																			<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Aumentar o Texto</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Aumentar o Texto</span>								</a>
+							</li>
+							
+							<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Diminuir o Texto</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Diminuir o Texto</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Escala de Cinza</title><path fill="currentColor" d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z"></path></svg></span><span class="pojo-a11y-toolbar-text">Escala de Cinza</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Alto Contraste</title><path fill="currentColor" d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z"></path></svg></span><span class="pojo-a11y-toolbar-text">Alto Contraste</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" tabindex="-1" role="button">
+
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Contraste Negativo</title><path fill="currentColor" d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z"></path></svg></span><span class="pojo-a11y-toolbar-text">Contraste Negativo</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Luz de Cor de Fundo</title><path fill="currentColor" d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z"></path></svg></span><span class="pojo-a11y-toolbar-text">Luz de Cor de Fundo</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Links Sublinhados</title><path fill="currentColor" d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z"></path></svg></span><span class="pojo-a11y-toolbar-text">Links Sublinhados</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Fonte Legível</title><path fill="currentColor" d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Fonte Legível</span>								</a>
+							</li>
+																		<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1" role="button">
+								<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Reiniciar</title><path fill="currentColor" d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z"></path></svg></span>
+								<span class="pojo-a11y-toolbar-text">Reiniciar</span>
+							</a>
+						</li>
+					</ul>
+									</div>
+			</div>
+		</nav>
+		<script type="rocketlazyloadscript">
+				WebFontConfig ={
+					google:{
+						families: [ 'Poppins:600,regular:latin&display=swap' ]
+					}
+				};
+
+				(function(){
+					var wf   = document.createElement('script');
+					wf.src   = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+					wf.type  = 'text/javascript';
+					wf.defer = 'true';
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(wf, s);
+				})();
+			</script>		<script type="rocketlazyloadscript" data-minify="1" data-no-optimize="1" data-cfasync="false" data-rocket-type="text/javascript" data-rocket-src="https://maricainfo.com/wp-content/cache/min/1/wp-content/plugins/jannah-autoload-posts/js/autoload-parent.js?ver=1736811804" data-rocket-defer="" defer=""></script>
+				<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+		</script>
+
+		<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+			var c = document.body.className;
+			c = c.replace(/tie-no-js/, 'tie-js');
+			document.body.className = c;
+		</script>
+		<script type="c7933fe9ff0caa4e4adf0981-text/javascript">window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async="" src="https://maricainfo.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js" type="c7933fe9ff0caa4e4adf0981-text/javascript"></script>
+<script type="c7933fe9ff0caa4e4adf0981-text/javascript">var rocket_beacon_data = {"ajax_url":"https:\/\/maricainfo.com\/wp-admin\/admin-ajax.php","nonce":"f5b79cf2bc","url":"https:\/\/maricainfo.com\/2024\/06\/27\/marica-caso-de-viral-comunidade-escolar.html","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800}</script><script data-name="wpr-wpr-beacon" src="https://maricainfo.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js" async="" type="c7933fe9ff0caa4e4adf0981-text/javascript"></script>
+
+</body></html>

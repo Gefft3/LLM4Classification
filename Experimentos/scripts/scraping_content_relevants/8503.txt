@@ -1,0 +1,621 @@
+<html lang="pt-br" dir="ltr"><head>
+		
+			<!-- Google Tag Manager -->
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','G-157ZCE7BNF');</script>
+			<!-- End Google Tag Manager -->
+			
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta charset="utf-8">
+	<meta name="generator" content="Helix Ultimate - The Most Popular Joomla! Template Framework.">
+	<title>HOME - Portal SES/SC</title>
+	<link href="/images/fav/logo-gov-fav.png" rel="icon" type="image/vnd.microsoft.icon">
+	<link href="https://www.saude.sc.gov.br/index.php/pt/component/finder/search?format=opensearch&amp;Itemid=101" rel="search" title="OpenSearch Portal SES/SC" type="application/opensearchdescription+xml">
+<link href="/media/vendor/awesomplete/css/awesomplete.css?1.1.5" rel="stylesheet">
+	<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet">
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?9a4315fd57f703a6ae894dd42ac4b68f" rel="stylesheet">
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?9a4315fd57f703a6ae894dd42ac4b68f" rel="stylesheet">
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css?9a4315fd57f703a6ae894dd42ac4b68f" rel="stylesheet">
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css?9a4315fd57f703a6ae894dd42ac4b68f" rel="stylesheet">
+	<link href="/modules/mod_djimageslider/themes/default/css/djimageslider.css" rel="stylesheet">
+	<link href="/modules/mod_minifrontpage/tmpl/default/grid.min.css?v=3.0.2" rel="stylesheet">
+	<link href="/modules/mod_minifrontpage/tmpl/default/skin/default.min.css?v=3.0.2" rel="stylesheet">
+	<link href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet">
+	<link href="/templates/shaper_helixultimate/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/plugins/system/helixultimate/assets/css/system-j4.min.css" rel="stylesheet">
+	<link href="/media/system/css/joomla-fontawesome.min.css?7db18843ed65038876de7edaae0b4181" rel="stylesheet">
+	<link href="/templates/shaper_helixultimate/css/template.css" rel="stylesheet">
+	<link href="/templates/shaper_helixultimate/css/presets/preset2.css" rel="stylesheet">
+	<link href="/templates/shaper_helixultimate/css/custom.css" rel="stylesheet">
+	<style>.sp-page-builder .page-content #section-full-banner{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0 0 0 0 #ffffff;}#column-id-1709814707624{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1709814707645 {margin:0 0 0 0;}#sppb-addon-1709814707645 {box-shadow:0 0 0 0 #ffffff;padding:0 0 0 0;}.sp-page-builder .page-content #banner-mobile-home{min-height:468px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0 0 0 0 #ffffff;}#column-id-1718222335692{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1718222335696 {margin:0 0 0 0;}#sppb-addon-1718222335696 {box-shadow:0 0 0 0 #ffffff;padding:0 0 0 0;}.sp-page-builder .page-content #section-not-dest-tit{padding-top:50px;padding-right:0px;padding-bottom:20px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:1400px) {#section-not-dest-tit > .sppb-row-container { max-width:1320px;}}#column-id-1730895685574{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1718625685385 {margin:0 0 0 0;}#sppb-addon-1718625685385 {box-shadow:0 0 0 0 #ffffff;padding:0 0 0 0;}.sp-page-builder .page-content #section-not-dest{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0 0 0 0 #ffffff;}@media (min-width:1400px) {#section-not-dest > .sppb-row-container { max-width:1320px;}}#column-id-1730827589079{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1730827589083 {margin:0 0 0 0;}#sppb-addon-1730827589083 {box-shadow:0 0 0 0 #ffffff;padding:0 0 0 0;}.sp-page-builder .page-content #section-mais-not-home{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;box-shadow:0 0 0 0 #ffffff;}@media (min-width:1400px) {#section-mais-not-home > .sppb-row-container { max-width:1320px;}}#column-id-1730899004158{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1730899004162 {margin:30px 0px 80px 0px;}#sppb-addon-1730899004162 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-serv-dest{padding-top:30px;padding-right:0px;padding-bottom:30px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#f9f9f9;box-shadow:0 0 0 0 #ffffff;}#column-id-1709814707626{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1709817477221 {margin:0 0 0 0;}#sppb-addon-1709817477221 {box-shadow:0 0 0 0 #ffffff;padding:0 0 0 0;}.sp-page-builder .page-content #section-parallax-banner{padding-top:80px;padding-right:0;padding-bottom:80px;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-image:url(/images/banners/bg-parallax.jpg);background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:0 0;box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-parallax-banner > .sppb-row-overlay {mix-blend-mode:normal;}#column-id-1709819934477{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1709819934476 {margin:00;}#sppb-addon-1709819934476 {box-shadow:0 0 0 0 #ffffff;padding:30px 0 48px 0;}.sp-page-builder .page-content #section-serv-outros{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#f9f9f9;box-shadow:0 0 0 0 #ffffff;}#column-id-1709819934490{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1709819934485 {margin:0 0 0 0;}#sppb-addon-1709819934485 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-ouvidoria{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (min-width:1400px) {#section-ouvidoria > .sppb-row-container { max-width:1320px;}}#column-id-1709814707637{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1709819934494 {margin:0px 0px 30px 0px;}#sppb-addon-1709819934494 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-logo-footer{padding-top:30px;padding-right:0px;padding-bottom:30px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#f2f2f2;box-shadow:0 0 0 0 #ffffff;}#column-id-1709814707639{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1709819934497 {margin:30px 0 30px 0;}#sppb-addon-1709819934497 {box-shadow:0 0 0 0 #ffffff;padding:0 0 0 0;}.sp-page-builder .page-content #section-menu-footer{padding-top:30px;padding-right:0px;padding-bottom:30px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#f2f2f2;box-shadow:0 0 0 0 #ffffff;}#column-id-1709814707641{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1709819934502 {margin:30px 0px 30px 0px;}#sppb-addon-1709819934502 {box-shadow:0 0 0 0 #ffffff;}</style>
+	<style>.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Arial', sans-serif;text-decoration: none;}
+</style>
+	<style>.logo-image {height:36px;}.logo-image-phone {height:36px;}</style>
+	<style>@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
+	<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?647005fc12b79b3ca2bb30c059899d5994e3e34d"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.min.js?7db18843ed65038876de7edaae0b4181"></script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"bd68bb8b9a8140b32151805598c386e4","data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"MOD_FINDER_SEARCH_VALUE":"Pesquisar...","JLIB_JS_AJAX_ERROR_OTHER":"Ocorreu um erro ao buscar os dados JSON: c\u00f3digo de status HTTP %s.","JLIB_JS_AJAX_ERROR_PARSE":"Ocorreu um erro de execu\u00e7\u00e3o ao processar os seguintes dados JSON:<br><code style=\"color:inherit;white-space:pre-wrap;padding:0;margin:0;border:0;background:inherit;\">%s<\/code>","ERROR":"Erro","MESSAGE":"Mensagem","NOTICE":"Aviso","WARNING":"Aten\u00e7\u00e3o","JCLOSE":"Fechar","JOK":"OK","JOPEN":"Abrir"},"finder-search":{"url":"\/index.php\/pt\/component\/finder\/?task=suggestions.suggest&format=json&tmpl=component&Itemid=101"},"system.paths":{"root":"","rootFull":"https:\/\/www.saude.sc.gov.br\/","base":"","baseFull":"https:\/\/www.saude.sc.gov.br\/"}}</script>
+	<script src="/media/system/js/core.min.js?ee06c8994b37d13d4ad21c573bbffeeb9465c0e2"></script>
+	<script src="/media/system/js/showon-es5.min.js?0e293ba9dec283752e25f4e1d5eb0a6f8c07d3be" defer="" nomodule=""></script>
+	<script src="/media/com_finder/js/finder-es5.min.js?e6d3d1f535e33b5641e406eb08d15093e7038cc2" nomodule="" defer=""></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule="" defer=""></script>
+	<script src="/media/system/js/showon.min.js?f79c256660e2c0ca2179cf7f3168ea8143e1af82" type="module"></script>
+	<script src="/media/vendor/awesomplete/js/awesomplete.min.js?1.1.5" defer=""></script>
+	<script src="/media/com_finder/js/finder.min.js?a2c3894d062787a266d59d457ffba5481b639f64" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js?9a4315fd57f703a6ae894dd42ac4b68f"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js?9a4315fd57f703a6ae894dd42ac4b68f" defer=""></script>
+	<script src="/media/djextensions/jquery.easing-1.4.1/jquery.easing.min.js"></script>
+	<script src="/modules/mod_djimageslider/assets/js/slider.js?v=4.6.2"></script>
+	<script src="/templates/shaper_helixultimate/js/bootstrap.bundle.min.js"></script>
+	<script src="/templates/shaper_helixultimate/js/main.js"></script>
+	<script>;(function ($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': Joomla.getOptions('csrf.token')
+		}
+	});
+})(jQuery);</script>
+	<script>template="shaper_helixultimate";</script>
+	<meta property="og:title" content="HOME">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.saude.sc.gov.br/index.php/pt/noticias-geral/13912-hospital-misericordia-de-vila-itoupava-comemora-seu-centenario">
+	<meta property="og:site_name" content="Portal SES/SC">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="Portal SES/SC">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+	</head>
+	<body class="site helix-ultimate hu com-sppagebuilder view-page layout-default task-none itemid-101 pt-br ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
+
+		
+					<div class="sp-pre-loader">
+				<div class="sp-loader-bubble-loop"></div>			</div>
+		
+		<div class="body-wrapper">
+			<div class="body-innerwrapper">
+				
+	<div class="sticky-header-placeholder"></div>
+<div id="sp-top-bar">
+	<div class="container">
+		<div class="container-inner">
+			<div class="row">
+				<div id="sp-top1" class="col-lg-6">
+					<div class="sp-column text-center text-lg-start">
+						
+													<ul class="sp-contact-info"><li class="sp-contact-phone"><a href="https://estado.sc.gov.br/noticias/">AGÊNCIA DE NOTÍCIAS SECOM</a></li><li class="sp-contact-mobile"> | <a href="https://www.sc.gov.br/">PORTAL DE SERVIÇOS DO GOVERNO DO ESTADO</a></li><li class="sp-contact-email"> | <a href="https://doe.sea.sc.gov.br/v191/#/portal">DIÁRIO OFICIAL</a></li></ul>												
+					</div>
+				</div>
+
+				<div id="sp-top2" class="col-lg-6">
+					<div class="sp-column text-center text-lg-end">
+													<ul class="social-icons"><li class="social-icon-facebook"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/saudepublicasc" aria-label="Facebook"><span class="fab fa-facebook" aria-hidden="true"></span></a></li><li class="social-icon-twitter"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/i/flow/login?redirect_after_login=%2Fsaudepublicasc" aria-label="Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" style="width: 13.56px;position: relative;top: -1.5px;"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></a></li><li class="social-icon-youtube"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@secretariadeestadodasauded5173" aria-label="Youtube"><span class="fab fa-youtube" aria-hidden="true"></span></a></li><li class="social-icon-instagram"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/saude.sc/" aria-label="Instagram"><span class="fab fa-instagram" aria-hidden="true"></span></a></li></ul>						
+												
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<header id="sp-header">
+	<div class="container">
+		<div class="container-inner">
+			<div class="row">
+				<!-- Logo -->
+				<div id="sp-logo" class="col-auto">
+					<div class="sp-column">
+						<a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-left d-flex align-items-center" href="#" aria-hidden="true" title="Menu"><div class="burger-icon"><span></span><span></span><span></span></div></a><div class="logo"><a href="/">
+				<img class="logo-image " srcset="https://www.saude.sc.gov.br/images/logos/logo-sc.png 1x" src="https://www.saude.sc.gov.br/images/logos/logo-sc.png" alt="Portal SES/SC">
+				</a></div>						
+					</div>
+				</div>
+
+				<!-- Menu -->
+				<div id="sp-menu" class="col-auto flex-auto">
+					<div class="sp-column d-flex justify-content-end align-items-center">
+						<nav class="sp-megamenu-wrapper d-flex" role="navigation"><ul class="sp-megamenu-parent menu-animation-fade-up d-none d-lg-block"><li class="sp-menu-item current-item active"><a aria-current="page" href="/index.php/pt/">HOME</a></li><li class="sp-menu-item"><a href="/index.php/pt/servicos">SERVIÇOS</a></li><li class="sp-menu-item"><a href="/index.php/pt/ses-sc">SES/SC</a></li><li class="sp-menu-item sp-has-child"><span class=" sp-menu-heading">LEGISLAÇÃO</span><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/index.php/pt/legislacao/legislacao-geral">LEGISLAÇÃO GERAL</a></li><li class="sp-menu-item"><a href="/index.php/pt/legislacao/legislacao-por-assunto">LEGISLAÇÃO POR ASSUNTO</a></li></ul></div></div></li><li class="sp-menu-item"><a href="/index.php/pt/noticias">NOTÍCIAS</a></li><li class="sp-menu-item"><a href="/index.php/pt/contato">FALE CONOSCO</a></li><li class="sp-menu-item sp-has-child"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a href="/index.php/pt/ouvidoria/relatorio-anual">RELATÓRIO ANUAL</a></li></ul></div></div></li></ul></nav>						
+
+						<!-- Related Modules -->
+						<div class="d-none d-lg-flex header-modules align-items-center">
+															<div class="sp-module "><div class="sp-module-content">
+<form class="mod-finder js-finder-searchform form-search" action="/index.php/pt/component/finder/search?Itemid=101" method="get" role="search">
+    <label for="mod-finder-searchword0" class="visually-hidden finder">Busca</label><input type="text" name="q" id="mod-finder-searchword0" class="js-finder-search-query form-control" value="" placeholder="Pesquisar...">
+            <input type="hidden" name="Itemid" value="101"></form>
+</div></div>							
+													</div>
+
+						<!-- if offcanvas position right -->
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+				
+<section id="sp-section-1">
+
+				
+	
+<div class="row">
+	<div id="sp-title" class="col-lg-12 "><div class="sp-column "></div></div></div>
+				
+</section>
+<section id="sp-main-body">
+
+				
+	
+<div class="row">
+	
+<main id="sp-component" class="col-lg-12 ">
+	<div class="sp-column ">
+		<div id="system-message-container" aria-live="polite">
+	</div>
+
+
+		
+		
+<div id="sp-page-builder" class="sp-page-builder  page-1">
+
+	
+	<div class="page-content">
+				<div id="section-full-banner" class="sppb-section section-full-banner sppb-hidden-xs"><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1709814707624"><div id="column-id-1709814707624" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1709814707645" class="sppb-addon-wrapper"><div id="sppb-addon-1709814707645" class="clearfix "><div class="sppb-addon sppb-addon-module full-banner"><div class="sppb-addon-content"><div class="sp-module "><div class="sp-module-content">
+
+<div style="border: 0px !important;">
+    <div id="djslider-loader115" class="djslider-loader djslider-loader-override" data-animation="{&quot;auto&quot;:&quot;1&quot;,&quot;looponce&quot;:&quot;0&quot;,&quot;transition&quot;:&quot;easeInOutSine&quot;,&quot;css3transition&quot;:&quot;cubic-bezier(0.445, 0.050, 0.550, 0.950)&quot;,&quot;duration&quot;:400,&quot;delay&quot;:3400}" data-djslider="{&quot;id&quot;:115,&quot;slider_type&quot;:&quot;2&quot;,&quot;slide_size&quot;:&quot;240&quot;,&quot;visible_slides&quot;:1,&quot;direction&quot;:&quot;left&quot;,&quot;show_buttons&quot;:&quot;0&quot;,&quot;show_arrows&quot;:&quot;1&quot;,&quot;preload&quot;:&quot;800&quot;,&quot;css3&quot;:&quot;1&quot;}" tabindex="0">
+        <div id="djslider115" class="djslider djslider-override" style="height: 180px; width: 240px;">
+            <div id="slider-container115" class="slider-container">
+                <ul id="slider115" class="djslider-in">
+                                            <li style="margin: 0 0px 0px 0 !important; height: 180px; width: 240px;">
+                                                                                                <a href="/index.php/pt/servicos/concursos-e-selecoes" target="_self">
+                                                                <img class="dj-image" src="/images/banners/1900x400_Concursos.jpg" alt="BANNER FULL - PSS - HOME" style="width: 100%; height: auto;">
+                                                                    </a>
+                                                                                                                        <!-- Slide description area: START -->
+                                <div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+                                    <div class="slide-desc-in">
+                                        <div class="slide-desc-bg slide-desc-bg-override" style="background: #383838"></div>
+                                        <div class="slide-desc-text slide-desc-text-override">
+                                                                                            <div class="slide-title">
+                                                    <a style="color:#ffffff;" href="/index.php/pt/servicos/concursos-e-selecoes" target="_self">                                                        BANNER FULL - PSS - HOME                                                        </a>                                                </div>
+                                            
+                                                                                            <div class="slide-text" style="color:#ffffff;">
+                                                                                                                                                                                                                </div>
+                                            
+                                                                                            <a href="/index.php/pt/servicos/concursos-e-selecoes" style="color:#ffffff;" target="_self" class="readmore">Read more</a>
+                                                                                        <div style="clear: both"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Slide description area: END -->
+                            
+                        </li>
+                                            <li style="margin: 0 0px 0px 0 !important; height: 180px; width: 240px;">
+                                                                                            <img class="dj-image" src="/images/banners/1900x400-Dengue.png" alt="BANNER FULL - DENGUE - HOME" style="width: 100%; height: auto;">
+                                                                                                                        <!-- Slide description area: START -->
+                                <div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+                                    <div class="slide-desc-in">
+                                        <div class="slide-desc-bg slide-desc-bg-override" style="background: #383838"></div>
+                                        <div class="slide-desc-text slide-desc-text-override">
+                                                                                            <div class="slide-title" style="color:#ffffff;">
+                                                                                                            BANNER FULL - DENGUE - HOME                                                                                                        </div>
+                                            
+                                                                                            <div class="slide-text" style="color:#ffffff;">
+                                                                                                                                                                                                                </div>
+                                            
+                                                                                        <div style="clear: both"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Slide description area: END -->
+                            
+                        </li>
+                                            <li style="margin: 0 0px 0px 0 !important; height: 180px; width: 240px;">
+                                                                                            <img class="dj-image" src="/images/banners/1900-400-saude.jpg" alt="SAUDE SC" style="width: 100%; height: auto;">
+                                                                                                                        <!-- Slide description area: START -->
+                                <div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+                                    <div class="slide-desc-in">
+                                        <div class="slide-desc-bg slide-desc-bg-override" style="background: #383838"></div>
+                                        <div class="slide-desc-text slide-desc-text-override">
+                                                                                            <div class="slide-title" style="color:#ffffff;">
+                                                                                                            SAUDE SC                                                                                                        </div>
+                                            
+                                                                                            <div class="slide-text" style="color:#ffffff;">
+                                                                                                                                                                                                                </div>
+                                            
+                                                                                        <div style="clear: both"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Slide description area: END -->
+                            
+                        </li>
+                                            <li style="margin: 0 0px 0px 0 !important; height: 180px; width: 240px;">
+                                                                                                <a href="https://antigo.saude.sc.gov.br/" target="_blank">
+                                                                <img class="dj-image" src="/images/banners/aviso_a.jpg" alt="BANNER AVISO HOME" style="width: 100%; height: auto;">
+                                                                    </a>
+                                                                                                                        <!-- Slide description area: START -->
+                                <div class="slide-desc" style="bottom: 0%; left: 0%; width: 100%;">
+                                    <div class="slide-desc-in">
+                                        <div class="slide-desc-bg slide-desc-bg-override" style="background: #383838"></div>
+                                        <div class="slide-desc-text slide-desc-text-override">
+                                                                                            <div class="slide-title">
+                                                    <a style="color:#ffffff;" href="https://antigo.saude.sc.gov.br/" target="_blank">                                                        BANNER AVISO HOME                                                        </a>                                                </div>
+                                            
+                                                                                            <div class="slide-text" style="color:#ffffff;">
+                                                                                                                                                                                                                </div>
+                                            
+                                                                                            <a href="https://antigo.saude.sc.gov.br/" style="color:#ffffff;" target="_blank" class="readmore">Read more</a>
+                                                                                        <div style="clear: both"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Slide description area: END -->
+                            
+                        </li>
+                                    </ul>
+            </div>
+                            <div id="navigation115" class="navigation-container" style="top: 22.222222222222%; margin: 0 4.1666666666667%;">
+                                            <img id="prev115" class="prev-button showOnHover" src="/modules/mod_djimageslider/themes/_override/images/prev.png" alt="Previous" tabindex="0">
+                        <img id="next115" class="next-button showOnHover" src="/modules/mod_djimageslider/themes/_override/images/next.png" alt="Next" tabindex="0">
+                                                        </div>
+                                        <div id="cust-navigation115" class="navigation-container-custom ">
+                    <span class="load-button load-button-active" tabindex="0"></span><span class="load-button" tabindex="0"></span><span class="load-button" tabindex="0"></span><span class="load-button" tabindex="0"></span>                </div>
+                    </div>
+    </div>
+</div>
+<div class="djslider-end" style="clear: both" tabindex="0"></div></div></div></div></div></div></div></div></div></div></div></div></div><div id="banner-mobile-home" class="sppb-section banner-mobile-home sppb-hidden-md sppb-hidden-lg"><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1718222335692"><div id="column-id-1718222335692" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1718222335696" class="sppb-addon-wrapper"><div id="sppb-addon-1718222335696" class="sppb-hidden-md sppb-hidden-lg clearfix "><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content">
+
+<div style="border: 0px !important;">
+    <div id="djslider-loader232" class="djslider-loader djslider-loader-default" data-animation="{&quot;auto&quot;:&quot;1&quot;,&quot;looponce&quot;:&quot;1&quot;,&quot;transition&quot;:&quot;easeInOutExpo&quot;,&quot;css3transition&quot;:&quot;cubic-bezier(1.000, 0.000, 0.000, 1.000)&quot;,&quot;duration&quot;:400,&quot;delay&quot;:3400}" data-djslider="{&quot;id&quot;:232,&quot;slider_type&quot;:&quot;0&quot;,&quot;slide_size&quot;:240,&quot;visible_slides&quot;:&quot;1&quot;,&quot;direction&quot;:&quot;left&quot;,&quot;show_buttons&quot;:&quot;0&quot;,&quot;show_arrows&quot;:&quot;0&quot;,&quot;preload&quot;:&quot;800&quot;,&quot;css3&quot;:&quot;1&quot;}" tabindex="0">
+        <div id="djslider232" class="djslider djslider-default" style="height: 160px; width: 240px;">
+            <div id="slider-container232" class="slider-container">
+                <ul id="slider232" class="djslider-in">
+                                            <li style="margin: 0 0px 0px 0 !important; height: 160px; width: 240px;">
+                                                                                            <img class="dj-image" src="/images/banners/1000x1200_Mobile_Dengue.png" alt="DENGUE - HOME MOBILE" style="width: 100%; height: auto;">
+                                                                                        
+                        </li>
+                                    </ul>
+            </div>
+                                </div>
+    </div>
+</div>
+<div class="djslider-end" style="clear: both" tabindex="0"></div></div></div></div></div></div></div></div></div></div></div><section id="section-not-dest-tit" class="sppb-section section-not-dest-tit"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1730895685574"><div id="column-id-1730895685574" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1718625685385" class="sppb-addon-wrapper"><div id="sppb-addon-1718625685385" class="clearfix "><div class="sppb-addon sppb-addon-raw-html title-noticias-home"><div class="sppb-addon-content"><section class="content-article"><h3><strong>NOTÍCIAS</strong><br>EM DESTAQUE</h3></section></div></div></div></div></div></div></div></div></div></section><section id="section-not-dest" class="sppb-section section-not-dest"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1730827589079"><div id="column-id-1730827589079" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1730827589083" class="sppb-addon-wrapper"><div id="sppb-addon-1730827589083" class="clearfix "><div class="sppb-addon sppb-addon-module not-dest"><div class="sppb-addon-content">
+<div class="mfp_default_skin_default mfp_mid_283">  
+    <div class="mfp-grid">  
+                    <div class="mfp-col-xs-12 mfp-col-sm-6 mfp-col-md-4 mfp_default_item">
+                    <div>
+                                            <a href="/index.php/pt/component/content/article/transparencia-em-saude-portal-de-informacoes-do-governo-do-estado-conta-com-novos-paineis?catid=84&amp;Itemid=101" class="mfp_thumb_pos_top" itemprop="url"><img src="/images/thumbnails/mod_minifrontpage/5812_283.jpg" width="400" height="200" alt="Transparência em Saúde: Portal de Informações do Governo do Estado conta com novos painéis"></a>
+                                                            <h4 class="mfp_default_title">    
+                        <a href="/index.php/pt/component/content/article/transparencia-em-saude-portal-de-informacoes-do-governo-do-estado-conta-com-novos-paineis?catid=84&amp;Itemid=101" itemprop="url">
+                            Transparência em Saúde: Portal de Informações do Governo do Estado conta com...                        </a>
+                    </h4>
+                                        <span class="mfp_date">13 Janeiro 2025</span>                                            </div>
+                </div>
+                                <div class="mfp-col-xs-12 mfp-col-sm-6 mfp-col-md-4 mfp_default_item">
+                    <div>
+                                            <a href="/index.php/pt/component/content/article/janeiro-branco-paciente-oncologico-encontra-proposito-na-saude-mental-e-cria-marca?catid=84&amp;Itemid=101" class="mfp_thumb_pos_top" itemprop="url"><img src="/images/thumbnails/mod_minifrontpage/5810_283.jpg" width="400" height="200" alt="Janeiro Branco: Paciente oncológico encontra propósito na Saúde Mental e cria marca"></a>
+                                                            <h4 class="mfp_default_title">    
+                        <a href="/index.php/pt/component/content/article/janeiro-branco-paciente-oncologico-encontra-proposito-na-saude-mental-e-cria-marca?catid=84&amp;Itemid=101" itemprop="url">
+                            Janeiro Branco: Paciente oncológico encontra propósito na Saúde Mental e cria...                        </a>
+                    </h4>
+                                        <span class="mfp_date">13 Janeiro 2025</span>                                            </div>
+                </div>
+                                <div class="mfp-col-xs-12 mfp-col-sm-6 mfp-col-md-4 mfp_default_item">
+                    <div>
+                                            <a href="/index.php/pt/component/content/article/secretario-visita-hospital-celso-ramos-e-acompanha-obras-de-revitalizacao?catid=84&amp;Itemid=101" class="mfp_thumb_pos_top" itemprop="url"><img src="/images/thumbnails/mod_minifrontpage/5808_283.jpg" width="400" height="200" alt="Secretário visita Hospital Celso Ramos e acompanha obras de revitalização"></a>
+                                                            <h4 class="mfp_default_title">    
+                        <a href="/index.php/pt/component/content/article/secretario-visita-hospital-celso-ramos-e-acompanha-obras-de-revitalizacao?catid=84&amp;Itemid=101" itemprop="url">
+                            Secretário visita Hospital Celso Ramos e acompanha obras de revitalização                        </a>
+                    </h4>
+                                        <span class="mfp_date">10 Janeiro 2025</span>                                            </div>
+                </div>
+                                <div class="mfp-col-xs-12 mfp-col-sm-6 mfp-col-md-4 mfp_default_item">
+                    <div>
+                                            <a href="/index.php/pt/component/content/article/metapneumovirus-humano-um-virus-respiratorio-comum-que-circula-ha-mais-de-20-anos?catid=84&amp;Itemid=101" class="mfp_thumb_pos_top" itemprop="url"><img src="/images/thumbnails/mod_minifrontpage/5807_283.jpg" width="400" height="200" alt="Metapneumovírus humano: um vírus respiratório comum que circula há mais de 20 anos"></a>
+                                                            <h4 class="mfp_default_title">    
+                        <a href="/index.php/pt/component/content/article/metapneumovirus-humano-um-virus-respiratorio-comum-que-circula-ha-mais-de-20-anos?catid=84&amp;Itemid=101" itemprop="url">
+                            Metapneumovírus humano: um vírus respiratório comum que circula há mais de 20...                        </a>
+                    </h4>
+                                        <span class="mfp_date">10 Janeiro 2025</span>                                            </div>
+                </div>
+                                <div class="mfp-col-xs-12 mfp-col-sm-6 mfp-col-md-4 mfp_default_item">
+                    <div>
+                                            <a href="/index.php/pt/component/content/article/escola-de-saude-publica-de-sc-implementa-politicas-de-educacao-e-qualifica-profissionais-em-2024?catid=84&amp;Itemid=101" class="mfp_thumb_pos_top" itemprop="url"><img src="/images/thumbnails/mod_minifrontpage/5804_283.jpg" width="400" height="200" alt="Escola de Saúde Pública de SC implementa políticas de educação e qualifica profissionais em 2024"></a>
+                                                            <h4 class="mfp_default_title">    
+                        <a href="/index.php/pt/component/content/article/escola-de-saude-publica-de-sc-implementa-politicas-de-educacao-e-qualifica-profissionais-em-2024?catid=84&amp;Itemid=101" itemprop="url">
+                            Escola de Saúde Pública de SC implementa políticas de educação e qualifica...                        </a>
+                    </h4>
+                                        <span class="mfp_date">10 Janeiro 2025</span>                                            </div>
+                </div>
+                                <div class="mfp-col-xs-12 mfp-col-sm-6 mfp-col-md-4 mfp_default_item">
+                    <div>
+                                            <a href="/index.php/pt/component/content/article/parceria-entre-a-ses-e-o-municipio-de-palhoca-ira-impulsionar-cirurgias-de-catarata-no-hospital-de-olhos-lions?catid=84&amp;Itemid=101" class="mfp_thumb_pos_top" itemprop="url"><img src="/images/thumbnails/mod_minifrontpage/5803_283.jpg" width="400" height="200" alt="Parceria entre a SES e o município de Palhoça irá impulsionar cirurgias de catarata no Hospital de Olhos Lions"></a>
+                                                            <h4 class="mfp_default_title">    
+                        <a href="/index.php/pt/component/content/article/parceria-entre-a-ses-e-o-municipio-de-palhoca-ira-impulsionar-cirurgias-de-catarata-no-hospital-de-olhos-lions?catid=84&amp;Itemid=101" itemprop="url">
+                            Parceria entre a SES e o município de Palhoça irá impulsionar cirurgias de...                        </a>
+                    </h4>
+                                        <span class="mfp_date">09 Janeiro 2025</span>                                            </div>
+                </div>
+                            </div>
+</div> 
+
+
+</div></div></div></div></div></div></div></div></div></section><section id="section-mais-not-home" class="sppb-section section-mais-not-home"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1730899004158"><div id="column-id-1730899004158" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1730899004162" class="sppb-addon-wrapper"><div id="sppb-addon-1730899004162" class="clearfix "><div class="sppb-addon sppb-addon-module mais-not-home"><div class="sppb-addon-content">
+<div id="mod-custom284" class="mod-custom custom">
+    <div class="card my-card">
+<div class="row">
+<div class="col-sm-12 py-2 text-center"><a href="/index.php/pt/noticias/principais-noticias" class="btn btn-outline-secondary"> <i class="fas fa-arrow-circle-right"></i> Mais Notícias </a></div>
+</div>
+</div></div>
+</div></div></div></div></div></div></div></div></div></section><div id="section-serv-dest" class="sppb-section section-serv-dest"><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1709814707626"><div id="column-id-1709814707626" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1709817477221" class="sppb-addon-wrapper"><div id="sppb-addon-1709817477221" class="clearfix "><div class="sppb-addon sppb-addon-module container serv-dest"><div class="sppb-addon-content"><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom116" class="mod-custom custom">
+    <section class="section-serv-home">
+<div class="container">
+<div class="row">
+<h2><strong>NOSSOS</strong> SERVIÇOS</h2>
+</div>
+</div>
+<div class="container">
+<div class="row brd-serv-bottom">
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right">
+<a href="https://www.vigilanciasanitaria.sc.gov.br/index.php/servicos/profissionais-ses/protocolo/alvaras-sanitarios.html" target="_blank" rel="noopener" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-paste"></i> <strong>ALVARÁS SANITÁRIOS - VISA</strong></p>
+<p class="txt-serv-legend text-start">Alvará Sanitário - VISA/SC</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="/index.php/pt/servicos/concursos-e-selecoes" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-users"></i> <strong>CONCURSOS E SELEÇÕES</strong></p>
+<p class="txt-serv-legend text-start">Consulte os editais em aberto</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://listadeespera.saude.sc.gov.br/#/home" target="_blank" rel="noopener" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-users"></i> <strong>LISTA DE ESPERA SUS</strong></p>
+<p class="txt-serv-legend text-start">Consulta das listas de espera no SUS</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid"><a href="/index.php/pt/assistencia-farmaceutica/componente-especializado-da-assistencia-farmaceutica-ceaf" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-file-signature"></i> <strong>PROTOCOLOS CLÍNICOS</strong></p>
+<p class="txt-serv-legend text-start">Protocolos Clínicos, Ter, Resumos e Formulários</p>
+</a></div>
+</div>
+<div class="row">
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="/index.php/pt/ses-sc/unidades-de-saude" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-hospital-symbol"></i> <strong>UNIDADES DE SAÚDE</strong></p>
+<p class="txt-serv-legend text-start">Unidades de Saúde da Rede Pública</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="/index.php/pt/servicos/media-e-alta-complexidadeok/cirurgias-eletivas" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-hand-holding-medical"></i> <strong>CIRURGIAS ELETIVAS</strong></p>
+<p class="txt-serv-legend text-start">Campanhas Estaduais e Municipais</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://sctransplantes.saude.sc.gov.br/index.php/pt/" rel="noopener" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-heartbeat"></i> <strong>SC TRANSPLANTES</strong></p>
+<p class="txt-serv-legend text-start">Central Estadual de Transplantes de SC</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid"><a href="/index.php/pt/assistencia-farmaceutica/medicamentos-oncologicos" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-pills"></i> <strong>MEDICAMENTOS ONCOLÓGICOS</strong></p>
+<p class="txt-serv-legend text-start">Veja mais...</p>
+</a></div>
+</div>
+</div>
+</section></div>
+</div></div></div></div></div></div></div></div></div></div></div></div><div id="section-parallax-banner" class="sppb-section section-parallax-banner" data-sppb-parallax="on"><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1709819934477"><div id="column-id-1709819934477" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1709819934476" class="sppb-addon-wrapper"><div id="sppb-addon-1709819934476" class="clearfix "><div class="sppb-addon sppb-addon-module container parallax-banner"><div class="sppb-addon-content"><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom120" class="mod-custom custom">
+    <div class="parallax-section">
+<div class="floating-content">
+<h1>REDES DE ATENÇÃO À SAÚDE</h1>
+<p>A Garantia da Integridade no cuidado com o povo catarinense</p>
+<a href="/index.php/pt/servicos/redes-de-atencao-a-saude-ras" target="_self" rel="nofollow noopener" class="btn btn-floating mybtn"> <i class="fas fa-arrow-circle-right"></i> CONTATOS E ENDEREÇOS DAS REDES DE ATENÇÃO </a></div>
+</div></div>
+</div></div></div></div></div></div></div></div></div></div></div></div><div id="section-serv-outros" class="sppb-section section-serv-outros"><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1709819934490"><div id="column-id-1709819934490" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1709819934485" class="sppb-addon-wrapper"><div id="sppb-addon-1709819934485" class="clearfix "><div class="sppb-addon sppb-addon-module serv-outros"><div class="sppb-addon-content"><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom121" class="mod-custom custom">
+    <div class="container">
+<div class="row brd-serv-bottom">
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="/index.php/pt/servicos/residencias-em-saude/" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-user-nurse"></i> <strong>RESIDÊNCIA EM SAÚDE</strong></p>
+<p class="txt-serv-legend text-start">Programa de Residência Médica</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="/index.php/pt/servicos/comunidades-terapeuticas" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-hospital-symbol"></i> <strong>COMUNIDADES TERAPÊUTICAS</strong></p>
+<p class="txt-serv-legend text-start">Programa de Residência Médica</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://dive.sc.gov.br/index.php/doencas-e-agravos" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-head-side-cough"></i> <strong>DOENÇAS E AGRAVOS</strong></p>
+<p class="txt-serv-legend text-start">Doenças e Agravos - DIVE</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid"><a href="https://ciatox.saude.sc.gov.br/" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-spider"></i> <strong>CIATOX SC</strong></p>
+<p class="txt-serv-legend text-start">Centro de Informação e Assistência Toxicológica</p>
+</a></div>
+</div>
+<div class="row">
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="/index.php/pt/servicos/planejamento-em-saude" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-hand-holding-heart"></i> <strong>PLANEJAMENTO EM SAÚDE</strong></p>
+<p class="txt-serv-legend text-start">Planejamento em saúde no SUS</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://www.vigilanciasanitaria.sc.gov.br/index.php/servicos/profissionais-ses/saude-ambiental/vigiagua.html" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-water"></i> <strong>QUALIDADE DA ÁGUA</strong></p>
+<p class="txt-serv-legend text-start">Programa Nacional de Vigilância da Qualidade da Água</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://dive.sc.gov.br/index.php/component/sppagebuilder/?view=page&amp;id=765" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-syringe"></i> <strong>CALENDÁRIO DE VACINAÇÃO</strong></p>
+<p class="txt-serv-legend text-start">Calendário de Vacinação DIVE</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid"><a href="/index.php/pt/legislacao/legislacao-geral/deliberacoes/deliberacoes-2024" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-archive"></i> <strong>DELIBERAÇÕES - CIB</strong></p>
+<p class="txt-serv-legend text-start">Veja mais...</p>
+</a></div>
+</div>
+</div></div>
+</div></div></div></div></div></div></div></div></div></div></div></div><section id="section-ouvidoria" class="sppb-section section-ouvidoria"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1709814707637"><div id="column-id-1709814707637" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1709819934494" class="sppb-addon-wrapper"><div id="sppb-addon-1709819934494" class="clearfix "><div class="sppb-addon sppb-addon-module ouvidoria"><div class="sppb-addon-content"><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom122" class="mod-custom custom">
+    <section class="content-article">
+<div class="row">
+<h3><strong>OUVIDORIA</strong> DA SAÚDE</h3>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://ouvidor.saude.gov.br/public/form-web/registrar" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-regular fa-comments"></i> <strong>SUGESTÕES E INFORMAÇÕES</strong></p>
+<p class="txt-serv-legend text-start">Veja mais...</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://ouvidor.saude.gov.br/public/form-web/registrar" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-regular fa-thumbs-up"></i> <i class="fas fa-thumbs-down"></i> <strong>ELOGIO OU RECLAMAÇÃO</strong></p>
+<p class="txt-serv-legend text-start">Veja mais...</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid brd-serv-right"><a href="https://ouvidor.saude.gov.br/public/form-web/registrar" target="_blank" rel="noopener" class="btn btn-lg">
+<p class="txt-serv text-start"><i class="fas fa-hand-point-up"></i> <strong>SOLICITAÇÃO</strong></p>
+<p class="txt-serv-legend text-start">Veja mais...</p>
+</a></div>
+<div class="col-sm-12 col-md-6 col-lg-3 d-grid"><a href="/index.php/pt/ouvidoria">
+<p class="txt-serv text-start"><i class="fas fa-hand-holding"></i> <strong>OUVIDORIA DA SES/SC</strong></p>
+<p class="txt-serv-legend text-start">Veja mais...</p>
+</a></div>
+</div>
+</section></div>
+</div></div></div></div></div></div></div></div></div></div></div></section><div id="section-logo-footer" class="sppb-section section-logo-footer"><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1709814707639"><div id="column-id-1709814707639" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1709819934497" class="sppb-addon-wrapper"><div id="sppb-addon-1709819934497" class="clearfix "><div class="sppb-addon sppb-addon-module logo-footer"><div class="sppb-addon-content"><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom123" class="mod-custom custom">
+    <div class="container">
+<div class="row">
+<div class="col-md-3"><img src="/images/logos/logo-gov.png" alt="SES SC"></div>
+
+</div>
+</div></div>
+</div></div></div></div></div></div></div></div></div></div></div></div><div id="section-menu-footer" class="sppb-section section-menu-footer"><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1709814707641"><div id="column-id-1709814707641" class="sppb-column"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1709819934502" class="sppb-addon-wrapper"><div id="sppb-addon-1709819934502" class="clearfix "><div class="sppb-addon sppb-addon-module menu-footer"><div class="sppb-addon-content"><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom124" class="mod-custom custom">
+    <div class="container">
+<div class="row meufooter">
+<div class="col-sm-12 col-md-3 d-grid logo-menu-footer"><img src="/images/logos/2023_marca_ses%20300px.png" alt="SES SC">
+<h5>saude.sc.gov.br</h5>
+<ul>
+<li><a href="https://www.vigilanciasanitaria.sc.gov.br/" target="_blank" rel="noopener"> Vigilância Sanitária </a></li>
+<li><a href="https://dive.sc.gov.br/" target="_blank" rel="noopener"> Vigilância Epidemiológica </a></li>
+<li><a href="https://esp.saude.sc.gov.br/" target="_blank" rel="noopener"> Escola de Saúde Pública </a></li>
+<li><a href="https://sctransplantes.saude.sc.gov.br/" target="_blank" rel="noopener"> SC Transplantes </a></li>
+<li><a href="/index.php/pt/ses-sc/unidades-de-saude" target="_self"> Hospitais da Rede Pública </a></li>
+</ul>
+</div>
+<div class="col-sm-12 col-md-3 d-grid">
+<h5>Serviços</h5>
+<ul>
+<li><a href="/index.php/pt/servicos/redes-de-atencao-a-saude-ras" target="_self"> Redes de Atenção à Saúde </a></li>
+<li><a href="/index.php/pt/servicos/aps/pt/" target="_self"> Atenção Primária à Saúde </a></li>
+<li><a href="/index.php/pt/servicos/concursos-e-selecoes/processos-seletivos-ses" target="_self"> Processos Seletivos </a></li>
+<li><a href="/index.php/pt/servicos/termo-de-uso-e-politica-de-cookies-e-de-privacidade" target="_self"> Termo de Uso</a></li>
+<li><a href="/index.php/pt/legislacao/legislacao-geral/lgpd-no-ambito-da-ses" target="_self"> LGPD</a></li>
+</ul>
+<h5>Legislação</h5>
+<ul>
+<li><a href="/index.php/pt/legislacao/legislacao-geral/deliberacoes" target="_self"> Deliberações CIB </a></li>
+<li><a href="/index.php/pt/component/edocman/legislacao/legislacao-geral/notas-tecnicas" target="_self"> Notas Técnicas </a></li>
+<li><a href="/index.php/pt/legislacao/legislacao-geral/portarias" target="_self"> Portarias </a></li>
+</ul>
+</div>
+<div class="col-sm-12 col-md-3 d-grid">
+<h5>sc.gov.br</h5>
+<ul>
+<li><a href="https://listadeespera.saude.sc.gov.br/" target="_blank" rel="noopener"> Fila de Espera SUS </a></li>
+<li><a href="https://estado.sc.gov.br/noticias/" target="_blank" rel="noopener"> Agências de Notícias Secom </a></li>
+<li><a href="https://www.sc.gov.br/" target="_blank" rel="noopener"> Portal de Serviços </a></li>
+<li><a href="https://www.transparencia.sc.gov.br/" target="_blank" rel="noopener"> Portal da Transparência </a></li>
+<li><a href="https://portal.doe.sea.sc.gov.br/" target="_blank" rel="noopener"> Diário Oficial do Estado </a></li>
+<li><a href="https://estado.sc.gov.br/orgaos-do-governo/" target="_blank" rel="noopener"> Órgãos do Governo </a></li>
+<li><a href="https://estado.sc.gov.br/" target="_blank" rel="noopener"> Conheça Santa Catarina </a></li>
+<li><a href="https://dados.sc.gov.br/" target="_blank" rel="noopener"> Portal de Dados Abertos</a></li>
+<li><a href="https://www.gov.br/saude/pt-br" target="_blank" rel="noopener"> Ministério da Saúde </a></li>
+<li><a href="https://www.gov.br/anvisa/pt-br" target="_blank" rel="noopener"> Anvisa </a></li>
+</ul>
+</div>
+<div class="col-sm-12 col-md-3 d-grid">
+<h5>Contato</h5>
+<ul>
+<li>48 3664.9000</li>
+<li>Atendimento das 13h às 19h</li>
+</ul>
+<h5><span style="vertical-align: inherit;">Apoio ao Site</span></h5>
+<ul>
+<li><a href="#" target="_self"> 48 3664.9900 </a></li>
+<li><a href="#" target="_self"> nads@saude.sc.gov.br </a></li>
+</ul>
+<h5><span style="vertical-align: inherit;">ASCOM</span></h5>
+<ul>
+<li><a href="#" target="_self"> 48 3664.8834 </a></li>
+<li><a href="#" target="_self"> imprensa@saude.sc.gov.br </a></li>
+</ul>
+</div>
+</div>
+</div></div>
+</div></div></div></div></div></div></div></div></div></div></div></div>
+				<a class="sp-pagebuilder-page-edit" href="/index.php/pt/edit/1">
+							<span class="fas fa-edit" area-hidden="true"></span> Editar Página					</a>
+			</div>
+</div>
+
+
+
+			</div>
+</main>
+</div>
+				
+</section>
+<footer id="sp-footer">
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-footer1" class="col-lg-12 "><div class="sp-column "><span class="sp-copyright">Secretaria de Estado da Saúde - Rua Esteves Júnior, 160 - Centro - CEP: 88.015-130 - Florianópolis - Fone: (48) 3664-9000 - Atendimento ao público das 13h às 19h © 2024 Desenvolvido por DTIG</span></div></div></div>
+							</div>
+			</div>
+			
+</footer>			</div>
+		</div>
+
+		<!-- Off Canvas Menu -->
+		<div class="offcanvas-overlay"></div>
+		<!-- Rendering the offcanvas style -->
+		<!-- If canvas style selected then render the style -->
+		<!-- otherwise (for old templates) attach the offcanvas module position -->
+					<div class="offcanvas-menu">
+	<div class="d-flex align-items-center p-3 pt-4">
+		<a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-left d-flex align-items-center" href="#" aria-hidden="true" title="Menu"><div class="burger-icon"><span></span><span></span><span></span></div></a><div class="logo"><a href="/">
+				<img class="logo-image " srcset="https://www.saude.sc.gov.br/images/logos/logo-sc.png 1x" src="https://www.saude.sc.gov.br/images/logos/logo-sc.png" alt="Portal SES/SC">
+				</a></div>		<a href="#" class="close-offcanvas" aria-label="Close Off-canvas">
+			<div class="burger-icon">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</a>
+	</div>
+	<div class="offcanvas-inner">
+		<div class="d-flex header-modules mb-3">
+							<div class="sp-module "><div class="sp-module-content">
+<form class="mod-finder js-finder-searchform form-search" action="/index.php/pt/component/finder/search?Itemid=101" method="get" role="search">
+    <label for="mod-finder-searchword0" class="visually-hidden finder">Busca</label><input type="text" name="q" id="mod-finder-searchword0" class="js-finder-search-query form-control" value="" placeholder="Pesquisar...">
+            <input type="hidden" name="Itemid" value="101"></form>
+</div></div>			
+					</div>
+		
+					<div class="sp-module "><div class="sp-module-content"><ul class="menu nav-pills">
+<li class="item-133"><a href="/index.php/pt/servicos/assistencia-farmaceutica-diaf/pt/">ASSISTÊNCIA FARMACÊUTICA - DIAF</a></li><li class="item-134"><a href="/index.php/pt/servicos/aps/pt/">ATENÇÃO PRIMÁRIA À SAÚDE - APS</a></li><li class="item-174"><a href="/index.php/pt/servicos/conselhos-e-comissoes/comissaointergestores-bipartite-cib/pt/">COMISSÃO INTERGESTORES BIPARTITE - CIB</a></li><li class="item-136"><a href="/index.php/servicos/conselhos-e-comissoes/pt/">COMITÊS, CONSELHOS E COMISSÕES</a></li><li class="item-182"><a href="/index.php/pt/servicos/esp/pt/">ESCOLA DE SAÚDE PÚBLICA - ESP</a></li><li class="item-138"><a href="/index.php/pt/servicos/media-e-alta-complexidadeok/">MÉDIA E ALTA COMPLEXIDADE</a></li><li class="item-157 menu-deeper menu-parent"><span class="nav-header ">MENU PRINCIPAL<span class="menu-toggler"></span></span><ul class="menu-child"><li class="item-151"><a href="/index.php/pt/menu-principal/pagina-inicial">PÁGINA INICIAL</a></li><li class="item-152"><a href="/index.php/pt/menu-principal/nossos-servicos">NOSSOS SERVIÇOS</a></li><li class="item-154"><a href="/index.php/pt/menu-principal/legislacao-geral">LEGISLAÇÃO GERAL</a></li><li class="item-156"><a href="/index.php/pt/menu-principal/fale-conosco">FALE CONOSCO</a></li><li class="item-155"><a href="/index.php/pt/menu-principal/principais-noticias">PRINCIPAIS NOTÍCIAS</a></li><li class="item-153"><a href="/index.php/pt/menu-principal/sobre-a-ses">SOBRE A SES</a></li></ul></li><li class="item-189"><a href="/index.php/pt/servicos/organizacoes-sociais/pt/">ORGANIZAÇÕES SOCIAIS - OS</a></li><li class="item-139 menu-deeper menu-parent"><a href="/index.php/pt/programacao-pactuada-integrada">PROGRAMAÇÃO PACTUADA INTEGRADA - PPI<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-691"><a href="/index.php/pt/programacao-pactuada-integrada/encontro-de-contas-das-altas-complexidades">ENCONTRO DE CONTAS DAS ALTAS COMPLEXIDADES</a></li><li class="item-692 menu-divider menu-deeper menu-parent"><span class="menu-separator ">TERMOS DE COMPROMISSO - ASSISTÊNCIA EM AC<span class="menu-toggler"></span></span>
+<ul class="menu-child"><li class="item-693"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-assistencia-em-ac/cardiovascular">CARDIOVASCULAR</a></li><li class="item-694"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-assistencia-em-ac/cirurgia-bariatrica">CIRURGIA BARIÁTRICA</a></li><li class="item-695"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-assistencia-em-ac/neurologia">NEUROLOGIA</a></li><li class="item-696"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-assistencia-em-ac/oncologia">ONCOLOGIA</a></li><li class="item-697"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-assistencia-em-ac/saude-auditiva">SAÚDE AUDITIVA</a></li><li class="item-698"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-assistencia-em-ac/terapia-renal-substitutiva">TERAPIA RENAL SUBSTITUTIVA</a></li><li class="item-699"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-assistencia-em-ac/traumato-ortopedia">TRAUMATO ORTOPEDIA</a></li></ul></li><li class="item-700 menu-divider menu-deeper menu-parent"><span class="menu-separator ">TERMOS DE COMPROMISSO - HABILITAÇÃO ESTADUAL<span class="menu-toggler"></span></span>
+<ul class="menu-child"><li class="item-701"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-habilitacao-estadual/cardiologia">CARDIOLOGIA</a></li><li class="item-702"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-habilitacao-estadual/cirurgia-bariatrica">CIRURGIA BARIÁTRICA</a></li><li class="item-703"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-habilitacao-estadual/neurocirurgia">NEUROCIRURGIA</a></li><li class="item-704"><a href="/index.php/pt/programacao-pactuada-integrada/termos-de-compromisso-habilitacao-estadual/ortopedia">ORTOPEDIA</a></li></ul></li></ul></li><li class="item-221"><a href="/index.php/pt/recursos-humanos">RECURSOS HUMANOS</a></li><li class="item-140"><a href="/index.php/pt/servicos/redes-de-atencao-a-saude-ras">REDES DE ATENÇÃO À SAÚDE - RAS</a></li><li class="item-141"><a href="/index.php/servicos/regulacao/pt/">REGULAÇÃO - SUR</a></li><li class="item-249"><a href="/index.php/pt/servicos/superintendencia-de-urgencia-e-emergencia-sue-main/pt/">SUPERINTENDÊNCIA DE URGÊNCIA E EMERGÊNCIA - SUE</a></li></ul>
+</div></div>		
+		
+		
+					<ul class="social-icons"><li class="social-icon-facebook"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/saudepublicasc" aria-label="Facebook"><span class="fab fa-facebook" aria-hidden="true"></span></a></li><li class="social-icon-twitter"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/i/flow/login?redirect_after_login=%2Fsaudepublicasc" aria-label="Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" style="width: 13.56px;position: relative;top: -1.5px;"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></a></li><li class="social-icon-youtube"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@secretariadeestadodasauded5173" aria-label="Youtube"><span class="fab fa-youtube" aria-hidden="true"></span></a></li><li class="social-icon-instagram"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/saude.sc/" aria-label="Instagram"><span class="fab fa-instagram" aria-hidden="true"></span></a></li></ul>		
+					
+				
+		<!-- custom module position -->
+		
+	</div>
+</div>				
+
+		
+		
+
+		<!-- Go to top -->
+					<a href="#" class="sp-scroll-up" aria-label="Scroll Up"><span class="fas fa-angle-up" aria-hidden="true"></span></a>
+					
+</body></html>

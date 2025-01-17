@@ -1,0 +1,552 @@
+<html lang="pt-BR"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="https://www.omossoroense.com.br/xmlrpc.php">
+<title>Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola – Jornal O Mossoroense</title>
+<meta name="robots" content="max-image-preview:large">
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<!-- Better Open Graph, Schema.org & Twitter Integration -->
+<meta property="og:locale" content="pt_br">
+<meta property="og:site_name" content="Jornal O Mossoroense">
+<meta property="og:url" content="https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/">
+<meta property="og:title" content="Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola">
+<meta property="og:image" content="https://www.omossoroense.com.br/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-15-at-09.47.15-1024x472.jpeg">
+<meta property="article:section" content="Regional">
+<meta property="og:description" content="A Secretaria de Estado da Saúde Pública (Sesap) convocou para esta sexta-feira (14) o 1° Dia S contra o sarampo e a rubéola no Rio Grande do Norte em 2024. A ação visa mobilizar gestores de saúde municipais para a busca ativa de casos suspeitos das d">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/">
+<meta name="twitter:title" content="Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola">
+<meta name="twitter:description" content="A Secretaria de Estado da Saúde Pública (Sesap) convocou para esta sexta-feira (14) o 1° Dia S contra o sarampo e a rubéola no Rio Grande do Norte em 2024. A ação visa mobilizar gestores de saúde municipais para a busca ativa de casos suspeitos das d">
+<meta name="twitter:image" content="https://www.omossoroense.com.br/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-15-at-09.47.15-1024x472.jpeg">
+<!-- / Better Open Graph, Schema.org & Twitter Integration. -->
+<link rel="dns-prefetch" href="//platform-api.sharethis.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Feed para Jornal O Mossoroense »" href="https://www.omossoroense.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Jornal O Mossoroense »" href="https://www.omossoroense.com.br/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Jornal O Mossoroense » Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola" href="https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.omossoroense.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+img.wp-smiley, img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 0.07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css' href='https://www.omossoroense.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.omossoroense.com.br/wp-content/cache/wpfc-minified/jpzpxzw4/calfi.css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<!-- <link rel='stylesheet' id='ms-main-css' href='https://www.omossoroense.com.br/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=3.5.9' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='ms-custom-css' href='https://www.omossoroense.com.br/wp-content/uploads/masterslider/custom.css?ver=2.3' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.omossoroense.com.br/wp-content/cache/wpfc-minified/h457dh1/calfi.css" media="all">
+<link rel="stylesheet" id="better-framework-main-fonts-css" href="https://fonts.googleapis.com/css?family=Lato:400,700,900%7CRoboto:400,500,400italic%7COpen+Sans:400&amp;display=swap" type="text/css" media="all">
+<script src="//www.omossoroense.com.br/wp-content/cache/wpfc-minified/8n5sb4kl/calfi.js" type="text/javascript"></script>
+<!-- <script type="text/javascript" src="https://www.omossoroense.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script> -->
+<!-- <script type="text/javascript" src="https://www.omossoroense.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script> -->
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js?ver=8.5.2#property=642b79415d783b00125f1c2c&amp;product=gdpr-compliance-tool-v2&amp;source=simple-share-buttons-adder-wordpress" id="simple-share-buttons-adder-mu-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.15.0" id="bf-html5shiv-js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-content/themes/publisher/includes/libs/better-framework/assets/js/respond.min.js?ver=3.15.0" id="bf-respond-js"></script>
+<![endif]-->
+<!-- Snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+<!-- Snippet do Google Analytics adicionado pelo Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-NS4X7LC" id="google_gtagjs-js" async=""></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.omossoroense.com.br"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-NS4X7LC");
+/* ]]> */
+</script>
+<!-- Fim do snippet da tag do Google (gtag.js) adicionado pelo Site Kit -->
+<link rel="https://api.w.org/" href="https://www.omossoroense.com.br/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.omossoroense.com.br/wp-json/wp/v2/posts/131701"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.omossoroense.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="canonical" href="https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/">
+<link rel="shortlink" href="https://www.omossoroense.com.br/?p=131701">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.omossoroense.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.omossoroense.com.br%2Fsesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.omossoroense.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.omossoroense.com.br%2Fsesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.144.0"><script>var ms_grabbing_curosr='https://www.omossoroense.com.br/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='https://www.omossoroense.com.br/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.5.9 - Responsive Touch Image Slider">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3507934-2"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-3507934-2');
+</script>			<link rel="shortcut icon" href="https://www.omossoroense.com.br/wp-content/uploads/2020/10/favicon.jpg"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<script type="application/ld+json">{
+"@context": "http://schema.org/",
+"@type": "Organization",
+"@id": "#organization",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.omossoroense.com.br/wp-content/uploads/2021/04/LOGO-O-MOSSOROENSE-EM-ALTA-22.png"
+},
+"url": "https://www.omossoroense.com.br/",
+"name": "Jornal O Mossoroense",
+"description": "Jornal de Mossor\u00f3-RN fundado em 1872"
+}</script>
+<script type="application/ld+json">{
+"@context": "http://schema.org/",
+"@type": "WebSite",
+"name": "Jornal O Mossoroense",
+"alternateName": "Jornal de Mossor\u00f3-RN fundado em 1872",
+"url": "https://www.omossoroense.com.br/"
+}</script>
+<script type="application/ld+json">{
+"@context": "http://schema.org/",
+"@type": "BlogPosting",
+"headline": "Sesap alerta munic\u00edpios do RN para a busca ativa de casos de sarampo e rub\u00e9ola",
+"description": "A Secretaria de Estado da Sa\u00fade P\u00fablica (Sesap) convocou para esta sexta-feira (14) o 1\u00b0 Dia S contra o sarampo e a rub\u00e9ola no Rio Grande do Norte em 2024. A a\u00e7\u00e3o visa mobilizar gestores de sa\u00fade municipais para a busca ativa de casos suspeitos das d",
+"datePublished": "2024-03-15",
+"dateModified": "2024-03-15",
+"author": {
+"@type": "Person",
+"@id": "#person-SandraMariaRosado",
+"name": "Sandra Maria Rosado"
+},
+"image": "https://www.omossoroense.com.br/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-15-at-09.47.15.jpeg",
+"interactionStatistic": [
+{
+"@type": "InteractionCounter",
+"interactionType": "http://schema.org/CommentAction",
+"userInteractionCount": "0"
+}
+],
+"publisher": {
+"@id": "#organization"
+},
+"mainEntityOfPage": "https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/"
+}</script>
+<!-- <link rel='stylesheet' id='bf-minifed-css-1' href='https://www.omossoroense.com.br/wp-content/bs-booster-cache/06a86f08d6d5cd5ac6bdb19203960968.css' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='7.11.0-1698257055' href='https://www.omossoroense.com.br/wp-content/bs-booster-cache/e02dfd77d549ced5e3b58e8a7e264dbb.css' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.omossoroense.com.br/wp-content/cache/wpfc-minified/2crxffp4/calfi.css" media="all">
+<!-- BetterFramework Head Inline CSS -->
+<style>
+.topbar .better-social-counter.style-button .social-item .item-icon {
+font-size: 16px;
+}
+.main-menu>li>a {
+padding: 0 10px;
+}
+</style>
+<!-- /BetterFramework Head Inline CSS-->
+<script data-cfasync="false" type="text/javascript" id="clever-core">
+/* <![CDATA[ */
+(function (document, window) {
+var a, c = document.createElement("script"), f = window.frameElement;
+c.id = "CleverCoreLoader66736";
+c.src = "https://scripts.cleverwebserver.com/b3c97e717e5076bca476e762084d4356.js";
+c.async = !0;
+c.type = "text/javascript";
+c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+c.setAttribute("data-callback", "put-your-callback-function-here");
+c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+try {
+a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+} catch (e) {
+a = !1;
+}
+a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+a.parentNode.insertBefore(c, a);
+})(document, window);
+/* ]]> */
+</script>                            <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+<body class="post-template-default single single-post postid-131701 single-format-standard _masterslider _msp_version_3.5.9 bs-theme bs-publisher bs-publisher-clean-magazine active-light-box active-top-line ltr close-rh page-layout-2-col page-layout-2-col-right boxed main-menu-sticky-smart main-menu-boxed active-ajax-search single-prim-cat-9 single-cat-9 single-cat-18  bs-show-ha bs-show-ha-a wpb-js-composer js-comp-ver-6.7.0 vc_responsive bs-ll-a" dir="ltr">
+<div class="main-wrap content-main-wrap">
+<header id="header" class="site-header header-style-2 boxed" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+<section class="topbar topbar-style-1 hidden-xs hidden-xs">
+<div class="content-wrap">
+<div class="container">
+<div class="topbar-inner clearfix">
+<div class="section-links">
+<div class="  better-studio-shortcode bsc-clearfix better-social-counter style-button not-colored in-4-col">
+<ul class="social-list bsc-clearfix"><li class="social-item facebook"><a href="https://www.facebook.com/omossoroense" target="_blank"> <i class="item-icon bsfi-facebook"></i><span class="item-title"> Likes </span> </a> </li> <li class="social-item twitter"><a href="https://twitter.com/O_Mossoroense" target="_blank"> <i class="item-icon bsfi-twitter"></i><span class="item-title"> Followers </span> </a> </li> <li class="social-item youtube"><a href="https://youtube.com/channel/UCXtdoH78TmHMvaCn4ryrKzA" target="_blank"> <i class="item-icon bsfi-youtube"></i><span class="item-title"> Subscribers </span> </a> </li> <li class="social-item instagram"><a href="https://instagram.com/omossoroense" target="_blank"> <i class="item-icon bsfi-instagram"></i><span class="item-title"> Followers </span> </a> </li> 			</ul>
+</div>
+</div>
+<div class="section-menu">
+<div id="menu-top" class="menu top-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<nav class="top-menu-container">
+<ul id="top-navigation" class="top-menu menu clearfix bsm-pure">
+<li id="topbar-date" class="menu-item menu-item-date">
+<span class="topbar-date">terça-feira,  14 de janeiro de 2025</span>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="header-inner">
+<div class="content-wrap">
+<div class="container">
+<div class="row">
+<div class="row-height">
+<div class="logo-col col-xs-4">
+<div class="col-inside">
+<div id="site-branding" class="site-branding">
+<p id="site-title" class="logo h1 img-logo">
+<a href="https://www.omossoroense.com.br/" itemprop="url" rel="home">
+<img id="site-logo" src="https://www.omossoroense.com.br/wp-content/uploads/2021/04/LOGO-O-MOSSOROENSE-EM-ALTA-22.png" alt="Publisher">
+<span class="site-title">Publisher - Jornal de Mossoró-RN fundado em 1872</span>
+</a>
+</p>
+</div><!-- .site-branding -->
+</div>
+</div>
+<div class="sidebar-col col-xs-8">
+<div class="col-inside">
+<aside id="sidebar" class="sidebar" role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+<div class="pvrqeulcm pvrqeulcm-pubadban pvrqeulcm-show-desktop pvrqeulcm-show-tablet-portrait pvrqeulcm-show-tablet-landscape pvrqeulcm-show-phone pvrqeulcm-loc-header_aside_logo pvrqeulcm-align-right pvrqeulcm-column-1 pvrqeulcm-clearfix no-bg-box-model"><div id="pvrqeulcm-74108-298161871" class="pvrqeulcm-container pvrqeulcm-type-image " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="74108" data-type="image"><a itemprop="url" class="pvrqeulcm-link" href="http://www.rn.gov.br" target="_blank" rel="nofollow"><img class="pvrqeulcm-image" src="" alt=""></a></div></div>										</aside>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="menu-main" class="menu main-menu-wrapper show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<div class="main-menu-inner">
+<div class="content-wrap">
+<div class="container">
+<nav class="main-menu-container">
+<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+<li id="menu-item-61427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-12 better-anim-fade menu-item-61427"><a href="https://www.omossoroense.com.br/category/o-jornal/">O Jornal</a>
+<ul class="sub-menu">
+<li id="menu-item-66521" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent better-anim-fade menu-item-66521"><a href="https://www.omossoroense.com.br/expediente/">Últimas</a></li>
+<li id="menu-item-66525" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-66525"><a href="https://www.omossoroense.com.br/o-jornal-dos-escossias-2/">Histórico</a></li>
+</ul>
+</li>
+<li id="menu-item-59120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-59120"><a href="https://www.omossoroense.com.br/category/cotidiano/">Cotidiano</a></li>
+<li id="menu-item-59123" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-term-18 better-anim-fade menu-item-59123"><a href="https://www.omossoroense.com.br/category/regional/">Regional</a></li>
+<li id="menu-item-59126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-15 better-anim-fade menu-item-59126"><a href="https://www.omossoroense.com.br/category/policia/">Polícia</a></li>
+<li id="menu-item-59122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-16 better-anim-fade menu-item-59122"><a href="https://www.omossoroense.com.br/category/politica/">Política</a></li>
+<li id="menu-item-59124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-10 better-anim-fade menu-item-59124"><a href="https://www.omossoroense.com.br/category/esporte/">Esporte</a></li>
+<li id="menu-item-59121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-7 better-anim-fade menu-item-59121"><a href="https://www.omossoroense.com.br/category/brasil/">Brasil</a></li>
+<li id="menu-item-59125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-11 better-anim-fade menu-item-59125"><a href="https://www.omossoroense.com.br/category/mundo/">Mundo</a></li>
+<li id="menu-item-59141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-6 better-anim-fade menu-item-59141"><a href="https://www.omossoroense.com.br/category/artigos/">Artigos</a>
+<ul class="sub-menu">
+<li id="menu-item-71290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-15092 better-anim-fade menu-item-71290"><a href="https://www.omossoroense.com.br/category/artigos/nilo-emerenciano/">Nilo Emerenciano</a></li>
+<li id="menu-item-69980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-14995 better-anim-fade menu-item-69980"><a href="https://www.omossoroense.com.br/category/artigos/rodrigo-de-carvalho/">Rodrigo de Carvalho</a></li>
+<li id="menu-item-69440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-14983 better-anim-fade menu-item-69440"><a href="https://www.omossoroense.com.br/category/artigos/tomislav-r-femenick-artigos/">Tomislav R. Femenick</a></li>
+</ul>
+</li>
+<li id="menu-item-66526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-14852 better-anim-fade menu-item-66526"><a href="https://www.omossoroense.com.br/category/colunas/">Colunas</a>
+<ul class="sub-menu">
+<li id="menu-item-74504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-15281 better-anim-fade menu-item-74504"><a href="https://www.omossoroense.com.br/category/artigos/jose-de-paiva-netto/">José de Paiva Netto</a></li>
+<li id="menu-item-69060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-14959 better-anim-fade menu-item-69060"><a href="https://www.omossoroense.com.br/category/colunas/lairinho-rosado/">Lahyre Neto</a></li>
+<li id="menu-item-66530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-49 better-anim-fade menu-item-66530"><a href="https://www.omossoroense.com.br/category/colunas/laire-rosado/">Laíre Rosado</a></li>
+<li id="menu-item-66532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-53 better-anim-fade menu-item-66532"><a href="https://www.omossoroense.com.br/category/colunas/notas-da-redacao/">Notas da Redação</a></li>
+<li id="menu-item-68856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-17 better-anim-fade menu-item-68856"><a href="https://www.omossoroense.com.br/category/colunas/reflexoes-teologicas/">Reflexões Teológicas</a></li>
+</ul>
+</li>
+<li id="menu-item-59135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-21 better-anim-fade menu-item-59135"><a href="https://www.omossoroense.com.br/category/universo/">Universo</a>
+<ul class="sub-menu">
+<li id="menu-item-59139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-37 better-anim-fade menu-item-59139"><a href="https://www.omossoroense.com.br/category/universo/clauder-arcanjo/">Clauder Arcanjo</a></li>
+<li id="menu-item-67745" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-14912 better-anim-fade menu-item-67745"><a href="https://www.omossoroense.com.br/category/universo/entrevista/">Entrevista</a></li>
+<li id="menu-item-68857" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-46 better-anim-fade menu-item-68857"><a href="https://www.omossoroense.com.br/category/universo/geraldo-maia/">Geraldo Maia</a></li>
+<li id="menu-item-67746" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-14864 better-anim-fade menu-item-67746"><a href="https://www.omossoroense.com.br/category/universo/poesia-universo/">Poesia</a></li>
+<li id="menu-item-66534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-26 better-anim-fade menu-item-66534"><a href="https://www.omossoroense.com.br/category/universo/wilson-bezerra/">Wilson Bezerra</a></li>
+</ul>
+</li>
+</ul><!-- #main-navigation -->
+<div class="menu-action-buttons width-1">
+<div class="search-container close">
+<span class="search-handler"><i class="fa fa-search"></i></span>
+<div class="search-box clearfix">
+<form role="search" method="get" class="search-form clearfix" action="https://www.omossoroense.com.br">
+<input type="search" class="search-field" placeholder="Pesquisa..." value="" name="s" title="Procurar por:" autocomplete="off">
+<input type="submit" class="search-submit" value="Pesquisa">
+</form><!-- .search-form -->
+</div>
+</div>
+</div>
+</nav><!-- .main-menu-container -->
+</div>
+</div>
+</div>
+</div><!-- .menu -->
+</header><!-- .header -->
+<div class="rh-header clearfix light deferred-block-exclude">
+<div class="rh-container clearfix">
+<div class="menu-container close">
+<span class="menu-handler"><span class="lines"></span></span>
+</div><!-- .menu-container -->
+<div class="logo-container rh-img-logo">
+<a href="https://www.omossoroense.com.br/" itemprop="url" rel="home">
+<img src="https://www.omossoroense.com.br/wp-content/uploads/2020/10/logo-jornal.png" alt="Jornal O Mossoroense">				</a>
+</div><!-- .logo-container -->
+</div><!-- .rh-container -->
+</div><!-- .rh-header -->
+<div class="content-wrap">
+<main id="content" class="content-container">
+<div class="container layout-2-col layout-2-col-1 layout-right-sidebar post-template-10">
+<div class="row main-section">
+<div class="col-sm-8 content-column">
+<div class="single-container">
+<article id="post-131701" class="post-131701 post type-post status-publish format-standard has-post-thumbnail  category-destaques category-regional single-post-content">
+<div class="single-featured"><a class="post-thumbnail open-lightbox" href="https://www.omossoroense.com.br/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-15-at-09.47.15.jpeg"><img width="750" height="430" alt="" data-src="https://www.omossoroense.com.br/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-15-at-09.47.15-750x430.jpeg">											</a>
+</div>
+<div class="post-header-inner">
+<div class="post-header-title">
+<div class="term-badges floated"><span class="term-badge term-9"><a href="https://www.omossoroense.com.br/category/destaques/">Destaques</a></span></div>											<h1 class="single-post-title">
+<span class="post-title" itemprop="headline">Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola</span>
+</h1>
+<h2 class="post-subtitle">O público-alvo do 1° Dia “S” são trabalhadores e gestores da rede de atenção primária e hospitalar</h2><div class="post-meta single-post-meta">
+<span class="time"><time class="post-published updated" datetime="2024-03-15T10:11:59-03:00">On <b>15 de março de 2024</b></time></span>
+</div>
+</div>
+</div>
+<div class="entry-content clearfix single-post-content">
+<p>A Secretaria de Estado da Saúde Pública (Sesap) convocou para esta sexta-feira (14) o 1° Dia S contra o sarampo e a rubéola no Rio Grande do Norte em 2024. A ação visa mobilizar gestores de saúde municipais para a busca ativa de casos suspeitos das doenças no estado.</p>
+<p>Pelos próximos dez dias a orientação é reforçar a atenção diária nos serviços de saúde para a identificação de sinais e sintomas das doenças, a fim de confirmar ou descartar os casos, assim como notificar todas as ações, dados esses que norteiam as possíveis ações da Sesap, podendo conter surtos e mantendo a interrupção da circulação do vírus do sarampo, além de certificar a ausência de circulação do vírus e manutenção da eliminação da rubéola.<!-- Simple Share Buttons Adder (8.5.2) simplesharebuttons.com --></p>
+<div class="ssba-modern-2 ssba ssbp-wrap aligncenter ssbp--theme-1">
+<div style="text-align:center"><span class="ssba-share-text">Compartilhe…</span><p></p>
+<ul class="ssbp-list">
+<li class="ssbp-li--facebook"><a data-site="facebook" class="ssba_facebook_share ssba_share_link ssbp-facebook ssbp-btn" href="https://www.facebook.com/sharer.php?t=Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola&amp;u=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/" target="_blank" style="color:#4267B2; background-color: #4267B2; height: 48px; width: 48px; "><span><svg xmlns="http://www.w3.org/2000/svg" fill="#fff" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40">
+<g>
+<path d="m21.7 16.7h5v5h-5v11.6h-5v-11.6h-5v-5h5v-2.1c0-2 0.6-4.5 1.8-5.9 1.3-1.3 2.8-2 4.7-2h3.5v5h-3.5c-0.9 0-1.5 0.6-1.5 1.5v3.5z"></path>
+</g>
+</svg><p></p>
+<p><span class="color-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="28" viewBox="0 0 16 28">
+<path fill="#3B5998" d="M10.7,10.7 L15.7,10.7 L15.7,15.7 L10.7,15.7 L10.7,27.3 L5.7,27.3 L5.7,15.7 L0.7,15.7 L0.7,10.7 L5.7,10.7 L5.7,8.6 C5.7,6.6 6.3,4.1 7.5,2.7 C8.8,1.4 10.3,0.7 12.2,0.7 L15.7,0.7 L15.7,5.7 L12.2,5.7 C11.3,5.7 10.7,6.3 10.7,7.2 L10.7,10.7 Z"></path>
+</svg><br>
+</span></p>
+<div title="Facebook" class="ssbp-text">Facebook</div>
+</span></a><p><a data-site="facebook" class="ssba_facebook_share ssba_share_link ssbp-facebook ssbp-btn" href="https://www.facebook.com/sharer.php?t=Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola&amp;u=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/" target="_blank" style="color:#4267B2; background-color: #4267B2; height: 48px; width: 48px; "></a></p></li>
+<li class="ssbp-li--whatsapp"><a data-site="whatsapp" class="ssba_whatsapp_share ssba_share_link ssbp-whatsapp ssbp-btn" href="https://web.whatsapp.com/send?text=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/" target="_blank" style="color:#25d366; background-color: #25d366; height: 48px; width: 48px; "><span><svg xmlns="http://www.w3.org/2000/svg" fill="#fff" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40">
+<g>
+<path d="m25 21.7q0.3 0 2.2 1t2 1.2q0 0.1 0 0.3 0 0.8-0.4 1.7-0.3 0.9-1.6 1.5t-2.2 0.6q-1.3 0-4.3-1.4-2.2-1-3.8-2.6t-3.3-4.2q-1.6-2.3-1.6-4.3v-0.2q0.1-2 1.7-3.5 0.5-0.5 1.2-0.5 0.1 0 0.4 0t0.4 0.1q0.4 0 0.6 0.1t0.3 0.6q0.2 0.5 0.8 2t0.5 1.7q0 0.5-0.8 1.3t-0.7 1q0 0.2 0.1 0.3 0.7 1.7 2.3 3.1 1.2 1.2 3.3 2.2 0.3 0.2 0.5 0.2 0.4 0 1.2-1.1t1.2-1.1z m-4.5 11.9q2.8 0 5.4-1.1t4.5-3 3-4.5 1.1-5.4-1.1-5.5-3-4.5-4.5-2.9-5.4-1.2-5.5 1.2-4.5 2.9-2.9 4.5-1.2 5.5q0 4.5 2.7 8.2l-1.7 5.2 5.4-1.8q3.5 2.4 7.7 2.4z m0-30.9q3.4 0 6.5 1.4t5.4 3.6 3.5 5.3 1.4 6.6-1.4 6.5-3.5 5.3-5.4 3.6-6.5 1.4q-4.4 0-8.2-2.1l-9.3 3 3-9.1q-2.4-3.9-2.4-8.6 0-3.5 1.4-6.6t3.6-5.3 5.3-3.6 6.6-1.4z"></path>
+</g>
+</svg><p></p>
+<p><span class="color-icon"><svg xmlns="http://www.w3.org/2000/svg" width="35" height="36" viewBox="0 0 35 36">
+<path fill="#25D366" d="M22,19.7 C22.2,19.7 22.9333333,20.0333333 24.2,20.7 C25.4666667,21.3666667 26.1333333,21.7666667 26.2,21.9 C26.2,21.9666667 26.2,22.0666667 26.2,22.2 C26.2,22.7333333 26.0666667,23.3 25.8,23.9 C25.6,24.5 25.0666667,25 24.2,25.4 C23.3333333,25.8 22.6,26 22,26 C21.1333333,26 19.7,25.5333333 17.7,24.6 C16.2333333,23.9333333 14.9666667,23.0666667 13.9,22 C12.8333333,20.9333333 11.7333333,19.5333333 10.6,17.8 C9.53333333,16.2666667 9,14.8333333 9,13.5 L9,13.3 C9.06666667,11.9666667 9.63333333,10.8 10.7,9.8 C11.0333333,9.46666667 11.4333333,9.3 11.9,9.3 C11.9666667,9.3 12.1,9.3 12.3,9.3 C12.5,9.3 12.6333333,9.33333333 12.7,9.4 C12.9666667,9.4 13.1666667,9.43333333 13.3,9.5 C13.4333333,9.56666667 13.5333333,9.76666667 13.6,10.1 C13.7333333,10.4333333 14,11.1 14.4,12.1 C14.8,13.1 14.9666667,13.6666667 14.9,13.8 C14.9,14.1333333 14.6333333,14.5666667 14.1,15.1 C13.5666667,15.6333333 13.3333333,15.9666667 13.4,16.1 C13.4,16.2333333 13.4333333,16.3333333 13.5,16.4 C13.9666667,17.5333333 14.7333333,18.5666667 15.8,19.5 C16.6,20.3 17.7,21.0333333 19.1,21.7 C19.3,21.8333333 19.4666667,21.9 19.6,21.9 C19.8666667,21.9 20.2666667,21.5333333 20.8,20.8 C21.3333333,20.0666667 21.7333333,19.7 22,19.7 Z M17.5,31.6 C19.3666667,31.6 21.1666667,31.2333333 22.9,30.5 C24.6333333,29.7666667 26.1333333,28.7666667 27.4,27.5 C28.6666667,26.2333333 29.6666667,24.7333333 30.4,23 C31.1333333,21.2666667 31.5,19.4666667 31.5,17.6 C31.5,15.7333333 31.1333333,13.9 30.4,12.1 C29.6666667,10.3 28.6666667,8.8 27.4,7.6 C26.1333333,6.4 24.6333333,5.43333333 22.9,4.7 C21.1666667,3.96666667 19.3666667,3.56666667 17.5,3.5 C15.6333333,3.43333333 13.8,3.83333333 12,4.7 C10.2,5.56666667 8.7,6.53333333 7.5,7.6 C6.3,8.66666667 5.33333333,10.1666667 4.6,12.1 C3.86666667,14.0333333 3.46666667,15.8666667 3.4,17.6 C3.4,20.6 4.3,23.3333333 6.1,25.8 L4.4,31 L9.8,29.2 C12.1333333,30.8 14.7,31.6 17.5,31.6 Z M17.5,0.7 C19.7666667,0.7 21.9333333,1.16666667 24,2.1 C26.0666667,3.03333333 27.8666667,4.23333333 29.4,5.7 C30.9333333,7.16666667 32.1,8.93333333 32.9,11 C33.7,13.0666667 34.1666667,15.2666667 34.3,17.6 C34.4333333,19.9333333 33.9666667,22.1 32.9,24.1 C31.8333333,26.1 30.6666667,27.8666667 29.4,29.4 C28.1333333,30.9333333 26.3333333,32.1333333 24,33 C21.6666667,33.8666667 19.5,34.3333333 17.5,34.4 C14.5666667,34.4 11.8333333,33.7 9.3,32.3 L0,35.3 L3,26.2 C1.4,23.6 0.6,20.7333333 0.6,17.6 C0.6,15.2666667 1.06666667,13.0666667 2,11 C2.93333333,8.93333333 4.13333333,7.16666667 5.6,5.7 C7.06666667,4.23333333 8.83333333,3.03333333 10.9,2.1 C12.9666667,1.16666667 15.1666667,0.7 17.5,0.7 Z"></path>
+</svg><br>
+</span></p>
+<div title="Whatsapp" class="ssbp-text">Whatsapp</div>
+</span></a><p><a data-site="whatsapp" class="ssba_whatsapp_share ssba_share_link ssbp-whatsapp ssbp-btn" href="https://web.whatsapp.com/send?text=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/" target="_blank" style="color:#25d366; background-color: #25d366; height: 48px; width: 48px; "></a></p></li>
+<li class="ssbp-li--twitter"><a data-site="twitter" class="ssba_twitter_share ssba_share_link ssbp-twitter ssbp-btn" href="https://twitter.com/intent/tweet?text=Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola&amp;url=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/&amp;via=" target="_blank" style="color:#000000; background-color: #000000; height: 48px; width: 48px; "><span><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="25" height="25"></rect>
+<path d="M14.4821 11.6218L21.0389 4H19.4852L13.7919 10.6179L9.24467 4H4L10.8763 14.0074L4 22H5.55385L11.5661 15.0113L16.3683 22H21.613L14.4821 11.6218ZM6.11371 5.16972H8.50031L19.4859 20.8835H17.0993L6.11371 5.16972Z" fill="white"></path>
+</svg><br>
+</span><span class="color-icon"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="25" height="25"></rect>
+<path d="M14.4821 11.6218L21.0389 4H19.4852L13.7919 10.6179L9.24467 4H4L10.8763 14.0074L4 22H5.55385L11.5661 15.0113L16.3683 22H21.613L14.4821 11.6218ZM6.11371 5.16972H8.50031L19.4859 20.8835H17.0993L6.11371 5.16972Z" fill="#000000"></path>
+</svg><br>
+</span><p></p>
+<div title="Twitter" class="ssbp-text">Twitter</div>
+</a><p><a data-site="twitter" class="ssba_twitter_share ssba_share_link ssbp-twitter ssbp-btn" href="https://twitter.com/intent/tweet?text=Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola&amp;url=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/&amp;via=" target="_blank" style="color:#000000; background-color: #000000; height: 48px; width: 48px; "></a></p></li>
+<li class="ssbp-li--linkedin"><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link ssbp-linkedin ssbp-btn" href="https://www.linkedin.com/shareArticle?title=Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola&amp;url=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/" target="_blank" style="color:#0077b5; background-color: #0077b5; height: 48px; width: 48px; "><span><svg xmlns="http://www.w3.org/2000/svg" fill="#fff" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40">
+<g>
+<path d="m13.3 31.7h-5v-16.7h5v16.7z m18.4 0h-5v-8.9c0-2.4-0.9-3.5-2.5-3.5-1.3 0-2.1 0.6-2.5 1.9v10.5h-5s0-15 0-16.7h3.9l0.3 3.3h0.1c1-1.6 2.7-2.8 4.9-2.8 1.7 0 3.1 0.5 4.2 1.7 1 1.2 1.6 2.8 1.6 5.1v9.4z m-18.3-20.9c0 1.4-1.1 2.5-2.6 2.5s-2.5-1.1-2.5-2.5 1.1-2.5 2.5-2.5 2.6 1.2 2.6 2.5z"></path>
+</g>
+</svg><p></p>
+<p><span class="color-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 50 50" version="1.1">
+<g id="surface97807">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,46.666667%,70.980392%);fill-opacity:1;" d="M 8 3.007812 C 4.53125 3.007812 2.007812 5.089844 2.007812 7.949219 C 2.007812 10.820312 4.589844 12.988281 8 12.988281 C 11.46875 12.988281 13.988281 10.871094 13.988281 7.890625 C 13.832031 5.019531 11.359375 3.007812 8 3.007812 Z M 3 15 C 2.449219 15 2 15.449219 2 16 L 2 45 C 2 45.550781 2.449219 46 3 46 L 13 46 C 13.550781 46 14 45.550781 14 45 L 14 16 C 14 15.449219 13.550781 15 13 15 Z M 18 15 C 17.449219 15 17 15.449219 17 16 L 17 45 C 17 45.550781 17.449219 46 18 46 L 27 46 C 27.550781 46 28 45.550781 28 45 L 28 29.5 C 28 27.128906 29.820312 25.199219 32.140625 25.019531 C 32.261719 25 32.378906 25 32.5 25 C 32.621094 25 32.738281 25 32.859375 25.019531 C 35.179688 25.199219 37 27.128906 37 29.5 L 37 45 C 37 45.550781 37.449219 46 38 46 L 47 46 C 47.550781 46 48 45.550781 48 45 L 48 28 C 48 21.53125 44.527344 15 36.789062 15 C 33.269531 15 30.609375 16.359375 29 17.488281 L 29 16 C 29 15.449219 28.550781 15 28 15 Z M 18 15 "></path>
+</g>
+</svg><br>
+</span></p>
+<div title="Linkedin" class="ssbp-text">Linkedin</div>
+</span></a><p><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link ssbp-linkedin ssbp-btn" href="https://www.linkedin.com/shareArticle?title=Sesap alerta municípios do RN para a busca ativa de casos de sarampo e rubéola&amp;url=https://www.omossoroense.com.br/sesap-alerta-municipios-do-rn-para-a-busca-ativa-de-casos-de-sarampo-e-rubeola/" target="_blank" style="color:#0077b5; background-color: #0077b5; height: 48px; width: 48px; "></a></p></li>
+<li class="ssbp-li--email"><a data-site="email" class="ssba_email_share ssba_share_link ssbp-email ssbp-btn" href="/cdn-cgi/l/email-protection#dbe4a8aeb9b1beb8afe688bea8baabfbbab7bea9afbafbb6aeb5b2b81876abb2b4a8fbbfb4fb8995fbabbaa9bafbbafbb9aea8b8bafbbaafb2adbafbbfbefbb8baa8b4a8fbbfbefba8baa9bab6abb4fbbefba9aeb91872b4b7bafdf8ebe8e3e0b9b4bfa2e6b3afafaba8e1f4f4acacacf5b4b6b4a8a8b4a9b4beb5a8bef5b8b4b6f5b9a9f4a8bea8baabf6bab7bea9afbaf6b6aeb5b2b8b2abb2b4a8f6bfb4f6a9b5f6abbaa9baf6baf6b9aea8b8baf6baafb2adbaf6bfbef6b8baa8b4a8f6bfbef6a8baa9bab6abb4f6bef6a9aeb9beb4b7baf4" target="_blank" style="color:#7d7d7d; background-color: #7d7d7d; height: 48px; width: 48px; "><span><svg xmlns="http://www.w3.org/2000/svg" fill="#fff" preserveAspectRatio="xMidYMid meet" height="1em" width="1em" viewBox="0 0 40 40">
+<g>
+<path d="m33.4 13.4v-3.4l-13.4 8.4-13.4-8.4v3.4l13.4 8.2z m0-6.8q1.3 0 2.3 1.1t0.9 2.3v20q0 1.3-0.9 2.3t-2.3 1.1h-26.8q-1.3 0-2.3-1.1t-0.9-2.3v-20q0-1.3 0.9-2.3t2.3-1.1h26.8z"></path>
+</g>
+</svg><p></p>
+<p><span class="color-icon"><svg xmlns="http://www.w3.org/2000/svg" width="34" height="28" viewBox="0 0 34 28">
+<path fill="#7D7D7D" d="M30.4,7.4 L30.4,4 L17,12.4 L3.6,4 L3.6,7.4 L17,15.6 L30.4,7.4 Z M30.4,0.6 C31.2666667,0.6 32.0333333,0.966666667 32.7,1.7 C33.3666667,2.43333333 33.6666667,3.2 33.6,4 L33.6,24 C33.6,24.8666667 33.3,25.6333333 32.7,26.3 C32.1,26.9666667 31.3333333,27.3333333 30.4,27.4 L3.6,27.4 C2.73333333,27.4 1.96666667,27.0333333 1.3,26.3 C0.633333333,25.5666667 0.333333333,24.8 0.4,24 L0.4,4 C0.4,3.13333333 0.7,2.36666667 1.3,1.7 C1.9,1.03333333 2.66666667,0.666666667 3.6,0.6 L30.4,0.6 Z"></path>
+</svg><br>
+</span></p>
+<div title="Email" class="ssbp-text">Email</div>
+</span></a><p><a data-site="email" class="ssba_email_share ssba_share_link ssbp-email ssbp-btn" href="/cdn-cgi/l/email-protection#dbe4a8aeb9b1beb8afe688bea8baabfbbab7bea9afbafbb6aeb5b2b81876abb2b4a8fbbfb4fb8995fbabbaa9bafbbafbb9aea8b8bafbbaafb2adbafbbfbefbb8baa8b4a8fbbfbefba8baa9bab6abb4fbbefba9aeb91872b4b7bafdf8ebe8e3e0b9b4bfa2e6b3afafaba8e1f4f4acacacf5b4b6b4a8a8b4a9b4beb5a8bef5b8b4b6f5b9a9f4a8bea8baabf6bab7bea9afbaf6b6aeb5b2b8b2abb2b4a8f6bfb4f6a9b5f6abbaa9baf6baf6b9aea8b8baf6baafb2adbaf6bfbef6b8baa8b4a8f6bfbef6a8baa9bab6abb4f6bef6a9aeb9beb4b7baf4" target="_blank" style="color:#7d7d7d; background-color: #7d7d7d; height: 48px; width: 48px; "></a></p></li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+</div>
+<section class="comments-template ajaxified-comments-container">
+<a href="#" class="comment-ajaxified-placeholder" data-comment-post-id="131701">
+<i class="fa fa-comments"></i> Deixe um comentário		</a>
+</section>
+</div><!-- .content-column -->
+<div class="col-sm-4 sidebar-column sidebar-column-primary">
+<aside id="sidebar-primary-sidebar" class="sidebar" role="complementary" aria-label="Primary Sidebar Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+<div id="media_image-3" class=" h-ni w-nt primary-sidebar-widget widget widget_media_image"><a href="https://www.radios.com.br/aovivo/radio-resistencia-937-fm/14407"><img width="380" height="380" src="https://www.omossoroense.com.br/wp-content/uploads/2020/10/banner-site-300x300-1.jpg" class="image wp-image-66537  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" fetchpriority="high" srcset="https://www.omossoroense.com.br/wp-content/uploads/2020/10/banner-site-300x300-1.jpg 380w, https://www.omossoroense.com.br/wp-content/uploads/2020/10/banner-site-300x300-1-300x300.jpg 300w, https://www.omossoroense.com.br/wp-content/uploads/2020/10/banner-site-300x300-1-150x150.jpg 150w" sizes="(max-width: 380px) 100vw, 380px"></a></div><div id="media_image-6" class=" h-ni w-nt primary-sidebar-widget widget widget_media_image"><img width="380" height="186" src="https://www.omossoroense.com.br/wp-content/uploads/2020/10/ban_nossatv170-1.jpg" class="image wp-image-66536  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://www.omossoroense.com.br/wp-content/uploads/2020/10/ban_nossatv170-1.jpg 380w, https://www.omossoroense.com.br/wp-content/uploads/2020/10/ban_nossatv170-1-300x147.jpg 300w" sizes="(max-width: 380px) 100vw, 380px"></div><div id="block-4" class=" h-ni w-nt primary-sidebar-widget widget widget_block widget_media_image">
+<figure class="wp-block-image size-large is-resized"><a href="www.realizecomunicacaorn.com/shop"><img decoding="async" src="https://www.omossoroense.com.br/wp-content/uploads/2022/01/banner-camisas-1024x576.png" alt="" class="wp-image-87474" width="430" height="241" srcset="https://www.omossoroense.com.br/wp-content/uploads/2022/01/banner-camisas-1024x576.png 1024w, https://www.omossoroense.com.br/wp-content/uploads/2022/01/banner-camisas-300x169.png 300w, https://www.omossoroense.com.br/wp-content/uploads/2022/01/banner-camisas-768x432.png 768w, https://www.omossoroense.com.br/wp-content/uploads/2022/01/banner-camisas.png 1366w" sizes="(max-width: 430px) 100vw, 430px"></a></figure>
+</div><div id="media_video-2" class=" h-ni h-c h-c-b40000 h-bg h-bg-b40000 w-t primary-sidebar-widget widget widget_media_video"><div class="section-heading sh-t3 sh-s5"><span class="h-text">Documentário 140 Anos</span></div><div style="width:100%;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-131701-1" preload="metadata" controls="controls"><source type="video/youtube" src="https://www.youtube.com/watch?v=pvNTsplBiIE&amp;_=1"><a href="https://www.youtube.com/watch?v=pvNTsplBiIE">https://www.youtube.com/watch?v=pvNTsplBiIE</a></video></div></div></aside>
+</div><!-- .primary-sidebar-column -->
+</div><!-- .main-section -->
+</div><!-- .layout-2-col -->
+</main><!-- main -->
+</div><!-- .content-wrap -->
+	<footer id="site-footer" class="site-footer full-width">
+<div class="copy-footer">
+<div class="content-wrap">
+<div class="container">
+<div class="row footer-copy-row">
+<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+© 2025 - Jornal O Mossoroense. All Rights Reserved.						</div>
+<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+Website Design: <a href="#">Argolante Lopes</a>						</div>
+</div>
+</div>
+</div>
+</div>
+</footer><!-- .footer -->
+</div><!-- .main-wrap -->
+<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" type="text/javascript" id="clever-core">
+/* <![CDATA[ */
+(function (document, window) {
+var a, c = document.createElement("script"), f = window.frameElement;
+c.id = "CleverCoreLoader66736";
+c.src = "https://scripts.cleverwebserver.com/b3c97e717e5076bca476e762084d4356.js";
+c.async = !0;
+c.type = "text/javascript";
+c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+c.setAttribute("data-callback", "put-your-callback-function-here");
+c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+try {
+a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+} catch (e) {
+a = !1;
+}
+a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+a.parentNode.insertBefore(c, a);
+})(document, window);
+/* ]]> */
+</script>                            <script type="text/javascript" id="publisher-theme-pagination-js-extra">
+/* <![CDATA[ */
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="publisher-js-extra">
+/* <![CDATA[ */
+var publisher_theme_global_loc = {"page":{"boxed":"boxed"},"header":{"style":"style-2","boxed":"boxed"},"ajax_url":"https:\/\/www.omossoroense.com.br\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"Todos","tabs_more":"Mais","lightbox_expand":"Expand the image","lightbox_close":"Close"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":true,"position":""},"share":{"more":true},"refresh_googletagads":"1","get_locale":"pt-BR","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https:\/\/www.omossoroense.com.br\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product ajax-search-fullwidth\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t<span>Postagens<\/span>\n\t\t\t<\/div>\n\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categorias<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Tags<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>","full_width":"1"};
+/* ]]> */
+</script>
+<div class="rh-cover noscroll gr-4 no-login-icon no-social-icon no-top-nav">
+<span class="rh-close"></span>
+<div class="rh-panel rh-pm">
+<div class="rh-p-h">
+</div>
+<div class="rh-p-b">
+<div class="rh-c-m clearfix"></div>
+<form role="search" method="get" class="search-form" action="https://www.omossoroense.com.br">
+<input type="search" class="search-field" placeholder="Pesquisa..." value="" name="s" title="Procurar por:" autocomplete="off">
+<input type="submit" class="search-submit" value="">
+</form>
+</div>
+</div>
+</div>
+<!-- <link rel='stylesheet' id='simple-share-buttons-adder-ssba-css' href='https://www.omossoroense.com.br/wp-content/plugins/simple-share-buttons-adder/css/ssba.css?ver=1736403778' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.omossoroense.com.br/wp-content/cache/wpfc-minified/2cu0474m/calfi.css" media="all">
+<style id="simple-share-buttons-adder-ssba-inline-css" type="text/css">
+.ssba img
+{border:  0;
+box-shadow: none !important;
+display: inline !important;
+vertical-align: middle;
+box-sizing: unset;
+}
+.ssba-classic-2 .ssbp-text {
+display: none!important;
+}
+.ssbp-list li a {height: 48px!important; width: 48px!important; 
+}
+.ssbp-list li a:hover {
+}
+.ssbp-list li a svg, .ssbp-list li a.ssbp-douban span:not(.color-icon) svg, .ssbp-list li a svg path, .ssbp-list li a.ssbp-surfingbird span:not(.color-icon) svg polygon {line-height: 48px!important;; font-size: 18px;}
+.ssbp-list li a:hover svg, .ssbp-list li a:hover span:not(.color-icon) svg, .ssbp-list li a.ssbp-douban:hover span:not(.color-icon) svg path, .ssbp-list li a.ssbp-surfingbird:hover svg polygon {}
+.ssbp-list li {
+margin-left: 12px!important;
+}
+.ssba-share-text {
+font-size: 20px;  font-weight: bold; font-family: inherit;
+}
+#ssba-bar-2 .ssbp-bar-list {
+max-width: 48px !important;;
+}
+#ssba-bar-2 .ssbp-bar-list li a {height: 48px !important; width: 48px !important; 
+}
+#ssba-bar-2 .ssbp-bar-list li a:hover {
+}
+#ssba-bar-2 .ssbp-bar-list li a svg,
+#ssba-bar-2 .ssbp-bar-list li a svg path, .ssbp-bar-list li a.ssbp-surfingbird span:not(.color-icon) svg polygon {line-height: 48px !important;; font-size: 18px;}
+#ssba-bar-2 .ssbp-bar-list li a:hover svg,
+#ssba-bar-2 .ssbp-bar-list li a:hover svg path, .ssbp-bar-list li a.ssbp-surfingbird span:not(.color-icon) svg polygon {}
+#ssba-bar-2 .ssbp-bar-list li {
+margin: 0px 0!important;
+}@media only screen and ( max-width: 750px ) {
+#ssba-bar-2 {
+display: block;
+}
+}
+</style>
+<!-- <link rel='stylesheet' id='mediaelement-css' href='https://www.omossoroense.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-mediaelement-css' href='https://www.omossoroense.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//www.omossoroense.com.br/wp-content/cache/wpfc-minified/klneehxd/calfi.css" media="all">
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?ver=1736403779" id="simple-share-buttons-adder-ssba-js"></script>
+<script type="text/javascript" id="simple-share-buttons-adder-ssba-js-after">
+/* <![CDATA[ */
+Main.boot( [] );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-includes/js/comment-reply.min.js?ver=6.7.1" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-content/plugins/better-adsmanager/js/advertising.min.js?ver=1.21.0" id="better-advertising-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"pt","strings":{"mejs.download-file":"Fazer download do arquivo","mejs.install-flash":"Voc\u00ea est\u00e1 usando um navegador que n\u00e3o tem Flash ativo ou instalado. Ative o plugin do Flash player ou baixe a \u00faltima vers\u00e3o em https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Tela inteira","mejs.play":"Reproduzir","mejs.pause":"Pausar","mejs.time-slider":"Tempo do slider","mejs.time-help-text":"Use as setas esquerda e direita para avan\u00e7ar um segundo. Acima e abaixo para avan\u00e7ar dez segundos.","mejs.live-broadcast":"Transmiss\u00e3o ao vivo","mejs.volume-help-text":"Use as setas para cima ou para baixo para aumentar ou diminuir o volume.","mejs.unmute":"Desativar mudo","mejs.mute":"Mudo","mejs.volume-slider":"Controle de volume","mejs.video-player":"Tocador de v\u00eddeo","mejs.audio-player":"Tocador de \u00e1udio","mejs.captions-subtitles":"Transcri\u00e7\u00f5es\/Legendas","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Nenhum","mejs.afrikaans":"Afric\u00e2ner","mejs.albanian":"Alban\u00eas","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorrusso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e3o","mejs.chinese":"Chin\u00eas","mejs.chinese-simplified":"Chin\u00eas (simplificado)","mejs.chinese-traditional":"Chin\u00eas (tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dinamarqu\u00eas","mejs.dutch":"Holand\u00eas","mejs.english":"Ingl\u00eas","mejs.estonian":"Estoniano","mejs.filipino":"Filipino","mejs.finnish":"Finland\u00eas","mejs.french":"Franc\u00eas","mejs.galician":"Galega","mejs.german":"Alem\u00e3o","mejs.greek":"Grego","mejs.haitian-creole":"Crioulo haitiano","mejs.hebrew":"Hebraico","mejs.hindi":"Hindi","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00eas","mejs.indonesian":"Indon\u00e9sio","mejs.irish":"Irland\u00eas","mejs.italian":"Italiano","mejs.japanese":"Japon\u00eas","mejs.korean":"Coreano","mejs.latvian":"Let\u00e3o","mejs.lithuanian":"Lituano","mejs.macedonian":"Maced\u00f4nio","mejs.malay":"Malaio","mejs.maltese":"Malt\u00eas","mejs.norwegian":"Noruegu\u00eas","mejs.persian":"Persa","mejs.polish":"Polon\u00eas","mejs.portuguese":"Portugu\u00eas","mejs.romanian":"Romeno","mejs.russian":"Russo","mejs.serbian":"S\u00e9rvio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espanhol","mejs.swahili":"Sua\u00edli","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00eas","mejs.turkish":"Turco","mejs.ukrainian":"Ucraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00eas","mejs.yiddish":"I\u00eddiche"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.7.1" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.7.1" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://www.omossoroense.com.br/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.17" id="mediaelement-vimeo-js"></script>
+<script type="text/javascript" async="async" src="https://www.omossoroense.com.br/wp-content/bs-booster-cache/b1763167a92d605b29f770c9556a51a9.js?ver=6.7.1" id="bs-booster-js"></script>
+<script>
+var pvrqeulcm=function(t){"use strict";return{init:function(){0==pvrqeulcm.ads_state()&&pvrqeulcm.blocked_ads_fallback()},ads_state:function(){return void 0!==window.better_ads_adblock},blocked_ads_fallback:function(){var a=[];t(".pvrqeulcm-container").each(function(){if("image"==t(this).data("type"))return 0;a.push({element_id:t(this).attr("id"),ad_id:t(this).data("adid")})}),a.length<1||jQuery.ajax({url:'https://www.omossoroense.com.br/wp-admin/admin-ajax.php',type:"POST",data:{action:"better_ads_manager_blocked_fallback",ads:a},success:function(a){var e=JSON.parse(a);t.each(e.ads,function(a,e){t("#"+e.element_id).html(e.code)})}})}}}(jQuery);jQuery(document).ready(function(){pvrqeulcm.init()});
+</script>
+
+</body></html>

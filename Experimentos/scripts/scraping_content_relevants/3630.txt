@@ -1,0 +1,3297 @@
+<html lang="pt-br"><head>
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="icon" href="/apps/diario-do-nordeste/static/assets/favicons/favicon.ico" type="image/x-icon" sizes="16x16">
+<link rel="icon" href="/apps/diario-do-nordeste/static/assets/favicons/favicon-16x16.png" type="image/png" sizes="16x16">
+<link rel="icon" href="/apps/diario-do-nordeste/static/assets/favicons/favicon-32x32.png" type="image/png" sizes="32x32">
+
+<link rel="apple-touch-icon" href="/apps/diario-do-nordeste/static/assets/favicons/apple-touch-icon.png" sizes="180x180">
+			
+
+<style>
+	:root {--accent: hsl(170, 96%, 28%)}
+
+	#page-list-content .checked\:bg-accent:checked,
+	#page .checked\:bg-accent:checked,
+	#article .checked\:bg-accent:checked {
+		background-color:var(--accent)
+	}
+
+	#page-article-special .prose h1,
+	#page-article-special .prose h2 {
+		color: var(--accent)
+	}
+
+	#page-list-content .checked\:border-accent:checked,
+	#page-list-content .hover\:border-accent:hover,
+	#page-list-content .has-\[\:checked\]\:border-accent:has(:checked),
+	#article .checked\:border-accent:checked,
+	#article .hover\:border-accent:hover,
+	#article .has-\[\:checked\]\:border-accent:has(:checked) {
+		border-color: var(--accent)
+	}
+
+	#page .checked\:border-accent:checked,
+	#page .hover\:border-accent:hover,
+	#page .has-\[\:checked\]\:border-accent:has(:checked) {
+		border-color: var(--accent)
+	}
+
+	#page-list-content .text-accent,
+	.page .text-accent,
+	#article .text-accent { color:var(--accent) }
+	.page .border-accent,
+	#page-list-content .border-accent,
+	#article .border-accent { border-color:var(--accent) }
+
+	#page-list-content .bg-accent,
+	.page .bg-accent,
+	#article .bg-accent {background-color:var(--accent)}
+
+	#page-list-content .fill-accent,
+	#article .fill-accent {fill:var(--accent)}
+	.prose a { color: var(--accent) }
+
+	@font-face {
+		font-family: "Ardina Text";
+		font-style: normal;
+		font-weight: 900;
+		src: url("/static/assets/fonts/ardina-text/ArdinaText-Bold.eot");
+		src: url("/static/assets/fonts/ardina-text/ArdinaText-Bold.woff2") format("woff2"),
+				url("/static/assets/fonts/ardina-text/ArdinaText-Bold.woff") format("woff"),
+				url("/static/assets/fonts/ardina-text/ArdinaText-Bold.ttf") format("truetype");
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: "Ardina Text";
+		font-style: normal;
+		font-weight: 500;
+		src: url("/static/assets/fonts/ardina-text/ArdinaText-Medium.eot");
+		src: url("/static/assets/fonts/ardina-text/ArdinaText-Medium.woff2") format("woff2"),
+			url("/static/assets/fonts/ardina-text/ArdinaText-Medium.woff") format("woff"),
+			url("/static/assets/fonts/ardina-text/ArdinaText-Medium.ttf") format("truetype");
+		font-display: auto;
+	}
+
+	@font-face {
+		font-family: "Longitude Display Inline";
+		font-style: normal;
+		font-weight: 500;
+		src: url("/static/assets/fonts/longitude-display-inline/longitude-display-inline.eot");
+		src: url("/static/assets/fonts/longitude-display-inline/longitude-display-inline.eot?#iefix") format("embedded-opentype"),
+				url("/static/assets/fonts/longitude-display-inline/longitude-display-inline.woff2") format("woff2"),
+				url("/static/assets/fonts/longitude-display-inline/longitude-display-inline.woff") format("woff"),
+				url("/static/assets/fonts/longitude-display-inline/longitude-display-inline.ttf") format("truetype"),
+		font-display: swap;
+	}
+
+	@font-face {
+		font-family: "remixicon";
+		src: url("/static/assets/fonts/remix-icons/remixicon.eot"); /* IE9*/
+		src: url("/static/assets/fonts/remix-icons/remixicon.eot#iefix") format('embedded-opentype'), /* IE6-IE8 */
+		url("/static/assets/fonts/remix-icons/remixicon.woff2") format("woff2"),
+		url("/static/assets/fonts/remix-icons/remixicon.woff") format("woff"),
+		url('/static/assets/fonts/remix-icons/remixicon.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+		url('/static/assets/fonts/remix-icons/remixicon.svg#remixicon') format('svg'); /* iOS 4.1- */
+		font-display: swap;
+	}
+</style>
+
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" as="style">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+
+<link rel="stylesheet" href="/css/diario/assets/morpheus/styles/morpheus.css?v=1.0.39">
+
+<link rel="preload" href="/apps/morpheus/static/styles/main.css" as="style">
+<link rel="stylesheet" href="/apps/morpheus/static/styles/main.css?v=1.58.0">
+
+<link rel="stylesheet" href="/apps/diario-do-nordeste/dist/index.css?v=0.3.5">
+<link rel="stylesheet" href="/apps/morpheus-ui-web-components/dist/main.css?v=0.9.3">
+
+			<script type="module" src="/apps/diario-do-nordeste/web-components/dist/web-components/web-components.esm.js?v=2.3.1" defer="">
+</script>
+<script type="module" src="/apps/morpheus-ui-web-components/dist/mui-web.js?v=0.9.3" defer=""> </script>
+<script type="module" src="/apps/diario-do-nordeste/dist/index.js?v=0.3.5" defer=""></script>
+
+							
+
+
+
+
+
+
+
+  
+	
+		
+	
+	
+	
+																			
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" content="Dois casos de malária são confirmados em Juazeiro, na Bahia - Bahia - Diário do Nordeste">
+<meta name="description" content="Dois casos suspeitos de malária foram notificados pela Secretaria de Saúde de Juazeiro (Sesau), na Bahia. Nesta sexta-feira (10), o órgão destacou que ambos vieram de outras localidades e confirmou resultado positivo. Ap">
+<meta name="keywords" content=" Estados">
+<meta name="news_keywords" content=" Estados">
+<meta name="data" content="2023-03-10T16:31:09-03:00">
+<meta name="DC.date.issued" content="2023-03-10T16:31:09-03:00">
+<meta name="robots" content="max-image-preview:large">
+
+<title> Dois casos de malária são confirmados em Juazeiro, na Bahia - Bahia - Diário do Nordeste </title>
+
+<meta property="twitter:description" content="Dois casos suspeitos de malária foram notificados pela Secretaria de Saúde de Juazeiro (Sesau), na Bahia. Nesta sexta-feira (10), o órgão destacou que ambos vieram de outras localidades e confirmou resultado positivo. Ap">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Dois casos de malária são confirmados em Juazeiro, na Bahia - Bahia - Diário do Nordeste">
+<meta property="twitter:image" content="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3344865:1678475479/image.jpg?h=630&amp;q=0.6&amp;w=1200&amp;$p$h$q$w=f76cc5e">
+
+<meta name="artigo:tag" content="Estados">
+
+<meta itemprop="datePublished" content="2023-03-10T16:31:09-03:00">
+<meta itemprop="image" content="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3344865:1678475479/image.jpg?h=630&amp;q=0.6&amp;w=1200&amp;$p$h$q$w=f76cc5e">
+
+<meta property="fb:app_id" content="359318294106342">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Dois casos suspeitos de malária foram notificados pela Secretaria de Saúde de Juazeiro (Sesau), na Bahia. Nesta sexta-feira (10), o órgão destacou que ambos vieram de outras localidades e confirmou resultado positivo. Ap">
+<meta property="og:title" content="Dois casos de malária são confirmados em Juazeiro, na Bahia - Bahia - Diário do Nordeste">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Diário do Nordeste">
+<meta property="og:image" content="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3344865:1678475479/image.jpg?h=630&amp;q=0.6&amp;w=1200&amp;$p$h$q$w=f76cc5e">
+<meta property="og:image:alt" content="Dois casos de malária são confirmados em Juazeiro, na Bahia - Bahia - Diário do Nordeste">
+<meta property="og:image:width" content="1080">
+<meta property="og:image:height" content="566">
+<meta property="og:url" content="https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861">
+
+<link rel="preload" as="image" href="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3344865:1678475479/image.jpg?h=630&amp;q=0.6&amp;w=1200&amp;$p$h$q$w=f76cc5e">
+
+
+<meta property="article:modified_time" content="2023-03-10T16:31:09-03:00">
+<meta property="article:published_time" content="2023-03-10T16:31:09-03:00">
+<meta property="article:section" content="Bahia">
+
+<meta property="p_article:seraphim" content="false">
+
+<meta property="p_article:type" content="massivo">
+
+	<meta property="p_article:evergreen" content="Não">
+
+
+						<meta property="p_article:prop" content="informar">
+			
+<link rel="canonical" href="https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861">
+
+<link rel="amphtml" href="https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/amp/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861">
+
+				<script type="module" src="/static/assets/scripts/articles.js" defer=""></script>
+			
+			<style>amp-social-share[type=facebook]{background-image:url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11.251 5.533H9.034V4.08c0 -0.546 0.363 -0.674 0.617 -0.674h1.562V1.008L9.059 1C6.67 1 6.128 2.789 6.128 3.934v1.599H4.746v2.47h1.382v6.995h2.907V8.005h1.962L11.25 5.533z' fill='%23fff' /%3E%3C/svg%3E");background-color:transparent}amp-social-share[type=whatsapp]{background-image:url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M16 7.794c0 4.304 -3.517 7.793 -7.854 7.793a7.87 7.87 0 0 1 -3.797 -0.97L0 16l1.418 -4.182A7.711 7.711 0 0 1 0.29 7.794C0.291 3.49 3.808 0 8.146 0 12.483 0 16 3.49 16 7.794zM8.146 1.24c-3.642 0 -6.604 2.94 -6.604 6.554A6.484 6.484 0 0 0 2.8 11.635L1.974 14.07l2.538 -0.807a6.603 6.603 0 0 0 3.634 1.085c3.641 0 6.603 -2.939 6.603 -6.552C14.749 4.182 11.887 1.24 8.146 1.24zm3.966 8.349C12.064 9.509 11.934 9.46 11.842 9.366 11.55 9.27 10.603 8.808 10.427 8.746 10.25 8.682 10.122 8.65 9.994 8.842S9.496 9.462 9.384 9.59C9.272 9.718 9.16 9.734 8.966 9.638 8.774 9.542 8.154 9.341 7.418 8.69A5.732 5.732 0 0 1 6.348 7.366C6.234 7.174 6.335 7.07 6.431 6.976 6.518 6.89 6.624 6.754 6.722 6.642 6.819 6.53 6.85 6.45 6.914 6.323 6.978 6.197 6.946 6.085 6.898 5.99 6.85 5.893 6.464 4.954 6.304 4.57 6.144 4.19 5.984 4.253 5.87 4.253 5.758 4.253 5.63 4.237 5.5 4.237A0.712 0.712 0 0 0 4.988 4.475C4.811 4.665 4.314 5.13 4.314 6.07s0.69 1.848 0.785 1.976c0.096 0.128 1.331 2.118 3.29 2.883 1.958 0.765 1.958 0.509 2.31 0.478 0.352 -0.032 1.14 -0.462 1.3 -0.908 0.16 -0.447 0.16 -0.83 0.113 -0.91z' fill='%23fff' /%3E%3C/svg%3E");background-color:transparent}amp-social-share[type=linkedin]{background-image:url("data:image/svg+xml,%3Csvg width='16' height='17' viewBox='0 0 16 17' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.817 0H1.183C0.53 0 0 0.517 0 1.155v13.793C0 15.586 0.53 16.1 1.183 16.1h13.634C15.47 16.101 16 15.586 16 14.948V1.154A1.172 1.172 0 0 0 14.817 0zM4.85 13.476H2.434V6.208H4.85v7.268zM3.643 5.216H3.626C2.816 5.216 2.293 4.66 2.293 3.96c0 -0.714 0.54 -1.257 1.365 -1.257 0.828 0 1.336 0.543 1.35 1.257 0 0.699 -0.522 1.256 -1.365 1.256zm9.92 8.26h-2.417V9.588c0 -0.977 -0.348 -1.643 -1.221 -1.643 -0.67 0 -1.068 0.449 -1.242 0.883C8.62 8.984 8.605 9.201 8.605 9.417v4.062H6.188s0.031 -6.587 0 -7.27h2.417v1.03c0.32 -0.496 0.896 -1.2 2.177 -1.2 1.59 0 2.782 1.04 2.782 3.273v4.164z' fill='%23fff' /%3E%3C/svg%3E");background-color:transparent}amp-social-share[type=twitter]{background-image:url("data:image/svg+xml,%3Csvg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M15 3.656a5.765 5.765 0 0 1 -1.65 0.453A2.877 2.877 0 0 0 14.613 2.52a5.776 5.776 0 0 1 -1.824 0.698 2.872 2.872 0 0 0 -4.896 2.62A8.149 8.149 0 0 1 1.973 2.834 2.872 2.872 0 0 0 2.86 6.67 2.845 2.845 0 0 1 1.56 6.31v0.037a2.874 2.874 0 0 0 2.304 2.816 2.87 2.87 0 0 1 -1.296 0.05 2.875 2.875 0 0 0 2.682 1.995 5.76 5.76 0 0 1 -4.252 1.189 8.136 8.136 0 0 0 4.404 1.29c5.283 0 8.172 -4.377 8.172 -8.172A9.508 9.508 0 0 0 13.566 5.144 5.841 5.841 0 0 0 15 3.656z' fill='%23fff' /%3E%3C/svg%3E");background-color:transparent}</style>
+			<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+			<script type="text/javascript" src="/static/diario/assets/js/p_googletag.js"></script>
+
+			
+        
+
+      
+							<style>
+  	.ads-leaderboard[data-state="fixed"] { margin: 0; }
+  	.ads-leaderboard { margin: 16px 0 }
+  .prose { margin: 0 auto }
+  	@media (min-width: 1020px) {
+		.ads-leaderboard { margin: 24px 0 }
+  		.lg\:grid { display: grid }
+  .w-full.lg\:flex.lg\:space-x-8 { display: flex; gap: 32px }
+	
+	}
+  	@media (min-width: 1400px) {}
+    
+    .nav-bar { position: relative }
+  
+ 	
+  
+  .m-t-jogada #page-list-content .bg-accent, 
+  .m-t-jogada #article .bg-accent {
+    background-color: #cd171a
+  }
+  
+  .m-t-jogada .prose { margin: auto; }
+  .m-c-teaser--block { display: block !important }
+  .m-c-teaser__media { margin-bottom: 16px; display: flex; }
+  
+  	.ri-arrow-right-s-line:before { content: "\ea6e"; }
+	.ri-arrow-left-s-line:before { content: "\ea6e"; }
+
+
+</style>
+							<meta name="adopt-website-id" content="0ab6c141-e658-4d74-a27f-53f691e4dab0">
+
+<script src="//tag.goadopt.io/injector.js?website_code=0ab6c141-e658-4d74-a27f-53f691e4dab0" class="adopt-injector"></script>
+
+<script>window.adoptHideAfterConsent = true;</script>
+			
+							<style>
+	[data-widget="streaming"] {
+		max-width: 88.88vw;
+	}
+  	mds-countdown div.bg-slate-900 {
+  		--tw-bg-opacity: 1;
+		background-color: rgb(15 23 42 / var(--tw-bg-opacity))
+  	}
+  
+    @media(min-width: 1280px) {  
+
+        mds-countdown div.text-2xl {
+            line-height: 1!important;
+        }
+    
+        mds-countdown div.text-sm {
+            margin-top: 1rem!important;
+        }
+    }
+  
+    @media(min-width: 360px) and (max-width: 460px) {
+        mds-countdown b.text-2xl {
+            font-size: 1.75rem;
+        }
+        
+    }
+  
+  	mds-page-header-navigation {
+    	max-width: 100vw;
+  	}
+  
+    [data-page="projeto-elas"] iframe.instagram-media,
+  	[data-page="praia-do-futuro"] iframe.instagram-media {
+      margin: 0 auto!important;
+    } 
+  
+    [data-page="projeto-elas"] .prose h2,
+  	[data-page="praia-do-futuro"] .prose h2{
+      color: #993f8a;
+    }
+  
+  [data-page="institucional"] div.flex.border-b-2,
+  [data-page="transparencia-financeira"] div.flex.border-b-2,
+  [data-page="propriedade-do-veiculo"] div.flex.border-b-2,
+  [data-page="afiliacao"] div.flex.border-b-2,
+  [data-page="correcao-de-erros"] div.flex.border-b-2,
+  [data-page="politica-de-privacidade"] div.flex.border-b-2,
+  [data-page="expediente"] div.flex.border-b-2 {
+    display: none;
+  }
+  
+  [data-page="terra-de-sabidos"] [role="banner"] strong,
+  [data-page="terra-de-sabidos"] [role="banner"] h2,
+  [data-page="terra-de-sabidos"] [role="banner"] time,
+  [data-page="terra-de-sabidos"] [role="taua"] strong,
+  [data-page="terra-de-sabidos"] [role="taua"] h2,
+  [data-page="terra-de-sabidos"] [role="taua"] time {
+  	text-shadow: 0 1px 3px rgba(0, 0, 0, .8);
+  }
+  
+  [data-page="terra-de-sabidos"] .prose h2,
+  [data-page="taua"] .prose h2 {
+  	color: #f29400;
+  }
+</style>
+			
+			
+															<script id="navegg" type="text/javascript"> (function(n,v,g){o='Navegg';if(!n[o]){ a=v.createElement('script');a.src=g;b=document.getElementsByTagName('script')[0]; b.parentNode.insertBefore(a,b);n[o]=n[o]||function(parms){ n[o].q=n[o].q||[];n[o].q.push([this, parms])};}}) (window, document, 'https://tag.navdmp.com/universal.min.js'); window.naveggReady = window.naveggReady||[]; nvg82438 = new Navegg({ acc: 82438 }); </script>
+													<meta name="google-site-verification" content="fbest1vbgVmhJsb_W4p-_vIcmUVHipbfhmwLbv4IE14">
+													<meta name="google-site-verification" content="7UfdX92eu6vZTchqyopGsl9jXkwGj-VfICQ2R2P8sq0">
+<meta name="google-site-verification" content="jT-fVsVDFHrSPtpKPfRTMIi8oKgH89A03xRn4lxmpU0">
+													<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/diariodonordeste-diariodonordeste/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+								
+			<script type="application/ld+json">
+				{
+					"@context":"http://schema.org",
+					"type":"WebPage",
+					"name":"Bahia - Diário do Nordeste",
+					"description":"" ,
+					"url":"https://diariodonordeste.verdesmares.com.br/ultima-hora/ba",
+					"image":"https://diariodonordeste.verdesmares.com.br/static/diario/diario-do-nordeste.png"
+				}
+			</script>
+			<script type="application/ld+json">
+				{
+					"@type":"Organization",
+					"@context":"http://schema.org",
+					"name":"Diário do Nordeste",
+					"url":"https://diariodonordeste.verdesmares.com.br",
+					"logo": {
+						"@type":"ImageObject",
+							"url":"https://diariodonordeste.verdesmares.com.br/static/diario/diario-do-nordeste.png",
+							"width":"360",
+							"height":"70"
+					}
+				}
+			</script>
+			<script>
+function getCookieGTM(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return null;
+}
+var ui = getCookieGTM('p_u_i_code');
+if (ui) {
+  dataLayer = [{
+    'event': 'loadUserId',
+    'userID': ui,
+  }];
+}
+</script>
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5XXKK2');</script>
+<!-- End Google Tag Manager -->
+
+
+<style>
+.icofont-alarm svg {
+	display:none;	
+}
+
+   .m-l-article p a{
+	color:rgb(0, 102, 204);
+	text-decoration: underline;
+   }
+</style>
+
+<script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+
+<!-- NEWSROOM SCRIPT -->
+<script>
+    window._newsroom = window._newsroom || [];
+    window._newsroom.push({pageTemplate: 'home'});
+    window._newsroom.push({pageDashboard: 'home'});
+    window._newsroom.push('auditClicks');
+    window._newsroom.push('trackPage');
+ 
+    !function (e, f, u) {
+        e.async = 1;
+        e.src = u;
+        f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+            document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/diariodonordeste-diariodonordeste/newsroom.js');
+</script>
+<!-- END NEWSROOM SCRIPT -->
+
+		</head>
+
+
+		<body data-page="bahia">
+			<script src="https://cdn.pn.vg/sites/187307e1-8c37-4991-9aaa-71c2299dcc50.js" async=""></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XXKK2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Meta Tag PushNews -->
+<script>
+let params_URL = new URLSearchParams(document.location.search);
+let params_utm_source = params_URL.get("utm_source");
+
+if(params_utm_source == "pushnews"){
+    let section_article = document.querySelector('meta[property="article:section"]').content
+    
+    var meta_new = document.createElement('meta');
+    meta_new.name = "pushnews-category";
+    meta_new.content = section_article;
+    document.getElementsByTagName('head')[0].appendChild(meta_new);
+}
+</script>
+<!-- Meta Tag PushNews -->
+
+
+
+							
+<div id="7.4967217.1710419289"></div>			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nav-drawer bg-accent nav-drawer-overlay" data-nav="drawer">
+	<header class="nav-drawer-header border-b border-black/10">
+		<div class="flex items-center justify-between flex-1">
+			<div class="flex items-center">
+				<button aria-label="Botão de fechar" class="btn btn-ghost icon-button" role="button" type="button" data-nav="drawer-toggle">
+					<i class="icon icon-lg ri-close-fill text-white"></i>
+				</button>
+
+				<a class="nav-brand nav-brand-responsive" href="/" title="Diário do Nordeste">
+					<img src="/apps/diario-do-nordeste/static/assets/branding/logo/white.png" class="h-full object-contain" alt="Diário do Nordeste" loading="lazy">
+				</a>
+			</div>
+		</div>
+	</header>
+
+	<div class="nav-drawer-content flex-1 flex lg:justify-center">
+
+		<div class="menu-group">
+			<div class="lg:px-10">
+				<b class="menu-title text-white">Assinante</b>
+				<lit-dn-auth-menu-links></lit-dn-auth-menu-links>
+			</div>
+
+							<div class="lg:px-10">
+					<b class="menu-title text-white">Produtos</b>
+					<div class="menu-vertical" role="menu" aria-label="Menu Principal">
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/opiniao" class="menu-label text-white capitalize">
+			Colunistas
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ceara" class="menu-label text-white capitalize">
+			DN Ceará
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/jogada" class="menu-label text-white capitalize">
+			Jogada
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/negocios" class="menu-label text-white capitalize">
+			Negócios
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/pontopoder" class="menu-label text-white capitalize">
+			PontoPoder
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/seguranca" class="menu-label text-white capitalize">
+			Segurança
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/verso" class="menu-label text-white capitalize">
+			Verso
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/newsletter" class="menu-label text-white capitalize">
+			- Newsletter
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora" class="menu-label text-white capitalize">
+			- Última Hora
+		</a>
+	
+								</div>
+											</div>
+				</div>
+							<div class="lg:px-10">
+					<b class="menu-title text-white">Páginas</b>
+					<div class="menu-vertical" role="menu" aria-label="Menu Principal">
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/automovel" class="menu-label text-white capitalize">
+			Automóvel
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/ciencia" class="menu-label text-white capitalize">
+			Ciência
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/estilo-de-vida/culinaria" class="menu-label text-white capitalize">
+			Culinária
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/entretenimento/e-hit" class="menu-label text-white capitalize">
+			É Hit
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/entrevista" class="menu-label text-white capitalize">
+			Entrevista
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/mundo" class="menu-label text-white capitalize">
+			Mundo
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/pais" class="menu-label text-white capitalize">
+			País
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/papo-carreira" class="menu-label text-white capitalize">
+			Papo Carreira
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ser-saude" class="menu-label text-white capitalize">
+			Ser Saúde
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/seu-direito" class="menu-label text-white capitalize">
+			Seu Direito
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/estilo-de-vida/sisi" class="menu-label text-white capitalize">
+			Sisi
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/tecnologia" class="menu-label text-white capitalize">
+			Tecnologia
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/entretenimento/zoeira" class="menu-label text-white capitalize">
+			Zoeira
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/al" class="menu-label text-white capitalize">
+			DN Alagoas
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/ba" class="menu-label text-white capitalize">
+			DN Bahia
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/ma" class="menu-label text-white capitalize">
+			DN Maranhão
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/pb" class="menu-label text-white capitalize">
+			DN Paraíba
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/pe" class="menu-label text-white capitalize">
+			DN Pernambuco
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/pi" class="menu-label text-white capitalize">
+			DN Piauí
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/rn" class="menu-label text-white capitalize">
+			DN Rio Grande do Norte
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora/se" class="menu-label text-white capitalize">
+			DN Sergipe
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/jogada/futebol/brasileirao-serie-a" class="menu-label text-white capitalize">
+			Brasileirão Serie A - Classificação
+		</a>
+	
+								</div>
+											</div>
+				</div>
+							<div class="lg:px-10">
+					<b class="menu-title text-white">Serviços</b>
+					<div class="menu-vertical" role="menu" aria-label="Menu Principal">
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/newsletter" class="menu-label text-white capitalize">
+			- Newsletter
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																<a href="https://privacidade.geq.com.br/" class="menu-label text-white capitalize" target="_blank" rel="noopener">
+			Portal da privacidade
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/projeto-comprova" class="menu-label text-white capitalize">
+			Projeto Comprova
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/publicidade-legal" class="menu-label text-white capitalize">
+			Publicidade Legal
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ultima-hora" class="menu-label text-white capitalize">
+			- Última Hora
+		</a>
+	
+								</div>
+											</div>
+				</div>
+							<div class="lg:px-10">
+					<b class="menu-title text-white">Projetos</b>
+					<div class="menu-vertical" role="menu" aria-label="Menu Principal">
+													<div class="menu" href="#" role="menuitem">
+																<a href="https://diariodonordeste.verdesmares.com.br/noticias/sobre/Institucional-agir%20e%20transformar" class="menu-label text-white capitalize">
+			Agir e Transformar
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																<a href="https://diariodonordeste.verdesmares.com.br/noticias/sobre/Estados-Cear%C3%A1-Praia%20%C3%89%20Vida" class="menu-label text-white capitalize" target="_blank" rel="noopener">
+			Praia é Vida
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																<a href="https://diariodonordeste.verdesmares.com.br/noticias/sobre/Institucional-Projeto%20Elas" class="menu-label text-white capitalize" target="_blank" rel="noopener">
+			Projeto Elas
+		</a>
+	
+								</div>
+													<div class="menu" href="#" role="menuitem">
+																						<a href="/ceara/terra-de-sabidos" class="menu-label text-white capitalize">
+			Terra de Sabidos
+		</a>
+	
+								</div>
+											</div>
+				</div>
+					</div>
+	</div>
+</div>
+
+			<div id="page-article-news">
+							<nav id="navigation-topbar" role="navigation" aria-label="Navegação para principais assuntos do dia" class="px-4 py-3 h-10 lg:h-12 bg-slate-50 border border-b-slate-100 overflow-x-auto lg:overflow-hidden">
+			
+			<div class="text-base leading-tight flex items-center lg:justify-center text-center gap-4">
+																													<a href="/papo-carreira/saiba-que-horas-a-nota-do-enem-sera-divulgada-pelo-inep-1.3604526" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			Resultado do Enem 
+		</a>
+	
+																										<a href="/ceara/pe-de-meia-licenciatura-lula-dara-detalhes-nesta-terca-14-para-estudantes-se-inscreverem-a-partir-de-sexta-17-1.3605067" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			Pé-de-meia licenciatura
+		</a>
+	
+																										<a href="/entretenimento/e-hit/fa-leva-anitta-as-risadas-ao-reclamar-de-preco-de-produtos-em-show-em-fortaleza-para-voce-comprar-a-racao-do-plinio-1.3605089" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			Fã leve Anitta às risadas
+		</a>
+	
+																										<a href="/ceara/micro-onibus-tomba-e-cai-em-ribanceira-em-pacoti-no-interior-do-ceara-1.3605246" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			Micro-ônibus tomba em Pacoti
+		</a>
+	
+																										<a href="/negocios/usa-cartao-de-credito-mas-nao-tem-renda-receita-pode-convocar-contribuinte-para-esclarecimentos-1.3605160" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			RF: Cartão de crédito sem renda
+		</a>
+	
+																										<a href="/negocios/confira-o-resultado-da-lotofacil-concurso-3292-desta-segunda-feira-1301-premio-e-de-r-50-milhoes-1.3605287" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			Lotofácil
+		</a>
+	
+																										<a href="/negocios/confira-o-resultado-da-quina-concurso-6630-desta-segunda-feira-1301-premio-e-de-r-35-milhoes-1.3605290" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			Quina
+		</a>
+	
+																										<a href="/negocios/resultado-da-dupla-sena-2762-de-hoje-1301-premio-e-de-r-250-mil-1.3605286" class="font-sans text-base text-slate-800 hover:text-slate-600 animation-colors flex-shrink-0" target="_blank" rel="noopener">
+			Dupla-Sena
+		</a>
+	
+													</div>
+		</nav>
+	
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="nav-bar nav-bar-lg bg-white border-b border-b-slate-100 group data-[state='fixed']:fixed" data-nav="bar" data-state="default" data-trigger="800">
+
+	<div class="w-full h-full opacity-0 invisible animation-transition absolute z-10 data-[state='open']:visible data-[state='open']:opacity-100" data-from="search" data-state="close">
+	<div class="px-4 bg-white h-full flex justify-center items-center">
+		<form action="/busca" method="get" class="w-full max-w-[680px]">
+			<div class="flex gap-3 items-start">
+				<input id="form-search" name="q" class="text-slate-800 border-slate-300 flex-grow rounded border hover:border-accent animation-colors placeholder:text-slate-500 bg-white text-base/4 h-10 px-4" type="search" placeholder="O que deseja encontrar?" required="">
+
+				<div label="Cancelar" color="destructive" type="button" styled="ghost" data-form-search="button-close" class="px-3 flex items-center justify-center gap-3 rounded animation-colors transition-all ease-linear duration-300 group cursor-pointer h-10 hover:brightness-125 hover:text-opacity-90 disabled:border-transparent disabled:bg-slate-50 disabled:hover:filter-none min-w-24 border border-transparent">
+					<button type="button">
+						<span class="font-bold uppercase tracking-wide group-disabled:text-slate-400 inline-flex text-base/4 pt-0.5 text-red-600">Cancelar</span>
+					</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+
+	<div class="nav-bar-content mx-auto">
+		<div class="nav-start flex-1">
+			<button aria-label="Botão de menu" class="btn btn-ghost icon-button" role="button" type="button" data-nav="drawer-toggle">
+				<i class="icon icon-base ri-menu-line"></i>
+			</button>
+
+			<a class="nav-brand nav-brand-responsive" data-nav="nav-brand" href="/" title="Diário do Nordeste">
+				<img src="/apps/diario-do-nordeste/static/assets/branding/logo/accent.png" class="h-full object-contain" alt="Diário do Nordeste">
+			</a>
+		</div>
+
+		<div class="nav-end flex-col items-end justify-end">
+
+			<div class="pb-2 pt-3 hidden lg:flex lg:justify-end lg:items-center group-data-[state='fixed']:hidden">
+				<div class="hidden lg:block group-data-[state='fixed']:hidden">
+					<div class="flex items-center gap-2">
+						<lit-dn-auth-buttons>
+					</lit-dn-auth-buttons></div>
+				</div>
+
+				<div class="hidden lg:block lg:group-[.sticky]:hidden ml-4">
+					<time datetime="2025-01-14" class="text-sm px-2 text-slate-600">
+						Terça-feira,
+						14 de Janeiro de 2025
+					</time>
+				</div>
+			</div>
+
+
+			<div class="flex gap-3 h-full items-center justify-end">
+				<div class="hidden lg:block h-full">
+						<nav class="menu-horizontal h-full" role="menu" data-navigation="main-menu">
+			
+		
+			<div class="menu menu-outline" data-menu="home" role="menuitem">
+																		<a href="/" class="menu-label">
+			Home
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="ultima-hora" role="menuitem">
+																		<a href="/ultima-hora" class="menu-label">
+			Última Hora
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="dn-ceara" role="menuitem">
+																		<a href="/ceara" class="menu-label">
+			DN Ceará
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="pontopoder" role="menuitem">
+																		<a href="/pontopoder" class="menu-label">
+			PontoPoder
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="seguranca" role="menuitem">
+																		<a href="/seguranca" class="menu-label">
+			Segurança
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="jogada" role="menuitem">
+																		<a href="/jogada" class="menu-label">
+			Jogada
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="negocios" role="menuitem">
+																		<a href="/negocios" class="menu-label">
+			Negócios
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="verso" role="menuitem">
+																		<a href="/verso" class="menu-label">
+			Verso
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="zoeira" role="menuitem">
+																		<a href="/entretenimento/zoeira" class="menu-label">
+			Zoeira
+		</a>
+	
+				</div>
+
+		
+			<div class="menu menu-outline" data-menu="colunistas" role="menuitem">
+																		<a href="/opiniao" class="menu-label">
+			Colunistas
+		</a>
+	
+				</div>
+
+				</nav>
+				</div>
+
+				<button aria-label="Botão de pesquisa" class="btn btn-ghost icon-button" role="button" type="button" data-form-search="button-open">
+					<i class="icon icon-base ri-search-line"></i>
+				</button>
+
+				<div class="hidden lg:group-data-[state='fixed']:block">
+					<lit-dn-auth-buttons></lit-dn-auth-buttons>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</header>
+
+					
+																					
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+		
+
+
+		
+						
+		
+
+<script type="application/ld+json">
+	{
+		"@context":"https://schema.org/",
+		"@type":"NewsArticle",
+		"mainEntityOfPage":"",
+		"name":"Dois casos de mal&aacute;ria s&atilde;o confirmados em Juazeiro, na Bahia",
+		"headline":"Dois casos de mal&aacute;ria s&atilde;o confirmados em Juazeiro, na Bahia",
+		"alternateName":"Ocorr&ecirc;ncias est&atilde;o sendo acompanhadas pela Vigil&acirc;ncia Epidemiol&oacute;gica da Sesau",
+		"alternativeHeadline":"Ocorr&ecirc;ncias est&atilde;o sendo acompanhadas pela Vigil&acirc;ncia Epidemiol&oacute;gica da Sesau",
+		"datePublished":"2023-03-10T16:31:09-03:00",
+		"dateModified":"2023-03-10T16:31:09-03:00",
+		"articleBody":"Dois casos suspeitos de mal&aacute;ria foram notificados pela Secretaria de Sa&uacute;de de Juazeiro (Sesau), na Bahia. Nesta sexta-feira (10), o &oacute;rg&atilde;o destacou que ambos vieram de outras localidades e confirmou resultado positivo. Apesar de as infec&ccedil;&otilde;es terem vindo de regi&otilde;es end&ecirc;micas, ou seja, n&atilde;o serem origin&aacute;rias no munic&iacute;pio de Juazeiro, a Sesau emitiu um alerta epidemiol&oacute;gico nesta sexta-feira (10). Ap&oacute;s notifica&ccedil;&atilde;o, os casos est&atilde;o sendo acompanhados pela&nbsp;Vigil&acirc;ncia Epidemiol&oacute;gica. [render name=&quot;Leia Mais&quot; contentId=&quot;1.3344872&quot;] Dois casos suspeitos Um dos casos &eacute; referente a paciente que foi infectado no continente africado em dezembro de 2022. A pessoa j&aacute; havia realizado o tratamento na &Aacute;frica, mas seguiu apresentando os sintomas da doen&ccedil;a. Enquanto a segunda ocorr&ecirc;ncia vem de um paciente da regi&atilde;o da Amaz&ocirc;nia, que apresentou sintomas, realizou teste r&aacute;pido e recebeu diagn&oacute;stico positivo. Assim, come&ccedil;ou o tratamento.&nbsp; Sintomas e cuidados A Funda&ccedil;&atilde;o Oswaldo Cruz (Fiocruz) delimita que a mal&aacute;ria &eacute; uma doen&ccedil;a potencialmente&nbsp;grave&nbsp;e &eacute; transmitida por meio da picada de mosquitos infectados. Al&eacute;m disso, compartilhamento de seringas e transfus&atilde;o de sangue tamb&eacute;m podem ser meios de&nbsp;transmiss&atilde;o, assim como por meio da gravidez. Entre os&nbsp;sintomas&nbsp;da doen&ccedil;a, est&atilde;o caracter&iacute;sticas como febre alta, calafrios, sudorese e dor de cabe&ccedil;a. Al&eacute;m disso, dor muscular, taquicardia e aumento do ba&ccedil;o tamb&eacute;m podem surgir. Enquanto isso, nos&nbsp;casos letais&nbsp;da doen&ccedil;a, o paciente desenvolve o que se chama de mal&aacute;ria cerebral. Assim, perturba&ccedil;&otilde;es sensoriais e desorienta&ccedil;&atilde;o acabam sendo comuns. Cuidados Para prevenir a doen&ccedil;a, &eacute; necess&aacute;rio eliminar o mosquito transmissor. Nesse sentido mosquiteiros, inseticidas e roupas protetoras podem ajudar. Em sentido mais amplo,&nbsp;drenagens&nbsp;de &aacute;gua parada, limpeza de aterros e controle da vegeta&ccedil;&atilde;o tamb&eacute;m podem ajudar a impedir o fluxo de prolifera&ccedil;&atilde;o dos parasitas.",
+		"isAccessibleForFree":"http://schema.org/True",
+				"articleSection": ["Bahia"],
+				"image":[
+			{
+				"@type":"ImageObject",
+				"url":"https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3344865:1678475479/Prefeitura%20de%20Juazeiro.jpg?f=16x9&$p$f=d18c4fa",
+				"width":"1280",
+				"height":"720",
+				"id":"#openingImage"
+			}
+					],
+		"author": [
+							{
+											"@type": "Person",
+						"name": "Redação",
+						"email": "producaodiario@svm.com.br"
+									} 					],
+		"publisher":{
+			"@type":"Organization",
+			"name":"Diário do Nordeste",
+			"logo":{
+				"@type":"ImageObject",
+				"url":"https://diariodonordeste.verdesmares.com.br/static/diario/diario-do-nordeste.png",
+				"width":"600",
+				"height":"118"
+			}
+		}
+	}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							
+
+	
+
+
+<div id="page-top-content" class="flex flex-col gap-4 items-center">
+			
+
+	<div class="ads-leaderboard flex justify-center items-center container min-w-full left-0 min-h-[72px] lg:min-h-[110px] data-[state='fixed']:fixed data-[state='fixed']:bg-slate-50 group z-40" data-ads="leaderboard">
+
+		<div id="div-7.4852114" class="flex items-center justify-center">
+		</div>
+
+		<button class="hidden bg-neutral-50 w-10 h-10 rounded-b items-center justify-center absolute -bottom-10 right-0 group-data-[state='fixed']:flex" data-ads="leaderboard-button-close" type="button" arial-label="Fechar publicidade sobreposta ao conteúdo">
+
+				<i class="ri-close-line ri-xl text-slate-600"></i>
+		</button>
+	</div>
+
+	
+	<script> googleAdvertising("/1028625/SLB1DNBAHIA", [[720, 180], [1100, 275], [320, 80], [1, 1], [1100, 110]], "div-7.4852114", "1") </script>
+	</div>
+
+	<article id="article" class="container non-paywall" data-article="news">
+
+		<header id="article-header" data-article="header">
+		<div id="article-headlines-group">
+			<div class="flex flex-col gap-3 lg:gap-5">
+
+				<hgroup class="flex flex-col gap-2 lg:gap-4">
+								<h1 id="article-heading" class="text-heading text-heading-4xl " data-article="heading" itemprop="heading">
+			Dois casos de malária são confirmados em Juazeiro, na Bahia
+		</h1>
+									<h2 class="text-lead text-lead-xl font-normal " data-article="lead" id="article-lead" itemprop="alternativeHeadline">
+			Ocorrências estão sendo acompanhadas pela Vigilância Epidemiológica da Sesau
+		</h2>
+					</hgroup>
+
+					<div class="flex flex-col gap-3 items-start">
+		<div class="flex gap-1 items-start font-sans font-normal text-base text-slate-600">
+			<div class="min-w-fit">
+				Escrito por
+			</div>
+
+			<div class="flex-shrink flex items-center flex-wrap group">
+															      <b class="text-accent">
+      Redação
+    </b>
+          <a href="mailto:producaodiario@svm.com.br" class="text-slate-600 ml-1">
+        producaodiario@svm.com.br
+      </a>
+      												</div>
+		</div>
+
+		<div class="h-px w-full bg-slate-200"></div>
+
+		<div class="font-sans text-sm text-slate-600 flex flex-col lg:flex-row lg:gap-2 gap-1">
+				<time datetime="2023-03-10T16:31:46-03:00">
+
+		<span>
+			10 de Março de 2023
+		</span>
+
+		<span>-<span>
+
+		<span>
+							16:31
+					</span>
+	</span></span></time>
+
+			
+  
+  <div>
+      </div>
+			</div>
+	</div>
+			</div>
+		</div>
+
+		<div class="lg:col-start-10 lg:col-span-2">
+						<a href="/ultima-hora/ba" class="sr-only lg:not-sr-only lg:block flex-grow font-display text-accent lg:text-5xl uppercase lg:mt-1">
+			Bahia
+		</a>
+			</div>
+	</header>
+
+			
+	
+	<figure data-article="thumbnail" class="col-span-full gap-x-4 md:gap-x-6 grid md:grid-cols-8 lg:grid-cols-12">
+		<picture class="rounded overflow-hidden aspect-video col-span-full bg-slate-50">
+			<source class="w-full h-full object-cover object-center" srcset="/image/contentid/policy:1.3344865:1678475479/Prefeitura%20de%20Juazeiro.jpg?f=16x9&amp;h=270&amp;w=480&amp;$p$f$h$w=b880a44" media="(max-width: 480px)">
+			<source class="w-full h-full object-cover object-center" srcset="/image/contentid/policy:1.3344865:1678475479/Prefeitura%20de%20Juazeiro.jpg?f=16x9&amp;h=432&amp;w=768&amp;$p$f$h$w=6104335" media="(max-width: 768px)">
+			<source class="w-full h-full object-cover object-center" srcset="/image/contentid/policy:1.3344865:1678475479/Prefeitura%20de%20Juazeiro.jpg?f=16x9&amp;h=574&amp;w=1020&amp;$p$f$h$w=558ea2f" media="(max-width: 1020px)">
+			<source class="w-full h-full object-cover object-center" srcset="/image/contentid/policy:1.3344865:1678475479/Prefeitura%20de%20Juazeiro.jpg?f=16x9&amp;h=698&amp;w=1280&amp;$p$f$h$w=931c581" media="(min-width: 1240px)">
+			<img class="w-full h-full object-cover object-center m-0" alt="Prefeitura de Juazeiro" src="/image/contentid/policy:1.3344865:1678475479/Prefeitura%20de%20Juazeiro.jpg?f=16x9&amp;h=574&amp;w=1020&amp;$p$f$h$w=558ea2f">
+		</picture>
+
+		<figcaption class="px-0 mt-2 md:mx-5 lg:mx-0 font-sans text-sm md:text-base space-y-1 md:col-start-2 lg:col-start-3 md:col-span-6">
+								<div class="text-sm">
+		<strong>Legenda:</strong>
+		<em class="font-medium not-italic text-slate-600">
+			Notificação foi feita pela Secretaria de Saúde de Juazeiro
+		</em>
+	</div>
+			
+								<div class="text-sm">
+		<strong>Foto:</strong>
+		<em class="font-medium not-italic text-slate-600">
+			Divulgação/Ascom/Gabinete/PMJ
+		</em>
+	</div>
+					</figcaption>
+	</figure>
+	
+	
+	<aside class="article-content-left">
+	
+<div id="social-share" class="lg:sticky lg:top-[30vh]">
+	<div class="flex lg:flex-col gap-4">
+		<a target="popup" href="https://api.whatsapp.com/send/?text=Dois casos de malária são confirmados em Juazeiro, na Bahia https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=whatsapp&amp;utm_medium=social&amp;utm_campaign=socialshare" onclick="window.open('https://api.whatsapp.com/send/?text=Dois casos de malária são confirmados em Juazeiro, na Bahia https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=whatsapp&amp;utm_medium=social&amp;utm_campaign=socialshare','popup','width=600,height=500')">
+				<button class="bg-accent h-12 w-12 rounded-full flex items-center justify-center">
+						<svg width="22" height="22" viewBox="0 0 16 16" fill="white" xmlns="http://www.w3.org/2000/svg">
+								<path d="M16 7.794c0 4.304 -3.517 7.793 -7.854 7.793a7.87 7.87 0 0 1 -3.797 -0.97L0 16l1.418 -4.182A7.711 7.711 0 0 1 0.29 7.794C0.291 3.49 3.808 0 8.146 0 12.483 0 16 3.49 16 7.794zM8.146 1.24c-3.642 0 -6.604 2.94 -6.604 6.554A6.484 6.484 0 0 0 2.8 11.635L1.974 14.07l2.538 -0.807a6.603 6.603 0 0 0 3.634 1.085c3.641 0 6.603 -2.939 6.603 -6.552C14.749 4.182 11.887 1.24 8.146 1.24zm3.966 8.349C12.064 9.509 11.934 9.46 11.842 9.366 11.55 9.27 10.603 8.808 10.427 8.746 10.25 8.682 10.122 8.65 9.994 8.842S9.496 9.462 9.384 9.59C9.272 9.718 9.16 9.734 8.966 9.638 8.774 9.542 8.154 9.341 7.418 8.69A5.732 5.732 0 0 1 6.348 7.366C6.234 7.174 6.335 7.07 6.431 6.976 6.518 6.89 6.624 6.754 6.722 6.642 6.819 6.53 6.85 6.45 6.914 6.323 6.978 6.197 6.946 6.085 6.898 5.99 6.85 5.893 6.464 4.954 6.304 4.57 6.144 4.19 5.984 4.253 5.87 4.253 5.758 4.253 5.63 4.237 5.5 4.237A0.712 0.712 0 0 0 4.988 4.475C4.811 4.665 4.314 5.13 4.314 6.07s0.69 1.848 0.785 1.976c0.096 0.128 1.331 2.118 3.29 2.883 1.958 0.765 1.958 0.509 2.31 0.478 0.352 -0.032 1.14 -0.462 1.3 -0.908 0.16 -0.447 0.16 -0.83 0.113 -0.91z" fill="%23fff"></path>
+						</svg>
+				</button>
+		</a>
+
+		<a target="popup" href="https://www.facebook.com/sharer/sharer.php?u=https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=socialshare" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=socialshare','popup','width=600,height=500')">
+				<button class="bg-accent h-12 w-12 rounded-full flex items-center justify-center">
+						<svg width="22" height="22" viewBox="0 0 16 16" fill="white" xmlns="http://www.w3.org/2000/svg">
+								<path d="M11.251 5.533H9.034V4.08c0 -0.546 0.363 -0.674 0.617 -0.674h1.562V1.008L9.059 1C6.67 1 6.128 2.789 6.128 3.934v1.599H4.746v2.47h1.382v6.995h2.907V8.005h1.962L11.25 5.533z" fill="%23fff"></path>
+						</svg>
+				</button>
+		</a>
+
+		<a target="popup" href="https://twitter.com/intent/tweet?text=Dois casos de malária são confirmados em Juazeiro, na Bahia https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=socialshare" onclick="window.open('https://twitter.com/intent/tweet?text=Dois casos de malária são confirmados em Juazeiro, na Bahia https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=socialshare','popup','width=600,height=500')">
+				<button class="bg-accent h-12 w-12 rounded-full flex items-center justify-center">
+						<svg width="22" height="22" viewBox="0 0 18 16" fill="white" xmlns="http://www.w3.org/2000/svg">
+							<path d="M6 0.5H0.75L6.94565 8.76087L1.08746 15.4999H3.07499L7.86623 9.98825L12 15.5H17.25L10.7938 6.89172L16.3501 0.5H14.3626L9.87323 5.66434L6 0.5ZM12.75 14L3.75 2H5.25L14.25 14H12.75Z" fill="%23fff"></path>
+						</svg>
+				</button>
+		</a>
+
+		<a target="popup" href="https://www.linkedin.com/shareArticle?url=https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=socialshare" onclick="window.open('https://www.linkedin.com/shareArticle?url=https://diariodonordeste.verdesmares.com.br/ultima-hora/ba/dois-casos-de-malaria-sao-confirmados-em-juazeiro-na-bahia-1.3344861?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=socialshare','popup','width=600,height=500')">
+				<button class="bg-accent h-12 w-12 rounded-full flex items-center justify-center">
+						<svg width="22" height="22" viewBox="0 0 16 17" fill="white" xmlns="http://www.w3.org/2000/svg">
+								<path d="M14.817 0H1.183C0.53 0 0 0.517 0 1.155v13.793C0 15.586 0.53 16.1 1.183 16.1h13.634C15.47 16.101 16 15.586 16 14.948V1.154A1.172 1.172 0 0 0 14.817 0zM4.85 13.476H2.434V6.208H4.85v7.268zM3.643 5.216H3.626C2.816 5.216 2.293 4.66 2.293 3.96c0 -0.714 0.54 -1.257 1.365 -1.257 0.828 0 1.336 0.543 1.35 1.257 0 0.699 -0.522 1.256 -1.365 1.256zm9.92 8.26h-2.417V9.588c0 -0.977 -0.348 -1.643 -1.221 -1.643 -0.67 0 -1.068 0.449 -1.242 0.883C8.62 8.984 8.605 9.201 8.605 9.417v4.062H6.188s0.031 -6.587 0 -7.27h2.417v1.03c0.32 -0.496 0.896 -1.2 2.177 -1.2 1.59 0 2.782 1.04 2.782 3.273v4.164z" fill="%23fff"></path>
+						</svg>
+				</button>
+		</a>
+	</div>
+</div>
+</aside>
+
+	<main class="article-main-content">
+		<div class="article-content-start">
+			
+					</div>
+
+		<div class="prose ">
+			<p>Dois casos <strong>suspeitos de malária</strong> foram notificados pela Secretaria de Saúde de Juazeiro (Sesau), na Bahia. Nesta sexta-feira (10), o órgão destacou que ambos vieram de outras localidades e confirmou resultado positivo.</p>
+
+<p>Apesar de as infecções terem vindo de <strong>regiões endêmicas</strong>, ou seja, não serem originárias no município de Juazeiro, a Sesau emitiu um<strong> alerta epidemiológico </strong>nesta sexta-feira (10).</p>
+
+<p>Após notificação, os casos estão sendo acompanhados pela&nbsp;Vigilância Epidemiológica.</p>
+
+<p>
+
+		
+				</p><section class="py-4 not-prose flex flex-col gap-4">
+		<header>
+			<h3 class="text-lg uppercase font-sans text-slate-900">
+				Veja também
+			</h3>
+		</header>
+		<main class="flex flex-col gap-4 max-w-[640px]">
+												
+
+
+
+
+
+
+            
+
+        
+<div class="teaser teaser-related flex-row justify-start items-start gap-2 md:gap-3 md:gap-4">
+		<a href="/ultima-hora/ba/advogada-morre-em-tentativa-de-assalto-apos-carnaval-na-bahia-1.3337783" class="teaser-thumbnail teaser-thumbnail-sm aspect-[4/3]" title="Conheça mais notícias sobre Bahia">
+
+		<img alt="teaser image" src="/image/contentid/policy:1.3337786:1676919679/csm_advogada-tancredo_neves_a3f31e8a8d_Easy-Resize.com.jpg?f=4x3&amp;h=141&amp;w=189&amp;$p$f$h$w=a86eb74" class="teaser-image" loading="lazy">
+	</a>
+		<div class="teaser-content">
+		<a class="teaser-hat text-accent" href="/ultima-hora/ba" title="Conheça mais notícias sobre Bahia">
+			<b>Bahia</b>
+		</a>
+		<a href="/ultima-hora/ba/advogada-morre-em-tentativa-de-assalto-apos-carnaval-na-bahia-1.3337783">
+			<h4 class="teaser-heading teaser-heading-sm text-base md:text-lg">
+				Advogada morre em tentativa de assalto após Carnaval na Bahia
+			</h4>
+		</a>
+	</div>
+</div>
+    																
+
+
+
+
+
+
+            
+
+        
+<div class="teaser teaser-related flex-row justify-start items-start gap-2 md:gap-3 md:gap-4">
+		<a href="/ultima-hora/ba/carro-afunda-em-via-de-salvador-apos-rompimento-de-tubulacao-veja-video-1.3336430" class="teaser-thumbnail teaser-thumbnail-sm aspect-[4/3]" title="Conheça mais notícias sobre Bahia">
+
+		<img alt="teaser image" src="/image/contentid/policy:1.3336432:1676558146/agua.JPG?f=4x3&amp;h=141&amp;w=189&amp;$p$f$h$w=4d7c2e3" class="teaser-image" loading="lazy">
+	</a>
+		<div class="teaser-content">
+		<a class="teaser-hat text-accent" href="/ultima-hora/ba" title="Conheça mais notícias sobre Bahia">
+			<b>Bahia</b>
+		</a>
+		<a href="/ultima-hora/ba/carro-afunda-em-via-de-salvador-apos-rompimento-de-tubulacao-veja-video-1.3336430">
+			<h4 class="teaser-heading teaser-heading-sm text-base md:text-lg">
+				Carro afunda em via de Salvador após rompimento de tubulação; veja vídeo
+			</h4>
+		</a>
+	</div>
+</div>
+    									</main>
+	</section>
+	<p></p>
+
+<h2><strong>Dois casos suspeitos</strong></h2>
+
+<p>Um dos casos é referente a paciente que foi infectado no continente africado em dezembro de 2022. A pessoa já havia<strong> realizado o tratamento na África</strong>, mas seguiu apresentando os sintomas da doença.</p>
+
+<p>Enquanto a segunda ocorrência vem de um paciente da região da Amazônia, que apresentou sintomas, realizou teste rápido e<strong> recebeu diagnóstico positivo</strong>. Assim, começou o tratamento.&nbsp;</p>
+
+<h2><strong>Sintomas e cuidados</strong></h2>
+
+<p>A Fundação Oswaldo Cruz (Fiocruz) delimita que a malária é uma doença potencialmente&nbsp;<strong>grave&nbsp;</strong>e é transmitida por meio da picada de mosquitos infectados.</p>
+
+<p>Além disso, compartilhamento de seringas e transfusão de sangue também podem ser meios de&nbsp;<strong>transmissão</strong>, assim como por meio da gravidez.</p>
+
+<p>Entre os&nbsp;<strong>sintomas&nbsp;</strong>da doença, estão características como febre alta, calafrios, sudorese e dor de cabeça. Além disso, dor muscular, taquicardia e aumento do baço também podem surgir.</p>
+
+<p>Enquanto isso, nos&nbsp;<strong>casos letais&nbsp;</strong>da doença, o paciente desenvolve o que se chama de malária cerebral. Assim, perturbações sensoriais e desorientação acabam sendo comuns.</p>
+
+<h2><strong>Cuidados</strong></h2>
+
+<p>Para prevenir a doença, é necessário eliminar o mosquito transmissor. Nesse sentido mosquiteiros, inseticidas e roupas protetoras podem ajudar.</p>
+
+<p>Em sentido mais amplo,&nbsp;<strong>drenagens&nbsp;</strong>de água parada, limpeza de aterros e controle da vegetação também podem ajudar a impedir o fluxo de proliferação dos parasitas.</p>
+		</div>
+
+		<div class="article-content-end">
+			
+			
+			
+			
+							<div class="mt-8 not-prose">
+					<div class="mb-2">
+						<b class="font-sans text-base md:text-lg leading-tight uppercase text-slate-800">
+							Assuntos Relacionados
+						</b>
+					</div>
+
+					<div class="flex gap-2 flex-wrap">
+													<m-tag label="Estados/bahia&nbsp;" href="/noticias/sobre/estados/bahia">
+							</m-tag>
+											</div>
+				</div>
+					</div>
+	</main>
+
+	<div id="article-footer" class="flex flex-col gap-4 lg:gap-6">
+		
+									<div id="teasers-feed" class="flex flex-col divide-y divide-solid divide-slate-200" data-js="teasers">
+															
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/motorista-de-aplicativo-e-agredido-por-passageira-apos-se-recusar-a-entrar-em-condominio-na-zona-nobre-de-salvador-1.3603095" aria-label="Motorista de aplicativo é agredido por passageira após se recusar a entrar em condomínio na zona nobre de Salvador">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3603097:1736301384/agressaobahia.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=8dea1bd" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Bahia" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/motorista-de-aplicativo-e-agredido-por-passageira-apos-se-recusar-a-entrar-em-condominio-na-zona-nobre-de-salvador-1.3603095" aria-label="Motorista de aplicativo é agredido por passageira após se recusar a entrar em condomínio na zona nobre de Salvador">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Motorista de aplicativo é agredido por passageira após se recusar a entrar em condomínio na zona nobre de Salvador </h2>
+								<p class="text-lead text-lead-lg">
+		Homem registrou agressão em vídeo
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			07 de Janeiro de 2025
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/obra-de-fabrica-da-byd-na-bahia-mantinha-163-trabalhadores-em-condicoes-analogas-a-escravidao-1.3598070" aria-label="Obra de fábrica da BYD na Bahia mantinha 163 trabalhadores em condições análogas à escravidão">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3598074:1735072722/trabalho%20analago%20a%20escravid%C3%A3o%20byd%20bahia.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=39e5243" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Fotos de inspeção em canteiro de obras da BYD que identificaram trabalho análogo a escravidão" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/obra-de-fabrica-da-byd-na-bahia-mantinha-163-trabalhadores-em-condicoes-analogas-a-escravidao-1.3598070" aria-label="Obra de fábrica da BYD na Bahia mantinha 163 trabalhadores em condições análogas à escravidão">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Obra de fábrica da BYD na Bahia mantinha 163 trabalhadores em condições análogas à escravidão </h2>
+								<p class="text-lead text-lead-lg">
+		Operários viviam em alojamentos com condições precários de estadia, higiene e sem alimentação adequada
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			24 de Dezembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/homens-armados-invadem-presidio-na-bahia-trocam-tiros-com-segurancas-e-16-detentos-fogem-1.3593961" aria-label="Homens armados invadem presídio na Bahia, trocam tiros com seguranças e 16 detentos fogem">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3593983:1734101767/foto-no-tamanho-home-2024-12-13t090522.708.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=4108234" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Dezesseis detentos fogem de presídio na Bahia, após invasão de homens armados" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/homens-armados-invadem-presidio-na-bahia-trocam-tiros-com-segurancas-e-16-detentos-fogem-1.3593961" aria-label="Homens armados invadem presídio na Bahia, trocam tiros com seguranças e 16 detentos fogem">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Homens armados invadem presídio na Bahia, trocam tiros com seguranças e 16 detentos fogem </h2>
+								<p class="text-lead text-lead-lg">
+		Os detentos estavam duas selas que foram abertas pelos suspeitos
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			13 de Dezembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/vereador-francisco-nascimento-joga-dinheiro-pela-janela-antes-de-ser-preso-pela-pf-1.3592741" aria-label="Vereador Francisco Nascimento joga dinheiro pela janela antes de ser preso pela PF">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3592742:1733864448/TEMPLATE%20BASE%20(4).jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=150bc65" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Dinheiro encontrado pela Operação Overclean da Polícia Federal" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/vereador-francisco-nascimento-joga-dinheiro-pela-janela-antes-de-ser-preso-pela-pf-1.3592741" aria-label="Vereador Francisco Nascimento joga dinheiro pela janela antes de ser preso pela PF">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Vereador Francisco Nascimento joga dinheiro pela janela antes de ser preso pela PF </h2>
+								<p class="text-lead text-lead-lg">
+		Operação Overclean mira grupo suspeito de desviar cerca de 1,4 bilhão do Departamento Nacional de Obras Contra as Secas (Dnocs)
+
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			10 de Dezembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/bombeiros-encontram-corpo-de-menina-de-12-anos-que-caiu-em-bueiro-na-bahia-1.3588547" aria-label="Bombeiros encontram corpo de menina de 12 anos que caiu em bueiro na Bahia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3588563:1732911937/vittima.jfif?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=481bd83" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Menina de 12 anos que morreu após cair em bueiro em cidade na Bahia" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/bombeiros-encontram-corpo-de-menina-de-12-anos-que-caiu-em-bueiro-na-bahia-1.3588547" aria-label="Bombeiros encontram corpo de menina de 12 anos que caiu em bueiro na Bahia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Bombeiros encontram corpo de menina de 12 anos que caiu em bueiro na Bahia </h2>
+								<p class="text-lead text-lead-lg">
+		A vítima sofreu o acidente no início da tarde de quarta-feira (27), quando havia acabado de sair da escola
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			29 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/menina-de-12-anos-desaparece-apos-cair-em-bueiro-em-cidade-na-bahia-veja-video-1.3587853" aria-label="Menina de 12 anos desaparece após cair em bueiro em cidade na Bahia; veja vídeo">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3587860:1732807250/WhatsApp%20Image%202024-11-28%20at%2012.18.34.jpeg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=127c612" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Imagem de câmera de segurança mostra menina caindo" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/menina-de-12-anos-desaparece-apos-cair-em-bueiro-em-cidade-na-bahia-veja-video-1.3587853" aria-label="Menina de 12 anos desaparece após cair em bueiro em cidade na Bahia; veja vídeo">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Menina de 12 anos desaparece após cair em bueiro em cidade na Bahia; veja vídeo </h2>
+								<p class="text-lead text-lead-lg">
+		Amanda Max Teles da Silva é procurada por bombeiros militares em galerias de água da chuva de Dias D'Ávila, na Região Metropolitana de Salvador
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			28 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/chuvas-intensas-em-salvador-causam-morte-de-jovem-e-deslizamentos-de-terra-1.3587579" aria-label="Chuvas intensas em Salvador causam morte de jovem e deslizamentos de terra">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3587585:1732733225/chuvas.JPG?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=c78406a" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Chuvas em Salvador, na Bahia" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/chuvas-intensas-em-salvador-causam-morte-de-jovem-e-deslizamentos-de-terra-1.3587579" aria-label="Chuvas intensas em Salvador causam morte de jovem e deslizamentos de terra">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Chuvas intensas em Salvador causam morte de jovem e deslizamentos de terra </h2>
+								<p class="text-lead text-lead-lg">
+		Precipitações superaram em mais de 100% a médica histórica para novembro na capital baiana
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			27 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/esmeralda-bahia-de-380-kg-sera-devolvida-dos-eua-para-o-brasil-apos-9-anos-de-disputa-1.3585965" aria-label="Esmeralda Bahia, de 380 kg, será devolvida dos EUA para o Brasil após 9 anos de disputa ">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3585988:1732312037/Esmeralda.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=9808086" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Esmeralda Bahia" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/esmeralda-bahia-de-380-kg-sera-devolvida-dos-eua-para-o-brasil-apos-9-anos-de-disputa-1.3585965" aria-label="Esmeralda Bahia, de 380 kg, será devolvida dos EUA para o Brasil após 9 anos de disputa ">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Esmeralda Bahia, de 380 kg, será devolvida dos EUA para o Brasil após 9 anos de disputa  </h2>
+								<p class="text-lead text-lead-lg">
+		Pedra está sob a custódia da Polícia de Los Angeles
+
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			22 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/medico-investigado-por-injuria-racial-e-encontrado-morto-dentro-de-casa-na-bahia-1.3585626" aria-label="Médico investigado por injúria racial é encontrado morto dentro de casa, na Bahia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3585630:1732276761/medico.JPG?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=6c395b2" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Médico denunciado por injúria racial foi preso na Bahia" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/medico-investigado-por-injuria-racial-e-encontrado-morto-dentro-de-casa-na-bahia-1.3585626" aria-label="Médico investigado por injúria racial é encontrado morto dentro de casa, na Bahia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Médico investigado por injúria racial é encontrado morto dentro de casa, na Bahia </h2>
+								<p class="text-lead text-lead-lg">
+		Luís Leite teria falecido por insuficiência respiratória, congestão e tromboembolismo pulmonar
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			22 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/explosao-seguida-de-incendio-atinge-polo-industrial-de-camacari-na-bahia-1.3583966" aria-label="Explosão seguida de incêndio atinge Polo Industrial de Camaçari, na Bahia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3583969:1731925409/explos%C3%A3o%20e%20inc%C3%AAndio%20BA.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=851a319" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Imagens mostram coluna de fumaça gerada por explosão seguida de incêndio no Polo Industrial de Camaçari, Bahia" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/explosao-seguida-de-incendio-atinge-polo-industrial-de-camacari-na-bahia-1.3583966" aria-label="Explosão seguida de incêndio atinge Polo Industrial de Camaçari, na Bahia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Explosão seguida de incêndio atinge Polo Industrial de Camaçari, na Bahia </h2>
+								<p class="text-lead text-lead-lg">
+		Autoridades locais detalharam não haver feridos na ocasião
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			18 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/elevador-cai-de-sexto-andar-em-predio-de-luxo-e-deixa-dois-mortos-em-salvador-na-bahia-1.3582919" aria-label="Elevador cai de sexto andar em prédio de luxo e deixa dois mortos em Salvador, na Bahia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3582924:1731601604/predio.JPG?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=305c1fb" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Elevador despenca em prédio de Salvador" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/elevador-cai-de-sexto-andar-em-predio-de-luxo-e-deixa-dois-mortos-em-salvador-na-bahia-1.3582919" aria-label="Elevador cai de sexto andar em prédio de luxo e deixa dois mortos em Salvador, na Bahia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Elevador cai de sexto andar em prédio de luxo e deixa dois mortos em Salvador, na Bahia </h2>
+								<p class="text-lead text-lead-lg">
+		Vítimas estavam realizando serviço de mudança durante o acidente nesta quinta-feira (14)
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			14 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/mulher-perde-filha-no-parto-e-diz-que-medica-perfurou-pescoco-da-bebe-com-unha-em-hospital-na-bahia-1.3580485" aria-label="Mulher perde filha no parto e diz que médica perfurou pescoço da bebê com unha em hospital na Bahia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3580491:1731021160/mulher%20bahia.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=c43055d" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Mulher negra usando vestido vermelho" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/mulher-perde-filha-no-parto-e-diz-que-medica-perfurou-pescoco-da-bebe-com-unha-em-hospital-na-bahia-1.3580485" aria-label="Mulher perde filha no parto e diz que médica perfurou pescoço da bebê com unha em hospital na Bahia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Mulher perde filha no parto e diz que médica perfurou pescoço da bebê com unha em hospital na Bahia </h2>
+								<p class="text-lead text-lead-lg">
+		Caso está sendo investigado pela Polícia Civil
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			07 de Novembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/estudante-mata-tres-colegas-de-classe-em-escola-no-interior-da-bahia-1.3572682" aria-label="Estudante mata três colegas de classe em escola no interior da Bahia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3572688:1729336668/WhatsApp%20Image%202024-10-19%20at%2008.13.01%20(2).jpeg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=157c299" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="População observa vítimas serem levadas por ambulância" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/estudante-mata-tres-colegas-de-classe-em-escola-no-interior-da-bahia-1.3572682" aria-label="Estudante mata três colegas de classe em escola no interior da Bahia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Estudante mata três colegas de classe em escola no interior da Bahia </h2>
+								<p class="text-lead text-lead-lg">
+		O caso aconteceu em uma unidade na Serra dos Correias, um povoado no município de Heliópolis
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Diário do Nordeste/Estadão Conteúdo
+		</div>
+
+		<div class="text-slate-500">
+			19 de Outubro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/empresario-e-morto-apos-fugir-de-blitz-na-bahia-ele-ja-havia-sido-preso-por-vazar-nudes-de-cliente-1.3570370" aria-label="Empresário é morto após fugir de blitz na Bahia; ele já havia sido preso por vazar nudes de cliente">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3570382:1728919442/WhatsApp%20Image%202024-10-14%20at%2012.23.46.jpeg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=da59e30" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Fernando Alves Souza Coelho, de 39 anos, era um homem branco de cabelo preto e barba bem feita. Na foto, ele está em seu carro dirigindo" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/empresario-e-morto-apos-fugir-de-blitz-na-bahia-ele-ja-havia-sido-preso-por-vazar-nudes-de-cliente-1.3570370" aria-label="Empresário é morto após fugir de blitz na Bahia; ele já havia sido preso por vazar nudes de cliente">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Empresário é morto após fugir de blitz na Bahia; ele já havia sido preso por vazar nudes de cliente </h2>
+								<p class="text-lead text-lead-lg">
+		Fernando Alves Souza Coelho desobedeceu duas ordens de parada da Polícia Militar e deu início a uma perseguição em avenida de Feira de Santana
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			14 de Outubro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/mulher-cai-em-buraco-coberto-por-santinhos-politicos-antes-de-votar-em-salvador-1.3567405" aria-label="Mulher cai em buraco coberto por santinhos políticos antes de votar em Salvador">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3567409:1728231143/Mulher%20cai%20em%20buraco.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=e170049" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Mulher cai em buraco durante trajeto ao local de votação" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/mulher-cai-em-buraco-coberto-por-santinhos-politicos-antes-de-votar-em-salvador-1.3567405" aria-label="Mulher cai em buraco coberto por santinhos políticos antes de votar em Salvador">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Mulher cai em buraco coberto por santinhos políticos antes de votar em Salvador </h2>
+								<p class="text-lead text-lead-lg">
+		Eleitora foi socorrida por policiais militares que estavam no local
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			06 de Outubro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/missao-cumprida-filha-se-forma-em-direito-e-consegue-absolvicao-da-mae-acusada-de-homicidio-1.3567186" aria-label="'Missão cumprida': Filha se forma em Direito e consegue absolvição da mãe, acusada de homicídio">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3567187:1728158637/Snapinsta.app_233608460_1207005863134729_1757060152501211585_n_1080.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=ddd40e8" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/missao-cumprida-filha-se-forma-em-direito-e-consegue-absolvicao-da-mae-acusada-de-homicidio-1.3567186" aria-label="'Missão cumprida': Filha se forma em Direito e consegue absolvição da mãe, acusada de homicídio">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> 'Missão cumprida': Filha se forma em Direito e consegue absolvição da mãe, acusada de homicídio </h2>
+								<p class="text-lead text-lead-lg">
+		Caso aconteceu em 2012, na Bahia; acusação foi um dos motivos que levou filha a optar por carreira no Direito
+
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			05 de Outubro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/aviao-faz-pouso-de-emergencia-em-salvador-e-atriz-da-globo-acusa-funcionario-de-transfobia-1.3564174" aria-label="Avião faz pouso de emergência em Salvador, e atriz da Globo acusa funcionário de transfobia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3564179:1727740337/aeroporto-salvador-capa2019.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=6ce0734" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Aeroporto Internacional de Salvador Luís Eduardo Magalhães" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/aviao-faz-pouso-de-emergencia-em-salvador-e-atriz-da-globo-acusa-funcionario-de-transfobia-1.3564174" aria-label="Avião faz pouso de emergência em Salvador, e atriz da Globo acusa funcionário de transfobia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Avião faz pouso de emergência em Salvador, e atriz da Globo acusa funcionário de transfobia </h2>
+								<p class="text-lead text-lead-lg">
+		Aeronave saiu de Recife em direção ao Rio de Janeiro
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			30 de Setembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/bahia-tem-duas-mortes-por-botulismo-apos-consumo-de-mortadela-de-frango-1.3562014" aria-label="Bahia tem duas mortes por botulismo após consumo de mortadela de frango">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3562019:1727262549/sanduiche-mortadela.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=ec286a7" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Bahia tem duas mortes por botulismo após consumo de mortadela de frango" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/bahia-tem-duas-mortes-por-botulismo-apos-consumo-de-mortadela-de-frango-1.3562014" aria-label="Bahia tem duas mortes por botulismo após consumo de mortadela de frango">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Bahia tem duas mortes por botulismo após consumo de mortadela de frango </h2>
+								<p class="text-lead text-lead-lg">
+		Além dos cinco casos confirmados, um sexto ainda segue em investigação
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			25 de Setembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/mulher-de-25-anos-reencontra-pai-apos-ter-sido-mantida-em-cativeiro-pelo-tio-por-quase-10-anos-1.3560985" aria-label="Mulher de 25 anos reencontra pai após ter sido mantida em cativeiro pelo tio por quase 10 anos">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3560994:1727029485/WhatsApp%20Image%202024-09-22%20at%2015.24.21.jpeg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=9e62720" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Cativeiro onde vítima ficou presa pelo tio" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/mulher-de-25-anos-reencontra-pai-apos-ter-sido-mantida-em-cativeiro-pelo-tio-por-quase-10-anos-1.3560985" aria-label="Mulher de 25 anos reencontra pai após ter sido mantida em cativeiro pelo tio por quase 10 anos">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Mulher de 25 anos reencontra pai após ter sido mantida em cativeiro pelo tio por quase 10 anos </h2>
+								<p class="text-lead text-lead-lg">
+		A vítima foi sequestrada aos 15 anos, no Espírito Santo, e mantida presa em uma área de difícil acesso no extremo sul da Bahia
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			22 de Setembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div class="py-4 lg:py-6 first:pt-0" data-js="teaser">
+
+		<div class="flex flex-row gap-3 flex-col md:gap-4 md:flex-row relative">
+								<a href="/ultima-hora/ba/mulher-de-44-anos-morre-eletrocutada-ao-tirar-roupas-de-maquina-de-lavar-na-bahia-1.3559286" aria-label="Mulher de 44 anos morre eletrocutada ao tirar roupas de máquina de lavar na Bahia">
+								<div class="w-full md:w-[316px] relative rounded overflow-hidden">
+		<div class="relative aspect-[4/3] w-full filter transition-filter duration-500 hover:brightness-95">
+			<img src="/image/contentid/policy:1.3559289:1726613879/mulher%20bahia.jpg?f=4x3&amp;h=216&amp;w=288&amp;$p$f$h$w=c43055d" class="w-full h-full object-cover transform hover:scale-110 duration-500 ease-in-out transition-transform" alt="Montagem de mulher eletrocutada e máquina de lavar" width="288px" height="216px" loading="lazy">
+		</div>
+
+			</div>
+				
+	</a>
+			
+			<div class="flex flex-col gap-4 md:gap-4 flex-grow">
+				<div class="flex flex-col gap-2">
+						<a href="/ultima-hora/ba" aria-label="Abrir a url /ultima-hora/ba" class="text-accent font-sans font-base font-bold uppercase leading-none">
+			Bahia
+	</a>
+
+						<a href="/ultima-hora/ba/mulher-de-44-anos-morre-eletrocutada-ao-tirar-roupas-de-maquina-de-lavar-na-bahia-1.3559286" aria-label="Mulher de 44 anos morre eletrocutada ao tirar roupas de máquina de lavar na Bahia">
+								<div class="flex flex-col flex-grow gap-1">
+								<h2 class="text-heading text-heading-xl"> Mulher de 44 anos morre eletrocutada ao tirar roupas de máquina de lavar na Bahia </h2>
+								<p class="text-lead text-lead-lg">
+		A vítima foi encontrada pela mãe, de 83 anos, no município de Tanquinho
+	</p>
+						</div>
+					
+	</a>
+
+				</div>
+
+					<div class="flex text-sm font-sans">
+		<div class="text-slate-600 font-bold mr-2">
+			Redação
+		</div>
+
+		<div class="text-slate-500">
+			17 de Setembro de 2024
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										</div>
+						</div>
+
+		<aside id="page-aside-content" class="article-content-right">
+														
+
+<div class="flex items-center justify-center m-u-mb-4 ads">
+	<div id="7.4649197.1671796599"></div>
+</div>
+																
+	
+	<div class="widget">
+		<header class="widget-header">
+			<div class="w-24 h-1 bg-accent relative -top-3"></div>
+
+			<h3 class="font-sans uppercase font-bold text-lg/6 text-slate-800">
+				VC Repórter
+			</h3>
+
+			
+					</header>
+
+		<main class="widget-body">
+			<div class="flex flex-col items-center">
+	<svg height="64" viewBox="-1 0 512 512" width="64" xmlns="http://www.w3.org/2000/svg">
+		<path d="M10.895 512A10.895 10.895 0 01.387 498.23l33.285-121.546C12.949 339.21 2.023 296.82 2.039 253.789 2.098 113.848 115.98 0 255.91 0c67.871.027 131.645 26.465 179.578 74.434 47.926 47.972 74.309 111.742 74.29 179.558-.063 139.945-113.946 253.801-253.868 253.801h-.11c-40.87-.016-81.39-9.977-117.468-28.844L13.656 511.645c-.914.238-1.843.355-2.761.355zm0 0" fill="#e5e5e5"></path>
+		<path d="M10.895 501.105l34.468-125.87c-21.261-36.84-32.445-78.63-32.43-121.442C12.989 119.859 121.98 10.895 255.91 10.895c64.992.027 125.996 25.324 171.871 71.238 45.871 45.914 71.125 106.945 71.102 171.855-.059 133.93-109.067 242.91-242.973 242.91-.008 0 .004 0 0 0h-.105c-40.664-.015-80.618-10.214-116.106-29.57zm134.77-77.75l7.378 4.372c31 18.398 66.543 28.128 102.789 28.148h.078c111.305 0 201.899-90.578 201.945-201.902.02-53.95-20.964-104.68-59.093-142.84-38.133-38.16-88.832-59.188-142.778-59.211C144.59 51.922 54 142.488 53.957 253.809c-.016 38.148 10.656 75.296 30.875 107.445l4.805 7.64-20.407 74.5zm0 0" fill="#fff"></path>
+		<path d="M19.344 492.625l33.277-121.52c-20.531-35.562-31.324-75.91-31.312-117.234.05-129.297 105.273-234.488 234.558-234.488 62.75.027 121.645 24.449 165.922 68.773 44.29 44.324 68.664 103.242 68.64 165.899-.054 129.3-105.28 234.504-234.55 234.504-.012 0 .004 0 0 0h-.106c-39.253-.016-77.828-9.868-112.085-28.54zm0 0" fill="#64b161"></path>
+		<g fill="#fff">
+			<path d="M10.895 501.105l34.468-125.87c-21.261-36.84-32.445-78.63-32.43-121.442C12.989 119.859 121.98 10.895 255.91 10.895c64.992.027 125.996 25.324 171.871 71.238 45.871 45.914 71.125 106.945 71.102 171.855-.059 133.93-109.067 242.91-242.973 242.91-.008 0 .004 0 0 0h-.105c-40.664-.015-80.618-10.214-116.106-29.57zm134.77-77.75l7.378 4.372c31 18.398 66.543 28.128 102.789 28.148h.078c111.305 0 201.899-90.578 201.945-201.902.02-53.95-20.964-104.68-59.093-142.84-38.133-38.16-88.832-59.188-142.778-59.211C144.59 51.922 54 142.488 53.957 253.809c-.016 38.148 10.656 75.296 30.875 107.445l4.805 7.64-20.407 74.5zm0 0">
+			</path>
+			<path d="M195.184 152.246c-4.547-10.11-9.336-10.312-13.664-10.488-3.54-.153-7.59-.145-11.633-.145-4.047 0-10.625 1.524-16.188 7.598-5.566 6.074-21.254 20.762-21.254 50.633 0 29.875 21.758 58.738 24.793 62.793 3.035 4.05 42 67.308 103.707 91.644 51.285 20.227 61.72 16.203 72.852 15.192 11.133-1.012 35.918-14.688 40.976-28.864 5.063-14.175 5.063-26.324 3.543-28.867-1.52-2.527-5.566-4.047-11.636-7.082-6.07-3.035-35.918-17.726-41.485-19.75-5.566-2.027-9.613-3.035-13.66 3.043-4.05 6.07-15.676 19.742-19.219 23.79-3.543 4.058-7.086 4.566-13.156 1.527-6.07-3.043-25.625-9.45-48.82-30.133-18.047-16.09-30.235-35.965-33.777-42.043-3.54-6.07-.06-9.07 2.667-12.387 4.91-5.973 13.149-16.71 15.172-20.758 2.024-4.054 1.012-7.597-.504-10.637-1.52-3.035-13.32-33.058-18.714-45.066zm0 0" fill-rule="evenodd"></path>
+		</g>
+	</svg>
+	<div class="text-center">
+		<div class="text-lg text-gray-500 mt-4">
+			Flagrou algo? Envie para nós
+			<div class="text-3xl font-bold mt-1">
+				<a href="https://api.whatsapp.com/send?phone=5585999690752"> (85) 99969-0752 </a>
+			</div>
+		</div>
+	</div>
+</div>
+
+		</main>
+	</div>
+																	
+	
+	<div class="widget">
+		<header class="widget-header">
+			<div class="w-24 h-1 bg-accent relative -top-3"></div>
+
+			<h3 class="font-sans uppercase font-bold text-lg/6 text-slate-800">
+				Top mais vistas
+			</h3>
+
+			
+					</header>
+
+		<main class="widget-body">
+			
+
+	<div class="divide-y divide-slate-100 divide-solid">
+					
+							<a href="/pontopoder/evandro-leitao-anuncia-inspetora-cristiane-correia-como-1-mulher-a-comandar-a-guarda-municipal-de-fortaleza-1.3605324" class="flex items-center lg:flex-col lg:items-center gap-4 lg:gap-1 py-4 first:pt-0 last:pb-0">
+					<m-text class="text-accent lg:text-4xl lg:text-center -mt-2" family="serif" size="2xl" as="span" label="1">
+					</m-text>
+
+					<div class="w-full lg:text-center">
+						<m-text class="text-slate-600 lg:text-lg leading-tight" label="Evandro Leitão anuncia inspetora Cristiane Correia como 1ª mulher a comandar a Guarda Municipal de Fortaleza" size="base" family="sans" as="span">
+						</m-text>
+					</div>
+				</a>
+								
+							<a href="/ultima-hora/pais/menina-de-4-anos-morre-esfaqueada-pela-irma-em-sc-policia-diz-que-mulher-aparentava-estar-em-surto-psicotico-1.3605336" class="flex items-center lg:flex-col lg:items-center gap-4 lg:gap-1 py-4 first:pt-0 last:pb-0">
+					<m-text class="text-accent lg:text-4xl lg:text-center -mt-2" family="serif" size="2xl" as="span" label="2">
+					</m-text>
+
+					<div class="w-full lg:text-center">
+						<m-text class="text-slate-600 lg:text-lg leading-tight" label="Menina de 4 anos morre esfaqueada pela irmã em SC; polícia diz que mulher aparentava estar em surto psicótico" size="base" family="sans" as="span">
+						</m-text>
+					</div>
+				</a>
+								
+							<a href="/negocios/novo-leilao-da-receita-federal-tem-smartphones-joias-e-videogames-por-r-100-veja-como-participar-1.3605318" class="flex items-center lg:flex-col lg:items-center gap-4 lg:gap-1 py-4 first:pt-0 last:pb-0">
+					<m-text class="text-accent lg:text-4xl lg:text-center -mt-2" family="serif" size="2xl" as="span" label="3">
+					</m-text>
+
+					<div class="w-full lg:text-center">
+						<m-text class="text-slate-600 lg:text-lg leading-tight" label="Novo leilão da Receita Federal tem smartphones, joias e videogames por R$ 100; veja como participar" size="base" family="sans" as="span">
+						</m-text>
+					</div>
+				</a>
+								
+							<a href="/negocios/usa-cartao-de-credito-mas-nao-tem-renda-receita-pode-convocar-contribuinte-para-esclarecimentos-1.3605160" class="flex items-center lg:flex-col lg:items-center gap-4 lg:gap-1 py-4 first:pt-0 last:pb-0">
+					<m-text class="text-accent lg:text-4xl lg:text-center -mt-2" family="serif" size="2xl" as="span" label="4">
+					</m-text>
+
+					<div class="w-full lg:text-center">
+						<m-text class="text-slate-600 lg:text-lg leading-tight" label="Usa cartão de crédito, mas não tem renda? Receita pode convocar contribuinte para esclarecimentos" size="base" family="sans" as="span">
+						</m-text>
+					</div>
+				</a>
+								
+							<a href="/pontopoder/bolsonaro-diz-a-moraes-que-convite-para-posse-de-trump-e-oficial-e-que-viagem-vai-durar-cinco-dias-1.3605338" class="flex items-center lg:flex-col lg:items-center gap-4 lg:gap-1 py-4 first:pt-0 last:pb-0">
+					<m-text class="text-accent lg:text-4xl lg:text-center -mt-2" family="serif" size="2xl" as="span" label="5">
+					</m-text>
+
+					<div class="w-full lg:text-center">
+						<m-text class="text-slate-600 lg:text-lg leading-tight" label="Bolsonaro diz a Moraes que convite para posse de Trump é oficial e que viagem vai durar cinco dias" size="base" family="sans" as="span">
+						</m-text>
+					</div>
+				</a>
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+						</div>
+		</main>
+	</div>
+																	
+
+<div class="flex items-center justify-center m-u-mb-4 ads">
+	<div id="7.4649202.1655755587"></div>
+</div>
+																
+	
+	<div class="widget">
+		<header class="widget-header">
+			<div class="w-24 h-1 bg-accent relative -top-3"></div>
+
+			<h3 class="font-sans uppercase font-bold text-lg/6 text-slate-800">
+				Newsletter
+			</h3>
+
+							<span class="font-sans text-base/5 text-slate-600 block">
+	      	Escolha suas newsletters favoritas e mantenha-se informado
+	    	</span>
+			
+					</header>
+
+		<main class="widget-body">
+			
+
+
+
+
+<form class="form" name="form-newsletter" action="/mailchimp" method="post" data-form="form-newsletter">
+	
+	<input type="hidden" name="list-audience" value="738d7de887" required="">
+
+	<div class="form-field" data-input="selection-checkbox-group">
+		<div class="flex flex-col gap-2">
+							<div data-input="selection-checkbox" class="focus:border-accent has-[:checked]:border-accent hover:border-accent selection-checkbox animation-colors hover:border-accent cursor-pointer">
+	<label class="w-full cursor-pointer">
+		<div class="relative flex flex-row items-center justify-between w-full gap-1 px-3 py-4">
+			<div class="flex flex-col gap-1">
+				<h4 class="font-serif text-base/5 text-slate-800">
+					8 Minutos
+				</h4>
+				<span class="font-sans font-normal text-slate-600 text-sm/5">
+					As principais notícias do dia direto no seu e-mail
+				</span>
+			</div>
+
+				<input id="4a13719851" name="list-segments" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="4a13719851" size="base">
+		</div>
+	</label>
+</div>
+							<div data-input="selection-checkbox" class="focus:border-accent has-[:checked]:border-accent hover:border-accent selection-checkbox animation-colors hover:border-accent cursor-pointer">
+	<label class="w-full cursor-pointer">
+		<div class="relative flex flex-row items-center justify-between w-full gap-1 px-3 py-4">
+			<div class="flex flex-col gap-1">
+				<h4 class="font-serif text-base/5 text-slate-800">
+					Diário de Sala
+				</h4>
+				<span class="font-sans font-normal text-slate-600 text-sm/5">
+					Conversas sobre diversidade e inclusão no ambiente escolar. Publicada mensalmente.
+				</span>
+			</div>
+
+				<input id="335b12a043" name="list-segments" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="335b12a043" size="base">
+		</div>
+	</label>
+</div>
+							<div data-input="selection-checkbox" class="focus:border-accent has-[:checked]:border-accent hover:border-accent selection-checkbox animation-colors hover:border-accent cursor-pointer">
+	<label class="w-full cursor-pointer">
+		<div class="relative flex flex-row items-center justify-between w-full gap-1 px-3 py-4">
+			<div class="flex flex-col gap-1">
+				<h4 class="font-serif text-base/5 text-slate-800">
+					Reportagens Especiais
+				</h4>
+				<span class="font-sans font-normal text-slate-600 text-sm/5">
+					Reportagens especiais produzidas pelos jornalistas do Diário do Nordeste
+				</span>
+			</div>
+
+				<input id="ce227972ef" name="list-segments" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="ce227972ef" size="base">
+		</div>
+	</label>
+</div>
+					</div>
+		<dn-help-text message="Selecione uma opção" state="error"></dn-help-text>
+	</div>
+
+	<div class="form-field">
+		<div class="text-field group flex flex-col" data-input="email">
+			<div class="relative flex items-center">
+				
+				<input class="peer input animation-colors pl-11" size="base" name="email" type="email" placeholder="Digite seu e-mail" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$" required="" aria-required="true">
+
+				<div class="absolute left-3 animation-colors text-slate-400 group-hover:text-slate-500 peer-disabled:text-slate-300">
+					<lit-dn-icon name="mail-open-line" color="inherit"></lit-dn-icon>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="form-field">
+		<button data-form-submit="newsletter" type="submit" label="Inscreva-se" class="w-full border px-3 flex items-center justify-center gap-3 rounded animation-colors transition-all ease-linear duration-300 group cursor-pointer h-10 hover:brightness-125 disabled:border-slate-300 disabled:bg-slate-300 disabled:hover:filter-none min-w-full border-accent bg-accent" fully="true">
+			<span class="font-bold uppercase tracking-wide group-disabled:text-slate-400 inline-flex text-base/4 pt-0.5 text-white">Inscreva-se</span>
+		</button>
+	</div>
+
+	<div class="form-field">
+		<div class="flex items-center gap-2" data-input="term-privacy">
+	
+		<input id="terms-and-privacy-policy" name="terms-and-privacy-policy" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="" required="" size="base">
+
+	<label for="terms-and-privacy-policy">
+		<p class="font-sans font-normal leading-5 text-slate-600">
+			Li e concordo com os
+			<a href="https://diariodonordeste.verdesmares.com.br/institucional/politica-de-privacidade" target="_blank" class="font-bold text-accent">Termos e Condições</a> e
+			<a href="https://privacidade.geq.com.br/" target="_blank" class="font-bold text-accent">Política de Privacidade</a>
+		</p>
+	</label>
+</div>
+	</div>
+</form>
+		</main>
+	</div>
+																	
+	
+	<div class="widget">
+		<header class="widget-header">
+			<div class="w-24 h-1 bg-accent relative -top-3"></div>
+
+			<h3 class="font-sans uppercase font-bold text-lg/6 text-slate-800">
+				Edição do Dia
+			</h3>
+
+			
+					</header>
+
+		<main class="widget-body">
+			
+        
+        
+	<div>
+		<div class="aspect-w-2 aspect-h-3">
+			<a href="https://diariodigital.verdesmares.com.br/loginAssinante?utm_source=diariodonordeste-home&amp;utm_medium=referral&amp;utm_campaign=conversao_digital">
+				<img class="w-full" src="/image/contentid/policy:1.3605362:1736822319/WhatsApp%20Image%202025-01-13%20at%2023.37.32.jpeg?h=496&amp;w=340&amp;$p$h$w=1db3b32" alt="Capa da Edição do dia do jornal Diário do Nordeste" width="340" height="496" loading="lazy">
+			</a>
+		</div>
+
+		<div class="mt-2 flex space-x-2">
+			<span class="flex items-center h-10 text-white rounded bg-accent hover:brightness-125 transition ease-in-out duration-500">
+				<a href="https://assine.diariodonordeste.com.br/" class="font-sans font-bold text-base text-white uppercase py-2 px-6">Assinar</a>
+			</span>
+		</div>
+	</div>
+		</main>
+	</div>
+											</aside>
+</article>
+
+									
+			
+							<script async="" src="https://cdn.debugbear.com/jP7ljzHoDIsm.js"></script>
+			
+			
+			                             <footer id="footer" class="site-footer">
+	<div class="container">
+		<div class="bg-accent h-1"></div>
+
+		<div class="lg:flex mt-4">
+			<main class="flex-grow w-full mb-6 lg:mb-0">
+				                             
+	
+	<div class="widget">
+		<header class="widget-header">
+			<div class="w-24 h-1 bg-accent relative -top-3"></div>
+
+			<h3 class="font-sans uppercase font-bold text-lg/6 text-slate-800">
+				Edição do Dia
+			</h3>
+
+			
+					</header>
+
+		<main class="widget-body">
+			
+        
+        
+	<div class="lg:flex gap-4">
+		<div class="py-2 w-1/3">
+			<div class="aspect-w-2 aspect-h-3">
+				<a href="https://diariodigital.verdesmares.com.br/loginAssinante?utm_source=diariodonordeste-home&amp;utm_medium=referral&amp;utm_campaign=conversao_digital">
+					<img src="/image/contentid/policy:1.3605362:1736822319/WhatsApp%20Image%202025-01-13%20at%2023.37.32.jpeg?h=496&amp;w=340&amp;$p$h$w=1db3b32" alt="Capa da Edição do dia do jornal Diário do Nordeste" width="340" height="496" loading="lazy">
+				</a>
+			</div>
+		</div>
+		<div class="w-2/3 ml-6">
+			<div class="py-6">
+				<h3 class="font-sans font-bold text-xl text-slate-700 uppercase m-0">Edição do dia</h3>
+				<div class="font-sans text-base leading-snug text-slate-500">Um mundo de informações na palma da sua mão. Planos a partir de R$ 10,90</div>
+
+				<div class="mt-2 flex space-x-2">
+					<span class="rounded bg-accent hover:brightness-125 transition ease-in-out duration-500 h-10 w-fit flex items-center">
+						<a href="https://assine.diariodonordeste.com.br/" class="font-sans font-bold text-base text-white uppercase px-6 py-2">
+							Assinar
+						</a>
+					</span>
+				</div>
+			</div>
+
+			<div class="flex gap-2 mt-4">
+
+				<a aria-label="Rede social instagram" href="https://www.instagram.com/diariodonordeste" class="bg-accent h-10 w-10 rounded-full flex items-center justify-center">
+					<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M7.987 3.883A4.113 4.113 0 0 0 3.878 7.992a4.112 4.112 0 0 0 4.11 4.107 4.112 4.112 0 0 0 4.106 -4.107A4.111 4.111 0 0 0 7.987 3.883zm0 6.65A2.543 2.543 0 0 1 5.447 7.992a2.543 2.543 0 0 1 2.54 -2.54 2.542 2.542 0 0 1 2.541 2.54 2.543 2.543 0 0 1 -2.54 2.54zM11.346 0.08H4.629A4.56 4.56 0 0 0 0.075 4.634v6.716a4.56 4.56 0 0 0 4.554 4.554h6.717a4.56 4.56 0 0 0 4.553 -4.554V4.634A4.558 4.558 0 0 0 11.346 0.08zm2.987 11.27a2.99 2.99 0 0 1 -2.987 2.986H4.629A2.989 2.989 0 0 1 1.643 11.35V4.634A2.989 2.989 0 0 1 4.63 1.648h6.717a2.989 2.989 0 0 1 2.985 2.986v6.716h0.002zM12.152 2.696a1.077 1.077 0 0 0 -1.075 1.075 1.077 1.077 0 0 0 1.075 1.075 1.077 1.077 0 0 0 1.075 -1.075A1.077 1.077 0 0 0 12.152 2.696z" fill="#fff"></path>
+					</svg>
+				</a>
+
+				<a aria-label="Rede social facebook" href="https://www.facebook.com/diariodonordeste" class="bg-accent h-10 w-10 rounded-full flex items-center justify-center">
+					<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M11.251 5.533H9.034V4.08c0 -0.546 0.363 -0.674 0.617 -0.674h1.562V1.008L9.059 1C6.67 1 6.128 2.789 6.128 3.934v1.599H4.746v2.47h1.382v6.995h2.907V8.005h1.962L11.25 5.533z" fill="#fff"></path>
+					</svg>
+				</a>
+
+				<a aria-label="Rede social twitter" href="https://www.twitter.com/diarioonline" class="bg-accent h-10 w-10 rounded-full flex items-center justify-center">
+					<svg width="16" height="16" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M6 0.5H0.75L6.94565 8.76087L1.08746 15.4999H3.07499L7.86623 9.98825L12 15.5H17.25L10.7938 6.89172L16.3501 0.5H14.3626L9.87323 5.66434L6 0.5ZM12.75 14L3.75 2H5.25L14.25 14H12.75Z" fill="#fff"></path>
+					</svg>
+				</a>
+
+				<a aria-label="Rede social youtube" href="https://www.youtube.com/user/diariodonordeste" class="bg-accent h-10 w-10 rounded-full flex items-center justify-center">
+					<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M15.998 6.473h-0.027c0 -0.157 0.003 -0.312 -0.001 -0.469a10.046 10.046 0 0 0 -0.028 -0.46 26.518 26.518 0 0 0 -0.05 -0.573C15.873 4.782 15.87 4.588 15.831 4.402A9.117 9.117 0 0 0 15.619 3.574 1.83 1.83 0 0 0 15.262 2.902C14.89 2.472 14.41 2.242 13.848 2.183A20.742 20.742 0 0 0 12.955 2.116a28.01 28.01 0 0 0 -0.822 -0.04A106.684 106.684 0 0 0 10.894 2.034C10.49 2.024 10.084 2.012 9.682 2.01 8.888 2.004 8.094 1.996 7.3 2.002 6.496 2.01 5.693 2.03 4.888 2.046 4.548 2.052 4.21 2.063 3.87 2.073A10.807 10.807 0 0 0 3.55 2.087C3.197 2.108 2.845 2.124 2.494 2.154 2.26 2.175 2.02 2.196 1.79 2.252A1.888 1.888 0 0 0 0.6 3.09C0.397 3.414 0.285 3.775 0.216 4.146A11.678 11.678 0 0 0 0.094 5.063 19.497 19.497 0 0 0 0.027 5.996 12.161 12.161 0 0 0 0 6.759c0 0.722 0.005 1.445 0.013 2.167a8.677 8.677 0 0 0 0.027 0.54 60.117 60.117 0 0 0 0.064 0.772c0.016 0.19 0.027 0.382 0.058 0.57a4.734 4.734 0 0 0 0.254 0.948c0.214 0.568 0.616 0.94 1.187 1.133 0.363 0.121 0.743 0.155 1.119 0.19 0.304 0.029 0.61 0.039 0.915 0.053a97.692 97.692 0 0 0 1.942 0.054c0.367 0.007 0.733 0.015 1.1 0.018 0.643 0.006 1.287 0.018 1.929 0.013 0.806 -0.007 1.613 -0.027 2.42 -0.043 0.33 -0.007 0.66 -0.018 0.991 -0.028a11.24 11.24 0 0 0 0.328 -0.014c0.363 -0.02 0.727 -0.038 1.088 -0.067 0.227 -0.018 0.458 -0.034 0.68 -0.082 0.706 -0.152 1.205 -0.558 1.469 -1.241a5.085 5.085 0 0 0 0.306 -1.445c0.022 -0.28 0.05 -0.56 0.064 -0.839a24.21 24.21 0 0 0 0.04 -1.076c0.01 -0.636 0.004 -1.272 0.004 -1.91zM6.346 9.686V5.194c1.441 0.75 2.875 1.498 4.321 2.253L6.346 9.686z" fill="#fff"></path>
+					</svg>
+				</a>
+
+			</div>
+		</div>
+	</div>
+
+		</main>
+	</div>
+	            
+			</main>
+
+			<aside class="block-aside">
+				                             
+	
+	<div class="widget">
+		<header class="widget-header">
+			<div class="w-24 h-1 bg-accent relative -top-3"></div>
+
+			<h3 class="font-sans uppercase font-bold text-lg/6 text-slate-800">
+				Newsletter
+			</h3>
+
+							<span class="font-sans text-base/5 text-slate-600 block">
+	      	Escolha suas newsletters favoritas e mantenha-se informado
+	    	</span>
+			
+					</header>
+
+		<main class="widget-body">
+			
+
+
+
+
+<form class="form" name="form-newsletter" action="/mailchimp" method="post" data-form="form-newsletter">
+	
+	<input type="hidden" name="list-audience" value="738d7de887" required="">
+
+	<div class="form-field" data-input="selection-checkbox-group">
+		<div class="flex flex-col gap-2">
+							<div data-input="selection-checkbox" class="focus:border-accent has-[:checked]:border-accent hover:border-accent selection-checkbox animation-colors hover:border-accent cursor-pointer">
+	<label class="w-full cursor-pointer">
+		<div class="relative flex flex-row items-center justify-between w-full gap-1 px-3 py-4">
+			<div class="flex flex-col gap-1">
+				<h4 class="font-serif text-base/5 text-slate-800">
+					8 Minutos
+				</h4>
+				<span class="font-sans font-normal text-slate-600 text-sm/5">
+					As principais notícias do dia direto no seu e-mail
+				</span>
+			</div>
+
+				<input id="4a13719851" name="list-segments" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="4a13719851" size="base">
+		</div>
+	</label>
+</div>
+							<div data-input="selection-checkbox" class="focus:border-accent has-[:checked]:border-accent hover:border-accent selection-checkbox animation-colors hover:border-accent cursor-pointer">
+	<label class="w-full cursor-pointer">
+		<div class="relative flex flex-row items-center justify-between w-full gap-1 px-3 py-4">
+			<div class="flex flex-col gap-1">
+				<h4 class="font-serif text-base/5 text-slate-800">
+					Diário de Sala
+				</h4>
+				<span class="font-sans font-normal text-slate-600 text-sm/5">
+					Conversas sobre diversidade e inclusão no ambiente escolar. Publicada mensalmente.
+				</span>
+			</div>
+
+				<input id="335b12a043" name="list-segments" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="335b12a043" size="base">
+		</div>
+	</label>
+</div>
+							<div data-input="selection-checkbox" class="focus:border-accent has-[:checked]:border-accent hover:border-accent selection-checkbox animation-colors hover:border-accent cursor-pointer">
+	<label class="w-full cursor-pointer">
+		<div class="relative flex flex-row items-center justify-between w-full gap-1 px-3 py-4">
+			<div class="flex flex-col gap-1">
+				<h4 class="font-serif text-base/5 text-slate-800">
+					Reportagens Especiais
+				</h4>
+				<span class="font-sans font-normal text-slate-600 text-sm/5">
+					Reportagens especiais produzidas pelos jornalistas do Diário do Nordeste
+				</span>
+			</div>
+
+				<input id="ce227972ef" name="list-segments" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="ce227972ef" size="base">
+		</div>
+	</label>
+</div>
+					</div>
+		<dn-help-text message="Selecione uma opção" state="error"></dn-help-text>
+	</div>
+
+	<div class="form-field">
+		<div class="text-field group flex flex-col" data-input="email">
+			<div class="relative flex items-center">
+				
+				<input class="peer input animation-colors pl-11" size="base" name="email" type="email" placeholder="Digite seu e-mail" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$" required="" aria-required="true">
+
+				<div class="absolute left-3 animation-colors text-slate-400 group-hover:text-slate-500 peer-disabled:text-slate-300">
+					<lit-dn-icon name="mail-open-line" color="inherit"></lit-dn-icon>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="form-field">
+		<button data-form-submit="newsletter" type="submit" label="Inscreva-se" class="w-full border px-3 flex items-center justify-center gap-3 rounded animation-colors transition-all ease-linear duration-300 group cursor-pointer h-10 hover:brightness-125 disabled:border-slate-300 disabled:bg-slate-300 disabled:hover:filter-none min-w-full border-accent bg-accent" fully="true">
+			<span class="font-bold uppercase tracking-wide group-disabled:text-slate-400 inline-flex text-base/4 pt-0.5 text-white">Inscreva-se</span>
+		</button>
+	</div>
+
+	<div class="form-field">
+		<div class="flex items-center gap-2" data-input="term-privacy">
+	
+		<input id="terms-and-privacy-policy" name="terms-and-privacy-policy" type="checkbox" class="relative border rounded border-slate-300 cursor-pointer inline-block checkbox checked:bg-accent checked:border-accent animation-colors group-has-[:checked]:bg-indigo-50" value="" required="" size="base">
+
+	<label for="terms-and-privacy-policy">
+		<p class="font-sans font-normal leading-5 text-slate-600">
+			Li e concordo com os
+			<a href="https://diariodonordeste.verdesmares.com.br/institucional/politica-de-privacidade" target="_blank" class="font-bold text-accent">Termos e Condições</a> e
+			<a href="https://privacidade.geq.com.br/" target="_blank" class="font-bold text-accent">Política de Privacidade</a>
+		</p>
+	</label>
+</div>
+	</div>
+</form>
+		</main>
+	</div>
+	            
+			</aside>
+		</div>
+	</div>
+
+	<div class="bg-accent text-white p-4 mt-8">
+		<div class="container">
+							<nav class="mt-4 hidden mb-4 lg:flex lg:gap-4 flex-row justify-center">
+																										<a href="https://midiakit.svm.com.br/" class="text-base uppercase font-bold" target="_blank" rel="noopener">
+			Anuncie
+		</a>
+	
+																												<a href="/publicidade-legal" class="text-base uppercase font-bold">
+			Publicidade Legal
+		</a>
+	
+																						<a href="https://assine.diariodonordeste.com.br/" class="text-base uppercase font-bold" target="_blank" rel="noopener">
+			Assine
+		</a>
+	
+																						<a href="https://centraldoassinante.diariodonordeste.com.br/" class="text-base uppercase font-bold" target="_blank" rel="noopener">
+			Central do Assinante
+		</a>
+	
+																												<a href="/institucional" class="text-base uppercase font-bold">
+			Institucional
+		</a>
+	
+																												<a href="/institucional/politica-de-privacidade" class="text-base uppercase font-bold">
+			Política de Privacidade
+		</a>
+	
+																						<a href="https://privacidade.geq.com.br/" class="text-base uppercase font-bold">
+			Portal da Privacidade
+		</a>
+	
+																</nav>
+						<div class="text-sm lg:text-center lg:max-w-4xl mx-auto">
+															<div style="text-align: center;"><a href="javascript:void" onclick="window.sendAdoptCommand('open')"><b>Gerenciar Preferências de Cookies</b></a></div>
+Todos os direitos reservados. Conteúdo protegido pelas leis de propriedade intelectual e de direitos autorais. O conteúdo não pode ser republicado, reescrito ou redistribuído, sob pena de responsabilização do infrator no âmbito cível e criminal.
+												</div>
+		</div>
+	</div>
+</footer>
+
+<script type="module" src="/apps/morpheus/web-components/dist/web-components/web-components.esm.js?v=1.58.0" defer="">
+</script>
+
+	
+<script> googleAdvertising("/1028625/BILL", [[1100, 110], [720, 180], [320, 80] [1, 1]], "7.4967217.1710419289", "1") </script>
+	
+<script> googleAdvertising("/1028625/RET1", [[360, 360], [320, 320]], "7.4649197.1671796599", "2") </script>
+	
+<script> googleAdvertising("/1028625/MP1", [[320, 640], [360, 720]], "7.4649202.1655755587", "2") </script>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/js/com.atex.gong.paywall.membership.js" defer=""></script>
+
+<script type="module" src="/apps/morpheus/vanilla/dist/index.js?v=1.58.0" defer=""></script>
+
+	<script type="text/javascript">  (function(){    var logUrl = '/logger/p.gif?a=1.3344861&amp;d=/2.16447/2.246/2.305/2.16652';    var referrer = document.referrer;    if (referrer && referrer.length > 0) {      logUrl += '&referrer=' + referrer;    }    document.write('<img src="' + logUrl + '" />');  })();</script>
+	
+	<script type="text/javascript">
+  (function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "e8n0t8ubqm");
+</script>
+
+	<script async="" src="https://cdn.debugbear.com/jP7ljzHoDIsm.js"></script>
+
+	
+    <link rel="alternate" type="application/rss+xml" title="feed-webstories" href="/cmlink/feed-webstories-7.5124750">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed-app" href="/cmlink/feed-app-7.4879158">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed negócios" href="/cmlink/feed-neg%C3%B3cios-7.4834673">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed" href="/cmlink/feed-7.4674196">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed" href="/cmlink/feed-1.3009099">
+	
+    <link rel="alternate" type="application/rss+xml" title="dow jones" href="/cmlink/dow-jones-1.2963165">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed-ultima-hora" href="/cmlink/feed-ultima-hora-7.4842206">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed ultima hora" href="/cmlink/feed-ultima-hora-1.3086880">
+
+
+	
+	<script type="text/javascript">
+  (function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "e8n0t8ubqm");
+</script>
+
+	<script async="" src="https://cdn.debugbear.com/jP7ljzHoDIsm.js"></script>
+            
+
+			<script type="module" src="/apps/morpheus/web-components/dist/web-components/web-components.esm.js?v=1.58.0" defer="">
+</script>
+
+	
+<script> googleAdvertising("/1028625/BILL", [[1100, 110], [720, 180], [320, 80] [1, 1]], "7.4967217.1710419289", "1") </script>
+	
+<script> googleAdvertising("/1028625/RET1", [[360, 360], [320, 320]], "7.4649197.1671796599", "2") </script>
+	
+<script> googleAdvertising("/1028625/MP1", [[320, 640], [360, 720]], "7.4649202.1655755587", "2") </script>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/js/com.atex.gong.paywall.membership.js" defer=""></script>
+
+<script type="module" src="/apps/morpheus/vanilla/dist/index.js?v=1.58.0" defer=""></script>
+
+	<script type="text/javascript">  (function(){    var logUrl = '/logger/p.gif?a=1.3344861&amp;d=/2.16447/2.246/2.305/2.16652';    var referrer = document.referrer;    if (referrer && referrer.length > 0) {      logUrl += '&referrer=' + referrer;    }    document.write('<img src="' + logUrl + '" />');  })();</script>
+	
+	<script type="text/javascript">
+  (function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", "e8n0t8ubqm");
+</script>
+
+	<script async="" src="https://cdn.debugbear.com/jP7ljzHoDIsm.js"></script>
+
+	
+    <link rel="alternate" type="application/rss+xml" title="feed-webstories" href="/cmlink/feed-webstories-7.5124750">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed-app" href="/cmlink/feed-app-7.4879158">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed negócios" href="/cmlink/feed-neg%C3%B3cios-7.4834673">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed" href="/cmlink/feed-7.4674196">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed" href="/cmlink/feed-1.3009099">
+	
+    <link rel="alternate" type="application/rss+xml" title="dow jones" href="/cmlink/dow-jones-1.2963165">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed-ultima-hora" href="/cmlink/feed-ultima-hora-7.4842206">
+	
+    <link rel="alternate" type="application/rss+xml" title="feed ultima hora" href="/cmlink/feed-ultima-hora-1.3086880">
+
+		
+	
+</div></body></html>

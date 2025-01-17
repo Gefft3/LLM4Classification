@@ -1,0 +1,2344 @@
+<html lang="pt-PT"><head>
+
+    <!-- SSO Init Scripts -->
+    <script>
+        window.cofSSOInitScripts = window.cofSSOInitScripts || [];
+        window.cofSSOInitScripts.push({ 'action': 'actions.quantcast' });
+        window.cofSSOInitScripts.push({
+            'config': {
+                'ssoHost': 'aminhaconta.xl.pt'
+            }
+        });
+
+        window.cofSSOInitScripts.push({
+            'action': 'actions.gsc',
+            'p1': false,
+            'p2': false,
+            'p3': false });
+
+        (function (w, d, s, l) {
+            w[l] = w[l] || [];
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s); j.async = true; j.src =
+                    '//aminhaconta.xl.pt/Api/js/CofinaSSOInitScripts.js?_' + String(Math.random() * 100000); f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'cofSSOInitScripts');
+    </script>
+    <!-- End Init Scripts -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <meta property="fb:pages" content="134071419971108">
+    <meta name="robots" content="index, follow">
+    
+
+<link rel="preconnect" crossorigin="" href="//pubserver.xl.pt">
+<link rel="preconnect" crossorigin="" href="//ping.chartbeat.net">
+<link rel="preconnect" crossorigin="" href="//www.facebook.com">
+<link rel="preconnect" crossorigin="" href="//ad.doubleclick.net">
+<link rel="preconnect" crossorigin="" href="//www.googletagservices.com">
+<link rel="preconnect" crossorigin="" href="//logx.optimizely.com">
+<link rel="preconnect" crossorigin="" href="//static.chartbeat.com">
+<link rel="preconnect" crossorigin="" href="//barra.xl.pt">
+<link rel="preconnect" crossorigin="" href="//securepubads.g.doubleclick.net">
+<link rel="preconnect" crossorigin="" href="//adservice.google.com">
+<link rel="preconnect" crossorigin="" href="//fonts.gstatic.com">
+<link rel="preconnect" crossorigin="" href="http://financeira.jornaldenegocios.pt">
+<link rel="preconnect" crossorigin="" href="//gapt.hit.gemius.pl">
+<link rel="preconnect" crossorigin="" href="//www.google-analytics.com">
+<link rel="preconnect" crossorigin="" href="//js.xl.pt">
+<link rel="preconnect" crossorigin="" href="//cstatic.weborama.fr">
+<link rel="preconnect" crossorigin="" href="//analytics.xl.pt">
+
+
+        <link rel="preconnect" crossorigin="" href="//cdn.jornaldenegocios.pt">
+        <link rel="preconnect" crossorigin="" href="//aminhaconta.xl.pt">
+<link rel="preload" href="/fonts/vendor/slick/slick.woff" as="font">
+<link rel="preload" href="/fonts/PTSans-Regular.woff" as="font">
+<link rel="preload" href="/fonts/PTSans-Bold.woff" as="font">
+
+
+<script src="/Scripts/bundles/header-analytics.js?v=638708089620000000"></script>
+    
+    <script>
+        var userProfile = 'Paraquedistas', hasUserCommented = 'false';
+        if (typeof cofinaAnalytics !== 'undefined' && typeof cofinaAnalytics.analyticsUserProfile !== 'undefined') {
+            userProfile = cofinaAnalytics.analyticsUserProfile.getUserProfileFromDetailHits
+                ();
+            hasUserCommented = cofinaAnalytics.analyticsUserProfile.hasUserCommented();
+        }
+        if (!Element.prototype.matches) {
+            Element.prototype.matches = Element.prototype.msMatchesSelector ||
+                Element.prototype.webkitMatchesSelector;
+        }
+
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'pageType': 'Detalhe',
+            'siteSection': 'coronavirus',
+            'userId': '',
+            'userStatus': 'Anonimo',
+            'userRegisterDate': '',
+            'userSubscribeNewsletters': 'False',
+            'newslettersSubscribed': '',
+            'usersubscriptionPlan': '',
+            'userdateLastEndedSubscription': '',
+            'userdateSubscriptionEnd': '',
+            'newslettersCountSubscribed': '0',
+            'userProfile': userProfile,
+            'commentator': hasUserCommented,
+        });
+
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-MQK56RM');
+    </script>
+
+
+
+    
+    <title>Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara  - Coronavírus - Jornal de Negócios</title>
+    <meta name="title" content="Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara  - Coronavírus - Jornal de Negócios">
+    <meta name="description" content="'Apesar dos indiscutíveis avanços que temos registado no combate à presente pandemia, sobretudo na sequência do sucesso da campanha de vacinação, a respetiva situação epidemiológica aconselha que se deva manter um robusto nível de medidas preventivas', defende a instituição.">
+    <meta name="keywords" content="máscara, pulmão, vacinação, covid-19, pandemia, delta">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="apple-touch-icon" sizes="180x180" href="/i/icons/apple-touch-icon.png?v=1">
+    <link rel="icon" type="image/png" href="/i/icons/favicon-32x32.png?v=1" sizes="32x32">
+    <link rel="icon" type="image/png" href="/i/icons/android-chrome-192x192.png?v=1" sizes="192x192">
+    <link rel="icon" type="image/png" href="/i/icons/favicon-16x16.png?v=1" sizes="16x16">
+    <link rel="mask-icon" href="/i/icons/safari-pinned-tab.svg" color="#ee1400">
+    <link rel="shortcut icon" href="/i/icons/favicon.ico?v=2020_02_03">
+    <link rel="android-touch-icon" href="/i/icons/android-chrome-192x192.png">
+    <meta name="msapplication-TileColor" content="#ed1b31">
+    <meta name="msapplication-TileImage" content="/i/icons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/i/icons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-itunes-app" content="app-id=448912779">
+    <meta name="google-play-app" content="app-id=com.cofina.androidjn">
+    <meta name="GCD" content="YTk3ODQ3ZWZhN2I4NzZmMzBkNTEwYjJlbd22dc153aa1d32433208f44d55e01d3">
+    <meta charset="utf-8">
+    <meta name="generator" content="Google Web Designer 1.7.1.0130">
+    <meta name="template" content="Expandable 3.0.0">
+    <meta name="environment" content="gwd-doubleclick">
+        <meta property="og:title" content="Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara ">
+        <meta property="og:type" content="article">
+        <meta property="og:image" content="https://cdn.jornaldenegocios.pt/images/2021-06/img_1200x676$2021_06_08_20_57_23_405001.jpg">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="676">
+        <meta property="og:url" content="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara">
+        <meta property="og:description" content="'Apesar dos indiscutíveis avanços que temos registado no combate à presente pandemia, sobretudo na sequência do sucesso da campanha de vacinação, a respetiva situação epidemiológica aconselha que se deva manter um robusto nível de medidas preventivas', defende a instituição.">
+        <meta name="twitter:title" content="Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara ">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@JNegocios">
+        <meta name="twitter:creator" content="@JNegocios">
+        <meta name="twitter:description" content="'Apesar dos indiscutíveis avanços que temos registado no combate à presente pandemia, sobretudo na sequência do sucesso da campanha de vacinação, a respetiva situação epidemiológica aconselha que se deva manter um robusto nível de medidas preventivas', defende a instituição.">
+        <meta name="twitter:image" content="https://cdn.jornaldenegocios.pt/images/2021-06/img_1200x676$2021_06_08_20_57_23_405001.jpg">
+        <meta name="news_keywords" content="máscara, pulmão, vacinação, covid-19, pandemia, delta">
+        <link rel="image_src" href="https://cdn.jornaldenegocios.pt/images/2021-06/img_1200x676$2021_06_08_20_57_23_405001.jpg">
+        <link rel="image_src_wm" href="https://cdn.jornaldenegocios.pt/images/2021-06/img_1200x675$2021_06_08_20_57_23_405001.jpg">
+            <link rel="amphtml" href="https://www.jornaldenegocios.pt/economia/coronavirus/amp/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara">
+    <link rel="canonical" href="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","description":"'Apesar dos indiscutíveis avanços que temos registado no combate à presente pandemia, sobretudo na sequência do sucesso da campanha de vacinação, a respetiva situação epidemiológica aconselha que se deva manter um robusto nível de medidas preventivas', defende a instituição.","image":{"@type":"ImageObject","url":"https://cdn.jornaldenegocios.pt/images/2021-06/img_1280x720$2021_06_08_20_57_23_405001.jpg","height":"720","width":"1280"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara"},"potentialAction":{"@type":"SearchAction","query-input":"required name=search_term_string"},"url":"https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara","author":{"@type":"Person","name":"Lusa "},"dateCreated":"2021-08-28T17:49:17+01:00","dateModified":"2021-08-28T17:49:17+01:00","datePublished":"2021-08-28","hasPart":{"@type":"WebPageElement","isAccessibleForFree":true,"cssSelector":".paywall"},"headline":"Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara ","inLanguage":"pt_pt","isAccessibleForFree":true,"keywords":"máscara, pulmão, vacinação, covid-19, pandemia, delta","publisher":{"@type":"Organization","name":"Jornal de Negócios","logo":{"@type":"ImageObject","url":"https://www.jornaldenegocios.pt/i/logoNegocios.png","height":"60","width":"302"}},"thumbnailUrl":"https://cdn.jornaldenegocios.pt/images/2021-06/img_140x140$2021_06_08_20_57_23_405001.jpg","articleSection":"Coronavírus","isPartOf":{"@type":["NewsArticle","Product"],"name":"'Apesar dos indiscutíveis avanços que temos registado no combate à presente pandemia, sobretudo na sequência do sucesso da campanha de vacinação, a respetiva situação epidemiológica aconselha que se deva manter um robusto nível de medidas preventivas', defende a instituição.","productID":"jornaldenegocios.pt:showcase"}}</script>
+        <meta property="article: published_time" content="2021-08-28T16:49:17+01:00">
+
+
+
+    <link href="/Content/vendor/smart-app-banner.min.css?v=638708089620000000" rel="stylesheet">
+<link href="/Content/main.min.css?v=638708089620000000" rel="stylesheet">    
+        <link href="/Content/canal_detalhe.min.css?v=638708089620000000" rel="stylesheet">
+        <link href="/Content/detalhe.min.css?v=638708089620000000" rel="stylesheet">
+        <link href="/Content/detalhe_premium.min.css?v=638708089620000000" rel="stylesheet">
+
+        <script src="https://jsc.mgid.com/site/981182.js" async=""></script>
+    
+
+    <script src="/Scripts/bundles/header.js?v=638708089620000000"></script>
+    
+
+    
+
+    
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '1792952664286644',
+            xfbml: true,
+            version: 'v2.6'
+        });
+    };
+
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+    var $_fields = {};
+</script>
+
+
+<script>
+    var _sf_async_config = _sf_async_config || {};
+    _sf_async_config.uid = '61551';
+    _sf_async_config.domain = 'jornaldenegocios.pt';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.path = window.location.pathname;
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '1166430396729922');
+        fbq('track', "PageView");
+        fbq('trackCustom', 'ViewContent',{"Brand":"Jornal de Negócios","PageTags":"máscara, pulmão, vacinação, covid-19, pandemia, delta","SiteSection":"economia","SiteSection1":"coronavirus"});;
+    </script>
+    <noscript>
+        </noscript></head><body><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1166430396729922&amp;ev=PageView&amp;noscript=1">
+    
+<script>
+    !function (e, t, n, s, u, a) {
+        e.twq || (s = e.twq = function () {
+            s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+        }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src = '//static.ads-twitter.com/uwt.js',
+            a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+    }(window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'nvn8t');
+    twq('track', 'PageView');
+
+</script>
+
+
+
+
+
+
+    
+
+    <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        var showPubOn = true;
+        var userProfileTargeting = 'Anonymous'
+
+    </script>
+    <script>
+        $(function () {
+            var configPubJson = {
+                    slotNames: {
+                        oopSlotName: 'OutOfPage',
+                        mastheadSlotName: 'BTFhorz',
+                        mrecSlotName: 'BTFvert',
+                        leaderboardSlotName: 'BTFhorz',
+                        inContentSlotName: 'BTFInContent'
+                    },
+                    adUnitPaths: {
+                        oopAdUnitPath: '/4196/JORNALDENEGOCIOS_WEBSITE/',
+                        mastheadAdUnitPath: '/4196/JORNALDENEGOCIOS_MASTHEAD/',
+                        mrecAdUnitPath: '/4196/JORNALDENEGOCIOS_WEBSITE/',
+                        leaderboardAdUnitPath: '/4196/JORNALDENEGOCIOS_MASTHEAD/',
+                        pubTestSuffix: 'ECONOMIA/CORONAVIRUS',
+                        inContentAdUnitPath: '/4196/JORNALDENEGOCIOS_WEBSITE/'
+                    },
+                    slotSizes: {
+                        mastheadSizes: [[1240, 220],[970, 250],[728, 90]],
+                        mrecSizes: [[300, 600], [300, 250]],
+                        leaderboardSizes: [[728, 90]],
+                        inContentSizes: [[300, 250], [640, 360], [640, 480]],
+                    }
+                };
+            COF.pubApi.configPubs(configPubJson);
+
+
+                googletag.cmd.push(function () {
+                    var _mastheadCheckSizes = googletag.sizeMapping()
+                        .addSize([0, 0], [[300, 100], [300, 50], [320, 50], [320, 100]])
+                        .addSize([768, 200], [728, 90])
+                        .addSize([1190, 200], [[728, 90],[970, 250], [1240, 220]])
+                        .build();
+
+                    COF.pubApi.configMastheadCheckSizes(_mastheadCheckSizes);
+                });
+
+
+            var kwpag = [];
+            kwpag.push('artigo');
+                    kwpag.push('máscara');
+                    kwpag.push('pulmão');
+                    kwpag.push('vacinação');
+                    kwpag.push('covid 19');
+                    kwpag.push('pandemia');
+                    kwpag.push('delta');
+
+            function adsRenderEnded(adsEvent) {
+
+                var slotElementID = adsEvent.slot.getSlotElementId();
+
+                //remove empty grey div
+                if (adsEvent.isEmpty) {
+                    if (slotElementID.indexOf('BTFvert') > -1 || slotElementID.indexOf('vertATF') > -1 ) {
+                        $('#' + slotElementID).parent().hide();
+                    }
+                    if (slotElementID.indexOf('BTFhorz') > -1 || slotElementID.indexOf('horzATF') > -1 ) {
+                        $('#' + slotElementID).parent().hide();
+                        $('#' + slotElementID).parents('.masthead_BG').hide();
+                    }
+                    if (slotElementID.indexOf('OutOfPage') > -1) {
+                        $('#' + slotElementID).hide();
+                    }
+                }
+
+                //acrescentar palavra pub
+                if (!adsEvent.isEmpty) {
+                    if (slotElementID.indexOf('BTFhorz') > -1 || slotElementID.indexOf('horzATF') > -1) {
+                        if ($('#' + slotElementID).siblings('span').length == 0) {
+                            $('#' + slotElementID).after('<span class="info_pub">Pub</span>');
+                        }
+                    }
+                    else if (slotElementID.indexOf('BTFvert') > -1 || slotElementID.indexOf('vertATF') > -1) {
+                        if ($('#' + slotElementID).siblings('span').length == 0)
+                            $('#' + slotElementID).after('<span class="info_pub">Pub</span>');
+                    }
+                    else if (slotElementID.indexOf('BTFInContent') > -1) {
+                        if ($('#' + slotElementID).length > 0) {
+                            $('#' + slotElementID).append('<span class="info_pub">Pub</span>');
+                            $('#' + slotElementID).addClass('m-rec publicidadeInContent');
+                        }
+                    }
+                }
+            }
+
+            var indexOptin = 0;
+            googletag.cmd.push(function () {
+                googletag.pubads()
+                    .setTargeting('end', [window.location.href.match(/([^\?]*)\/*$/)[0]])
+                    .setTargeting('kw', kwpag);
+
+                
+                googletag.pubads().setTargeting('up', 'Anonymous');
+                
+
+                
+                googletag.pubads().setTargeting('premium', 'false');
+                
+
+
+                googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                    adsRenderEnded(event);
+                });
+
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().enableAsyncRendering();
+                googletag.pubads().collapseEmptyDivs(true, true);
+                googletag.pubads().setCentering(true);
+                googletag.companionAds().setRefreshUnfilledSlots(true);
+                googletag.pubads().disableInitialLoad();
+               // code placeholder
+                    
+                try {
+                    (async () => {
+                        try {
+                            const appid = await CofinaSSOInitScripts.getAPPID();
+                            googletag.pubads().setPublisherProvidedId(appid);
+                        }
+                        catch (setPubIdError) {
+                            console.error('Error PublisherProvidedId:', setPubIdError);
+                        }
+                    })();
+                }
+                catch (generalPubIdErorr) {
+                    console.error('Error PublisherProvidedId:', generalPubIdErorr);
+                }
+                finally {
+                    googletag.enableServices();
+                }
+                    
+
+                //OOP
+                COF.pubApi.renderOOP($('#div-gpt-ad-oop-0'));
+
+                //MASTHEAD
+                if ($('#div-gpt-ad-masthead-0').length > 0) {
+                    COF.pubApi.renderMasthead($('#div-gpt-ad-masthead-0'), '', 'horzATF', 'ATF', false);
+                }
+
+                //MREC
+                
+                if ($('#div-gpt-ad-mrec-0').length > 0) {
+                    COF.pubApi.renderMrec($('#div-gpt-ad-mrec-0'), '', 'vertATF', 'ATF', false);
+                }
+                
+
+
+            });
+        });
+
+    </script>
+<script async="" src="https://cdn.insurads.com/bootstrap/QCEGSKKP.js"></script>
+
+
+    
+
+        <script>
+        $(document).ready(function () {
+            var cta = document.createElement('script');
+            cta.src = 'https://assinaturas.xl.pt/scripts/CofinaCTAApi.min.js?_' + String(Math.random() * 100000);
+            cta.type = 'text/javascript';
+            cta.async = 'true';
+            cta.onload = cta.onreadystatechange = function () {
+                try {
+                    window.ctaSubscription = new CofinaCTAApi("Jornal de Negocios", "https://assinaturas.xl.pt/SubscriptionCallToAction");
+                    if (typeof window.ctaSubscription !== 'undefined' && window.ctaSubscription !== null) {
+                        window.ctaSubscription.addKeyValue("user_type", "Anonymous");window.ctaSubscription.addKeyValue("premium", "False");
+
+                        if (typeof window.ctaCallApi !== 'undefined' && window.ctaCallApi !== null) {
+                            window.ctaCallApi.init();
+
+                            //init Utms
+                             var btn_Assinar_Menu = document.getElementById("btnAssinarMenu");
+                             if (btn_Assinar_Menu !== null) {
+                                btn_Assinar_Menu.setAttribute("href", btn_Assinar_Menu.href + "?utm_medium=1-772878&utm_source=hamburguer&utm_campaign=Assinaturas_BotoesAssinar");
+                             }
+
+                        }
+                    }
+                }
+                catch (e) { }
+            };
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(cta, s);
+        });
+    </script>
+
+
+
+
+    
+
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQK56RM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        var pushDataLayer = function (adBlockerUsage) {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'adBlocker': adBlockerUsage,
+                'darkMode': 'off',
+                    
+                    'tipoNoticia': 'Free',
+                    'tipoConteudo': 'Detalhe_Normal',
+                    'tags': 'mascara,pulmao,vacinacao,covid-19,pandemia,delta',
+                    'contentID': '1-772878',
+                    'relacionadas': 'True',
+                    'nrelacionadas': '5',
+                    'datadePublicacao': '28-08-2021',
+                    'datadeUpdate': '28-08-2021',
+                    'horadePublicacao': '16:49:17',
+                    'horadeUpdate': '16:49:17',
+                    'caracteresTitulo': '70',
+                    'caracteresLead': '270',
+                    'caracteresTexto': '3920',
+                    'autor': 'Lusa ',
+                    'embedVideo': '0',
+                    'embedFotoGaleria': '0',
+                    'embedInfo': '0',
+                    'embedSlideShow': '0',
+                    'embedFoto': '0',
+                    'embedRedesSociais': '0',
+                    'embedMapa': '0'
+                    
+            });
+        }
+
+        if (typeof cofinaAnalytics !== 'undefined') {
+            cofinaAnalytics.getAdBlockerUsage()
+                .then(function (value) {
+                    pushDataLayer(value);
+                });
+        } else {
+            pushDataLayer(false);
+        }
+        if (typeof cofinaAnalytics !== 'undefined' && typeof cofinaAnalytics.analyticsUserProfile !== 'undefined') {
+            cofinaAnalytics.analyticsUserProfile.addVisit();
+        }
+
+
+    </script>
+
+    <script type="text/javascript">
+
+
+    function parameterExists(name) {
+        var regexS = "[\\?&]" + name,
+            regex = new RegExp(regexS),
+            results = regex.exec(window.location.search);
+
+        return results;
+    }
+
+    var showSmartBanner = (function () {
+
+        var isSafari = !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/) && !navigator.userAgent.match(/CriOS/i);
+
+        if ((parameterExists('android_phone') !== null || parameterExists('iphone') !== null) || navigator.platform.match(/iPhone|iPod|iPad/) || isSafari)
+            return false;
+
+        var init = function (force) {
+            var type = '';
+            if (typeof force != 'undefined' && force !== '')
+                type = force;
+            var banner = new SmartBanner({
+                daysHidden: 15,   // days to hide banner after close button is clicked (defaults to 15)
+                daysReminder: 90, // days to hide banner after "VIEW" button is clicked (defaults to 90)
+                title: 'Jornal de Negocios',
+                author: 'Medialivre',
+                button: 'VIEW',
+                store:
+                    { ios: 'On the App Store', android: 'In Google Play', windows: 'In Windows store' }
+                ,
+                price:
+                    { ios: 'FREE', android: 'FREE', windows: 'FREE' }
+                ,
+                force: type
+            });
+
+            if ($(".smartbanner").length > 0) {
+                $("body").addClass("bannerApp");
+                $(window).scroll(function () {
+                    if ($(".smartbanner").length > 0 && $(".smartbanner").css("display") == "block") {
+                        if ($(this).scrollTop() > 80) {
+                            $("body").removeClass("bannerApp");
+                        } else {
+                            $("body").addClass("bannerApp");
+                        }
+                    }
+                });
+
+                $(".smartbanner-close").click(function () {
+                    $("body").removeClass("bannerApp");
+                });
+            }
+
+        }
+
+        return {
+            run: init(),
+            init: init
+        }
+
+    })();
+</script>
+
+    <script>
+    
+        
+        if (typeof cofinaAnalytics !== 'undefined') {
+            var configAnalytics = {
+                netscope: GlobalVariables.analyticsConfig.netscope,
+                debugMode: GlobalVariables.analyticsConfig.debug,
+            };
+
+            configAnalytics.netscope.id = '.XnqKOMJvydNfOQtZmN0dabSnDRUX1iE0mfLUC65nvv.07';
+            configAnalytics.netscope.event = 'economia/coronavirus';
+
+            configAnalytics.clickEventsEnabled = true;
+            cofinaAnalytics.init(configAnalytics);
+            cofinaAnalytics.netscopeEvent(configAnalytics.customUrl);
+        }
+        
+</script>
+
+
+    <script>$_fields.AreaID = "683";$_fields.AreaName = "Coronavírus";$_fields.FriendlyPath = "economia/coronavirus";$_fields.ContentTypeName = "Articles";$_fields.ContentID = "772878";$_fields.ContentUrl = "https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara";$_fields.ContentTitle = "Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara ";$_fields.ContentDimensionValue = "Articles-772878";$_fields.IsPremium = "false";$_fields.ContentIDAnalytics = "1-772878";</script>
+
+    <input type="hidden" id="hdnAreaID" value="683"><input type="hidden" id="hdnAreaName" value="Coronavírus"><input type="hidden" id="hdnFriendlyPath" value="economia/coronavirus"><input type="hidden" id="hdnContentTypeName" value="Articles"><input type="hidden" id="hdnContentID" value="772878"><input type="hidden" id="hdnContentUrl" value="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara"><input type="hidden" id="hdnContentTitle" value="Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara "><input type="hidden" id="hdnContentDimensionValue" value="Articles-772878"><input type="hidden" id="hdnIsPremium" value="false"><input type="hidden" id="hdnContentIDAnalytics" value="1-772878">
+
+
+
+    <div id="div-gpt-ad-oop-0">
+</div>
+
+    
+    <div id="mainMenu" data-analytics-category="Menu_Hamburguer">
+        <div class="firstLevel_menu">
+            <form class="pesquisa" role="search" method="get" action="/pesquisa/">
+                <label for="pesquisar">
+                    <span class="sr-only">Search</span>
+                </label>
+                <input type="text" name="q" placeholder="Pesquisar" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Pesquisar'" id="pesquisar">
+                <button class="ic_search" data-analytics-action="Definicoes" data-analytics-label="Pesquisar"></button>
+            </form>
+
+                <script>
+                    var utmToUseCTAHamburguer = "1-772878";
+                </script>
+<section data-subscription-cta="GERAL-Botao Assinar Menu Hamburguer"></section>
+                <ul class="lista_canais">
+                        <li class="">
+                            <a href="/noticias-no-minuto" target="_self" class="noticias-no-minuto" data-analytics-action="REF_0" data-analytics-label="/noticias-no-minuto" data-url="/noticias-no-minuto" title="Ao Minuto">Ao Minuto</a>
+
+                        </li>
+                        <li class="">
+                            <a href="/premium" target="_self" class="premium" data-analytics-action="REF_1" data-analytics-label="/premium" data-url="/premium" title="Premium">Premium</a>
+
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/cotacoes" target="_self" class="cotacoes" data-analytics-action="REF_2" data-analytics-label="/cotacoes" data-url="/cotacoes" title="Cotações">Cotações</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/cotacoes" target="_self" title="PSI-20" data-analytics-action="REF_2" data-analytics-label="/cotacoes" data-url="/cotacoes">PSI-20</a></li>
+                                            <li><a href="/cotacoes/cambio/EURUSD" target="_blank" rel="&quot;noopener&quot;" title="Câmbios" data-analytics-action="REF_2" data-analytics-label="/cotacoes/cambio/EURUSD" data-url="/cotacoes">Câmbios</a></li>
+                                            <li><a href="/mercados/bolsa" target="_blank" rel="&quot;noopener&quot;" title="Mercados" data-analytics-action="REF_2" data-analytics-label="/mercados/bolsa" data-url="/cotacoes">Mercados</a></li>
+                                            <li><a href="/cotacoes/indice/PSI-20/analisis-tecnico" target="_blank" rel="&quot;noopener&quot;" title="Análise Fundamental" data-analytics-action="REF_2" data-analytics-label="/cotacoes/indice/PSI-20/analisis-tecnico" data-url="/cotacoes">Análise Fundamental</a></li>
+                                            <li><a href="/cotacoes/indice/PSI-20/analisis-tecnico" target="_blank" rel="&quot;noopener&quot;" title="Análise Técnica" data-analytics-action="REF_2" data-analytics-label="/cotacoes/indice/PSI-20/analisis-tecnico" data-url="/cotacoes">Análise Técnica</a></li>
+                                            <li><a href="/mercados/taxas-de-juro" target="_blank" rel="&quot;noopener&quot;" title="Taxas de juro" data-analytics-action="REF_2" data-analytics-label="/mercados/taxas-de-juro" data-url="/cotacoes">Taxas de juro</a></li>
+                                            <li><a href="/mercados/materias-primas" target="_blank" rel="&quot;noopener&quot;" title="Matérias-primas" data-analytics-action="REF_2" data-analytics-label="/mercados/materias-primas" data-url="/cotacoes">Matérias-primas</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/weekend" target="_self" class="weekend" data-analytics-action="REF_3" data-analytics-label="/weekend" data-url="/weekend" title="Weekend">Weekend</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/weekend/livros" target="_self" title="Livros" data-analytics-action="REF_3" data-analytics-label="/weekend/livros" data-url="/weekend">Livros</a></li>
+                                            <li><a href="/weekend/musica" target="_self" title="Música" data-analytics-action="REF_3" data-analytics-label="/weekend/musica" data-url="/weekend">Música</a></li>
+                                            <li><a href="/weekend/cinema" target="_self" title="Cinema" data-analytics-action="REF_3" data-analytics-label="/weekend/cinema" data-url="/weekend">Cinema</a></li>
+                                            <li><a href="/weekend/automoveis" target="_self" title="Automóveis" data-analytics-action="REF_3" data-analytics-label="/weekend/automoveis" data-url="/weekend">Automóveis</a></li>
+                                            <li><a href="/weekend/vinhos" target="_self" title="Vinhos" data-analytics-action="REF_3" data-analytics-label="/weekend/vinhos" data-url="/weekend">Vinhos</a></li>
+                                            <li><a href="/weekend/gastronomia" target="_self" title="Gastronomia" data-analytics-action="REF_3" data-analytics-label="/weekend/gastronomia" data-url="/weekend">Gastronomia</a></li>
+                                            <li><a href="/weekend/as-50-grandes-familias-da-economia-portuguesa" target="_self" title=" As 50 grandes famílias da Economia Portuguesa" data-analytics-action="REF_3" data-analytics-label="/weekend/as-50-grandes-familias-da-economia-portuguesa" data-url="/weekend"> As 50 grandes famílias da Economia Portuguesa</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/empresas" target="_self" class="empresas" data-analytics-action="REF_4" data-analytics-label="/empresas" data-url="/empresas" title="Empresas">Empresas</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/empresas/banca---financas" target="_self" title="Banca" data-analytics-action="REF_4" data-analytics-label="/empresas/banca---financas" data-url="/empresas">Banca</a></li>
+                                            <li><a href="/empresas/industria" target="_self" title="Indústria" data-analytics-action="REF_4" data-analytics-label="/empresas/industria" data-url="/empresas">Indústria</a></li>
+                                            <li><a href="/empresas/imobiliario" target="_self" title="Imobiliário" data-analytics-action="REF_4" data-analytics-label="/empresas/imobiliario" data-url="/empresas">Imobiliário</a></li>
+                                            <li><a href="/empresas/energia" target="_self" title="Energia" data-analytics-action="REF_4" data-analytics-label="/empresas/energia" data-url="/empresas">Energia</a></li>
+                                            <li><a href="/empresas/automovel" target="_self" title="Automóvel" data-analytics-action="REF_4" data-analytics-label="/empresas/automovel" data-url="/empresas">Automóvel</a></li>
+                                            <li><a href="/empresas/transportes" target="_self" title="Transportes" data-analytics-action="REF_4" data-analytics-label="/empresas/transportes" data-url="/empresas">Transportes</a></li>
+                                            <li><a href="/empresas/telecomunicacoes" target="_self" title="Telecomunicações" data-analytics-action="REF_4" data-analytics-label="/empresas/telecomunicacoes" data-url="/empresas">Telecomunicações</a></li>
+                                            <li><a href="/empresas/tecnologias" target="_self" title="Tecnologias" data-analytics-action="REF_4" data-analytics-label="/empresas/tecnologias" data-url="/empresas">Tecnologias</a></li>
+                                            <li><a href="/empresas/turismo---lazer" target="_self" title="Turismo e Lazer" data-analytics-action="REF_4" data-analytics-label="/empresas/turismo---lazer" data-url="/empresas">Turismo e Lazer</a></li>
+                                            <li><a href="/empresas/comercio" target="_self" title="Comércio" data-analytics-action="REF_4" data-analytics-label="/empresas/comercio" data-url="/empresas">Comércio</a></li>
+                                            <li><a href="/empresas/construcao" target="_self" title="Construção" data-analytics-action="REF_4" data-analytics-label="/empresas/construcao" data-url="/empresas">Construção</a></li>
+                                            <li><a href="/empresas/media" target="_self" title="Media" data-analytics-action="REF_4" data-analytics-label="/empresas/media" data-url="/empresas">Media</a></li>
+                                            <li><a href="/empresas/agricultura-e-pescas" target="_self" title="Agricultura e Pescas" data-analytics-action="REF_4" data-analytics-label="/empresas/agricultura-e-pescas" data-url="/empresas">Agricultura e Pescas</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/economia" target="_self" class="economia" data-analytics-action="REF_5" data-analytics-label="/economia" data-url="/economia" title="Economia">Economia</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/economia/impostos" target="_self" title="Impostos" data-analytics-action="REF_5" data-analytics-label="/economia/impostos" data-url="/economia">Impostos</a></li>
+                                            <li><a href="/economia/politica" target="_self" title="Política" data-analytics-action="REF_5" data-analytics-label="/economia/politica" data-url="/economia">Política</a></li>
+                                            <li><a href="/economia/financas-publicas" target="_self" title="Finanças Públicas" data-analytics-action="REF_5" data-analytics-label="/economia/financas-publicas" data-url="/economia">Finanças Públicas</a></li>
+                                            <li><a href="/economia/conjuntura" target="_self" title="Conjuntura" data-analytics-action="REF_5" data-analytics-label="/economia/conjuntura" data-url="/economia">Conjuntura</a></li>
+                                            <li><a href="/economia/europa" target="_self" title="Europa" data-analytics-action="REF_5" data-analytics-label="/economia/europa" data-url="/economia">Europa</a></li>
+                                            <li><a href="/economia/mundo" target="_self" title="Mundo" data-analytics-action="REF_5" data-analytics-label="/economia/mundo" data-url="/economia">Mundo</a></li>
+                                            <li><a href="/economia/mundo/africa/angola" target="_self" title="Angola" data-analytics-action="REF_5" data-analytics-label="/economia/mundo/africa/angola" data-url="/economia">Angola</a></li>
+                                            <li><a href="/economia/emprego" target="_self" title="Emprego" data-analytics-action="REF_5" data-analytics-label="/economia/emprego" data-url="/economia">Emprego</a></li>
+                                            <li><a href="/economia/habitacao" target="_self" title="Habitação" data-analytics-action="REF_5" data-analytics-label="/economia/habitacao" data-url="/economia">Habitação</a></li>
+                                            <li><a href="/economia/funcao-publica" target="_self" title="Função Pública" data-analytics-action="REF_5" data-analytics-label="/economia/funcao-publica" data-url="/economia">Função Pública</a></li>
+                                            <li><a href="/economia/seguranca-social" target="_self" title="Segurança Social" data-analytics-action="REF_5" data-analytics-label="/economia/seguranca-social" data-url="/economia">Segurança Social</a></li>
+                                            <li><a href="/economia/politica-monetaria" target="_self" title="Política Monetária" data-analytics-action="REF_5" data-analytics-label="/economia/politica-monetaria" data-url="/economia">Política Monetária</a></li>
+                                            <li><a href="/economia/justica" target="_self" title="Justiça" data-analytics-action="REF_5" data-analytics-label="/economia/justica" data-url="/economia">Justiça</a></li>
+                                            <li><a href="/economia/justica/lex" target="_self" title="LEX" data-analytics-action="REF_5" data-analytics-label="/economia/justica/lex" data-url="/economia">LEX</a></li>
+                                            <li><a href="/economia/fundos-comunitarios" target="_self" title="Fundos Comunitários" data-analytics-action="REF_5" data-analytics-label="/economia/fundos-comunitarios" data-url="/economia">Fundos Comunitários</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/mercados" target="_self" class="mercados" data-analytics-action="REF_6" data-analytics-label="/mercados" data-url="/mercados" title="Mercados">Mercados</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/mercados/bolsa" target="_self" title="Bolsa" data-analytics-action="REF_6" data-analytics-label="/mercados/bolsa" data-url="/mercados">Bolsa</a></li>
+                                            <li><a href="/mercados/mercados-num-minuto" target="_self" title="Mercados num Minuto" data-analytics-action="REF_6" data-analytics-label="/mercados/mercados-num-minuto" data-url="/mercados">Mercados num Minuto</a></li>
+                                            <li><a href="/mercados/investidor-privado" target="_self" title="Investidor Privado" data-analytics-action="REF_6" data-analytics-label="/mercados/investidor-privado" data-url="/mercados">Investidor Privado</a></li>
+                                            <li><a href="/mercados/bolsa/dividendos" target="_self" title="Dividendos" data-analytics-action="REF_6" data-analytics-label="/mercados/bolsa/dividendos" data-url="/mercados">Dividendos</a></li>
+                                            <li><a href="/mercados/criptoativos" target="_self" title="Cripto" data-analytics-action="REF_6" data-analytics-label="/mercados/criptoativos" data-url="/mercados">Cripto</a></li>
+                                            <li><a href="/mercados/fundos-de-investimento" target="_self" title="Fundos de Investimento" data-analytics-action="REF_6" data-analytics-label="/mercados/fundos-de-investimento" data-url="/mercados">Fundos de Investimento</a></li>
+                                            <li><a href="/mercados/obrigacoes" target="_self" title="Obrigações" data-analytics-action="REF_6" data-analytics-label="/mercados/obrigacoes" data-url="/mercados">Obrigações</a></li>
+                                            <li><a href="/mercados/materias-primas" target="_self" title="Matérias-primas" data-analytics-action="REF_6" data-analytics-label="/mercados/materias-primas" data-url="/mercados">Matérias-primas</a></li>
+                                            <li><a href="/mercados/credito" target="_self" title="Crédito" data-analytics-action="REF_6" data-analytics-label="/mercados/credito" data-url="/mercados">Crédito</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/opiniao" target="_self" class="opiniao" data-analytics-action="REF_7" data-analytics-label="/opiniao" data-url="/opiniao" title="Opinião">Opinião</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/opiniao/editorial" target="_self" title="Editorial" data-analytics-action="REF_7" data-analytics-label="/opiniao/editorial" data-url="/opiniao">Editorial</a></li>
+                                            <li><a href="/opiniao/colunistas" target="_self" title="Colunistas" data-analytics-action="REF_7" data-analytics-label="/opiniao/colunistas" data-url="/opiniao">Colunistas</a></li>
+                                            <li><a href="/opiniao/economistas" target="_self" title="Economistas" data-analytics-action="REF_7" data-analytics-label="/opiniao/economistas" data-url="/opiniao">Economistas</a></li>
+                                            <li><a href="/opiniao/deans-corner" target="_self" title="Deans’ Corner" data-analytics-action="REF_7" data-analytics-label="/opiniao/deans-corner" data-url="/opiniao">Deans’ Corner</a></li>
+                                            <li><a href="/opiniao/cartoon-sa" target="_self" title="Cartoon SA" data-analytics-action="REF_7" data-analytics-label="/opiniao/cartoon-sa" data-url="/opiniao">Cartoon SA</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="">
+                            <a href="/o-poder-de-fazer-acontecer" target="_self" style="color:#F80909 !important" class="o-poder-de-fazer-acontecer" data-analytics-action="REF_8" data-analytics-label="/o-poder-de-fazer-acontecer" data-url="/o-poder-de-fazer-acontecer" title="O Poder de Fazer Acontecer">O Poder de Fazer Acontecer</a>
+
+                        </li>
+                        <li class="">
+                            <a href="/europa-viva" target="_self" class="europa-viva" data-analytics-action="REF_9" data-analytics-label="/europa-viva" data-url="/europa-viva" title="Europa Viva">Europa Viva</a>
+
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/podcast" target="_self" class="podcast" data-analytics-action="REF_10" data-analytics-label="/podcast" data-url="/podcast" title="Podcast">Podcast</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/podcast/a-soma-dos-dias" target="_self" title="A Soma dos Dias" data-analytics-action="REF_10" data-analytics-label="/podcast/a-soma-dos-dias" data-url="/podcast">A Soma dos Dias</a></li>
+                                            <li><a href="/podcast/partida-de-xadrez" target="_self" title="Partida de Xadrez" data-analytics-action="REF_10" data-analytics-label="/podcast/partida-de-xadrez" data-url="/podcast">Partida de Xadrez</a></li>
+                                            <li><a href="/podcast/conversas-visiveis" target="_self" title="Conversas Visíveis" data-analytics-action="REF_10" data-analytics-label="/podcast/conversas-visiveis" data-url="/podcast">Conversas Visíveis</a></li>
+                                            <li><a href="/podcast/conversas-com-ceo" target="_self" title="Conversas com CEO" data-analytics-action="REF_10" data-analytics-label="/podcast/conversas-com-ceo" data-url="/podcast">Conversas com CEO</a></li>
+                                            <li><a href="/podcast/negocios-record" target="_self" title="Negócios Record" data-analytics-action="REF_10" data-analytics-label="/podcast/negocios-record" data-url="/podcast">Negócios Record</a></li>
+                                            <li><a href="/podcast/bdp-podcast" target="_self" title="BdP Podcast" data-analytics-action="REF_10" data-analytics-label="/podcast/bdp-podcast" data-url="/podcast">BdP Podcast</a></li>
+                                            <li><a href="/podcast/o-lugar-delas" target="_self" title="O Lugar Delas" data-analytics-action="REF_10" data-analytics-label="/podcast/o-lugar-delas" data-url="/podcast">O Lugar Delas</a></li>
+                                            <li><a href="/podcast/o-dinheiro-da-europa-descomplicado" target="_self" title="O dinheiro da Europa Descomplicado" data-analytics-action="REF_10" data-analytics-label="/podcast/o-dinheiro-da-europa-descomplicado" data-url="/podcast">O dinheiro da Europa Descomplicado</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/negocios-iniciativas/poderosos" target="_self" class="negocios-iniciativas/poderosos" data-analytics-action="REF_11" data-analytics-label="/negocios-iniciativas/poderosos" data-url="/negocios-iniciativas/poderosos" title="Poderosos">Poderosos</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/negocios-iniciativas/poderosos/poderosos-2024" target="_self" title="Poderosos 2024" data-analytics-action="REF_11" data-analytics-label="/negocios-iniciativas/poderosos/poderosos-2024" data-url="/negocios-iniciativas/poderosos">Poderosos 2024</a></li>
+                                            <li><a href="/negocios-iniciativas/poderosos/poderosos-2023" target="_self" title="Poderosos 2023" data-analytics-action="REF_11" data-analytics-label="/negocios-iniciativas/poderosos/poderosos-2023" data-url="/negocios-iniciativas/poderosos">Poderosos 2023</a></li>
+                                            <li><a href="/negocios-iniciativas/poderosos/poderosos-2022" target="_self" title="Poderosos 2022" data-analytics-action="REF_11" data-analytics-label="/negocios-iniciativas/poderosos/poderosos-2022" data-url="/negocios-iniciativas/poderosos">Poderosos 2022</a></li>
+                                            <li><a href="/negocios-iniciativas/poderosos/poderosos-2021" target="_self" title="Poderosos 2021" data-analytics-action="REF_11" data-analytics-label="/negocios-iniciativas/poderosos/poderosos-2021" data-url="/negocios-iniciativas/poderosos">Poderosos 2021</a></li>
+                                            <li><a href="/negocios-iniciativas/poderosos/poderosos-2020" target="_self" title="Poderosos 2020" data-analytics-action="REF_11" data-analytics-label="/negocios-iniciativas/poderosos/poderosos-2020" data-url="/negocios-iniciativas/poderosos">Poderosos 2020</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="javascript:;" target="_self" class="multimedia" data-analytics-action="REF_12" data-analytics-label="javascript:;" data-url="javascript:;" title="Multimédia">Multimédia</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/multimedia/negocios-tv" target="_self" title="Negócios TV" data-analytics-action="REF_12" data-analytics-label="/multimedia/negocios-tv" data-url="javascript:;">Negócios TV</a></li>
+                                            <li><a href="/multimedia/fotogalerias" target="_self" title="Fotogalerias" data-analytics-action="REF_12" data-analytics-label="/multimedia/fotogalerias" data-url="javascript:;">Fotogalerias</a></li>
+                                            <li><a href="/multimedia/mapas" target="_self" title="Mapas" data-analytics-action="REF_12" data-analytics-label="/multimedia/mapas" data-url="javascript:;">Mapas</a></li>
+                                            <li><a href="/multimedia/infografias" target="_self" title="Infografias" data-analytics-action="REF_12" data-analytics-label="/multimedia/infografias" data-url="javascript:;">Infografias</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="">
+                            <a href="https://caldeiraodebolsa.jornaldenegocios.pt" target="_blank" rel="&quot;noopener&quot;" class="" data-analytics-action="REF_13" data-analytics-label="https://caldeiraodebolsa.jornaldenegocios.pt" data-url="https://caldeiraodebolsa.jornaldenegocios.pt" title="Caldeirão de Bolsa">Caldeirão de Bolsa</a>
+
+                        </li>
+                        <li class="">
+                            <a href="https://www.must.jornaldenegocios.pt/" target="_blank" rel="&quot;noopener&quot;" class="" data-analytics-action="REF_14" data-analytics-label="https://www.must.jornaldenegocios.pt/" data-url="https://www.must.jornaldenegocios.pt/" title="MUST">MUST</a>
+
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/sustentabilidade" target="_self" class="sustentabilidade" data-analytics-action="REF_15" data-analytics-label="/sustentabilidade" data-url="/sustentabilidade" title="Sustentabilidade">Sustentabilidade</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/sustentabilidade/ambiental" target="_self" title="Ambiental" data-analytics-action="REF_15" data-analytics-label="/sustentabilidade/ambiental" data-url="/sustentabilidade">Ambiental</a></li>
+                                            <li><a href="/sustentabilidade/financas-sustentaveis" target="_self" title="Finanças Sustentáveis" data-analytics-action="REF_15" data-analytics-label="/sustentabilidade/financas-sustentaveis" data-url="/sustentabilidade">Finanças Sustentáveis</a></li>
+                                            <li><a href="/sustentabilidade/smart-cities" target="_self" title="Smart Cities" data-analytics-action="REF_15" data-analytics-label="/sustentabilidade/smart-cities" data-url="/sustentabilidade">Smart Cities</a></li>
+                                            <li><a href="/sustentabilidade/economia-circular" target="_self" title="Economia Circular" data-analytics-action="REF_15" data-analytics-label="/sustentabilidade/economia-circular" data-url="/sustentabilidade">Economia Circular</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/negocios-iniciativas" target="_self" class="negocios-iniciativas" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas" data-url="/negocios-iniciativas" title="Negócios Iniciativas">Negócios Iniciativas</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="/negocios-iniciativas/portugal-health-summit" target="_self" title="Portugal Health Summit" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/portugal-health-summit" data-url="/negocios-iniciativas">Portugal Health Summit</a></li>
+                                            <li><a href="/negocios-iniciativas/premio-nacional-de-inovacao" target="_self" title="Prémio Nacional de Inovação" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/premio-nacional-de-inovacao" data-url="/negocios-iniciativas">Prémio Nacional de Inovação</a></li>
+                                            <li><a href="/negocios-iniciativas/premio-nacional-de-agricultura" target="_self" title="Prémio Nacional de Agricultura" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/premio-nacional-de-agricultura" data-url="/negocios-iniciativas">Prémio Nacional de Agricultura</a></li>
+                                            <li><a href="/negocios-iniciativas/poderosos" target="_self" title="Poderosos" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/poderosos" data-url="/negocios-iniciativas">Poderosos</a></li>
+                                            <li><a href="/negocios-iniciativas/banca-do-futuro" target="_self" title="Banca do Futuro" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/banca-do-futuro" data-url="/negocios-iniciativas">Banca do Futuro</a></li>
+                                            <li><a href="/negocios-iniciativas/jogo-da-bolsa" target="_self" title="Jogo da Bolsa" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/jogo-da-bolsa" data-url="/negocios-iniciativas">Jogo da Bolsa</a></li>
+                                            <li><a href="/negocios-iniciativas/saude-sustentavel" target="_self" title="Saúde Sustentável" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/saude-sustentavel" data-url="/negocios-iniciativas">Saúde Sustentável</a></li>
+                                            <li><a href="/negocios-iniciativas/premios-exportacao---internaci" target="_self" title="Prémios exportação &amp; Internacionalização" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/premios-exportacao---internaci" data-url="/negocios-iniciativas">Prémios exportação &amp; Internacionalização</a></li>
+                                            <li><a href="/negocios-iniciativas/pme-no-radar" target="_self" title="PME no Radar" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/pme-no-radar" data-url="/negocios-iniciativas">PME no Radar</a></li>
+                                            <li><a href="/negocios-iniciativas/negocios-e-portugal" target="_self" title="Negócios é Portugal" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/negocios-e-portugal" data-url="/negocios-iniciativas">Negócios é Portugal</a></li>
+                                            <li><a href="/negocios-iniciativas/portugal-digital-awards" target="_self" title="Portugal Digital Awards" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/portugal-digital-awards" data-url="/negocios-iniciativas">Portugal Digital Awards</a></li>
+                                            <li><a href="/negocios-iniciativas/digital-marketing" target="_self" title="Digital Marketing" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/digital-marketing" data-url="/negocios-iniciativas">Digital Marketing</a></li>
+                                            <li><a href="/negocios-iniciativas/eletric-summit" target="_self" title="Electric Summit" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/eletric-summit" data-url="/negocios-iniciativas">Electric Summit</a></li>
+                                            <li><a href="/negocios-iniciativas/vamos-la-portugal" target="_self" title="Vamos Lá, Portugal!" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/vamos-la-portugal" data-url="/negocios-iniciativas">Vamos Lá, Portugal!</a></li>
+                                            <li><a href="/negocios-iniciativas/premio-flad-ey-buzz-usa" target="_self" title="Prémio FLAD.EY BUZZ USA" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/premio-flad-ey-buzz-usa" data-url="/negocios-iniciativas">Prémio FLAD.EY BUZZ USA</a></li>
+                                            <li><a href="/negocios-iniciativas/premio-excellens-oeconomia" target="_self" title="Prémio Excellens Oeconomia" data-analytics-action="REF_16" data-analytics-label="/negocios-iniciativas/premio-excellens-oeconomia" data-url="/negocios-iniciativas">Prémio Excellens Oeconomia</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="">
+                            <a href="/negocios-em-rede" target="_self" class="negocios-em-rede" data-analytics-action="REF_17" data-analytics-label="/negocios-em-rede" data-url="/negocios-em-rede" title="Negócios em Rede">Negócios em Rede</a>
+
+                        </li>
+                        <li class="">
+                            <a href="http://empresite.jornaldenegocios.pt" target="_blank" rel="&quot;noopener&quot;" class="directorio-de-empresas-empresite" data-analytics-action="REF_18" data-analytics-label="http://empresite.jornaldenegocios.pt" data-url="http://empresite.jornaldenegocios.pt" title="Empresite">Empresite</a>
+
+                        </li>
+                        <li class="secondLevel">
+                            <a href="/c-studio" target="_self" class="c-studio" data-analytics-action="REF_19" data-analytics-label="/c-studio" data-url="/c-studio" title="C-Studio">C-Studio</a>
+
+                                <div class="secondLevel_menu">
+                                    <ul class="lista_Subcanais">
+                                            <li><a href="https://30anosacrescermosjuntos.negocios.pt/" target="_blank" rel="&quot;noopener&quot;" title="30 anos a crescermos juntos" data-analytics-action="REF_19" data-analytics-label="https://30anosacrescermosjuntos.negocios.pt/" data-url="/c-studio">30 anos a crescermos juntos</a></li>
+                                            <li><a href="https://transformacaodigital.jornaldenegocios.pt/" target="_blank" rel="&quot;noopener&quot;" title="Transformação Digital by KPMG" data-analytics-action="REF_19" data-analytics-label="https://transformacaodigital.jornaldenegocios.pt/" data-url="/c-studio">Transformação Digital by KPMG</a></li>
+                                            <li><a href="https://abcdophishing.negocios.pt/" target="_blank" rel="&quot;noopener&quot;" title="ABC do Phishing" data-analytics-action="REF_19" data-analytics-label="https://abcdophishing.negocios.pt/" data-url="/c-studio">ABC do Phishing</a></li>
+                                            <li><a href="https://pensarofuturo.negocios.pt/" target="_blank" rel="&quot;noopener&quot;" title="Pensar_ O Futuro" data-analytics-action="REF_19" data-analytics-label="https://pensarofuturo.negocios.pt/" data-url="/c-studio">Pensar_ O Futuro</a></li>
+                                            <li><a href="https://passoapasso.negocios.pt" target="_blank" rel="&quot;noopener&quot;" title="Passo a Passo by ActivoBank" data-analytics-action="REF_19" data-analytics-label="https://passoapasso.negocios.pt" data-url="/c-studio">Passo a Passo by ActivoBank</a></li>
+                                            <li><a href="https://edpbusinesssummit.negocios.pt/" target="_blank" rel="&quot;noopener&quot;" title="EDP Business Summit" data-analytics-action="REF_19" data-analytics-label="https://edpbusinesssummit.negocios.pt/" data-url="/c-studio">EDP Business Summit</a></li>
+                                            <li><a href="https://electricsummit.negocios.pt/" target="_blank" rel="&quot;noopener&quot;" title="Electric Summit" data-analytics-action="REF_19" data-analytics-label="https://electricsummit.negocios.pt/" data-url="/c-studio">Electric Summit</a></li>
+                                            <li><a href="http://boardingpass.negocios.pt" target="_blank" rel="&quot;noopener&quot;" title="Boarding Pass to Asia" data-analytics-action="REF_19" data-analytics-label="http://boardingpass.negocios.pt" data-url="/c-studio">Boarding Pass to Asia</a></li>
+                                    </ul>
+                                </div>
+                        </li>
+                        <li class="">
+                            <a href="/mais/analises-deco" target="_self" class="mais/analises-deco" data-analytics-action="REF_20" data-analytics-label="/mais/analises-deco" data-url="/mais/analises-deco" title="Análises Deco">Análises Deco</a>
+
+                        </li>
+                        <li class="">
+                            <a href="/elevador" target="_self" class="elevador" data-analytics-action="REF_21" data-analytics-label="/elevador" data-url="/elevador" title="Elevador">Elevador</a>
+
+                        </li>
+                        <li class="">
+                            <a href="/opiniao/cartoon-sa" target="_self" class="opiniao/cartoon-sa" data-analytics-action="REF_22" data-analytics-label="/opiniao/cartoon-sa" data-url="/opiniao/cartoon-sa" title="Cartoon SA">Cartoon SA</a>
+
+                        </li>
+                        <li class="">
+                            <a href="/mais/primeira-pagina" target="_self" class="mais/primeira-pagina" data-analytics-action="REF_23" data-analytics-label="/mais/primeira-pagina" data-url="/mais/primeira-pagina" title="Primeira Página">Primeira Página</a>
+
+                        </li>
+                        <li class="">
+                            <a href="https://jornaldenegocios.pt/epaper" target="_blank" rel="&quot;noopener&quot;" class="" data-analytics-action="REF_24" data-analytics-label="https://jornaldenegocios.pt/epaper" data-url="https://jornaldenegocios.pt/epaper" title="E-paper">E-paper</a>
+
+                        </li>
+                        <li class="">
+                            <a href="https://www.jornaldenegocios.pt/subscrevernewsletters?utm_source=botaohamburguer" target="_blank" rel="&quot;noopener&quot;" class="" data-analytics-action="REF_25" data-analytics-label="https://www.jornaldenegocios.pt/subscrevernewsletters?utm_source=botaohamburguer" data-url="https://www.jornaldenegocios.pt/subscrevernewsletters?utm_source=botaohamburguer" title="Newsletters">Newsletters</a>
+
+                        </li>
+                </ul>
+
+        </div>
+    </div>
+    <div class="menuMask"></div>
+
+
+
+
+<header class="header" data-analytics-category="Menu_Header">
+<section class="barra_cofina" id="_addCofinaBar_">
+    <h6 class="sr-only">Outros sites Medialivre</h6>
+    <iframe src="//barra.xl.pt/responsive/jornaldenegocios.html?site=jornaldenegocios.pt" scrolling="no" id="iframe_barra" style="border:none;overflow:hidden;" frameborder="0" title="Outros sites Medialivre"></iframe>
+</section>
+    <div class="header_top">
+        <button type="button" class="ic_main_menu" aria-label="menu" title="Menu">
+            <span>Menu</span>
+        </button>
+        <a href="/" class="logo" title="Jornal de Negócios"><span class="sr-only">Jornal de Negócios</span></a>
+
+        
+
+
+    <script>
+        var utmToUseCTAHeader = "1-772878";
+    </script>
+<ul class="header_utils">
+            <li class="entrarBT"><a href="javascript:void(0)" onclick="CofinaSSOApi.gotoLogin();" title="Entrar" data-analytics-action="Definicoes" data-analytics-label="Login">Entrar</a></li>
+
+
+
+
+        <li>
+            <section data-subscription-cta="GERAL-Botao Assinar Header"></section>
+
+
+        </li>
+
+
+    <li class="pesquisabarra">
+        <form class="pesquisaHeader" role="search" method="get" action="/pesquisa/">
+            <div class="search" id="searchbarra">
+                <input type="text" name="q" class="form-control input-sm" maxlength="64" placeholder="Pesquisar" id="inputbarra">
+                <button class="ic_search btn" data-analytics-action="Definicoes" data-analytics-label="Pesquisar"></button>
+            </div>
+        </form>
+    </li>
+
+    <li>
+        <a href="javascript:void(0)" class="ic_notificacao" title="Notificações"><span class="sr-only">Notificações</span></a>
+    </li>
+</ul>
+
+
+
+        <div class="notificacao" id="notificacao" style="display:none">
+    <div class="notificacaoContainer">
+        <div class="tipNotificacao"></div>
+        <span class="icon-logo-n"></span>
+        <div class="notificacaoText">
+            <span id="notificacaoText">Deseja receber notificações?</span>
+            <div class="clearfix mt-2"></div>
+            <a href="javascript:void(0)" class="pushCancel pushCancelRegister cancelar btClose_notificacoes" id="cancelar" data-action="subscribe">Cancelar</a>
+            <a href="javascript:void(0)" id="pushContinue" data-target="self" data-action="subscribe" class="continuar">Continuar</a>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    
+<nav class="header_canais">
+    
+    <div class="canais">
+        
+                <a href="/" target="_blank" rel="&quot;noopener&quot;" class="" title="Início" data-analytics-action="REF_0" data-analytics-label="/">Início</a>
+                <a href="/noticias-no-minuto" target="_self" class="noticias-no-minuto" title="Ao Minuto" data-analytics-action="REF_1" data-analytics-label="/noticias-no-minuto">Ao Minuto</a>
+                <a href="/premium" target="_self" class="premium" title="Premium" data-analytics-action="REF_2" data-analytics-label="/premium">Premium</a>
+                <a href="/cotacoes" target="_self" class="cotacoes" title="Cotações" data-analytics-action="REF_3" data-analytics-label="/cotacoes">Cotações</a>
+                <a href="/economia" target="_self" class="economia" title="Economia" data-analytics-action="REF_4" data-analytics-label="/economia">Economia</a>
+                <a href="/empresas" target="_self" class="empresas" title="Empresas" data-analytics-action="REF_5" data-analytics-label="/empresas">Empresas</a>
+                <a href="/mercados" target="_self" class="mercados" title="Mercados" data-analytics-action="REF_6" data-analytics-label="/mercados">Mercados</a>
+                <a href="/o-poder-de-fazer-acontecer" target="_self" style="color:#F80909 !important" class="o-poder-de-fazer-acontecer" title="O Poder de Fazer Acontecer" data-analytics-action="REF_7" data-analytics-label="/o-poder-de-fazer-acontecer">O Poder de Fazer Acontecer</a>
+                <a href="/opiniao" target="_self" class="opiniao" title="Opinião" data-analytics-action="REF_8" data-analytics-label="/opiniao">Opinião</a>
+                <a href="/weekend" target="_self" class="weekend" title="Weekend" data-analytics-action="REF_9" data-analytics-label="/weekend">Weekend</a>
+                <a href="http://empresite.jornaldenegocios.pt" target="_blank" rel="&quot;noopener&quot;" class="directorio-de-empresas-empresite" title="Empresite" data-analytics-action="REF_10" data-analytics-label="http://empresite.jornaldenegocios.pt">Empresite</a>
+                <a href="/mercados/criptoativos" target="_self" class="mercados/criptoativos" title="Cripto" data-analytics-action="REF_11" data-analytics-label="/mercados/criptoativos">Cripto</a>
+                <a href="https://caldeiraodebolsa.jornaldenegocios.pt" target="_blank" rel="&quot;noopener&quot;" class="" title="Caldeirão de Bolsa" data-analytics-action="REF_12" data-analytics-label="https://caldeiraodebolsa.jornaldenegocios.pt">Caldeirão de Bolsa</a>
+                <a href="/europa-viva" target="_self" class="europa-viva" title="Europa Viva" data-analytics-action="REF_13" data-analytics-label="/europa-viva">Europa Viva</a>
+                <a href="https://www.must.jornaldenegocios.pt/" target="_blank" rel="&quot;noopener&quot;" class="" title="MUST" data-analytics-action="REF_14" data-analytics-label="https://www.must.jornaldenegocios.pt/">MUST</a>
+    </div>
+
+
+            <div class="temas" data-analytics-category="Menu_Header_Temas">
+
+        </div>
+
+
+</nav>
+ 
+
+
+
+
+
+</header>
+
+    
+
+    <section>
+        <h6 class="sr-only">Notícias em Destaque</h6>
+        <div class="destaques_hp">
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Cheques para elétricos carregados com mais dinheiro" href="/empresas/automovel/detalhe/cheques-para-eletricos-carregados-com-mais-dinheiro" target="_self" data-analytics-action="REF_0" data-analytics-label="/empresas/automovel/detalhe/cheques-para-eletricos-carregados-com-mais-dinheiro">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2024-10/img_155x96$2024_10_24_20_49_17_488377.jpg" alt="Cheques para elétricos carregados com mais dinheiro">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/empresas/automovel/detalhe/cheques-para-eletricos-carregados-com-mais-dinheiro" target="_self" data-analytics-action="REF_0" data-analytics-label="/empresas/automovel/detalhe/cheques-para-eletricos-carregados-com-mais-dinheiro" title="Cheques para elétricos carregados com mais dinheiro"><span class="ic_premium"></span>Cheques para elétricos carregados com mais dinheiro</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Wall Street fecha mista com tecnológicas no vermelho" href="/mercados/bolsa/detalhe/wall-street-fecha-mista-com-tecnologicas-no-vermelho" target="_self" data-analytics-action="REF_1" data-analytics-label="/mercados/bolsa/detalhe/wall-street-fecha-mista-com-tecnologicas-no-vermelho">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2024-12/img_155x96$2024_12_05_15_45_15_491525.jpg" alt="Wall Street fecha mista com tecnológicas no vermelho">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/mercados/bolsa/detalhe/wall-street-fecha-mista-com-tecnologicas-no-vermelho" target="_self" data-analytics-action="REF_1" data-analytics-label="/mercados/bolsa/detalhe/wall-street-fecha-mista-com-tecnologicas-no-vermelho" title="Wall Street fecha mista com tecnológicas no vermelho">Wall Street fecha mista com tecnológicas no vermelho</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Equipa de Trump avalia aplicar tarifas mensalmente e de forma gradual" href="/economia/mundo/americas/detalhe/equipa-de-trump-avalia-aplicar-tarifas-mensalmente-e-de-forma-gradual" target="_self" data-analytics-action="REF_2" data-analytics-label="/economia/mundo/americas/detalhe/equipa-de-trump-avalia-aplicar-tarifas-mensalmente-e-de-forma-gradual">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2025-01/img_155x96$2025_01_03_07_34_08_493388.jpg" alt="Equipa de Trump avalia aplicar tarifas mensalmente e de forma gradual">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/economia/mundo/americas/detalhe/equipa-de-trump-avalia-aplicar-tarifas-mensalmente-e-de-forma-gradual" target="_self" data-analytics-action="REF_2" data-analytics-label="/economia/mundo/americas/detalhe/equipa-de-trump-avalia-aplicar-tarifas-mensalmente-e-de-forma-gradual" title="Equipa de Trump avalia aplicar tarifas mensalmente e de forma gradual">Equipa de Trump avalia aplicar tarifas mensalmente e de forma gradual</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Espanhóis do data center da Altice na Covilhã abrem filial em Lisboa" href="/empresas/tecnologias/detalhe/espanhois-do-data-center-da-altice-na-covilha-abrem-filial-em-lisboa" target="_self" data-analytics-action="REF_3" data-analytics-label="/empresas/tecnologias/detalhe/espanhois-do-data-center-da-altice-na-covilha-abrem-filial-em-lisboa">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2022-05/img_155x96$2022_05_18_18_54_13_429244.jpg" alt="Espanhóis do data center da Altice na Covilhã abrem filial em Lisboa">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/empresas/tecnologias/detalhe/espanhois-do-data-center-da-altice-na-covilha-abrem-filial-em-lisboa" target="_self" data-analytics-action="REF_3" data-analytics-label="/empresas/tecnologias/detalhe/espanhois-do-data-center-da-altice-na-covilha-abrem-filial-em-lisboa" title="Espanhóis do data center da Altice na Covilhã abrem filial em Lisboa"><span class="ic_premium"></span>Espanhóis do data center da Altice na Covilhã abrem filial em Lisboa</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Replicar supermercado inteligente vai depender da aceitação, diz CEO da dona do Continente" href="/empresas/comercio/detalhe/replicar-supermercado-inteligente-vai-depender-da-aceitacao-diz-ceo-da-dona-do-continente" target="_self" data-analytics-action="REF_4" data-analytics-label="/empresas/comercio/detalhe/replicar-supermercado-inteligente-vai-depender-da-aceitacao-diz-ceo-da-dona-do-continente">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2025-01/img_155x96$2025_01_11_19_47_23_493896.jpg" alt="Replicar supermercado inteligente vai depender da aceitação, diz CEO da dona do Continente">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/empresas/comercio/detalhe/replicar-supermercado-inteligente-vai-depender-da-aceitacao-diz-ceo-da-dona-do-continente" target="_self" data-analytics-action="REF_4" data-analytics-label="/empresas/comercio/detalhe/replicar-supermercado-inteligente-vai-depender-da-aceitacao-diz-ceo-da-dona-do-continente" title="Replicar supermercado inteligente vai depender da aceitação, diz CEO da dona do Continente"><span class="ic_premium"></span>Replicar supermercado inteligente vai depender da aceitação, diz CEO da dona do Continente</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Alexandra Leitão deverá ser candidata do PS à câmara de Lisboa  " href="/economia/politica/detalhe/alexandra-leitao-devera-ser-candidada-do-ps-a-camara-de-lisboa" target="_self" data-analytics-action="REF_5" data-analytics-label="/economia/politica/detalhe/alexandra-leitao-devera-ser-candidada-do-ps-a-camara-de-lisboa">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2024-11/img_155x96$2024_11_29_13_15_00_490894.jpg" alt="Alexandra Leitão deverá ser candidata do PS à câmara de Lisboa  ">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/economia/politica/detalhe/alexandra-leitao-devera-ser-candidada-do-ps-a-camara-de-lisboa" target="_self" data-analytics-action="REF_5" data-analytics-label="/economia/politica/detalhe/alexandra-leitao-devera-ser-candidada-do-ps-a-camara-de-lisboa" title="Alexandra Leitão deverá ser candidata do PS à câmara de Lisboa  ">Alexandra Leitão deverá ser candidata do PS à câmara de Lisboa  </a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Hidrogénio verde vai chegar a meio milhão de casas da região de Lisboa em 2027" href="/empresas/energia/detalhe/hidrogenio-verde-vai-chegar-a-meio-milhao-de-casas-da-regiao-de-lisboa-em-2027" target="_self" data-analytics-action="REF_6" data-analytics-label="/empresas/energia/detalhe/hidrogenio-verde-vai-chegar-a-meio-milhao-de-casas-da-regiao-de-lisboa-em-2027">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2024-09/img_155x96$2024_09_10_20_19_29_485006.jpg" alt="Hidrogénio verde vai chegar a meio milhão de casas da região de Lisboa em 2027">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/empresas/energia/detalhe/hidrogenio-verde-vai-chegar-a-meio-milhao-de-casas-da-regiao-de-lisboa-em-2027" target="_self" data-analytics-action="REF_6" data-analytics-label="/empresas/energia/detalhe/hidrogenio-verde-vai-chegar-a-meio-milhao-de-casas-da-regiao-de-lisboa-em-2027" title="Hidrogénio verde vai chegar a meio milhão de casas da região de Lisboa em 2027">Hidrogénio verde vai chegar a meio milhão de casas da região de Lisboa em 2027</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Justiça entre os problemas de sempre e o “novo ciclo” pedido por Marcelo" href="/economia/justica/detalhe/justica-entre-os-problemas-de-sempre-e-o-novo-ciclo-pedido-por-marcelo" target="_self" data-analytics-action="REF_7" data-analytics-label="/economia/justica/detalhe/justica-entre-os-problemas-de-sempre-e-o-novo-ciclo-pedido-por-marcelo">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2023-01/img_155x96$2023_01_10_16_24_10_443914.jpg" alt="Justiça entre os problemas de sempre e o “novo ciclo” pedido por Marcelo">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/economia/justica/detalhe/justica-entre-os-problemas-de-sempre-e-o-novo-ciclo-pedido-por-marcelo" target="_self" data-analytics-action="REF_7" data-analytics-label="/economia/justica/detalhe/justica-entre-os-problemas-de-sempre-e-o-novo-ciclo-pedido-por-marcelo" title="Justiça entre os problemas de sempre e o “novo ciclo” pedido por Marcelo"><span class="ic_premium"></span>Justiça entre os problemas de sempre e o “novo ciclo” pedido por Marcelo</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Reação dos investidores aos novos CEO da Galp. A análise do Negócios ao dia nos mercados" href="/mercados/detalhe/reacao-dos-investidores-aos-novos-ceo-da-galp-a-analise-do-negocios-ao-dia-nos-mercados" target="_self" data-analytics-action="REF_8" data-analytics-label="/mercados/detalhe/reacao-dos-investidores-aos-novos-ceo-da-galp-a-analise-do-negocios-ao-dia-nos-mercados">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2025-01/img_155x96$2025_01_13_20_52_41_493964.jpg" alt="Reação dos investidores aos novos CEO da Galp. A análise do Negócios ao dia nos mercados">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/mercados/detalhe/reacao-dos-investidores-aos-novos-ceo-da-galp-a-analise-do-negocios-ao-dia-nos-mercados" target="_self" data-analytics-action="REF_8" data-analytics-label="/mercados/detalhe/reacao-dos-investidores-aos-novos-ceo-da-galp-a-analise-do-negocios-ao-dia-nos-mercados" title="Reação dos investidores aos novos CEO da Galp. A análise do Negócios ao dia nos mercados"><span class="ic_multimedia ic_videos"></span>Reação dos investidores aos novos CEO da Galp. A análise do Negócios ao dia nos mercados</a></h4>            
+
+        </div>
+    </article>
+    <article class="destaque   " data-analytics-category="DestaquesTopo">
+
+            <div class="figure_container">
+                    <figure class="image">
+                        <a title="Governo português diz-se “pronto para construir pontes” com a Arábia Saudita" href="/empresas/comercio/detalhe/governo-portugues-diz-se-pronto-para-construir-pontes-com-a-arabia-saudita" target="_self" data-analytics-action="REF_9" data-analytics-label="/empresas/comercio/detalhe/governo-portugues-diz-se-pronto-para-construir-pontes-com-a-arabia-saudita">
+
+                                <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2025-01/img_155x96$2025_01_13_14_28_04_493945.png" alt="Governo português diz-se “pronto para construir pontes” com a Arábia Saudita">
+                        </a>
+                    </figure>
+            </div>
+
+        <div class="text_container">
+<h4><a href="/empresas/comercio/detalhe/governo-portugues-diz-se-pronto-para-construir-pontes-com-a-arabia-saudita" target="_self" data-analytics-action="REF_9" data-analytics-label="/empresas/comercio/detalhe/governo-portugues-diz-se-pronto-para-construir-pontes-com-a-arabia-saudita" title="Governo português diz-se “pronto para construir pontes” com a Arábia Saudita">Governo português diz-se “pronto para construir pontes” com a Arábia Saudita</a></h4>            
+
+        </div>
+    </article>
+        </div>
+    </section>
+<section class="container masthead">
+    <div id="div-gpt-ad-masthead-0"></div>
+</section><section class="article ">
+    <h6 class="sr-only">Notícia</h6>
+    <div class="container">
+
+            <nav class="sectionsNav" data-analytics-category="BreadCrumb">
+            <a href="/economia" data-analytics-label="/economia" title="Economia">Economia</a>
+        <a href="/economia/coronavirus" data-analytics-label="/economia/coronavirus" title="Coronavírus">Coronavírus</a>
+
+    </nav>
+
+
+                            <h1 class="article_title">
+                                Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara 
+                            </h1>
+                            <p class="lead">
+                                "Apesar dos indiscutíveis avanços que temos registado no combate à presente pandemia, sobretudo na sequência do sucesso da campanha de vacinação, a respetiva situação epidemiológica aconselha que se deva manter um robusto nível de medidas preventivas", defende a instituição.
+                            </p>
+
+
+
+        <div class="centro">
+            <article class="main_article  ">
+            <div class="multimedia_container" data-contentid="Images_405001">
+                <figure class="image">
+                    <ul class="multimedia_utils">
+                        <li><a href="javascript:void(0)" title="Partilhar" class="ic_share shareModal" data-contentid="Images_405001" data-typeshare="Foto"></a></li>
+                        <li><a href="javascript:void(0)" title="Ampliar" class="ic_expand openModal" data-contentid="Images_405001" data-type="Foto" data-imgmodal="https://cdn.jornaldenegocios.pt/images/2021-06/img_1280x720$2021_06_08_20_57_23_405001.jpg" data-description="" data-autor="Tiago Petinga / Lusa"></a></li>
+                    </ul>
+                    <img class="img-fluid" src="https://cdn.jornaldenegocios.pt/images/2021-06/img_900x560$2021_06_08_20_57_23_405001.jpg" alt="">
+                        <figcaption class="legenda_multimedia">
+
+                            <span class="legenda">
+                                    
+
+                            </span>
+
+                                <span class="autor">Tiago Petinga / Lusa</span>
+                        </figcaption>
+                </figure>
+            </div>
+
+
+<div class="autor_container" data-analytics-category="Autor">
+    <div class="info_autor">
+            <a href="/opiniao/autores/detalhe/lusa" title="Lusa " data-analytics-action="Lusa " data-analytics-label="/opiniao/autores/detalhe/lusa"><strong>Lusa </strong></a>
+    </div>
+    <div class="data_autor">28 de Agosto de 2021 às 16:49</div>
+</div>
+
+                <div class="main_text">
+                    <div class="col_partilhas">
+
+                        
+        <ul class="partilhas_sticky" data-analytics-category="SharesLateral">
+                <li class="share_fb">
+                    <a href="javascript:;" title="Partilhar no Facebook" class="ic_facebook" data-analytics-action="facebook" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+                </li>
+            <li class="share_tw">
+                <a href="javascript:;" title="Partilhar no Twitter" class="ic_twitter" data-analytics-action="twitter" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+            </li>
+            <li class="share_wh d-lg-none">
+                <a href="javascript:;" title="Partilhar no Whatsapp" class="ic_whatsapp" data-analytics-action="whatsapp" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+            </li>
+            <li class="share_in d-none d-lg-flex">
+                <a href="javascript:;" title="Partilhar no Linkedin" class="ic_linkedin" data-analytics-action="linkedin" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+            </li>
+            <li class="read_later">
+                <a href="javascript:void(0)" title="Ler mais tarde" class="ic_read_later" data-analytics-action="favoritos" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+            </li>
+                <li class="read_comment">
+                    <a href="#loadComments" title="Ler os comentários" class="ic_comentarios" data-analytics-action="Comentários" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+                    <span class="comment_txt">
+                        
+                    </span>
+                </li>
+
+            <li class="other_share shareModal">
+                <a href="javascript:void(0)" title="Mais opções de partilha" data-analytics-action="Ver mais" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles">...</a>
+
+<div id="partilharartigo_fechado" class="modal modal_small fade in" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4 class="modal-title">Funcionalidade exclusiva para assinantes Negócios Premium</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-12">
+                        <a href="https://www.jornaldenegocios.pt/assinaturas/?utm_medium=772878&amp;utm_source=ModalPartilha&amp;utm_campaign=Assinaturas_BotoesAssinar" class="link_btn" data-analytics-category="Detalhe_Botao_Assinar_Assinaturas" data-analytics-action="ModalPartilha">Assine para partilhar</a>
+                        <div class="clearfix"></div>
+                        E usufrua de todas as vantagens de ser assinante
+                        <div class="clearfix"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        if ($("#btnPartilharBarraShare").length > 0)
+            $("#btnPartilharBarraShare").attr("data-contentid", 772878);
+    })
+</script>
+
+            </li>
+        </ul>
+            
+                <script>
+                    var btn_assinar_share = document.getElementById("btnAssinarBarraShare");
+    if (btn_assinar_share !== null)
+    {
+        btn_assinar_share.addEventListener('click', function(event) {
+            cofinaAnalytics.gaEvent('event', 'Botao_Assinar', 'DET_Assine1euro1mes_barraferramentas', '772878');
+        }, false);
+        btn_assinar_share.setAttribute("href", btn_assinar_share.href + "?utm_medium=1-772878&utm_source=BarraPartilha&utm_campaign=Assinaturas_BotoesAssinar");
+    }
+                </script>
+            
+
+
+                    </div>
+                    <div class="texto paywall">
+<p>A Fundação Portuguesa do Pulmão considera que é prematuro abandonar a obrigatoriedade do uso de máscara de proteção respiratória e outras medidas de proteção individual contra a propagação da pandemia de covid-19.</p>
+<p>&nbsp;</p>
+
+
+<div id="div-gpt-ad-mrec-4989540">
+    <script>
+                if (typeof (showPubOn) !== 'undefined') {
+                    $(function () {
+                        try {
+                            var div = document.getElementById('div-gpt-ad-mrec-4989540');
+                            setTimeout(function () {
+                                new Waypoint({
+                                    element: div,
+                                    handler: function (direction) {
+                                        var isToRefresh = window.cofSSOInitScripts.adsLoaded();
+                                        COF.pubApi.renderInContent($(this.element), undefined, undefined, undefined, isToRefresh);
+                                        this.destroy();
+                                    },
+                                    offset: '120%'
+                                    });
+                            }, 50);
+                        } catch (e) {
+                            console.log(e.message);
+                        }
+                    });
+                }
+    </script>
+</div>
+<p>"Apesar dos indiscutíveis avanços que temos registado no combate à presente pandemia, sobretudo na sequência do sucesso da campanha de vacinação, a respetiva situação epidemiológica aconselha que se deva manter um robusto nível de medidas preventivas", defende a instituição em comunicado enviado à agência Lusa.</p>
+
+    <div class="relatedLink" data-analytics-category="Relacionadas">
+        <span>Leia Também</span>
+            <div class="relatedItem">
+                <a href="/economia/coronavirus/detalhe/costa-preve-70-dos-menores-entre-12-e-17-anos-com-uma-dose-da-vacina-ate-domingo" title="Costa prevê 70% dos menores entre 12 e 17 anos com uma dose da vacina até domingo " data-analytics-action="REF_0" data-analytics-label="/economia/coronavirus/detalhe/costa-preve-70-dos-menores-entre-12-e-17-anos-com-uma-dose-da-vacina-ate-domingo">Costa prevê 70% dos menores entre 12 e 17 anos com uma dose da vacina até domingo </a>
+            </div>
+    </div>
+
+<p>&nbsp;</p>
+<p>A fundação sustenta que a variante Delta, com uma capacidade de contágio 60% superior à anterior, e o conhecimento de que a vacina não tem eficácia suficiente para impedir totalmente, quer a infeção, quer a transmissão do vírus, justificam medidas acrescidas.</p>
+<p>&nbsp;</p>
+
+    <div class="relatedLink" data-analytics-category="Relacionadas">
+        <span>Leia Também</span>
+            <div class="relatedItem">
+                <a href="/economia/coronavirus/detalhe/mais-de-76-mil-pessoas-vacinadas-ate-as-1830-de-hoje-a-maioria-jovens" title="Mais de 76 mil pessoas vacinadas até às 18:30 de hoje, a maioria jovens " data-analytics-action="REF_1" data-analytics-label="/economia/coronavirus/detalhe/mais-de-76-mil-pessoas-vacinadas-ate-as-1830-de-hoje-a-maioria-jovens">Mais de 76 mil pessoas vacinadas até às 18:30 de hoje, a maioria jovens </a>
+            </div>
+    </div>
+
+<p>A instituição destaca também como fatores "não tranquilizadores" a elevada incidência de casos (310 por 100.000 habitantes, com uma média de 2.317 novos casos diários na última semana), um nível elevado de casos ativos (45.542) e um nível de mortalidade "ainda muito expressivo" (média diária de 11 óbitos na última semana), a par dos níveis de hospitalização, quer em enfermaria, quer em cuidados intensivos (733 e 151, respetivamente).</p>
+<p>&nbsp;</p>
+<p>"É prematuro considerar o fim da obrigatoriedade do uso da máscara de proteção respiratória nos espaços públicos exteriores sempre que a distância social de segurança não esteja garantida. No mesmo sentido é nossa opinião que o uso de máscara deverá continuar a ser obrigatória em todos os espaços públicos interiores", defende a Fundação Portuguesa do Pulmão.</p>
+
+    <div class="relatedLink" data-analytics-category="Relacionadas">
+        <span>Leia Também</span>
+            <div class="relatedItem">
+                <a href="/economia/coronavirus/detalhe/portugal-com-mais-2374-casos-e-8-mortes-por-covid-menos-18-internamentos" title="Portugal com mais 2.374 casos e 8 mortes por covid. Menos 18 internamentos" data-analytics-action="REF_2" data-analytics-label="/economia/coronavirus/detalhe/portugal-com-mais-2374-casos-e-8-mortes-por-covid-menos-18-internamentos">Portugal com mais 2.374 casos e 8 mortes por covid. Menos 18 internamentos</a>
+            </div>
+    </div>
+
+<p>&nbsp;</p>
+<p>"A decisão de liberalizar o uso de máscara só deve ser considerada quando sairmos da quarta onda epidémica, quando tivermos uma maior percentagem da população totalmente vacinada (a tão almejada imunidade de grupo) e os marcadores epidemiológicos da infeção pelo SARS-Cov-2 evidenciarem um mais seguro controlo da pandemia", acrescenta.</p>
+<p>&nbsp;</p>
+
+    <div class="relatedLink" data-analytics-category="Relacionadas">
+        <span>Leia Também</span>
+            <div class="relatedItem">
+                <a href="/economia/coronavirus/detalhe/maioria-apoia-terceira-dose-da-vacina-mas-328-so-para-os-mais-vulneraveis" title="Maioria apoia terceira dose da vacina, mas 32,8% só para os mais vulneráveis" data-analytics-action="REF_3" data-analytics-label="/economia/coronavirus/detalhe/maioria-apoia-terceira-dose-da-vacina-mas-328-so-para-os-mais-vulneraveis">Maioria apoia terceira dose da vacina, mas 32,8% só para os mais vulneráveis</a>
+            </div>
+    </div>
+
+<p>A ministra da Saúde, Marta Temido, afirmou no dia 19 que a decisão sobre o uso de máscara na rua é uma competência da Assembleia da República.</p>
+<p>&nbsp;</p>
+<p>O Presidente da República, Marcelo Rebelo de Sousa, defendeu na semana passada o fim do uso obrigatório da máscara só em meados de setembro e apelou aos jovens para se vacinarem contra a covid-19 antes do início do ano letivo.</p>
+
+    <div class="relatedLink" data-analytics-category="Relacionadas">
+        <span>Leia Também</span>
+            <div class="relatedItem">
+                <a href="/economia/coronavirus/detalhe/20210828-0930-covid-19-estudo-ingles-sugere-que-variante-delta-duplica-risco-de-internamento" title="Covid-19: Estudo inglês sugere que variante Delta duplica risco de internamento " data-analytics-action="REF_4" data-analytics-label="/economia/coronavirus/detalhe/20210828-0930-covid-19-estudo-ingles-sugere-que-variante-delta-duplica-risco-de-internamento">Covid-19: Estudo inglês sugere que variante Delta duplica risco de internamento </a>
+            </div>
+    </div>
+
+<p>&nbsp;</p>
+<p>A covid-19 provocou pelo menos 4.472.486 mortes em todo o mundo, entre mais de 214,5 milhões de infeções pelo novo coronavírus registadas desde o início da pandemia, segundo o mais recente balanço da agência France-Presse.</p>
+<p>&nbsp;</p>
+<p>Em Portugal, desde março de 2020, morreram 17.711 pessoas e foram contabilizados 1.033.165 casos de infeção confirmados, segundo dados da Direção-Geral da Saúde.</p>
+<p>A doença respiratória é provocada pelo coronavírus SARS-CoV-2, detetado no final de 2019 em Wuhan, cidade do centro da China, e atualmente com variantes identificadas em países como o Reino Unido, Índia, África do Sul, Brasil ou Peru.</p>
+                                            </div>
+                    <div class="col_textoSpace"></div>
+                </div>
+
+                    <a href="#loadComments" class="acess_comment" title="Ver comentários">Ver comentários</a>
+
+                
+        <section class="module saber_mais" data-analytics-category="TagsSaberMais">
+            <span class="module_title" title="Saber mais">
+                <strong>Saber mais</strong>
+            </span>
+                <a href="/sabermais/mascara" data-analytics-action="REF_0" data-analytics-label="/sabermais/mascara"><span></span>máscara</a>
+                <a href="/sabermais/pulmao" data-analytics-action="REF_1" data-analytics-label="/sabermais/pulmao"><span></span> pulmão</a>
+                <a href="/sabermais/vacinacao" data-analytics-action="REF_2" data-analytics-label="/sabermais/vacinacao"><span></span> vacinação</a>
+                <a href="/sabermais/covid-19" data-analytics-action="REF_3" data-analytics-label="/sabermais/covid-19"><span></span> covid-19</a>
+                <a href="/sabermais/pandemia" data-analytics-action="REF_4" data-analytics-label="/sabermais/pandemia"><span></span> pandemia</a>
+                <a href="/sabermais/delta" data-analytics-action="REF_5" data-analytics-label="/sabermais/delta"><span></span> delta</a>
+        </section>
+
+
+            </article>
+
+
+        </div>
+
+            <div id="share" class="modal fade newModal newModal_small" tabindex="-1" role="dialog" aria-labelledby="share" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="close-container">
+                            <div class="closeBtn" data-dismiss="modal" aria-label="Close">
+                                <div class="leftright"></div>
+                                <div class="rightleft"></div>
+                            </div>
+                        </div>
+                        <div class="modal-body">
+                            <input type="hidden" id="imgOrgModalShare" value="https://cdn.jornaldenegocios.pt/images/2021-06/img_440x274$2021_06_08_20_57_23_405001.jpg">
+                            <div class="d-flex flex-column flex-lg-row">
+                                <div class="centro">
+                                    <div class="sharePhoto_title">
+                                        <div class="share_info">
+                                            <span class="share_date">28 de Agosto de 2021 às 16:49</span>
+                                            <h1>Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara </h1>
+                                                <img id="foto-share" src="https://cdn.jornaldenegocios.pt/images/2021-06/img_440x274$2021_06_08_20_57_23_405001.jpg" alt="Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara ">
+                                        </div>
+                                    </div>
+                                    <div class="text-center">
+                                        <div class="col_partilhas">
+                                            <ul class="partilhas_sticky" data-analytics-category="SharesModal">
+                                                        <li class="share_fb">
+                                                    <a href="javascript:void(0)" title="Partilhar no Facebook" class="ic_facebook" data-analytics-action="facebook" data-local="ModalShareNoticia" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+                                                        </li>
+                                                    <li class="share_tw">
+                                                    <a href="javascript:void(0)" title="Partilhar no Twitter" class="ic_twitter" data-analytics-action="twitter" data-local="ModalShareNoticia" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+                                                    </li>
+                                                    <li class="share_in">
+                                                    <a href="javascript:void(0)" title="Partilhar no Linkedin" class="ic_linkedin" data-analytics-action="linkedin" data-local="ModalShareNoticia" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+                                                    </li>
+                                                    <li class="share_wh d-flex d-md-none">
+                                                    <a href="javascript:void(0)" title="Partilhar no Whatsapp" class="ic_whatsapp" data-analytics-action="whatsapp" data-local="ModalShareNoticia" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara" data-contentid="772878" data-areaid="683" data-contenttype="Articles"></a>
+                                                    </li>
+                                                    <li class="share_email">
+                                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#send_mail" data-dismiss="modal" title="Enviar por email" class="ic_email" data-analytics-action="Enviar Email" data-local="ModalShareNoticia" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara"></a>
+                                                    </li>
+                                                    <li class="print">
+                                                    <a href="javascript:void(0)" title="Imprimir" class="ic_print" data-analytics-action="Imprimir" data-dismiss="modal" data-local="ModalShareNoticia" data-url="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara"></a>
+                                                    </li>
+                                                </ul>
+                                        </div>
+                                    </div>
+                                    <div class="shareLink">
+                                        <span class="ic_link"></span>
+                                        <input type="text" value="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara">
+                                    </div>
+                                </div>
+                                <div class="lateral">
+                                    
+
+<section class="m-rec">
+    <div id="div-gpt-ad-mrec-4989544"></div>
+</section>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<div id="expandFoto" class="modal fade newModal photoBig" tabindex="-1" role="dialog" aria-labelledby="photoBig" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="close-container">
+                    <div class="closeBtn" data-dismiss="modal" aria-label="Close">
+                        <div class="leftright"></div>
+                        <div class="rightleft"></div>
+                    </div>
+                </div>
+                <div class="loader" style="display:none;height: 30px;width: 30px;"></div>
+                <div id="dragWrapper">
+                    <img id="drag" class="img-fluid" src="" alt="">
+                </div>
+            </div>
+            <figcaption class="legenda_multimedia">
+                <span class="legenda"></span>
+                <span class="autor"></span>
+            </figcaption>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade newModal newModal_opaque zoomGaleria" id="zoomGaleria" tabindex="-1" role="dialog" aria-labelledby="zoomGaleria" aria-hidden="true">
+    <div class="close-container">
+        <div class="closeBtn" data-dismiss="modal" aria-label="Close">
+            <div class="leftright"></div>
+            <div class="rightleft"></div>
+        </div>
+    </div>
+    <div class="fotogaleriaBig_top">
+        <a href="\" class="logo" title="Jornal de Negócios"><span class="sr-only">Jornal de Negócios</span></a>
+        <span class="pagingInfoZoom"></span>
+        <span class="fotogaleria_titulo"></span>
+    </div>
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="d-flex flex-column flex-lg-row">
+                    <div class="centro">
+                        <div class="fotogaleriaBig">
+                            <div class="fotogaleria_layer">
+                            </div>
+                            <span id="legendaFotogaleriaZoom"></span>
+                        </div>
+                    </div>
+                    <div class="lateral">
+                        
+
+<section class="m-rec">
+    <div id="div-gpt-ad-mrec-4989545"></div>
+</section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="guardarNoticia" class="modal newModal fade in" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="close-container">
+                    <div class="closeBtn" data-dismiss="modal" aria-label="Close">
+                        <div class="leftright"></div>
+                        <div class="rightleft"></div>
+                    </div>
+                </div>
+                <div class="shareInfo">
+                    <p>Para poder adicionar esta notícia aos seus favoritos deverá efectuar <a href="javascript:;" onclick="CofinaSSOApi.gotoLogin();">login</a>.</p>
+                    <p>Caso não esteja registado no site do Negócios, efectue o seu <a href="javascript:;" onclick="CofinaSSOApi.gotoRegistration()">registo gratuito</a>.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+    <div class="modal fade newModal newModal_small" id="send_mail" tabindex="-1" role="dialog" aria-labelledby="send_mail" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="close-container">
+                    <div class="closeBtn" data-dismiss="modal" aria-label="Close">
+                        <div class="leftright"></div>
+                        <div class="rightleft"></div>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="d-flex flex-column flex-lg-row">
+                        <div class="centro">
+                            <span class="send_mail_title">
+                                Enviar o artigo: <strong>Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara </strong>
+                            </span>
+                            <div class="clearfix mt-3"></div>
+                            <div id="sendNewsByEmailFormContainer">
+                                
+<form action="/sendemail/sendnewsbyemail/" data-ajax="true" data-ajax-begin="COF.loading($(this));" data-ajax-complete="COF.loading($(this));$('#sendByEmailForm')[0].reset();" data-ajax-method="POST" data-ajax-mode="replace" data-ajax-update="#sendNewsByEmailFormContainer" id="sendByEmailForm" method="post" role="form"><input data-val="true" data-val-required="* O Título da notícia não é válido." id="ContentTitle" name="ContentTitle" type="hidden" value="Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara "><input data-val="true" data-val-number="The field ContentId must be a number." id="ContentId" name="ContentId" type="hidden" value="772878"><input id="ContentTypeName" name="ContentTypeName" type="hidden" value="Articles"><input data-val="true" data-val-required="* Url da notícia não é válido." id="ContentUrl" name="ContentUrl" type="hidden" value="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara?utm_medium=Social&amp;utm_source=EnviarAmigo&amp;utm_campaign=BotoesSite&amp;utm_content=EnviarAmigo">        <div class="row">
+        <div class="col-12 col-lg-6">
+            <label for="send_email">O meu email</label>
+            <input class="nome" data-val="true" data-val-email="* O Email inserido não é válido." data-val-required="* Tem de inserir o seu email." id="send_email" name="UserEmail" type="text" value="">
+            <span class="field-validation-valid error-message" data-valmsg-for="UserEmail" data-valmsg-replace="true" style="color:red"></span>
+        </div>
+        <div class="col-12 col-lg-6">
+            <label for="send_nome">O meu nome</label>
+            <input class="nome" data-val="true" data-val-required="* Tem de inserir o seu nome." id="send_nome" name="UserName" type="text" value="">
+            <span class="field-validation-valid error-message" data-valmsg-for="UserName" data-valmsg-replace="true" style="color:red"></span>
+        </div>
+        <div class="col-12">
+            <label for="send_commentText">Comentários</label>
+            <textarea class="writeComent" cols="20" data-val="true" data-val-maxlength="A mensagem não pode ter mais de 350 caracteres." data-val-maxlength-max="350" data-val-required="* Tem de inserir a sua mensagem." id="send_commentText" name="CommentText" rows="2"></textarea>
+            <span class="field-validation-valid error-message" data-valmsg-for="CommentText" data-valmsg-replace="true" style="color:red"></span>
+        </div>
+
+        <div class="col-12">
+            <label for="send_destinatarios">Destinatários: (para vários endereços usar ; e espaço)</label>
+            <input class="nome" data-val="true" data-val-required="* Tem de inserir o email do seu amigo. (para vários endereços usar ; e espaço)" id="send_destinatarios" name="RecipientsCommaSplited" type="text" value="">
+            <span class="field-validation-valid error-message" data-valmsg-for="RecipientsCommaSplited" data-valmsg-replace="true" style="color:red"></span>
+            <div class="clearfix mt-3"></div>
+
+            
+    <script src="https://www.google.com/recaptcha/api.js?onload=recaptcha_onLoad_sendByEmailRecaptcha&amp;render=explicit" async="" defer=""></script>
+    <div id="sendByEmailRecaptcha"></div>
+    <script type="text/javascript">
+
+            var recaptcha_onLoad_sendByEmailRecaptcha = function () {
+                    window.recaptcha_sendByEmailRecaptcha = grecaptcha.render('sendByEmailRecaptcha', {
+                        'sitekey': '6Lfd_toUAAAAAJ54oBiskdw4whl9Pa53nPDz4Onq',
+                        'callback': function () {
+                                        $('#sendByEmailForm').submit();
+                                        
+                                    },
+                        'size': 'invisible',
+                        'badge': 'inline'
+                    });
+
+                     var element = document.getElementById('btn_sendByEmailRecaptcha');
+                        element.onclick = function (event) {
+                            var response = grecaptcha.getResponse(recaptcha_sendByEmailRecaptcha);
+                            if (response !== null && response !== ''){
+                                $('#sendByEmailForm').submit();
+                            }else{
+                                grecaptcha.execute(recaptcha_sendByEmailRecaptcha);
+                            }
+                        }
+
+                    
+                }
+    </script>
+
+
+ 
+            <span class="field-validation-valid error-message" data-valmsg-for="ReCaptcha" data-valmsg-replace="true" style="color:red"></span>
+            <div>                
+                <a href="javascript:;" id="btn_sendByEmailRecaptcha" class="btn">Enviar</a>
+            </div>
+        </div>
+
+
+
+        </div>
+</form>
+
+                            </div>
+                        </div>
+                        <div class="lateral">
+                            
+
+<section class="m-rec">
+    <div id="div-gpt-ad-mrec-4989546"></div>
+</section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade newModal newModal_small" id="send_mail_offer" tabindex="-1" role="dialog" aria-labelledby="send_mail_offer" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="close-container">
+                    <div class="closeBtn" data-dismiss="modal" aria-label="Close">
+                        <div class="leftright"></div>
+                        <div class="rightleft"></div>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="d-flex flex-column flex-lg-row">
+                        <div class="centro">
+                            <span class="send_mail_title">
+                                Enviar o artigo: <strong>Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara </strong>
+                            </span>
+                            <div class="clearfix mt-3"></div>
+                            <div id="sendNewsOfferByEmailFormContainer">
+                                
+<form action="/sendemail/sendnewsofferbyemail/" data-ajax="true" data-ajax-begin="COF.loading($(this));" data-ajax-complete="COF.loading($(this));$('#sendOfferByEmailForm')[0].reset();" data-ajax-method="POST" data-ajax-mode="replace" data-ajax-update="#sendNewsOfferByEmailFormContainer" id="sendOfferByEmailForm" method="post" role="form"><input data-val="true" data-val-required="* O Título da notícia não é válido." id="ContentTitle" name="ContentTitle" type="hidden" value="Fundação Portuguesa do Pulmão diz que é prematuro abandonar a máscara "><input data-val="true" data-val-number="The field ContentId must be a number." id="ContentId" name="ContentId" type="hidden" value="772878"><input id="ContentTypeName" name="ContentTypeName" type="hidden" value="Articles"><input data-val="true" data-val-required="* Url da notícia não é válido." id="ContentUrl" name="ContentUrl" type="hidden" value="https://www.jornaldenegocios.pt/economia/coronavirus/detalhe/fundacao-portuguesa-do-pulmao-diz-que-e-prematuro-abandonar-a-mascara?utm_medium=Social&amp;utm_source=EnviarAmigo&amp;utm_campaign=BotoesSite&amp;utm_content=EnviarAmigo">        <div class="row">
+        <div class="col-12 col-lg-6">
+            <label for="send_email">O meu email</label>
+            <input class="nome" data-val="true" data-val-email="* O Email inserido não é válido." data-val-required="* Tem de inserir o seu email." id="send_email" name="UserEmail" type="text" value="">
+            <span class="field-validation-valid error-message" data-valmsg-for="UserEmail" data-valmsg-replace="true" style="color:red"></span>
+        </div>
+        <div class="col-12 col-lg-6">
+            <label for="send_nome">O meu nome</label>
+            <input class="nome" data-val="true" data-val-required="* Tem de inserir o seu nome." id="send_nome" name="UserName" type="text" value="">
+            <span class="field-validation-valid error-message" data-valmsg-for="UserName" data-valmsg-replace="true" style="color:red"></span>
+        </div>
+        <div class="col-12">
+            <label for="send_commentText">Comentários</label>
+            <textarea class="writeComent" cols="20" data-val="true" data-val-maxlength="A mensagem não pode ter mais de 350 caracteres." data-val-maxlength-max="350" data-val-required="* Tem de inserir a sua mensagem." id="send_commentText" name="CommentText" rows="2">Olá, envio como oferta a possibilidade de ler integralmente esta notícia do Jornal de Negócios, exclusiva para assinantes, que me pareceu interessante</textarea>
+            <span class="field-validation-valid error-message" data-valmsg-for="CommentText" data-valmsg-replace="true" style="color:red"></span>
+        </div>
+
+        <div class="col-12">
+            <label for="send_destinatarios">Destinatários: (para vários endereços usar ; e espaço)</label>
+            <input class="nome" data-val="true" data-val-required="* Tem de inserir o email do seu amigo. (para vários endereços usar ; e espaço)" id="send_destinatarios" name="RecipientsCommaSplited" type="text" value="">
+            <span class="field-validation-valid error-message" data-valmsg-for="RecipientsCommaSplited" data-valmsg-replace="true" style="color:red"></span>
+            <div class="clearfix mt-3"></div>
+
+            
+    <script src="https://www.google.com/recaptcha/api.js?onload=recaptcha_onLoad_sendOfferByEmailRecaptcha&amp;render=explicit" async="" defer=""></script>
+    <div id="sendOfferByEmailRecaptcha"></div>
+    <script type="text/javascript">
+
+            var recaptcha_onLoad_sendOfferByEmailRecaptcha = function () {
+                    window.recaptcha_sendOfferByEmailRecaptcha = grecaptcha.render('sendOfferByEmailRecaptcha', {
+                        'sitekey': '6Lfd_toUAAAAAJ54oBiskdw4whl9Pa53nPDz4Onq',
+                        'callback': function () {
+                                        $('#sendOfferByEmailForm').submit();
+                                        
+                                    },
+                        'size': 'invisible',
+                        'badge': 'inline'
+                    });
+
+                     var element = document.getElementById('btn_sendOfferByEmailRecaptcha');
+                        element.onclick = function (event) {
+                            var response = grecaptcha.getResponse(recaptcha_sendOfferByEmailRecaptcha);
+                            if (response !== null && response !== ''){
+                                $('#sendOfferByEmailForm').submit();
+                            }else{
+                                grecaptcha.execute(recaptcha_sendOfferByEmailRecaptcha);
+                            }
+                        }
+
+                    
+                }
+    </script>
+
+
+ 
+            <span class="field-validation-valid error-message" data-valmsg-for="ReCaptcha" data-valmsg-replace="true" style="color:red"></span>
+            <div>                
+                <a href="javascript:;" id="btn_sendOfferByEmailRecaptcha" class="btn">Enviar</a>
+            </div>
+        </div>
+
+
+
+        </div>
+</form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="lateral">
+
+<section class="m-rec">
+    <div id="div-gpt-ad-mrec-0"></div>
+</section>        </div>
+    </div>
+</section>
+    <section class="article otherBlocks">
+        <h6 class="sr-only">Outras Notícias</h6>
+        <div class="container">
+            <div class="centro">
+<section class="recomendadas" id="blocoRecomendation">
+    <div id="blocoOutrasNoticiasSiteIMatrics"></div>
+    <script>
+        window.waitInitScripts = window.waitInitScripts || function (method) {
+            if (window.CofinaSSOInitScripts)
+                method();
+            else {
+                var call = true;
+                var div = document.getElementById('blocoOutrasNoticiasSiteIMatrics');
+                setTimeout(function () {
+                    new Waypoint({
+                        element: div,
+                        handler: function (direction) {
+                            if (call) {
+                                waitInitScripts(method);
+                                call = false;
+                            }
+                        },
+                        offset: '60%'
+                    });
+                }, 50);
+            }
+        }
+        waitInitScripts(function () {
+            (async () => {
+                try {
+                    const appid = await CofinaSSOInitScripts.getAPPID();
+                    var contentId = $(hdnContentID).val();
+                    var contentTypeName = $(hdnContentTypeName).val();
+                    (function (w, d, s, l, a, c, n) {
+                        w[l] = w[l] || [];
+                        var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s); j.async = true; j.src =
+                                '/recommendations/noticias-site/blocoOutrasNoticiasSiteIMatrics/6/' + c + '/' + n + '?appid=' + a + '&_' + String(Math.random() * 100000); f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'noticiasSite', appid, contentId, contentTypeName);
+                }
+                catch (setPubIdError) {
+                    console.error('Error Recommended:', setPubIdError);
+                }
+            })();
+        });
+    </script>
+</section><div class="bloco_news news_cofina">
+    <div id="blocoOutrasNoticiasIMatrics"></div>
+    <script>
+        window.waitInitScripts = window.waitInitScripts || function (method) {
+            if (window.CofinaSSOInitScripts)
+                method();
+            else {
+                var call = true;
+                var div = document.getElementById('blocoOutrasNoticiasIMatrics');
+                setTimeout(function () {
+                    new Waypoint({
+                        element: div,
+                        handler: function (direction) {
+                            if (call) {
+                                waitInitScripts(method);
+                                call = false;
+                            }
+                        },
+                        offset: '60%'
+                    });
+                }, 50);
+            }
+        }
+        waitInitScripts(function () {
+            (async () => {
+                try {
+                    const appid = await CofinaSSOInitScripts.getAPPID();
+                    var contentId = $(hdnContentID).val() ?? '';
+                    var contentTypeName = $(hdnContentTypeName).val() ?? '';
+                    (function (w, d, s, l, a, c, n) {
+                        w[l] = w[l] || [];
+                        var f = d.getElementsByTagName(s)[0],
+                            j = d.createElement(s); j.async = true; j.src =
+                                '/recommendations/noticias-medialivre/blocoOutrasNoticiasIMatrics/8/' + c + '/' + n + '?appid=' + a + '&_' + String(Math.random() * 100000); f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'noticiasMedialivre', appid, contentId, contentTypeName);
+                }
+                catch (setPubIdError) {
+                    console.error('Error Recommended:', setPubIdError);
+                }
+            })();
+        });
+    </script>
+</div>
+
+    <section class="bloco_news pode_gostar_ler">
+        <div data-type="_mgwidget" data-widget-id="1666451"></div>
+        <script>
+            (function (w, q) { w[q] = w[q] || []; w[q].push(["_mgc.load"]) })(window, "_mgq");
+        </script>
+    </section>
+                            <section id="newsletterBox" class="newsletter">
+                                <h6 class="sr-only">Subscrever newsletter</h6>
+                                
+    <input type="hidden" id="NewsletterName" value="neg_NewsletterCincoTemasDia">
+    <div class="newsContainer" id="newsletter_block_772878">
+        <div id="loading_submit" class="loader" style="display: none;"></div>
+
+        <strong>Subscreva a <span>Newsletter 5 Coisas a saber</span> por email</strong>
+        <div class="newsDesc">
+            <span class="newsTxt">
+                <span>Enviada de segunda a sexta</span>
+<p>5 coisas que precisa de saber sobre Mercados para começar o dia.</p>
+            </span>
+                <a href="https://www.jornaldenegocios.pt/staticassets/newsletter/5coisas_new.html" target="_blank" data-analytics-category="Newsletter" data-analytics-action="ver exemplo" data-analytics-label="neg_NewsletterCincoTemasDia">Ver exemplo</a>
+        </div>
+        
+<form action="/subscrevernewsletters/formsubmittednewsletterdetalhe/" class="emailContainer" data-ajax="true" data-ajax-begin="$(this).hide();" data-ajax-loading="#loading_submit" data-ajax-method="POST" data-ajax-mode="replace-with" data-ajax-update="#newsletter_block_772878" id="subNewsletter" method="post" role="form"><input id="BDFieldName" name="BDFieldName" type="hidden" value="neg_NewsletterCincoTemasDia"><input id="Title" name="Title" type="hidden" value="5 Coisas a saber">            <input type="hidden" name="Description" id="Description" value="&amp;lt;span&amp;gt;Enviada de segunda a sexta&amp;lt;/span&amp;gt;
+&amp;lt;p&amp;gt;5 coisas que precisa de saber sobre Mercados para come&amp;amp;ccedil;ar o dia.&amp;lt;/p&amp;gt;">
+            <input type="hidden" id="urlParameters" name="UrlParameters" value="">
+            <span class="ic_email"></span>
+<input class="inputEmail" data-val="true" data-val-email="* O Email inserido não é válido." data-val-required="* Tem de inserir o seu email." id="email" name="Email" placeholder="Insira o seu email" type="email" value="">            <a href="javascript:;" id="btn_NewsletterDetalheRecaptcha" class="btn">Enviar</a>
+            <label for="agree_terms">
+                <input data-val="true" data-val-range="* Tem que autorizar o tratamento do seu endereço de email." data-val-range-max="True" data-val-range-min="True" data-val-required="The AllowsCofina field is required." id="agree_terms" name="AllowsCofina" type="checkbox" value="true"><input name="AllowsCofina" type="hidden" value="false">
+                Autorizo expressamente o tratamento do meu endereço de correio eletrónico para efeito de envio de newsletters da Medialivre, S.A..Li e aceito expressamente a Política de Privacidade Medialivre.
+            </label>
+            <div class="col-12 col-lg-4">
+
+                
+    <script src="https://www.google.com/recaptcha/api.js?onload=recaptcha_onLoad_NewsletterDetalheRecaptcha&amp;render=explicit" async="" defer=""></script>
+    <div id="NewsletterDetalheRecaptcha"></div>
+    <script type="text/javascript">
+
+            var recaptcha_onLoad_NewsletterDetalheRecaptcha = function () {
+                    window.recaptcha_NewsletterDetalheRecaptcha = grecaptcha.render('NewsletterDetalheRecaptcha', {
+                        'sitekey': '6Lfd_toUAAAAAJ54oBiskdw4whl9Pa53nPDz4Onq',
+                        'callback': function () {
+                                        $('#subNewsletter').submit();
+                                        
+                                    },
+                        'size': 'invisible',
+                        'badge': 'inline'
+                    });
+
+                     var element = document.getElementById('btn_NewsletterDetalheRecaptcha');
+                        element.onclick = function (event) {
+                            var response = grecaptcha.getResponse(recaptcha_NewsletterDetalheRecaptcha);
+                            if (response !== null && response !== ''){
+                                $('#subNewsletter').submit();
+                            }else{
+                                grecaptcha.execute(recaptcha_NewsletterDetalheRecaptcha);
+                            }
+                        }
+
+                    
+                }
+    </script>
+
+
+            </div>
+            <div class="col-12">
+                <div class="field-validation-valid alert alert-danger alert-dismissible fade show" data-valmsg-for="Email" data-valmsg-replace="true" role="alert"></div>
+                <div class="field-validation-valid alert alert-danger alert-dismissible fade show" data-valmsg-for="AllowsCofina" data-valmsg-replace="true" role="alert"></div>
+                <div class="field-validation-valid alert alert-danger alert-dismissible fade show" data-valmsg-for="ReCaptcha" data-valmsg-replace="true" role="alert"></div>
+                <div class="field-validation-valid alert alert-danger alert-dismissible fadeshow" data-valmsg-for="SubscriptionErrorMsg" data-valmsg-replace="true" role="alert"></div>
+            </div>
+</form>    </div>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        var defaultRangeValidator = $.validator.methods.range;
+        $.validator.methods.range = function (value, element, param) {
+            if (element.type === 'checkbox') {
+                // if it's a checkbox return true if it is checked
+                return element.checked;
+            } else {
+                // otherwise run the default validation function
+                return defaultRangeValidator.call(this, value, element, param);
+            }
+        }
+        $(document).on("click", "#btn_NewsletterDetalheRecaptcha", function (e) {
+
+            $("#urlParameters").val(window.location.search);
+        });
+
+    });
+</script>
+
+                            </section>
+<div id="loadComments"></div>
+                
+            </div>
+            <div class="d-none d-lg-block lateral col_styck">
+                <div class="sticky-spacer">
+
+
+    <section class="m-rec pub_stick">
+        
+
+
+<div id="div-gpt-ad-mrec-4989547">
+    <script>
+        if (typeof (showPubOn) !== 'undefined') {
+            $(function () {
+                try {
+                    var div = document.getElementById('div-gpt-ad-mrec-4989547');
+                    setTimeout(function () {
+                        new Waypoint({
+                            element: div,
+                            handler: function (direction) {
+                                var isToRefresh = window.cofSSOInitScripts.adsLoaded();
+                                COF.pubApi.renderMrec($(this.element), undefined, undefined, undefined, isToRefresh);
+                                this.destroy();
+                            },
+                            offset: '120%'
+                            });
+                    }, 50);
+                } catch (e) {
+                    console.log(e.message);
+                }
+            });
+        }
+    </script>
+</div>
+    </section>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container c-studio" data-analytics-category="BlocoCStudio">
+        <h6 class="sr-only">Publicidade</h6>
+        <a href="/c-studio" class="module_title" title="C-Studio" data-analytics-action="Titulo_BlocoCStudio" data-analytics-label="/c-studio">
+            <img class="logo-cstudio img-fluid" src="/i/logo-CStudio-dark.svg" alt="C•Studio">
+        </a>
+        <div class="row ctudio_Slider">
+                <div class="col-6 col-md-2">
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="http://www.jornaldenegocios.pt/c-studio/detalhe/pilar-2-e-um-novo-conjunto-de-obrigacoes-para-as-empresas?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P1" target="_self" rel="sponsored" title="Pilar 2 e um novo conjunto de obrigações para as empresas" data-analytics-action="REF_0" data-analytics-label="http://www.jornaldenegocios.pt/c-studio/detalhe/pilar-2-e-um-novo-conjunto-de-obrigacoes-para-as-empresas">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//cdn.jornaldenegocios.pt/images/2025-01/img_374x246$2025_01_09_10_55_33_493744.jpg" alt="Pilar 2 e um novo conjunto de obrigações para as empresas">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="http://www.jornaldenegocios.pt/c-studio/detalhe/pilar-2-e-um-novo-conjunto-de-obrigacoes-para-as-empresas?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P1" target="_self" rel="sponsored" title="Pilar 2 e um novo conjunto de obrigações para as empresas" data-analytics-action="REF_0" data-analytics-label="http://www.jornaldenegocios.pt/c-studio/detalhe/pilar-2-e-um-novo-conjunto-de-obrigacoes-para-as-empresas">Pilar 2 e um novo conjunto de obrigações para as empresas</a>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-6 col-md-2">
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="http://www.jornaldenegocios.pt/c-studio/detalhe/a-inteligencia-artificial-potencia-solucoes-modernas-de-ciberseguranca-para-proteger-o-sistema-financeiro-contra-ameacas-emergentes?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P2" target="_self" rel="sponsored" title="Revolução na segurança financeira: como a IA está a derrotar os cibercriminosos" data-analytics-action="REF_1" data-analytics-label="http://www.jornaldenegocios.pt/c-studio/detalhe/a-inteligencia-artificial-potencia-solucoes-modernas-de-ciberseguranca-para-proteger-o-sistema-financeiro-contra-ameacas-emergentes">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//cdn.jornaldenegocios.pt/images/2025-01/img_374x246$2025_01_06_11_26_14_493584.jpg" alt="Revolução na segurança financeira: como a IA está a derrotar os cibercriminosos">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="http://www.jornaldenegocios.pt/c-studio/detalhe/a-inteligencia-artificial-potencia-solucoes-modernas-de-ciberseguranca-para-proteger-o-sistema-financeiro-contra-ameacas-emergentes?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P2" target="_self" rel="sponsored" title="Revolução na segurança financeira: como a IA está a derrotar os cibercriminosos" data-analytics-action="REF_1" data-analytics-label="http://www.jornaldenegocios.pt/c-studio/detalhe/a-inteligencia-artificial-potencia-solucoes-modernas-de-ciberseguranca-para-proteger-o-sistema-financeiro-contra-ameacas-emergentes">Revolução na segurança financeira: como a IA está a derrotar os cibercriminosos</a>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-6 col-md-2">
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://minutofinancasparatodos.cmjornal.pt/videocasts/6-poupanca-dicas-para-poupar-dinheiro-no-dia-a-dia/?utm_source=correio-da-manha&amp;utm_medium=native-ad" target="_blank" rel="sponsored" title="Dicas para poupar dinheiro todos os dias" data-analytics-action="REF_2" data-analytics-label="https://minutofinancasparatodos.cmjornal.pt/videocasts/6-poupanca-dicas-para-poupar-dinheiro-no-dia-a-dia/?utm_source=correio-da-manha&amp;utm_medium=native-ad">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.cmjornal.pt/images/2025-01/img_374x246uu2025-01-13-11-36-50-2187769.jpg" alt="Dicas para poupar dinheiro todos os dias">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://minutofinancasparatodos.cmjornal.pt/videocasts/6-poupanca-dicas-para-poupar-dinheiro-no-dia-a-dia/?utm_source=correio-da-manha&amp;utm_medium=native-ad" target="_blank" rel="sponsored" title="Dicas para poupar dinheiro todos os dias" data-analytics-action="REF_2" data-analytics-label="https://minutofinancasparatodos.cmjornal.pt/videocasts/6-poupanca-dicas-para-poupar-dinheiro-no-dia-a-dia/?utm_source=correio-da-manha&amp;utm_medium=native-ad">Dicas para poupar dinheiro todos os dias</a>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-6 col-md-2">
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.maxima.pt/c-studio/detalhe/day-off-night-on-quatro-conselhos-para-uma-rotina-que-repara-a-pele-durante-a-noite?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P4" target="_blank" rel="sponsored" title="Day Off, Night On: quatro conselhos para uma rotina que repara a pele durante a noite" data-analytics-action="REF_3" data-analytics-label="https://www.maxima.pt/c-studio/detalhe/day-off-night-on-quatro-conselhos-para-uma-rotina-que-repara-a-pele-durante-a-noite">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.maxima.pt/images/2024-12/img%5F374x246%242024%5F12%5F17%5F15%5F52%5F29%5F461255.jpg" alt="Day Off, Night On: quatro conselhos para uma rotina que repara a pele durante a noite">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.maxima.pt/c-studio/detalhe/day-off-night-on-quatro-conselhos-para-uma-rotina-que-repara-a-pele-durante-a-noite?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P4" target="_blank" rel="sponsored" title="Day Off, Night On: quatro conselhos para uma rotina que repara a pele durante a noite" data-analytics-action="REF_3" data-analytics-label="https://www.maxima.pt/c-studio/detalhe/day-off-night-on-quatro-conselhos-para-uma-rotina-que-repara-a-pele-durante-a-noite">Day Off, Night On: quatro conselhos para uma rotina que repara a pele durante a noite</a>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-6 col-md-2">
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.record.pt/iniciativas/c-studio/detalhe/kaizen-gaming-lanca-programa-de-voluntariado-internacional?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P5" target="_blank" rel="sponsored" title="Kaizen Gaming lança programa de voluntariado internacional" data-analytics-action="REF_4" data-analytics-label="https://www.record.pt/iniciativas/c-studio/detalhe/kaizen-gaming-lanca-programa-de-voluntariado-internacional">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.record.pt/images/2024-12/img_374x246$2024_12_23_10_22_10_2323511.jpg" alt="Kaizen Gaming lança programa de voluntariado internacional">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.record.pt/iniciativas/c-studio/detalhe/kaizen-gaming-lanca-programa-de-voluntariado-internacional?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P5" target="_blank" rel="sponsored" title="Kaizen Gaming lança programa de voluntariado internacional" data-analytics-action="REF_4" data-analytics-label="https://www.record.pt/iniciativas/c-studio/detalhe/kaizen-gaming-lanca-programa-de-voluntariado-internacional">Kaizen Gaming lança programa de voluntariado internacional</a>
+                        </div>
+                    </article>
+                </div>
+                <div class="col-6 col-md-2">
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.sabado.pt/c-studio/detalhe/seguradora-premiou-clientes-responsaveis-na-estrada-com-viagem-aos-estados-unidos?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P6" target="_blank" rel="sponsored" title="Seguradora premiou clientes responsáveis na estrada com viagem aos Estados Unidos" data-analytics-action="REF_5" data-analytics-label="https://www.sabado.pt/c-studio/detalhe/seguradora-premiou-clientes-responsaveis-na-estrada-com-viagem-aos-estados-unidos">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.sabado.pt/images/2024-12/img%5F374x246%242024%5F12%5F23%5F15%5F42%5F54%5F728831.jpg" alt="Seguradora premiou clientes responsáveis na estrada com viagem aos Estados Unidos">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.sabado.pt/c-studio/detalhe/seguradora-premiou-clientes-responsaveis-na-estrada-com-viagem-aos-estados-unidos?utm_source=Negocios&amp;utm_medium=referral&amp;utm_campaign=Comercial_BlocoCStudio&amp;utm_content=Home&amp;utm_term=P6" target="_blank" rel="sponsored" title="Seguradora premiou clientes responsáveis na estrada com viagem aos Estados Unidos" data-analytics-action="REF_5" data-analytics-label="https://www.sabado.pt/c-studio/detalhe/seguradora-premiou-clientes-responsaveis-na-estrada-com-viagem-aos-estados-unidos">Seguradora premiou clientes responsáveis na estrada com viagem aos Estados Unidos</a>
+                        </div>
+                    </article>
+                </div>
+        </div>
+    </section>
+    <section class="container mt-4" data-analytics-category="CofinaBoostSolutions">
+        <div class="boost_activateDetalhe">
+            <div class="boostTitle">
+                <a href="javascript:;" style="cursor: text;">
+                    <span class="sr-only">Boost Activate</span>
+                </a>
+            </div>
+
+            <div class="boost_activateSlider">
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/um-sonho-de-natal" target="_blank" rel="sponsored" title="Um Sonho de Natal" data-analytics-action="REF_0" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/um-sonho-de-natal">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.cmjornal.pt/images/2024-12/img_374x246uu2024-12-05-10-06-45-2181127.jpg" alt="Um Sonho de Natal">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/um-sonho-de-natal" rel="sponsored" target="_blank" title="Um Sonho de Natal" data-analytics-action="REF_0" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/um-sonho-de-natal">Um Sonho de Natal</a>
+                        </div>
+                    </article>
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/minuto-financas-para-todos" target="_blank" rel="sponsored" title="Minuto Finanças para Todos" data-analytics-action="REF_1" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/minuto-financas-para-todos">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.cmjornal.pt/images/2024-11/img_374x246uu2024-11-12-13-26-24-2176876.jpg" alt="Minuto Finanças para Todos">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/minuto-financas-para-todos" rel="sponsored" target="_blank" title="Minuto Finanças para Todos" data-analytics-action="REF_1" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/minuto-financas-para-todos">Minuto Finanças para Todos</a>
+                        </div>
+                    </article>
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://climatechangetalks.negocios.pt/?utm_medium=cbs-widget" target="_blank" rel="sponsored" title="Climate Change Talks" data-analytics-action="REF_2" data-analytics-label="https://climatechangetalks.negocios.pt/?utm_medium=cbs-widget">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//cdn.jornaldenegocios.pt/images/2024-10/img_374x246$2024_10_15_09_34_41_487668.jpg" alt="Climate Change Talks">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://climatechangetalks.negocios.pt/?utm_medium=cbs-widget" rel="sponsored" target="_blank" title="Climate Change Talks" data-analytics-action="REF_2" data-analytics-label="https://climatechangetalks.negocios.pt/?utm_medium=cbs-widget">Climate Change Talks</a>
+                        </div>
+                    </article>
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/maisidademais" target="_blank" rel="sponsored" title="MaisIdadeMais" data-analytics-action="REF_3" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/maisidademais">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.cmjornal.pt/images/2023-05/img_374x246uu2023-05-05-11-32-25-1341091.png" alt="MaisIdadeMais">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/maisidademais" rel="sponsored" target="_blank" title="MaisIdadeMais" data-analytics-action="REF_3" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/maisidademais">MaisIdadeMais</a>
+                        </div>
+                    </article>
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.brandedcontent.pt/?utm_medium=cbs-widget" target="_blank" rel="sponsored" title="Branded Content" data-analytics-action="REF_4" data-analytics-label="https://www.brandedcontent.pt/?utm_medium=cbs-widget">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="//cdn.jornaldenegocios.pt/images/2024-09/img_374x246$2024_09_18_18_19_55_485523.jpg" alt="Branded Content">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.brandedcontent.pt/?utm_medium=cbs-widget" rel="sponsored" target="_blank" title="Branded Content" data-analytics-action="REF_4" data-analytics-label="https://www.brandedcontent.pt/?utm_medium=cbs-widget">Branded Content</a>
+                        </div>
+                    </article>
+                    <article class="destaque">
+                        <div class="figure_container">
+                                <figure class="image">
+                                    <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/talentos-do-bairro" target="_blank" rel="sponsored" title="Talentos do Bairro" data-analytics-action="REF_5" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/talentos-do-bairro">
+                                        <img class="img-fluid b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://cdn.cmjornal.pt/images/2024-09/img_374x246uu2024-09-09-12-12-04-1743451.jpg" alt="Talentos do Bairro">
+                                    </a>
+                                </figure>
+                        </div>
+                        <div class="text_container">
+                            <a href="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/talentos-do-bairro" rel="sponsored" target="_blank" title="Talentos do Bairro" data-analytics-action="REF_5" data-analytics-label="https://www.cmjornal.pt/cofina-boost-solutions/detalhe/talentos-do-bairro">Talentos do Bairro</a>
+                        </div>
+                    </article>
+
+            </div>
+        </div>
+    </section>
+
+<section class="container masthead">
+    
+
+
+<div id="div-gpt-ad-Leaderboard-1215848">
+    <script>
+        if (typeof (showPubOn) !== 'undefined') {
+            $(function () {
+                try {
+                    var div = document.getElementById('div-gpt-ad-Leaderboard-1215848');
+                    setTimeout(function () {
+                        new Waypoint({
+                            element: div,
+                            handler: function (direction) {
+                                    COF.pubApi.renderLeaderboard($(this.element));
+                                    this.destroy();
+                            },
+                            offset: '120%'
+                        })
+                    }, 50);
+                } catch (e) {
+                    console.log(e.message);
+                }
+            });
+        }
+    </script>
+</div>
+</section>
+
+
+    
+        <footer class="footer simplificado" data-analytics-category="Menu_Footer">
+            <div class="links">
+                <div class="container">
+                    <a href="/" title="Jornal de Negócios" class="logo_footer"></a>
+                    <ul class="icons_footer">
+                        <li><a href="https://www.livroreclamacoes.pt/inicio" target="_blank" title="Livro de Reclamações" class="reclamacoes_logo" data-analytics-action="Livro de Reclamações"></a></li>
+                        <li><a href="http://www.facebook.com/pages/Jornal-de-Negócios-Online/134071419971108" target="_blank" title="Facebook" class="social_logo eventAnalytics" data-analytics-action="Facebook"><span class="ic_facebook"></span></a></li>
+                        <li><a href="https://twitter.com/JNegocios" target="_blank" title="Twitter" class="social_logo eventAnalytics" data-analytics-action="Twitter"><span class="ic_twitter"></span></a></li>
+                        <li><a href="/rss" target="_blank" title="Feed RSS" class="social_logo"><span class="ic_rss eventAnalytics" data-analytics-action="FeedRSS"></span></a></li>
+                    </ul>
+                    <div class="sep_linha">
+                        <div class="nav_footer">
+                                <a title="Estatuto Editorial" href="/institucional/detalhe/20160816_1508_estatuto_editorial" target="_self" data-analytics-action="conteudos_institucionais" data-analytics-label="/institucional/detalhe/20160816_1508_estatuto_editorial">Estatuto Editorial</a>
+                                <a title="Ficha Técnica" href="/institucional/detalhe/ficha_tecnica" target="_self" data-analytics-action="conteudos_institucionais" data-analytics-label="/institucional/detalhe/ficha_tecnica">Ficha Técnica</a>
+                                <a title="Transparência Jornal de Negócios" href="/institucional/detalhe/estatuto_editorial" target="_self" data-analytics-action="conteudos_institucionais" data-analytics-label="/institucional/detalhe/estatuto_editorial">Transparência Jornal de Negócios</a>
+                                <a title="Disclaimer" href="/institucional/detalhe/disclaimer" target="_self" data-analytics-action="conteudos_institucionais" data-analytics-label="/institucional/detalhe/disclaimer">Disclaimer</a>
+                                <a title="Contactos" href="/institucional/detalhe/contactos" target="_self" data-analytics-action="conteudos_institucionais" data-analytics-label="/institucional/detalhe/contactos">Contactos</a>
+                                <a title="RSS Feeds" href="/institucional/detalhe/2012_11_23_rss_feeds" target="_self" data-analytics-action="conteudos_institucionais" data-analytics-label="/institucional/detalhe/2012_11_23_rss_feeds">RSS Feeds</a>
+                                <a title="A mensagem Nónio" href="https://nonio.net/a-mensagem-nonio/" target="_blank" rel="&quot;noopener&quot;" data-analytics-action="conteudos_institucionais" data-analytics-label="https://nonio.net/a-mensagem-nonio/">A mensagem Nónio</a>
+                            <a href="javascript:;" onclick="CofinaSSOInitScripts.refreshCmp();" class="cookiesact" data-analytics-action="conteudos_institucionais" data-analytics-label="Ativar Cookies">Ativar Cookies</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+    <div class="container">
+        Copyright © 2025. Todos os direitos reservados. É expressamente proibida a reprodução na totalidade ou em parte, em qualquer tipo de suporte, sem prévia permissão por escrito da Medialivre S.A. Consulte a <a href="https://aminhaconta.xl.pt/Layers/PrivacyPolicy" title="Política de Privacidade" target="_blank">Política de Privacidade</a>.
+    </div>
+</div>
+        </footer>
+
+
+
+
+        <script src="//www.jornaldenegocios.pt/hits/scripts/cofinahits.js"></script>
+    <script>
+        var _chc = _chc || [];
+        _chc.push(["Site", "Negocios"]);
+        _chc.push(["BaseUrl", "//www.jornaldenegocios.pt/hits"]);
+    </script>
+
+
+    
+        <script src="/scripts/bundles/detalhe.js?v=638708089640000000"></script>
+    
+    <script src="/signalr/hubs"></script>
+
+        <script type="text/javascript">
+
+        if (typeof cofinaAnalytics !== 'undefined') {
+
+            
+                
+                configAnalytics.ga = {
+                    enabled: false,
+                    googleDimensions: []
+                };
+                
+
+
+
+            
+                
+                configAnalytics.piwik = {
+                    enabled: false,
+                    piwikDimensions: []
+                };
+                
+
+
+            
+                
+                configAnalytics.chartbeat = GlobalVariables.analyticsConfig.chartbeat;
+                configAnalytics.chartbeat.uid = '61551';
+                configAnalytics.chartbeat.domain = 'jornaldenegocios.pt';
+                configAnalytics.chartbeat.sections = 'economia, coronavirus';
+                configAnalytics.chartbeat.type = 'Detalhe_Normal_Aberto'
+                configAnalytics.chartbeat.chartbeatDimensions.push(['_acct', 'anon']);
+                
+
+            
+            
+            var user = COF.getLoggedUserJSON();
+            var ID = (typeof (user) !== undefined && user != null) ? user.ID : "";
+            
+            
+
+
+            configAnalytics.clickEventsEnabled = true;
+            configAnalytics.waypointsEnabled = true;
+            cofinaAnalytics.init(configAnalytics);
+
+        }
+    </script>
+        
+            <script type="text/javascript">
+                var WRP_HOST = 'cofina2.solution.weborama.fr';
+                var WRP_ID = 480836;
+                var WRP_SECTION = 'Negocios';
+                var WRP_SUBSECTION = WRP_SECTION;
+
+                (function () {
+                    var wrsc, s;
+                    wrsc = document.createElement('script');
+                    wrsc.type = 'text/javascript';
+                    wrsc.src = 'http' + ('https:' == document.location.protocol ? 's://cstatic' : '://cstatic') + '.weborama.fr/js/products.js';
+                    s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(wrsc, s);
+                })();
+            </script>
+
+            <script type="text/javascript" src="https://cloud.weborama.design/board.js?wam_id=911&amp;wam_label=COFINA"></script>
+
+
+        
+<script type="application/javascript">
+    !function(n,t,a,i){n.mpfContainr||(n.mpfContainr=function(){a.push(arguments)},mpfContainr.q=a,(i=t.createElement('script')).type='application/javascript',i.async=!0,i.src='//cdn.mookie1.com/containr.js',t.head.appendChild(i))}(window,document,[]);
+    mpfContainr('V2_498827',{'host': 'pt-gmtdmp.mookie1.com', 'tagType': 'learn','src.rand': '[timestamp]', 'src.id' : 'JornaldeNegocios' });
+</script>
+<noscript>
+    <iframe src="//pt-gmtdmp.mookie1.com/t/v2?tagid=V2_498827&amp;isNoScript&amp;src.rand=[timestamp]&amp;src.id=JornaldeNegocios" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+
+<script type="application/javascript">
+    !function(n,t,a,i){n.mpfContainr||(n.mpfContainr=function(){a.push(arguments)},mpfContainr.q=a,(i=t.createElement('script')).type='application/javascript',i.async=!0,i.src='//cdn.mookie1.com/containr.js',t.head.appendChild(i))}(window,document,[]);
+    mpfContainr('V2_599528',{'host': 'pt-gmtdmp.mookie1.com', 'tagType': 'activity','src.rand' : '[timestamp]'});
+</script>
+<noscript>
+    <iframe src="//pt-gmtdmp.mookie1.com/t/v2?tagid=V2_599528&amp;isNoScript&amp;&amp;src.rand=[timestamp]" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+
+
+<script>
+
+    var pageType = COF.content.where();
+
+    
+
+    if (pageType == "DETALHE") {
+        cofinaAnalytics.userScroll([25, 50, 75, 100], function (position) {
+            try {
+                cofinaAnalytics.gaEvent('event', 'Scroll', pageType, position);
+            } catch (e) {
+            }
+        });
+
+        cofinaAnalytics.gaEvent('event', 'DetalheNoticia', 'Inicio Load Page');
+
+    }
+    else {
+        cofinaAnalytics.userScroll([10, 20, 30, 40, 50, 60, 70, 80, 90, 100], function (position) {
+            try {
+                cofinaAnalytics.gaEvent('event', 'Scroll', pageType, position);
+            } catch (e) {
+            }
+        });
+    }
+</script>
+
+
+
+    <script>
+        if (typeof cofinaAnalytics !== 'undefined' && typeof cofinaAnalytics.analyticsUserProfile !== 'undefined') {
+            cofinaAnalytics.analyticsUserProfile.addDetailHit();
+        }
+
+
+        if (typeof cofinaAnalytics !== 'undefined') {
+
+            cofinaAnalytics.setHitAndShareFunc(function () {
+                COF.contagens.HitAndShare(COF.content.contentID, COF.content.areaId, COF.content.contentTypeName, 'HITS', '', COF.content.contentUrl);
+            });
+
+            COF.contagens.HitAndShare(COF.content.contentID, COF.content.areaId, COF.content.contentTypeName, 'HITS', '', COF.content.contentUrl);
+        }
+    </script>
+
+    <script src="//cdn.xl.pt/sso/js/CofinaSSOApi.js?_=20171103"></script>
+    <script>
+        (function () {
+            CofinaSSOApi.initWithCheckLogin();
+        })();
+    </script>
+
+    <!-- Start of Survicate (www.survicate.com) code -->
+    <script type="text/javascript">
+            (function (opts) {
+            opts.traits = {
+                "user": "Anonimo"
+             };
+            })(window._sva = window._sva || {});
+
+    </script>
+
+    <!-- Start of Survicate (www.survicate.com) code -->
+    <script type="text/javascript">
+        (function (w) {
+            var s = document.createElement('script');
+            s.src = 'https://survey.survicate.com/workspaces/0f87c11338a9e88a361d2c077ce57eff/web_surveys.js';
+            s.async = true;
+            var e = document.getElementsByTagName('script')[0];
+            e.parentNode.insertBefore(s, e);
+        })(window);
+    </script>
+    <!-- End of Survicate code -->
+    
+
+
+</body></html>

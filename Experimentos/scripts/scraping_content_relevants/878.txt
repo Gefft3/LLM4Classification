@@ -1,0 +1,681 @@
+<html lang="pt-BR"><head>
+    <link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+
+    <!-- Google Tag Manager old
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NFWDTLD');</script>
+    -->
+
+    <!-- Google tag (gtag.js) -->
+    <script async="" data-type="lazy" data-src="https://www.googletagmanager.com/gtag/js?id=G-GKVRFYNX0M"></script>
+    <script data-type="lazy" data-src="data:text/javascript;base64,CiAgICB3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsKICAgIGZ1bmN0aW9uIGd0YWcoKXtkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpO30KICAgIGd0YWcoJ2pzJywgbmV3IERhdGUoKSk7CgogICAgZ3RhZygnY29uZmlnJywgJ0ctR0tWUkZZTlgwTScpOwogICAg"></script>
+    <!-- End Google Tag Manager -->
+    <!-- Global site tag (gtag.js) - Google Analytics 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2589841-25"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-2589841-25');
+    </script>
+    -->
+    <script async="" data-type="lazy" data-src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+    <!--
+    <script>
+        const screen_size = window.innerWidth;
+        if ( screen_size > 1199 ) {
+            window.googletag = window.googletag || {cmd: []};
+            googletag.cmd.push(function() { 
+                googletag.defineSlot("/245408516/300x250_LD_Editoria_1", [300, 250], "div-gpt-ad-1645136580741-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/728x90_dfp_ad_general_1", [[728, 90], [1140, 140], [1140, 90], [1140, 285], [1140, 190], [1140, 410]], "div-gpt-ad-1644330501847-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/BAC-300x600-Esquerdo", [[300, 600], [300, 250]], "div-gpt-ad-1644327450892-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/gov_dk_general_01", [[728, 90], [1140, 90], [1140, 285], [1140, 410], [1140, 140], [1140, 190]], "div-gpt-ad-1644286188690-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/gov_dk_general_02", [[1140, 90], [1140, 285], [728, 90], [1140, 410], [1140, 140], [1140, 190]], "div-gpt-ad-1644285766421-0").addService(googletag.pubads());           
+                googletag.defineSlot("/245408516/gov_dk_general_03", [[1140, 190], [1140, 140], [1140, 410], [1140, 285], [728, 90], [1140, 90]], "div-gpt-ad-1644283285283-0").addService(googletag.pubads());
+                googletag.defineSlot('/245408516/gov_dk_general_04', [[1140, 190], [1140, 410], [728, 90], [1140, 140], [1140, 285], [1140, 90]], 'div-gpt-ad-1648828088873-0').addService(googletag.pubads());
+                googletag.defineSlot("/245408516/gov_dk_general_06", [[300, 600]], "div-gpt-ad-1644282742475-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/gov_dk_general_07", [[300, 250]], "div-gpt-ad-1644279608061-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/gov_dk_general_14", [[300, 600], [300, 250]], "div-gpt-ad-1644285271022-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/gov_dk_general_05", [[728, 90], [1140, 90], [1140, 285], [1140, 410], [1140, 140], [1140, 190], [300, 50]], "div-gpt-ad-1645831490555-0").addService(googletag.pubads());
+                googletag.defineSlot('/245408516/anchor_ad', [728, 90], 'div-gpt-ad-1650572571945-0').addService(googletag.pubads());
+                googletag.defineSlot('/245408516/lg_banner_mobile', [728, 90], 'div-gpt-ad-1650578770208-0').addService(googletag.pubads());
+
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+
+        } else {
+            
+            window.googletag = window.googletag || {cmd: []};
+            googletag.cmd.push(function() {
+                googletag.defineSlot("/245408516/gov_dk_general_06", [[300, 600]], "div-gpt-ad-1644282742475-0").addService(googletag.pubads());
+                googletag.defineSlot("/245408516/gov_dk_general_07", [[300, 250]], "div-gpt-ad-1644279608061-0").addService(googletag.pubads());
+                googletag.defineSlot('/245408516/anchor_ad', [320, 50], 'div-gpt-ad-1650572571945-0').addService(googletag.pubads());
+                googletag.defineSlot('/245408516/lg_banner_mobile', [320, 100], 'div-gpt-ad-1650578770208-0').addService(googletag.pubads());
+                
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+        }
+    </script>
+    -->
+
+    
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name="robots" content="noindex, follow">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Página não encontrada - Portal Em Tempo</title>
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:title" content="Página não encontrada - Portal Em Tempo">
+	<meta property="og:site_name" content="Portal Em Tempo">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://emtempo.com.br/#website","url":"https://emtempo.com.br/","name":"Portal Em Tempo","description":"Tudo. Agora.","publisher":{"@id":"https://emtempo.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://emtempo.com.br/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://emtempo.com.br/#organization","name":"Em Tempo","url":"https://emtempo.com.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://emtempo.com.br/#/schema/logo/image/","url":"https://emtempo.com.br/wp-content/uploads/2022/02/favicon.png","contentUrl":"https://emtempo.com.br/wp-content/uploads/2022/02/favicon.png","width":512,"height":512,"caption":"Em Tempo"},"image":{"@id":"https://emtempo.com.br/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/portalemtempo/","https://x.com/portalemtempo"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Feed para Portal Em Tempo »" href="https://emtempo.com.br/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Portal Em Tempo »" href="https://emtempo.com.br/comments/feed/">
+<link rel="stylesheet" id="wp-block-library-css" href="https://emtempo.com.br/wp-includes/css/dist/block-library/style.min.css" media="all">
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="wp-polls-css" href="https://emtempo.com.br/wp-content/uploads/hummingbird-assets/f3c781a4dea8010be2712987a2409f50.css" media="all">
+<style id="wp-polls-inline-css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('https://emtempo.com.br/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel="stylesheet" id="aet-style-css" href="https://emtempo.com.br/wp-content/themes/aet/style.css" media="all">
+<script src="https://emtempo.com.br/wp-content/uploads/hummingbird-assets/a2e8c2de498e7882cc980ccbbe1a1309.js" id="wphb-1-js"></script>
+<script src="https://emtempo.com.br/wp-content/themes/aet/js/jquery.min.js" id="aet-jquery-js"></script>
+<link rel="https://api.w.org/" href="https://emtempo.com.br/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://emtempo.com.br/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel="icon" href="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-Logo_AET_Nova-removebg-preview-32x32.png" sizes="32x32">
+<link rel="icon" href="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-Logo_AET_Nova-removebg-preview-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-Logo_AET_Nova-removebg-preview-180x180.png">
+<meta name="msapplication-TileImage" content="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-Logo_AET_Nova-removebg-preview-270x270.png">
+		<style id="wp-custom-css">
+			.wp-block-image figcaption {font-size:1.6vh}		</style>
+		    
+    
+    <script>    
+    // Abre e fecha Menu Overlay e Campo de busca 
+    function openNav(ID) {document.getElementById(ID).style.width = "100%";}
+    function closeNav(ID) {document.getElementById(ID).style.width = "0%";}
+    </script>
+
+    <meta name="facebook-domain-verification" content="wfgx42gi9e1b40f6ehqdbdybejw1de">
+
+</head>
+
+
+
+<body class="error404 wp-custom-logo hfeed">
+<!-- Google Tag Manager (noscript)
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFWDTLD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+End Google Tag Manager (noscript) -->
+
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+       
+
+    <style>
+    /* Cor Texto */
+    .entry-title, .aet-chapeu, .aet-chapeu, .aet-linha-fina, .vcard a {color: var(--ed-default)}
+    /* Categotia + Tags box */
+    span.cat-links > a, span.tags-links > a {color: var(--ed-default); border: 1px solid var(--ed-default);}
+    /* Formulário de Comentário */
+    .submit {background: var(--ed-default) !important;}
+    /* Comentários */
+    ol.comment-list > li.comment {border-left: 1px solid var(--ed-default);}
+    /* seção posts recentes */
+    div.wp-block-group__inner-container > h2 {color: var(--ed-default);}
+    /* Últimos Posts */
+    ul.wp-block-latest-posts > li> a {color:var(--ed-default);}
+    ul.wp-block-latest-posts > li {border-bottom: 1px solid var(--ed-default);}
+    .pp-multiple-authors-layout-boxed .multiple-authors-links a, .pp-multiple-authors-layout-centered .multiple-authors-links a {
+        text-decoration: none !important;
+        border-radius: 5px !important;
+        border: 1px solid var(--ed-default) !important;
+        background: #fff;
+        color: var(--ed-default) !important;
+    }
+    /*Menu overlay hover*/
+    .overlay .menu-item a:hover, .closebtn:hover{
+        background-color: var(--ed-default);
+    }
+
+    .aet-sub-header{
+        display:flex;background:white;height:0px;width:1140px;align-self:center;align-content:stretch;align-items:flex-start;justify-content:space-evenly;margin:auto;
+    }
+
+    .aet-head-jornal{
+        position: relative;text-align: center;top: -78px;font-weight: 600;font-size: 0.7rem;background-color: white;border-radius: 7px;padding: 3px 5px 3px 5px;
+    }
+
+    .aet-head-canal{
+        position: relative; text-align: center; top: -45px; right: 26.4%; width: 7%; font-weight: 600; font-size: 0.7rem; background-color: white;border-radius: 7px;padding: 0px 5px 0px 5px;
+    }
+    
+    .aet-head-sociais{
+        text-align: center;position: relative;top: -70px;
+    }
+
+    .wp-block-social-links:not(.is-style-logos-only) .wp-social-link{
+        color: white;
+    }
+
+    .canal{text-decoration:none;font-weight:600;display: block;width: 100%;height: 100%;}
+
+    @media only screen and (max-width: 576px) {
+        .aet-ads-top-home{display:none}
+    }
+    @media only screen and (max-width: 1200px) {
+        .aet-sub-header {
+            height: 50px;
+            background: white;
+            border-bottom: 1px solid black;
+            display: flex;
+            background: white;
+            align-self: center;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            justify-content: space-around;
+            width:100%;
+        }
+        .aet-head-jornal {
+            position: relative;
+            text-align: center;
+            top: 0;
+            left: 0;
+            font-weight: 600;
+            background-color: white;
+            border-radius: 7px;
+            font-size:0.7rem;
+            padding-top: 17px;
+        }
+        .aet-head-canal {
+            position: relative;
+            font-size: 0.8rem;
+            width: 25%;
+            top: 0;
+            right: 0;
+            padding-top:5px;
+        }
+        .aet-head-sociais {
+            text-align: center;
+            position: relative;
+            top: 0;
+            left: 0;
+            padding-top:12px;
+        }
+        #sociais>.wp-block-social-links.has-large-icon-size {
+            font-size: 1.5rem;
+        }
+        
+        .head-social > a{
+        color: #1a4350 !important;
+        padding: 0 !important;
+        }
+        .aet-head-bar {
+            grid-template-columns: .3fr 1fr .3fr;
+        }
+    }
+
+    /*css temporario */
+    .nav > li > a {
+        padding: 10px 6.2px;
+    }
+    .nav > li:hover > a {
+        background-color: var(--ed-);
+        color: #f2f2f2;
+    }
+    .sub-cat{
+        padding: 0 30px 8px;
+        font-size: 20px;
+    }
+    .sub-cat-name {
+        position: absolute;
+        bottom: 5px;
+        left: 45px;
+        font-size: 15px;
+    }
+
+    .aet-site-logo {
+        padding: 15px 0 7.5px;
+    }
+    @media only screen and (min-width: 600px) {
+        .aet-site-logo img {width: 300px;}
+    }
+
+    article::marker {
+        color: #1a4350;
+    }
+
+    </style>
+
+	<header id="masthead" class="site-header aet-ed-degrade-default">
+        <img style="display: none;" src="https://emtempo.com.br/wp-content/uploads/2023/09/346297695_1032775367709474_205001967547275655_n.jpg" decoding="async" fetchpriority="high">
+        <div class="aet-head-bar grid">            
+            <div class="aet-menu-hamburger" onclick="openNav('menuOverlay')">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+            </div>
+            <div class="aet-site-logo"><a href="https://emtempo.com.br/" class="custom-logo-link" rel="home"><img width="360" height="80" src="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-logonovo-removebg-preview.png" class="custom-logo" alt="Portal Em Tempo" decoding="async" srcset="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-logonovo-removebg-preview.png 360w, https://emtempo.com.br/wp-content/uploads/2024/05/cropped-logonovo-removebg-preview-300x67.png 300w" sizes="(max-width: 360px) 100vw, 360px"></a></div><!-- .site-branding --> 
+            <div class="aet-search" onclick="openNav('searchPannel')"><img src="https://emtempo.com.br/wp-content/uploads/2022/02/lupa.png" style="width:24px; height:34px; padding-top:10px" alt="Lupa"></div>
+        </div>
+        <div class="aet-sub-header">
+            <div class="aet-head-jornal">
+                <a style="text-decoration:none" href="https://emtempo.com.br/category/jornal-impresso-em-tempo/">📰 JORNAL DIGITAL </a>
+            </div>
+            <div class="aet-head-canal">
+                <a class="canal" href="https://whatsapp.com/channel/0029VakKNC9Likg3olPS592W">
+                    Acesse nosso canal no
+                    <svg fill="#25d366" width="15" height="15" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M 12.011719 2 C 6.5057187 2 2.0234844 6.478375 2.0214844 11.984375 C 2.0204844 13.744375 2.4814687 15.462563 3.3554688 16.976562 L 2 22 L 7.2324219 20.763672 C 8.6914219 21.559672 10.333859 21.977516 12.005859 21.978516 L 12.009766 21.978516 C 17.514766 21.978516 21.995047 17.499141 21.998047 11.994141 C 22.000047 9.3251406 20.962172 6.8157344 19.076172 4.9277344 C 17.190172 3.0407344 14.683719 2.001 12.011719 2 z M 12.009766 4 C 14.145766 4.001 16.153109 4.8337969 17.662109 6.3417969 C 19.171109 7.8517969 20.000047 9.8581875 19.998047 11.992188 C 19.996047 16.396187 16.413812 19.978516 12.007812 19.978516 C 10.674812 19.977516 9.3544062 19.642812 8.1914062 19.007812 L 7.5175781 18.640625 L 6.7734375 18.816406 L 4.8046875 19.28125 L 5.2851562 17.496094 L 5.5019531 16.695312 L 5.0878906 15.976562 C 4.3898906 14.768562 4.0204844 13.387375 4.0214844 11.984375 C 4.0234844 7.582375 7.6067656 4 12.009766 4 z M 8.4765625 7.375 C 8.3095625 7.375 8.0395469 7.4375 7.8105469 7.6875 C 7.5815469 7.9365 6.9355469 8.5395781 6.9355469 9.7675781 C 6.9355469 10.995578 7.8300781 12.182609 7.9550781 12.349609 C 8.0790781 12.515609 9.68175 15.115234 12.21875 16.115234 C 14.32675 16.946234 14.754891 16.782234 15.212891 16.740234 C 15.670891 16.699234 16.690438 16.137687 16.898438 15.554688 C 17.106437 14.971687 17.106922 14.470187 17.044922 14.367188 C 16.982922 14.263188 16.816406 14.201172 16.566406 14.076172 C 16.317406 13.951172 15.090328 13.348625 14.861328 13.265625 C 14.632328 13.182625 14.464828 13.140625 14.298828 13.390625 C 14.132828 13.640625 13.655766 14.201187 13.509766 14.367188 C 13.363766 14.534188 13.21875 14.556641 12.96875 14.431641 C 12.71875 14.305641 11.914938 14.041406 10.960938 13.191406 C 10.218937 12.530406 9.7182656 11.714844 9.5722656 11.464844 C 9.4272656 11.215844 9.5585938 11.079078 9.6835938 10.955078 C 9.7955938 10.843078 9.9316406 10.663578 10.056641 10.517578 C 10.180641 10.371578 10.223641 10.267562 10.306641 10.101562 C 10.389641 9.9355625 10.347156 9.7890625 10.285156 9.6640625 C 10.223156 9.5390625 9.737625 8.3065 9.515625 7.8125 C 9.328625 7.3975 9.131125 7.3878594 8.953125 7.3808594 C 8.808125 7.3748594 8.6425625 7.375 8.4765625 7.375 z"></path></svg>
+                </a>	
+            </div>
+            <div class="aet-head-sociais">
+                <div id="sociais">
+                    <ul class="wp-block-social-links has-large-icon-size is-content-justification-center is-layout-flex wp-container-core-social-links-is-layout-1 wp-block-social-links-is-layout-flex">
+                        <li class="wp-social-link head-social wp-block-social-link"><a href="https://www.facebook.com/portalemtempooficial/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+                        <li class="wp-social-link head-social wp-block-social-link"><a href="https://www.instagram.com/portalemtempooficial/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li>
+                        <li class="wp-social-link head-social wp-block-social-link"><a href="https://x.com/portalemtempo" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M13.982 10.622 20.54 3h-1.554l-5.693 6.618L8.745 3H3.5l6.876 10.007L3.5 21h1.554l6.012-6.989L15.868 21h5.245l-7.131-10.378Zm-2.128 2.474-.697-.997-5.543-7.93H8l4.474 6.4.697.996 5.815 8.318h-2.387l-4.745-6.787Z"></path></svg><span class="wp-block-social-link-label screen-reader-text">X</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+	</header><!-- #masthead -->
+
+    <!--
+    <nav>
+        
+        <ul class="nav">
+            
+            
+            
+            
+            
+            <li>
+                <a href="https://emtempo.com.br/category/educacao">Educação</a>
+                <div class="primary-menu aet-ed-reverse-degrade-">
+                    <div class="header-menu">
+                    <h3>Mais recentes em Educação</h3>
+                    <span><a href="https://emtempo.com.br/category/educacao">ver mais</a></span>
+                </div>
+
+                <div style="padding-bottom:0px" class="menu-grid">
+
+                                                <div class="img-primary-menu">
+                                <a href="" rel="bookmark" title="">
+                                                                        <div class="menu-caption">
+                                                                            </div> 
+                                </a>                                   
+                            </div>                              <div class="img-primary-menu">
+                                <a href="" rel="bookmark" title="">
+                                                                        <div class="menu-caption">
+                                                                            </div> 
+                                </a>                                   
+                            </div>                     
+                </div>
+
+                <div class="sub-cat">
+                    <p style="margin:0; color:#fff">&#8627; <span class="sub-cat-name"><a style="text-transform:none; color:#fff" href="/2022/emtempo/category/ciencia-tecnologia">Ciência & Tecnologia</a></span></p>
+                </div>
+            </li>
+
+            
+            <li>
+                <a href="https://emtempo.com.br/category/cultura">Cultura</a>
+                <div class="primary-menu aet-ed-reverse-degrade-">
+                    <div class="header-menu">
+                    <h3>Mais recentes em Cultura</h3>
+                    <span><a href="https://emtempo.com.br/category/cultura">ver mais</a></span>
+                </div>
+
+                <div style="padding-bottom:0px" class="menu-grid">
+
+                                                <div class="img-primary-menu">
+                                <a href="" rel="bookmark" title="">
+                                                                        <div class="menu-caption">
+                                                                            </div> 
+                                </a>                                   
+                            </div>                              <div class="img-primary-menu">
+                                <a href="" rel="bookmark" title="">
+                                                                        <div class="menu-caption">
+                                                                            </div> 
+                                </a>                                   
+                            </div>                     
+                </div>
+
+                <div class="sub-cat">
+                    <p style="margin:0; color:#fff">&#8627; <span class="sub-cat-name"><a style="text-transform:none; color:#fff" href="/2022/emtempo/category/gastronomia">Gastronomia</a></span></p>
+                </div>
+            </li>
+
+            
+            
+            
+                    </ul>
+
+    </nav>
+    #site-navigation -->
+
+    <!-- Menu Overlay Funções JS no arquivo footer.php-->
+    <div id="menuOverlay" class="overlay aet-ed-degrade-default">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav('menuOverlay')">×</a>
+        <div class="overlay-content">
+            <div class="menu-menu-secundario-container"><ul id="overlay-menu" class="menu"><li id="menu-item-9808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9808"><a href="https://emtempo.com.br/ultimas-noticias/">Últimas Notícias</a></li>
+<li id="menu-item-1585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1585"><a href="https://emtempo.com.br/category/politica/">Política</a></li>
+<li id="menu-item-250889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-250889"><a href="https://emtempo.com.br/category/manaus/">Manaus</a></li>
+<li id="menu-item-250888" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-250888"><a href="https://emtempo.com.br/category/interior/">Interior</a></li>
+<li id="menu-item-1584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1584"><a href="https://emtempo.com.br/category/policia/">Polícia</a></li>
+<li id="menu-item-250887" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-250887"><a href="https://emtempo.com.br/category/geral/">Geral</a></li>
+<li id="menu-item-250886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-250886"><a href="https://emtempo.com.br/category/economia/">Economia</a></li>
+<li id="menu-item-1579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1579"><a href="https://emtempo.com.br/category/esporte/">Esporte</a></li>
+<li id="menu-item-251404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-251404"><a href="https://emtempo.com.br/category/opiniao/">Opinião</a></li>
+<li id="menu-item-14842" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14842"><a href="https://emtempo.com.br/category/jornal-impresso-em-tempo/">Jornais Impressos – Em Tempo</a></li>
+<li id="menu-item-14840" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14840"><a href="https://emtempo.com.br/category/jornal-impresso-agora/">Jornais Impressos – Agora</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- Formulário de busca -->
+    <div id="searchPannel" class="overlay aet-ed-degrade-default">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav('searchPannel')">×</a>
+        <div class="overlay-content">
+            <form role="search" method="get" class="search-form" action="https://emtempo.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar">
+			</form> 
+        </div>
+    </div>
+<style>
+
+	header, footer {
+		background: linear-gradient(90deg, #1a4350 0%, #067469 100%);
+	}
+	h1, h2, p {
+		color: var(--ed-default)
+	}
+	form {
+		margin-bottom: 30px
+	}
+	h2, p {
+		margin-bottom: 15px
+	}
+	ul {
+		list-style: decimal;
+		margin: 0 30px
+	}
+	a {
+		text-decoration: none;
+		color: var(--ed-default)
+	}
+	aside {
+		margin-top: 30px
+	}
+
+    @media screen and (min-width: 1200px) { 
+
+        /* Corpo */
+        .aet-content-block {
+            width: 1140px;        
+            grid-template-columns: 2.80fr 1.2fr;        
+            grid-template-areas: "content-column right-column ";
+            grid-gap: 30px;
+            margin: auto;
+        }
+    }
+    @media screen and (max-width: 600px) {
+        .aet-content-block{
+            margin: 0 15px
+        }
+		h1 {
+			line-height: normal
+		}
+		aside {
+			margin-top: 0
+		}
+    }
+
+	/* seção posts recentes */
+	div.wp-block-group__inner-container > h2 {
+		margin-bottom: 2vh
+	}
+	.wp-block-latest-posts.wp-block-latest-posts__list {
+		margin-left: 0px
+	}
+	ul.wp-block-latest-posts > li> a {
+		color: var(--ed-default);
+		text-decoration: none;
+		font-weight: 600
+	}
+	ul.wp-block-latest-posts > li {
+		border-bottom-color: var(--ed-default);
+		margin-bottom: 10px;
+		padding-bottom: 5px	
+	}
+	ul.wp-block-latest-posts > li:last-child {
+		border: none
+	}
+
+</style>
+
+<div class="aet-content-block grid">
+
+	<main id="primary" class="site-main">
+
+		<section class="error-404 not-found">
+			<div class="page-header">
+				<h1 class="page-title">Ops! Não encontramos essa página.</h1>
+			</div><!-- .page-header -->
+
+			<div class="page-content">
+				<p>Não encontrou o que estava procurando? Tente um destes links ou utilize a caixa de pesquisa.</p>
+
+					<form role="search" method="get" class="search-form" action="https://emtempo.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar">
+			</form>
+					<div class="widget widget_categories">
+						<h2 class="widget-title">Editorias mais acessadas</h2>
+						<ul>
+								<li class="cat-item cat-item-3"><a href="https://emtempo.com.br/category/sem-categoria/">Sem Categoria</a> (16.703)
+</li>
+	<li class="cat-item cat-item-18"><a href="https://emtempo.com.br/category/policia/">Polícia</a> (7.490)
+</li>
+	<li class="cat-item cat-item-19"><a href="https://emtempo.com.br/category/politica/">Política</a> (5.902)
+</li>
+	<li class="cat-item cat-item-7"><a href="https://emtempo.com.br/category/economia/">Economia</a> (3.872)
+</li>
+	<li class="cat-item cat-item-11"><a href="https://emtempo.com.br/category/esporte/">Esporte</a> (3.065)
+</li>
+	<li class="cat-item cat-item-23121"><a href="https://emtempo.com.br/category/geral/">Geral</a> (2.668)
+</li>
+	<li class="cat-item cat-item-23119"><a href="https://emtempo.com.br/category/manaus/">Manaus</a> (1.269)
+</li>
+	<li class="cat-item cat-item-16"><a href="https://emtempo.com.br/category/opiniao/">Opinião</a> (695)
+</li>
+	<li class="cat-item cat-item-1930"><a href="https://emtempo.com.br/category/jornal-impresso-em-tempo/">Jornais Impressos – Em Tempo</a> (688)
+</li>
+	<li class="cat-item cat-item-1936"><a href="https://emtempo.com.br/category/jornal-impresso-agora/">Jornais Impressos – Agora</a> (391)
+</li>
+						</ul>
+					</div><!-- .widget -->
+
+			</div><!-- .page-content -->
+		</section><!-- .error-404 -->
+
+	</main><!-- #main -->
+
+	<aside id="secondary" class="aet-right-column">					
+		<section id="block-11" class="widget widget_block">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<h2 class="wp-block-heading" id="ultimas-noticias">Últimas notícias</h2>
+
+
+<ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363474/geral/feiras-da-ads-retornam-nesta-terca-feira-14-em-manaus/">Feiras da ADS retornam nesta terça-feira (14) em Manaus</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363470/interior/barco-hospital-sao-joao-xxiii-leva-servicos-de-saude-para-comunidades-em-manaquiri/">Barco Hospital São João XXIII leva serviços de saúde para comunidades em Manaquiri</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363466/geral/sao-paulo-confirma-primeiro-caso-de-febre-amarela-em-humano-em-2025/">São Paulo confirma primeiro caso de febre amarela em humano em 2025</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363462/policia/jovem-de-23-anos-e-executado-a-tiros-no-jorge-teixeira-por-criminosos-em-carro/">Jovem de 23 anos é executado a tiros no Jorge Teixeira por criminosos em carro</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363458/geral/obras-de-revitalizacao-e-ampliacao-avancam-no-hospital-do-coracao-francisca-mendes/">Obras de revitalização e ampliação avançam no Hospital do Coração Francisca Mendes</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363454/geral/morre-ex-secretario-de-turismo-de-bariloche-baleado-na-cabeca-no-rio-de-janeiro/">Morre ex-secretário de Turismo de Bariloche baleado na cabeça no Rio de Janeiro</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363450/economia/seringueiros-de-humaita-recebem-r-81-mil-com-apoio-do-idam/">Seringueiros de Humaitá recebem R$ 81 mil com apoio do Idam</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363439/geral/pesquisa-produz-guias-ilustrados-com-especies-de-borboletas-que-se-alimentam-de-frutos-no-am/">Pesquisa produz guias ilustrados com espécies de borboletas que se alimentam de frutos no AM</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363430/esporte/amazonense-celebra-primeiro-gol-pelo-vasco-uma-das-melhores-sensacoes-da-minha-vida/">Amazonense celebra primeiro gol pelo Vasco: “Uma das melhores sensações da minha vida”</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://emtempo.com.br/363432/geral/amazonas-registra-mais-de-43-mil-transferencias-de-alunos-da-rede-publica-nesta-segunda-13/">Amazonas registra mais de 43 mil transferências de alunos da rede pública nesta segunda (13)</a></li>
+</ul></div></div>
+</section><section id="block-12" class="widget widget_block"><div id="pub-geral-1" style="margin:30px auto 30px auto">
+    <!-- Pub Geral 01 -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6983500642985289" data-ad-slot="2104647609" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script data-type="lazy" data-src="data:text/javascript;base64,CgkoYWRzYnlnb29nbGUgPSB3aW5kb3cuYWRzYnlnb29nbGUgfHwgW10pLnB1c2goe30pOwkJCQkJCiAgICA="></script>
+</div></section>	</aside><!-- #secondary -->
+
+</div>
+
+
+	<style>
+		/* style usado no footer  ********************************************/ 		
+		.site-info {margin:auto;}
+		footer .aet-site-logo{display:flex;justify-content:center;padding: 15px 30px 7.5px;}
+		.footer-contact {color:white;font-weight:bold;font-size:1rem;padding-top:2vh;text-align:center}
+		.wp-social-link {background-color:transparent !important}
+		.wp-block-social-links { margin-bottom:0px}
+		#menufooter a {color:white;font-weight:bold;text-decoration:none;}
+		#menufooter {list-style:none;margin-left:0px}
+		.menu-item {font-size:1.5rem;}
+		.menu-menufooter-container{display:flex;justify-content:center}
+		a.return-top {text-decoration:none;display:flex;justify-content:end;}
+		span.return-top {color:white;font-weight:600;margin-top:5px;margin-right:15px;font-size:0.8rem}
+		.banner-bot-admanager {height:19vh;border-top:solid 1px lightgray;z-index:99;background-color:white;width:100vw;position:fixed;bottom:-15.5vh;text-align:center;display:none;-webkit-animation:slide-top .5s linear both;animation:slide-top .5s linear both}
+		@-webkit-keyframes slide-top{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{-webkit-transform:translateY(-100px);transform:translateY(-100px)}}@keyframes slide-top{0%{-webkit-transform:translateY(0);transform:translateY(0)}100%{-webkit-transform:translateY(-100px);transform:translateY(-100px)}}
+		@media only screen and (max-width: 1199px) {
+			.banner-bot-admanager{height:15vh;bottom:-16vh}
+    	}
+	</style>
+
+	<footer id="colophon" class="aet-site-footer aet-ed-degrade-default">
+		<div class="site-info">
+
+			<a href="#top" class="return-top"> <span class="return-top">VOLTAR AO TOPO ^</span> </a>
+
+			<div class="aet-site-logo">
+                <a href="https://emtempo.com.br/" class="custom-logo-link" rel="home"><img width="360" height="80" src="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-logonovo-removebg-preview.png" class="custom-logo" alt="Portal Em Tempo" decoding="async" srcset="https://emtempo.com.br/wp-content/uploads/2024/05/cropped-logonovo-removebg-preview.png 360w, https://emtempo.com.br/wp-content/uploads/2024/05/cropped-logonovo-removebg-preview-300x67.png 300w" sizes="(max-width: 360px) 100vw, 360px"></a>            </div><!-- .site-branding -->
+
+			<div class="menu-menufooter-container"><ul id="menufooter" class="menu"><li id="menu-item-1606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1606"><a href="https://emtempo.com.br/expediente/">Expediente</a></li>
+<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1607"><a href="https://emtempo.com.br/anuncie/">Anuncie</a></li>
+</ul></div>
+			<!-- widget do footer com sociais -->
+							<div id="secondary-sidebar" class="widget-footer">
+					<div id="block-9" class="widget widget_block">
+<ul class="wp-block-social-links has-large-icon-size is-content-justification-center is-layout-flex wp-container-core-social-links-is-layout-1 wp-block-social-links-is-layout-flex"><li class="wp-social-link wp-social-link-facebook  wp-block-social-link"><a href="https://www.facebook.com/portalemtempooficial/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+
+<li class="wp-social-link wp-social-link-instagram  wp-block-social-link"><a href="https://www.instagram.com/portalemtempooficial/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li>
+
+<li class="wp-social-link wp-social-link-whatsapp  wp-block-social-link"><a href="https://chat.whatsapp.com/JDi9CqUFWs9Ep162xkRIWb" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M 12.011719 2 C 6.5057187 2 2.0234844 6.478375 2.0214844 11.984375 C 2.0204844 13.744375 2.4814687 15.462563 3.3554688 16.976562 L 2 22 L 7.2324219 20.763672 C 8.6914219 21.559672 10.333859 21.977516 12.005859 21.978516 L 12.009766 21.978516 C 17.514766 21.978516 21.995047 17.499141 21.998047 11.994141 C 22.000047 9.3251406 20.962172 6.8157344 19.076172 4.9277344 C 17.190172 3.0407344 14.683719 2.001 12.011719 2 z M 12.009766 4 C 14.145766 4.001 16.153109 4.8337969 17.662109 6.3417969 C 19.171109 7.8517969 20.000047 9.8581875 19.998047 11.992188 C 19.996047 16.396187 16.413812 19.978516 12.007812 19.978516 C 10.674812 19.977516 9.3544062 19.642812 8.1914062 19.007812 L 7.5175781 18.640625 L 6.7734375 18.816406 L 4.8046875 19.28125 L 5.2851562 17.496094 L 5.5019531 16.695312 L 5.0878906 15.976562 C 4.3898906 14.768562 4.0204844 13.387375 4.0214844 11.984375 C 4.0234844 7.582375 7.6067656 4 12.009766 4 z M 8.4765625 7.375 C 8.3095625 7.375 8.0395469 7.4375 7.8105469 7.6875 C 7.5815469 7.9365 6.9355469 8.5395781 6.9355469 9.7675781 C 6.9355469 10.995578 7.8300781 12.182609 7.9550781 12.349609 C 8.0790781 12.515609 9.68175 15.115234 12.21875 16.115234 C 14.32675 16.946234 14.754891 16.782234 15.212891 16.740234 C 15.670891 16.699234 16.690438 16.137687 16.898438 15.554688 C 17.106437 14.971687 17.106922 14.470187 17.044922 14.367188 C 16.982922 14.263188 16.816406 14.201172 16.566406 14.076172 C 16.317406 13.951172 15.090328 13.348625 14.861328 13.265625 C 14.632328 13.182625 14.464828 13.140625 14.298828 13.390625 C 14.132828 13.640625 13.655766 14.201187 13.509766 14.367188 C 13.363766 14.534188 13.21875 14.556641 12.96875 14.431641 C 12.71875 14.305641 11.914938 14.041406 10.960938 13.191406 C 10.218937 12.530406 9.7182656 11.714844 9.5722656 11.464844 C 9.4272656 11.215844 9.5585938 11.079078 9.6835938 10.955078 C 9.7955938 10.843078 9.9316406 10.663578 10.056641 10.517578 C 10.180641 10.371578 10.223641 10.267562 10.306641 10.101562 C 10.389641 9.9355625 10.347156 9.7890625 10.285156 9.6640625 C 10.223156 9.5390625 9.737625 8.3065 9.515625 7.8125 C 9.328625 7.3975 9.131125 7.3878594 8.953125 7.3808594 C 8.808125 7.3748594 8.6425625 7.375 8.4765625 7.375 z"></path></svg><span class="wp-block-social-link-label screen-reader-text">WhatsApp</span></a></li>
+
+<li class="wp-social-link wp-social-link-youtube  wp-block-social-link"><a href="https://www.youtube.com/channel/UCwBtlrf7QbEgM6-hewKsaxQ" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">YouTube</span></a></li>
+
+<li class="wp-social-link wp-social-link-x  wp-block-social-link"><a href="https://x.com/portalemtempo" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M13.982 10.622 20.54 3h-1.554l-5.693 6.618L8.745 3H3.5l6.876 10.007L3.5 21h1.554l6.012-6.989L15.868 21h5.245l-7.131-10.378Zm-2.128 2.474-.697-.997-5.543-7.93H8l4.474 6.4.697.996 5.815 8.318h-2.387l-4.745-6.787Z"></path></svg><span class="wp-block-social-link-label screen-reader-text">X</span></a></li></ul>
+</div>				</div>
+			
+			<div style="display:flex;justify-content:center;background: #0000007d;">
+				<h2 class="footer-contact"> <span style="font-size:1.2rem">Fale com a redação:</span> <br><br> (92) 98408-6907 <br> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e48189908189948b8286a48389858d88ca878b89">[email&nbsp;protected]</a> <br> (92) 98859-0110 <br> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c8aba7a5adbaaba1a9a4a4ada5bcada5b8a788afa5a9a1a4e6aba7a5">[email&nbsp;protected]</a> </h2>	
+			</div>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<style id="core-block-supports-inline-css">
+.wp-container-core-social-links-is-layout-1{justify-content:center;}
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id="wphb-2-js-extra">
+var pollsL10n = {"ajax_url":"https:\/\/emtempo.com.br\/wp-admin\/admin-ajax.php","text_wait":"Seu \u00faltimo pedido ainda est\u00e1 sendo processada. Por favor espere um pouco...","text_valid":"Por favor, escolha uma resposta v\u00e1lida.","text_multiple":"N\u00famero m\u00e1ximo de op\u00e7\u00f5es permitidas:","show_loading":"1","show_fading":"1"};
+</script>
+<script src="https://emtempo.com.br/wp-content/uploads/hummingbird-assets/4733d7d41e744297887f42f0ad36814b.js" id="wphb-2-js"></script>
+<script type="text/javascript" id="flying-scripts">const loadScriptsTimer=setTimeout(loadScripts,10*1000);const userInteractionEvents=["mouseover","keydown","touchstart","touchmove","wheel"];userInteractionEvents.forEach(function(event){window.addEventListener(event,triggerScriptLoader,{passive:!0})});function triggerScriptLoader(){loadScripts();clearTimeout(loadScriptsTimer);userInteractionEvents.forEach(function(event){window.removeEventListener(event,triggerScriptLoader,{passive:!0})})}
+function loadScripts(){document.querySelectorAll("script[data-type='lazy']").forEach(function(elem){elem.setAttribute("src",elem.getAttribute("data-src"))})}</script>
+    
+
+<script>
+	$("a[href='#top']").click(function() {
+		$("html, body").animate({ scrollTop: 0 }, "slow");
+			return false;
+	});
+</script>
+
+<!-- /245408516/anchor_ad
+<div id="ad-fixed" class="banner-bot-admanager">publicidade
+<div id='div-gpt-ad-1650572571945-0' style='min-width: 320px; min-height: 50px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1650572571945-0'); });
+  </script>
+</div><div class="close-ad" style="position:absolute;top:0;right:3vw;cursor: pointer;">&#10006</div></div>
+
+<script>
+	$('#ad-fixed').show();
+</script>
+<script>
+	$('.close-ad').click(function() {
+    	$('#ad-fixed').hide();
+	});
+</script>
+-->
+<script data-cfasync="false" type="text/javascript" id="clever-core">
+	/* <![CDATA[ */
+	(function (document, window) {
+		var a, c = document.createElement("script"), f = window.frameElement;
+
+		c.id = "CleverCoreLoader68254";
+		c.src = "https://scripts.cleverwebserver.com/c0e3cd6db1359ed02c1726421bb7325d.js";
+
+		c.async = !0;
+		c.type = "text/javascript";
+		c.setAttribute("data-target", window.name || (f && f.getAttribute("id")));
+		c.setAttribute("data-callback", "put-your-callback-function-here");
+		c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+		c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+
+		try {
+			a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+		} catch (e) {
+			a = !1;
+		}
+
+		a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+		a.parentNode.insertBefore(c, a);
+	})(document, window);
+	/* ]]> */
+</script>
+
+</body></html>

@@ -1,0 +1,2005 @@
+<html lang="pt-BR"><head>
+        
+    <!-- inicio do header and ads -->
+
+<link rel="manifest" href="manifest.json">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.google-analytics.com">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TT9G5F2');</script>
+<!-- End Google Tag Manager -->
+
+    
+<script type="text/javascript">
+	function chamarAdsense() {
+        
+            setTimeout(function() {
+                  var head = document.getElementsByTagName("head")[0];
+                  
+                  <!-- adsense -->
+                  console.log('Adsense1');
+                  var s1 = document.createElement("script");
+                  s1.type = "text/javascript";
+                  s1.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3891620995351170";
+                  
+                  head.appendChild(s1);
+            }, 100); //tempo em ms
+        }
+        
+        rolagem_header=false;
+        
+        function carregaScriptsHeader(){
+            if (rolagem_header==false){
+            	chamarAdsense();
+            	rolagem_header = true;
+            }
+        }
+    	window.addEventListener("scroll", carregaScriptsHeader);
+</script>
+    
+      
+
+
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer=""></script>
+<script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    window.OneSignalDeferred.push(async function (OneSignal) {
+        // Inicializar o OneSignal
+        await OneSignal.init({
+            appId: "1a020632-1131-4198-beaa-4ff230f1e488",
+
+            // Mensagem de boas-vindas personalizada
+            welcomeNotification: {
+                title: "Obrigado por se inscrever e acompanhar o DIARINHO!",
+                message: "Você agora receberá as notificações das notícias do DIARINHO em tempo real.",
+                url: "https://diarinho.net/"
+            },
+
+            promptOptions: {
+                slidedown: {
+                    prompts: [
+                        {
+                            type: "category",
+                            autoPrompt: true,
+                            text: {
+                                actionMessage: "Quer ver notícias em tempo real do DIARINHO? Escolha os assuntos do seu interesse abaixo:",
+                                acceptButton: "Permitir",
+                                cancelButton: "Não",
+                                updateMessage: "Informe suas preferências de notificações. Escolha os assuntos do seu interesse abaixo:",
+                                negativeUpdateButton: "Sair",
+                                positiveUpdateButton: "Salvar",
+                            },
+                            delay: {
+                                pageViews: 1,
+                                timeDelay: 8,
+                            },
+                            categories: [
+                                { tag: "colunistas", label: "Colunistas" },
+                                { tag: "esportes", label: "Esportes" },
+                                { tag: "politica", label: "Política" },
+                                { tag: "quentinhas", label: "Quentinhas" }
+                            ],
+                            icon: "https://diarinho.net/img/icon-256x256.png"
+                        },
+                    ],
+                },
+            },
+        });
+
+    });
+</script>
+
+<!-- Final do do header and ads -->
+        
+        
+        <title>Febre de oropouche: conheça a doença causada pelo mosquito maruim | DIARINHO</title>
+        <meta charset="UTF-8">
+  		<meta name="keywords" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/css/w3.css?novo2">
+        <link rel="stylesheet" href="/css/estilo8.css?v=1">
+        <script src="/js/base1.js?03072024" type="text/javascript" defer=""></script>
+        <base href="/">
+        
+        <meta name="robots" content="noarchive,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+        <meta name="googlebot" content="noarchive,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+        <meta name="robots" content="">
+        
+                
+        <meta name="description" content="SC tem 10 casos  em Brusque, Botuverá e Luiz Alves">
+        
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.diarinho.net/materia/652839/Febre-de-oropouche--conheca-a-doenca-causada-pelo-mosquito-maruim">
+        <meta property="og:locale" content="pt_BR">
+        <meta property="og:description" content="SC tem 10 casos  em Brusque, Botuverá e Luiz Alves">
+        <meta property="og:image" content="https://www.diarinho.net/fotos/202405/700_6637a2d3177a1.jpeg">
+        
+        <meta name="twitter:description" content="SC tem 10 casos  em Brusque, Botuverá e Luiz Alves">
+        <meta name="twitter:image" content="https://www.diarinho.net/fotos/202405/700_6637a2d3177a1.jpeg">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@diarinho">
+        <meta name="twitter:title" content="Febre de oropouche: conheça a doença causada pelo mosquito maruim">
+        
+        <!-- Taboola -->
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({article:'auto'});
+          !function (e, f, u, i) {
+            if (!document.getElementById(i)){
+              e.async = 1;
+              e.src = u;
+              e.id = i;
+              f.parentNode.insertBefore(e, f);
+            }
+          }(document.createElement('script'),
+          document.getElementsByTagName('script')[0],
+          '//cdn.taboola.com/libtrc/diarinho-publisher/loader.js',
+          'tb_loader_script');
+          if(window.performance && typeof window.performance.mark == 'function')
+            {window.performance.mark('tbl_ic');}
+        </script>
+        <!-- Taboola -->
+    </head>
+
+
+    <body>
+        <div class="div_sombra">
+        
+<!-- Modal small xtsmall -->
+        <div id="myModal" class="modal" style="overflow: hidden" onclick="menu_small_xtsmall(menu_call)">
+        </div>
+        
+        <!-- menu exibido em xtsmall e small -->
+        <div class="w3-top menu_small_xtsmall" id="container-menu" style="position:sticky; position: -webkit-sticky; overflow-y: scroll;">
+            <div class="w3-display-container w3-bottombar w3-border-red w3-bar w3-white"> 
+                <a href="/" style="text-decoration: none;">
+                    <div id="menu_logo" class="w3-panel">
+                        <img id="logo" alt="Logo DIARINHO" src="/img/logo_diarinho.png" height="50">
+                    </div>
+                </a>
+                <div id="menu_call" class="w3-display-right w3-padding" onclick="menu_small_xtsmall(this)">
+
+                    <div id="bar1" class="bar1"></div>
+                    <div id="bar2" class="bar2"></div>
+                    <div id="bar3" class="bar3"></div>
+                </div>
+            </div>
+            
+            <!-- menu, parte do texto -->
+	    <div id="divmenu" class="divmenu">
+                <nav id="menu">
+                    
+                    
+                <ul class="main-menu">
+                    
+                    <li>
+                        <a class="menu_single w3-light-gray w3-border-bottom w3-border-black" href="/acompanhe">Acompanhe</a>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_single w3-light-gray w3-border-bottom w3-border-black" href="/assine">Assine</a>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_single w3-light-gray w3-border-bottom w3-border-black" href="/busca">Busca</a>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_pai w3-light-gray w3-border-bottom w3-border-black" href="javascript: submenu(sub3);">Blogs</a>
+                            <ul id="sub3" class="sub-menu">
+                                <li><a class="menu_filho w3-white" href="/blog/1">A bordo do esporte</a></li><li><a class="menu_filho w3-white" href="/blog/2">Blog da Ale Francoise</a></li><li><a class="menu_filho w3-white" href="/blog/3">Blog Doutor Multas</a></li><li><a class="menu_filho w3-white" href="/blog/4">Blog da Jackie</a></li><li><a class="menu_filho w3-white" href="/blog/5">Blog do JC</a></li><li><a class="menu_filho w3-white" href="/blog/7">Blog do Ton</a></li><li><a class="menu_filho w3-white" href="/blog/9">Blog Gente &amp; Notícia</a></li>                            </ul>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_pai w3-light-gray w3-border-bottom w3-border-black" href="javascript: submenu(sub1);">Colunistas</a>
+                            <ul id="sub1" class="sub-menu">
+                                <li><a class="menu_filho w3-white" href="/colunista/45">Acontece SC<br><small style="padding-left:24px">Ewaldo Willerding</small></a></li><li><a class="menu_filho w3-white" href="/colunista/18">Artigos<br><small style="padding-left:24px">Artigos</small></a></li><li><a class="menu_filho w3-white" href="/colunista/46">Charge do Dia<br><small style="padding-left:24px">Ed Carlos</small></a></li><li><a class="menu_filho w3-white" href="/colunista/27">Coluna Exitus na Política<br><small style="padding-left:24px">Sérgio Saturnino Januário</small></a></li><li><a class="menu_filho w3-white" href="/colunista/29">Coluna do Ton<br><small style="padding-left:24px">Ton Antony</small></a></li><li><a class="menu_filho w3-white" href="/colunista/47">De olho no fisco<br><small style="padding-left:24px">Laura Amado</small></a></li><li><a class="menu_filho w3-white" href="/colunista/44">Diário do Investidor<br><small style="padding-left:24px">EQI Investimentos</small></a></li><li><a class="menu_filho w3-white" href="/colunista/36">Direito na mão<br><small style="padding-left:24px">Renata Brandão Canella</small></a></li><li><a class="menu_filho w3-white" href="/colunista/4">Esplanada<br><small style="padding-left:24px">Coluna Esplanada</small></a></li><li><a class="menu_filho w3-white" href="/colunista/10">Fato&amp;Comentário<br><small style="padding-left:24px">Edison d'Ávila</small></a></li><li><a class="menu_filho w3-white" href="/colunista/38">Ideal Mente<br><small style="padding-left:24px">Vanessa Tonnet</small></a></li><li><a class="menu_filho w3-white" href="/colunista/11">Jackie Rosa<br><small style="padding-left:24px">Jackie Rosa</small></a></li><li><a class="menu_filho w3-white" href="/colunista/1">JotaCê<br><small style="padding-left:24px">Coluna do JC</small></a></li><li><a class="menu_filho w3-white" href="/colunista/39">Mundo Corporativo<br><small style="padding-left:24px">Altevir Baron</small></a></li><li><a class="menu_filho w3-white" href="/colunista/26">Na Rede<br><small style="padding-left:24px">Da redação</small></a></li><li><a class="menu_filho w3-white" href="/colunista/6">Show de Bola<br><small style="padding-left:24px">Coluna do Jânio Flavio</small></a></li><li><a class="menu_filho w3-white" href="/colunista/8">Via Streaming<br><small style="padding-left:24px">Via Streaming</small></a></li>                                <li><a class="menu_filho w3-white" href="/colunistas/">Veja todos</a></li>
+                            </ul>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_pai w3-light-gray w3-border-bottom w3-border-black" href="javascript: submenu(sub2);">Notícias</a>
+                            <ul id="sub2" class="sub-menu">
+                            	<li><a class="menu_filho w3-white" href="/enquete">Enquetes</a></li>
+                            	
+                                <li><a class="menu_filho w3-white" href="/materia_lista/18/ConteudosTematicos">Conteúdos Temáticos</a></li><li><a class="menu_filho w3-white" href="/materia_lista/12/Economia">Economia</a></li><li><a class="menu_filho w3-white" href="/materia_lista/8/Entrevistao">Entrevistão</a></li><li><a class="menu_filho w3-white" href="/materia_lista/5/Especial">Especial</a></li><li><a class="menu_filho w3-white" href="/materia_lista/4/Esporte">Esporte</a></li><li><a class="menu_filho w3-white" href="/materia_lista/15/FocanoFinde">Foca no Finde</a></li><li><a class="menu_filho w3-white" href="/materia_lista/1/Geral">Geral</a></li><li><a class="menu_filho w3-white" href="/materia_lista/14/NaEstrada">Na Estrada</a></li><li><a class="menu_filho w3-white" href="/materia_lista/2/Policia">Polícia</a></li><li><a class="menu_filho w3-white" href="/materia_lista/3/Politica">Política</a></li><li><a class="menu_filho w3-white" href="/materia_lista/16/RoledoDIARINHO">Rolê do DIARINHO</a></li><li><a class="menu_filho w3-white" href="/materia_lista/13/SobreRodas">Sobre Rodas</a></li>                               
+                                <li><a class="menu_filho w3-white" href="/variedades">Variedades</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/agenda">&nbsp;&nbsp;&nbsp;Agenda Cultural</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/cinema">&nbsp;&nbsp;&nbsp;Cinema</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/horoscopo">&nbsp;&nbsp;&nbsp;Horóscopo</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/novelas">&nbsp;&nbsp;&nbsp;Novelas</a></li>
+                                
+                                <li><a class="menu_filho w3-white" href="/servicos">Serviços</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/cartas">&nbsp;&nbsp;&nbsp;Alô do Leitor!</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/falhanossa">&nbsp;&nbsp;&nbsp;Falha Nossa</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/obituario">&nbsp;&nbsp;&nbsp;Obituário</a></li>
+                                
+                                <li><a class="menu_filho w3-white" href="/materia_lista/11/Voz-do-Povo">Voz do Povo</a></li>
+                                <li><a class="w3-white w3-medium" style="padding-left: 70px;" href="/recadinhos">&nbsp;&nbsp;&nbsp;Recadinhos</a></li>
+                                
+                            </ul>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_pai w3-light-gray w3-border-bottom w3-border-black" href="javascript: submenu(sub5);">Podcasts</a>
+                            <ul id="sub5" class="sub-menu">
+                                <li><a class="menu_filho w3-white" href="/podcasts/1">Minuto DIARINHO</a></li><li><a class="menu_filho w3-white" href="/podcasts/6">Entrevistão do DIARINHO</a></li><li><a class="menu_filho w3-white" href="/podcasts/7">Balneário Camboriú em Foco</a></li><li><a class="menu_filho w3-white" href="/podcasts/14">Papo do dia</a></li><li><a class="menu_filho w3-white" href="/podcasts/15">DIARINHO Esporte Clube</a></li><li><a class="menu_filho w3-white" href="/podcasts/17">#tánoDIARINHO</a></li>                            </ul>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_single w3-light-gray w3-border-bottom w3-border-black" href="/publegais">Publicações Legais</a>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_single w3-light-gray w3-border-bottom w3-border-black" href="https://www.transetudo.com.br">Transe Tudo</a>
+                    </li>
+                    
+                    <li>
+                        <a class="menu_single w3-light-gray w3-border-bottom w3-border-black" href="/tv">TV</a>
+                    </li>
+                    
+                    
+                    
+                    
+                    
+                    
+                                            <li>
+                            <a class="menu_single w3-light-gray w3-border-bottom w3-border-black" href="/login">Entrar</a>
+                        </li>
+                                        
+                </ul>
+                </nav>
+            </div>
+			
+        </div>
+        <!-- fim menu exibido em xtsmall e small -->
+        
+        
+        <!-- menu exibido em large -->
+        <div class="menu_large">
+            
+            <a href="/" style="text-decoration: none;">
+            <div class="w3-container" style="text-align: center; margin-left: auto; margin-right: auto; padding-top: 24px; width:1000px;">
+                    <img id="logo" alt="Logo DIARINHO" src="/img/logo_diarinho.png" height="90">
+                    <p style="margin: 10px;"><span style="text-transform: capitalize;">terça</span>, 14 de janeiro de 2025</p>                    <div id="cont_2ec6b7dd22c37590ba8bbad05fb957dd"><script type="text/javascript" async="" src="https://www.tempo.com/wid_loader/2ec6b7dd22c37590ba8bbad05fb957dd"></script></div>
+                    <!-- <img alt="Previsão do tempo" src="https://www.tempo.com/wimages/fotobb38b7a49578d244bf4796354d71ca29.png"> -->
+                    <br>
+            </div>
+            </a>
+            
+            <div id="menu_large" class="w3-bar w3-border-bottom w3-border-top w3-border-gray w3-white" style="text-align:center;">
+                
+                <a href="/acompanhe" class="w3-bar-item w3-button w3-hover-vemelho_escuro" style="display:inline-block; float: none; line-height: 100%">Acompanhe</a>
+                
+                <a href="/assine" class="w3-bar-item w3-button w3-hover-vemelho_escuro" style="display:inline-block; float: none; line-height: 100%">Assine</a>
+                
+                <a href="/busca" class="w3-bar-item w3-button w3-hover-vemelho_escuro" style="display:inline-block; float: none; line-height: 100%">Busca</a>
+                
+                <div class="w3-cell w3-dropdown-hover w3-white" style="display:inline-block; float: none">
+                    <button class="w3-button w3-hover-vemelho_escuro" style="">Blogs <i class="fa fa-caret-down"></i></button>
+                    <div class="w3-dropdown-content w3-bar-block" style="max-width: 200px; background: rgba(200, 200, 200, 1)">
+                        <a href="/blog/1" class="w3-bar-item w3-button w3-border-bottom w3-border-gray w3-hover-vemelho_escuro">A bordo do esporte</a><a href="/blog/2" class="w3-bar-item w3-button w3-border-bottom w3-border-gray w3-hover-vemelho_escuro">Blog da Ale Francoise</a><a href="/blog/3" class="w3-bar-item w3-button w3-border-bottom w3-border-gray w3-hover-vemelho_escuro">Blog Doutor Multas</a><a href="/blog/4" class="w3-bar-item w3-button w3-border-bottom w3-border-gray w3-hover-vemelho_escuro">Blog da Jackie</a><a href="/blog/5" class="w3-bar-item w3-button w3-border-bottom w3-border-gray w3-hover-vemelho_escuro">Blog do JC</a><a href="/blog/7" class="w3-bar-item w3-button w3-border-bottom w3-border-gray w3-hover-vemelho_escuro">Blog do Ton</a><a href="/blog/9" class="w3-bar-item w3-button w3-border-bottom w3-border-gray w3-hover-vemelho_escuro">Blog Gente &amp; Notícia</a>                    </div>
+                </div> 
+                
+                <div class="w3-cell w3-dropdown-hover " style="display:inline-block; float: none">
+                    <button class="w3-button w3-hover-vemelho_escuro" style="">Colunistas <i class="fa fa-caret-down"></i></button>
+                    <div class="w3-dropdown-content w3-bar-block" style="max-width: 200px; background: rgba(200, 200, 200, 1)">
+                        <a href="/colunista/45" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Acontece SC<br><small>Ewaldo Willerding</small></a><a href="/colunista/18" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Artigos<br><small>Artigos</small></a><a href="/colunista/46" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Charge do Dia<br><small>Ed Carlos</small></a><a href="/colunista/27" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Coluna Exitus na Política<br><small>Sérgio Saturnino Januário</small></a><a href="/colunista/29" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Coluna do Ton<br><small>Ton Antony</small></a><a href="/colunista/47" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">De olho no fisco<br><small>Laura Amado</small></a><a href="/colunista/44" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Diário do Investidor<br><small>EQI Investimentos</small></a><a href="/colunista/36" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Direito na mão<br><small>Renata Brandão Canella</small></a><a href="/colunista/4" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Esplanada<br><small>Coluna Esplanada</small></a><a href="/colunista/10" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Fato&amp;Comentário<br><small>Edison d'Ávila</small></a><a href="/colunista/38" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Ideal Mente<br><small>Vanessa Tonnet</small></a><a href="/colunista/11" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Jackie Rosa<br><small>Jackie Rosa</small></a><a href="/colunista/1" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">JotaCê<br><small>Coluna do JC</small></a><a href="/colunista/39" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Mundo Corporativo<br><small>Altevir Baron</small></a><a href="/colunista/26" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Na Rede<br><small>Da redação</small></a><a href="/colunista/6" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Show de Bola<br><small>Coluna do Jânio Flavio</small></a><a href="/colunista/8" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Via Streaming<br><small>Via Streaming</small></a>                        <a href="/colunistas/" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Veja todos</a>
+                    </div>
+                </div>
+           
+                <div class="w3-cell w3-dropdown-hover " style="display:inline-block; float: none">
+                    <button class="w3-button w3-hover-vemelho_escuro">Notícias <i class="fa fa-caret-down"></i></button>
+                    <div class="w3-dropdown-content w3-bar-block" style="max-width: 200px; background: rgba(200, 200, 200, 1)">
+                        
+                        <a href="/enquete" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Enquetes</a>
+                        
+                        <a href="/materia_lista/18/ConteudosTematicos" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Conteúdos Temáticos</a><a href="/materia_lista/12/Economia" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Economia</a><a href="/materia_lista/8/Entrevistao" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Entrevistão</a><a href="/materia_lista/5/Especial" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Especial</a><a href="/materia_lista/4/Esporte" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Esporte</a><a href="/materia_lista/15/FocanoFinde" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Foca no Finde</a><a href="/materia_lista/1/Geral" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Geral</a><a href="/materia_lista/14/NaEstrada" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Na Estrada</a><a href="/materia_lista/2/Policia" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Polícia</a><a href="/materia_lista/3/Politica" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Política</a><a href="/materia_lista/16/RoledoDIARINHO" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Rolê do DIARINHO</a><a href="/materia_lista/13/SobreRodas" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Sobre Rodas</a>						
+						<a href="/variedades" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Variedades</a>
+						<a href="/agenda" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Agenda Cultural</a>
+						<a href="/cinema" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Cinema</a>
+						<a href="/horoscopo" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Horóscopo</a>
+						<a href="/novelas" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Novelas</a>
+						
+						<a href="/servicos" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Serviços</a>
+						<a href="/cartas" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Alô do Leitor!</a>
+						<a href="/falhanossa" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Falha Nossa</a>
+						<a href="/obituario" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Obituário</a>
+						
+						<a href="/materia_lista/11/Voz-do-Povo" class="w3-button w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">Voz do Povo</a>
+						<a href="/recadinhos" class="w3-button w3-small w3-border-bottom w3-border-gray w3-transparent w3-bar-item w3-hover-vemelho_escuro">&nbsp;&nbsp;&nbsp;Recadinhos</a>
+						
+                    </div>
+                </div>
+                
+                <div class="w3-cell w3-dropdown-hover " style="display:inline-block; float: none">
+                    <button class="w3-button w3-hover-vemelho_escuro" style="">Podcasts <i class="fa fa-caret-down"></i></button>
+                    <div class="w3-dropdown-content w3-bar-block" style="max-width: 200px; background: rgba(200, 200, 200, 1)">
+                        <a href="/podcasts/1" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Minuto DIARINHO</a><a href="/podcasts/6" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Entrevistão do DIARINHO</a><a href="/podcasts/7" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Balneário Camboriú em Foco</a><a href="/podcasts/14" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">Papo do dia</a><a href="/podcasts/15" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">DIARINHO Esporte Clube</a><a href="/podcasts/17" class="w3-button w3-border-bottom w3-border-gray w3-bar-item w3-hover-vemelho_escuro">#tánoDIARINHO</a>                    </div>
+                </div>
+                
+                <a href="/publegais" class="w3-bar-item w3-button w3-hover-vemelho_escuro" style="display:inline-block; float: none; line-height: 100%">Publicações Legais</a>
+                
+                <a href="https://www.transetudo.com.br" class="w3-bar-item w3-button w3-hover-vemelho_escuro" style="display:inline-block; float: none; line-height: 100%">Transe Tudo</a>
+                
+                <a href="/tv" class="w3-bar-item w3-button w3-hover-vemelho_escuro" style="display:inline-block; float: none; line-height: 100%">TV</a>
+                
+                                    
+                <a href="/login" class="w3-bar-item w3-button w3-hover-vemelho_escuro" style="display:inline-block; float: none; line-height: 100%">Entrar</a>  
+                    
+                                
+            </div>
+            
+        </div>
+        
+        <!--
+        <script>
+        // When the user scrolls the page, execute myFunction
+        window.onscroll = function() {myFunction()};
+
+        // Get the navbar
+        var navbar = document.getElementById("menu_large");
+
+        // Get the offset position of the navbar
+        var sticky = navbar.offsetTop;
+
+        // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+          if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky")
+          } else {
+            navbar.classList.remove("sticky");
+          }
+        }
+
+        </script>
+        -->
+        
+        <!-- fim menu exibido em large -->
+        
+    
+            
+            <!-- Início do anúncio cutting edge -->
+            <div align="center" style="margin-top: 20px; margin-bottom: 40px; min-height: 350px;">
+            <script src="https://diarinho.net/siga/anuncio.js?17a0d0298adba7c52f3fcd2530863b2b"></script>
+            <div id="?17a0d0298adba7c52f3fcd2530863b2b"></div>
+            </div>
+            <!-- Fim do anúncio -->
+            
+            <!-- Início do anúncio banner topo diarinho-->
+            <div style="margin-left: auto; margin-right: auto; margin-bottom: 40px; max-width:100%; min-height: 100px; display: flex; justify-content: center;">
+            <script src="https://diarinho.net/siga/anuncio.js?19625a87ac86aa8f20a07b2370319973"></script>
+            <div id="?19625a87ac86aa8f20a07b2370319973"></div>
+            </div>
+            <!-- Fim do anúncio -->
+            
+                
+    
+    
+    <div class="w3-row div_conteudo">
+        <div class="w3-col m8 l6 div_1_3col">
+            <h4 class="secoes">Matérias | Geral</h4>
+            <br>
+            <article>
+            <header>
+                
+            <h2 class="cartola_interna">SAÚDE   </h2>
+            <h1 class="titulo_interno">Febre de oropouche: conheça a doença causada pelo mosquito maruim</h1>
+            <h3 class="olho_interno">SC tem 10 casos  em Brusque, Botuverá e Luiz Alves</h3>
+            
+            <!--barra social-->
+            <div class="barra-social">
+                <a aria-label="Compartilhar no X (Twitter)" class="fa fa-twitter w3-hover-opacity" style="text-decoration: none; background: #00acee; font-size:20px;" href="javascript:windowPopup('https://twitter.com/intent/tweet?url=https://www.diarinho.net/materia/652839/Febre-de-oropouche--conheca-a-doenca-causada-pelo-mosquito-maruim&amp;text=Febre+de+oropouche%3A+conhe%C3%A7a+a+doen%C3%A7a+causada+pelo+mosquito+maruim&amp;via=diarinho&amp;lang=pt-br',500,300)"></a>
+                <a aria-label="Compartilhar no Facebook" class="fa fa-facebook w3-hover-opacity" style="text-decoration: none; background: #4267B2; font-size:20px;" href="javascript:windowPopup('https://www.facebook.com/sharer/sharer.php?u=https://www.diarinho.net/materia/652839/Febre-de-oropouche--conheca-a-doenca-causada-pelo-mosquito-maruim',500,300)"></a>
+                <a aria-label="Compartilhar no WhatsApp" class="fa fa-whatsapp w3-hover-opacity" style="text-decoration: none; background: #25D366; font-size:20px;" href="whatsapp://send?text=Febre+de+oropouche%3A+conhe%C3%A7a+a+doen%C3%A7a+causada+pelo+mosquito+maruim https://www.diarinho.net/materia/652839/Febre-de-oropouche--conheca-a-doenca-causada-pelo-mosquito-maruim"></a>
+                <a aria-label="Compartilhar no Telegram" class="fa fa-telegram w3-hover-opacity" style="text-decoration: none; background: #0088cc; font-size:20px;" href="tg://msg_url?url=https://www.diarinho.net/materia/652839/Febre-de-oropouche--conheca-a-doenca-causada-pelo-mosquito-maruim&amp;text=Febre+de+oropouche%3A+conhe%C3%A7a+a+doen%C3%A7a+causada+pelo+mosquito+maruim"></a>
+            </div>
+            
+            <p class="assinatura_interno">Laura Testoni [lauratestoni16@gmail.com]</p>
+            <time datetime="2024-05-05 12:16">
+            <p class="datas_interno">
+                Publicado 05/05/2024 12:16<br>Editado 05/05/2024 21:21            </p>
+            </time>
+            </header>
+                            <!-- galeria de imagens -->
+                <div class="w3-container" style="width: 100%; padding: 0px;">
+
+                    <!--modal-->
+                    <div id="modal_galeria" class="w3-modal" style="width: 100%;" onclick="this.style.display='none'">
+                        <img id="foto_modal" style="display: block; margin: auto;">
+                    </div>
+
+                    <!--GALERIA-->
+                    <div class="w3-content w3-display-container">
+                        <!--DIV FOTO PRINCIPAL-->
+                        <div class="w3-display-container">
+
+                            <!--FOTO GRANDE PRIMEIRA-->
+                            <div class="w3-display-container mySlides" style="margin-bottom: 2px; cursor: pointer;">
+                              <img alt="Além de transmissão da doença, mosquito causa irritação na pele (Foto: reprodução)" src="/fotos/202405/700_6637a2d3177a1.jpeg" style="width:100%" onclick="AbreModal('800_6637a2d3177a1.jpeg','/fotos/202405/')">
+                              <!--LEGENDA-->
+                                                            <div class="w3-display-bottomleft w3-small w3-container w3-padding-small" style="background: rgba(280, 280, 280, 0.85)">Além de transmissão da doença, mosquito causa irritação na pele (Foto: reprodução)</div>
+                                                          </div>
+
+                        </div>
+                    </div>
+                </div>
+                
+
+            <p class="texto"></p><div><p>A febre de oropouche é uma doença causada por um arbovírus e transmitida por mosquitos, principalmente o maruim – um parente próximo do aedes aegypti, causador da dengue. O mosquito é bem pequeno e sua picada, além de transmitir doenças, causa coceira, ardência e irritação na pele.<br>Santa Catarina tem 10 casos de febre oropouche: quatro em Brusque, cinco em Botuverá e um em Luiz Alves.&nbsp;<br>Em março deste ano, Luiz Alves decretou situação de emergência pelo aumento de maruims na cidade. O decreto permite o acesso a propriedades para controle do inseto e dispensa licitações para contratações de emergência para ações de combate ao mosquito.<br>Os sintomas da febre de oropouche são parecidos com os da dengue e da chikungunya. São eles: febre, dor de cabeça, dor muscular, dor nas articulações, náusea e diarreia.<br>Em caso de sintomas, o paciente deve procurar uma Unidade Básica de Saúde (UBS) para poder dar seguimento aos exames e identificar a doença.</p><div class="w3-panel w3-sand w3-topbar w3-bottombar w3-border-khaki"><h2 class="cartola_terciaria" style="line-height: 100%;">LEIA MAIS:</h2><a href="/materia/652814/--34-Essa-turma-que-diz-defender-a-familia-ajudou-a-destruir-a-boa-convivencia-em-muitas-familias--Na-defesa-de-um-modelo-unico--excludente--34-" style="text-decoration: none;"><h1 class="leiamais w3-hover-text-red"><i class="fa fa-caret-right"></i> "Essa turma que diz defender a família ajudou a destruir a boa convivência em muitas famílias. Na defesa de um modelo único, excludente"</h1></a><a href="/materia/652809/Menina-de-4-anos-morre-vitima-de-meningite-em-Camboriu--" style="text-decoration: none;"><h1 class="leiamais w3-hover-text-red"><i class="fa fa-caret-right"></i> Despedida de menina que morreu de meningite</h1></a><a href="/materia/652788/Contra-agravamento-de-doencas-respiratorias--vacina---contra-a-gripe-e-liberada-pra-toda-a-populacao--" style="text-decoration: none;"><h1 class="leiamais w3-hover-text-red"><i class="fa fa-caret-right"></i> Vacina contra a gripe é liberada pra toda a população </h1></a></div></div><p></p>
+
+            </article>
+
+            
+    <div class="w3-col m12" style="margin-bottom: 15px;">
+        <h4 class="secoes">NOTÍCIAS RELACIONADAS</h4>
+
+         
+        <a href="/materia/652814/--34-Essa-turma-que-diz-defender-a-familia-ajudou-a-destruir-a-boa-convivencia-em-muitas-familias--Na-defesa-de-um-modelo-unico--excludente--34-" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img loading="lazy" alt="&quot;Essa turma que diz defender a família ajudou a destruir a boa convivência em muitas famílias. Na defesa de um modelo único, excludente&quot;" src="/fotos/202405/200_66357f4a134f8.JPG" style="max: width 100px; height: 100px;">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">João Paulo</h2>
+                        <h1 class="leiamais">"Essa turma que diz defender a família ajudou a destruir a boa convivência em muitas famílias. Na defesa de um modelo único, excludente"</h1>
+                    </div>
+                                        
+            </div>
+        </a>
+        
+        <a href="/materia/652809/Menina-de-4-anos-morre-vitima-de-meningite-em-Camboriu--" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img loading="lazy" alt="Despedida de menina que morreu de meningite" src="/fotos/202405/200_66356b45c86e1.png" style="max: width 100px; height: 100px;">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Camboriú </h2>
+                        <h1 class="leiamais">Despedida de menina que morreu de meningite</h1>
+                    </div>
+                                        
+            </div>
+        </a>
+        
+        <a href="/materia/652788/Contra-agravamento-de-doencas-respiratorias--vacina---contra-a-gripe-e-liberada-pra-toda-a-populacao--" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img loading="lazy" alt="Vacina contra a gripe é liberada pra toda a população " src="/fotos/202405/200_66358a3f8b5c5.JPG" style="max: width 100px; height: 100px;">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Santa Catarina&nbsp;</h2>
+                        <h1 class="leiamais">Vacina contra a gripe é liberada pra toda a população </h1>
+                    </div>
+                                        
+            </div>
+        </a>
+      <br><br><br><br>
+    </div> 
+    
+                
+            <br>
+            <br>
+            
+            <!-- Início do anúncio após o texto
+            <div style="margin-left: auto; margin-right: auto; margin-bottom: 40px; max-width:100%; min-height: 350px; display: flex; justify-content: center;">
+                <div id='?4dde34136e561fbbdcb2bff98d94a3fd'></div>
+    		</div>
+            <!-- Fim do anúncio -->
+			
+			<!-- Taboola Feed -->
+            <div id="taboola-below-article-thumbnails"></div>
+            <script type="text/javascript">
+              window._taboola = window._taboola || [];
+              _taboola.push({
+                mode: 'alternating-thumbnails-a',
+                container: 'taboola-below-article-thumbnails',
+                placement: 'Below Article Thumbnails',
+                target_type: 'mix'
+              });
+            </script>
+            <!-- Taboola Feed -->
+            
+            <br>
+            
+            <!--comentários-->
+            <p><strong>Comentários:</strong></p>
+
+            <p>Somente usuários cadastrados podem postar comentários.</p>
+                          <p><a href="login.php">Clique aqui para fazer o seu cadastro.</a></p>
+                          <p>Se você já é cadastrado, <a href="login.php">faça login</a> para comentar.</p>                
+                <!--chamada form enviar contato 
+                <div class="w3-bar w3-border w3-border-red w3-center">
+                    <span onclick="document.getElementById('form_contato').style.display='block'" class="w3-button w3-center w3-xlarge w3-text-red">Entre em contato com a redação &#10095;</span>
+                </div>-->
+                
+                <!--whatsapp diarinho-->
+                <div class="w3-border w3-border-red" style="margin-left: auto; margin-right: auto; margin-top: 15px; max-width:650px">
+                    <a href="https://chat.whatsapp.com/Ly2KFzL6qJL6laza1SNorh" target="_blank"><img alt="WhatsAPP DIARINHO" loading="lazy" src="/img/whatsapp2.jpg" style="width:100%"></a>
+                </div>
+
+                <!--Banner unimed
+                <div style='margin-left: auto; margin-right: auto; margin-bottom: 20px; margin-top: 20px; max-width:100%; display: flex; justify-content: center;'>
+                    <!-- JAVASCRIPT NO RODAPE /2155536/unimed/diarinhounimed -/-> 
+                    <div id='div-gpt-ad-1629487831722-0a' style='min-width: 300px; min-height: 300px;'> </div>
+                </div>
+				<!--Banner unimed-->
+                
+                
+                <div id="form_contato" class="w3-modal">
+                    <div class="w3-modal-content w3-card-4 w3-animate-zoom" style="max-width:550px">
+
+                        <div class="w3-center"><br>
+                            <p class="w3-xxlarge w3-text-red">Envie seu recado</p>
+                            <p class="w3-large">Através deste formuário, você pode entrar em contato com a redação do DIARINHO.</p>
+                          <span onclick="document.getElementById('form_contato').style.display='none'" class="w3-button w3-xlarge w3-hover-red w3-display-topright" title="Fechar">×</span>
+                        </div>
+
+                        <form id="formulario_contato" class="w3-container" action="/recebe_contato_usuario.php" method="post" enctype="multipart/form-data">
+                          <div class="w3-section">
+                            <label><b>Nome</b></label>
+                            <input class="w3-input w3-border w3-margin-bottom" type="text" placeholder="Nome" name="nome">
+                            <label><b>E-mail</b></label>
+                            <input class="w3-input w3-border w3-margin-bottom" type="text" placeholder="E-mail" name="email">
+                            <label><b>Telefone</b></label>
+                            <input class="w3-input w3-border w3-margin-bottom" type="text" placeholder="(xx)xxxx-xxxx" name="telefone">
+                            <label><b>Foto (formatos jpg, gif ou png)</b></label>
+                            <input type="file" name="arquivo" accept="image/png, image/jpeg , image/jpg, image/gif"><br><br>
+                            <label><b>Mensagem</b></label>
+                            <br><textarea id="texto" style="width: 100%;" class="form-control" name="texto" rows="6"></textarea><br><br>
+                            <div class="g-recaptcha" data-callback="recaptchacontato" data-sitekey="6LcI19oZAAAAADxZhMBF3ikeBpXaVmiISP1lngjP"></div>
+                            <br>
+                            <span class="w3-medium w3-text-red" style="display: none;" id="errotexto"></span>
+                            <label><b>IP:</b></label>
+                            170.245.24.58                            <button id="btn_form" class="w3-button w3-block w3-red w3-section w3-padding" disabled="" type="button" onclick="envia_form_contato()">Enviar</button>
+                          </div>
+                        </form>
+
+                    </div>
+                </div>
+                        
+        </div>
+        
+        <!-- cache: 20250114 07:27:55-->
+        <div class="w3-col m4 l3 div_2_3col">
+            
+            <h4 class="secoes">Últimas notícias</h4>
+            
+                        <a href="/materia/658825/Face-U--sua-porta-para-um-futuro--de-excelencia-e-transformacao" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Face U: sua porta para um futuro  de excelência e transformação" loading="lazy" src="/fotos/202501/200_6785b0ddad97e.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">ITAJAÍ</h2>
+                <h1 class="leiamais">Face U: sua porta para um futuro  de excelência e transformação</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658824/Mc-Donalds-tem-mais-de-60-vagas-de-emprego-na-regiao--" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Mc Donalds tem mais de 60 vagas de emprego na região  " loading="lazy" src="/fotos/202501/200_6785ade35df4c.jpeg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">OPORTUNIDADE  </h2>
+                <h1 class="leiamais">Mc Donalds tem mais de 60 vagas de emprego na região  </h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658823/Homem-armado-com-faca-invade-camara-de-vereadores-de-Itapema--" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Homem armado com faca invade câmara de vereadores de Itapema  " loading="lazy" src="/fotos/202501/200_6785a5df73e52.png" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">SURTO  </h2>
+                <h1 class="leiamais">Homem armado com faca invade câmara de vereadores de Itapema  </h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658822/Marcilio-e-Barra-se-despedem-da-Copa-Sao-Paulo-Junior" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Marcílio e Barra se despedem da Copa São Paulo Júnior" loading="lazy" src="/fotos/202501/200_6785a4ba23ddd.jpeg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">Fim da linha</h2>
+                <h1 class="leiamais">Marcílio e Barra se despedem da Copa São Paulo Júnior</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658821/Morre-o-radialista-Selmar-Garcia--" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Morre o radialista Selmar Garcia  " loading="lazy" src="/fotos/202501/200_67859e01e22cc.png" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">LUTO  </h2>
+                <h1 class="leiamais">Morre o radialista Selmar Garcia  </h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658820/Fiscalizacao-apreende-cigarros-eletronicos-em-baladinha-da-Brava--" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Fiscalização apreende cigarros eletrônicos" loading="lazy" src="/fotos/202501/200_678597439d032.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">Baladinha da Brava  </h2>
+                <h1 class="leiamais">Fiscalização apreende cigarros eletrônicos</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658819/Areia-dura-de-BC-so----fura----na-base-da-parafusadeira----" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Serviço de “furador de areia” custa até R$ 150" loading="lazy" src="/fotos/202501/200_6785882a97ddc.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">Balneário Camboriú</h2>
+                <h1 class="leiamais">Serviço de “furador de areia” custa até R$ 150</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658818/Santa-Catarina-nao-teve-redacao-nota-mil-no-Enem" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Santa Catarina não teve redação nota mil no Enem" loading="lazy" src="/fotos/202501/200_678583ae543c7.jpeg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">Enem 2024</h2>
+                <h1 class="leiamais">Santa Catarina não teve redação nota mil no Enem</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658817/Moradores-denunciam----nova-Cracolandia----na-rua-Tijucas--" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Moradores denunciam “nova Cracolândia” na rua Tijucas  " loading="lazy" src="/fotos/202501/200_6785628dc2d5b.JPG" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">ITAJAÍ </h2>
+                <h1 class="leiamais">Moradores denunciam “nova Cracolândia” na rua Tijucas  </h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658816/Caze--Felca-e-Brino-aparecem-cantando----Descer-pra-BC----em-video-de-inteligencia-artificial" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Cazé, Felca e Brino aparecem cantando “Descer pra BC” em vídeo de inteligência artificial" loading="lazy" src="/fotos/202501/200_6785613e70569.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">VERSÃO IA</h2>
+                <h1 class="leiamais">Cazé, Felca e Brino aparecem cantando “Descer pra BC” em vídeo de inteligência artificial</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        
+            <!-- Início do anúncio -->
+            <div style="margin-left: auto; margin-right: auto; margin-bottom: 20px; max-width:100%; min-height:350px; display: flex; justify-content: center;">
+                <script src="https://diarinho.net/siga/anuncio.js?b813baa531b3f809974239a5d58665bb"></script> 
+            <div id="?b813baa531b3f809974239a5d58665bb"></div> 
+            </div>
+            <!-- Fim do anúncio -->
+            
+            <br>
+            <br>
+            
+            
+            <h4 class="secoes">Colunistas</h4>
+            
+                        <a href="/coluna/628859/Anna-joga-seus-votos-no-lixo" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Anna joga seus votos no lixo" loading="lazy" src="/fotos_colunas/202501/200_6785a2fb299b3.jpeg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">JotaCê</h2>
+                    <h1 class="leiamais">Anna joga seus votos no lixo</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628858/Chegou-a-hora" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Chegou a hora" loading="lazy" src="/fotos_colunas/202501/200_6785a22682537.jpeg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Show de Bola</h2>
+                    <h1 class="leiamais">Chegou a hora</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628857/SC-tem-alta-em-exportacoes-e-importacoes--aponta-FIESC" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="SC tem alta em exportações e importações, aponta FIESC" loading="lazy" src="/fotos_colunas/202501/200_6785a152df58d.jpeg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Coluna Acontece SC </h2>
+                    <h1 class="leiamais">SC tem alta em exportações e importações, aponta FIESC</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628856/Aposentadoria-por-idade-para-pessoas-com-deficiencia--uma-alternativa-acessivel-e-vantajosa" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Aposentadoria por idade para pessoas com deficiência: uma alternativa acessível e vantajosa" loading="lazy" src="/fotos_colunas/202501/200_6785a015bb83c.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Direito na mão</h2>
+                    <h1 class="leiamais">Aposentadoria por idade para pessoas com deficiência: uma alternativa acessível e vantajosa</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628854/As-escuras" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Às escuras" loading="lazy" src="/fotos_colunas/202501/200_678452e0328ee.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Charge do Dia</h2>
+                    <h1 class="leiamais">Às escuras</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628853/A-moral-e-o-tempo" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <h2 class="cartola_terciaria" style="line-height: 90%;">Coluna Exitus na Política</h2>
+                <h1 class="leiamais">A moral e o tempo</h1>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628850/Ambiente-organizacional-versus-esforco-" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Ambiente organizacional versus esforço " loading="lazy" src="/fotos_colunas/202501/200_6781ba54b2453.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Mundo Corporativo</h2>
+                    <h1 class="leiamais">Ambiente organizacional versus esforço </h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628848/Verao-com-alma-e-coracao" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Festa da Manu!" loading="lazy" src="/fotos_colunas/202501/200_6781891a1ce90.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Jackie Rosa</h2>
+                    <h1 class="leiamais">Festa da Manu!</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628846/O-saudoso-Dalmo-Vieira-diria-----Os-eleitores-foram-trapaceados---" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="O saudoso Dalmo Vieira diria: “Os eleitores foram trapaceados”" loading="lazy" src="/fotos_colunas/202501/200_678073987b9b3.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Artigos</h2>
+                    <h1 class="leiamais">O saudoso Dalmo Vieira diria: “Os eleitores foram trapaceados”</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628841/Niver-da-Carol-" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Niver da Carol!" loading="lazy" src="/fotos_colunas/202501/200_677f0233db2cd.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Coluna do Ton</h2>
+                    <h1 class="leiamais">Niver da Carol!</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628838/Pessoa-Fisica-x-Pessoa-Juridica---autonomos" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Pessoa Física x Pessoa Jurídica - autônomos" loading="lazy" src="/fotos_colunas/202501/200_677eed6d951fa.jpeg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">De Olho no Fisco </h2>
+                    <h1 class="leiamais">Pessoa Física x Pessoa Jurídica - autônomos</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628837/---Distrito-9---" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="“Distrito 9”" loading="lazy" src="/fotos_colunas/202501/200_677edbbbba735.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Via Streaming</h2>
+                    <h1 class="leiamais">“Distrito 9”</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628834/Lidar-com-expectativas-e-frustracoes--novo-comeco-para-2025" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Lidar com expectativas e frustrações: novo começo para 2025" loading="lazy" src="/fotos_colunas/202501/200_677dcb85b15f6.jpg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Ideal Mente</h2>
+                    <h1 class="leiamais">Lidar com expectativas e frustrações: novo começo para 2025</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628812/Os-cubanos-de-Trump-" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Os cubanos de Trump " loading="lazy" src="/fotos_colunas/202412/200_67720824f3987.jpeg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Coluna Esplanada</h2>
+                    <h1 class="leiamais">Os cubanos de Trump </h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628808/Revezamento-de-geracoes-politicas" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Revezamento de gerações políticas" loading="lazy" src="/fotos_colunas/202412/200_676f399f9d75a.png" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Coluna Fato&amp;Comentário</h2>
+                    <h1 class="leiamais">Revezamento de gerações políticas</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628795/Pancadaria-em-jogo-de-futebol--mortes-e-federalizacao-do-porto--os-assuntos-que-bombaram-nas-redes-do-DIARINHO" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Pancadaria em jogo de futebol, mortes e federalização do porto: os assuntos que bombaram nas redes do DIARINHO" loading="lazy" src="/fotos_colunas/202412/200_676871729b525.png" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Na Rede</h2>
+                    <h1 class="leiamais">Pancadaria em jogo de futebol, mortes e federalização do porto: os assuntos que bombaram nas redes do DIARINHO</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        <a href="/coluna/628649/Fundos-de-papel-em-alta--veja-cinco-boas-opcoes-de-investimento" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                            <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                    <img alt="Fundos de papel em alta: veja cinco boas opções de investimento" loading="lazy" src="/fotos_colunas/202411/200_673fc09486048.jpeg" style="width:100%">
+                </div>
+                <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                    <h2 class="cartola_terciaria" style="line-height: 90%;">Diário do Investidor</h2>
+                    <h1 class="leiamais">Fundos de papel em alta: veja cinco boas opções de investimento</h1>
+                </div>
+                         
+            </div>
+            </a>
+            
+                        
+            <!-- Início do anúncio -->
+            <div style="margin-left: auto; margin-right: auto; margin-bottom: 20px; max-width:100%; min-height:350px; display: flex; justify-content: center;">
+                <script src="https://diarinho.net/siga/anuncio.js?b813baa531b3f809974239a5d58665bb"></script> 
+            <div id="?b813baa531b3f809974239a5d58665bb"></div> 
+            </div>
+            <!-- Fim do anúncio -->
+            
+            <br>
+            <br>
+            
+            
+        </div>
+        <div class="w3-col l3 div_3_3col">
+          
+            <h4 class="secoes">TV DIARINHO</h4>
+            <br>
+                <div class="youtube-player" data-id="ODybfBy2ezY"></div>
+            <div>
+                <p>Coluna Direito na Mão, por Renata Brandão Canella. Acesse em: https://diarinho.net/colunista/36</p>                <input onclick="javascript:window.location.href = 'tv.php?id=2769';" type="button" class="w3-button w3-round w3-red" value="Confira todos os vídeos">
+            </div>
+            <br>
+            <br>
+                        <script>
+                /*
+                 * Light YouTube Embeds by @labnol
+                 * Credit: https://www.labnol.org/
+                 */
+
+                function labnolIframe(div) {
+                  var iframe = document.createElement('iframe');
+                  iframe.setAttribute(
+                    'src',
+                    'https://www.youtube.com/embed/ODybfBy2ezY'
+                  );
+                  iframe.setAttribute('frameborder', '0');
+                  iframe.setAttribute('allowfullscreen', '1');
+                  iframe.setAttribute(
+                    'allow',
+                    'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
+                  );
+                  div.parentNode.replaceChild(iframe, div);
+                }
+
+                function initYouTubeVideos() {
+                  var playerElements = document.getElementsByClassName('youtube-player');
+                  for (var n = 0; n < playerElements.length; n++) {
+                    var videoId = playerElements[n].dataset.id;
+                    var div = document.createElement('div');
+                    div.setAttribute('data-id', videoId);
+                    var thumbNode = document.createElement('img');
+                    thumbNode.src = 'https://i.ytimg.com/vi/ODybfBy2ezY/hqdefault.jpg';
+                    thumbNode.alt = 'Miniatura do vídeo';
+                    div.appendChild(thumbNode);
+                    var playButton = document.createElement('div');
+                    playButton.setAttribute('class', 'play');
+                    div.appendChild(playButton);
+                    div.onclick = function () {
+                      labnolIframe(this);
+                    };
+                    playerElements[n].appendChild(div);
+                  }
+                }
+
+                document.addEventListener('DOMContentLoaded', initYouTubeVideos);
+            </script>
+            
+            <script defer="" src="/js/mediaelement/build/mediaelement-and-player.min.js"></script>
+            <link rel="stylesheet" href="/js/mediaelement/build/mediaelementplayer.min.css">
+            
+            <div class="w3-light-gray w3-padding">
+                <h4 class="secoes">Podcast</h4>
+                <a href="/podcast/1777" style="text-decoration: none;">
+                <h1 class="leiamais">Moradores denunciam “nova Cracolândia” na rua Tijucas  </h1>
+                <img alt="Moradores denunciam “nova Cracolândia” na rua Tijucas  " loading="lazy" src="/podcasts/202501/678595042cf11.png" style="margin-bottom: 15px; margin-top: 5px; width:100%;">
+                </a>
+                <audio width="100%" id="player_lateral">
+                    <source type="audio/mpeg" src="/podcasts/202501/202501_6785950455776.mp3">
+                </audio>
+                <p class="datas_interno"> Publicado 13/01/2025 19:34 </p>
+                
+                <input onclick="javascript:window.location.href = 'podcast.php?id=1777';" type="button" class="w3-button w3-round w3-red" value="Confira todos os podcasts">
+            </div>
+            
+            <br>
+            <script>
+        		function playerAudio() {
+                    console.log('PlayerAudioloaded');
+                    var secondsToWait = 3;
+                
+                    setTimeout(function() {
+                    	var midia = document.getElementById('player_lateral');
+                        new MediaElementPlayer(midia, {
+                        success: function(mediaElement, originalNode) {}
+                        });
+                    }, secondsToWait * 1000);
+              }
+              window.addEventListener("DOMContentLoaded", playerAudio);
+            </script>
+            <br>
+            
+            <h4 class="secoes">Especiais</h4>
+            
+                        <a href="/materia/658705/---Nao-tem-de-haver-dialogo-com-os-militares--tem-de-haver-comando-----diz-pesquisador" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="“Não tem de haver diálogo com os militares, tem de haver comando”, diz pesquisador" loading="lazy" src="/fotos/202501/200_677ee52fa9775.png" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">ATOS GOLPISTAS</h2>
+                <h1 class="leiamais">“Não tem de haver diálogo com os militares, tem de haver comando”, diz pesquisador</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658504/Dose-extra-de-energia-esta-prevista-pelos-astros-em-2025" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Dose extra de energia está prevista pelos astros em 2025" loading="lazy" src="/fotos/202412/200_6771e4014ad15.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">Previsões  </h2>
+                <h1 class="leiamais">Dose extra de energia está prevista pelos astros em 2025</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658428/O-ultimo-verao-do-Belvedere--balada-vai-dar-lugar-a-hotel-6-estrelas-" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="O último verão do Belvedere: balada vai dar lugar a hotel 6 estrelas " loading="lazy" src="/fotos/202412/200_676d8f3c23376.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">praia brava </h2>
+                <h1 class="leiamais">O último verão do Belvedere: balada vai dar lugar a hotel 6 estrelas </h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658426/Itajai-ganha-cinema-com-poltronas-reclinaveis--snacks--sobremesas-e-espumante-" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Itajaí ganha cinema com poltronas reclináveis, snacks, sobremesas e espumante " loading="lazy" src="/fotos/202412/200_676d8e5672279.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">VIP </h2>
+                <h1 class="leiamais">Itajaí ganha cinema com poltronas reclináveis, snacks, sobremesas e espumante </h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/658425/Barra-Velha-lanca-catalogo-ilustrado-do-Parque-Caminho-do-Peabiru" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Barra Velha lança catálogo ilustrado do Parque Caminho do Peabiru" loading="lazy" src="/fotos/202412/200_676d8d87ddcd6.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">PROJETO INÉDITO</h2>
+                <h1 class="leiamais">Barra Velha lança catálogo ilustrado do Parque Caminho do Peabiru</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <br>
+            <br>
+            
+            <h4 class="secoes">Blogs</h4>
+            
+                        <a href="blog_detalhe.php?blog=5&amp;id=9321" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Jorginho dá rasante na city pexêra " loading="lazy" src="/fotos_blogueiros/5_65c2a74667144.jpeg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Blog do JC</h2>
+                        <h1 class="leiamais">Jorginho dá rasante na city pexêra </h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=1&amp;id=9318" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Campeonato Presencial de E-Sports é destaque no fim do mês" loading="lazy" src="/fotos_blogueiros/1_5ff649e4bbf3e.jpg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">A bordo do esporte</h2>
+                        <h1 class="leiamais">Campeonato Presencial de E-Sports é destaque no fim do mês</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=4&amp;id=9310" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="É hoje..." loading="lazy" src="/fotos_blogueiros/4_5ff64a201082f.jpg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Blog da Jackie</h2>
+                        <h1 class="leiamais">É hoje...</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=2&amp;id=9299" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Quer entrar 2025 com detox e energia?" loading="lazy" src="/fotos_blogueiros/2_5ff64a011e156.jpg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Blog da Ale Francoise</h2>
+                        <h1 class="leiamais">Quer entrar 2025 com detox e energia?</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=7&amp;id=9067" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Folianópolis 2024 revela grade de programação para cada noite da micareta" loading="lazy" src="/fotos_blogueiros/7_604a534c2acd3.jpeg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Blog do Ton</h2>
+                        <h1 class="leiamais">Folianópolis 2024 revela grade de programação para cada noite da micareta</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=9&amp;id=9019" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Folianópolis: tá chegando a maior micareta do sul do Brasil" loading="lazy" src="/fotos_blogueiros/9_643460b88f51e.png" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Gente &amp; Notícia</h2>
+                        <h1 class="leiamais">Folianópolis: tá chegando a maior micareta do sul do Brasil</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=3&amp;id=8046" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Como parcelar o IPVA de forma rápida e segura" loading="lazy" src="/fotos_blogueiros/3_5ff64a107cd26.jpeg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Blog Doutor Multas</h2>
+                        <h1 class="leiamais">Como parcelar o IPVA de forma rápida e segura</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=6&amp;id=6170" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Pirâmides Sagradas - Grão Pará SC I" loading="lazy" src="/fotos_blogueiros/6_6001e498eb564.jpg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Blog Clique Diário</h2>
+                        <h1 class="leiamais">Pirâmides Sagradas - Grão Pará SC I</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <a href="blog_detalhe.php?blog=8&amp;id=5624" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                                    <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                        <img alt="Grupo Risco circula repertório pelo interior do Estado" loading="lazy" src="/fotos_blogueiros/8_604a6c5d1ee86.jpg" style="width:100%">
+                    </div>
+                    <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                        <h2 class="cartola_terciaria" style="line-height: 90%;">Bastidores</h2>
+                        <h1 class="leiamais">Grupo Risco circula repertório pelo interior do Estado</h1>
+                    </div>
+                            </div>   
+            </a>
+            
+                        <br>
+            <br>
+            
+            <h4 class="secoes">Entrevistão</h4>
+            
+                        <a href="/materia/657251/---Em-Itajai--eu-nao-vejo-ninguem-bater-no-peito-e-dizer--eu-sou-peixeiro-----analisava-seu-Reynaldo-ao-Entrevistao-em-2013" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="“Em Itajaí, eu não vejo ninguém bater no peito e dizer: eu sou peixeiro”, analisava seu Reynaldo ao Entrevistão em 2013" loading="lazy" src="/fotos/202411/200_6727f496f0d37.JPG" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">Reynaldo Wanderhec</h2>
+                <h1 class="leiamais">“Em Itajaí, eu não vejo ninguém bater no peito e dizer: eu sou peixeiro”, analisava seu Reynaldo ao Entrevistão em 2013</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/656375/ELEICOES-2024-Sabatina-com-os-candidatos-a-prefeito-de-Itajai" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Sabatina com os candidatos a prefeito de Itajaí" loading="lazy" src="/fotos/202409/200_66f9c321044b9.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">ENTREVISTÃO ELEIÇÕES 2024</h2>
+                <h1 class="leiamais">Sabatina com os candidatos a prefeito de Itajaí</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/656210/Sabatina-com-os-candidatos-a-prefeito-de-Balneario-Camboriu" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Sabatina com os candidatos a prefeito de Balneário Camboriú" loading="lazy" src="/fotos/202409/200_66ee26dec7096.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">ENTREVISTÃO ELEIÇÕES 2024</h2>
+                <h1 class="leiamais">Sabatina com os candidatos a prefeito de Balneário Camboriú</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        <a href="/materia/656035/Entrevistao-com-os-candidatos-a-prefeitura-de-Navegantes" style="text-decoration: none;">
+            <div class="w3-hover-text-red w3-border-bottom" style="padding-bottom:8px; padding-top:8px;">
+                        <div class="w3-cell w3-cell-top" style="width:30%; padding-right:0; padding-left:0;  padding-top:10px; padding-bottom:10px;">
+                <img alt="Entrevistão com os candidatos a prefeitura de Navegantes" loading="lazy" src="/fotos/202409/200_66e4c59ecf399.jpg" style="width:100%">
+            </div>
+            <div class="w3-cell w3-cell-top" style="padding-right:0; padding-left:15px; ">
+                <h2 class="cartola_terciaria" style="line-height: 90%;">ELEIÇÕES 2024</h2>
+                <h1 class="leiamais">Entrevistão com os candidatos a prefeitura de Navegantes</h1>
+            </div>
+                           
+            </div>
+            </a>
+            
+                        
+            <br>
+            <br>
+            
+            <h4 class="secoes">Hoje nas bancas</h4>
+            <a href="/capa/2025-01-14" style="text-decoration: none;">
+                <img alt="Capa de hoje" loading="lazy" src="/capa_impresso/202501/20250114.jpg" style="width:100%">
+            </a>
+            <br>
+            <a href="/flip" class="w3-button w3-round w3-red">Folheie o jornal aqui ❯</a>
+            <br>
+            <br>
+            
+            <!-- Início do anúncio -->
+            <div style="margin-left: auto; margin-right: auto; margin-bottom: 20px; max-width:100%; min-height:350px; display: flex; justify-content: center;">
+                <script src="https://diarinho.net/siga/anuncio.js?b813baa531b3f809974239a5d58665bb"></script> 
+            <div id="?b813baa531b3f809974239a5d58665bb"></div> 
+            </div>
+            <!-- Fim do anúncio -->
+            <br>
+            <br>
+            <br>     
+            
+        </div> 
+        
+    </div>
+        
+        
+            
+            
+            <!-- Início do anúncio pagina de conteudo - rodape -->
+            <script src="https://diarinho.net/siga/anuncio.js?9d12f960d10230e58b59845215fb23d1"></script>
+            <div style="margin-left: auto; margin-right: auto; margin-bottom: 40px; max-width:100%; min-height: 350px; display: flex; justify-content: center;">
+                <div id="?9d12f960d10230e58b59845215fb23d1"></div>
+            </div>
+            <!-- Fim do anúncio -->
+            <br>
+            <br>
+        
+            <!-- anuncio google horizontal -->
+            <div style="max-width: 728px; margin-left: auto; margin-top: 20px; margin-bottom: 20px; min-height: 350px; margin-right: auto;">
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3891620995351170" data-ad-slot="9097008629" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>   
+            
+        <style>
+    @media only screen and (max-width: 600px) {
+        ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: lightgray;
+            opacity: 1; /* Firefox */
+            text-align: center;
+        }
+
+        :-ms-input-placeholder { /* Internet Explorer 10-11 */
+            color: lightgray;
+            text-align: center;
+        }
+
+        ::-ms-input-placeholder { /* Microsoft Edge */
+            color: lightgray;
+            text-align: center;
+        }
+    }
+    @media only screen and (min-width: 992px) {
+        ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+            color: lightgray;
+            opacity: 1; /* Firefox */
+        }
+
+        :-ms-input-placeholder { /* Internet Explorer 10-11 */
+            color: lightgray;
+        }
+
+        ::-ms-input-placeholder { /* Microsoft Edge */
+            color: lightgray;
+        }
+    }
+</style>
+
+<div class="w3-cell-row w3-dark-gray rodape" style="width: 100%; padding-top: 20px; padding-bottom: 20px;">
+    <div class="w3-cell w3-container w3-mobile" style="width: 25%;">
+        <img loading="lazy" alt="Logo rodapé" src="/img/logo-white.png" style="width:200px">
+        <br>
+        <br>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/acompanhe">Acompanhe</a></p>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/anuncie">Anuncie</a></p>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/assine">Assine</a></p>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/conheca.php">Conheça o DIARINHO</a></p>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/fale">Fale Conosco</a></p>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/privacidade">Política de Privacidade</a></p>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/termos">Termos de Uso</a></p>
+                
+        <br>
+    </div>
+    <div class="w3-cell w3-container w3-mobile" style="width: 20%; border-left: 0.5px solid white;">
+        <h2 class="cartola_secundaria" style="color: gold;">Matérias</h2>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/18/ConteudosTematicos">Conteúdos Temáticos</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/12/Economia">Economia</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/8/Entrevistao">Entrevistão</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/5/Especial">Especial</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/4/Esporte">Esporte</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/15/FocanoFinde">Foca no Finde</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/1/Geral">Geral</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/14/NaEstrada">Na Estrada</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/2/Policia">Polícia</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/3/Politica">Política</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/16/RoledoDIARINHO">Rolê do DIARINHO</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/materia_lista/13/SobreRodas">Sobre Rodas</a></p>        <br>
+       
+    </div>
+    
+    
+    <div class="w3-cell w3-container w3-mobile" style="width: 30%; border-left: 0.5px solid white;">
+        <h2 class="cartola_secundaria" style="color: gold; margin-bottom: 17px;">Colunistas</h2>
+        <div style="column-count: 2; column-gap: 40px;">
+        <p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/45">Acontece SC</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/18">Artigos</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/46">Charge do Dia</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/27">Coluna Exitus na Política</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/29">Coluna do Ton</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/47">De olho no fisco</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/44">Diário do Investidor</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/36">Direito na mão</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/4">Esplanada</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/10">Fato&amp;Comentário</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/38">Ideal Mente</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/11">Jackie Rosa</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/1">JotaCê</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/39">Mundo Corporativo</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/26">Na Rede</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/6">Show de Bola</a></p><p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunista/8">Via Streaming</a></p>        <p class="w3-hover-text-yellow" style="color: white; margin-top: 0px;"><a style="text-decoration: none;" href="/colunistas/">Veja todos</a></p>
+        </div>
+        <br>
+    </div>
+    
+    
+   
+    <div class="w3-cell w3-container w3-mobile" style="width: 25%; border-left: 0.5px solid white;">
+        <h2 class="cartola_secundaria" style="color: gold;">Podcasts</h2>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/podcasts/1">Minuto DIARINHO</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/podcasts/6">Entrevistão do DIARINHO</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/podcasts/7">Balneário Camboriú em Foco</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/podcasts/14">Papo do dia</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/podcasts/15">DIARINHO Esporte Clube</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/podcasts/17">#tánoDIARINHO</a></p>        <br>
+        <h2 class="cartola_secundaria" style="color: gold;">Blogs</h2>
+        <p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/blog/1">A bordo do esporte</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/blog/2">Blog da Ale Francoise</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/blog/3">Blog Doutor Multas</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/blog/4">Blog da Jackie</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/blog/5">Blog do JC</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/blog/7">Blog do Ton</a></p><p class="w3-hover-text-yellow" style="color: white;"><a style="text-decoration: none;" href="/blog/9">Blog Gente &amp; Notícia</a></p>        <br>
+        <br>
+    </div>
+    
+</div>
+
+<!-- SendPulse formulario pop up 
+ <style >.sp-force-hide { display: none;}.sp-form[sp-id="231483"] { display: block; background: #ffffff; padding: 15px; width: 450px; max-width: 100%; border-radius: 8px; border-color: #dddddd; border-style: solid; border-width: 1px; font-family: Arial, "Helvetica Neue", sans-serif; background-repeat: no-repeat; background-position: center; background-size: auto;}.sp-form[sp-id="231483"] input[type="checkbox"] { display: inline-block; opacity: 1; visibility: visible;}.sp-form[sp-id="231483"] .sp-form-fields-wrapper { margin: 0 auto; width: 420px;}.sp-form[sp-id="231483"] .sp-form-control { background: #ffffff; border-color: #cccccc; border-style: solid; border-width: 1px; font-size: 15px; padding-left: 8.75px; padding-right: 8.75px; border-radius: 4px; height: 35px; width: 100%;}.sp-form[sp-id="231483"] .sp-field label { color: #444444; font-size: 13px; font-style: normal; font-weight: bold;}.sp-form[sp-id="231483"] .sp-button-messengers { border-radius: 4px;}.sp-form[sp-id="231483"] .sp-button { border-radius: 4px; background-color: #e32b40; color: #ffffff; width: auto; font-weight: 700; font-style: normal; font-family: Arial, sans-serif; box-shadow: none;}.sp-form[sp-id="231483"] .sp-button-container { text-align: left;}.sp-popup-outer { background: rgba(0, 0, 0, 0.5);}</style><div class="sp-form-outer sp-popup-outer sp-force-hide" style="background: rgba(0, 0, 0, 0.5);"><div id="sp-form-231483" sp-id="231483" sp-hash="4919698e56545e21c49de22ff5142295fd2bbffc48bfb1ec469357bf4aedc671" sp-lang="pt-br" class="sp-form sp-form-regular sp-form-popup" sp-show-options="%7B%22satellite%22%3Afalse%2C%22maDomain%22%3A%22login.sendpulse.com%22%2C%22formsDomain%22%3A%22forms.sendpulse.com%22%2C%22condition%22%3A%22onEnter%22%2C%22scrollTo%22%3A25%2C%22delay%22%3A20%2C%22repeat%22%3A3%2C%22background%22%3A%22rgba(0%2C%200%2C%200%2C%200.5)%22%2C%22position%22%3A%22bottom-right%22%2C%22animation%22%3A%22%22%2C%22hideOnMobile%22%3Afalse%2C%22submitRedirectUrl%22%3A%22%22%2C%22urlFilter%22%3Afalse%2C%22urlFilterConditions%22%3A%5B%7B%22force%22%3A%22hide%22%2C%22clause%22%3A%22contains%22%2C%22token%22%3A%22%22%7D%5D%2C%22analytics%22%3A%7B%22ga%22%3A%7B%22eventLabel%22%3A%22QUENTINHAS_PopUP_sem_confirmar%22%2C%22send%22%3Afalse%7D%7D%2C%22utmEnable%22%3Afalse%7D"><div class="sp-form-fields-wrapper"><button class="sp-btn-close ">&nbsp;</button><div class="sp-message"><div></div></div><form novalidate="" class="sp-element-container "><div class="sp-field sp-field-full-width " sp-id="sp-eb4af454-c43b-4de7-922c-3198d858baed"><div style="font-family: Arial, &quot;Helvetica Neue&quot;, sans-serif; line-height: 1.2;"><p style="text-align: center;"><span style="font-size: 20px; color: #800000;"><strong>Newsletter</strong></span></p></div></div><div class="sp-field " sp-id="sp-150c2773-abde-4536-b0ac-1f7d273d9943"><div style="font-family: inherit; line-height: 1.2;"><p style="text-align: center;"><span style="font-size: 16px;">Cadastre-se aqui para receber notícias do DIARINHO por e-mail</span></p></div></div><div class="sp-field " sp-id="sp-10cb5cf8-c5cb-4d66-afe4-95202d4b9621"><div class="sp-checkbox-option"><label><input type="checkbox" sp-type="gdprConfirm" name="sform[Z2RwckNvbmZpcm0=]" value="yes" sp-tips="%7B%22required%22%3A%22Campo%20obrigat%C3%B3rio%22%7D" class=" " required="required"><span >Receber e-mail diário com as notícias quentinhas</span>&nbsp;<span ><strong>*</strong></span></label></div></div><div class="sp-field " sp-id="sp-7e662a4a-cd81-44f7-bbde-e36f3c1661b1"><div class="sp-checkbox-option"><label><input type="checkbox" sp-type="gdprTerms" name="sform[Z2RwclRlcm1z]" value="yes" sp-tips="%7B%22required%22%3A%22Campo%20obrigat%C3%B3rio%22%7D" class=" " required="required"><span >Ao se inscrever, você concorda com nossos <a href="https://diarinho.net/privacidade/" target="_blank">Termos de Uso e Política de Privacidade</a>, incluindo o uso de cookies e o gerenciamento de suas informações pessoais pelo DIARINHO.</span>&nbsp;<span ><strong>*</strong></span></label></div></div><div class="sp-field " sp-id="sp-e568c634-c2ce-4cad-b88b-ba7c696a3d60"><label class="sp-control-label"><span >E-mail</span><strong >*</strong></label><input type="email" sp-type="email" name="sform[email]" class="sp-form-control " placeholder="nomedeusuário@email.com" sp-tips="%7B%22required%22%3A%22Campo%20obrigat%C3%B3rio%22%2C%22wrong%22%3A%22E-mail%20errado%22%7D" autocomplete="on" required="required"></div><div class="sp-field sp-button-container " sp-id="sp-1c344509-3ec4-4354-804e-5ec0f374b7ee"><button id="sp-1c344509-3ec4-4354-804e-5ec0f374b7ee" class="sp-button">Inscrever-se </button></div></form><div class="sp-link-wrapper sp-brandname__left "></div></div></div></div><script type="text/javascript" async="async" src="//web.webformscr.com/apps/fc3/build/default-handler.js?1714030486793"></script> 
+<!-- /SendPulse formulario pop up -->
+
+<!-- Início do anúncio pop up -->
+<script src="https://diarinho.net/siga/popup.js?3ce5a90a8f1fe4b547dda4bf15d9abea"></script> <div id="?3ce5a90a8f1fe4b547dda4bf15d9abea"></div> 
+<!--Fim do anúncio -->
+
+<!-- banner privacidade e cookies -->    
+<div id="cookie_privacidade" class="w3-red" style=" color: #fff; padding: 1.5em 1.8em; margin: 0 20px 20px; border-radius: 16px; left: 0; right: 0; bottom: 120px; font-size: 15px; line-height: 1.5em; position: fixed; box-sizing: border-box; display: none; flex-wrap: nowrap; align-items: center; flex-direction: row; z-index: 9999;">
+<span class="w3-text-white">Dando seu ok, você está de acordo com a nossa <a href="/privacidade" target="_blank" class="">Política de Privacidade</a> e com o uso dos cookies que nos permitem melhorar nossos serviços e recomendar conteúdos do seu interesse. </span>
+<div class="w3-margin-left"><button class="w3-button w3-round w3-amber" onclick="SetFormCookie()">&nbsp;OK&nbsp;</button></div>
+</div>
+
+<script>
+function GetFormCookie() {
+	//pega o cookie
+	privacidade_ok = getCookie("privacidade_ok");
+	
+	//se o cookie não existir, exibe o banner
+	if (privacidade_ok == null) {
+		document.getElementById("cookie_privacidade").style.display = "flex";
+	}
+}
+function SetFormCookie() {
+    const d = new Date();
+  	d.setTime(d.getTime() + (90*24*60*60*1000));
+	let expires = "expires="+ d.toUTCString();
+	document.cookie = "privacidade_ok" + "=" + "ok;" + expires + ";path=/";
+	document.getElementById("cookie_privacidade").style.display = "none";
+}
+
+//window.addEventListener("load", GetFormCookie, false);
+
+</script>
+<!-- banner privacidade e cookies -->
+
+<div align="center">
+        Jornal Diarinho ©2025 - Todos os direitos reservados.
+    </div> 
+        
+    </div>
+    
+    
+    
+    
+    
+    <script src="/js/galeria_imagem.js" type="text/javascript"></script>
+  <script>
+        //libera o botao do formulario de contato
+        function recaptchacontato(){
+            document.getElementById("btn_form").disabled = false;
+        }
+        
+        //libera o botao de cadastro apos preencher o recaptcha
+        function recaptchacadastro(){
+            document.getElementById("btncadastro").disabled = false;
+        }
+        
+        //libera o botao de login apos preencher o recaptcha
+        function recaptchalogin(){
+            document.getElementById("btnlogin").disabled = false;
+        }
+        
+        //abre popup para compartilhamento facebook e twitter
+        function windowPopup(url, width, height) {
+            // Calculate the position of the popup so
+            // it’s centered on the screen.
+            var left = (screen.width / 2) - (width / 2),
+                top = (screen.height / 2) - (height / 2);
+
+            window.open(
+              url,
+              "",
+              "menubar=no,toolbar=no,resizable=yes,scrollbars=yes,width=" + width + ",height=" + height + ",top=" + top + ",left=" + left
+            );
+        }
+        
+        
+        //alternar as DIVs do CPF e CNPJ
+        function ExibeCNPJ(){
+             var cnpj = document.getElementsByClassName("cnpj");
+             var cpf = document.getElementsByClassName("cpf");
+
+             for (i = 0; i < cnpj.length; i++) {
+                 cnpj[i].style.display = "block";
+             }
+             for (i = 0; i < cpf.length; i++) {
+                 cpf[i].style.display = "none";
+             }
+         }
+        
+        function ExibeCPF(){
+            var cnpj = document.getElementsByClassName("cnpj");
+            var cpf = document.getElementsByClassName("cpf");
+            
+            for (i = 0; i < cnpj.length; i++) {
+                cnpj[i].style.display = "none";
+            }
+            for (i = 0; i < cpf.length; i++) {
+                cpf[i].style.display = "block";
+            }
+        }
+        //alternar as DIVs do CPF e CNPJ
+        
+        
+        //verificar se o cpf já está no banco de dados
+        function validarCPF(objeto,cpf){
+            var ajax = new XMLHttpRequest();
+
+            // Seta tipo de requisição: Post e a URL da API
+            ajax.open("POST", "ajax_valida_form.php", true);
+            ajax.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
+            // Seta paramêtros da requisição e envia a requisição
+            ajax.send("cpf="+cpf);
+            // Cria um evento para receber o retorno.
+            ajax.onreadystatechange = function() {
+
+              // Caso o state seja 4 e o http.status for 200, é porque a requisiçõe deu certo.
+                    if (ajax.readyState == 4 && ajax.status == 200) {
+
+                            var data = ajax.responseText;
+
+                // Retorno do Ajax
+                            console.log(data);
+                            if (data !== ''){
+                                alert(data);
+                                objeto.value = null;
+                            }
+                    }
+            }
+
+        }
+        
+        //confere a estrutura do cpf para verificar se é um numero válido.
+        function validarCPF2(cpf)
+        {
+          var numeros, digitos, soma, i, resultado, digitos_iguais;
+          digitos_iguais = 1;
+          if (cpf.length != 11)
+                return false;
+          for (i = 0; i < cpf.length - 1; i++)
+                if (cpf.charAt(i) != cpf.charAt(i + 1))
+                      {
+                      digitos_iguais = 0;
+                      break;
+                      }
+          if (!digitos_iguais)
+                {
+                numeros = cpf.substring(0,9);
+                digitos = cpf.substring(9);
+                soma = 0;
+                for (i = 10; i > 1; i--)
+                      soma += numeros.charAt(10 - i) * i;
+                resultado = soma % 11 < 2 ? 0 : 11 - soma % 11;
+                if (resultado != digitos.charAt(0))
+                      return false;
+                numeros = cpf.substring(0,10);
+                soma = 0;
+                for (i = 11; i > 1; i--)
+                      soma += numeros.charAt(11 - i) * i;
+                resultado = soma % 11 < 2 ? 0 : 11 - soma % 11;
+                if (resultado != digitos.charAt(1))
+                      return false;
+                return true;
+                }
+          else
+              return false;
+        }
+        
+        
+        //verifica se o email ja está no BD
+        function validarEmail(objeto,email){
+            var ajax = new XMLHttpRequest();
+
+            // Seta tipo de requisição: Post e a URL da API
+            ajax.open("POST", "ajax_valida_form.php", true);
+            ajax.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
+            // Seta paramêtros da requisição e envia a requisição
+            ajax.send("email="+email);
+            // Cria um evento para receber o retorno.
+            ajax.onreadystatechange = function() {
+
+              // Caso o state seja 4 e o http.status for 200, é porque a requisiçõe deu certo.
+                    if (ajax.readyState == 4 && ajax.status == 200) {
+
+                            var data = ajax.responseText;
+
+                // Retorno do Ajax
+                            console.log(data);
+                            if (data !== ''){
+                                alert(data);
+                                objeto.value = null;
+                            }
+                    }
+            }
+
+        }
+        
+        
+        //verifica se o login ja existe
+        function validarLogin(objeto,login){
+            var ajax = new XMLHttpRequest();
+
+            // Seta tipo de requisição: Post e a URL da API
+            ajax.open("POST", "ajax_valida_form.php", true);
+            ajax.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
+            // Seta paramêtros da requisição e envia a requisição
+            ajax.send("login="+login);
+            // Cria um evento para receber o retorno.
+            ajax.onreadystatechange = function() {
+
+              // Caso o state seja 4 e o http.status for 200, é porque a requisiçõe deu certo.
+                    if (ajax.readyState == 4 && ajax.status == 200) {
+
+                            var data = ajax.responseText;
+
+                // Retorno do Ajax
+                            console.log(data);
+                            if (data !== ''){
+                                alert(data);
+                                objeto.value = null;
+                            }
+                    }
+            }
+
+        }
+        
+        //verifica se o CNPJ ja existe na BD
+        function validarCNPJ(objeto,cnpj){
+            var ajax = new XMLHttpRequest();
+
+            // Seta tipo de requisição: Post e a URL da API
+            ajax.open("POST", "ajax_valida_form.php", true);
+            ajax.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
+            // Seta paramêtros da requisição e envia a requisição
+            ajax.send("cnpj="+cnpj);
+            // Cria um evento para receber o retorno.
+            ajax.onreadystatechange = function() {
+
+              // Caso o state seja 4 e o http.status for 200, é porque a requisiçõe deu certo.
+                    if (ajax.readyState == 4 && ajax.status == 200) {
+
+                            var data = ajax.responseText;
+
+                // Retorno do Ajax
+                            console.log(data);
+                            if (data !== ''){
+                                alert(data);
+                                objeto.value = null;
+                            }
+                    }
+            }
+
+        }
+        
+        //validacao do cnpj para verificar se é valido
+        function validarCNPJ2(cnpj) {
+ 
+            cnpj = cnpj.replace(/[^\d]+/g,'');
+
+            if(cnpj == '') return false;
+
+            if (cnpj.length != 14)
+                return false;
+
+            // Elimina CNPJs invalidos conhecidos
+            if (cnpj == "00000000000000" || 
+                cnpj == "11111111111111" || 
+                cnpj == "22222222222222" || 
+                cnpj == "33333333333333" || 
+                cnpj == "44444444444444" || 
+                cnpj == "55555555555555" || 
+                cnpj == "66666666666666" || 
+                cnpj == "77777777777777" || 
+                cnpj == "88888888888888" || 
+                cnpj == "99999999999999")
+                return false;
+
+            // Valida DVs
+            tamanho = cnpj.length - 2
+            numeros = cnpj.substring(0,tamanho);
+            digitos = cnpj.substring(tamanho);
+            soma = 0;
+            pos = tamanho - 7;
+            for (i = tamanho; i >= 1; i--) {
+              soma += numeros.charAt(tamanho - i) * pos--;
+              if (pos < 2)
+                    pos = 9;
+            }
+            resultado = soma % 11 < 2 ? 0 : 11 - soma % 11;
+            if (resultado != digitos.charAt(0))
+                return false;
+
+            tamanho = tamanho + 1;
+            numeros = cnpj.substring(0,tamanho);
+            soma = 0;
+            pos = tamanho - 7;
+            for (i = tamanho; i >= 1; i--) {
+              soma += numeros.charAt(tamanho - i) * pos--;
+              if (pos < 2)
+                    pos = 9;
+            }
+            resultado = soma % 11 < 2 ? 0 : 11 - soma % 11;
+            if (resultado != digitos.charAt(1))
+                  return false;
+
+            return true;
+
+        }
+        
+        //cria máscara para CPF, CNPJ, CEP, TELEFONE
+        function mascara(o,f){
+            v_obj=o
+            v_fun=f
+            setTimeout("execmascara()",1)
+        }
+        function execmascara(){
+            if (v_fun == 'cpf'){
+                v_obj.value=cpf(v_obj.value)
+            }
+            if (v_fun == 'cnpj'){
+                v_obj.value=cnpj(v_obj.value)
+            }
+        }
+        function telefone(v){
+            v=v.replace(/\D/g,"")                 //Remove tudo o que não é dígito
+            v=v.replace(/^(\d\d)(\d)/g,"($1) $2") //Coloca parênteses em volta dos dois primeiros dígitos
+            v=v.replace(/(\d{4})(\d)/,"$1-$2")    //Coloca hífen entre o quarto e o quinto dígitos
+            return v
+        }
+        function cpf(v){
+            v=v.replace(/\D/g,"")                    //Remove tudo o que não é dígito
+            v=v.replace(/(\d{3})(\d)/,"$1.$2")       //Coloca um ponto entre o terceiro e o quarto dígitos
+            v=v.replace(/(\d{3})(\d)/,"$1.$2")       //Coloca um ponto entre o terceiro e o quarto dígitos
+                                                     //de novo (para o segundo bloco de números)
+            v=v.replace(/(\d{3})(\d{1,2})$/,"$1-$2") //Coloca um hífen entre o terceiro e o quarto dígitos
+            return v
+        }
+        function cnpj(v){
+            v=v.replace(/\D/g,"")                    //Remove tudo o que não é dígito
+            v=v.replace(/(\d{2})(\d{3})(\d{3})(\d{4})(\d{2})/g, "\$1.\$2.\$3/\$4-\$5");
+            return v
+        }
+        function cep(v){
+            v=v.replace(/D/g,"")                //Remove tudo o que não é dígito
+            v=v.replace(/^(\d{5})(\d)/,"$1-$2") //Esse é tão fácil que não merece explicações
+            return v
+        }
+        //cria máscara
+        
+        
+        //validacao final do formulário e envio caso OK
+        function enviaForm(){
+            var nome = document.getElementById("nome").value;
+            var cpf = document.getElementById("cpf").value;
+            cpf = cpf.replace(/[.]+/g, "");
+            cpf = cpf.replace("-", "");
+            var cnpj = document.getElementById("cnpj").value;
+            cnpj = cnpj.replace(/[.]+/g, "");
+            cnpj = cnpj.replace("-", "");
+            cnpj = cnpj.replace("/", "");
+            var email = document.getElementById("email").value;
+            var email2 = document.getElementById("email2").value;
+            var login = document.getElementById("login").value;
+            var senha = document.getElementById("senha").value;
+            var erro = false;
+            
+            document.getElementById("erronome").style.display = "none";
+            document.getElementById("errocpf").style.display = "none";
+            document.getElementById("errocnpj").style.display = "none";
+            document.getElementById("erroemail").style.display = "none";
+            document.getElementById("errologin").style.display = "none";
+            document.getElementById("errosenha").style.display = "none";
+            
+            document.getElementById("nome").style.backgroundColor = "";
+            document.getElementById("cpf").style.backgroundColor = "";
+            document.getElementById("cnpj").style.backgroundColor = "";
+            document.getElementById("email").style.backgroundColor = "";
+            document.getElementById("email2").style.backgroundColor = "";
+            document.getElementById("login").style.backgroundColor = "";
+            document.getElementById("senha").style.backgroundColor = "";
+            
+            
+            if ((nome.length < 3) || (nome.length > 150)){
+                document.getElementById("erronome").innerHTML = "Nome deve conter entre 3 e 150 caracteres!";
+                document.getElementById("erronome").style.display = "block";
+                document.getElementById("nome").style.backgroundColor = "#ffebeb";
+                
+                erro = true;
+            }
+            
+            if(document.getElementById("radiocpf").checked){
+                if (!validarCPF2(cpf)){
+                    document.getElementById("errocpf").innerHTML = "CPF Inválido!";
+                    document.getElementById("errocpf").style.display = "block";
+                    document.getElementById("cpf").style.backgroundColor = "#ffebeb";
+                    erro = true;
+                }
+            }
+            
+            if(document.getElementById("radiocnpj").checked){
+                if (!validarCNPJ2(cnpj)){
+                    document.getElementById("errocnpj").innerHTML = "CNPJ Inválido!";
+                    document.getElementById("errocnpj").style.display = "block";
+                    document.getElementById("cnpj").style.backgroundColor = "#ffebeb";
+                    erro = true;
+                }
+            }
+            
+            if (email != email2){
+                document.getElementById("erroemail").innerHTML = "Os dois endereços de e-mail informados não são iguais!";
+                document.getElementById("erroemail").style.display = "block";
+                document.getElementById("email").style.backgroundColor = "#ffebeb";
+                document.getElementById("email2").style.backgroundColor = "#ffebeb";
+                erro = true;
+            }
+            
+            if ((email.length < 5) || (email.length > 150)){
+                document.getElementById("erroemail").innerHTML = "E-mail inválido!";
+                document.getElementById("erroemail").style.display = "block";
+                document.getElementById("email").style.backgroundColor = "#ffebeb";
+                erro = true;
+            }
+            
+            if ((senha.length < 8) || (senha.length > 25) || !(/^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])/gm.test(senha))){
+                document.getElementById("errosenha").innerHTML = "Senha deve ter de 8 a 25 caracteres, conter pelo menos uma letra maiúscula, uma minúscula e um número!";
+                document.getElementById("errosenha").style.display = "block";
+                document.getElementById("senha").style.backgroundColor = "#ffebeb";
+                erro = true;
+            }
+            
+            if ((login.length < 4) || (login.length > 25) || (/^(?=.*[\{\}\[\]/\?\!'~`":;<>#$%ˆ&*+=\\|() ])/gm.test(login))){
+                document.getElementById("errologin").innerHTML = "Login deve ter de 4 a 25 caracteres, e pode conter somente letras, números e os caracetres - _ . ! ";
+                document.getElementById("errologin").style.display = "block";
+                document.getElementById("login").style.backgroundColor = "#ffebeb";
+                erro = true;
+            }
+            
+            if (erro == false){
+                document.getElementById("cadastro").submit();
+            }
+            
+        }
+        
+        
+            
+        //validacao do formulário de comentarios
+            function envia_comentario(){
+                var mensagem = document.getElementById("mensagem").value;
+                var erro = false;
+
+                document.getElementById("erromensagem").style.display = "none";
+
+                document.getElementById("mensagem").style.backgroundColor = "";
+
+                if ((mensagem.length < 5) || (mensagem.length > 1000)){
+                    caracteres = mensagem.length;
+                    document.getElementById("erromensagem").innerHTML = "Mensagem deve conter entre 5 e 1000 caracteres! Sua mensagem contém " + caracteres + " caracteres.";
+                    document.getElementById("erromensagem").style.display = "block";
+                    document.getElementById("mensagem").style.backgroundColor = "#ffebeb";
+                    document.getElementById("mensagem").focus();
+                    erro = true;
+                }
+                
+                if (erro == false){
+                    document.getElementById("formcomentario").submit();
+                }
+                else{
+                    alert("Erro ao validar as informações. Por favor, verifique os dados informados.");
+                }
+
+            }
+        
+        
+        //validacao do formulário de comentarios
+        function envia_form_contato(){
+            var texto = document.getElementById("texto").value;
+            var erro = false;
+
+            document.getElementById("errotexto").style.display = "none";
+            document.getElementById("texto").style.backgroundColor = "";
+            if ((texto.length < 5) || (texto.length > 1000)){
+                caracteres = texto.length;
+                document.getElementById("errotexto").innerHTML = "Texto deve conter entre 5 e 1000 caracteres! Sua mensagem contém " + caracteres + " caracteres.";
+                document.getElementById("errotexto").style.display = "block";
+                document.getElementById("texto").style.backgroundColor = "#ffebeb";
+                document.getElementById("texto").focus();
+                erro = true;
+            }
+
+            if (erro == false){
+                document.getElementById("btn_form").disabled = true;
+                document.getElementById("formulario_contato").submit();
+            }
+            else{
+                alert("Erro ao validar as informações. Por favor, verifique os dados informados.");
+            }
+
+        }
+        
+        
+        
+        
+        function chamarSIGA() {
+            var secondsToWait = 1;
+        
+            setTimeout(function() {
+                  var head = document.getElementsByTagName("head")[0];
+                  console.log("siga1");
+                  <!-- entre paragrafos -->
+                  var s1 = document.createElement("script");
+                  s1.type = "text/javascript";
+                  s1.src = "https://diarinho.net/siga/anuncio.js?" + "76157d852fb77bd1453561cf4b56a2bb";
+                  
+                  <!-- apos o texto -->
+                  //var s4 = document.createElement("script");
+                  //s4.type = "text/javascript";
+                  //s4.src = "https://diarinho.net/siga/anuncio.js?4dde34136e561fbbdcb2bff98d94a3fd";
+                  
+                  <!-- rodape -->
+                  var s5 = document.createElement("script");
+                  s5.type = "text/javascript";
+                  s5.src = "https://diarinho.net/siga/anuncio.js?" + "9d12f960d10230e58b59845215fb23d1";            
+                  
+                  head.appendChild(s1);
+                  //head.appendChild(s4);
+                  head.appendChild(s5);
+            }, secondsToWait * 1000); //tempo em ms
+      	}
+      	//window.addEventListener("DOMContentLoaded", chamarSIGA);
+        
+        
+        
+        function chamarScriptsSecundarios(){
+        
+            setTimeout(function() {
+                      var head = document.getElementsByTagName("head")[0];
+                      
+                          
+                      <!-- Banner unimed -->
+                      console.log('Unimed');
+                      var u1 = document.createElement("script");
+                      u1.type = "text/javascript";
+                      u1.src = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
+                      var u2 = document.createElement("script");
+                      u2.type = "text/javascript";
+                      u2.src = "/js/unimed.js";
+                      
+                      <!-- PremiumADS -->
+                      console.log('Premium');
+                      var u3 = document.createElement("script");
+                      u3.type = "text/javascript";
+                      u3.src = "https://tags.premiumads.com.br/dfp/db772ac8-a518-40f2-843e-cab35ccb27ba";    
+                          
+                      head.appendChild(u1);
+                      head.appendChild(u2);
+                      head.appendChild(u3);    
+                          
+                                            
+                      
+                      <!-- Login com google -->
+                      console.log('LoginGoogle');
+                      var u4 = document.createElement("script");
+                      u4.type = "text/javascript";
+                      u4.src = "https://accounts.google.com/gsi/client";
+                      
+                      <!-- Recaptcha -->
+                      console.log('RecaptchaGoogle');
+                      var u5 = document.createElement("script");
+                      u5.type = "text/javascript";
+                      u5.src = "https://www.google.com/recaptcha/api.js";
+                      
+                      
+                      
+                      head.appendChild(u4);
+                      head.appendChild(u5);
+            }, 2500); //tempo em ms
+        
+        }
+        
+        
+        rolagem=false;
+        
+        function carregaScripts(){
+            if (rolagem==false){
+            	
+            	//chamarSIGA();
+            	chamarScriptsSecundarios();
+            	
+            	rolagem = true;
+            }
+        }
+    
+    	window.addEventListener("scroll", carregaScripts);
+        
+        
+        
+        </script>      
+    	
+    	<!-- Taboola -->
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({flush: true});
+        </script>
+        <!-- Taboola -->
+        
+    
+</body></html>

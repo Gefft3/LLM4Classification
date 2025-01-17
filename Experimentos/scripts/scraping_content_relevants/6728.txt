@@ -1,0 +1,977 @@
+<html lang="pt-br"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="description" content="Caminhada da Saúde em prol do enfrentamento de doenças crônicas mobiliza população da capital e interior">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.se.gov.br//noticias/saude/caminhada_da_saude_em_prol_do_enfrentamento_de_doencas_cronicas_mobiliza_populacao_da_capital_e_interior">
+    <meta property="og:site_name" content="Governo de Sergipe">
+
+        <meta property="og:image" itemprop="image primaryImageOfPage" content="https://www.se.gov.br/anexos/uploads/image/image/324079/mobile_e79890993018f8222e90783249f1fc9e.jpg">
+    
+    <title>Governo de Sergipe</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_geral.css">
+    <link rel="stylesheet" type="text/css" href="https://www.se.gov.br/frontend/css/style_noticia.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+
+<body>
+
+    <!-- DESKTOP -->
+<section class="d-none d-md-block">
+    <div id="topo" class="container mb-5">
+        <div class="row">
+
+            <div class="col-3">
+                <a href="https://www.se.gov.br">
+                    <img src="https://www.se.gov.br/frontend/img/logo1_branco.png" class="img-fluid logo">
+                </a>
+                <div class="progress-stacked">
+                    <div class="progress" role="progressbar" aria-label="Segment one" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+                        <div class="progress-bar" style="background-color: #008acb;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment two" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #7bb52c;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment three" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #ffb400;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-9">
+
+                <div class="row">
+
+                    <div id="acessibilidade" class="col-6 offset-6 mt-3 text-end">
+                        <div class="col-12 mt-2 mb-3">
+                            <a href="https://twitter.com/governosergipe" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/twitter.png" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.instagram.com/governosergipe" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/instagram.svg" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.facebook.com/governodesergipe" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/facebook.svg" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.youtube.com/@governodesergipeoficial" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/youtube.svg" width="35px">
+                            </a>
+                            &nbsp; &nbsp;
+                            <a href="https://www.tiktok.com/@governodesergipe?_t=8cZ7VEN0rcD&amp;_r=1" target="_blank">
+                                <img src="https://www.se.gov.br/frontend/img/tiktok2.png" width="35px">
+                            </a>
+                            &nbsp; &nbsp; &nbsp;
+
+                            <button id="btnAumentar" class="botao" title="Aumentar a fonte" onclick="btn_aumentar()">A+</button>
+
+                            <button id="btnDiminuir" class="botao" title="Diminuir a fonte" onclick="btn_diminuir()">A-</button>
+
+                            <button class="botao" title="Tema Cinza" onclick="tom_cinza()"> <i class="fa fa-bullseye" aria-hidden="true"></i> </button>
+
+                            <button class="botao" title="Tema Contraste" onclick="perfil_contraste()"> <i class="fa fa-adjust"></i> </button>
+                        </div>
+
+                        <div class="col-8 offset-4">
+                            <form role="form" action="https://www.se.gov.br/pesquisa" method="post">
+                                <input type="hidden" name="_token" value="4Ak9KbdzGszXKg5SBGzpFRU4xFvHxDYawiCRUR3g" autocomplete="off">
+                                <div id="form-pesquisa" class="input-group input-group-sm mb-3">
+                                    <div class="input-group input-group-sm mb-3">
+                                        <button class="btn btn-outline-secondary" type="submit" id="button-addon1"><i class="fas fa-search"></i></button>
+                                        <input type="text" class="form-control" name="pesq" placeholder="O que você procura?" aria-label="Example text with button addon" aria-describedby="button-addon1" autofocus="">
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div id="menu_topo" class="col-12 text-end">
+                        <ul class="nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br">Início</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/governo">Governo</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/secretarias">Secretarias</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/orgaos_entidades">Orgãos e entidades</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/noticias">Notícias do Governo</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.se.gov.br/noticias/governo/feriados_2025">Feriados</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" href="">Multimídia</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/imagens"> Imagens </a></li>
+                                    <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/videos"> Vídeos </a></li>
+                                    <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/audios"> Áudios </a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.ouvidoria.se.gov.br/index" target="_blank">Ouvidoria</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- MOBILE -->
+<section class="d-block d-md-none">
+
+    <!-- menu_mobile -->
+    <nav class="navbar fixed-top">
+        <div class="container-fluid">
+
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation" style="background-color: #eee;">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">GOVERNO DE SERGIPE</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br">Início</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/governo">Governo</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/secretarias">Secretarias</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/orgaos_entidades">Orgãos e entidades</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/noticias">Notícias do Governo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.se.gov.br/noticias/governo/feriados_2025">Feriados</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" href="">Multimídia</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/imagens"> Imagens </a></li>
+                                <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/videos"> Vídeos </a></li>
+                                <li><a class="dropdown-item" href="https://www.se.gov.br/multimidia/audios"> Áudios </a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.ouvidoria.se.gov.br/index" target="_blank">Ouvidoria</a>
+                        </li>
+                    </ul>
+
+                    <form class="d-flex mt-3" role="search" action="https://www.se.gov.br/pesquisa" method="post">
+                        <input type="hidden" name="_token" value="4Ak9KbdzGszXKg5SBGzpFRU4xFvHxDYawiCRUR3g" autocomplete="off">
+                        <input class="form-control form-control-sm me-2" type="search" placeholder="O que você procura?" aria-label="Search" name="pesq">
+                        <button class="btn btn-sm btn-outline-success" type="submit">Pesquisar</button>
+                    </form>
+
+                </div>
+            </div>
+
+
+        </div>
+    </nav>
+
+
+    <div id="topo_mobile" class="container">
+        <div class="row">
+
+            <div class="col-8 offset-2">
+                <a href="https://www.se.gov.br">
+                    <img src="https://www.se.gov.br/frontend/img/logo1_branco.png" class="img-fluid logo">
+                </a>
+                <div class="progress-stacked">
+                    <div class="progress" role="progressbar" aria-label="Segment one" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+                        <div class="progress-bar" style="background-color: #008acb;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment two" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #7bb52c;"></div>
+                    </div>
+                    <div class="progress" role="progressbar" aria-label="Segment three" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                        <div class="progress-bar" style="background-color: #ffb400;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-8 offset-2 mt-3 text-center">
+                <div class="col-12 mt-2 mb-4">
+                    <a href="https://twitter.com/governosergipe" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/twitter.svg" width="35px">
+                    </a>
+                    &nbsp; &nbsp;
+                    <a href="https://www.instagram.com/governosergipe" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/instagram.svg" width="35px">
+                    </a>
+                    &nbsp; &nbsp;
+                    <a href="https://www.facebook.com/governodesergipe" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/facebook.svg" width="35px">
+                    </a>
+                    &nbsp; &nbsp;
+                    <a href="https://www.youtube.com/@governodesergipeoficial" target="_blank">
+                        <img src="https://www.se.gov.br/frontend/img/youtube.svg" width="35px">
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+<!--
+<div class="container mb-4">
+  <div class="row">
+    <div class="col-md-12">
+      <a href="https://www.se.gov.br/noticias/sergipe-pais-do-forro/governo_de_sergipe_inicia_credenciamento_de_imprensa_para_o_arraia_do_povo_2024-1" target="_blank">
+      <img src="https://www.se.gov.br/anexos/uploads/download/midia/251/fe33879930ed2729cd2cd735cbfed04f.png"
+           id="corona" class="w-100 rounded d-none d-sm-block" alt="sergipe_pais_do_forro">
+      </a>
+    </div>
+  </div>
+</div>
+-->
+
+    <div id="noticia_single">
+
+                <div class="bg_azul_escuro pt-3">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-10 offset-1 pb-3 text-center">
+        <div class="text_branco text_bold d-none d-md-block" style="font-size: 5.5vw">Notícias</div>
+        <div class="text_branco text_bold d-block d-md-none" style="font-size: 15.0vw">Notícias</div>
+      </div>
+      <div class="col-6 offset-3">
+        <div class="progress-stacked">
+          <div class="progress" role="progressbar" aria-label="Segment one" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+            <div class="progress-bar" style="background-color: #008acb;"></div>
+          </div>
+          <div class="progress" role="progressbar" aria-label="Segment two" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+            <div class="progress-bar" style="background-color: #7bb52c;"></div>
+          </div>
+          <div class="progress" role="progressbar" aria-label="Segment three" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+            <div class="progress-bar" style="background-color: #ffb400;"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        <div class="container">
+            <div class="row mb-5">
+
+                <div class="col-md-9">
+
+                    <div class="mb-4">Domingo, 26 de Novembro de 2023 às 06:30:00</div>
+                    <div class="mb-4 text_28 text_cinza text_bold">Caminhada da Saúde em prol do enfrentamento de doenças crônicas mobiliza população da capital e interior</div>
+                    <div class="text_18 text_cinza"> <i>Ação contou com público de todas as idades e levou cerca de duas mil pessoas para a Orla da Atalaia neste sábado, 25</i> </div>
+
+                                        <div class="d-none d-md-block">
+                        <a href="https://www.se.gov.br/anexos/uploads/image/image/324079/slide_e79890993018f8222e90783249f1fc9e.jpg" data-fancybox="gallery" data-caption="Fotos: Flávia Pacheco e Mário Sousa" data-src="https://www.se.gov.br/anexos/uploads/image/image/324079/slide_e79890993018f8222e90783249f1fc9e.jpg" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+
+                            <div class="mb-0" style="
+                                background-image: url('https://www.se.gov.br/anexos/uploads/image/image/324079/slide_e79890993018f8222e90783249f1fc9e.jpg');
+                                height: 550px;
+                                background-repeat: no-repeat;
+                                background-size: 100%;
+                                background-position: center;
+                            ">
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="d-bock d-md-none">
+                        <div class="mt-4 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324079/slide_e79890993018f8222e90783249f1fc9e.jpg" data-fancybox="gallery" data-caption="Fotos: Flávia Pacheco e Mário Sousa" data-src="https://www.se.gov.br/anexos/uploads/image/image/324079/slide_e79890993018f8222e90783249f1fc9e.jpg" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324079/slide_e79890993018f8222e90783249f1fc9e.jpg" class="img-fluid" alt="Fotos: Flávia Pacheco e Mário Sousa" style="border-radius:0; z-index: 9999;">
+                            </a>
+                        </div>
+                    </div>
+                    
+                    <div class="container5">
+                        <div class="photo-gallery">
+
+                                                                                                                                                                                                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324078/fc16e36950ae2b63058b7b44baadbe59.jpg" data-fancybox="gallery" data-caption="Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324078/mobile_fc16e36950ae2b63058b7b44baadbe59.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                                                                <a href="https://www.se.gov.br/anexos/uploads/image/image/324080/e99e981f0a4ea3fc03876e254db93f59.jpg" data-fancybox="gallery" data-caption="Presidente da Sociedade Brasileira de Diabetes/Regional e diretor técnico do Centro de Diabetes de Sergipe, Raimundo Sotero de Menezes Filho | Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Presidente da Sociedade Brasileira de Diabetes/Regional e diretor técnico do Centro de Diabetes de Sergipe, Raimundo Sotero de Menezes Filho | Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324080/mobile_e99e981f0a4ea3fc03876e254db93f59.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                                                                <a href="https://www.se.gov.br/anexos/uploads/image/image/324081/1bcb9b37e30853eed8c981f76ddb73f7.jpg" data-fancybox="gallery" data-caption="Júlia dos Santos, de 79 anos | Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Júlia dos Santos, de 79 anos | Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324081/mobile_1bcb9b37e30853eed8c981f76ddb73f7.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                                                                <a href="https://www.se.gov.br/anexos/uploads/image/image/324082/d85a5d9707fe81dc2d05d21726228587.jpg" data-fancybox="gallery" data-caption="Jovina Barbosa dos Santos, de 65 anos | Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Jovina Barbosa dos Santos, de 65 anos | Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324082/mobile_d85a5d9707fe81dc2d05d21726228587.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                                                                <a href="https://www.se.gov.br/anexos/uploads/image/image/324083/c39fc6e05a8e9c06d3a0a3e1b2bb2187.jpg" data-fancybox="gallery" data-caption="Eribaldo Alves de Santana, de 61 anos | Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Eribaldo Alves de Santana, de 61 anos | Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324083/mobile_c39fc6e05a8e9c06d3a0a3e1b2bb2187.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                                                                <a href="https://www.se.gov.br/anexos/uploads/image/image/324084/5a70fbd19e40ffc8f7eb49519976b688.jpg" data-fancybox="gallery" data-caption="Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324084/mobile_5a70fbd19e40ffc8f7eb49519976b688.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                                                                <a href="https://www.se.gov.br/anexos/uploads/image/image/324085/a5db59c0f78ebe9d17e29e6a135ab968.jpg" data-fancybox="gallery" data-caption="Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324085/mobile_a5db59c0f78ebe9d17e29e6a135ab968.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                                                                <a href="https://www.se.gov.br/anexos/uploads/image/image/324086/f49b455e64925b2d13fa7d24e4b41288.jpg" data-fancybox="gallery" data-caption="Fotos: Flávia Pacheco e Mário Sousa" data-options="{&quot;buttons&quot;: [&quot;download&quot;, &quot;close&quot;], &quot;caption&quot;: &quot;Fotos: Flávia Pacheco e Mário Sousa&quot;}">
+                                            <img src="https://www.se.gov.br/anexos/uploads/image/image/324086/mobile_f49b455e64925b2d13fa7d24e4b41288.jpg" alt="Foto 1">
+                                        </a>
+                                                                                                
+                        </div>
+                    </div>
+                    <br>
+
+                    <style type="text/css">
+                        .container5 {
+                            width: 100%;
+                            height: 100px;
+                            overflow-x: auto;
+                        }
+
+                        .photo-gallery {
+                            display: flex;
+                            flex-direction: row;
+                            gap: 10px;
+                            padding: 10px;
+                        }
+
+                        .photo-gallery img {
+                            width: 100px;
+                            height: auto;
+                        }
+                    </style>
+
+                    <div class="texto mb-4">
+
+                        
+                        
+                        
+                        <p>Saúde sempre em primeiro lugar. A Secretaria de Estado da Saúde (SES), em parceria com Secretaria de Estado da Assistência Social e Cidadania (Seasc), promoveu neste sábado, 25, a Caminhada Circuito Integrado da Saúde, campanha de enfrentamento a Doenças e Agravos Não Transmissíveis (Dant), com o tema 'Sua saúde é o reflexo do seu estilo de vida'. A Carreta do Homem e a Unidade Móvel 'Fique Sabendo' estiveram presentes no evento, realizando exames e testes rápidos de HIV, sífilis e hepatites B e C.</p>
+
+<p>Segundo o secretário da Saúde, Walter Pinheiro, a ação teve o intuito de mobilizar esforços com foco na promoção da saúde, objetivando a sensibilização da população em geral sobre a temática. "Estamos dentro de um contexto bastante atual do cuidado com a saúde e com a qualidade de vida. A ação faz muito sentido, porque estamos abordando doenças como a obesidade, diabetes e hipertensão arterial e, sem dúvida, elas impactam na saúde do mundo inteiro. Nessa perspectiva de prevenção, estamos construindo cada vez mais uma saúde qualificada e de fácil acesso à população", disse o secretário.</p>
+
+<p>A caminhada, que partiu do farol da Orla da Atalaia em direção ao estacionamento da Cinelândia, foi planejada pela Diretoria de Atenção Primária à Saúde (Daps). Segundo o diretor da Daps, Luan Araújo, o objetivo da ação foi sensibilizar a população para mudanças no estilo de vida para prevenir doenças crônicas. "O circuito integrado da saúde nos deixou muito felizes pela participação efetiva dos grupos de diabéticos, tanto do município de Aracaju, quanto do interior. A sensação é de dever cumprido, fazer com que a nossa Atenção Primária desempenhe o seu papel, enquanto porta de entrada do cuidado", considerou.</p>
+
+<p>De acordo com o presidente da Sociedade Brasileira de Diabetes/Regional e diretor técnico do Centro de Diabetes de Sergipe, Raimundo Sotero de Menezes Filho, essa caminhada é a maior do Brasil, quando se fala de prevenção contra o diabetes. "Já realizamos outras caminhadas, mas esta é a primeira que temos o apoio do Governo do Estado, por meio da SES. Isso facilita muito a adesão da população. Conseguimos fazer uma movimentação na cidade de muito sucesso para que as pessoas acreditem que diabetes é um problema de saúde pública e que pode ser, sim, corrigido, controlado e equilibrado", explicou o médico.</p>
+
+<p>As Doenças e Agravos Não Transmissíveis (DANT) são responsáveis por mais da metade do total de mortes no Brasil, com destaque para os quatro grupos de causas de morte enfocadas pela Organização Mundial da Saúde (OMS), que são as doenças respiratórias crônicas, diabetes, câncer e doenças cardiovasculares.</p>
+
+<p><strong>População</strong></p>
+
+<p>Júlia dos Santos, de 79 anos, é hipertensa, mas toma muito cuidado com a sua saúde. "Eu me descobri hipertensa muito jovem. Desde então me cuido, tomo a medicação e tenho uma rotina de exercícios para o bem da minha saúde. Não é porque eu já tenho, que eu não vou me cuidar. Essa ação é importantíssima, estão de parabéns!, reconheceu.</p>
+
+<p>Já para dona Jovina Barbosa dos Santos, de 65 anos, foi a primeira vez que participou de uma caminhada e se disse muito animada com a iniciativa. "Eu sou diabética e meu médico sempre me indicou a atividade física, só que eu nunca fiz. Hoje tomei coragem, chamei minhas amigas e adorei a experiência. Foi muito divertido e estou me sentindo ótima. Esta é a primeira vez de muitas", comprometeu-se.</p>                    </div>
+
+                    <!--<div class="row mb-4">
+                                                                        <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324079/slide_e79890993018f8222e90783249f1fc9e.jpg" data-fancybox="images" data-caption="Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324079/mobile_e79890993018f8222e90783249f1fc9e.jpg" class="card-img" alt="Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324078/slide_fc16e36950ae2b63058b7b44baadbe59.jpg" data-fancybox="images" data-caption="Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324078/mobile_fc16e36950ae2b63058b7b44baadbe59.jpg" class="card-img" alt="Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324080/slide_e99e981f0a4ea3fc03876e254db93f59.jpg" data-fancybox="images" data-caption="Presidente da Sociedade Brasileira de Diabetes/Regional e diretor técnico do Centro de Diabetes de Sergipe, Raimundo Sotero de Menezes Filho | Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324080/mobile_e99e981f0a4ea3fc03876e254db93f59.jpg" class="card-img" alt="Presidente da Sociedade Brasileira de Diabetes/Regional e diretor técnico do Centro de Diabetes de Sergipe, Raimundo Sotero de Menezes Filho | Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324081/slide_1bcb9b37e30853eed8c981f76ddb73f7.jpg" data-fancybox="images" data-caption="Júlia dos Santos, de 79 anos | Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324081/mobile_1bcb9b37e30853eed8c981f76ddb73f7.jpg" class="card-img" alt="Júlia dos Santos, de 79 anos | Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324082/slide_d85a5d9707fe81dc2d05d21726228587.jpg" data-fancybox="images" data-caption="Jovina Barbosa dos Santos, de 65 anos | Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324082/mobile_d85a5d9707fe81dc2d05d21726228587.jpg" class="card-img" alt="Jovina Barbosa dos Santos, de 65 anos | Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324083/slide_c39fc6e05a8e9c06d3a0a3e1b2bb2187.jpg" data-fancybox="images" data-caption="Eribaldo Alves de Santana, de 61 anos | Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324083/mobile_c39fc6e05a8e9c06d3a0a3e1b2bb2187.jpg" class="card-img" alt="Eribaldo Alves de Santana, de 61 anos | Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324084/slide_5a70fbd19e40ffc8f7eb49519976b688.jpg" data-fancybox="images" data-caption="Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324084/mobile_5a70fbd19e40ffc8f7eb49519976b688.jpg" class="card-img" alt="Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324085/slide_a5db59c0f78ebe9d17e29e6a135ab968.jpg" data-fancybox="images" data-caption="Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324085/mobile_a5db59c0f78ebe9d17e29e6a135ab968.jpg" class="card-img" alt="Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                <div class="col-md-2 mb-4">
+                            <a href="https://www.se.gov.br/anexos/uploads/image/image/324086/slide_f49b455e64925b2d13fa7d24e4b41288.jpg" data-fancybox="images" data-caption="Fotos: Flávia Pacheco e Mário Sousa">
+                                <img src="https://www.se.gov.br/anexos/uploads/image/image/324086/mobile_f49b455e64925b2d13fa7d24e4b41288.jpg" class="card-img" alt="Fotos: Flávia Pacheco e Mário Sousa">
+                            </a>
+                        </div>
+                                                                    </div> -->
+
+                    <div class="row pt-3 pb-3 mb-5" style="border-top:solid 1px #ccc; border-bottom:solid 1px #ccc;">
+
+                        <div class="col-md-6 d-none d-md-block">
+                            <a href="https://www.se.gov.br/noticias/saude" class="btn btn-info text_branco text_bold">Saúde</a>
+                        </div>
+
+                        <div class="col-md-6 mb-4 d-block d-md-none">
+                            <a href="https://www.se.gov.br/noticias/saude" class="btn btn-info text_branco text_bold">Saúde</a>
+                        </div>
+
+                        <div class="col-md-6 text_bold text_cinza text-end">
+                            Compartilhe &nbsp;&nbsp;
+
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.se.gov.br/noticias/saude/caminhada_da_saude_em_prol_do_enfrentamento_de_doencas_cronicas_mobiliza_populacao_da_capital_e_interior" target="_blank" style="text-decoration: none;">
+                                <img src="https://www.se.gov.br/frontend/img/facebook.svg" width="25px">
+                            </a>
+                            &nbsp;&nbsp;
+
+                            <a href="https://api.whatsapp.com/send?text=Caminhada da Saúde em prol do enfrentamento de doenças crônicas mobiliza população da capital e interior:http://www.se.gov.br/noticias/saude/caminhada_da_saude_em_prol_do_enfrentamento_de_doencas_cronicas_mobiliza_populacao_da_capital_e_interior" target="_blank" style="text-decoration: none;">
+                                <img src="https://www.se.gov.br/frontend/img/whatsapp.svg" width="25px">
+                            </a>
+                            &nbsp;&nbsp;
+
+                            <a href="https://twitter.com/intent/tweet?url=http://www.se.gov.br/noticias/saude/caminhada_da_saude_em_prol_do_enfrentamento_de_doencas_cronicas_mobiliza_populacao_da_capital_e_interior&amp;text=Caminhada da Saúde em prol do enfrentamento de doenças crônicas mobiliza população da capital e interior" target="_blank" style="text-decoration: none;">
+                                <img src="https://www.se.gov.br/frontend/img/twitter.svg" width="25px">
+                            </a>
+                            &nbsp;&nbsp;
+
+                            <a href="#" onclick="imprimir()" style="text-decoration: none;">
+                                <img src="https://www.se.gov.br/frontend/img/print.svg" width="25px">
+                            </a>
+
+                            <script type="text/javascript">
+                                //Constrói a URL depois que o DOM estiver pronto
+                                document.addEventListener("DOMContentLoaded", function() {
+                                    var url = encodeURIComponent(window.location.href);
+                                    var titulo = encodeURIComponent(document.title);
+                                    document.getElementById("twitter-share-btt").href =
+                                        "https://twitter.com/intent/tweet?url=" + url + "&text=" + titulo;
+                                }, false);
+                            </script>
+                        </div>
+
+                    </div>
+
+                    
+                    <div class="row pt-3 pb-3">
+                        <div class="col-md-12 mb-4">
+                            <div class="text_25 text_azul text_bold">Mais notícias</div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="row">
+                                                                <div class="col-md-4 mb-4">
+                                    <a href="https://www.se.gov.br/noticias/governo/estudo_aponta_sergipe_como_o_quarto_estado_mais_competitivo_do_nordeste" style="text-decoration:none;">
+                                        <div><img src="https://www.se.gov.br/anexos/uploads/image/image/367446/mobile_d204e69ed633f8aacfc8fcc16ba8f852.jpg" class="img-fluid mb-4"></div>
+                                        <div class="text_20 text_cinza text_bold"> Estudo aponta Sergipe como o quarto estado mais competitivo do Nordeste </div>
+                                    </a>
+                                </div>
+                                                                <div class="col-md-4 mb-4">
+                                    <a href="https://www.se.gov.br/noticias/verao-sergipe/verao_sergipe_leva_inclusao_para_o_interior_do_estado_por_meio_do_esporte" style="text-decoration:none;">
+                                        <div><img src="https://www.se.gov.br/anexos/uploads/image/image/367444/mobile_36c1a966c0bc75ed0007c2834b6dffd0.jpg" class="img-fluid mb-4"></div>
+                                        <div class="text_20 text_cinza text_bold"> Verão Sergipe leva inclusão para o interior do estado por meio do esporte </div>
+                                    </a>
+                                </div>
+                                                                <div class="col-md-4 mb-4">
+                                    <a href="https://www.se.gov.br/noticias/educacao-cultura/governo_de_sergipe_divulga_nova_programacao_do_festival_se_mapping" style="text-decoration:none;">
+                                        <div><img src="https://www.se.gov.br/anexos/uploads/image/image/367459/mobile_be3f4532ed9e1d06c032796c2cdb3880.jpeg" class="img-fluid mb-4"></div>
+                                        <div class="text_20 text_cinza text_bold"> Governo de Sergipe divulga nova programação do Festival SE Mapping </div>
+                                    </a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 text-center">
+
+                    <div class="card bg_azul_claro mb-5">
+                        <div class="card-body">
+                            <!-- <a href="https://www.se.gov.br/noticias/educacao-cultura" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Educação e Cultura</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/educacao-cultura" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Educação e Cultura</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/saude" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Saúde</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/saude" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Saúde</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/assistencia-social" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Assistência Social</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/assistencia-social" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Assistência Social</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/governo" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Governo</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/governo" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Governo</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/seguranca-publica" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Segurança</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/seguranca-publica" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Segurança</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/desenvolvimento" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Desenvolvimento</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/desenvolvimento" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Desenvolvimento</div>
+		</a>
+	
+
+
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/agricultura" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Agricultura</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/agricultura" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Agricultura</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/esporte-lazer" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Esporte e Lazer</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/esporte-lazer" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Esporte e Lazer</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/meio-ambiente" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Meio Ambiente</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/meio-ambiente" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Meio Ambiente</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/sergipe-pais-do-forro" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Sergipe é o pais do forró</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/sergipe-pais-do-forro" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Sergipe é o pais do forró</div>
+		</a>
+	
+
+
+
+
+	
+		<!-- <a href="https://www.se.gov.br/noticias/verao-sergipe" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao" style="background-color: orangered;">Verão Sergipe</div>
+		</a> -->
+	
+		<a href="https://www.se.gov.br/noticias/verao-sergipe" style="text-decoration: none;">
+			<div class="menu_lateral_categorias_botao">Verão Sergipe</div>
+		</a>
+	
+
+
+                        </div>
+                    </div>
+                    
+                    <!--
+                    <a href="https://www.se.gov.br/noticias/verao-sergipe/sergipe_mapping_festival_de_projecao_mapeada_acontece_em_aracaju_nos_dias_11_e_12" target="_blank">
+                        <img src="https://www.se.gov.br/anexos/uploads/download/midia/299/88f2100f6e67803ee81893756cd3b456.gif"
+                            class="img-fluid" onclick="graveCliqueBanner()">
+                    </a>
+                    <br> <br>                    
+                    -->
+                    
+                    <a href="https://whatsapp.com/channel/0029VaZp4IPG8l5IsU2Rpo0Y" target="_blank">
+                        <img src="https://www.se.gov.br/anexos/uploads/download/midia/265/64ec70f3182e371913c1b59d1a964650.gif" class="img-fluid" onclick="graveCliqueBanner()">
+                    </a>                    
+
+                    <!-- <br><br> -->
+
+                    <!-- <a class="twitter-timeline" href="https://twitter.com/governosergipe?ref_src=twsrc%5Etfw"
+                        data-height="800" data-chrome="noscrollbar nofooter transparent">Tweets by @governosergipe</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <section id="impressao" class="d-none">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div style="font-size: 25px;"> Notícia </div>
+                    <div style="font-size: 15px;"> / Notícias / saude </div><br>
+                    <div style="font-size: 23px; font-style: italic; margin-bottom: 5px;"> Caminhada da Saúde em prol do enfrentamento de doenças crônicas mobiliza população da capital e interior </div>
+                    <div style="font-size: 15px; font-style: italic; margin-bottom: 35px;"> Ação contou com público de todas as idades e levou cerca de duas mil pessoas para a Orla da Atalaia neste sábado, 25
+                    </div>
+                    <div style="font-size: 15px; margin-bottom: 35px;">
+                        <div class="row">
+                            <div class="col-md-5"><i>Domingo, 26 de Novembro de 2023 às 06:30:00</i></div>
+                        </div>
+                    </div>
+                    <div style="font-size: 14px; margin-bottom: 35px; text-align: justify; text-justify: inter-word;">
+                        <p>Saúde sempre em primeiro lugar. A Secretaria de Estado da Saúde (SES), em parceria com Secretaria de Estado da Assistência Social e Cidadania (Seasc), promoveu neste sábado, 25, a Caminhada Circuito Integrado da Saúde, campanha de enfrentamento a Doenças e Agravos Não Transmissíveis (Dant), com o tema 'Sua saúde é o reflexo do seu estilo de vida'. A Carreta do Homem e a Unidade Móvel 'Fique Sabendo' estiveram presentes no evento, realizando exames e testes rápidos de HIV, sífilis e hepatites B e C.</p>
+
+<p>Segundo o secretário da Saúde, Walter Pinheiro, a ação teve o intuito de mobilizar esforços com foco na promoção da saúde, objetivando a sensibilização da população em geral sobre a temática. "Estamos dentro de um contexto bastante atual do cuidado com a saúde e com a qualidade de vida. A ação faz muito sentido, porque estamos abordando doenças como a obesidade, diabetes e hipertensão arterial e, sem dúvida, elas impactam na saúde do mundo inteiro. Nessa perspectiva de prevenção, estamos construindo cada vez mais uma saúde qualificada e de fácil acesso à população", disse o secretário.</p>
+
+<p>A caminhada, que partiu do farol da Orla da Atalaia em direção ao estacionamento da Cinelândia, foi planejada pela Diretoria de Atenção Primária à Saúde (Daps). Segundo o diretor da Daps, Luan Araújo, o objetivo da ação foi sensibilizar a população para mudanças no estilo de vida para prevenir doenças crônicas. "O circuito integrado da saúde nos deixou muito felizes pela participação efetiva dos grupos de diabéticos, tanto do município de Aracaju, quanto do interior. A sensação é de dever cumprido, fazer com que a nossa Atenção Primária desempenhe o seu papel, enquanto porta de entrada do cuidado", considerou.</p>
+
+<p>De acordo com o presidente da Sociedade Brasileira de Diabetes/Regional e diretor técnico do Centro de Diabetes de Sergipe, Raimundo Sotero de Menezes Filho, essa caminhada é a maior do Brasil, quando se fala de prevenção contra o diabetes. "Já realizamos outras caminhadas, mas esta é a primeira que temos o apoio do Governo do Estado, por meio da SES. Isso facilita muito a adesão da população. Conseguimos fazer uma movimentação na cidade de muito sucesso para que as pessoas acreditem que diabetes é um problema de saúde pública e que pode ser, sim, corrigido, controlado e equilibrado", explicou o médico.</p>
+
+<p>As Doenças e Agravos Não Transmissíveis (DANT) são responsáveis por mais da metade do total de mortes no Brasil, com destaque para os quatro grupos de causas de morte enfocadas pela Organização Mundial da Saúde (OMS), que são as doenças respiratórias crônicas, diabetes, câncer e doenças cardiovasculares.</p>
+
+<p><strong>População</strong></p>
+
+<p>Júlia dos Santos, de 79 anos, é hipertensa, mas toma muito cuidado com a sua saúde. "Eu me descobri hipertensa muito jovem. Desde então me cuido, tomo a medicação e tenho uma rotina de exercícios para o bem da minha saúde. Não é porque eu já tenho, que eu não vou me cuidar. Essa ação é importantíssima, estão de parabéns!, reconheceu.</p>
+
+<p>Já para dona Jovina Barbosa dos Santos, de 65 anos, foi a primeira vez que participou de uma caminhada e se disse muito animada com a iniciativa. "Eu sou diabética e meu médico sempre me indicou a atividade física, só que eu nunca fiz. Hoje tomei coragem, chamei minhas amigas e adorei a experiência. Foi muito divertido e estou me sentindo ótima. Esta é a primeira vez de muitas", comprometeu-se.</p>                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                                                                                        <img src="https://www.se.gov.br//uploads/image/image/324079/mobile_e79890993018f8222e90783249f1fc9e.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324078/mobile_fc16e36950ae2b63058b7b44baadbe59.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324080/mobile_e99e981f0a4ea3fc03876e254db93f59.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324081/mobile_1bcb9b37e30853eed8c981f76ddb73f7.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324082/mobile_d85a5d9707fe81dc2d05d21726228587.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324083/mobile_c39fc6e05a8e9c06d3a0a3e1b2bb2187.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324084/mobile_5a70fbd19e40ffc8f7eb49519976b688.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324085/mobile_a5db59c0f78ebe9d17e29e6a135ab968.jpg" style="width: 150px;">
+                                                                                                <img src="https://www.se.gov.br//uploads/image/image/324086/mobile_f49b455e64925b2d13fa7d24e4b41288.jpg" style="width: 150px;">
+                                                                        </div>
+        </div>
+    </section>
+
+    <div id="footer">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-12 mt-5">
+
+                <div class="row">
+                    <div class="col-sm-12 col-md-2 mb-4">
+
+                                                    <a href="https://www.se.gov.br">
+                                <img src="https://www.se.gov.br/frontend/img/logo1_branco.png" class="img-fluid logo">
+                            </a>
+                        
+                        <div class="progress-stacked">
+                            <div class="progress" role="progressbar" aria-label="Segment one" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+                                <div class="progress-bar" style="background-color: #008acb;"></div>
+                            </div>
+                            <div class="progress" role="progressbar" aria-label="Segment two" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                                <div class="progress-bar" style="background-color: #7bb52c;"></div>
+                            </div>
+                            <div class="progress" role="progressbar" aria-label="Segment three" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+                                <div class="progress-bar" style="background-color: #ffb400;"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-12 col-md-10">
+                        <div class="row mb-0">
+
+                            <div class="col-sm-12 col-md-6 offset-md-1 mb-5">
+                                                                    Governo do Estado de Sergipe<br>
+                                    <a href="https://goo.gl/maps/nUzM67orsJTuEDdh8">
+                                    Palácio Governador Augusto Franco<br>
+                                    Av. Adélia Franco, 3305, Grageru
+                                    </a>
+                                                            </div>
+
+
+                            <div class="col-sm-12 col-md-5 text-end">
+                                <div class="row mb-4">
+                                    <div class="col-md-12">
+
+                                            
+                                                  <a href="https://twitter.com/governosergipe" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/twitter.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.instagram.com/governosergipe" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/instagram.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.facebook.com/governodesergipe" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/facebook.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.youtube.com/user/todosnumsocoracao" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/youtube.svg" width="30px">
+                                                  </a>
+                                                  &nbsp;
+                                                  <a href="https://www.tiktok.com/@governodesergipe?_t=8cZ7VEN0rcD&amp;_r=1" target="_blank">
+                                                    <img src="https://www.se.gov.br/frontend/img/tiktok2.png" width="30px">
+                                                  </a>
+
+                                            
+                                    </div>
+                                </div>
+
+                                <div class="row mb-4">
+                                  <div class="col-md-4">
+                                    <a href="https://www.se.gov.br/setc/setc_lai_acesso_a_informacao-1" target="_black">
+                                      <img src="https://www.se.gov.br/frontend/img/acesso_informacao.png" width="130px">
+                                    </a>
+                                  </div>
+                                  <div class="col-md-4">
+                                    <a href="https://sites.tcu.gov.br/verifique-adesao-pnpc" target="_black">
+                                      <img src="https://www.se.gov.br/frontend/img/chancela.png" width="100px">
+                                    </a>
+                                  </div>                                  
+                                  <div class="col-md-4">
+                                    <a href="https://radardatransparencia.atricon.org.br/panel.html" target="_black">
+                                      <img src="https://www.se.gov.br/frontend/img/radar.svg" width="130px">
+                                    </a>
+                                  </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12 mb-2">
+                                        <a href="https://www.se.gov.br/politica_de_privacidade">Política de Privacidade</a>
+                                    </div>
+
+                                    
+                                    <div class="col-md-12">
+                                        <a href="https://www.se.gov.br/mapa_site/orgao/0">
+                                         <img src="https://www.se.gov.br/frontend/img/mapa_site.svg" width="30px"> Mapa do site
+                                        </a>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+                        <div class="row">
+                            <div class="col-12 text_13">
+                                © Alguns direitos reservados. Todo o conteúdo deste portal pode ser utilizado livremente.
+                            </div>
+                        </div>
+                        <br>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    </div>
+</div>
+
+
+<!--Vlibras-->
+<div vw="" class="enabled" style="z-index: 0 !important;">
+  <div vw-access-button="" class="active"></div>
+  <div vw-plugin-wrapper="">
+    <div class="vw-plugin-top-wrapper"></div>
+  </div>
+</div>
+
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+
+<script>
+  new window.VLibras.Widget('https://vlibras.gov.br/app');
+</script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+    <script type="text/javascript">
+        var url1 = "https://www.se.gov.br/";
+
+        function graveCliqueBanner() {
+            fetch('https://www.se.gov.br/api/article/single/banner/lateral/graveCliqueBanner')
+                .then(response => response.json()) // Converte a resposta para JSON
+                .then(data => console.log(data)) // Exibe os dados no console
+                .catch(error => console.error('Erro:', error)); // Captura e exibe erros
+        }
+    </script>
+
+    <script type="text/javascript">
+        var $btnAumentar = $("#btnAumentar");
+        var $btnDiminuir = $("#btnDiminuir");
+        var $elemento = $("body p");
+
+        function obterTamnhoFonte() {
+            let a = parseFloat($elemento.css('font-size'));
+            console.log(a);
+            return a;
+        }
+
+        $btnAumentar.on('click', function() {
+            $elemento.css('font-size', obterTamnhoFonte() + 1);
+        });
+
+        $btnDiminuir.on('click', function() {
+            $elemento.css('font-size', obterTamnhoFonte() - 1);
+        });
+    </script>
+
+    <script type="text/javascript">
+        $('[data-fancybox="gallery"]').fancybox({
+            buttons: [
+                'download',
+                'thumbs',
+                'close'
+            ] exit;
+        });
+    </script>
+
+    <script type="text/javascript">
+        (function() {
+            var Contrast = {
+                storage: 'contrastState',
+                cssClass: 'contrast',
+                currentState: null,
+                check: checkContrast,
+                getState: getContrastState,
+                setState: setContrastState,
+                toogle: toogleContrast,
+                updateView: updateViewContrast
+            };
+
+            window.toggleContrast = function() {
+                Contrast.toogle();
+            };
+
+            Contrast.check();
+
+            function checkContrast() {
+                this.updateView();
+            }
+
+            function getContrastState() {
+                return localStorage.getItem(this.storage) === 'true';
+            }
+
+            function setContrastState(state) {
+                localStorage.setItem(this.storage, '' + state);
+                this.currentState = state;
+                this.updateView();
+            }
+
+            function updateViewContrast() {
+                var body = document.body;
+
+                if (this.currentState === null)
+                    this.currentState = this.getState();
+
+                if (this.currentState)
+                    body.classList.add(this.cssClass);
+                else
+                    body.classList.remove(this.cssClass);
+            }
+
+            function toogleContrast() {
+                this.setState(!this.currentState);
+            }
+        })();
+
+        function imprimir() {
+            var conteudo = document.getElementById('impressao').innerHTML;
+            tela_impressao = window.open('about:blank');
+            tela_impressao.document.write(conteudo);
+            tela_impressao.window.print();
+            tela_impressao.window.close();
+        }
+    </script>
+
+
+
+</div></body></html>
