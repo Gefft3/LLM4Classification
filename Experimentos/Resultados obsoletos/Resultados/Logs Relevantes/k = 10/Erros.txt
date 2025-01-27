@@ -1,0 +1,98 @@
+Question 0
+Texto de entrada: Para desafogar as Unidades de Pronto Atendimento (UPAs), partir de hoje as 29 Unidades Básicas de Saúde (UBS) de Foz do Iguaçu, irão assistir os pacientes classificados com dengue tipo B – casos que demandam acompanhamento diário com exames e hidratação, mas não necessitam internamento. As UPAs darão atenção especial aos casos ainda mais severos da doença (tipo C). Desde o início da epidemia de dengue, no final de fevereiro, houve um aumento expressivo na procura das UPAs, o que resultou em um aumento no tempo de espera dos pacientes.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 3
+Texto de entrada: Domingo (23) em Campo Grande será com poucas nuvens e temperatura de no máximo 33°C, segundo o Inmet (Instituto Nacional de Meteorologia). O alerta de "perigo potencial" para baixa umidade do ar, que está abaixo de 30%, continua em todo Estado.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 174
+Texto de entrada: O Brasil teve o mês de julho mais quente em 62 anos. É o que indicam dados do Instituto Nacional de Meteorologia (Inmet), que a Agência Pública acessou. O resultado é o maior desde 1961, quando começaram as medições nas estações do órgão, e reflete uma situação que ocorreu em todo o mundo: um recorde de calor. Para o planeta, o mês foi o mais quente do registro histórico.Os números mostram que a média de temperatura registrada em todas as estações do país ficou em 23 °C. Isso representa 1 °C acima da série histórica, que é de 22 °C. Esse é um novo recorde, mas que acontece justamente um ano após o anterior. O último, em 2022, foi um acréscimo de 0,8 °C. Antes disso, havia sido em 2015, com 0,7 °C.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 231
+Texto de entrada: A poluição de rios, mares, oceanos, lençóis freáticos e lagoas é uma das crescentes preocupações globais. Resíduos e contaminantes farmacêuticos são um dos principais desafios, especialmente, relacionado com a disponibilidade de água potável. Cientistas da Universidade Bar-llan, de Israel, aperfeiçoaram o processo de identificação de resquícios nocivos na água. Para isso, o grupo desenvolveu um sensor para superfície. Os resultados iniciais do estudo foram publicados, recentemente, na revista Environmental Science Nano.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 235
+Texto de entrada: 90% dos afetados pela doença, que pode levar à morte, não tem o controle adequado.A asma, uma doença crônica que causa inflamação dos brônquios e dificulta a passagem de ar para os pulmões, afeta cerca de 20 milhões de brasileiros. Apesar de ser uma condição tratável, a asma mata, em média, seis pessoas por dia no Brasil. O Sistema Único de Saúde (SUS) oferece gratuitamente 12 tipos de medicamentos para o controle da doença, que variam de casos leves a graves. Muitos pacientes ainda não utilizam esses tratamentos de forma adequada, o que poderia evitar grande parte dessas mortes. Especialistas alertam sobre a importância de um tratamento contínuo para prevenir crises e emergências.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 292
+Texto de entrada: Casos subiram de 55 para 95 em relação ao ano passado .O CCZ (Centro de Controle de Zoonoses) e a Sems (Secretaria Municipal de Saúde), alertam a população sobre os riscos de ataques de escorpiões em Dourados. Entre janeiro e agosto deste ano, o município acumulou 95 notificações de acidentes.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 319
+Texto de entrada: Um homem, conhecido pelo apelido de ‘Índio’, morreu com ferimentos de facada no abdômen na tarde deste domingo (25) no bairro Taquarussu, na Rua Brigadeiro Tobias, em Campo Grande. Equipe policial, da perícia e bombeiros foram ao local atender a ocorrência. Conforme Corpo de Bombeiros, vítima já estava em óbito quando resgate chegou ao local. Segundo a vizinha do homem, que terá sua identidade preservada, ele foi morto por uma pessoa que mora na região, mas ainda não se sabe o motivo do desentendimento. Corpo está do lado de fora da residência, situada num beco da região, segundo as informações.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 460
+Texto de entrada: A região Sudeste tem a maior diferença entre a taxa de mortalidade materna para mulheres pretas e brancas de todo o Brasil, segundo pesquisadores da Unicamp. Além disso, os dados apontam que as mortes de mães pretas durante e após o parto se sobressaem em todas as áreas do país, faixas etárias e causas.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 591
+Texto de entrada: A cidade de Palmas, no estado brasileiro do Tocantins, registra 10.082 casos confirmados de dengue desde o início do ano, segundo um boletim epidemiológico recente. Isso se compara a 1.033 casos confirmados durante o mesmo período em 2021. A cidade também está relatando um aumento significativo nos casos de chikungunya em 2022. De acordo com autoridades de saúde, 2.237 casos confirmados de infecção transmitida por mosquito foram relatados em 25 de agosto. Em 2021, durante o mesmo período, 19 casos confirmados de chikungunya foram relatados.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 688
+Texto de entrada: O Brasil registrou no ano passado o menor número de mortalidade infantil e fetal por causas evitáveis nos últimos 28 anos. O levantamento exclusivo do R7, por meio do painel de monitoramento do Ministério da Saúde, mostra que houve 20,2 mil mortes de bebês até um ano de idade em 2023, 61,9% a menos do que as 53,1 mil de 1996, quando começou o monitoramento.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 895
+Texto de entrada: Estudantes do curso de Geologia da Universidade Federal do Sul e Sudeste do Pará (Unifesspa), Campus Marabá, realizaram uma visita técnica ao Parque Estadual da Serra dos Martírios/Andorinhas e à Área de Proteção Ambiental (APA) Araguaia, localizadas no município de São Geraldo do Araguaia, no sudeste paraense.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 896
+Texto de entrada: O deputado estadual Eduardo Suplicy (PT-SP) foi diagnosticado com um quadro de não Hodgkin e passa por tratamento com imunoterapia. De acordo com Suplicy, os exames "já apresentam bons resultados". Ele passa por cuidados com a equipe do hematologista Celso Arrais.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 897
+Texto de entrada: Volta Redonda - Dando sequência à força-tarefa para tirar das ruas de Volta Redonda veículos clonados, a Secretaria Municipal de Ordem Pública (Semop) apreendeu nesse fim de semana mais um carro e uma moto suspeitos de adulteração. A operação conta com o uso de câmeras de leitura de placas....
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
+Question 899
+Texto de entrada: Profissional médica da unidade do Governo de Goiás em Trindade lembra que, embora simples, esse tipo de procedimento ainda é cercada de dúvidas, por falta de informação adequada Doação é simples e pode ser feita também em unidades móveis como a da Rede Hemocentro.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+

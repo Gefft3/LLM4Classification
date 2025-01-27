@@ -1,0 +1,7 @@
+Question 806
+Texto de entrada: O Brasil é o segundo país do mundo com maior detecção de casos novos de hanseníase, atrás apenas da Índia. Os dados são de um boletim epidemiológico sobre a doença recém-publicado pelo Ministério da Saúde. Junto à Indonésia, esses três países respondem por quase 75% dos registros globais. Na região das Américas, 92,4% dos casos registrados em 2021 ocorreram no Brasil. No ano passado, foram quase 15 mil novos casos no país, mostram os números preliminares divulgados pelo ministério. Maranhão, Mato Grosso, Pernambuco, Bahia e Pará são os Estados que lideram os registros.
+
+Erro (exception): 'NoneType' object has no attribute 'news_class'
+
+------------------------------------------------
+
