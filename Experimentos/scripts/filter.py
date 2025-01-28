@@ -3,6 +3,7 @@ import os
 import re
 import gc
 from tqdm import tqdm
+import time
 from pydantic import BaseModel, Field
 from langchain_ollama import ChatOllama
 from langchain_core.prompts import PromptTemplate
@@ -34,7 +35,7 @@ Texto: {text}
 Scraping: {scraped_text}
 """
 )
-    llm = ChatOllama(model="llama3.1", format="json", temperature=0.1)
+    llm = ChatOllama(model="llama3.2", format="json", temperature=0.1)
 
     structured_llm = llm.with_structured_output(Response)
 
@@ -98,6 +99,10 @@ def get_indexes():
 def run(dataset, files, errors, path_outputs, prompt, chain):
     
     for i, row in tqdm(dataset.iterrows(), total=len(dataset)):
+        
+        # Sleep llama to avoid timeout
+        time.sleep(5)
+
         text = row['content']
 
         if i in errors or f'{i}.txt' not in files:
