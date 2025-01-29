@@ -61,79 +61,48 @@ def ollama_response(text, scraped_text, i, path_outputs, prompt, chain):
     return response
 
 
-def extract_error_indexes(file):
-    indexes = []
-    with open(file, 'r') as f:
-        for line in f:
-            match = re.search(r'index (\d+) - url:', line)
-            if match:
-                indexes.append(int(match.group(1)))
-    return indexes
-
-
-def get_indexes():
-    root_path  = '../Resultados/scraping content/relevant'
-
-    files = os.listdir(root_path)
-
-    indexes = []
-
-    errors_indexes = []
-
-    for file in files:
-        if file != 'txt_sizes.txt': 
-            if file == 'erros.txt':
-                errors_indexes = extract_error_indexes(root_path + '/' + file)
-            else:
-                indexes.append(int(file.split('.')[0]))
-
-    indexes.sort()
-
-    files_sorted = []
-
-    for index in indexes:
-        files_sorted.append(str(index) + '.txt')
-
-    return files_sorted, errors_indexes
-
-def run(dataset, files, errors, path_outputs, prompt, chain):
+def run(dataset_content, dataset_scraping, path_outputs, prompt, chain):
+    responses = []
+    output_file = os.path.join(path_outputs, 'responses.csv')
     
-    for i, row in tqdm(dataset.iterrows(), total=len(dataset)):
-        
-        # Sleep llama to avoid timeout
-        time.sleep(5)
-
+    # Verifica se o arquivo já existe para definir se precisa incluir cabeçalho
+    write_header = not os.path.exists(output_file)
+    
+    for i, row in tqdm(dataset_content.iterrows(), total=dataset_content.shape[0]):
         text = row['content']
-
-        if i in errors or f'{i}.txt' not in files:
-            continue
-
-        scraped_text = open(f'../Resultados/scraping content/relevant/{i}.txt').read()
+        scraped_text = dataset_scraping.loc[i, 'content']
 
         response = ollama_response(text, scraped_text, i, path_outputs, prompt, chain)
-        try:
-            with open(os.path.join(path_outputs, "classificacoes.txt"), "a") as f:
-                f.write(f'Question {i}\n{response.is_in_scraped_text}\n--------------------------------\n\n')
-
-        except Exception as e:
-            with open(os.path.join(path_outputs, "erros.txt"), "a") as f:
-                f.write(f'Question {i}\n{str(e)}\n--------------------------------\n\n')
+        responses.append(response)
+        
+        # Salva o resultado a cada iteração
+        pd.DataFrame([response]).to_csv(output_file, mode='a', header=write_header, index=False)
+        write_header = False  # Apenas na primeira iteração o cabeçalho será escrito
+        
+        time.sleep(0.5)
                 
 def main():
 
-    # Load dataset with summary of the content
-    dataset = pd.read_csv('../../datasets/relevantes/dataset_content.csv')
+    # Paths 
+    path_dataset = '../../datasets/relevantes'
+    path_outputs = '../Resultados/filter'
+
+    # Create output directory
+    if not os.path.exists(path_outputs):
+        os.makedirs(path_outputs)
+
+    # Load datasets
+    print("Loading datasets...")
+    print("Loading dataset_content.csv...")
+    dataset_content = pd.read_csv(os.path.join(path_dataset, 'dataset_content.csv'))
+    print("Loading dataset_scraping.csv...")
+    dataset_scraping = pd.read_csv(os.path.join(path_dataset, 'dataset_scraping.csv'))
 
     # Load the model
     prompt, chain = config_model()
 
-    # Get the indexes of the files sorted
-    files, errors = get_indexes()
-
-    # Path to save the outputs
-    path_outputs = '../Resultados/filter'
-
-    run(dataset, files, errors, path_outputs, prompt, chain)
+    # Run experiment
+    run(dataset_content, dataset_scraping, path_outputs, prompt, chain)
     
 
 if __name__ == '__main__':
