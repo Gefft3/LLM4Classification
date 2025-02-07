@@ -38,14 +38,13 @@ def main():
         try:
             expanded_url = expand_short_url(short_url)
             expanded_links.append({'index': i, 'short_url': short_url, 'expanded_url': expanded_url})
+            expanded_links_df = pd.DataFrame(expanded_links)
+            expanded_links_df.to_csv(output_csv_path, index=False)
         except Exception as e:
             with open(error_log_path, 'a') as error_file:
                 error_file.write(f"Error: {e}\n")
                 error_file.write(f"{i}\n")
                 error_file.write(f"------------------------\n")
             
-    expanded_links_df = pd.DataFrame(expanded_links)
-    expanded_links_df.to_csv(output_csv_path, index=False)
-    
 if __name__ == '__main__':
     main()
