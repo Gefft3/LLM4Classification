@@ -7,34 +7,37 @@ import time
 from pydantic import BaseModel, Field
 from langchain_ollama import ChatOllama
 from langchain_core.prompts import PromptTemplate
+import tiktoken
 
 class Response(BaseModel):
-    is_in_scraped_text: bool = Field(description="Classe se o texto fornecido está no scraped_text, sendo que seu conteúdo deve ser True ou False ", required=True)
+    is_in_scraped_text: bool = Field(
+        description="Indicates whether the provided text is present in the 'scraped_text' dataset. "
+                    "The value can be 'True' if the text is present, or 'False' if it is not.",
+        required=True
+    )
 
 def config_model():
-    prompt = PromptTemplate.from_template(
     """
-Você é um classificador, você irá receber dois textos, um texto e um conteúdo do scraping, e deverá classificar se o texto informado está presente no conteúdo de scraping. Sua saída deve ser exclusivamente True ou False. No caso, se o está está presente no conteúdo scraping, a saída deve ser True, caso contrário, False. 
+    Configura o modelo para verificar se um texto está presente no conteúdo do scraping.
 
-Tarefa: Classificar se o texto informado está presente no conteúdo de scraping.
+    Returns:
+        tuple: PromptTemplate e chain configurado.
+    """
+    prompt = PromptTemplate.from_template(
+        """
+        Você é um classificador que verifica se um texto está presente no conteúdo de scraping.
 
-Faça:
-- Classifique se o texto informado está presente no conteúdo do scraping.
-- A saída deve ser exclusivamente True ou False.
-  
-Não faça:
-- Não adicione informações extras além da classificação e justificativa.
-- Não forneça mais de uma classificação por questão.
-- Não repita a questão ou o contexto na saída.
-  
-A saída deve seguir este formato:
-response: [True ou False]
+        A saída deve ser um JSON com a chave "is_in_scraped_text" e um valor booleano.
 
-Texto: {text}
+        Exemplo de saída:
+        {{ "is_in_scraped_text": true }}
 
-Scraping: {scraped_text}
-"""
-)
+        Texto: {text}
+
+        Scraping: {scraped_text}
+        """
+    )
+
     llm = ChatOllama(model="llama3.2", format="json", temperature=0.1)
 
     structured_llm = llm.with_structured_output(Response)
@@ -45,9 +48,48 @@ Scraping: {scraped_text}
 
     return prompt, chain
 
-def ollama_response(text, scraped_text, i, path_outputs, prompt, chain):
+def split_text(text: str, model: str = "cl100k_base", max_tokens: int = 2000) -> list:
+    """
+    Divide um texto em segmentos de no máximo max_tokens tokens.
 
-    response = chain.invoke({'text': text, 'scraped_text': scraped_text})
+    Args:
+        text (str): Texto a ser dividido.
+        model (str): Modelo para tokenização (padrão: cl100k_base).
+        max_tokens (int): Número máximo de tokens por segmento.
+
+    Returns:
+        list: Lista de segmentos de texto.
+    """
+    encoder = tiktoken.get_encoding(model)
+    tokens = encoder.encode(text)
+    
+    chunks = [tokens[i:i + max_tokens] for i in range(0, len(tokens), max_tokens)]
+    
+    return [encoder.decode(chunk) for chunk in chunks]
+
+def ollama_response(text, scraped_text, i, path_outputs, prompt, chain):
+    """
+    Gera a resposta do modelo de linguagem para a tarefa de classificação de texto em conteúdo de scraping.
+
+    Args:
+        text (str): Texto a ser classificado.
+        scraped_text (str): Conteúdo do scraping.
+        i (int): Número da questão.
+        path_outputs (str): Caminho para o diretório de saída.
+        prompt (PromptTemplate): Prompt para a tarefa de classificação de texto em conteúdo de scraping.
+        chain: Modelo de linguagem configurado para a tarefa de classificação de texto em conteúdo de scraping.
+
+    Returns:
+        Response: Resposta do modelo de linguagem para a tarefa de classificação de texto em conteúdo de scraping.
+    """
+
+    scraped_text_splits = split_text(scraped_text)
+    
+
+    for split in scraped_text_splits:
+        response = chain.invoke({'text': text, 'scraped_text': split})
+        if response is not None and response.is_in_scraped_text:
+            break
 
     filled_prompt = prompt.format(text=text, scraped_text=scraped_text)
 
@@ -62,10 +104,21 @@ def ollama_response(text, scraped_text, i, path_outputs, prompt, chain):
 
 
 def run(dataset_content, dataset_scraping, path_outputs, prompt, chain):
+    """
+    Executa o experimento de classificação de texto em conteúdo de scraping.
+
+    Args:
+        dataset_content (pd.DataFrame): Dataset com os textos a serem classificados.
+        dataset_scraping (pd.DataFrame): Dataset com os conteúdos de scraping.
+        path_outputs (str): Caminho para o diretório de saída.
+        prompt (PromptTemplate): Prompt para a tarefa de classificação de texto em conteúdo de scraping.
+        chain: Modelo de linguagem configurado para a tarefa de classificação de texto em conteúdo de scraping.
+    """
+
+
     responses = []
     output_file = os.path.join(path_outputs, 'responses.csv')
     
-    # Verifica se o arquivo já existe para definir se precisa incluir cabeçalho
     write_header = not os.path.exists(output_file)
     
     for i, row in tqdm(dataset_content.iterrows(), total=dataset_content.shape[0]):
@@ -75,9 +128,8 @@ def run(dataset_content, dataset_scraping, path_outputs, prompt, chain):
         response = ollama_response(text, scraped_text, i, path_outputs, prompt, chain)
         responses.append(response)
         
-        # Salva o resultado a cada iteração
         pd.DataFrame([response]).to_csv(output_file, mode='a', header=write_header, index=False)
-        write_header = False  # Apenas na primeira iteração o cabeçalho será escrito
+        write_header = False 
         
         time.sleep(0.5)
                 
