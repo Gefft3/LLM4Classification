@@ -11,6 +11,7 @@ def create_driver():
     chrome_options.add_argument("--headless")  
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.binary_location = '/usr/bin/google-chrome-stable' 
     
     prefs = {"profile.managed_default_content_settings.javascript": 2}
     chrome_options.add_experimental_option("prefs", prefs)
