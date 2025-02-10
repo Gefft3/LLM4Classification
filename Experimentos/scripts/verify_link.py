@@ -26,6 +26,8 @@ def expand_short_url(driver, short_url, retries=3, wait_time=5):
             driver.get(short_url)
             return driver.current_url
         except Exception as e:
+            if "no such window: target window already closed" in str(e):
+                driver = create_driver()
             if attempt < retries - 1:
                 time.sleep(wait_time)  
                 continue
@@ -51,6 +53,8 @@ def main():
                 expanded_links_df = pd.DataFrame(expanded_links)
                 expanded_links_df.to_csv(output_csv_path, index=False)
             except Exception as e:
+                if "no such window: target window already closed" in str(e):
+                    driver = create_driver()
                 with open(error_log_path, 'a') as error_file:
                     error_file.write(f"Error: {e}\n")
                     error_file.write(f"{i}\n")
