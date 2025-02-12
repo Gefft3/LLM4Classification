@@ -23,7 +23,7 @@ if __name__ == "__main__":
     
     path_dataset = "../../datasets/relevantes/expanded_links.csv"
     path_output = "../../datasets/relevantes/scraping_content.csv"
-    path_errors = "../../datasets/relevantes/scraping_errors"
+    path_errors = "../../datasets/relevantes/scraping_errors.txt"
 
     dataset = pd.read_csv(path_dataset)
 
