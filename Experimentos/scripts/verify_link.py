@@ -57,7 +57,7 @@ def main():
                     driver = create_driver()
                 with open(error_log_path, 'a') as error_file:
                     error_file.write(f"Error: {e}\n")
-                    error_file.write(f"{i}\n")
+                    error_file.write(f"Index: {i}\n")
                     error_file.write(f"------------------------\n")
     finally:
         driver.quit()  
