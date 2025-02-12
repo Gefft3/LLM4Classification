@@ -1,0 +1,8 @@
+total_errors: 82
+
+error_types: 
+  ERR_NAME_NOT_RESOLVED: 57
+  HTTPConnectionPool_read_timeout: 23
+  ERR_CONNECTION_CLOSED: 1
+  ERR_CONNECTION_REFUSED: 1
+
