@@ -1,0 +1,5 @@
+Iterações: 6556
+
+  Erros: 
+    [Main] html_content retornou None para a URL: 2863
+    [get_snapshot_html] Retorno None em get_latest_snapshot para a URL: 2858
