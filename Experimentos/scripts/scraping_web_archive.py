@@ -4,6 +4,15 @@ from tqdm import tqdm
 import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+import os
+
+# Definir o path do arquivo de erros (no mesmo diretório do dataset de saída)
+PATH_ERRORS = "../../datasets/relevantes/errors.txt"
+
+# Função para registrar mensagens de erro no arquivo de log
+def log_error(message):
+    with open(PATH_ERRORS, 'a', encoding='utf-8') as f:
+        f.write(message + "\n")
 
 # Configurar retentativas com backoff exponencial
 session = requests.Session()
@@ -28,15 +37,21 @@ def get_latest_snapshot(url):
             timeout=10
         )
         response.raise_for_status()
-        return response.json()
+        result = response.json()
+        # Verifica se o snapshot foi encontrado
+        if not result or 'archived_snapshots' not in result or not result['archived_snapshots'].get('closest'):
+            log_error(f"[get_latest_snapshot] Nenhuma snapshot encontrada para: {url}. Dados retornados: {result}")
+            return None
+        return result
     except Exception as e:
-        print(f"Error fetching snapshot: {e}")
+        log_error(f"[get_latest_snapshot] Erro ao buscar snapshot para {url}: {str(e)}")
         return None
 
 def get_snapshot_html(url):
     snapshot_data = get_latest_snapshot(url)
     
-    if not snapshot_data:
+    if snapshot_data is None:
+        log_error(f"[get_snapshot_html] Retorno None em get_latest_snapshot para a URL: {url}")
         return None
         
     if 'archived_snapshots' in snapshot_data and snapshot_data['archived_snapshots'].get('closest'):
@@ -50,40 +65,53 @@ def get_snapshot_html(url):
             response.raise_for_status()
             return response.text
         except Exception as e:
-            print(f"Error fetching content: {e}")
+            log_error(f"[get_snapshot_html] Erro ao buscar conteúdo do snapshot para {url} (snapshot URL: {snapshot_url}): {str(e)}")
             return None
-    return None
+    else:
+        log_error(f"[get_snapshot_html] Estrutura inesperada dos dados para {url}: {snapshot_data}")
+        return None
 
 if __name__ == "__main__":
     path_dataset = "../../datasets/relevantes/expanded_links.csv"
     path_output = "../../datasets/relevantes/scraping_content.csv"
-    path_errors = "../../datasets/relevantes/scraping_errors.txt"
 
-    dataset = pd.read_csv(path_dataset)
-    output_dataset = pd.DataFrame(columns=['expanded_url', 'html_content'])
+    # Limpa o arquivo de erros, se existir, para evitar duplicidade de logs
+    if os.path.exists(PATH_ERRORS):
+        os.remove(PATH_ERRORS)
 
-    for url in tqdm(dataset['expanded_url']):
+    try:
+        dataset = pd.read_csv(path_dataset)
+    except Exception as e:
+        log_error(f"[Main] Erro ao ler o dataset ({path_dataset}): {str(e)}")
+        raise
+
+    # Se o arquivo de output não existir, cria-o com header
+    if not os.path.exists(path_output):
+        pd.DataFrame(columns=['expanded_url', 'html_content']).to_csv(path_output, index=False)
+
+    for url in tqdm(dataset['expanded_url'], desc="Processando URLs"):
         try:
             html_content = get_snapshot_html(url)
+            # Se o conteúdo for None, registra o ocorrido
+            if html_content is None:
+                log_error(f"[Main] html_content retornou None para a URL: {url}")
             
             df_aux = pd.DataFrame({
                 'expanded_url': [url],
                 'html_content': [html_content]
             })
             
-            # Append mode para melhor performance
+            # Escreve os dados em modo append; o header só é escrito se o arquivo for novo
             df_aux.to_csv(
                 path_output,
                 mode='a',
-                header=not pd.io.common.file_exists(path_output),
+                header=False,
                 index=False
             )
             
-            # Delay para evitar sobrecarga
+            # Delay para evitar sobrecarga no servidor
             time.sleep(1)
             
         except Exception as e:
-            error_msg = f"Erro: {url} - {str(e)}\n"
-            with open(path_errors, 'a', encoding='utf-8') as f:
-                f.write(error_msg)
+            log_error(f"[Main] Erro ao processar a URL {url}: {str(e)}")
             continue
