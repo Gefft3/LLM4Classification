@@ -17,13 +17,15 @@ def log_error(message):
         f.write(message + "\n")
 
 session = requests.Session()
-retries = Retry(
+retry = Retry(
     total=5,
     backoff_factor=1,
     status_forcelist=[429, 500, 502, 503, 504],
     allowed_methods=["GET"]
 )
-session.mount('https://', HTTPAdapter(max_retries=retries))
+adapter = HTTPAdapter(max_retries=retry)
+session.mount('https://', adapter)
+session.mount('http://', adapter)
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -51,46 +53,65 @@ def get_html_content_with_selenium(driver, url, retries=3, wait_time=5):
         except Exception as e:
             if "no such window: target window already closed" in str(e):
                 driver = create_driver()
-            if attempt < retries - 1:
-                time.sleep(wait_time)
-            else:
+            if attempt == retries - 1:
                 log_error(f"[Selenium] Erro ao baixar {url}: {str(e)}")
-                return None
-
-def get_latest_wayback_url(url):
-    wayback_api = f"http://web.archive.org/cdx/search/cdx?url={url}&output=json&fl=timestamp,original&collapse=digest&limit=1&filter=statuscode:200&sort=reverse"
-    response = requests.get(wayback_api)
-    
-    if response.status_code == 200:
-        data = response.json()
-        if len(data) > 1:
-            timestamp = data[1][0]
-            latest_url = f"http://web.archive.org/web/{timestamp}/{url}"
-            return latest_url
+            time.sleep(wait_time)
     return None
 
-def get_snapshot_html(url):
-    snapshot_url = get_latest_wayback_url(url)
-    if not snapshot_url:
-        return None
-    try:
-        response = session.get(snapshot_url, headers=HEADERS, timeout=15)
-        response.raise_for_status()
-        return response.text
-    except Exception as e:
-        log_error(f"[HTML] Erro ao baixar {snapshot_url}: {str(e)}")
-        return None
+def get_latest_wayback_url(url, retries=3, wait_time=5):
+    wayback_api = f"https://web.archive.org/cdx/search/cdx?url={url}&output=json&fl=timestamp,original&collapse=digest&limit=1&filter=statuscode:200&sort=reverse"
+    
+    for attempt in range(retries):
+        try:
+            response = session.get(wayback_api, headers=HEADERS, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                if len(data) > 1:
+                    timestamp = data[1][0]
+                    latest_url = f"https://web.archive.org/web/{timestamp}/{url}"
+                    return latest_url
+            elif attempt == retries - 1:
+                log_error(f"[Wayback] Erro ao acessar API: Status {response.status_code}")
+        except requests.exceptions.RequestException as e:
+            if attempt == retries - 1:
+                log_error(f"[Wayback] Erro na API: {str(e)}")
+            time.sleep(wait_time)
+    return None
 
 def get_html_content(url, driver):
-    html_content = get_snapshot_html(url)
-    if html_content:
-        return html_content, True
-    html_content = get_html_content_with_selenium(driver, url)
-    if html_content:
-        return html_content, False
-    return None, None
+    wayback_url = get_latest_wayback_url(url)
+    html_content = None
+    from_web_archive = False
+    
+    if wayback_url:
+        try:
+            response = session.get(wayback_url, headers=HEADERS, timeout=15)
+            response.raise_for_status()
+            html_content = response.text
+            from_web_archive = True
+        except Exception as e:
+            pass
+    
+    if not html_content:
+        html_content = get_html_content_with_selenium(driver, url)
+    
+    return html_content, from_web_archive
 
-if __name__ == "__main__":
+def save_to_csv(path_output, url, html_content, from_web_archive):
+    new_row = pd.DataFrame({
+        'expanded_url': [url],
+        'html_content': [html_content],
+        'from WebArchive': [from_web_archive]
+    })
+    new_row.to_csv(
+        path_output,
+        mode='a',
+        header=False,
+        index=False,
+        encoding='utf-8'
+    )
+
+def main():
     path_dataset = "../../datasets/relevantes/expanded_links.csv"
     path_output = "../../datasets/relevantes/scraping_content.csv"
 
@@ -108,24 +129,23 @@ if __name__ == "__main__":
 
     driver = create_driver()
 
-    for url in tqdm(dataset['expanded_url'], desc="Processando URLs"):
-        try:
-            html_content, from_web_archive = get_html_content(url, driver)
-            if html_content:
-                pd.DataFrame({
-                    'expanded_url': [url],
-                    'html_content': [html_content],
-                    'from WebArchive': [from_web_archive]
-                }).to_csv(
-                    path_output,
-                    mode='a',
-                    header=False,
-                    index=False
-                )
-            else:
-                log_error(f"[Main] Erro geral com {url}: Não foi possível obter o conteúdo HTML")
-            time.sleep(1)
-        except Exception as e:
-            log_error(f"[Main] Erro geral com {url}: {str(e)}")
-    
-    driver.quit()
+    try:
+        for url in tqdm(dataset['expanded_url'], desc="Processando URLs"):
+            try:
+                html_content, from_web_archive = get_html_content(url, driver)
+                
+                if html_content is None:
+                    log_error(f"[Main] Falha em todos os métodos para: {url}")
+                    continue
+                
+                save_to_csv(path_output, url, html_content, from_web_archive)
+                
+                time.sleep(1)
+                
+            except Exception as e:
+                log_error(f"[Main] Erro crítico com {url}: {str(e)}")
+    finally:
+        driver.quit()
+
+if __name__ == "__main__":
+    main()
