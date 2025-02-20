@@ -4,3 +4,4 @@ Experimentos/wandb
 *debug*
 *.out
 
+Experimentos/scripts/scraping.log

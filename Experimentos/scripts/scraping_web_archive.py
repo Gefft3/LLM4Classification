@@ -12,9 +12,12 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 PATH_ERRORS = "../../datasets/relevantes/errors.txt"
 
-def log_error(message):
+def log_error(message, index=None, url=None):
     with open(PATH_ERRORS, 'a', encoding='utf-8') as f:
-        f.write(message + "\n")
+        if index is not None and url is not None:
+            f.write(f"Index: {index}, URL: {url}, Error: {message}\n")
+        else:
+            f.write(message + "\n")
 
 session = requests.Session()
 retry = Retry(
@@ -44,7 +47,7 @@ def create_driver():
     service = Service(ChromeDriverManager().install())
     return webdriver.Chrome(service=service, options=chrome_options)
 
-def get_html_content_with_selenium(driver, url, retries=3, wait_time=5):
+def get_html_content_with_selenium(driver, url, retries=3, wait_time=5, index=None):
     for attempt in range(retries):
         try:
             time.sleep(1)
@@ -54,11 +57,11 @@ def get_html_content_with_selenium(driver, url, retries=3, wait_time=5):
             if "no such window: target window already closed" in str(e):
                 driver = create_driver()
             if attempt == retries - 1:
-                log_error(f"[Selenium] Erro ao baixar {url}: {str(e)}")
+                log_error(f"[Selenium] Erro ao baixar {url}: {str(e)}", index, url)
             time.sleep(wait_time)
     return None
 
-def get_latest_wayback_url(url, retries=3, wait_time=5):
+def get_latest_wayback_url(url, retries=3, wait_time=5, index=None):
     wayback_api = f"https://web.archive.org/cdx/search/cdx?url={url}&output=json&fl=timestamp,original&collapse=digest&limit=1&filter=statuscode:200&sort=reverse"
     
     for attempt in range(retries):
@@ -71,15 +74,15 @@ def get_latest_wayback_url(url, retries=3, wait_time=5):
                     latest_url = f"https://web.archive.org/web/{timestamp}/{url}"
                     return latest_url
             elif attempt == retries - 1:
-                log_error(f"[Wayback] Erro ao acessar API: Status {response.status_code}")
+                log_error(f"[Wayback] Erro ao acessar API: Status {response.status_code}", index, url)
         except requests.exceptions.RequestException as e:
             if attempt == retries - 1:
-                log_error(f"[Wayback] Erro na API: {str(e)}")
+                log_error(f"[Wayback] Erro na API: {str(e)}", index, url)
             time.sleep(wait_time)
     return None
 
-def get_html_content(url, driver):
-    wayback_url = get_latest_wayback_url(url)
+def get_html_content(url, driver, index=None):
+    wayback_url = get_latest_wayback_url(url, index=index)
     html_content = None
     from_web_archive = False
     
@@ -93,7 +96,7 @@ def get_html_content(url, driver):
             pass
     
     if not html_content:
-        html_content = get_html_content_with_selenium(driver, url)
+        html_content = get_html_content_with_selenium(driver, url, index=index)
     
     return html_content, from_web_archive
 
@@ -130,12 +133,12 @@ def main():
     driver = create_driver()
 
     try:
-        for url in tqdm(dataset['expanded_url'], desc="Processando URLs"):
+        for index, url in tqdm(enumerate(dataset['expanded_url']), desc="Processando URLs"):
             try:
-                html_content, from_web_archive = get_html_content(url, driver)
+                html_content, from_web_archive = get_html_content(url, driver, index=index)
                 
                 if html_content is None:
-                    log_error(f"[Main] Falha em todos os métodos para: {url}")
+                    log_error(f"[Main] Falha em todos os métodos para: {url}", index, url)
                     continue
                 
                 save_to_csv(path_output, url, html_content, from_web_archive)
@@ -143,7 +146,7 @@ def main():
                 time.sleep(1)
                 
             except Exception as e:
-                log_error(f"[Main] Erro crítico com {url}: {str(e)}")
+                log_error(f"[Main] Erro crítico com {url}: {str(e)}", index, url)
     finally:
         driver.quit()
 
