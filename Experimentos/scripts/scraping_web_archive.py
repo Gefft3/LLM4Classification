@@ -68,11 +68,14 @@ def get_latest_wayback_url(url, retries=3, wait_time=5, index=None):
         try:
             response = session.get(wayback_api, headers=HEADERS, timeout=15)
             if response.status_code == 200:
-                data = response.json()
-                if len(data) > 1:
-                    timestamp = data[1][0]
-                    latest_url = f"https://web.archive.org/web/{timestamp}/{url}"
-                    return latest_url
+                try:
+                    data = response.json()
+                    if len(data) > 1:
+                        timestamp = data[1][0]
+                        latest_url = f"https://web.archive.org/web/{timestamp}/{url}"
+                        return latest_url
+                except ValueError:
+                    log_error(f"[Wayback] Erro ao processar JSON: {response.text}", index, url)
             elif attempt == retries - 1:
                 log_error(f"[Wayback] Erro ao acessar API: Status {response.status_code}", index, url)
         except requests.exceptions.RequestException as e:
