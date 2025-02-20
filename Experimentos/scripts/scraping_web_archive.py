@@ -12,12 +12,14 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 PATH_ERRORS = "../../datasets/relevantes/errors.txt"
 
+def format_error_message(message, index=None, url=None):
+    if index is not None and url is not None:
+        return f"Index: {index}, URL: {url}, Error: {message}\n"
+    return message + "\n\n"
+
 def log_error(message, index=None, url=None):
     with open(PATH_ERRORS, 'a', encoding='utf-8') as f:
-        if index is not None and url is not None:
-            f.write(f"Index: {index}, URL: {url}, Error: {message}\n")
-        else:
-            f.write(message + "\n")
+        f.write(format_error_message(message, index, url))
 
 session = requests.Session()
 retry = Retry(
@@ -79,6 +81,9 @@ def get_latest_wayback_url(url, retries=3, wait_time=5, index=None):
             elif attempt == retries - 1:
                 log_error(f"[Wayback] Erro ao acessar API: Status {response.status_code}", index, url)
         except requests.exceptions.RequestException as e:
+            if "Max retries exceeded" in str(e) or "Connection refused" in str(e):
+                log_error(f"[Wayback] Erro de conexão: {str(e)}", index, url)
+                break
             if attempt == retries - 1:
                 log_error(f"[Wayback] Erro na API: {str(e)}", index, url)
             time.sleep(wait_time)
