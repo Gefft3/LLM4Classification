@@ -5,3 +5,4 @@ Experimentos/wandb
 *.out
 
 Experimentos/scripts/scraping.log
+datasets/relevantes/.~lock.scraping_content_uniques.csv#
