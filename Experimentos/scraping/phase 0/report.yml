@@ -1,0 +1,10 @@
+Total url: 6638
+
+  Expanded Url with Selenium: 6556
+
+  Not Expanded Url: 82
+    Erros:
+      Read time out: 24
+      ERR_NAME_NOT_RESOLVED: 56
+      ERR_CONNECTION_REFUSED: 1
+      ERR_CONNECTION_CLOSED: 1
