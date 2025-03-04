@@ -35,9 +35,9 @@ def expand_short_url(driver, short_url, retries=3, wait_time=5):
                 raise e
 
 def main():
-    links_path = '../../datasets/relevantes/dataset_links.csv'
-    output_csv_path = '../../datasets/relevantes/expanded_links.csv'
-    error_log_path = '../../datasets/relevantes/error_log.txt'
+    links_path = '../../../datasets/relevantes/dataset_links.csv'
+    output_csv_path = '../result/expanded_url_selenium.csv'
+    error_log_path = '../logs/error.txt'
 
     dataset_links = pd.read_csv(links_path)
     expanded_links = []
