@@ -98,6 +98,7 @@ def main():
                     save_to_csv(SUCCESS_PATH, url, html_content, True)
                 else:
                     save_to_csv(FAIL_PATH, url, "", False)
+                    log_error("Erro ao obter conteúdo HTML, sem contéudo", index, url)
             
             except Exception as e:
                 log_error(f"Erro crítico ao processar URL: {str(e)}", index, url)
