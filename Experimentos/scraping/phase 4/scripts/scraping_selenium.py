@@ -57,7 +57,7 @@ def save_to_csv(path, url, html_content, retrieved_success):
     new_row.to_csv(path, mode='a', header=not os.path.exists(path), index=False, encoding='utf-8')
 
 def main():
-    dataset_path = '../phase 3/data/retrieved_html_wayback_fail.csv'
+    dataset_path = '../../phase 3/data/retrieved_html_wayback_fail.csv'
 
     if os.path.exists(ERROR_LOG_PATH):
         os.remove(ERROR_LOG_PATH)
@@ -73,7 +73,7 @@ def main():
     try:
         with tqdm(total=len(dataset), desc="Processando URLs") as pbar:
             for index, row in dataset.iterrows():
-                url = row['link']
+                url = row['expanded_url']
                 try:
                     html_content = fetch_html_with_retries(driver, url)
 
