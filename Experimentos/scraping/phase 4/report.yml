@@ -1,0 +1,5 @@
+TOTAL: 1792
+  SUCCESS: 1780
+  
+  FAIL: 12
+    unknown error: net::ERR_NAME_NOT_RESOLVED: 12
