@@ -78,7 +78,7 @@ def save_to_csv(path, url, html_content, retrieved_sucess):
         new_row.to_csv(path, mode='a', header=not os.path.exists(path), index=False, encoding='utf-8')
 
 def main():
-    path_dataset = "../../phase 2/data/unique_expanded_urls.csv"
+    path_dataset = "../../phase 1/data/expanded_url_full.csv"
     
     if os.path.exists(ERROR_LOG_PATH):
         os.remove(ERROR_LOG_PATH)
