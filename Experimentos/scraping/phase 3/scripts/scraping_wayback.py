@@ -68,13 +68,13 @@ def get_html_content(url, index=None):
             log_error(f"Erro ao baixar HTML da Wayback Machine: {str(e)}", index, url)
     return None
 
-def save_to_csv(path, url, html_content, retrieved_sucess):
+def save_to_csv(path, url, short_url, html_content, retrieved_success):
     """Salva os resultados no CSV correspondente."""
-    if retrieved_sucess:
-        new_row = pd.DataFrame({'expanded_url': [url], 'html_content': [html_content]})
+    if retrieved_success:
+        new_row = pd.DataFrame({'expanded_url': [url], 'short_url': [short_url], 'html_content': [html_content]})
         new_row.to_csv(path, mode='a', header=not os.path.exists(path), index=False, encoding='utf-8')
     else:
-        new_row = pd.DataFrame({'expanded_url': [url]})
+        new_row = pd.DataFrame({'expanded_url': [url], 'short_url': [short_url]})
         new_row.to_csv(path, mode='a', header=not os.path.exists(path), index=False, encoding='utf-8')
 
 def main():
@@ -90,18 +90,21 @@ def main():
         return
     
     with tqdm(total=len(dataset), desc="Processando URLs") as pbar:
-        for index, url in enumerate(dataset['expanded_url']):
+        for index, row in dataset.iterrows():
+            url = row['expanded_url']
+            short_url = row.get('short_url', '') 
+            
             try:
                 html_content = get_html_content(url, index=index)
                 
                 if html_content:
-                    save_to_csv(SUCCESS_PATH, url, html_content, True)
+                    save_to_csv(SUCCESS_PATH, url, short_url, html_content, True)
                 else:
-                    save_to_csv(FAIL_PATH, url, "", False)
+                    save_to_csv(FAIL_PATH, url, short_url, "", False)
                     log_error("Erro ao obter conteúdo HTML, sem contéudo", index, url)
             
             except Exception as e:
-                save_to_csv(FAIL_PATH, url, "", False)
+                save_to_csv(FAIL_PATH, url, short_url, "", False)
                 log_error(f"Erro crítico ao processar URL: {str(e)}", index, url)
             
             time.sleep(1)
