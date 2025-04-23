@@ -1,0 +1,8 @@
+pandas
+langchain
+langchain-ollama
+langchain-core
+pydantic
+tqdm
+selenium
+webdriver_manager

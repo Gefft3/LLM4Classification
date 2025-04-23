@@ -1,0 +1,403 @@
+Index: 308, URL: https://folhadeobidos.com.br/index.php/antena-ligada/item/8170-inmet-alerta-para-onda-de-frio-e-risco-de-tempestades-em-15-estados-incluindo-o-par%EF%BF%A1, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 481, URL: http://ww16.portalladob.com.br/281572-cancer-de-prostata-e-a-2a-maior-causa-de-mortes-entre-homens/?sub1=20250211-2127-162f-aef4-7727ba388ccd, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 488, URL: https://ww38.portalladob.com.br/283227-lacen-rj-realiza-o-diagnostico-da-meningite-em-uma-hora/?subid1=20250211-2130-411a-a5e2-92f1d77a86b8, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1634, URL: https://www.saude.ba.gov.br/2024/02/18/plano-de-contingencia-da-bahia-no-combate-a-dengue-e-referencia-nacional-destaca-ministerio-da-saude/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1776, URL: https://d.emtempo.com.br/amazonas/322571/amazonas-inicia-utilizacao-de-novo-medicamento-para-cura-de-malaria, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1777, URL: http://avoz.com.ar/ciudadanos/detectan-casos-de-dengue-en-formosa-y-advierten-que-en-2022-habra-mas-incidencia-en-argentina/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1778, URL: https://jornal.brasilemfolhas.com.br/2022/01/covid-19-rio-inicia-hoje-vacinacao-de-criancas/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1779, URL: https://www.primeirapagina.to/noticias/casos-notificados-de-dengue-e-diagn%C3%B3sticos-de-chikungunya-crescem-no-tocantins/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1781, URL: https://sapobrasil.com.br/atualidade/artigos/venezuela-relata-seu-primeiro-caso-de-variola-do-macaco, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1782, URL: https://www.primeirapagina.to/noticias/casos-de-hepatite-b-crescem-mais-de-26-no-tocantins/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1783, URL: https://www.primeirapagina.to/noticias/mais-de-61-dos-casos-suspeitos-de-monkeypox-em-palmas-s%EF%BF%BDo-em-mulheres/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1784, URL: http://ribunadosertao.com.br/2022/07/cobertura-vacinal-atinge-niveis-criticos-e-ameaca-saude-coletiva/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+
+Index: 1786, URL: https://capitaldeminas.com.br/noticias/pesquisa-identifica-locais-com-maior-risco-de-inundacao/, Error: Erro crítico ao processar URL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.165)
+Stacktrace:
+#0 0x61d33aa9cffa <unknown>
+#1 0x61d33a55b970 <unknown>
+#2 0x61d33a552af8 <unknown>
+#3 0x61d33a543009 <unknown>
+#4 0x61d33a544d0d <unknown>
+#5 0x61d33a54339e <unknown>
+#6 0x61d33a542d3e <unknown>
+#7 0x61d33a5429ef <unknown>
+#8 0x61d33a540739 <unknown>
+#9 0x61d33a54100a <unknown>
+#10 0x61d33a55ee09 <unknown>
+#11 0x61d33a5fa3e5 <unknown>
+#12 0x61d33a5d3292 <unknown>
+#13 0x61d33a5f970c <unknown>
+#14 0x61d33a5d3063 <unknown>
+#15 0x61d33a59f328 <unknown>
+#16 0x61d33a5a0491 <unknown>
+#17 0x61d33aa6442b <unknown>
+#18 0x61d33aa682ec <unknown>
+#19 0x61d33aa4ba22 <unknown>
+#20 0x61d33aa68e64 <unknown>
+#21 0x61d33aa2fbef <unknown>
+#22 0x61d33aa8b558 <unknown>
+#23 0x61d33aa8b736 <unknown>
+#24 0x61d33aa9be76 <unknown>
+#25 0x740b0c2c770a <unknown>
+#26 0x740b0c34baac <unknown>
+

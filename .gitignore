@@ -3,6 +3,7 @@ Dicionario_de_Dados_SRAG_Hospitalizado_25.05.2023.pdf
 Experimentos/wandb
 *debug*
 *.out
+*.log
 
 Experimentos/scripts/scraping.log
 datasets/relevantes/.~lock.scraping_content_uniques.csv#
