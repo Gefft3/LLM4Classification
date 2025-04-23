@@ -75,7 +75,7 @@ def run_test(df, path_outputs, prompt, _chain):
     i = verificar_dataframe(path_outputs)
 
     for _, row in tqdm(df.iterrows(), total=len(df)):
-        html_content = row.get("html", "")
+        html_content = row.get("html_content", "")
         short_url = row.get("short_url", "")
         expanded_url = row.get("expanded_url", "")
 
@@ -98,7 +98,7 @@ if __name__ == "__main__":
   
     csv_path = sys.argv[1]
 
-    path_outputs = f'/outputs'
+    path_outputs = f'outputs'
 
     if not os.path.exists(path_outputs):
         os.makedirs(path_outputs)
