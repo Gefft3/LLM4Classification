@@ -6,7 +6,6 @@ from pydantic import BaseModel, Field
 from tqdm import tqdm
 import sys
 import os
-import re
 import gc
 
 # Modelo de resposta estruturada para a tarefa de filtragem
@@ -43,19 +42,6 @@ HTML: {html_content}
 def load_data(csv_path):
     return pd.read_csv(csv_path)
 
-# Recupera o último registro processado a partir dos logs
-def verificar_dataframe(path_outputs):
-    path_arquivo_de_prompts = os.path.join(path_outputs, "prompts.txt")
-    last_prompt_processed = 0
-
-    if os.path.exists(path_arquivo_de_prompts):
-        with open(path_arquivo_de_prompts, "r", encoding="utf-8") as f:
-            conteudo = f.read().strip().split("--------------------------------\n\n")
-            for bloco in conteudo:
-                match = re.search(r"Question (\d+)", bloco.strip())
-                if match:
-                    last_prompt_processed = int(match.group(1))
-    return last_prompt_processed
 
 # Encapsula a chamada ao LLM passando o conteúdo HTML
 def ollama_llm(html_content, i, path_outputs, prompt, _chain):
@@ -72,7 +58,7 @@ def ollama_llm(html_content, i, path_outputs, prompt, _chain):
 def run_test(df, path_outputs, prompt, _chain):
     path_arquivo_de_erros = os.path.join(path_outputs, "Erros.txt")
     path_arquivo_de_filtragens = os.path.join(path_outputs, "filtragens.txt")
-    i = verificar_dataframe(path_outputs)
+    i = 0
 
     for _, row in tqdm(df.iterrows(), total=len(df)):
         html_content = row.get("html_content", "")
@@ -105,7 +91,5 @@ if __name__ == "__main__":
 
     df = load_data(csv_path)
     prompt, _chain = config_model()
-    ultimo = verificar_dataframe(path_outputs)
-    df = df.iloc[ultimo:]
 
     run_test(df, path_outputs, prompt, _chain)
