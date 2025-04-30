@@ -1,12 +1,10 @@
-TOTAL: 6457
-  SUCESS: 4665
+TOTAL: 6602
+  SUCESS: 4814
   
-  FAIL: 1792
-    Erro ao obter conteúdo HTML, sem contéudo: 1791
+  FAIL: 1788
+    Erro ao obter conteúdo HTML, sem contéudo: 1788
     Erro ao processar JSON da Wayback Machine: 102
-    HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: 54 (tentar diferentes timestamps)
-    Erro crítico ao processar URL: need to escape, but no escapechar set: 1
-    Erro na API da Wayback Machine: Status 403: 1
+    Erro na API da Wayback Machine: Status 403: 13
     Erro ao baixar HTML da Wayback Machine: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out.: 1
 
 
