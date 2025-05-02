@@ -1,0 +1,16 @@
+### STATISTICS ###
+
+Total HTML files retrieved: 6590
+
+Retrieved HTML metrics: 
+  Average tokens per HTML before cleaning: 76188.75
+  Average tokens per HTML after cleaning: 2173.92
+  Token reduction percentage after cleaning (%): 97.14
+  
+
+Manually cleaned HTML:
+  Number of tokens in HTML content: 30897
+  Number of tokens in bs4 text: 1746
+  Number of tokens in manual text: 1987
+  Token reduction from HTML to bs4 text (%): 94.35
+  Token reduction from HTML to manual text (%): 93.57

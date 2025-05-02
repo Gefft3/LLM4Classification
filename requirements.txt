@@ -6,3 +6,4 @@ pydantic
 tqdm
 selenium
 webdriver_manager
+bs4
