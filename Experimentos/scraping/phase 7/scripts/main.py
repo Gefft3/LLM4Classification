@@ -18,21 +18,23 @@ class Response(BaseModel):
 def config_model():
     prompt = PromptTemplate.from_template(
         """
-Você está recebendo um HTML completo de uma página e o resumo do seu conteúdo principal.
+Você está recebendo um texto de uma página e o resumo do seu conteúdo principal.
 
 Tarefa:
-- Analise se o trecho do HTML apresentado tem relação direta com o resumo fornecido.
+- Analise se o trecho do texto apresentado tem relação direta com o resumo fornecido.
 - Relacione elementos informativos como frases, palavras-chave e tópicos principais.
 
 Formato da saída:
-is_relevant: [true ou false]
-justify: [Justificativa da decisão]
+{{
+  "is_relevant": true|false,
+  "justify": "Justificativa da decisão"
+}}
 
 Resumo:
 {summary}
 
-Chunk de HTML:
-{html_chunk}
+Chunk do texto:
+{text_chunk}
 """
     )
 
@@ -55,8 +57,8 @@ def load_data(csv_path):
     return pd.read_csv(csv_path)
 
 # Processamento por chunk
-def process_html_chunks(i, html, summary, _chain, path_outputs):
-    chunks = chunk_text(html, max_tokens=2000)
+def process_text_chunks(i, text, summary, _chain, path_outputs):
+    chunks = chunk_text(text, max_tokens=2000)
     relevantes = []
 
     for idx, chunk in enumerate(chunks):
@@ -66,7 +68,7 @@ def process_html_chunks(i, html, summary, _chain, path_outputs):
                 f.write(f"[{i}] Chunk {idx} | Resumo: {summary}\nChunk:\n{chunk}\n-----------------------\n")
 
             # Obtém a resposta do modelo
-            response = _chain.invoke({'html_chunk': chunk, 'summary': summary})
+            response = _chain.invoke({'text_chunk': chunk, 'summary': summary})
             is_rel = response.is_relevant
             justificativa = response.justify
 
@@ -76,7 +78,7 @@ def process_html_chunks(i, html, summary, _chain, path_outputs):
 
             # Salva a classificação
             with open(os.path.join(path_outputs, "classes.txt"), "a", encoding="utf-8") as f:
-                f.write(f"[{i}] Chunk {idx} | Relevant: {is_rel}\nJustificativa: {justificativa}\n-----------------------\n")
+                f.write(f"[{i}] Chunk {idx} | Relevant: {is_rel}\n-----------------------\n")
 
             if is_rel:
                 relevantes.append((chunk, justificativa))
@@ -85,28 +87,39 @@ def process_html_chunks(i, html, summary, _chain, path_outputs):
             # Salva os erros
             with open(os.path.join(path_outputs, "errors.txt"), "a", encoding="utf-8") as f:
                 f.write(f"[{i}] Chunk {idx} | Erro: {e}\n-----------------------\n")
-    return relevantes
+    return relevantes, len(chunks)
 
 # Processa o CSV completo
 def run(df, path_outputs, _chain):
- 
     resultados_path = os.path.join(path_outputs, "relevantes.txt")
+    total_chunks = 0
+    total_rows = 0
 
     for i, row in tqdm(df.iterrows(), total=len(df)):
-        html = row.get("html_content", "")
+        text = row.get("html_content", "")
         summary = row.get("summary", "")
         short_url = row.get("short_url", "")
         expanded_url = row.get("expanded_url", "")
 
-        relevantes = process_html_chunks(i, html, summary, _chain, path_outputs)
+        relevantes, num_chunks = process_text_chunks(i, text, summary, _chain, path_outputs)
+        total_chunks += num_chunks
+        total_rows += 1
 
         with open(resultados_path, "a", encoding="utf-8") as f:
             for idx, (chunk, justificativa) in enumerate(relevantes):
                 f.write(f"[{i}] Chunk relevante {idx} | short_url: {short_url} | expanded_url: {expanded_url}\nJustificativa: {justificativa}\nChunk:\n{chunk}\n--------------------\n\n")
 
+    # Calcula e registra a média de chunks por documento
+    average = total_chunks / total_rows if total_rows > 0 else 0
+    with open(os.path.join(path_outputs, "average_chunks.yml"), "w", encoding="utf-8") as f:
+        f.write(f"Total documentos processados: {total_rows}\n")
+        f.write(f"Total de chunks criados: {total_chunks}\n")
+        f.write(f"Média de chunks por documento: {average:.2f}\n")
+
 if __name__ == "__main__":
-    csv_path = sys.argv[1] 
-    path_outputs = "../outputs"
+    # Espera caminho relativo para pasta data
+    csv_path = os.path.join(os.path.dirname(__file__), "..", "data", sys.argv[1])  # ex: 'dataset.csv'
+    path_outputs = os.path.join(os.path.dirname(__file__), "..", "logs")
 
     if not os.path.exists(path_outputs):
         os.makedirs(path_outputs)
