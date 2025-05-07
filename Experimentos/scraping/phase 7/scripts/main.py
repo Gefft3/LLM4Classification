@@ -29,7 +29,7 @@ is_relevant: [true ou false]
 justify: [Justificativa da decisão]
 
 Resumo:
-{abstract}
+{summary}
 
 Chunk de HTML:
 {html_chunk}
@@ -55,7 +55,7 @@ def load_data(csv_path):
     return pd.read_csv(csv_path)
 
 # Processamento por chunk
-def process_html_chunks(i, html, abstract, _chain, path_outputs):
+def process_html_chunks(i, html, summary, _chain, path_outputs):
     chunks = chunk_text(html, max_tokens=2000)
     relevantes = []
 
@@ -63,10 +63,10 @@ def process_html_chunks(i, html, abstract, _chain, path_outputs):
         try:
             # Salva o prompt de entrada
             with open(os.path.join(path_outputs, "prompts.txt"), "a", encoding="utf-8") as f:
-                f.write(f"[{i}] Chunk {idx} | Resumo: {abstract}\nChunk:\n{chunk}\n-----------------------\n")
+                f.write(f"[{i}] Chunk {idx} | Resumo: {summary}\nChunk:\n{chunk}\n-----------------------\n")
 
             # Obtém a resposta do modelo
-            response = _chain.invoke({'html_chunk': chunk, 'abstract': abstract})
+            response = _chain.invoke({'html_chunk': chunk, 'summary': summary})
             is_rel = response.is_relevant
             justificativa = response.justify
 
@@ -94,11 +94,11 @@ def run(df, path_outputs, _chain):
 
     for i, row in tqdm(df.iterrows(), total=len(df)):
         html = row.get("html_content", "")
-        abstract = row.get("abstract", "")
+        summary = row.get("summary", "")
         short_url = row.get("short_url", "")
         expanded_url = row.get("expanded_url", "")
 
-        relevantes = process_html_chunks(i, html, abstract, _chain, path_outputs)
+        relevantes = process_html_chunks(i, html, summary, _chain, path_outputs)
 
         with open(resultados_path, "a", encoding="utf-8") as f:
             for idx, (chunk, justificativa) in enumerate(relevantes):
