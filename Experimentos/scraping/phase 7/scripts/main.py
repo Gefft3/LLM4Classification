@@ -119,7 +119,10 @@ def run(df, path_outputs, _chain):
 if __name__ == "__main__":
     # Espera caminho relativo para pasta data
     csv_path = os.path.join(os.path.dirname(__file__), "..", "data", sys.argv[1])  
+    class_type = sys.argv[2]
     path_outputs = os.path.join(os.path.dirname(__file__), "..", "logs")
+
+    path_outputs = os.path.join(path_outputs, class_type)
 
     if not os.path.exists(path_outputs):
         os.makedirs(path_outputs)
