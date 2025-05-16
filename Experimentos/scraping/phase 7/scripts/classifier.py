@@ -61,7 +61,7 @@ def load_data(csv_path):
 # Processamento por chunk
 def process_text_chunks(i, text, summary, _chain, path_outputs):
     chunks = chunk_text(text, max_tokens=2000)
-    relevantes = []
+    classes = []
 
     for idx, chunk in enumerate(chunks):
         try:
@@ -83,13 +83,13 @@ def process_text_chunks(i, text, summary, _chain, path_outputs):
                 f.write(f"[{i}] Chunk {idx} | Relevant: {is_rel}\n-----------------------\n")
 
             if is_rel:
-                relevantes.append((chunk, justificativa))
+                classes.append((chunk, justificativa))
 
         except Exception as e:
             # Salva os erros
             with open(os.path.join(path_outputs, "errors.txt"), "a", encoding="utf-8") as f:
                 f.write(f"[{i}] Chunk {idx} | Erro: {e}\n-----------------------\n")
-    return relevantes, len(chunks)
+    return classes, len(chunks)
 
 # Processa o CSV completo
 def run(df, path_outputs, _chain):
@@ -105,12 +105,12 @@ def run(df, path_outputs, _chain):
         short_url = row.get("short_url", "")
         expanded_url = row.get("expanded_url", "")
 
-        relevantes, num_chunks = process_text_chunks(i, text, summary, _chain, path_outputs)
+        classes, num_chunks = process_text_chunks(i, text, summary, _chain, path_outputs)
         total_chunks += num_chunks
         total_rows += 1
 
         with open(resultados_path, "a", encoding="utf-8") as f:
-            for idx, (chunk, justificativa) in enumerate(relevantes):
+            for idx, (chunk, justificativa) in enumerate(classes):
                 f.write(f"[{i}] Chunk relevante {idx} | short_url: {short_url} | expanded_url: {expanded_url}\nJustificativa: {justificativa}\nChunk:\n{chunk}\n--------------------\n\n")
 
     # Calcula e registra a média de chunks por documento
