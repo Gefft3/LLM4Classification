@@ -2,8 +2,8 @@
 
 sleep 2
 
-path_dataset="../../data/text_success_with_summary_sample.csv"
+path_dataset="../../data/text_success_with_summary.csv"
 
-class="relevant_sample"
+class="relevant"
 
-nohup python3 main.py $path_dataset $class > main.log 2>&1 &
+nohup python3 classifier.py $path_dataset $class > classifier.log 2>&1 &

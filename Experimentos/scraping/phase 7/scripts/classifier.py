@@ -47,6 +47,8 @@ Chunk do texto:
 
 # Chunkinização usando tokenização aproximada
 def chunk_text(text, max_tokens=2000):
+    if not isinstance(text, str):
+        text = str(text) 
     enc = tiktoken.get_encoding("cl100k_base")
     tokens = enc.encode(text)
     chunks = [tokens[i:i+max_tokens] for i in range(0, len(tokens), max_tokens)]
@@ -97,6 +99,8 @@ def run(df, path_outputs, _chain):
 
     for i, row in tqdm(df.iterrows(), total=len(df)):
         text = row.get("html_content", "")
+        if not isinstance(text, str):
+            text = str(text)  # Ensure text is a string
         summary = row.get("summary", "")
         short_url = row.get("short_url", "")
         expanded_url = row.get("expanded_url", "")

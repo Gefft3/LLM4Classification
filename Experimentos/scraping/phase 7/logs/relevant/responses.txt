@@ -1,0 +1,1065 @@
+[0] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao tema da prevenção e combate a incêndios em florestas plantadas, que é o foco principal da notícia. Além disso, o texto menciona a importância da participação do setor de florestas plantadas na economia do estado e a preocupação constante do governo com a segurança desses investimentos.'
+-----------------------
+[1] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da Campanha de Vacinação Antirrábica que começa na Capital (Campo Grande) nesta terça-feira. O conteúdo aborda os detalhes da campanha, como a data, o objetivo, as doses gratuitas e a importância da colaboração dos tutores de cães e gatos para garantir a saúde da população humana.'
+-----------------------
+[2] Chunk 0 | Resposta:
+is_relevant=True justify='O texto contém informações sobre um incêndio que atingiu uma casa de festas em Campo Grande, MS, e como o empresário afetado estima os prejuízos.'
+-----------------------
+[2] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não contém informações sobre o conteúdo principal, pois apenas lista um número de telefone sem qualquer contexto ou detalhes relevantes.'
+-----------------------
+[3] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois o resumo menciona um conteúdo principal sem especificar o que é. O trecho do texto parece ser uma mensagem de erro ou aviso sobre a necessidade de habilitar JavaScript para acessar uma aplicação.'
+-----------------------
+[4] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda a Frente Parlamentar de Recursos Hídricos da ALEMS, que está realizando audiências públicas para implementação de ações à preservação das reservas hídricas do Estado. O tema é relevante para o público interessado em meio ambiente e gestão de recursos hídricos.'
+-----------------------
+[4] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona nenhum evento ou notícia relacionada à política, saúde, economia ou outros tópicos principais que estão presentes no resumo.'
+-----------------------
+[5] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda um pedido do estado de Mato Grosso do Sul para que o governo federal forneça uma terceira dose de vacina contra a COVID-19 para reforçar a imunização em idosos, após um estudo mostrando que os casos e mortes por coronavírus estão aumentando entre essa faixa etária. A notícia é relevante porque aborda uma questão de saúde pública e política, e pode ter implicações para a população do estado e para o país como um todo.'
+-----------------------
+[5] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois trata sobre a pandemia de Covid-19 e seus impactos na população idosa no estado de Mato Grosso do Sul. O conteúdo do trecho inclui informações sobre a idade mais avançada que é afetada pela doença, o número de óbitos registrados, a taxa de letalidade entre os idosos e as medidas de segurança implementadas pela SES.'
+-----------------------
+[6] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda a situação atual do estado de Mato Grosso do Sul (MS) em relação à ocupação das UTIs Covid-19 e como isso está relacionado com a vacinação contra a doença. A redução nas mortes e a queda nos índices de ocupação são resultado da eficiência da imunização, vigilância sanitária, uso de máscaras e medidas de distanciamento social.'
+-----------------------
+[6] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado discute a situação de saúde no Mato Grosso do Sul, especificamente sobre a média móvel de mortes por covid-19, que é menor em comparação com o recorde histórico. Além disso, o texto também menciona a importância de manter os serviços de vigilância em alerta e a necessidade de observar as variantes do vírus. Embora não seja um trecho direto do resumo fornecido, ele está relacionado ao tema da saúde pública no estado.'
+-----------------------
+[7] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda um tema sensível como o estupro de crianças e adolescentes nas escolas. A publicação destaca a importância do Projeto Valorização da Vida, que ajuda as crianças vítimas de violência sexual ou maus-tratos, e apresenta números específicos sobre os casos identificados nas escolas da Rede Municipal desde o retorno presencial das aulas em 26 de julho. O texto também destaca a necessidade de preparação dos profissionais na escola para ajudar as crianças vítimas de abuso sexual ou violência.'
+-----------------------
+[7] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a importância da denúncia em casos de estupro de vulnerável, especialmente nas escolas municipais. O texto também destaca a capacitação dos profissionais da educação para identificar sinais de violência e a importância de denunciar situações de abuso sexual.'
+-----------------------
+[8] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia é relevante porque informa sobre a recuperação de uma paciente que passou por um ambulatório pós-covid no CER/APAE de Campo Grande, mostrando o trabalho realizado pela equipe e a importância da reabilitação pós-covid.'
+-----------------------
+[8] Chunk 1 | Resposta:
+is_relevant=False justify='O resumo fornecido não menciona o conteúdo principal do texto, que é sobre notícias de Campo Grande e Mato Grosso do Sul, incluindo acidentes, crimes, esportes e eventos comunitários. O resumo está vazio, o que indica que não há informações relevantes para comparar.'
+-----------------------
+[9] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda o tema da vacinação contra a covid-19, especificamente a discussão sobre a necessidade de uma terceira dose para idosos. O artigo menciona estudos e dados que apontam para a importância da vacinação em diferentes faixas etárias, incluindo a redução das mortes por covid-19 entre jovens e idosos. Além disso, o texto discute as discussões em curso sobre a inclusão de uma terceira dose na vacinação de idosos e como isso pode afetar a estratégia de vacinação no Brasil.'
+-----------------------
+[9] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona nenhuma das seguintes informações: Copa Libertadores, Dourados, Pedro Juan Caballero, Copa Sul-Americana, Corumbá, Cotação do dia, Sexta-feira, Fortaleza, Jardim Itamaracá, Flexpark Metropark, Paraíso das Águas, PCdoB, Vídeo, Três Lagoas, Epidemia, Empresas, Caarapó, RUA DA PAZ, Campo Grande News, Loterias, Empregos, Enquetes, Esporte, Interior, Meio Ambiente, Política, Educação e Tecnologia, Cidades, Artigos, Reportagens, Especiais, Conteúdo Patrocinado, TV News, Mapa Interativo, Lado-B, Arquitetura, Artes, Comportamento, Consumo, Sabor, Diversão, Faz Bem!, Games, Direto das Ruas, Notícias Direto das Ruas, Como Funciona, Envie sua Matéria, Conteúdo Patrocinado, Festas e Eventos, TV Leroy Merlin, Relax Life News, Saúde, Lotérica, Campo Grande Colunistas, Jogo Aberto, Festas e Eventos, TV Em Pauta, Ampla Visão, Lugares por Onde Ando, Beba das Crônicas, Saúde em Equilíbrio, Momento Saúde Bucal, Trilha Orgânica, Atitude Samurai, Amor em 4 Patas, Boa Imagem, Veículos Lado Rural, Classificados, Anuncie Grátis, Regras Dicas, Contato, Achados e Perdidos, Agronegócio, Automóveis, Bebês e Crianças, Emprego, Imóveis, Informática, Moda e Beleza, Negócios e Oportunidades, Pet Serviços, Expediente Anunciar, Política de Privacidade, Fale Conosco, Reportar Erro.'
+-----------------------
+[10] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda um tema de saúde pública e segurança dos pacientes em hospitais, o que é relevante para a audiência do site. Além disso, a denúncia apresentada pela promotora de Justiça pode ter implicações legais e éticas significativas, tornando-a uma notícia de grande interesse público.'
+-----------------------
+[10] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona a instauração de um inquérito ou contaminações em nenhum hospital. O conteúdo do trecho parece ser uma lista de notícias e artigos publicados no jornal Midiamax, sem qualquer conexão com o tema do resumo.'
+-----------------------
+[11] Chunk 0 | Resposta:
+is_relevant=True justify='O texto contém uma variedade de tópicos, incluindo notícias locais, eventos, artigos e anúncios. Ele parece ser um site de notícias online que cobre uma ampla gama de assuntos relacionados à vida em Campo Grande, Mato Grosso do Sul, Brasil.'
+-----------------------
+[11] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não contém informações relevantes sobre o conteúdo principal. O resumo menciona apenas a presença de links para outros sites/vídeos e imagens ou gifs com teor desrespeitoso, mas não fornece detalhes sobre o assunto em si.'
+-----------------------
+[12] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a vacinação contra a covid-19 e a decisão do governo de priorizar a terceira dose para idosos, em vez de vacinar todos os adolescentes. O artigo fornece informações sobre o contexto político e social que levaram a essa decisão, bem como as implicações potenciais para a saúde pública.'
+-----------------------
+[12] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não contém informações sobre a ciência da saúde ou equilíbrio. O conteúdo é mais relacionado a anúncios de serviços e classificados em um local específico.'
+-----------------------
+[13] Chunk 0 | Resposta:
+is_relevant=True justify='O governo do Estado prepara uma parceria com a UFMS para realizar o sequenciamento genético das amostras de covid-19 para monitorar a chegada da nova cepa, a Delta. A variante apresenta sinais diferentes dos clássicos sintomas da Covid-19 e os imunizados podem apresentar sinais brandos, o que pode confundir.'
+-----------------------
+[13] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de uma notícia sobre a eficácia das vacinas contra a variante delta do coronavírus, enquanto o resumo parece ser mais relacionado a notícias gerais e eventos locais em Campo Grande e Mato Grosso do Sul.'
+-----------------------
+[14] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda um estudo sobre a vacinação em massa na fronteira de Mato Grosso do Sul, mostrando uma redução expressiva nos casos e óbitos por Covid-19.'
+-----------------------
+[14] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado discute um estudo epidemiológico sobre a vacina Janssen, que foi utilizado para monitorar o impacto da vacina em relação à imunidade coletiva e a incidência da doença em crianças. Isso está relacionado ao resumo fornecido, que menciona um estudo de vacinação em massa com a vacina Janssen em municípios do Mato Grosso do Sul.'
+-----------------------
+[15] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a notícia de que o cantor Sérgio Reis foi alvo da PF e que o procurador-geral da República, Raquel Aras, será relator de um pedido para investigar Aras no STF. A notícia é relevante porque envolve um caso de corrupção e abuso de poder, temas que são importantes para a sociedade brasileira.'
+-----------------------
+[15] Chunk 1 | Resposta:
+is_relevant=True justify='O texto fornece uma lista extensa de canais de televisão brasileiros, incluindo canais regionais e nacionais. A lista inclui canais como Globo, Rede Globo, Rede Record, SBT, TV Brasil, TV Cultura, TV Pulsar, TV UOL, entre outros. Além disso, a lista menciona canais de notícias, concursos e esportes, como Antena Paulista, Terra da Gente, Nosso Campo, Diário, Fronteira Notícias, entre outros. A lista também inclui canais de TV aberta e por cabo, como TV Brasil, TV Cultura, TV Pulsar, TV UOL, entre outros. Em resumo, a lista fornece uma visão geral dos principais canais de televisão brasileiros, incluindo canais regionais e nacionais, notícias, concursos e esportes, além de canais de TV aberta e por cabo.'
+-----------------------
+[15] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona explicitamente a região de São Paulo ou qualquer outro estado brasileiro. Embora contenha menções a vários estados e cidades, elas não estão relacionadas ao conteúdo do resumo.'
+-----------------------
+[16] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da vacinação de adolescentes contra a covid-19 no estado de Mato Grosso do Sul. O texto menciona que 10% dos adolescentes até 17 anos já foram imunizados e que mais de 29 mil jovens receberam a primeira dose da vacina.'
+-----------------------
+[17] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a confirmação da primeira morte por dengue do ano em Recife, um tema que está relacionado ao resumo. Além disso, o texto fornece informações adicionais sobre a situação, como os bairros mais afetados pela doença e as taxas de detecção das doenças transmitidas pelo Aedes aegpti.'
+-----------------------
+[18] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda um projeto de obras para o controle de enchentes em Campo Grande, uma cidade no estado do Mato Grosso do Sul, Brasil. A Prefeitura de Campo Grande abriu licitação para contratar empresa para elaborar projeto de obras necessárias ao controle de enchentes. O projeto envolve a elaboração de projetos com avaliação estrutural do canal do Córrego Segredo, além do recapeamento das duas pistas marginais, a avenida Ernesto Geisel, entre a rua Santa Adélia e a avenida Mascarenhas de Moraes. O projeto tem um valor estimado de R$ 2,3 milhões e será custeado com recursos do BID (Banco Interamericano de Desenvolvimento). A notícia é relevante para os temas de infraestrutura urbana, gestão de riscos naturais e desenvolvimento sustentável.'
+-----------------------
+[18] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona nenhum tópico principal como a notícia de um preso, morte por Covid-19, capítulos de TV e Novela, esportes, chuva, enxurrada, Enade ou notícias gerais. O conteúdo do trecho parece ser mais focado em anúncios e informações sobre o jornal, como a política de privacidade e os direitos autorais.'
+-----------------------
+[19] Chunk 0 | Resposta:
+is_relevant=True justify='O boletim epidemiológico apresentado nesta quarta-feira, 18 de agosto de 2021, é uma fonte confiável e atualizada sobre a situação da COVID-19 no Mato Grosso do Sul. A publicação fornece informações detalhadas sobre o número de casos, mortes, testes realizados e outras métricas relevantes para entender a evolução da pandemia no estado.'
+-----------------------
+[19] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado faz referência ao Portal Conleg, que é um site criado para reforçar a transparência dos atos do Governo de MS. Além disso, o texto também menciona a taxa de contágio da Covid-19 no Mato Grosso do Sul, que está abaixo de 0,90 há mais de um mês, indicando uma tendência de estabilidade na transmissão. Esses tópicos principais estão relacionados ao resumo fornecido.'
+-----------------------
+[20] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia é relevante porque informa sobre a decisão do governo de Mato Grosso do Sul de manter o uso obrigatório de máscaras até dezembro de 2021, mesmo com 58% da população vacinada. Isso é importante para a comunidade e deve ser considerado em discussões sobre saúde pública.'
+-----------------------
+[20] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que é sobre a vacinação contra a variante Delta da COVID-19 no estado de Mato Grosso do Sul. O conteúdo do trecho está mais relacionado à situação da favela Homex em Campo Grande e ao governo de MS procurando um parceiro para assumir a concessão do Estádio Morenão.'
+-----------------------
+[21] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda uma situação política e social relevante em Mato Grosso do Sul, Brasil, onde o governo está considerando entrar na Justiça para exigir doses de vacina contra a covid-19 que foram previstas para serem distribuídas ao estado. A mudança na metodologia de distribuição, priorizando estados com populações acima de 18 anos ainda não vacinadas, afeta diretamente o estado, que já tem quase 100% da sua população adulta vacinada. O texto também menciona a possibilidade de ação judicial para garantir o mesmo número de doses recebidas pelo estado como o estado de São Paulo, que questionou o Ministério da Saúde juridicamente e ganhou a causa.'
+-----------------------
+[21] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois se refere à vacinação de idosos contra o coronavírus em Mato Grosso do Sul. O Ministério da Saúde está considerando a liberação da nova etapa para idosos e profissionais da saúde, e a SES (Secretaria de Estado de Saúde) defende a dose de reforço neste público.'
+-----------------------
+[22] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a situação atual do surto de SARS-CoV-2, incluindo o crescimento dos casos e óbitos por SRAG, e apresenta os resultados de um estudo que investiga o papel dos anticorpos contra Covid-19 no leite materno. O texto também menciona a produção de vacinas e a importância da mobilização das autoridades e população locais para controlar a pandemia.'
+-----------------------
+[22] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não contém informações sobre testes de antígeno para o SUS. O conteúdo do trecho parece ser mais relacionado a informações gerais da instituição e suas publicações.'
+-----------------------
+[23] Chunk 0 | Resposta:
+is_relevant=True justify='El texto trata sobre el cambio climático y las medidas que se pueden tomar para mitigar sus efectos. La respuesta proporciona información sobre los impactos del calentamiento global en América Central y el Sur, así como sobre las acciones que se pueden tomar para adaptarse a estos cambios.'
+-----------------------
+[23] Chunk 1 | Resposta:
+is_relevant=False justify='O texto não apresenta relação direta com o resumo fornecido, que menciona um imposto sobre o valor agregado. O conteúdo do trecho é sobre nombramentos e ajustes em tarifas elétricas, bem como cooperação entre Costa Rica e Itália para combater a evasão fiscal.'
+-----------------------
+[24] Chunk 0 | Resposta:
+is_relevant=True justify='O texto fala sobre um projeto piloto da Agevisa que visa monitorar e fazer o acompanhamento das gestantes vacinadas contra a covid-19. Isso é relevante para o tema de saúde pública, especialmente em relação à vacinação contra a covid-19 durante a gravidez.'
+-----------------------
+[24] Chunk 1 | Resposta:
+is_relevant=True justify='O texto parece ser um conjunto de links para diferentes agências reguladoras de serviços públicos no Brasil, incluindo ANA, ANAC, ANEEL, ANP, ANTAQ, ANTT, entre outras. O conteúdo é relevante para quem está interessado em regulamentação de serviços públicos e governança pública.'
+-----------------------
+[24] Chunk 2 | Resposta:
+is_relevant=True justify='O texto fornece uma lista extensa de serviços e processos administrativos oferecidos por diferentes entidades, incluindo a DER-RO, JUCER, SEDAM, IDARON, SESDEC, SEAS, CAERD, PM, PGE, SEPOG, EMATER, SIAOF, SIGATER, SIGLAM, SIAOF, e outros. A lista inclui serviços de tecnologia, processos administrativos, procedimentos financeiros, entre outros. O texto parece ser um catálogo ou uma lista de serviços oferecidos por essas entidades, o que sugere que ele pode ser relevante para quem está procurando informações sobre serviços administrativos ou técnicos.'
+-----------------------
+[24] Chunk 3 | Resposta:
+is_relevant=True justify='O trecho apresentado parece ser um resumo de uma lista de ações ou procedimentos administrativos relacionados ao governo do estado de Rondônia, incluindo abertura de sistemas, solicitação de estagiários e veículos, e outros assuntos. Embora o texto não contenha informações específicas sobre políticas públicas, programas ou notícias, parece ter relação direta com o resumo fornecido, pois ambos tratam de assuntos administrativos e relacionados ao governo do estado.'
+-----------------------
+[25] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda estudos sobre a eficácia da vacina Coronavac contra casos graves e pneumonia causados pela variante delta do coronavírus, sendo relevante para o público que busca informações atualizadas sobre imunização contra a COVID-19.'
+-----------------------
+[25] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois aborda a utilização de cookies pelo site O TEMPO e as opções de privacidade do usuário.'
+-----------------------
+[26] Chunk 0 | Resposta:
+is_relevant=True justify='O texto apresentado é relevante para o resumo fornecido, pois se trata da vacuna contra o VIH (Vírus da Imunodeficiência Humana) e a sua fase de testes em serem administrados a humanos. O trecho menciona que a vacina Mosaico será testada com cerca de 4 mil pessoas de vários países, incluindo Espanha, Estados Unidos, Brasil, Argentina e México.'
+-----------------------
+[27] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata de informações sobre a SESAPI, como sua estrutura, equipe gestora, missão e visão, bem como serviços e atividades realizadas pela instituição. Além disso, o trecho menciona notícias e eventos relacionados à SESAPI, como o lançamento de um curso online gratuito para capacitar profissionais de saúde em emergências obstétricas.'
+-----------------------
+[28] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda a variante Delta e seus impactos sobre crianças, incluindo o aumento de casos e mortes. Além disso, a notícia menciona a vacinação de adolescentes em Fortaleza, o que é relevante para a audiência do jornal.'
+-----------------------
+[28] Chunk 1 | Resposta:
+is_relevant=True justify='O texto é relevante porque fornece informações atualizadas sobre o número de casos confirmados da variante Delta do coronavírus no Ceará, bem como as medidas de prevenção recomendadas pela Secretaria da Saúde do Estado.'
+-----------------------
+[28] Chunk 2 | Resposta:
+is_relevant=True justify='O texto aborda a variante Delta da Covid-19 e suas implicações para o Ceará, incluindo casos confirmados, transmissão comunitária e medidas de controle. A resposta deve fornecer informações sobre a situação atual do Ceará em relação à variante Delta.'
+-----------------------
+[28] Chunk 3 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a variante Delta da Covid-19 no Ceará e as medidas de controle implementadas pelo governo para prevenir sua disseminação. O texto menciona os casos confirmados, a taxa de letalidade, a recomendação de autoquarentena para viajantes e a interrupção do processo de reabertura das atividades no estado.'
+-----------------------
+[29] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda uma variedade de temas relacionados ao governo do estado de Mato Grosso do Sul, incluindo a pandemia de COVID-19, programas sociais, infraestrutura e políticas públicas. O conteúdo é relevante para o público-alvo que está interessado em saber sobre as notícias e desenvolvimentos no estado.'
+-----------------------
+[29] Chunk 1 | Resposta:
+is_relevant=False justify='O resumo menciona projetos e iniciativas de educação, transparência e saúde, mas o trecho do texto apresentado não tem relação direta com esses tópicos principais. Embora haja menções a projetos e iniciativas, elas estão relacionadas a áreas específicas como educação para o trânsito, transparência governamental e saúde, que não são mencionadas no resumo.'
+-----------------------
+[30] Chunk 0 | Resposta:
+is_relevant=True justify='O incêndio no Parque dos Poderes em Campo Grande é um evento notável que gerou preocupação pública devido à sua magnitude e potencial impacto ambiental. A reportagem fornece detalhes sobre o ocorrido, incluindo a causa do fogo, as medidas tomadas pelas autoridades para combatê-lo e as consequências esperadas. Essa informação é relevante para os leitores que desejam estar atualizados sobre eventos locais e regionais.'
+-----------------------
+[30] Chunk 1 | Resposta:
+is_relevant=False justify="O trecho do texto apresentado não tem relação direta com o resumo fornecido, que menciona apenas um evento de chamas próximas a prédios públicos em Campo Grande. O conteúdo do trecho é mais focado em notícias e eventos locais, incluindo uma adaptação da obra 'Cem Anos de Solidão' na Netflix, um bicampeão mundial de basquete falecido e notícias sobre a Polícia, Economia e Emprego."
+-----------------------
+[31] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda o clima em Mato Grosso do Sul, especificamente a previsão de calor intenso e baixa umidade para a sexta-feira, com temperaturas máximas que podem chegar a 39ºC. Além disso, há alertas para tempo seco em várias cidades do estado, o que pode aumentar o risco de incêndios florestais.'
+-----------------------
+[31] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um caso de homicídio, chuvas em Campo Grande e notícias relacionadas ao Enem. O resumo parece ser mais focado em eventos locais e regionais, enquanto o trecho do texto é mais específico e detalhado sobre um caso concreto.'
+-----------------------
+[32] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda um caso suspeito de fungo negro em um paciente com coronavírus no Mato Grosso do Sul, Brasil. O caso foi notificado na segunda-feira (16) e o paciente está internado em leito clínico, recebendo tratamento com Anfotericina B. A amostra do paciente foi colhida na quinta-feira (19) e encaminhada ao Lacen (Laboratório Central de Saúde Pública de Mato Grosso do Sul). O Estado já teve um caso confirmado de fungo negro em um paciente com coronavírus, e outro caso suspeito foi notificado em junho, em Corumbá. O texto também fornece informações sobre o que é fungo negro e como ele é causado.'
+-----------------------
+[32] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que trata de uma infecção ocular grave. O conteúdo do trecho é sobre tratamento médico e condições para beneficiários do Bolsa Família, sem qualquer conexão com a doença ou assunto mencionado no resumo.'
+-----------------------
+[33] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata de um caso de estupro de crianças dentro de uma família. O resumo menciona que cinco pessoas da mesma família foram presas por estuprar crianças, e o trecho do texto confirma essa informação.'
+-----------------------
+[34] Chunk 0 | Resposta:
+is_relevant=True justify='O conteúdo aborda uma ampla gama de tópicos, incluindo notícias, eventos, opiniões e análises, que são relevantes para a audiência do site Campo Grande News. Além disso, o conteúdo é bem estruturado e fácil de entender, com títulos claros e resumos concisos que ajudam os usuários a encontrar informações específicas rapidamente.'
+-----------------------
+[35] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda temas como a pandemia de COVID-19, a vacinação, a transparência governamental, a educação para o trânsito e a inclusão digital em áreas rurais.'
+-----------------------
+[35] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que menciona uma taxa de contágio da Covid-19 e medidas de restrição. O conteúdo do trecho é sobre a política de cookies do site e não está relacionado ao tema principal do resumo.'
+-----------------------
+[36] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a redução nos casos e mortes por COVID-19 em Campo Grande após um ano de pico da pandemia.'
+-----------------------
+[36] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado sobre a vacinação em Campo Grande está relacionado ao resumo fornecido, que menciona o avanço da vacinação na cidade e a proximidade de abrir a aplicação da primeira dose para o público máximo da campanha. Além disso, o trecho também destaca a quantidade de doses utilizadas desde o começo da campanha, o que é relevante para o resumo que menciona a vacinação como uma das medidas de controle da pandemia.'
+-----------------------
+[37] Chunk 0 | Resposta:
+is_relevant=True justify='O texto fala sobre o progresso da vacinação contra a Covid-19 no Brasil e como o país está se aproximando de vacinar toda a população adulta até o fim de setembro. O número de doses aplicadas é um indicador importante para avaliar o sucesso da campanha de imunização.'
+-----------------------
+[37] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos se referem à vacinação contra a Covid-19 e às metas de vacinação no Brasil. O trecho menciona que o Brasil está caminhando para que toda a população adulta esteja vacinada até o fim de setembro, e também destaca a importância da vacinação como uma dose de esperança para os brasileiros.'
+-----------------------
+[38] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a flexibilização das regras de restrição das bandeiras vermelha e laranja, permitindo a realização de eventos, reuniões e festividades em clubes, salões, centros esportivos e afins. Além disso, o texto menciona a revogação do toque de recolher, que é um aspecto importante do resumo.'
+-----------------------
+[39] Chunk 0 | Resposta:
+is_relevant=True justify='El texto habla sobre el huracán Henri que se acerca a la costa del noreste de Estados Unidos y cómo afectará a millones de personas en la región. El artículo menciona las advertencias de los funcionarios locales, las zonas que están bajo alerta de huracán y las posibles inundaciones y tormentas que pueden ocurrir. También habla sobre otros fenómenos meteorológicos extremos como las inundaciones en Europa, la temporada de lluvias extremas en Asia y las olas de calor récord en Estados Unidos y Canadá. El artículo es relevante para aquellos interesados en el clima y los fenómenos meteorológicos extremos que están afectando a diferentes partes del mundo.'
+-----------------------
+[39] Chunk 1 | Resposta:
+is_relevant=False justify='O texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a proximidade do ciclone obrigou à suspensão de um megaconcerto no Central Park. O trecho do texto apresentado discute fenômenos meteorológicos extremos e seus impactos em diferentes partes do mundo, como incêndios forestais, sequias e desastres naturais, mas não se relaciona explicitamente com o evento descrito no resumo.'
+-----------------------
+[40] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre a vacinação em Mato Grosso do Sul.'
+-----------------------
+[40] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de uma política de cookies e não de informações sobre vacinação.'
+-----------------------
+[41] Chunk 0 | Resposta:
+is_relevant=True justify='O texto apresentado parece ser um conjunto de notícias sobre o estado de Mato Grosso do Sul, Brasil. Ele aborda vários tópicos como a situação dos incêndios florestais, obras de infraestrutura, investimentos governamentais e eventos comemorativos. Como tal, ele parece ser relevante para quem está interessado em notícias sobre o estado ou região.'
+-----------------------
+[41] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre o combate aos incêndios florestais na região do Carandazal. O conteúdo do chunk do texto trata de investimentos e obras realizadas pelo governador Reinaldo Azambuja em municípios da região Sul de Mato Grosso do Sul, sem qualquer conexão com o tema do resumo.'
+-----------------------
+[42] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda um tema atual e importante para a população do Mato Grosso do Sul: a previsão de chuva após uma longa estiagem. A informação sobre a probabilidade de chuva fraca a moderada com acumulados de 20-50mm para grande parte do estado, bem como a possibilidade de chuvas mais fortes no sul do estado, é relevante para os moradores que sofreram com a estiagem e buscam informações sobre o futuro.'
+-----------------------
+[42] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está relacionado ao resumo fornecido, pois menciona a previsão de chuvas para Mato Grosso do Sul, incluindo a região de Campo Grande. Além disso, o trecho também aborda as temperaturas e a probabilidade de chuva na área, que são informações relevantes para o resumo.'
+-----------------------
+[43] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a redução da superfície de água no Brasil entre 1985 e 2020, com uma perda de 15,7% da área coberta por água. O Brasil possui 12% das reservas de água doce do planeta e 53% dos recursos hídricos da América do Sul. A redução da superfície de água é atribuída ao uso excessivo dos recursos hídricos para a produção de bens e serviços, construção de barragens e hidrelétricas, poluição e mudanças climáticas.'
+-----------------------
+[43] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de notícias e eventos locais em Campo Grande, enquanto o resumo se refere a uma redução no atoleiro e afetos à superfície da água no Paraguai.'
+-----------------------
+[44] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a situação atual do Pantanal, com focos de incêndio em Mato Grosso do Sul e a importância da prevenção e combate ao fogo. A ONG SOS Pantanal está trabalhando para agilizar o combate ao fogo, capacitando pessoas físicas e brigadas rurais para monitorar e controlar os focos de incêndio.'
+-----------------------
+[44] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se refere a um desastre ambiental no Pantanal, enquanto o trecho do texto discute uma iniciativa de ajuda para as brigadas comunitárias que lutam contra incêndios no Pantanal.'
+-----------------------
+[45] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre eleições e políticas.'
+-----------------------
+[45] Chunk 1 | Resposta:
+is_relevant=False justify='O texto parece ser um conjunto de anúncios de televisão ou notícias de diferentes regiões do Brasil, sem uma estrutura ou tema claro. Não há informações relevantes ou pontos-chave que possam ser extraídos desse texto.'
+-----------------------
+[45] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de uma lista de canais e programas da Globo, enquanto o resumo se refere a distribuição de vacinas contra a Covid-19 em Mato Grosso do Sul.'
+-----------------------
+[46] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque fala sobre a vacinação contra a COVID-19 em Mato Grosso do Sul.'
+-----------------------
+[46] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a chegada de novas doses de vacina contra a covid-19 no Mato Grosso do Sul. O conteúdo do trecho é relacionado a notícias de diferentes áreas, como política, crime, cotidiano e entretenimento, e não tem conexão com o tema da vacinação.'
+-----------------------
+[47] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre um evento político e uma discussão sobre mudanças climáticas.'
+-----------------------
+[47] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de diferentes temas como política, saúde e notícias locais, enquanto o resumo se concentra na participação da ministra da Agricultura Tereza Cristina em uma live sobre sustentabilidade.'
+-----------------------
+[48] Chunk 0 | Resposta:
+is_relevant=True justify='O artigo menciona uma pesquisa sobre um novo tratamento para o HIV utilizando fototerapia com anticorpos que carregam fotossensibilizadores. O objetivo é utilizar essa técnica como complemento aos medicamentos retrovirais existentes.'
+-----------------------
+[48] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está relacionado ao resumo fornecido, pois trata sobre uma pesquisa do IFSC da USP que mostrou a eficácia da técnica de fotoimunoterapia no combate ao HIV. Além disso, o texto menciona a possibilidade de reduzir a dose dos medicamentos retrovirais usados atualmente, o que está em linha com o objetivo do estudo apresentado no resumo.'
+-----------------------
+[49] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda uma pesquisa que busca criar uma vacina contra o HIV e também discute outras estratégias para trancar e eliminar o vírus dentro das células do paciente infectado.'
+-----------------------
+[49] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois trata sobre uma vacina para prevenir a infecção pelo HIV e menciona um estudo clínico em andamento. Além disso, o texto destaca a liderança de Ricardo Sobhie Diaz na pesquisa e as adaptações do tratamento que serão realizadas no futuro.'
+-----------------------
+[50] Chunk 0 | Resposta:
+is_relevant=True justify='El gobierno de España ha anunciado que liberará las restricciones sanitarias para los ciudadanos argentinos. Los ingresos a España serán ilimitados pero todavía existen cupos en los aviones.'
+-----------------------
+[50] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de notícias sobre eventos e homenagens em Argentina, enquanto o resumo se refere à política de quarentena da Espanha.'
+-----------------------
+[51] Chunk 0 | Resposta:
+is_relevant=True justify='A vacina contra a gripe é uma vacinação obrigatória para todos os brasileiros com mais de 60 anos ou que tenham doenças crônicas. A vacinação é importante para prevenir a gripe e seus complicações, como pneumonia e insuficiência respiratória.'
+-----------------------
+[51] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de notícias e eventos locais em Campo Grande, enquanto o resumo se concentra na vacinação contra a Covid-19 e a Influenza.'
+-----------------------
+[52] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes ou atualizadas sobre o assunto.'
+-----------------------
+[52] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um caso específico de polícia em Campo Grande, enquanto o resumo se refere a incêndios florestais na região de Bela Vista.'
+-----------------------
+[53] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre o estado do Mato Grosso do Sul (MS), incluindo notícias de atualidade, eventos e anúncios. O texto também inclui links para outras páginas da internet que podem ser de interesse para os leitores.'
+-----------------------
+[53] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se concentra em mudanças nos riscos de transmissão do coronavírus em municípios de Mato Grosso do Sul, enquanto o chunk do texto parece ser uma informação de contato para uma empresa ou organização.'
+-----------------------
+[54] Chunk 0 | Resposta:
+is_relevant=True justify="O conteúdo é relevante para a busca '15 municípios pioram classificação de risco em MS'."
+-----------------------
+[54] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a classificação de risco dos municípios em Mato Grosso do Sul no programa Prosseguir. O trecho apresentado trata de outros tópicos, como um acidente de ciclismo, um jogo de futebol e notícias de cotidiano.'
+-----------------------
+[55] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a situação atual da pandemia de COVID-19, incluindo as taxas de ocupação de leitos de UTI e a necessidade de medidas de vigilância em saúde. Além disso, destaca a importância da vacinação e a necessidade de manter medidas como o uso de máscaras e distanciamento físico para prevenir a transmissão do vírus.'
+-----------------------
+[56] Chunk 0 | Resposta:
+is_relevant=False justify='O conteúdo não é relevante para o assunto.'
+-----------------------
+[56] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata de um caso de assassinato em Mato Grosso do Sul, que é mencionado no resumo como um dos muitos casos de violência registrados no estado. Além disso, o trecho também inclui detalhes sobre a vítima e o local onde ocorreu o crime, que são relevantes para entender melhor o contexto do caso apresentado no resumo.'
+-----------------------
+[57] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute as taxas de ocupação de leitos de UTI covid-19 para adultos no SUS e a prioridade da vacinação em crianças e adolescentes. Além disso, o texto menciona a zona crítica do Rio de Janeiro e a necessidade de um debate técnico sobre alternativas para a aplicação da dose de reforço ou combinação de imunizantes em idosos ou imunodeprimidos.'
+-----------------------
+[58] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da situação de emergência declarada pelo município de Batayporã devido ao período de seca. O trecho menciona que a Defesa Civil Municipal indicou que a região não recebe chuvas consideráveis há mais de 120 dias e que o objetivo do decreto é combater os incêndios florestais e proteger a população.'
+-----------------------
+[59] Chunk 0 | Resposta:
+is_relevant=True justify='A PrEP é uma estratégia de prevenção eficaz e segura para reduzir o risco de adquirir a infecção pelo HIV, especialmente em pessoas com maior risco de exposição. A notícia destaca a importância da PrEP como parte das estratégias de prevenção combinada do HIV, incluindo testagem, Profilaxia Pós-Exposição ao HIV (PEP), uso regular de preservativos e diagnóstico oportuno e tratamento adequado de infecções sexualmente transmissíveis (IST). A notícia também destaca a necessidade de reduzir a discriminação e o estigma em relação às pessoas com HIV/AIDS, especialmente em adolescentes e jovens que são mais vulneráveis à infecção.'
+-----------------------
+[60] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho apresentado menciona uma pesquisa em parceria entre duas instituições de saúde, o que está relacionado ao resumo fornecido sobre a busca por vacinas e tratamentos para a malária vivax. Além disso, o texto destaca a importância da pesquisa na luta contra essa doença no Brasil, o que é um tópico principal mencionado no resumo.'
+-----------------------
+[61] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda uma atualidade importante: a vacinação contra a Covid-19. A redução do intervalo de aplicação da segunda dose dos imunizantes Pfizer e Astrazeneca é um passo importante para aumentar a eficácia da vacinação e proteger a população brasileira contra a doença.'
+-----------------------
+[61] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois menciona a redução do intervalo da aplicação da segunda dose dos imunizantes da Pfizer e Astrazeneca. Além disso, o texto também menciona a decisão tomada pelo ministro da Saúde de reduzir o intervalo para 8 semanas, o que é um ponto importante do resumo.'
+-----------------------
+[62] Chunk 0 | Resposta:
+is_relevant=True justify="O trecho do texto apresentado tem relação direta com o resumo fornecido, pois informa que a Área Metropolitana de Lisboa foi retirada da lista de 'alto risco de contágio' por covid-19 da Alemanha, juntamente com Espanha e Chile. O trecho também menciona o instituto de saúde pública Robert Koch como fonte do anúncio."
+-----------------------
+[63] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque fala sobre as medidas de controle da pandemia de COVID-19 em Dinamarca e como elas estão sendo levantadas.'
+-----------------------
+[63] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que se refere à situação da Dinamarca em relação às medidas de controle de COVID-19. O trecho, por outro lado, fala sobre a vacinação e as preocupações com a variante Delta nos Estados Unidos.'
+-----------------------
+[64] Chunk 0 | Resposta:
+is_relevant=True justify="O trecho do texto apresentado tem relação direta com o resumo fornecido, pois descreve a implementação do Método Wolbachia em Niterói e os resultados obtidos, que incluem uma redução significativa de casos de dengue, chikungunya e zika. As palavras-chave como 'Wolbachia', 'Aedes aegypti', 'dengue', 'chikungunya' e 'zika' são mencionadas no texto e estão relacionadas ao resumo. Além disso, o texto fornece informações sobre a implementação do método em diferentes bairros de Niterói e a participação da população e equipes de saúde na sua execução."
+-----------------------
+[65] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois menciona a exigência de passaporte de vacinação contra o coronavírus para acessar estabelecimentos de uso coletivo na cidade do Rio de Janeiro.'
+-----------------------
+[66] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre a situação epidemiológica em Mato Grosso do Sul, incluindo o número de doses de vacina aplicadas e os indicadores da doença.'
+-----------------------
+[66] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que se concentra em dados de vacinação e tendências epidemiológicas no Mato Grosso do Sul. O trecho, por outro lado, fala sobre a comunicação dos beneficiários do cartão Mais Social, parcerias culturais e processos seletivos para Residências Inclusivas do SUAS.'
+-----------------------
+[67] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia é relevante porque informa sobre a chuva que voltou a cair em Campo Grande e outras cidades de Mato Grosso do Sul após 75 dias de estiagem. A chuva traz uma previsão de tempestades no Estado e é importante para os moradores saberem sobre as condições climáticas atuais.'
+-----------------------
+[67] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é relevante para o resumo fornecido, pois trata sobre a chuva que volta a cair em Campo Grande e outras cidades de Mato Grosso do Sul após 75 dias de estiagem. O texto menciona a data prevista para a chuva (sexta-feira, 27) e cita um meteorologista, Natálio Abráo Filho, que confirma a previsão.'
+-----------------------
+[68] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos abordam a situação de queimadas no Pantanal e a consequente seca no Rio Paraguai. O texto também menciona a perda de recursos hídricos no Mato Grosso do Sul e no Pantanal, o que está relacionado ao resumo sobre a área queimada ultrapassando a média histórica.'
+-----------------------
+[69] Chunk 0 | Resposta:
+is_relevant=True justify='O prefeito Marquinhos Trad (PSD) informou que segue a recomendação do Ministério da Saúde sobre o tempo de imunização para a vacina contra a Covid-19. Entre a segunda e a terceira dose, é preciso ter 6 meses de espera, para quem foi imunizado com a Coronavac.'
+-----------------------
+[69] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que se refere à vacinação contra a Covid-19 na cidade de Campo Grande. O chunk do texto, por outro lado, aborda vários tópicos diferentes, incluindo notícias políticas, esportivas e de cotidiano, sem qualquer conexão com o resumo.'
+-----------------------
+[70] Chunk 0 | Resposta:
+is_relevant=True justify='O texto parece ser um conjunto de informações sobre a Agência Nacional de Vigilância Sanitária (ANVISA), uma agência reguladora brasileira responsável por garantir a segurança e eficácia dos produtos destinados à saúde no Brasil. O conteúdo aborda vários aspectos da atividade da ANVISA, incluindo a fiscalização de produtos farmacêuticos, cosméticos, alimentos, agrotóxicos, entre outros, bem como a regulamentação de serviços de saúde e a proteção do consumidor.'
+-----------------------
+[70] Chunk 1 | Resposta:
+is_relevant=True justify='O texto aborda a solicitação da Anvisa ao Instituto Butantan sobre informações sobre doses de reforço para a vacina contra o novo coronavírus. A questão é relevante para a área de saúde e vigilância sanitária, que é responsável por monitorar e controlar a propagação do vírus e garantir a segurança dos produtos farmacêuticos.'
+-----------------------
+[70] Chunk 2 | Resposta:
+is_relevant=True justify='O texto apresenta uma lista de categorias e unidades organizacionais da Agência Nacional de Vigilância Sanitária (ANVISA), incluindo diretorias, gerências, coordenações, unidades organizacionais específicas, procuradoria federal, ouvidoria, corregedoria, auditoria interna, centrais de conteúdo e publicações. A lista parece ser uma estrutura organizacional da ANVISA, indicando as diferentes áreas de atuação da agência em questões relacionadas à vigilância sanitária.'
+-----------------------
+[71] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia é relevante para os seguintes motivos: 1) A Fundação Portuguesa do Pulmão defende que é prematuro considerar o fim da obrigatoriedade do uso de máscara nos espaços públicos exteriores. 2) A decisão sobre o uso de máscara na rua é uma competência da Assembleia da República, como afirmou a Ministra da Saúde Marta Temido. 3) O Presidente da República Marcelo Rebelo de Sousa defendeu o fim do uso obrigatório da máscara só em meados de setembro e apelou aos jovens para se vacinarem contra a covid-19 antes do início do ano letivo.'
+-----------------------
+[71] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de uma notícia sobre a Fundação Portuguesa do Pulmão e sua posição sobre a máscara de proteção respiratória, enquanto o resumo se refere a uma declaração sobre a pandemia de covid-19. Além disso, o texto apresentado parece ser um exemplo de email de newsletter, com informações sobre como enviar notícias e políticas de privacidade.'
+-----------------------
+[72] Chunk 0 | Resposta:
+is_relevant=True justify='O tema da vacinação contra a covid-19 é de grande relevância para a sociedade e o jornalismo de investigação pode contribuir para uma compreensão mais profunda dos riscos e benefícios associados à vacinação.'
+-----------------------
+[72] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a investigação do Ministério da Saúde japonês à morte de dois homens que receberam a vacina da Moderna. O trecho do texto trata sobre notícias e eventos diferentes, como a reunião do presidente ucraniano com o secretário-geral das Nações Unidas, as ganhos da Europa na batalha de Lisboa para trabalhar remoto, e a negociação do governo sobre o Orçamento. Não há menção à vacina da Moderna ou à investigação mencionada no resumo.'
+-----------------------
+[73] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos mencionam os Estados brasileiros que registraram taxa de ocupação de leitos abaixo de 50% para a covid-19. Além disso, o texto também fornece informações adicionais sobre a vacinação e as mortes causadas pela doença, que estão relacionadas ao resumo.'
+-----------------------
+[74] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois o resumo se concentra na mudança de temperatura e chuvas em São Paulo, enquanto o trecho do texto discute a falta de chuvas para recuperar os reservatórios e a importância das chuvas de outubro. Embora ambos os temas estejam relacionados ao clima, não há uma conexão direta entre eles.'
+-----------------------
+[75] Chunk 0 | Resposta:
+is_relevant=True justify='O artigo fala sobre a imunidade das vacinas da Pfizer e da Moderna após a segunda dose, com um nível de proteção de 98% nas variantes emergentes B.1.1351 (África do Sul), B.1.1.7 (Reino Unido) e P.1 (Brasil). Além disso, o artigo menciona que a resposta imunitária à vacina varia de acordo com a infeção anterior, com aqueles que tinham sintomas moderados tendo um nível de resposta imunitária mais elevado.'
+-----------------------
+[75] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona a conclusão da investigação da Universidade de Northwestern sobre a Covid-19. O conteúdo do trecho é relacionado a notícias e artigos publicados em diferentes fontes, mas não está diretamente ligado ao tema do resumo.'
+-----------------------
+[76] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos mencionam o furacão Ida e seus impactos na costa da Louisiana nos Estados Unidos. O trecho também fornece detalhes adicionais sobre a intensidade do furacão (240 km/h) e suas consequências (estragos na cidade de Grand Isle, derrubada do fornecimento de energia e elevação do nível do mar). Além disso, o texto menciona a categoria 4 da tempestade e sua comparação com o furacão Katrina.'
+-----------------------
+[77] Chunk 0 | Resposta:
+is_relevant=True justify='El texto trata sobre la sequía del río Paraná, una de las principales vías fluviales de Sudamérica y cuya sequía tiene impacto directo económico, social, político y ambiental. La bajada del río es la peor desde 1944 y las expectativas de mejoría son prácticamente nulas. El texto analiza las causas de esta tragedia, como la sequía en Brasil, la deforestación, el uso intensivo del suelo, la urbanización desmedida, el crecimiento de población que aumenta la generación de gases y el efecto invernadero, la navegación sin control, y el vertedero de deshechos tóxicos humanos e industriales. El texto también destaca las consecuencias de esta sequía, como el impacto en el acceso al agua dulce para 40 millones de personas, la ganadería de la zona que no tiene alimento y los peces que no se reproducen, y la cadena alimentaria para miles de personas. El texto concluye que cada uno de nosotros tiene responsabilidad por actuar desde la conciencia ecológica y tomar acciones concretas y directas para impactar en el medioambiente del planeta.'
+-----------------------
+[77] Chunk 1 | Resposta:
+is_relevant=True justify='El texto parece ser un resumen de noticias y artículos de opinión de varios medios argentinos, cubriendo una amplia gama de temas como la situación económica, la política, la sociedad, el deporte y la cultura. El lenguaje utilizado es formal y objetivo, lo que sugiere que el texto está diseñado para informar o analizar los acontecimientos recientes en Argentina.'
+-----------------------
+[77] Chunk 2 | Resposta:
+is_relevant=False justify='El texto no parece ser relevante para la búsqueda. No contiene un tema específico o una pregunta que pueda ser respondida con información precisa y objetiva.'
+-----------------------
+[77] Chunk 3 | Resposta:
+is_relevant=False justify='El texto parece ser un resumen de noticias y artículos de varios días o semanas, pero no hay una pregunta específica que se pueda responder con ese texto. El contenido es diverso y abarca temas como noticias, eventos, artículos de opinión, entrevistas, y más, sin una conexión clara entre ellos. Por lo tanto, no puedo proporcionar una respuesta relevante.'
+-----------------------
+[77] Chunk 4 | Resposta:
+is_relevant=True justify='El texto trata sobre varios temas como la política, el deporte, la economía y la sociedad, lo que lo hace relevante para una amplia audiencia interesada en estos temas.'
+-----------------------
+[77] Chunk 5 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se refere a uma situação de seca no Paraná, enquanto o chunk do texto parece ser um índice ou uma lista de notícias relacionadas ao futebol e à política em diferentes países da América do Sul.'
+-----------------------
+[78] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante para o assunto de água em questões ambientais.'
+-----------------------
+[78] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo fala sobre a secagem do Brasil de acordo com um estudo inédito, enquanto o trecho do texto é sobre assinatura de um plano de assinatura para acesso digital ilimitado.'
+-----------------------
+[79] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre incêndios em São Paulo.'
+-----------------------
+[79] Chunk 1 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes ou úteis. Não há um tema específico ou questão abordada. Pode ser um texto de teste ou uma amostra de conteúdo sem estrutura ou propósito claro.'
+-----------------------
+[79] Chunk 2 | Resposta:
+is_relevant=False justify='O texto não parece ser relevante para a busca. Pode ser um texto genérico sobre uma empresa ou uma organização.'
+-----------------------
+[80] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante para o assunto de vacinação contra a COVID-19.'
+-----------------------
+[80] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado faz parte do resumo fornecido, pois menciona a aplicação de doses de vacinação contra covid-19 no Terminal Bandeirantes, que é um evento relacionado à política de saúde da Prefeitura de Campo Grande. Além disso, o texto também contém informações sobre a localização e os números de telefone da Prefeitura, o que sugere que o trecho está relacionado ao resumo.'
+-----------------------
+[81] Chunk 0 | Resposta:
+is_relevant=True justify='A notificação dos eventos adversos é fundamental para a pesquisa científica e a identificação de sinais de risco. A subnotificação pode atrasar a identificação de reações graves.'
+-----------------------
+[81] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a vacinação contra a Covid-19 em Campo Grande. O trecho do texto é um artigo de notícias sobre outros assuntos, como acidentes de trânsito, crimes e notícias locais.'
+-----------------------
+[82] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque fala sobre um estudo que analisa a efetividade da vacina Janssen na prevenção da doença Covid-19 em cidades de fronteira do estado de Mato Grosso do Sul.'
+-----------------------
+[82] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a vacinação em massa na fronteira de Mato Grosso do Sul e os resultados da pesquisa. O texto menciona que 13 cidades do Estado receberam vacinas da Janssen para imunizar toda a população adulta e apresentou dados sobre as mortes e infecções por coronavírus registradas nas cidades.'
+-----------------------
+[83] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda o crescimento da taxa de homicídios de indígenas no Brasil entre 2009 e 2019, com Mato Grosso do Sul apresentando a maior taxa, de 53,6 por 100 mil habitantes. O estado também teve o menor número de mortes violentas em 2019, com 491 mortos.'
+-----------------------
+[83] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois aborda o crescimento da taxa de homicídios de indígenas no Brasil entre os anos de 2009 e 2019. Além disso, o texto menciona especificamente Mato Grosso do Sul como um estado com um número significativo de mortes violentas por causa indeterminada, o que está em alinhamento com a informação apresentada no resumo.'
+-----------------------
+[84] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente do serviço de atendimento a pacientes com sequelas pós-covid em Campo Grande, que é mencionado no resumo. Além disso, o texto destaca os benefícios e os desafios enfrentados pelos pacientes com sequelas tardias da Covid-19, que são tópicos principais do resumo.'
+-----------------------
+[85] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda a questão da vacinação contra o coronavírus em Mato Grosso do Sul.'
+-----------------------
+[85] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho apresentado discute a implantação do passaporte da imunidade, que está relacionada ao resumo fornecido. Além disso, o texto menciona a obrigatoriedade da imunização em estabelecimentos comerciais, o que está diretamente ligado à questão de saúde pública abordada no resumo.'
+-----------------------
+[86] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente das previsões climáticas para o mês de setembro em Mato Grosso do Sul, incluindo a expectativa de temperaturas acima da média e chuvas abaixo do normal na região norte, além de alertas sobre queimadas e incêndios florestais.'
+-----------------------
+[87] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a transparência da unidade escolar estadual em relação aos casos de coronavírus e os problemas enfrentados pelos funcionários que não foram avisados sobre um caso de covid na escola.'
+-----------------------
+[88] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente sobre a situação de tempo seco em Campo Grande e outras cidades de Mato Grosso do Sul, que pode aumentar os riscos de incêndios florestais.'
+-----------------------
+[89] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a crise hídrica no Brasil e como ela está afetando o fornecimento de água em diferentes municípios. A reportagem destaca as medidas que a concessionária de água está tomando para garantir o fornecimento, incluindo furar poços e realizar monitoramento diário. Além disso, a reportagem também aborda a importância da ajuda da população para economizar água e evitar racionamentos.'
+-----------------------
+[89] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um artigo de notícias sobre a crise hídrica em Mato Grosso do Sul, enquanto o resumo se concentra na escassez da água no Brasil e seus efeitos climáticos. Embora ambos os temas estejam relacionados à água, não há uma conexão direta entre as informações apresentadas nos dois trechos.'
+-----------------------
+[90] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda uma série de temas importantes para o estado de Mato Grosso do Sul, incluindo a gestão da água, a segurança alimentar, a logística reversa de embalagens e a educação. O governo do estado está investindo em soluções para esses problemas, como a abertura de poços profundos para extrair água do aquífero e a entrega de cestas alimentares para a população indígena. Além disso, o estado está promovendo a destinação correta de resíduos sólidos e investindo em programas de educação, como o mestrado acadêmico em Letras da Universidade Estadual de Mato Grosso do Sul.'
+-----------------------
+[90] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a crise hídrica em Mato Grosso do Sul e as medidas necessárias para evitar o desabastecimento de água. O conteúdo do chunk do texto é sobre empresas que fazem destinação correta de resíduos, um campeonato de atletismo, inscrições para bolsas de mestrado, investimentos na segurança alimentar da população indígena e eventos culturais.'
+-----------------------
+[91] Chunk 0 | Resposta:
+is_relevant=True justify='O artigo fala sobre a vacinação da população na Madeira e como o governo está a trabalhar para alcançar o objetivo de 85% da população vacinada até final de setembro. O artigo também menciona as medidas que estão sendo tomadas para combater a pandemia, como a obrigatoriedade do uso de máscaras e a implementação de uma operação de rastreio a viajantes.'
+-----------------------
+[91] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado faz referência à preparação da administração da terceira dose da vacina contra a covid-19 na Madeira, o que está relacionado ao resumo fornecido. Além disso, o texto menciona a necessidade de uma terceira dose para grupos específicos, como imunosuprimidos e idosos, o que também está em consonância com o conteúdo do resumo.'
+-----------------------
+[92] Chunk 0 | Resposta:
+is_relevant=True justify='O artigo fala sobre as mudanças nas regras de viagem para Portugal devido à pandemia de Covid-19 e como elas afetam os passageiros provenientes do Brasil e do Reino Unido. O texto destaca a importância das atualizações regulares feitas pelo Governo em relação às regras de viagem, bem como as recomendações da União Europeia (UE) sobre restrições às viagens não essenciais aos EUA. Além disso, o artigo menciona que os passageiros provenientes do Brasil só podiam viajar para Portugal por razões familiares, profissionais, de estudo ou humanitárias e tinham de apresentar um teste negativo à Covid-19 e cumprir um período de quarentena. O texto também destaca a importância da cooperação internacional na prevenção da pandemia e como as regras de viagem podem variar de acordo com os países de origem e destino.'
+-----------------------
+[92] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de viagens não essenciais de e para Brasil, enquanto o resumo se refere a uma medida governamental que permite tais viagens. Além disso, o trecho do texto também menciona outros assuntos, como a reverter proibição do TikTok nos EUA e a limitação da compra de casa por não europeus, que não estão relacionados com o resumo.'
+-----------------------
+[93] Chunk 0 | Resposta:
+is_relevant=False justify='No hay información relevante en el texto proporcionado.'
+-----------------------
+[93] Chunk 1 | Resposta:
+is_relevant=False justify='O texto não apresenta nenhuma relação direta com o resumo fornecido, que informa sobre a detecção de um possível caso de sarampo em um hospital. O trecho do texto trata sobre um operativo de barreras anticontrabando e não menciona nada relacionado ao sarampo.'
+-----------------------
+[94] Chunk 0 | Resposta:
+is_relevant=True justify='O conteúdo é relevante para os interesses do usuário.'
+-----------------------
+[95] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda o surto de rabdomiólise no Amazonas e as medidas tomadas para combater a doença. A FVS-RCP recebeu mais sete novas notificações de rabdomiólise, totalizando 51 casos notificados no estado. O texto também destaca a preocupação com a associação indevida do peixe como vetor da doença e a necessidade de dar respostas à população com tranquilidade.'
+-----------------------
+[95] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não aborda o tema do surto de rabdomiólise ou suas preocupações relacionadas à saúde. Além disso, o conteúdo é mais focado em uma página de busca do que em um resumo de notícias.'
+-----------------------
+[96] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda a questão da eficácia das vacinas contra a COVID-19.'
+-----------------------
+[96] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se concentra na redução da efetividade de vacinas contra covid-19, enquanto o trecho do texto é sobre um jornal local e seus conteúdos.'
+-----------------------
+[97] Chunk 0 | Resposta:
+is_relevant=True justify='The text is relevant to the topic of environmental issues and their impact on human health.'
+-----------------------
+[97] Chunk 1 | Resposta:
+is_relevant=True justify='The article discusses how forest fires in the Amazon region have contributed to a significant increase in COVID-19 cases and deaths in several states, including Rondônia and Rondônia. The article highlights the impact of air pollution from forest fires on the lungs of residents, making them more susceptible to severe forms of the virus. It also shares personal stories of families who have lost loved ones due to COVID-19, exacerbated by pre-existing medical conditions made worse by smoke from forest fires.'
+-----------------------
+[97] Chunk 2 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está relacionado ao resumo fornecido, pois ambos abordam a situação de saúde pública e ambiental em Humaitá, uma cidade no Amazonas brasileiro. O texto detalha as consequências da pandemia de Covid-19 e das queimadas de madeira na região, incluindo os problemas respiratórios dos residentes e a falta de acesso a cuidados de saúde adequados. Além disso, o trecho também destaca a relação entre a poluição do ar e a mortalidade por Covid-19, o que está diretamente relacionado ao tema do resumo.'
+-----------------------
+[98] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a importância da ciência e tecnologia no desenvolvimento sustentável do Brasil. A publicação menciona o uso de tecnologias limpas para reduzir as emissões de gases de efeito estufa e promover a eficiência energética, além de destacar a necessidade de investimentos em pesquisa e desenvolvimento para alcançar metas ambientais.'
+-----------------------
+[98] Chunk 1 | Resposta:
+is_relevant=False justify='O texto parece ser um conjunto de links para diferentes sites de notícias e jornais brasileiros, incluindo a Globo, a Folha de S.Paulo, a BBC Brasil, entre outros. Não há um tema ou assunto específico que seja abordado em todo o texto, mas sim uma lista de links para diferentes notícias e artigos.'
+-----------------------
+[98] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de notícias e programas da Globo em diferentes regiões do Brasil, enquanto o resumo se concentra na descoberta de um mecanismo que pode explicar a ocorrência de quadros neurológicos graves no Zika vírus.'
+-----------------------
+[99] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos mencionam a pandemia de COVID-19 e sua impacto na saúde pública. Além disso, o texto também faz referência ao número de casos e mortes registrados em diferentes datas, o que é semelhante à informação apresentada no resumo.'
+-----------------------
+[99] Chunk 1 | Resposta:
+is_relevant=True justify="O trecho do texto apresentado menciona a nova variante do novo coronavírus 'Miao' e sua possível alta tolerância à vacina, o que está relacionado ao resumo fornecido sobre a Organização Mundial da Saúde (OMS) e a nova epidemia da coroa. Além disso, o texto também menciona a lista de variantes 'interessadas' e o monitoramento adicional, que estão relacionados ao tema do resumo."
+-----------------------
+[100] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois ambos mencionam a crise energética no Brasil e o impacto da seca na geração de energia hidrelétrica.'
+-----------------------
+[101] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a vacinação contra o sarampo em Alagoas e destaca a importância da imunização para prevenir a doença. O artigo também fornece informações sobre os esquemas de vacinação disponíveis para diferentes faixas etárias, incluindo crianças, adultos e profissionais de saúde.'
+-----------------------
+[101] Chunk 1 | Resposta:
+is_relevant=True justify='O texto parece ser um conjunto de notícias e artigos publicados em diferentes jornais e sites, incluindo a GRTV, ABTV, RN TV, SETV, JAC, JAP, JAM, JRO, JRR, JA, ESTV, MG1, MG2, MG TV, MG Rural, Inter TV, EPTV, Globo Esporte, Rio RJ1, etc. Os artigos podem abordar vários tópicos, incluindo política, esportes, notícias locais e regionais, entre outros.'
+-----------------------
+[101] Chunk 2 | Resposta:
+is_relevant=False justify='O texto parece ser uma lista de canais e programas da Globo, mas não há um tema ou questão específica abordada. Não há informações relevantes para a busca.'
+-----------------------
+[101] Chunk 3 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um tema diferente (tecnologia) e não se refere a casos de sarampo em Alagoas.'
+-----------------------
+[102] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos tratam sobre a meningite e seus sintomas. O resumo menciona que uma criança morreu de meningite em Fortaleza, enquanto o trecho do texto também fala sobre a morte de um menino devido à doença. Além disso, os dois textos apresentam informações semelhantes sobre a meningite, como sintomas e transmissão.'
+-----------------------
+[103] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes sobre a raiva.'
+-----------------------
+[103] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre os casos de raiva confirmados em Belo Horizonte e a importância da vacinação pré-exposição para prevenir a doença. Além disso, o texto também menciona a necessidade de tratamento da raiva humana quando a profilaxia antirrábica não ocorre.'
+-----------------------
+[104] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é direcionado e específico em relação ao resumo fornecido, mencionando o número de casos de dengue reportados na capital do estado (104), a identificação de áreas prone à infecção por mosquito e a ação da administração para combater a doença. Além disso, o texto destaca a situação específica dos médicos da Gandhi Medical College que testaram positivo para dengue, o que é um aspecto relevante do resumo.'
+-----------------------
+[105] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute a situação de Mato Grosso do Sul em termos de ocupação de leitos de UTI para pacientes com coronavírus e destaca riscos com a variante Delta. Além disso, o texto menciona a vacinação como uma medida importante para controlar a pandemia.'
+-----------------------
+[106] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois menciona o recorde de incêndios florestais no estado de Mato Grosso do Sul nos primeiros dias de setembro. Além disso, o texto fornece detalhes específicos sobre a quantidade de focos de queimadas registrados (143) e a média de incêndios florestais por dia (35,7), que são informações relevantes para o resumo.'
+-----------------------
+[107] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a GCM (Guarda Civil Metropolitana) encerrando uma festa com mais de 500 pessoas em frente à Universidade Uniderp Agrárias, no Jardim Veraneio, em Campo Grande. O trecho também menciona que as medidas de biossegurança continuam valendo e as fiscalizações realizadas na Capital.'
+-----------------------
+[108] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da situação atual do rio Paraguai em Mato Grosso do Sul e a possibilidade de declínio devido à estiagem. O texto também menciona previsões específicas para as próximas semanas, incluindo marcas negativas nos próximos dias e alturas de -0,4 cm na régua ladarense.'
+-----------------------
+[109] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda um tema atual e relevante: os incêndios no Pantanal. A rodovia turística Transpantaneira voltou a registrar fogo e fumaça nos últimos dias, o que preocupa devido à situação de seca no local. O texto fornece informações sobre a extensão do incêndio, as medidas de combate tomadas pelos brigadistas e os impactos ambientais.'
+-----------------------
+[109] Chunk 1 | Resposta:
+is_relevant=True justify='O texto aborda o tema das queimadas no Pantanal e seus impactos ambientais e sociais. A reportagem inclui informações sobre a situação atual do Pantanal, as causas das queimadas e os efeitos que elas têm na biodiversidade e nos ecossistemas.'
+-----------------------
+[109] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um artigo sobre incêndios no Pantanal e uma notícia sobre o governo Lula criando novas regras e esvaziando a lista suja do trabalho escravo, enquanto o resumo se refere a uma notícia sobre a falta de órgãos para transplante em Brasil.'
+-----------------------
+[110] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois menciona a vacinação da 3ª dose em idosos com a combinação de Pfizer e Coronavac, que é o tema principal do resumo. Além disso, o texto também menciona estudos sobre a intercambialidade de vacinas, que é um tópico relacionado ao conteúdo do resumo.'
+-----------------------
+[111] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois menciona que cinco cidades da Grande São Paulo já estão aplicando a terceira dose da vacina contra a Covid-19. Além disso, o texto destaca os municípios de São Bernardo do Campo, Francisco Morato, Franco da Rocha e Santo André como os primeiros a iniciar a imunização com a terceira dose, além de Pirapora do Bom Jesus que foi o primeiro do estado a dar início a vacinação com a dose de reforço. Isso demonstra uma cobertura geográfica ampla da campanha de dose extra contra a Covid-19 na região.'
+-----------------------
+[112] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque fala sobre a situação de saúde pública em China.'
+-----------------------
+[112] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um jornal econômico português e não se refere ao tema de casos de Covid-19 na China.'
+-----------------------
+[113] Chunk 0 | Resposta:
+is_relevant=True justify='Ouvido ao resumo, o trecho do texto apresentado tem relação direta com o tema da vigilância epidemiológica em zona sur de Táchira devido à presença de macacos de Araguato. O trecho menciona a vigilância epidemiológica e a detecção de casos suspeitos de febre amarela, que é um risco para a saúde pública na região.'
+-----------------------
+[114] Chunk 0 | Resposta:
+is_relevant=True justify='O tema é de interesse público e relevância nacional. A doença da vaca louca é uma questão de saúde pública que afeta a segurança alimentar e animal, além de ter implicações econômicas e políticas. Além disso, a suspensão das exportações de carne bovina para a China é uma medida necessária para proteger a saúde humana e animal, e é um exemplo de cooperação internacional para prevenir a propagação da doença.'
+-----------------------
+[115] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é diretamente relacionado ao resumo fornecido, pois descreve os incidentes que ocorreram durante o jogo entre Argentina e Brasil, incluindo a acusação de flutuação das quarantine regulamentações por parte dos jogadores argentinos. Além disso, o trecho fornece detalhes sobre as consequências do jogo, como a suspensão do jogo e a recomendação de deportação para os jogadores em questão.'
+-----------------------
+[116] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes ou novas sobre o assunto.'
+-----------------------
+[116] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. Embora ambos abordem a questão da água e seus impactos, os tópicos e as palavras-chave utilizadas são diferentes. O resumo se concentra na redução da disponibilidade e qualidade da água nos mananciais devido às intervenções ambientais, enquanto o trecho do texto discute o agronegócio e a política de cookies do site O Tempo.'
+-----------------------
+[117] Chunk 0 | Resposta:
+is_relevant=False justify='O conteúdo não é relevante para a plataforma.'
+-----------------------
+[117] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um anúncio de classificados e não se refere ao conteúdo principal do resumo que fala sobre casos da variante Delta de covid-19 confirmados em Mato Grosso do Sul.'
+-----------------------
+[118] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre a vacinação contra a covid-19 em Mato Grosso do Sul.'
+-----------------------
+[118] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está relacionado ao resumo fornecido, pois menciona a cidade de Campo Grande e a possibilidade de problemas de abastecimento de água em outras cidades do Mato Grosso do Sul, como Ladário e Porto Murtinho. Além disso, o trecho também faz referência ao secretário estadual Jaime Verruck, que fez a revelação sobre a situação.'
+-----------------------
+[119] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da decretação de lei seca e fechamento de atrações turísticas na prefeitura de Bataguassu durante o feriadão. Além disso, o texto menciona as medidas adotadas para enfrentamento da pandemia, como a proibição de eventos culturais e esportivos, shows e apresentações com música ao vivo, além de restrições em supermercados e estabelecimentos.'
+-----------------------
+[120] Chunk 0 | Resposta:
+is_relevant=True justify='O Brasil enfrenta uma seca extrema que está contribuindo para a queima de grandes áreas de vegetação. O país já está em sua pior seca nos últimos 91 anos, com alertas de emergência hídrica emitidos pelo Sistema Nacional de Meteorologia (SNM). A situação é mais grave no Nordeste brasileiro, onde a Caatinga, um bioma que predomina na região, apresenta uma alta variabilidade de ano para ano. A seca e as geadas intensas fizeram com que a vegetação fosse drasticamente danificada, aumentando o risco de incêndios. O Cerrado, que ocupa grande parte do território do Mato Grosso do Sul, também apresenta um aumento de 33% nos focos de incêndio. A baixa média de chuvas e a estação seca são principais razões para as queimadas deste ano.'
+-----------------------
+[120] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute as queimadas no País e os biomas mais afetados, como a Caatinga, Cerrado e Mata Atlântica. Além disso, o texto destaca a ação humana como um fator preponderante para as queimadas, o que está em linha com o resumo.'
+-----------------------
+[121] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes para a busca.'
+-----------------------
+[121] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute a necessidade de construir usinas hidrelétricas de forma mais permeável e segura para o ecossistema, além de abordar a importância de economizar energia possível no futuro.'
+-----------------------
+[122] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes ou atualizadas sobre a situação do Pantanal e das queimadas. A informação mais recente disponível é de 25/08/2021.'
+-----------------------
+[122] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de notícias e eventos específicos em Manaus, enquanto o resumo se concentra na situação ambiental no Pantanal.'
+-----------------------
+[123] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a crise hídrica no Brasil e suas causas, incluindo mudanças climáticas, desmatamento e uso excessivo de recursos hídricos. A discussão envolve diferentes pontos de vista sobre como lidar com a situação, incluindo a necessidade de racionalização do uso da água, investimentos em infraestrutura para armazenamento e distribuição de água e medidas para reduzir o impacto das mudanças climáticas.'
+-----------------------
+[123] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um assunto específico (ias Teste de veÃ\xadculos AvaliaÃ§Ã£o de preÃ§o VÃ\xaddeos Motos Vrum no Facebook Todas as Revendas Cadastre sua Revenda TV BrasÃília DF Alerta Jornal Local CB Poder Vrum BrasÃília Revista Encontro Capa Revista Atualidades Encontro Indica Outros Estado de Minas Portal Uai Uai e+ Baixe Nosso App Copyright DiÃ¡rios Associados - 2020. Todos os direitos reservados.) que não está relacionado à estiagem, falta de água ou geração de energia mencionadas no resumo.'
+-----------------------
+[124] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a situação crítica dos reservatórios das duas usinas hidrelétricas da Cemig, Emborcação e Nova Ponte, que estão preocupantes para a operadora. O texto também menciona as consequências de uma estiagem prolongada na região.'
+-----------------------
+[124] Chunk 1 | Resposta:
+is_relevant=True justify='O texto aborda a situação de um grupo de pessoas que foram presas por tráfico de drogas em Mariupol, na Ucrânia. A notícia é relevante para o tema de segurança e justiça criminal, e pode ser interessante para os leitores que estão atentos às notícias internacionais.'
+-----------------------
+[124] Chunk 2 | Resposta:
+is_relevant=True justify='O texto parece ser um conjunto de notícias e artigos sobre diferentes regiões do Brasil, incluindo Rio de Janeiro, São Paulo, Paraná, entre outras. Ele contém informações sobre eventos, notícias locais, esportes, cultura e mais. O texto não parece ter um foco específico ou uma narrativa unificada, mas sim uma coleção de artigos e notícias que podem ser relevantes para diferentes interesses.'
+-----------------------
+[124] Chunk 3 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que se refere a reservatórios de água e níveis das barragens. O trecho do texto parece ser um menu de programas da Globo, sem qualquer conexão com o conteúdo do resumo.'
+-----------------------
+[125] Chunk 0 | Resposta:
+is_relevant=True justify="The article discusses the impact of deforestation and climate change on soybean production in Brazil. It highlights the importance of preserving the Amazon and Cerrado biomes to ensure the sustainability of crops and mitigate the effects of global warming. The article also features a farmer who is concerned about the changes in rainfall patterns and their impact on his farm's productivity."
+-----------------------
+[125] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a destruição da produtividade e dos lucros das empresas agrícolas. O conteúdo do trecho é mais focado em problemas relacionados à mineração de cobalto na República Democrática do Congo, como poluição e impunidade, sem mencionar explicitamente o tema da agro-suicide.'
+-----------------------
+[126] Chunk 0 | Resposta:
+is_relevant=True justify='El texto describe la sequía del río Paraná y sus efectos en las comunidades locales, incluyendo la escuela Thompson y el barrio El Espinillo. La información proporcionada es relevante para entender la situación actual de la región y los desafíos que enfrentan las personas viviendo cerca del río.'
+-----------------------
+[126] Chunk 1 | Resposta:
+is_relevant=True justify='El texto describe el impacto del deshielo del río Paraná en la región de Rosario, Argentina, y cómo afecta a la vida diaria de sus habitantes. El artículo menciona las consecuencias del deshielo, como la imposibilidad de navegar por muchos lugares que eran habituales, el cierre de clubes náuticos y guarderías, y la pérdida de ingresos para los lancheros y vendedores de equipamiento. El texto también menciona las opiniones de diferentes personas, como el dueño de un taxi náutico, que reclama que se haya hecho algo para despejar los accesos a la zona del Delta medio. El artículo concluye con la idea de que solo hay una solución: lluvia en Brasil, donde el Paraná se nutre de agua y comienza su largo camino hasta el río de La Plata.'
+-----------------------
+[126] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de uma notícia sobre a Escola Rural Martín Jacobo Thompson e não se refere ao conteúdo principal do resumo, que parece ser uma informação sobre mudanças nas formas de transporte das crianças até a escola.'
+-----------------------
+[127] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente das altas temperaturas e tempo seco em Mato Grosso do Sul, bem como dos riscos de incêndios florestais e recomendações para a população.'
+-----------------------
+[128] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é direcionado ao resumo fornecido, descrevendo um incidente de violência doméstica que resultou na lesão de uma criança de 8 anos em Três Lagoas, MS. O conteúdo é relevante porque fornece detalhes sobre o ocorrido, incluindo a idade da vítima, a natureza do ataque e as medidas tomadas pela polícia.'
+-----------------------
+[129] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda um tema de saúde pública, como a detecção de novos casos de hanseníase em uma região do estado de Rondônia. O texto fornece informações sobre o número de atendimentos realizados e os resultados obtidos, bem como as medidas tomadas para prevenir a propagação da doença.'
+-----------------------
+[129] Chunk 1 | Resposta:
+is_relevant=True justify='O texto parece ser um relatório ou boletim informativo sobre uma ação ou programa de saúde pública, com informações detalhadas sobre o número de casos e mortes, localização dos incidentes, medidas tomadas para controlar a situação e outras informações relevantes.'
+-----------------------
+[129] Chunk 2 | Resposta:
+is_relevant=True justify='O texto parece ser um catálogo ou lista de serviços oferecidos por uma empresa ou instituição pública, como o DER-RO (Departamento de Recursos Hídricos e Energia Renovável) ou a AGEVISA. O conteúdo é estruturado em categorias com títulos que indicam os diferentes tipos de serviços disponíveis, como '
+-----------------------
+[129] Chunk 3 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se concentra em um mutirão de saúde em hanseníase realizada pelo Governo de Rondônia, enquanto o chunk do texto parece ser relacionado a sistemas e processos administrativos.'
+-----------------------
+[130] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se concentra em uma nova pesquisa sobre a diversidade de plantas e animais na Amazônia, enquanto o trecho do texto é um link para uma página de política de privacidade e condições de uso de um site chamado ForeignAffairs.co.nz.'
+-----------------------
+[131] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está relacionado com o resumo fornecido, pois ambos mencionam um alerta de vírus Nipah na Índia e seus sintomas. Além disso, os dois textos também compartilham informações sobre a transmissão do vírus pelo morcego e a falta de tratamento ou vacina para humanos ou animais.'
+-----------------------
+[131] Chunk 1 | Resposta:
+is_relevant=False justify='O texto apresentado não tem relação direta com o resumo fornecido, pois trata de um alerta de vírus Nipah na Índia e não menciona a transmissão do vírus pelo morcego, que é o tema principal do resumo.'
+-----------------------
+[132] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém uma lista de notícias e artigos publicados no site Campo Grande News.'
+-----------------------
+[133] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois menciona a chuva que deve acontecer nesta quarta-feira (8) em grande parte de Mato Grosso do Sul, principalmente no extremo sul da região sudoeste. Além disso, o texto também destaca a mudança do tempo e a possibilidade de pancadas de chuva e trovoadas à noite.'
+-----------------------
+[134] Chunk 0 | Resposta:
+is_relevant=True justify='O conteúdo é relevante para o público-alvo do site Campo Grande News.'
+-----------------------
+[134] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado parece ser um anúncio de regras de comentários em uma página social, o que não tem relação direta com o resumo fornecido sobre a crise hídrica no Pantanal.'
+-----------------------
+[135] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante para a busca pois contém informações sobre a vacinação contra a covid-19 e a imunização no Brasil.'
+-----------------------
+[136] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois se refere à aplicação da 3ª dose da vacina contra o coronavírus nos idosos a partir de 70 anos e imunossuprimidos. Além disso, os elementos informativos como frases, palavras-chave e tópicos principais são consistentes com o resumo fornecido.'
+-----------------------
+[137] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a variante Delta do coronavírus e as medidas de prevenção que devem ser tomadas para evitar a propagação da doença em Mato Grosso do Sul, o que é um tema atual e relevante.'
+-----------------------
+[138] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute as regras de biossegurança que ainda estão em vigor em Campo Grande, apesar da liberação para a realização de eventos. O texto também menciona a importância do distanciamento entre as pessoas e a necessidade de uso de máscaras em estabelecimentos.'
+-----------------------
+[139] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da situação atual de Covid-19 no Mato Grosso do Sul, incluindo novos casos e mortes confirmados, além de informações sobre a estratégia para conter a pandemia.'
+-----------------------
+[140] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute as taxas de ocupação de leitos de UTI para adultos no SUS e a melhora do cenário de Covid-19 no país. O texto também menciona os estados que estão fora da zona de alerta e aqueles que ainda estão na zona crítica, o que é relevante para o resumo.'
+-----------------------
+[141] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante para a busca pois contém informações sobre o estado de Mato Grosso do Sul.'
+-----------------------
+[141] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado parece ser um comentário de redes sociais, enquanto o resumo é uma notícia sobre medidas de saúde pública. Não há relação direta entre os dois conteúdos.'
+-----------------------
+[142] Chunk 0 | Resposta:
+is_relevant=True justify='O texto contém informações sobre ventos de 68km/h na Capital e chuva com ventos de 68 km/h na Capital.'
+-----------------------
+[143] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois descreve as consequências do bloqueio de rodovias federais por caminhoneiros autônomos e a reação da Associação Nacional do Transporte Terrestre (ANTT) à situação. Além disso, o texto menciona os estados afetados pelo movimento e as medidas tomadas pelas autoridades para lidar com a situação.'
+-----------------------
+[144] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não é relevante para a pergunta feita.'
+-----------------------
+[144] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a situação de racionamento de água em várias cidades do interior de São Paulo devido à estiagem. O conteúdo do trecho inclui informações sobre as cidades afetadas, os métodos de abastecimento e as medidas adotadas para lidar com a crise hídrica.'
+-----------------------
+[145] Chunk 0 | Resposta:
+is_relevant=True justify='O texto fala sobre o Tele UTI do Hospital de Base Dr. Ary Pinheiro (HBAP), do Governo de Rondônia, que tornou-se referência no atendimento a gestantes com covid-19 internadas na Unidade de Terapia Intensiva (UTI). O sistema de Tele UTI permitiu o debate de cada caso e a proposta das melhores alternativas de tratamento acontecem por videoconferência com especialistas do MS e das melhores instituições de saúde. Isso é um avanço importante para os serviços de saúde, especialmente na luta contra a covid-19.'
+-----------------------
+[145] Chunk 1 | Resposta:
+is_relevant=True justify="O texto parece ser um conjunto de links ou recursos relacionados a serviços públicos e regulamentações em Rondônia, Brasil. A palavra-chave 'Rondônia' é mencionada no final do texto."
+-----------------------
+[145] Chunk 2 | Resposta:
+is_relevant=True justify='O texto parece ser uma lista de serviços e recursos oferecidos por uma instituição pública, como um governo ou uma empresa estatal. A lista inclui links para diferentes serviços, como chamados técnicos, protocolos online, registros financeiros, entre outros. O conteúdo é relevante para quem está procurando informações sobre serviços públicos ou recursos disponíveis em uma instituição pública.'
+-----------------------
+[145] Chunk 3 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se concentra no Hospital de Base Dr. Ary Pinheiro e seu atendimento a gestantes com covid-19, enquanto o chunk do texto parece ser um conjunto de links e informações sobre o governo do estado de Rondônia, incluindo detalhes sobre o Palácio Rio Madeira e as políticas de acesso ao público.'
+-----------------------
+[146] Chunk 0 | Resposta:
+is_relevant=True justify='A notú ço de vacina contra a COVID-19 no sistema Covax deve proteger cerca de 20% da populaÜló em países pobres. A desigualdade de acesso permanece inaceitável, com apenas 20% das pessoas em países de baixo e médio-baixo rendimento a receberem uma primeira dose de vacina, registo que compara com 80% em países de alto e médio-alto rendimento. A Covax conseguiu até agora distribuir apenas 243 milhóes de doses em 139 países pobres, segundo Ann Ottosen, membro da divisão de abastecimento do Fundo das Na×óes Unidas para a Infáncia (UNICEF), numa conferência de imprensa realizada hoje em Genebra. A maioria dos países do mundo já recebeu doses de Covax. Isto é apenas o começo, afirma Seth Berkley, CEO da Gavi. "Esperamos ter mais 1,1 milhóes de doses para entregar até ao final do ano", acrescentou.'
+-----------------------
+[146] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de informações sobre a produção global de vacinas antivirais, mortes e casos de covid-19 em diferentes países, enquanto o resumo se concentra na necessidade de permitir que 92 estados e territórios desfavorecidos recebam vacinas gratuitas financiadas por nações mais prósperas.'
+-----------------------
+[147] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre um ataque de morcegos-vampiros a uma fazenda em Anapu, Pará. O conteúdo é relevante para o resumo, que menciona um ataque de morcegos-vampiros deixando os moradores de uma área rural no estado de alerta.'
+-----------------------
+[148] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é diretamente relacionado ao resumo fornecido, pois ambos mencionam uma caso de vírus da West Nile em Placer County. Além disso, o texto fornece informações sobre como prevenir a transmissão do vírus, como usar repelentes com ingredientes EPA-registered e implementar as 3 Ds de proteção.'
+-----------------------
+[149] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um caso suspeito de Kala azar em Thrissur, enquanto o resumo se refere a um caso suspeito de black fever que requer investigações adicionais.'
+-----------------------
+[150] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de informações gerais sobre a SESAPI e seus serviços, sem qualquer menção ao tema da pandemia de Covid-19 ou às estatísticas de mortes no Piauí.'
+-----------------------
+[151] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de informações gerais sobre a SESAPI e seus serviços, enquanto o resumo se refere à retirada do estado do Piauí e da capital Teresina da zona de alerta referente a ocupação dos leitos de UTI adulta voltado para pacientes com Covid-19.'
+-----------------------
+[152] Chunk 0 | Resposta:
+is_relevant=True justify='O paciente Edilson Custodio da Silva foi o último a ser transferido para Rondônia e recebeu alta do Hospital de Base Dr. Ary Pinheiro em Porto Velho após 42 dias de tratamento contra a covid-19.'
+-----------------------
+[152] Chunk 1 | Resposta:
+is_relevant=False justify='Não há serviços cadastrados nesta categoria.'
+-----------------------
+[152] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se refere a um paciente que foi internado em diferentes hospitais devido à covid-19, enquanto o trecho do texto parece ser relacionado a serviços e processos administrativos oferecidos por uma empresa ou instituição governamental.'
+-----------------------
+[153] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute as taxas de ocupação de leitos de UTI para adultos no SUS e a melhora dessas taxas em todo o país. O texto também menciona os estados que estão fora da zona de alerta e aqueles que ainda estão na zona crítica ou intermediária, além de destacar a necessidade de interrupção de cadeias de transmissão por meio do avanço das campanhas de imunização.'
+-----------------------
+[154] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois discute a situação atual de ocupação de leitos em Mato Grosso do Sul e a classificação do Estado com a bandeira verde no mapa de leitos.'
+-----------------------
+[155] Chunk 0 | Resposta:
+is_relevant=True justify='O texto apresentado parece ser um conjunto de notícias sobre eventos específicos ocorridos no estado do Acre, Brasil. Ele inclui informações sobre a apreensão de dinheiro relacionada à lavagem de capitais por uma organização criminosa, um caso de homicídio cometido por uma adolescente contra sua tia, e um caso de parto de uma mulher em situação de rua na calçada de uma maternidade. Cada um desses eventos é uma notícia independente que pode ser relevante para diferentes públicos ou interesses.'
+-----------------------
+[155] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um caso específico de saúde em uma cidade do Acre, enquanto o resumo se refere a estatísticas sobre redução de internações hospitalares por Covid-19 nos estados do Acre, Amazonas e Pará.'
+-----------------------
+[156] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é relevante para o resumo fornecido porque menciona a situação de baixa umidade no estado de Goiás, Brasil, que está sendo considerada como uma alerta vermelha. O texto também destaca a importância da prevenção de incêndios florestais e danos à saúde em condições de baixa umidade.'
+-----------------------
+[157] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém uma notícia sobre um evento que ocorreu em Mato Grosso do Sul, Brasil. O texto menciona a morte de um homem na MS-446 e também aborda outros assuntos como o '
+-----------------------
+[157] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona a atuação do Corpo de Bombeiros de Mato Grosso do Sul em relação aos incêndios. Além disso, o conteúdo do trecho parece ser irrelevante para o tema abordado no resumo.'
+-----------------------
+[158] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a situação crítica de escassez de água em várias cidades do estado de São Paulo, Brasil, devido à estiagem e à falta de chuvas. A situação é grave, com muitas cidades sendo forçadas a adotar racionamento de água para evitar o desabastecimento. O texto também destaca os impactos ambientais e sociais da crise hídrica, incluindo a morte de peixes em um córrego devido à falta de água e a necessidade de medidas de conservação de água para evitar problemas futuros.'
+-----------------------
+[158] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos tratam sobre a situação de racionamento de água em várias cidades do interior de São Paulo e outras regiões do Brasil devido à estiagem. O trecho detalha as medidas adotadas para lidar com a falta de água, como o rodízio no abastecimento em algumas cidades, e destaca a importância do uso consciente da água.'
+-----------------------
+[159] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente de um novo decreto da Prefeitura de Maringá que permite a organização de eventos com até 200 pessoas. O conteúdo do trecho é semelhante ao resumo, mencionando a data de validade e as condições para a realização dos eventos.'
+-----------------------
+[160] Chunk 0 | Resposta:
+is_relevant=True justify='O texto menciona os ataques às Torres Gêmeas e ao Pentágono de 11 de setembro de 2021. O Brasil prestou solidariedade às vítimas, ao governo e à população dos Estados Unidos neste sábado, em nota sobre os 20 anos dos ataques.'
+-----------------------
+[160] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona os ataques às Torres Gêmeas e ao Pentágono de 11 de setembro de 2021. O conteúdo do trecho é mais relacionado a notícias gerais e políticas, sem qualquer conexão com o tema do resumo.'
+-----------------------
+[161] Chunk 0 | Resposta:
+is_relevant=True justify='O texto apresenta uma variedade de tópicos relacionados a saúde, prevenção e notícias do cotidiano em Campo Grande, MS. A dengue é mencionada como uma doença que pode ser evitada com medidas simples, como manter bem tampado tonéis, caixas e barris de água, e lavar semanalmente tanques utilizados para armazenar água. Além disso, o texto também aborda a importância da vacinação, destacando que toda pessoa pode ser vacinada nos postos de saúde, onde recebe um registro de controle da vacinação (cartão), podendo atualizar mais tarde a Caderneta de Vacinação.'
+-----------------------
+[161] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de notícias e eventos políticos e sociais, enquanto o resumo se concentra na importância da vacinação no Brasil.'
+-----------------------
+[162] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre a pandemia de COVID-19 no estado de Mato Grosso do Sul (MS), incluindo a classificação estadual, restrições e medidas de saúde.'
+-----------------------
+[162] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois menciona a situação da pandemia da covid-19 no estado de Mato Grosso do Sul, especificamente na Capital Campo Grande. O texto também destaca a variante em circulação e a classificação do Prosseguir, que é relacionada ao resumo. Além disso, o trecho apresenta informações sobre a situação dos casos confirmados e a resposta do governo do Estado.'
+-----------------------
+[163] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a campanha do projeto Valorização da Vida, que visa prevenir o suicídio e promover a saúde mental em Mato Grosso do Sul. A reportagem inclui declarações de pessoas afetadas pela doença, como Luis Ribas, pai de um rapaz que cometeu suicídio, e informações sobre recursos de apoio emocional disponíveis no estado.'
+-----------------------
+[164] Chunk 0 | Resposta:
+is_relevant=True justify="O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos mencionam a suspensão da vacinação devido à falta de doses da vacina de Oxford/AstraZeneca. Além disso, os tópicos principais como 'Falta de vacina' e 'Suspensão da vacinação' são mencionados em ambos os textos."
+-----------------------
+[165] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois menciona a situação atual da pandemia de Covid-19 no estado de Mato Grosso do Sul, incluindo números de casos confirmados, mortes e vacinação. Além disso, os tópicos principais como a vacinação e a situação epidemiológica estão presentes em ambos o resumo e o trecho do texto.'
+-----------------------
+[166] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a situação dos Yanomami e os problemas que enfrentam com a presença de garimpeiros. O artigo também menciona o pedido do Conselho Indígena para a exoneração do coordenador do Dsei-Y, Rômulo Pinheiro de Freitas, devido à sua falta de planejamento e gestão inadequada da saúde indígena.'
+-----------------------
+[166] Chunk 1 | Resposta:
+is_relevant=False justify='O texto não parece ser relevante para a pergunta ou tópico. Pode fornecer mais contexto ou informações sobre o que está sendo perguntado?'
+-----------------------
+[166] Chunk 2 | Resposta:
+is_relevant=True justify='O texto parece ser um índice de conteúdo para uma página web ou um site de notícias, listando vários títulos e categorias de artigos e programas. Não há informações específicas sobre o que o texto aborda ou como ele é relacionado a um problema específico.'
+-----------------------
+[166] Chunk 3 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona mortes de crianças indígenas por falta de socorro ou malária. Além disso, o conteúdo do trecho parece ser um link para uma página do site G1, que não está relacionado ao tema do resumo.'
+-----------------------
+[167] Chunk 0 | Resposta:
+is_relevant=True justify='El fenómeno de El Niño y La Niña tiene efectos significativos en el clima global, incluyendo cambios en las temperaturas, precipitaciones y patrones climáticos. Estos cambios pueden afectar la disponibilidad de agua, la productividad agrícola, la salud humana y la biodiversidad. En este contexto, es importante considerar los impactos económicos y sociales del fenómeno El Niño y La Niña en diferentes regiones del mundo.'
+-----------------------
+[167] Chunk 1 | Resposta:
+is_relevant=False justify='O texto apresentado não tem relação direta com o tema de variante Delta do coronavírus, que é o foco do artigo original. Além disso, a maior parte do conteúdo do texto parece ser notícias e informações gerais, sem uma conexão clara com o assunto.'
+-----------------------
+[168] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a falta de doses da vacina Astrazeneca para a segunda dose em vários estados do Brasil. O Ministério da Saúde informou que não deve quantitativo de segunda dose das vacinas Covid-19 a nenhum estado brasileiro.'
+-----------------------
+[168] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de soluções para negócios e assinantes, enquanto o resumo se refere a uma crise vacinal em várias cidades brasileiras.'
+-----------------------
+[169] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos se referem à morte de uma criança de 6 anos por Covid-19 em Corumbá. O resumo menciona que a Secretaria Municipal de Saúde de Corumbá confirmou a morte da menina, enquanto o trecho do texto apresentado fornece mais detalhes sobre a situação, incluindo a data da contratação da doença e a idade da vítima.'
+-----------------------
+[170] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a epidemia de sífilis no estado de Minas Gerais, com aumento nos casos registrados nas últimas semanas. A doença é transmitida sexualmente e pode causar morte se não for tratada. O levantamento feito pela Secretaria Estadual de Saúde (SES-MG) mostra que várias regiões do estado já têm mais de 70% dos casos registrados em todos os meses de 2020 apenas até agosto. Isso preocupa as autoridades de saúde, já que, no ritmo de contaminações atual, 2021 pode fechar com mais ocorrências do que o esperado.'
+-----------------------
+[170] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a sífilis e suas consequências, incluindo a importância do uso do preservativo, testes rápidos e tratamento precoce. Além disso, o texto menciona a coordenaadora estadual de IST/Aids e Hepatites Virais da SES-MG, Mayara Cristina Marques de Almeida, que destaca a necessidade de prevenção e tratamento adequado para evitar a transmissão da doença.'
+-----------------------
+[171] Chunk 0 | Resposta:
+is_relevant=True justify='O artigo é relevante porque aborda a data limite para o uso obrigatório de máscaras em Portugal.'
+-----------------------
+[171] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de anúncios e ofertas de produtos, enquanto o resumo se concentra em uma medida de saúde pública (uso obrigatório de máscara) e as consequências para quem não a seguir.'
+-----------------------
+[172] Chunk 0 | Resposta:
+is_relevant=True justify='O conteúdo é relevante para o usuário que está procurando por informações sobre a vacinação contra a covid-19 em Mato Grosso do Sul.'
+-----------------------
+[172] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado parece ser uma nota de imprensa ou um resumo de uma notícia, enquanto o resumo fornecido parece ser um relatório oficial sobre a situação da covid-19 em Mato Grosso do Sul. Os dois não têm relação direta, pois o primeiro se refere a uma notícia específica e o segundo é um relatório geral sobre a pandemia.'
+-----------------------
+[173] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da queda na transmissão da doença no Mato Grosso do Sul e dos números de casos e mortes registrados na semana. Além disso, o texto menciona a taxa de contágio e a ocupação de leitos, que são informações relevantes para entender a situação epidemiológica do estado.'
+-----------------------
+[174] Chunk 0 | Resposta:
+is_relevant=True justify='O suicídio é uma questão complexa e multifacetada, envolvendo aspectos biológicos, psicológicos, sociais e econômicos. A discussão sobre motivos para o suicídio e a possibilidade de vida após uma tentativa são fundamentais para entender a natureza desse fenômeno e desenvolver estratégias eficazes para prevenção e apoio às vítimas.'
+-----------------------
+[174] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois aborda a questão do suicídio entre jovens e populações indígenas no Estado de Mato Grosso do Sul. O texto menciona estatísticas sobre a prevalência de tentativas de suicídio em diferentes faixas etárias e grupos populacionais, além de destacar o trabalho do Grupo Amor Vida (GAV) que oferece apoio emocional gratuito para pessoas em crise.'
+-----------------------
+[175] Chunk 0 | Resposta:
+is_relevant=True justify="O texto apresenta uma variedade de tópicos relacionados ao estado do Acre, incluindo notícias sobre saúde indígena, morte de um lutador conhecido como 'Nó de Pau' e separação de um casal. O conteúdo é relevante para o público-alvo que está interessado em notícias locais e eventos específicos do estado."
+-----------------------
+[175] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a seca no Brasil. O conteúdo do chunk de texto é sobre uma história de vida de uma criança com doença grave e sua mãe, sem qualquer conexão com a seca ou o clima.'
+-----------------------
+[176] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes para a busca.'
+-----------------------
+[176] Chunk 1 | Resposta:
+is_relevant=True justify='O texto parece ser um conjunto de anúncios de jornais ou revistas brasileiras, listando as seções e os títulos dos artigos publicados em cada edição. A estrutura é organizada por região do país, com uma seção dedicada a Minas Gerais e outra a São Paulo, entre outras. O conteúdo parece ser relevante para quem busca informações sobre eventos, notícias e anúncios de jornais brasileiros.'
+-----------------------
+[176] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre um incêndio no Cerrado. O chunk do texto parece ser uma lista de notícias e programas da G1, sem qualquer conexão com o tema do resumo.'
+-----------------------
+[177] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é direcionado a um resumo que menciona uma ocorrência de terremoto em México, resultando na morte de pelo menos uma pessoa. O conteúdo do chunk do texto é idêntico ao resumo, incluindo informações sobre a magnitude do terremoto (7.1), a localização da epicentro e a região afetada.'
+-----------------------
+[178] Chunk 0 | Resposta:
+is_relevant=True justify='Aqui está a resposta: A notícia menciona que mais de 47 mil brasileiros são hospitalizados todos os anos devido à exposição ao poluição do ar causada por incêndios florestais. O artigo destaca o estudo publicado na revista The Lancet Planetary Health, que analisou os dados de hospitalizações relacionadas à poluição do ar causada por incêndios florestais em todo o Brasil entre 2000 e 2015. O estudo encontrou que a exposição ao poluição do ar causada por incêndios florestais é uma causa importante de hospitalização, com mais de 766 mil casos registrados durante esse período. A notícia também destaca as consequências ambientais e de saúde desses incêndios, incluindo o impacto na qualidade do ar, a poluição da água e a perda de biodiversidade.'
+-----------------------
+[179] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois ambos abordam a relação entre as poluições causadas por incêndios de florestas e a mortalidade humana. O texto detalha estudos que sugerem que a exposição curta à fumaça liberada pelos incêndios pode ser tão letal quanto os calores das ondas tópicas, com uma estimativa de 33.510 mortes globais relacionadas às poluições por incêndios de florestas entre 2000 e 2016.'
+-----------------------
+[180] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois menciona as fortes chuvas que atingiram o Rio Grande do Sul e geraram alertas para cidades do interior gaúcho. Além disso, o texto detalha a situação de inundação nas bacias do rio Uruguai e Caí, incluindo a subida dos níveis dos rios Ibirapuitã e Caí, respectivamente.'
+-----------------------
+[181] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes ou notáveis sobre um tema específico. Pode ser um artigo de jornal, uma notícia ou um texto genérico sem conexão com um assunto particular.'
+-----------------------
+[181] Chunk 1 | Resposta:
+is_relevant=True justify='O texto é relevante porque fala sobre um tremor de terra que ocorreu no estado do Amazonas e como ele foi registrado pela Rede Sismográfica Brasileira (RSBR) e confirmado pelo Serviço Geológico do Brasil (SGB/CPRM).'
+-----------------------
+[181] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de uma organização pública (Rede Sismográfica Brasileira) e não se refere ao terremoto ocorrido no município de Atalaia do Norte.'
+-----------------------
+[182] Chunk 0 | Resposta:
+is_relevant=True justify="O texto aborda a obesidade infantil e as medidas que o governo do Amazonas está tomando para combater esse problema. O artigo menciona que os dados do relatório foram extraídos do Sistema de Vigilância Alimentar e Nutricional (Sisvan) e do Sistema de Informação em Saúde para Atenção Básica (Sisab), utilizando como base os indicadores de monitoramento da Estratégia de Prevenção e Atenção à Obesidade Infantil (Proteja). Além disso, o artigo destaca a importância de entender que uma criança 'gordinha' não é uma criança saudável e que se esse quadro não for revertido, se tornará um adulto com doenças que podem ser prevenidas."
+-----------------------
+[182] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que se refere a um levantamento de obesidade infantil no município de Manaus. O conteúdo do texto é sobre notícias e eventos relacionados à administração municipal de Manaus, sem qualquer menção ao tema da obesidade infantil.'
+-----------------------
+[183] Chunk 0 | Resposta:
+is_relevant=False justify='O conteúdo não é relevante para o público-alvo do Campo Grande News.'
+-----------------------
+[183] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona a morte da menina de 6 anos ou a Síndrome Inflamatória Multissistêmica Pediátrica (SIM-P). O conteúdo do trecho parece ser um anúncio de jornal ou uma página de classificados, sem qualquer conexão com o tema apresentado no resumo.'
+-----------------------
+[184] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois ambos se referem ao alerta de chuva com granizo no sul de Mato Grosso do Sul e ao tempo seco de deserto no leste. Além disso, os elementos informativos como frases, palavras-chave e tópicos principais são consistentes entre o texto e o resumo.'
+-----------------------
+[185] Chunk 0 | Resposta:
+is_relevant=True justify='O diagnóstico precoce da doença aumenta as chances de cura em até 70%.'
+-----------------------
+[185] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre câncer infantojuvenil e suas características biológicas distintas em crianças e adolescentes. Além disso, o texto menciona a importância do diagnóstico precoce, tratamento adequado e exames específicos para identificar os subtipos de cada neoplasia.'
+-----------------------
+[186] Chunk 0 | Resposta:
+is_relevant=True justify='O texto parece ser uma lista de categorias e programas relacionados à saúde do estado do Paraná, Brasil. A lista inclui temas como prevenção de doenças, promoção da saúde, atenção primária à saúde, linhas de atenção à saúde, vigilância epidemiológica, programas de imunização, promoção da alimentação saudável e atividade física, entre outros.'
+-----------------------
+[186] Chunk 1 | Resposta:
+is_relevant=True justify='O texto aborda a situação da pandemia de COVID-19 no Paraná, incluindo as vacinações realizadas e a redução das mortes. Além disso, apresenta dados sobre a ocupação dos leitos de UTI e enfermaria, bem como o número de pessoas vacinadas com a primeira dose ou dose única do imunizante contra a Covid-19.'
+-----------------------
+[186] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a diminuição do número de casos confirmados de Covid-19 e a alteração das medidas restritivas. O conteúdo do trecho é mais relacionado a uma lista de tópicos de saúde pública e assistência farmacêutica, sem qualquer menção ao tema da pandemia ou medidas de combate ao vírus.'
+-----------------------
+[187] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois se trata da notícia sobre o Hospital Cassems de Campo Grande que conseguiu zerar pacientes internados com coronavírus após um ano e meio de pandemia.'
+-----------------------
+[188] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante para o assunto de vacinação contra a covid-19.'
+-----------------------
+[188] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois discute a vacinação contra a covid-19 no Mato Grosso do Sul e o número de pessoas que ainda precisam ser vacinadas para alcançar a marca de 100% de adultos vacinados com ao menos uma dose.'
+-----------------------
+[189] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da situação de mortes por coronavírus em Mato Grosso do Sul no mês de setembro. O texto menciona que a maioria dos municípios ainda não registrou nenhuma morte e apresenta uma lista de cidades que mais registraram óbitos na pandemia, incluindo Naviraí, Amambaí e Guia Lopes da Laguna.'
+-----------------------
+[190] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre a cidade de Campo Grande e seus eventos, notícias e anúncios.'
+-----------------------
+[190] Chunk 1 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute a vacinação contra a covid-19 em Campo Grande e destaca a preocupação com o índice de pessoas não vacinadas. Além disso, o trecho menciona a população de 18 anos ou mais, que é o grupo alvo do resumo.'
+-----------------------
+[191] Chunk 0 | Resposta:
+is_relevant=True justify='O texto apresenta uma análise detalhada sobre a importância da prevenção da sepse em hospitais e a implementação de protocolos para diagnosticar e tratar essa doença. Além disso, destaca os resultados positivos alcançados pelo Hospital Regional do Baixo Amazonas no controle da sepse, incluindo uma redução do número de mortes por sepse e a adesão de 98% dos profissionais ao protocolo de Sepse.'
+-----------------------
+[191] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não menciona a Sepse ou qualquer tema relacionado. O conteúdo do chunk é sobre um hospital que comemora a realização de 70 mil consultas em dois anos de inauguração e não está relacionado ao Dia Mundial da Sepse.'
+-----------------------
+[192] Chunk 0 | Resposta:
+is_relevant=True justify="O texto aborda a cobertura vacinal contra o coronavírus no Mato Grosso do Sul, destacando que 6,35% dos adultos ainda não compareceram sequer para tomar a primeira dose. Ainda conforme levantamento feito pelo Vacinômetro, as maiores cidades do Estado juntas corresponderiam a quase metade deste quantitativo. Em Campo Grande, a estimativa é de que 51,9 mil adultos acabaram 'fugindo' da vacinação. Em Dourados, o número de adultos que deixaram de vacinar é estimado em 3,6 mil pessoas. Em Corumbá, uma das cidades contempladas com a imunização em massa na fronteira, há 8,6 mil pessoas que recusaram a vacina. Em Três Lagoas, são 496 adultos que ainda não compareceram para vacinar."
+-----------------------
+[192] Chunk 1 | Resposta:
+is_relevant=True justify="O trecho do texto apresentado está relacionado ao resumo fornecido, pois discute a estratégia de 'passaporte da imunidade' como uma medida para combater o coronavírus. Além disso, o texto menciona a cidade de Chapadão do Sul, que já adotou essa estratégia, e o presidente do Comitê Gestor do Prosseguir, Eduardo Riedel, que defende a implementação dessa medida."
+-----------------------
+[193] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata da morte de uma criança por febre maculosa no estado do Rio de Janeiro e alerta os moradores de Mato Grosso do Sul sobre a presença de capivaras, símbolo do Estado, que são hospedeiros do carrapato-estrela transmissor da doença. Além disso, o texto destaca os sintomas e formas de prevenção da febre maculosa.'
+-----------------------
+[194] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois menciona o aumento de 444% das confirmações de arboviroses na cidade de Recife em comparação com 2020. Além disso, o texto também fornece informações sobre os bairros que estão com risco muito alto de infestação pelo Aedes e as consequências para a saúde pública.'
+-----------------------
+[195] Chunk 0 | Resposta:
+is_relevant=True justify='A notícia aborda a situação de saúde pública no estado de Minas Gerais, Brasil, especificamente o aumento do número de casos de dengue e outras doenças transmitidas pelo Aedes aegypti. Isso é relevante para os seguintes motivos:\n\n*   A dengue é uma doença significativa que afeta muitas pessoas em todo o mundo.\n*   O aumento do número de casos pode ter implicações graves para a saúde pública e a economia local.\n*   A notícia fornece informações atualizadas sobre a situação, o que é importante para os leitores que buscam estar informados sobre as últimas tendências em saúde pública.\n\nA notícia também aborda outras questões relacionadas à saúde pública, como a importância da prevenção e controle de doenças transmitidas pelo Aedes aegypti. Isso é relevante para os seguintes motivos:\n\n*   A prevenção e o controle de doenças são fundamentais para manter a saúde pública.\n*   As informações fornecidas na notícia podem ajudar os leitores a tomar decisões informadas sobre suas práticas de saúde.\n*   A notícia destaca a importância da cooperação entre as autoridades e a comunidade para combater a doença.\n\nEm resumo, a notícia é relevante porque fornece informações atualizadas sobre a situação de saúde pública no estado de Minas Gerais, aborda questões importantes como prevenção e controle de doenças transmitidas pelo Aedes aegypti, e destaca a importância da cooperação entre as autoridades e a comunidade.\n'
+-----------------------
+[196] Chunk 0 | Resposta:
+is_relevant=True justify='Ouvido ao resumo, o trecho do texto apresentado tem relação direta com a questão da importância de focar nos jovens em programas de TB, pois eles correm o risco de adoecer seriamente com a doença e espalhar a epidemia. Além disso, o texto destaca que os jovens têm redes sociais mais amplas e podem contribuir para a transmissão activa da tuberculosis em sua comunidade.'
+-----------------------
+[197] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da revogação do toque de recolher e do limite de horário para o funcionamento dos estabelecimentos comerciais na prefeitura de Três Lagoas. Além disso, os elementos informativos como frases, palavras-chave e tópicos principais são consistentes com o resumo fornecido.'
+-----------------------
+[198] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois trata especificamente da redução no número de óbitos por covid-19 no Hospital Regional de Mato Grosso do Sul. O texto menciona a vacinação e a redução de casos, o que é um tema central do resumo.'
+-----------------------
+[199] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da decisão da Prefeitura de Campo Grande de relaxar as restrições de público e aferição de temperatura em lugares fechados na Capital.'
+-----------------------
+[200] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois discute a necessidade da dose reforço para pessoas que tomaram a vacina de dose única. O texto também menciona as secretarias de Estado e Município que esclareceram que quem tomou a vacina da Janssen e está fora do grupo de idosos acima de 60 anos, não precisa tomar a dose reforço.'
+-----------------------
+[201] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois se trata de um plano nacional de testagem para o Novo Coronavírus em Campo Grande, que é mencionado no resumo como parte da estratégia nacional de triagem de casos da doença.'
+-----------------------
+[202] Chunk 0 | Resposta:
+is_relevant=False justify='O texto parece ser uma notícia de um acidente de trânsito envolvendo um veículo e uma pessoa, mas não há informações suficientes para que eu possa extrair um resumo relevante.'
+-----------------------
+[202] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, que fala sobre a Secretaria de Estado de Saúde do Acre (Sesacre) e o registro de novos casos de infecção por coronavírus. O conteúdo do chunk do texto é sobre um pedido do Ministério Público do Estado do Acre (MPAC) para que os médicos tenham autorização para retirar a tornozeleira eletrônica de reeducandos em caso de cirurgias, o que não está relacionado com o tema do resumo.'
+-----------------------
+[203] Chunk 0 | Resposta:
+is_relevant=False justify='O conteúdo não é relevante para o usuário atual.'
+-----------------------
+[203] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de informações sobre uma rede social e regras de comentários, enquanto o resumo se refere a uma medida de saúde pública (dose de reforço contra a covid-19) em um município brasileiro.'
+-----------------------
