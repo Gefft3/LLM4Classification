@@ -4,7 +4,6 @@ from collections import defaultdict
 import sys
 
 def load_data(text_sample_path, classification_results_path):
-
     df_text_sample = pd.read_csv(text_sample_path)
     with open(classification_results_path, 'r') as f:
         lines = [line.strip() for line in f.readlines()]
