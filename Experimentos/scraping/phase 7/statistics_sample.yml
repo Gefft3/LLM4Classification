@@ -1,0 +1,10 @@
+Total de amostras processadas: 20
+
+# Falsos são os resumos que não possuem relação com a notícia
+# Verdadeiros são os resumos que possuem relação com a notícia
+Total Falsos: 2
+Total Verdadeiros: 18
+
+# A questão 3 e 11 foram considerados falsos, pois não possuem relação com a notícia e foram classificados corretamente.
+Classificados como Falsos: 2 
+Classificados como Verdadeiros: 18

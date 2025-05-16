@@ -1,0 +1,96 @@
+[0] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois ambos mencionam a restrição no atendimento na emergência pediátrica do Hospital de Clínicas de Porto Alegre (HCPA) devido à superlotação. O trecho também fornece detalhes adicionais sobre a situação, como o número de pacientes atendidos e a estrutura para 13 leitos.'
+-----------------------
+[1] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata especificamente da vacinação contra a Poliomielite no município de Campo Grande e do resultado abaixo do esperado para o Dia D de vacinação. O trecho também menciona a baixa adesão à vacinação e a importância da vacinação para evitar a paralisia infantil.'
+-----------------------
+[2] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a detecção de um foco de Influenza Aviária de Alta Patogenicidade (H5N1) em mamíferos aquáticos na praia do Cassino, em Rio Grande, no litoral sul. O conteúdo do trecho inclui informações sobre o tipo de vírus identificado, a quantidade de animais afetados e as medidas de segurança recomendadas para a população.'
+-----------------------
+[3] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo se concentra na saúde mental dos adolescentes, enquanto o chunk do texto é sobre uma página bloqueada por um serviço de segurança da Cloudflare.'
+-----------------------
+[4] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém uma lista de notícias recentes em Campo Grande, MS.'
+-----------------------
+[5] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata da morte de uma mulher de 45 anos vítima da dengue em Teresina. O trecho também menciona a terceira morte registrada em 2022 e as medidas de prevenção recomendadas pela diretora de Vigilância em Saúde da FMS.'
+-----------------------
+[6] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois se trata de um boletim lançado pelo Cerest sobre a implantação do sistema de notificações de acidentes e doenças relacionados ao trabalho, o Sentinela. O conteúdo do texto é relevante para o resumo, pois menciona a publicação do boletim, a parceria com a Procempa e a importância da notificação de acidente de trabalho para a saúde pública.'
+-----------------------
+[7] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda o impacto do fenômeno climático La Niña na matriz elétrica brasileira e nas previsões de chuvas e seca nos diferentes regiões do país. A informação é relevante para os leitores que estão interessados em entender as implicações econômicas e ambientais dos fenômenos climáticos extremos.'
+-----------------------
+[7] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido sobre o fenômeno meteorológico La Niña. O conteúdo do chunk do texto é sobre notícias políticas, eleições e eventos internacionais, enquanto o resumo se concentra em impactos ambientais e econômicos da La Niña.'
+-----------------------
+[8] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado está diretamente relacionado ao resumo fornecido, pois menciona dois tremores de terra registrados pelas estações sismográficas operadas pelo Laboratório Sismológico da UFRN na região do município de São Miguel das Matas, no estado da Bahia. Além disso, o texto também fornece informações sobre o Laboratório Sismológico da UFRN e sua relação com a formação de alunos de graduação em Geofísica e de pós-graduação.'
+-----------------------
+[9] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque contém informações sobre a dengue em Blumenau.'
+-----------------------
+[9] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O conteúdo do trecho parece ser sobre a distribuição e atendimento de serviços de saúde, enquanto o resumo fala sobre mortes por dengue na cidade de Blumenau.'
+-----------------------
+[10] Chunk 0 | Resposta:
+is_relevant=True justify='The article discusses the challenges of rabies prevention in the Philippines and highlights the need for improved vaccination coverage and control strategies. The topic is relevant to the theme of sustainable development and public health, which is a key area of focus for Eco-Business.'
+-----------------------
+[10] Chunk 1 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois não aborda a doença viral mortal transmitida pela mordida de cães e outros animais. Além disso, o conteúdo do trecho parece ser um anúncio publicitário, enquanto o resumo é uma análise científica sobre a raiva.'
+-----------------------
+[11] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um problema de segurança da internet (bloqueio por Cloudflare) e não se refere à celulite infecciosa ou à situação da paciente.'
+-----------------------
+[12] Chunk 0 | Resposta:
+is_relevant=True justify='O texto aborda a situação de crianças reféns em conflitos armados, destacando a importância da cooperação internacional para garantir a segurança e o bem-estar dessas crianças. O texto também destaca a necessidade de proteger os direitos humanos das crianças em situações de conflito.'
+-----------------------
+[12] Chunk 1 | Resposta:
+is_relevant=True justify='O texto parece ser uma lista de canais de TV brasileiros organizados por região.'
+-----------------------
+[12] Chunk 2 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de uma lista de programas e canais da Globo, enquanto o resumo se refere a um boletim epidemiológico sobre arboviroses no Brasil.'
+-----------------------
+[13] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de um serviço de encurtamento de links e não se refere a um evento ou notícia relacionada ao Hospital Infantil 1.'
+-----------------------
+[14] Chunk 0 | Resposta:
+is_relevant=False justify='O texto não fornece informações relevantes ou úteis sobre o assunto solicitado. O conteúdo parece ser uma lista de notícias sem um foco específico ou análise a ser feita.'
+-----------------------
+[14] Chunk 1 | Resposta:
+is_relevant=False justify='O texto não parece ser relevante para a pergunta ou tópico apresentado.'
+-----------------------
+[14] Chunk 2 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois menciona um surto de sarna humana (escabiose) detectado na rede pública de Araçatuba, que é uma cidade mencionada no resumo.'
+-----------------------
+[15] Chunk 0 | Resposta:
+is_relevant=True justify="O trecho do texto apresentado tem relação direta com o resumo fornecido, pois descreve um estudo realizado pela Fiocruz sobre a saúde mental dos profissionais da saúde durante a pandemia de Covid-19. O texto também menciona a publicação de uma cartilha intitulada 'Cuidando-se', que visa facilitar a busca por apoio psicossocial para os trabalhadores da saúde."
+-----------------------
+[16] Chunk 0 | Resposta:
+is_relevant=False justify="O conteúdo não é relevante para a busca 'notícias de hoje em Minas Gerais'."
+-----------------------
+[16] Chunk 1 | Resposta:
+is_relevant=False justify='O texto não parece ser relevante para a questão ou tópico solicitado.'
+-----------------------
+[16] Chunk 2 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado é relevante para o resumo fornecido, pois menciona um caso de raiva humana em uma menina indígena de 12 anos internada no Hospital Infantil João Paulo II. O trecho também destaca que esse é o segundo caso da doença nos últimos 10 anos e que o primeiro caso confirmado foi do indígena Zelilton Maxacali, que não resistiu à doença.'
+-----------------------
+[17] Chunk 0 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido, pois trata de informações sobre a pengeluaran do Togel Hongkong e não sobre uma crise de infestação de ratos em Nova York.'
+-----------------------
+[18] Chunk 0 | Resposta:
+is_relevant=True justify='O trecho do texto apresentado tem relação direta com o resumo fornecido, pois trata sobre a notícia atual sobre a vacinação contra a covid-19 e a política de saúde no Brasil. O texto menciona a vacinação como uma medida importante para combater a pandemia e destaca a importância da vacinação para proteger a saúde pública.'
+-----------------------
+[19] Chunk 0 | Resposta:
+is_relevant=True justify='O texto é relevante porque aborda a decisão do Governo de Rondônia de não obrigar o uso de máscaras em locais abertos e fechados no Estado, devido às atuais condições sanitárias.'
+-----------------------
+[19] Chunk 1 | Resposta:
+is_relevant=True justify='O texto apresentado parece ser um artigo de jornal que discute a situação atual do estado de Rondônia no Brasil, abordando temas como saúde pública, desenvolvimento econômico e ações governamentais. O foco está na redução da contaminação por covid-19 nos últimos dias, com mais curas do que contaminações, além de uma diminuição significativa nos casos ativos e exames para detecção do vírus no sistema de saúde do estado.'
+-----------------------
+[19] Chunk 2 | Resposta:
+is_relevant=False justify='Não há serviços cadastrados nesta categoria.'
+-----------------------
+[19] Chunk 3 | Resposta:
+is_relevant=False justify='O trecho do texto apresentado não tem relação direta com o resumo fornecido. O resumo fala sobre uma medida do Governo de Rondônia relacionada à covid-19, enquanto o trecho do texto é um edital de seletivo para um concurso público.'
+-----------------------
